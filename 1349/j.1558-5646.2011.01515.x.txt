@@ -1,0 +1,270 @@
+         ORIGINAL ARTICLE
+HOW DEPRESSED? ESTIMATES OF INBREEDING EFFECTS DURING SEED DEVELOPMENT DEPEND ON REPRODUCTIVE CONDITIONS
+Lawrence D. Harder,1,2 Nina Hobbhahn,1,3 and Shane A. Richards4
+1Department of Biological Sciences, University of Calgary, Calgary, Alberta, T2N 1N4, Canada
+2E-mail: harder@ucalgary.ca
+4School of Biological and Biomedical Sciences, Durham University, South Road, Durham, DH1 3LE, United Kingdom
+Received July 5, 2011
+Accepted October 27, 2011
+Data Archived: Dryad: doi:10.5061/dryad.0vf86nb1
+Inbreeding depression can reduce the performance of offspring produced by mating between relatives, with consequences for population dynamics and sexual-system evolution. In flowering plants, inbreeding depression commonly acts most intensely during seed development. This predispersal component is typically estimated by comparing seed production following exclusive selfand cross-pollination, but such estimates are unbiased only if seed production is limited by ovule availability, rather than by pollen receipt or seed-development resources. To overcome this problem, we propose experimental and statistical methods based on a model of ovule fertilization and seed development that accounts for differential fertilization by selfand cross-pollen, limited ovule viability or receptivity, differential survival of selfand cross-zygotes and limited resource availability. Simulations illustrate that the proposed methods eliminate bias in estimated predispersal inbreeding depression caused by pollen limitation and can improve estimates under resource limitation. Application of these methods to two orchid species further demonstrates their utility in identifying and estimating diverse influences on reproductive performance under typical conditions. Although our theoretical results raise questions about the reported intensity of predispersal inbreeding depression, our proposed methods guard against bias while also providing insight into plant reproduction.
+KEY WORDS: Inbreedingdepression,ovulelimitation,pollenlimitation,pollentube,resourcelimitation,seedproduction.
+Limited performance by inbred individuals compared to outbred individuals, or inbreeding depression, centrally influences population viability, especially in small populations (Frankham et al. 2002; O’Grady et al. 2006), and the evolution of mating and sexual systems (Lande and Schemske 1985). Inbreeding depression occurs when population gene pools carry genetic load, because mating between relatives increases the incidence of homozygosity, thereby reducing the chance of beneficial effects
+3Present address: School of Biological and Conservation Sciences, University of KwaZulu-Natal, P. Bag X01 Scottsville, Pietermaritzburg 3209, South Africa.
+of heterosis and/or increasing the opportunity for the expression of deleterious recessive alleles (Charlesworth and Charlesworth 1999; Charlesworth and Willis 2009). Because the likelihood of homozygosity increases with the relatedness of mates, inbreeding depression is particularly relevant in populations of hermaphroditic individuals that are capable of self-mating, such as many flowering plants (Schemske and Lande 1985; Barrett 2010). Although inbreeding depression can occur throughout the life cycle, it seems to act particularly strongly soon after fertilization as recessive lethal alleles are expressed in newly formed zygotes and/or embryos (Husband and Schemske 1996). This heterogeneity in the expression of inbreeding depression introduces diverse
+doi:10.1111/j.1558-5646.2011.01515.x
+ ⃝C 2011 The Author(s). Evolution ⃝C 2011 The Society for the Study of Evolution. 1 3 7 5 Evolution 66-5: 1375–1386
+
+         LAWRENCE D. HARDER ET AL.
+evolutionary opportunities, including the selection of adaptive mixtures of selfand cross-mating (Harder et al. 2008). Given the significance of predispersal (early-acting) inbreeding depression, informative studies of plant mating systems depend on accurate estimates of its intensity.
+Since Darwin (1876), studies of inbreeding depression in flowering plants have relied on what has become a standard experiment, namely to compare the performance of offspring from fruits produced following exclusive selfor cross-pollination (applied liberally), often involving a paired design with both treatments on individual plants (see references in Kelly 2005). Relevant performance measures for assessing predispersal inbreeding depression include fruit and seed production, and seed mass (see Husband and Schemske 1996): we focus on seed production. If aborted and successful embryos could be identified as either inbred or outcrossed (e.g., Rigney 1995), inbreeding depression could be assessed straightforwardly based on survival from ovule fertilization to mature seed. However, this is typically not possible, and instead postfertilization success is usually inferred simply from seed production (Charlesworth and Charlesworth 1987; Husband and Schemske 1996). Specifically, if selfand cross-pollination result in S ̄ s and S ̄ x seeds, on average, then predispersal inbreeding depression is estimated as
+S ̄
+δ ̃=1−s. (1)
+S ̄ x
+This simple experiment can introduce either of two factors that can interfere with estimation of inbreeding depression. On one hand, if insufficient pollen is applied to stigmas to maximize ovule fertilization of both selfand cross-pollinated flowers, δ ̃ includes the effects of both differential pollen performance prior to fertilization and differential survival of zygotes to become viable seeds. Only the latter component represents inbreeding depression of new sporophytes, so if self-pollen fertilizes ovules less successfully than cross-pollen, predispersal inbreeding depression will be overestimated. On the other hand, more complete ovule fertilization introduces the possibility that seed production is limited by the availability of maternal resources, rather than by the genetic potential of the developing seeds. This circumstance will cause underestimation of predispersal inbreeding depression; in the extreme giving the impression of no inbreeding depression, regardless of its intensity, when both selfed and crossed fruits are resource limited. Thus, the standard approach estimates predispersal inbreeding depression accurately only if seed production is ovule limited, rather than either pollen or resource limited. This requirement raises questions about the reported incidence and severity of predispersal inbreeding depression for flowering plants, as such studies typically do not assess the limit(s) on seed production. It also exposes the need for
+experimental and statistical methods that allow accurate estimation of predispersal inbreeding depression, regardless of whether seed production is ovule limited. In this article, we develop an appropriate method based on theoretical consideration of the processes that govern seed production from pollination until seed dispersal, which we assess with simulations and illustrate with two empirical examples.
+Model of Fertilization and Seed Production
+The proportion of a flower’s ovules that become viable seeds depends on the flower’s pollen receipt, the mixture of selfand crosspollen, the relative survival of selfversus cross-pollen tubes, the relative survival of selfversus cross-fertilized embryos, and the availability of resources for seed development. Suppose that a fraction 0 ≤ x ≤ 1 of the P pollen grains on a flower’s stigma(s) is cross-pollen and the remainder, 1 − x, is self-pollen, and that proportions tx and ts of the crossand self-pollen grains, respectively, produce pollen tubes that have the capacity to fertilize the O ovules in the ovary (tx ≥ ts) (see Table 1 for a summary of all parameter definitions). According to this characterization, the proportion of ovules that is fertilized when fertilization is pollen or ovule limited, respectively, is
+⎧
+⎨P[xtx+(1−x)ts], ifP(xtx+[1−x]ts)<vO; f=⎩O
+  v, otherwise, (2)
+where v ≤ 1 is the proportion of ovules that is receptive and viable (the thin black line and gray line in Fig. 1A represent these respective conditions). As explained below, it will often be convenient to consider α = Pts/O, rather than P, O, and ts separately: accordingly, pollen limitation following pure self-pollination (x = 0) requires α < v (Fig. 1A). When fertilization is ovule limited, we assume that selfand cross-pollen tubes fertilize ovules in proportion to their relative abundances in the ovary. Regardless of whether all receptive ovules are fertilized, the proportion of zygotes fertilized by cross-pollen is
+z= xtx . (3) xtx +(1−x)ts
+If gs and gx are the proportions of selfand cross-zygotes, respectively, with the genetic capacity to develop into seeds, and sufficient resources are available to develop an average fraction, m, of the original ovules into seeds, then the proportion of fertilized ovules that develop is
+ ⎧ ⎪⎨gxz+gs(1−z),
+d = ⎪⎩ m , f
+if [gxz+gs(1−z)] f <m; otherwise. (4)
+  1376 EVOLUTION MAY2012
+
+         ESTIMATION OF PREDISPERSAL INBREEDING DEPRESSION
+Table 1. Definitions of parameters and variables used to model seed production, baseline parameter values used in the simulation models, and parameter estimates (approximate 95% CI calculated by the delta method) for Disa ophrydea and D. ferruginea. Parameters are listed chronologically with respect to their influence on seed production and inbreeding depression, with lowercase symbols representing proportional parameters, and uppercase symbols representing counts. Blank cells indicate model parameters and variables that were not included explicitly in the simulations and/or fit during statistical analysis. Two equally feasible results are presented for
+D. ferruginea: the first represents exclusive pollination limitation (AIC = 1786.6: Fig. 3D–F, solid curves), whereas ovule limitation for flowers subject to larger proportions of cross-pollen (AIC = 1785.8: Fig. 3D–F, dashed curves).
+the second represents
+ Parameter
+P
+x
+ts, tx
+O
+α
+β
+v
+f, F z
+φF σ2F m gs gx
+d
+s
+Ss, Sx φD
+σ2D δ
+Definition
+Number of pollen grains received by a stigma
+Proportion of cross-pollen
+Proportions of selfand cross-pollen grains
+capable of fertilizing ovules
+Ovule number
+Proportion of pollen on stigmas per ovule
+that can fertilize ovules following
+self-pollination,ts P ̄ /O ̄
+Ratio of survival of crossto self-pollen until
+ovule fertilization (tx/ts) Proportion of viable ovules
+Proportion and number of fertilized ovules Proportion of zygotes fertilized by
+cross-pollen
+Among-flower variation in ovule fertilization
+Among-plant variance in ovule fertilization
+Average proportion of ovules that can mature into seeds given available resources
+Proportion of selfed zygotes that develop into seeds
+Proportion of outcrossed zygotes that develop into seeds
+Proportion of zygotes that develop into seeds
+Proportion of ovules that become seeds Numbers of selfed and outcrossed seeds Among-flower variation in seed development
+Among-plant variance in seed development Inbreeding depression (actual, estimated) Standard estimate of inbreeding depression
+value(s)
+0.43, 1
+2 0.9
+0.1 0.2 0.6, 1 0.4 0.8
+0.1 0.2 0.5
+0.515 0.375–0.654
+1.81 1.16–2.47 0.775 0.678–0.872
+0.183 0.112–0.253 0.806 0.083–1.530 11
+0.376 0.233–0.518 0.868 0.790–0.946
+0.345 0.206–0.484 0.498 −0.112–1.108 0.567 0.405–0.730
+Simulation Disa
+Disa ophrydea ferruginea
+11 0.545 0.409–0.681
+2.15 1.49 0.33–3.97 1.15–1.83 0.981 11 0.975–0.987
+0.014 0.195 0.007–0.022 0.122–0.268 0.204 0.750 −0.070–0.477 0.068–1.433 11 11
+0.322 0.389 0.235–0.408 0.246–0.532 0.718 0.872 0.635–0.800 0.795–0.948
+0.078 0.350 0.048–0.108 0.209–0.491 0.212 0.492 0.001–0.422 −0.116–1.100 0.552 0.554 0.443–0.661 0.391–0.717 0.544 0.832 0.404–0.684 0.750–0.914
+           ∼δ
+1Estimate at maximum boundary; fixed at 1 for final analysis.
+ Seed development is fertilization limited (by either pollen or ovules) in the first case and resource limited in the second (the dashed black line and gray line in Fig. 1B represent these respective conditions). Consequently, the proportion of all ovules that become seeds is s = fd, or
+⎧⎪ P
+⎪⎨ O[xtxgx+(1−x)tsgs], if pollen limited;
+ s =
+⎪ v ⎪
+xtg +(1−x)tg
+x x s s , if ovule limited; (5)
+if resource limited
+ ⎪⎩ m,
+xtx +(1−x)ts
+ EVOLUTION MAY2012 1377
+
+         LAWRENCE D. HARDER ET AL.
+A
+Table 2. Bias (δˆ − δ) expected for estimates of predispersal inbreeding depression (δ) based on a comparison of seed production following pure selfand cross-pollination (δˆ: eq. 1) for all possible combinations of seed-production limits. The bias realized in a specific study will represent a weighted average of bias components, depending on the variation in seed-production limits among selfed fruits and/or among outcrossed fruits.
+       Limits on seed production
+             pollen
+ovules
+Selfed fruits Pollen
+Ovules Resources
+Outcrossed fruits Pollen
+Ovules
+Resources
+Ovules Resources
+Resources
+Bias (1−ts)(1−δ)
+tx
+(1−Pts)(1−δ) vO
+(1−Ptsgx)(1−δ) mO
+0
+(1− vgx )(1−δ)
+m
+          01
+  B
+        −δ
+                                               pollen
+ovules
+resources
+(thin black line, dashed black line and gray line in Fig. 1C represent these respective conditions). Note that under resource limitation seed production is unaffected by the genetic performance of zygotes.
+The estimation problem is to quantify predispersal inbreeding depression,
+δ = 1 − gs (6) gx
+under all of these circumstances. Substitution of equation (5) into equation (1) reveals that the standard experimental comparison of seed production following exclusive self-pollination (i.e., x = 0) and cross-pollination (i.e., x = 1), estimates δ without bias only when seed development is ovule limited for all outcross fractions (e.g., based on endpoints of solid black line in Fig. 1C). In other cases, the bias associated with δ ̃ ranges from −δ (i.e., δ ̃ = 0) when resource limitation affects both selfand cross-pollinated fruits, to (tx − ts)(1 − δ)/tx under universal pollen limitation (Table 2). As illustrated in Table 2, the absolute bias in a given reproductive environment is greatest when inbreeding depression is weak (i.e., 1 − δ is large), except when resource availability universally limits seed production.
+Experimental Approach
+In addition to revealing that simple comparison of seed production by selfed and outcrossed flowers cannot provide accurate estimates of predispersal inbreeding depression under all circumstances, the preceding model suggests an experimental procedure that can provide the necessary information. This procedure involves two components. First, a range of known mixtures of selfand cross-pollen (e.g., 0%, 25%, 50%, 75%, and 100%
+              01 C
+                                         Seeds per ovule, s
+Proportion of Proportion of successful zygotes, d fertilized ovules, f
+          pollen 01
+Proportion of outcross pollen, x
+ovules
+resources
+            Expected relations of (A) the proportion of fertilized ovules (f; eq. 2), (B) the proportion of zygotes that develop into seeds (d; eq. 4), and (C) the proportion of ovules that develop into seeds (s; eq. 5) to the proportion of cross-pollen received by stigmas, x (solid black lines). Gray lines identify upper limits imposed by the proportion of viable ovules (A) and the resources available for seed development (B and C). Thin solid lines (A and C) indicate potential based on the number of pollen tubes entering the ovary, and thin dashed lines indicate potential based on ovule number (C) or ovule fertilization (B). Dotted vertical lines separate the indicated limits on performance.
+F i g u r e
+1 .
+ 1378 EVOLUTION MAY2012
+
+         cross-pollen) should be applied to stigmas. Such mixtures could be prepared by combining different numbers of anthers from the same and different plants, for example. Inclusion of mixtures allows detection of the plateau in ovule fertilization at higher proportions of cross-pollen expected when fertilization is ovule limited (Fig. 1A), and/or the plateau in seed production that would indicate resource limitation in predominately outcrossed fruits (e.g., Fig. 1C). Importantly, only the fertilization-limited portion of the relation of zygote survival to the fraction of outcross pollen (see Fig. 1B) provides necessary information about gs and gx. Ideally, all pollen mixtures should be applied randomly to different flowers on the same plant (i.e., randomized block design with plants as blocks) to allow isolation of pollination effects from variation associated with differences among maternal plants, although this is not essential. Second, rather than saturated pollination, pollen should ideally be applied more sparingly to stigmas for two reasons. Of prime importance for the estimation of inbreeding depression is the benefit of avoiding resource limitation of seed development, which obfuscates information about the genetic survival of at least cross-zygotes, gx. An additional benefit of imposing weak pollen limitation is that it enhances confidence in estimates of the fertilization success of cross-pollen relative to self-pollen (tx/ts, see below). When fertilization is instead ovule limited, this differential cannot be assessed directly, but must be inferred from the curvature in the relation of the fraction of zygotes that become seeds to the fraction of cross-pollen applied to stigmas (see Fig. 1B). These problems can be avoided by imposing pollen limitation of ovule fertilization by hand-pollinating stigmas with only two to three times more pollen grains than the number of ovules per ovary (dose–response experiments indicate that this pollination intensity commonly results in fertilization of about half of a flower’s ovules: Mitchell 1997; Aizen and Harder 2007). If self-pollen fertilizes less successfully than cross-pollen, pollen limitation will be evident from a positive relation between the proportion of fertilized ovules and the proportion of crosspollen (e.g., thin solid line in Fig. 1A).
+As we describe below, this experimental approach provides the information necessary to estimate the parameters of equation (2), which describes ovule fertilization, and equation (4), which describes the development of fertilized zygotes, enabling unbiased estimation of predispersal inbreeding depression. Specifically for fruit j on plant i produced by pollination with a known mixture of selfand cross-pollen, it is necessary to count the Fij fertilized ovules (i.e., sum of aborted and developed seeds) and the Sij seeds from at least a random sample, Nij, of the Oij ovules. Although these sample counts are sufficient for parameter estimation, its accuracy increases if the numbers of pollen grains applied to each stigma (Pij) and ovules in the ovary (Oij) are incorporated in the analysis. In the absence of this extra information,
+model fitting can proceed based on the assumption that Pij and/or Oij are constant across replicates. With counts of at least Fij and Sij for fruits produced with different pollen mixtures, xij, parameters ts, tx, v, gs, gx, and m remain unknown and must be estimated.
+Fitting the Model to Data
+The seed development model could be fit to data using methods based on either maximum likelihood, or Bayesian perspectives. We adopt the former approach, based on the expectation that prior measurements of the 10 parameters, especially gs and gx, will seldom be available: given uninformed priors, both approaches yield identical estimates (McCarthy 2007). In general, analysis of data from the proposed experiment is based on the probability that the Nij sampled ovules produced Sij seeds, given that Fij of the sampled ovules were fertilized,
+Pr(Sij, Fij | Nij) = Pr(Fij | Nij, fij) Pr(Sij | Fij, dij) (7)
+(Fig. 1A–C, respectively, depict the relations of these probabilities to the proportion of cross-pollen). If all flowers are identical, then both probabilities on the right-hand side of equation (7) should follow binomial distributions, Bin(k | n, q), for the probability of observing k successes from n trials when success occurs with probability q. Consequently,
+Pr(Sij, Fij | Nij) = Bin (Fij | Nij, fij)Bin (Sij | Fij, dij).
+This approach can be modified to account for the possibility that flowers differ in the per-ovule probability of ovule fertilization and per-zygote probability of seed development owing to the effects of unmeasured covariates. Generically, this would be equivalent to the probability of success, q, for a binomial distribution varying, for example, according to a beta distribution with parameter φ representing this extra variation. The result is a beta-binomial distribution, denoted BB(k | n, q, φ). With this modification, the probability of the data from ovary j on plant i is given by
+Pr(Sij, Fij | Nij) = BB(Fij | Nij, fij,φF)BB(Sij | Fij,dij,φD),
+where φF and φD describe among-ovary variation in fertilization and seed development probabilities, respectively (see Appendix). In practice, the number of pollen grains on stigmas (Pij) and/or total ovule number (Oij) may be unknown, so the pollenlimited alternative of equation (2) could involve up to four unknown parameters (P, O, ts, and tx), which is more than can be fit independently, given that only two parameters are required to describe the straight line described by the first condition of equation (2). This problem can be resolved by instead estimating
+ESTIMATION OF PREDISPERSAL INBREEDING DEPRESSION
+ EVOLUTION MAY2012 1379
+
+         LAWRENCE D. HARDER ET AL.
+α = Pts/O and β = tx/ts, in which case equation (2) becomes ⎧⎨α[βx+1−x], ifα(βx+1−x)<1;
+f=⎩
+Back-transformation of λi , produces
+π′i = exp(λi) ,
+1+exp(λi)
+which incorporates unique variation among plants, but retains the boundedness required for a proportion. We represent such transformation of πi into π′ i as T [πi , ui ]. With this transformation to accommodate among-plant variation, the likelihood of the model becomes:
+ =
+􏰗􏰗
+(lnBB[Fij |Nij, fij,φF]+lnBB[Sij |Fij,dij,φD]). (8)
+I Ji
+where ND(u; 0, σ2π) is the probability density function for the normal distribution with mean 0 and variance σ2π, and θ now includes σ2F and σ2D as unknown parameters that must be estimated. The necessary procedures for maximum-likelihood estimation based on equations (8) and (9) can be implemented with a statistical routine for fitting nonlinear mixed models (e.g., proc nlmixed in SAS, or nlmer {lme4} in R). Sample SAS code and a general strategy for the application of these methods are provided as Supporting information.
+The model of among-plant variation in seed development described above depicts general variation in the proportion of fertilized ovules that develop into seeds, d (eq. 4): other models are possible, which could represent different causes of among-plant variation. For example, transformation T [πi , ui ] could be applied separately to gs and gx, allowing for different variation in survival by the more homozygous self-zygotes and the more heterozygous cross-zygotes, respectively. However, such an analysis for Disa ophrydea, one of the examples presented below, found the general model fit the data better (Akaike’s Information Criterion [AIC] difference = 11.1), so we do not consider this alternative further in this article.
+In practice, some of the 10 parameters in θ are unnecessary or cannot be estimated and must be eliminated or fixed at specific values. When ovaries contain only single ovules, only binomial variation among flowers is possible, so model fitting should not consider the beta-binomial distribution. In other cases, α, β, v, and/or m are irrelevant (e.g., v and m under exclusive pollen limitation) and should be set to 1. Identification of which parameters are considered free to be estimated and which are fixed or unknowable requires the application of model-selection methods, such as AIC (see Supporting information). Given estimates of gs and gx from the selected best model(s), predispersal inbreeding can be
+i=1 j=1
+v, otherwise.
+If P or O are known and included in the analysis, the characterization (and interpretation) of α can be simplified accordingly. With this change of parameters, the fraction of zygotes that is outcrossed (eq. 3) becomes
+z= βx . βx + 1 − x
+For beta-binomial variation among flowers in both ovule fertilization and seed development, the modified model includes up to eight parameters that must be estimated from the data, denoted θ = {gx, gs, α, β, v, m, φF, and φD}. The likelihood of estimates of these unknowns, given the data from ovary j on plant i, is
+L(θ|Sij,Fij,Nij)=BB(Fij|Nij, fij,φF)BB(Sij|Fij,dij,φD). Summed over the Ji flowers on all I sampled plants, the total
+log-likelihood is L L (θ|data)
+L (θ|data)
+I􏰮∞ Ji
+ This characterization allows estimation of θ with standard maximum-likelihood techniques if each ovary is sampled from a different plant.
+This approach could lead to uncertain and possibly biased parameter estimates if plants differ extensively in their capacity for ovule fertilization and seed development. Importantly, the magnitude of inbreeding depression can vary among plants for various genetic reasons, notably including a plant’s load of deleterious alleles (Kelly 2005). The recommended randomized block design alleviates this problem by allowing estimation of amongplant variation in fertilization and seed production, although it complicates analysis somewhat. In the examples that follow we used the following approach to accommodate among-plant variation. Let π represent a proportion, specifically either the fraction of fertilized ovules (f) or the fraction of those ovules that develop into seeds (d), which is necessarily bounded by 0 and 1. Logit-transformation of π, λ = ln(π/[1 − π]), produces an unbounded variable. Suppose that plants differ in the value of λ so that λi = λ ̄+ ui, where ui represents the unique deviation of plant i from the overall mode, λ ̄ , and that ui varies among plants according to a normal distribution with mean 0 and variance σ2π.
+=
+􏰢􏰚2􏰛􏰢
+ND ui;0,σF BB(Fij |Nij,T[fij,ui],φF)dui
+j=1 􏰚 􏰛􏰢i
+i=1 ui=−∞
+􏰮∞ J
+×
+ND ui;0,σ2D BB(Sij |Fij,T[dij,ui],φD)dui, ui=−∞ j=1 (9)
+ 1380 EVOLUTION MAY2012
+
+ estimated according to equation (6), with δˆ and its confidence intervals estimated using either the delta method (Cox 1998) or ideally the profile likelihood method (Venzon and Moolgavkar 1988: this requires model reformulation to estimate δˆ directly).
+Examples
+We illustrate the effectiveness of the proposed analysis approach
+with both a series of simulations for which all parameters are
+known and empirical examples from two field studies. The sim-
+ulations generated the fates of 30 ovules in each of five flowers
+pollinated with fractions x = 0, 0.25, 0.5, 0.75, and 1 of out-
+cross pollen for each of 20 plants. Population expectations for
+ovule fertilization and seed development were determined with
+equations (2)–(5) for the baseline parameters presented in
+Table 1, which result in δ = 0.5. Among-plant variation
+was introduced by randomly generating two normal variates
+for each plant, u and u both having mean 0, but disF D,
+tinct variances σ2F and σ2D, and subsequently applying transformation T [πi , ui ]. Among-flower variation in fertilization and seed development outcomes was then introduced with random sampling from beta-binomial distributions with φF and φD. We simulated 10 samples for each of four conditions that differed according to whether stigmas received limited (P = 130) or abundant pollen (P = 300), and whether plants had sufficient resources to develop all ovules into seeds (m = 1) or only 60% (m = 0.6), on average. We then fit models to the data from each simulation that differed in their assumptions regarding differential pollen performance (β = 1, or > 1), ovule viability (v < 1, or = 1), and resource limitation (m < 1, or = 1), using proc nlmixed in SAS (version 9.2; SAS Institute Inc. 2009: for details see Supporting information). For the best-fitting model, as identified by AIC (Richards 2008), we estimated δˆ based on the estimates of gs and gx (eq. 6). We also used the seed production associated with exclusive selfand cross-pollination from the simulated data to estimate inbreeding depression according to the standard approach (δ ̃: eq. 1).
+The simulations illustrate the unreliability of δ ̃ as a measure of predispersal inbreeding depression and the generally superior performance of the proposed experimental and statistical procedures (Fig. 2). As expected, pollen limitation of ovule fertilization causes δ ̃ to overestimate δ consistently, regardless of the potential for resource limitation of seed development (Fig. 2, pollen/fertilization and pollen/resource simulations). The dominant effect of pollen limitation in our simulation, regardless of resource availability, arises because often insufficient ovules are fertilized to exceed the resource capacity for development (hence resource limitation [i.e., m < 1] was detected in only six of the 10 pollen/resource simulations). In contrast, when adequate pollen receipt causes fertilization to be ovule limited, resource
+δˆ δ~
+ESTIMATION OF PREDISPERSAL INBREEDING DEPRESSION
+of δ
+Estimates
+δ ̃ (eq. 1), and the approach proposed in this article, δˆ (eq. 6), for 40 simulations under combinations of pollen or ovule limitation of ovule fertilization (first row of abscissa labels) and limitation of seed development by fertilization (by pollen or ovules) or resources (second row of abscissa labels). A–D identify the effects of the proportion of outcross pollen on the proportion of fertilized ovules (f, see eq. 2), the proportion of fertilized ovules that develop into seeds (d, see eq. 4), and the proportion of all ovules that develop into seeds (s, see eq. 5) for the four sets of simulation conditions used to produce the results presented in E. Note that resource limitation affects seed production primarily at high proportions of cross-pollen. In all cases, gs = 0.4 and gx = 0.8, so that δ = 0.5, which is indicated by the dashed horizontal reference line in E. Each line connecting points in E links δ ̃ and δˆ for the same simulation. For all simulations O = N = 30 ovules, ts =0.1,tx =0.2(i.e.,β=2),v=0.9,φF =φD =0.1,andσ2F = σ2D = 0.04. For pollenand ovule-limited fertilization, P = 130 and 300 pollen grains, respectively. For fertilizationand resourcelimited seed development, m = 1 and 0.6, respectively.
+F i g u r e
+2 .
+based
+on the
+standard
+approach,
+limitation of seed production causes δ ̃ to underestimate δ consistently (Fig. 2, ovule/resource simulations). Only when ovule production limits seed production does δ ̃ estimate δ accurately (Fig. 2, ovule/fertilization simulations). Instead, the approach we recommend estimated δ accurately, except when ovule availability limited fertilization and resources limited seed development (Fig. 2). In the latter case, δˆ overestimated δ, although not as
+EVOLUTION MAY2012 1381
+
+         LAWRENCE D. HARDER ET AL.
+severely as δ ̃ underestimated it in the same conditions. This result occurred because, with resource limitation, limited data are available to characterize the ascending relation of seed number to the fraction of outcross pollen (e.g., the segment of the solid black line below the gray line in Fig. 1B). Specifically, the fitting procedure often failed to detect the decelerating nature of this relation caused by β > 1 and instead estimated gx on only the initial steeper portion of this relation, resulting in gˆx = 1 for seven of the 10 simulations, rather than the actual value of 0.8. This result illustrates the general difficulty imposed by resource limitation on the estimation of predispersal inbreeding depression and underscores the need for experimental methods that avoid this constraint on seed production.
+We now illustrate the application of our estimation procedure for actual results obtained for D. ophrydea and D. ferruginea (Orchidaceae), which are part of a larger study that will be described in greater detail elsewhere (N. Hobbhahn, S. D. Johnson, and L. D. Harder, unpubl. data). Flowers of both species produce pollen aggregated in two pollinia, with each pollinium subdivided into several hundred massulae. Five flowers on 20 (D. ferruginea) or 30 plants (D. ophrydea) were assigned randomly to five pollination treatments in which approximately 0%, 25%, 50%, 75%, or 100% of the massulae applied to stigmas was collected from a donor at least 10 m from the recipient plant, with the remainder being self-massulae. Selfand cross-massulae were applied on different locations on a stigma (each representing ≤33% of the stigma area) and counted with a 16× or 20× hand lens to identify the actual proportions of selfand cross-massulae. The total number of massulae applied to stigmas roughly equaled average pollen receipt in the respective populations. We later collected mature capsules and counted the unfertilized ovules, aborted seeds and mature seeds in a random subsample until accumulating an aggregate count of about 400. Statistical analysis was implemented in SAS as described above, with Ni,j equal to the number of ovules subsampled for flower j on plant i. Oi,j and Pi,j were not enumerated, so α estimates ts P ̄ /O ̄ . Analyses of both species detected significant among-flower variation in the probabilities of ovule fertilization (φF) and seed development (φD: Table 1; confidence intervals do not include 0), indicating that beta-binomial distributions were more appropriate than binomial distributions for these processes. In addition, these analyses identified significant among-plant variation in ovule fertilization (σ2F), but weak (D. ophrydea) or no (D. ferruginea) among-plant variation in seed development (σ2D: Table 1). The values of these four variation parameters served as the basis for the parameters used in the simulation study (see Table 1).
+Our analysis indicates that the experiment with D. ophrydea involved ovule limitation of fertilization and seed production, and significant inbreeding depression (Fig. 3A–C, Table 1). As illustrated in Figure 3A, most ovules were fertilized, regardless
+of pollination treatment. The best AIC model assumed α > v = 0.981, indicating complete fertilization of the 98.1% of ovules that were viable, regardless of pollination treatment. Despite complete fertilization, the decelerating trend in the relation of the proportion of zygotes that became seeds to the fraction of cross-pollen (Fig. 3B) suggests differential performance of selfand crosspollen in pollen mixtures. In particular, β = 2.15 indicates that cross-pollen survived more than twofold better than self-pollen, although the associated confidence interval broadly overlaps 1, so that equal performance cannot be ruled out (such limited confidence in β is generally expected with ovule limited fertilization). There was no evidence that resource availability limited seed development (m = 1), so that, like fertilization, seed production was always ovule limited (hence, this example is similar to the ovule/fertilization simulations illustrated in Fig. 2). Crossfertilized zygotes survived twofold better than self-fertilized zygotes (gs = 0.322, gx = 0.718; Fig. 3B) resulting in predispersal inbreeding depression of δˆ = 0.552. Because of ovule limitation, the relations of the proportions of fertilized ovules and all ovules that became seeds to the proportion of outcross pollen are essentially the same (compare Fig. 3B, C) and the standard estimate of δ ̃ = 0.544 is very similar to that based on gs and gx.
+Two models fit the D. ferruginea data equally well according to AIC, indicating ambiguity about whether pollen availability limited fertilization and seed production universally, although this had little effect on the estimated predispersal inbreeding depression (Fig. 3D–F, Table 1; hence, this example is similar to the simulations involving pollen limitation of fertilization and fertilization limitation of seed development illustrated in Fig. 2). Both models detected better performance by cross-pollen than by self-pollen, but the model that included the proportion of viable ovules as a free parameter (rather than fixed at v = 1) indicated ovule limitation of fertilization in mixtures with more than 100(v − α)/α(β − 1) = 62% cross-pollen. As illustrated in Figure 3D, either alternate is reasonable given the variation in the data; however, pollen limitation seems more likely than ovule limitation, as the latter implies that >20% of ovules were not viable or receptive. Neither model detected evidence that resource availability limited seed production (i.e., m = 1), but both found that cross-zygotes survived twice as frequently as self-zygotes (Fig. 3E), resulting in estimates of predispersal inbreeding depression of about δˆ = 0.56 (Table 1). Based on nonoverlapping confidence intervals, this estimate is a third smaller than the estimate provided by the standard approach (δ ̃ = 0.832).
+Discussion
+Our model demonstrates clearly that simple comparison of seed production following selfand cross-pollination does not reliably estimate the genetic costs of selfing during seed development, and
+ 1382 EVOLUTION MAY2012
+
+ ESTIMATION OF PREDISPERSAL INBREEDING DEPRESSION
+Figure 3. Effects of pollination with different mixtures of selfand cross-pollen on the proportion of fertilized ovules (A and D; eq. 2), the proportion of successful zygotes (B and E; eq. 4), and the proportion of ovules that became seeds (C and F; eq. 5) for Disa ophrydea (A–C) and D. ferruginea (D–F). The results for D. ferruginea include regression fits for exclusive pollen limitation (solid lines) and ovule limitation at higher fractions of cross-pollination (dashed lines). Gray lines connect observations for replicates on individual plants and illustrate the extent of withinand among-plant variation (not presented in A). See Table 1 for parameter estimates.
+our simulation results and the D. ferruginea example illustrate that the error associated with this approach can be substantial. Except in the case of universal resource limitation (see below), the complications arising from differential fertilization success of selfand cross-pollen and/or pollen or resource limitation of seed production can often be resolved by incorporating mixed-pollination treatments in the standard experiment and applying process-based statistical methods. In addition to providing more accurate estimates of predispersal inbreeding depression, this revised approach provides insights on influences on ovule fertilization and seed development and estimates their intensity.
+ESTIMATION CONSIDERATIONS
+The methods we describe can be applied to any species that is capable of self-fertilization (perhaps after circumventing selfincompatibility mechanisms, e.g., Cabin et al. 1996), and requires
+only counts of unfertilized ovules and aborted and successful seeds. A key component of the statistical approach we propose is its recognition of the conditional dependence of seed development on ovule fertilization, which allows inference about the proportions of fertilizations that were selfand cross-fertilized, which are necessary to estimate the performance of selfand cross-zygotes. Explicit consideration of this conditional dependence also allows identification of the differential performance of selfand crosspollen (i.e., β > 1), even when fertilization is complete under all treatments (e.g., D. ophrydea). Such inference is impossible for separate analyses of fertilization and seed development without genetic identification of selfand cross-zygotes. Nevertheless, the success of our approach rests on several conditions, which we now outline briefly.
+The information needed to apply the method we describe is drawn from counts of undeveloped ovules, partially expanded,
+EVOLUTION MAY2012 1383
+
+         LAWRENCE D. HARDER ET AL.
+but failed seeds and mature seeds. Although such counts are commonly collected in studies of seed production, the distinction between unfertilized ovules and aborted seeds may not be as obvious as this size comparison suggests. Significantly, in a study of Epilobium obcordatum, Seavey et al. (2000) demonstrated the partial development of unfertilized ovules adjacent to fertilized ovules, apparently in response to growth hormones produced by developing seeds, and that these expanded, unfertilized ovules cannot be distinguished visually from aborted seeds. Such responses have obvious consequences for the application of the method we describe and more broadly for studies of plant reproduction. Unfortunately, this study has been largely ignored, despite its implications, so that the incidence of such complicating responses is unknown.
+We have assumed that the performance of each male gametophyte depends on its intrinsic characteristics, but not on those of other gametophytes with which it occupies a stigma/style. This assumption seems reasonable in at least two situations: partial selfincompatibility and pollen limitation of ovule fertilization. Partial self-incompatibility, which occurs naturally in many species (Levin 1996) and may occur when bud pollination is used to circumvent otherwise strict self-incompatibility, depends on the genotype of each male gametophyte or its parent and so should act independently of the genotypes of other male gametophytes in the same style. When fertilization is pollen limited, fertilization opportunities remain for viable male gametophytes, regardless of their growth rates, unless styles preferentially provide resources to outcross pollen tubes. Unequivocal evidence for such female mate choice is currently lacking (Korbecka et al. 2002). With ovule limitation, frequency-dependent performance of selfand cross-pollen tubes would affect the proportion of zygotes fertilized by cross-pollen, z (eq. 3), in a manner that cannot be detected given data on only the initial proportion of cross-pollen applied to stigmas, the proportion of fertilized ovules and the proportion of ovules that became seeds. Greater competitiveness of crosspollen than self-pollen would reduce the proportion of crosspollen needed to maximize ovule fertilization, in turn increasing the chance of resource limitation, and thus reducing confidence in estimates of δ using both the standard approach and our proposed approach.
+Similarly, our model considers the genetic development capacity of selfand cross-zygotes (gs and gx), but not the effects of differential competition between them for maternal resources, which could contribute to predispersal inbreeding depression. Such competition should be most relevant under resource limitation, for which estimation of inbreeding depression is most challenging. As with gametophytic competition, unequal competition among embryos could slightly decrease the proportion of cross-pollen that results in resource limitation. Inclusion of genetic information about seed paternity in the estimation procedure
+would help identify the contribution of embryo competitive ability to predispersal inbreeding depression and reduce uncertainty in estimating it.
+The ability of any regression analysis to identify trends in data accurately is compromised by extensive variability in the data. Our methods identify four components of variation, including variation among maternal plants in their capacity for ovule fertilization and seed development, and variation among flowers, which could include both maternal and paternal components. As the simulation results illustrate, by explicitly fitting these variation components our proposed methods (including the proposed randomized block design) increase the chance of correctly identifying the key processes that contribute to seed development and quantify their variability. However, accurate estimation of these variance components requires reasonable replication of pollination treatments among plants.
+A WINDOW ON SEED PRODUCTION
+The methods we propose are beneficial for identifying the factors limiting ovule fertilization and seed development, regardless of whether interest focuses on predispersal inbreeding depression. For example, the two orchid studies provide evidence that: crosspollen and cross-zygotes perform at least 50% better than their self-counterparts; >20% of ovules can be nonfunctional; seed production by these species is not resource limited, regardless of the incidence of cross-pollination, when flowers receive as much pollen as is typical in the respective populations; and performance varies appreciably among both flowers and plants (Table 1). Explanations of these outcomes are beyond the scope of this study; however, these findings clearly illustrate the inferential power of fitting process-based models to simple counts of unfertilized, aborted, and successful ovules following controlled pollination.
+Inbreeding depression commonly varies among environments (Armbruster and Reed 2005), thereby contributing to the context dependence of mating-system evolution. Our model describes key environmental influences on differential seed production following selfing and outcrossing, namely pollination conditions and availability of seed-production resources. According to this model, the magnitude of differential performance could differ among environments, even though survival of selfand cross-zygotes (gs and gx, respectively), and hence inbreeding depression, is unaffected. Clearly, identification of contextdependent inbreeding depression requires application of methods, such as those described above, that can distinguish strict environmental effects from true genotype × environment interactions.
+In addition to its empirical benefits, development of the underlying models reveals conceptual insights into the limits on seed production and the significance of predispersal inbreeding depression for plant performance. In particular, equation (5) illustrates that predispersal inbreeding depression affects female
+ 1384 EVOLUTION MAY2012
+
+         reproductive success most strongly under pollen limitation, less strongly under ovule limitation, and not at all under resource limitation. Indeed, the production of more ovules than can produce seeds under resource limitation allows the death of inbred zygotes to have limited or no impact on seed production and may be an adaptive mechanism to compensate for the prevailing incidence of seed abortion (Harder et al. 2008). These contrasting effects illustrate that the consequences of specific constraints on seed production have far-reaching consequences for plant performance and its interpretation. Paradoxically, although the standard method for estimating predispersal inbreeding depression is unbiased only when ovule availability limits seed production (Table 2), ovule limitation is largely overlooked as a seedproduction constraint (e.g., Haig and Westoby 1988; Burd 2008). Indeed, this paradox extends more widely, as most models of mating-system evolution are also implicitly founded on underlying ovule limitation (Harder et al. 2008). Clearly, ovule limitation deserves equal recognition with pollen and resource limitation as a possible constraint on seed production in both ecological and evolutionary studies of plant performance.
+IMPLICATIONS FOR INTERPRETATION OF EXISTING ESTIMATES
+That δ ̃ does not accurately estimate (gx − gs )/gx does not mean that it is uninformative. Instead, our model clarifies the true meaning of δ ̃, namely that it represents the average relative differential in the probability that the genes represented in a self-pollen grain on a stigma will be represented in a seed, given the prevailing limits on ovule fertilization and seed development. Thus, when the expected fate of paternal genes is of specific interest, δ ̃ is a relevant and unbiased mating parameter. However, δ ̃ does not consistently represent the differential performance of selfed zygotes that is the focus of predispersal inbreeding depression.
+If δ ̃ is an unreliable measure of δ, what picture do published results based on it provide of the magnitude of predispersal inbreeding depression in plant populations? Published results suggest that inbreeding depression affects this phase of the life cycle of flowering plants most strongly, especially in predominantly outcrossing species (Husband and Schemske 1996, Angeloni et al. 2011). As standard practice is to saturate stigmas with pollen, the resulting seed production is likely either ovule or resource limited, resulting in either representative or underestimated measures of δ, respectively (see Table 2, Fig. 2). Angiosperms typically produce about 60% more ovules per flower than they can mature into seeds, even with abundant cross-pollination (Harder and Routley 2006), so that m ≈ 0.6 and there may often be considerable capacity for resource limitation. Although we have focused on seed number, resource limitation could also affect estimates of inbreeding depression for fruit set and seed mass (and hence possibly seed germination). Accordingly, several aspects of predispersal
+and early postdispersal inbreeding depression may typically be stronger than published estimates suggest, so that inbreeding depression may commonly act even more heterogeneously during plant life cycles than has been appreciated. Application of reliable estimation procedures based on mechanistic understanding of inbreeding depression will help clarify the magnitude of this heterogeneity and its implications for plant reproductive ecology and evolution.
+ACKNOWLEDGMENTS
+Funding for this research was provided by the Natural Sciences and Engineering Research Council of Canada (LDH) and Alberta Ingenuity (NH). We are grateful to R. Cozien, B. Gquola, and N. Sibisi for field assistance and to S. D. Johnson (University of KwaZulu-Natal, South Africa) for financial and logistic support during the field studies.
+ESTIMATION OF PREDISPERSAL INBREEDING DEPRESSION
+ EVOLUTION MAY2012 1385

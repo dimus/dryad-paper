@@ -1,0 +1,477 @@
+   This article was downloaded by: [University of Massachusetts, Amherst]
+On: 20 June 2012, At: 10:51
+Publisher: Taylor & Francis
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+  Bird Study
+Publication details, including instructions for authors and subscription information:
+http://www.tandfonline.com/loi/tbis20
+Habitat specialization of birds in the Czech Republic:
+comparison of objective measures with expert opinion
+Jiří Reif a , Frédéric Jiguet b & Karel Šťastný c
+a Institute for Environmental Studies, Faculty of Science, Charles University in Prague,
+Benátská 2, 128 01 Praha 2, Czech Republic
+b Centre de Recherches sur la Biologie des Populations d'Oiseaux, Muséum National d'Histoire Naturelle, 55 Rue Buffon, 75005 Paris, France
+c Department of Ecology, Faculty of Environmental Science, Czech University of Life Sciences Prague, Kamycka 1176, CZ-165 21 Praha 6, Czech Republic
+Available online: 21 May 2010
+PLEASE SCROLL DOWN FOR ARTICLE
+    To cite this article: Jiří Reif, Frédéric Jiguet & Karel Šťastný (2010): Habitat specialization of birds in the Czech Republic: comparison of objective measures with expert opinion, Bird Study, 57:2, 197-212
+To link to this article: http://dx.doi.org/10.1080/00063650903477046
+     Full terms and conditions of use: http://www.tandfonline.com/page/terms-and-conditions
+This article may be used for research, teaching, and private study purposes. Any substantial or systematic reproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in any form to anyone is expressly forbidden.
+The publisher does not give any warranty express or implied or make any representation that the contents will be complete or accurate or up to date. The accuracy of any instructions, formulae, and drug doses should be independently verified with primary sources. The publisher shall not be liable for any loss, actions, claims, proceedings, demand, or costs or damages whatsoever or howsoever caused arising directly or indirectly in connection with or arising out of the use of this material.
+  
+ Bird Study (2010) 57, 197–212
+Habitat specialization of birds in the Czech Republic: comparison of objective measures with expert opinion
+JIRˇÍ REIF1*, FRÉDÉRIC JIGUET2 and KAREL ŠˇTASTNÝ3
+1Institute for Environmental Studies, Faculty of Science, Charles University in Prague, Benátská 2, 128 01 Praha 2, Czech Republic, 2Centre de Recherches sur la Biologie des Populations d’Oiseaux, Muséum National d’Histoire Naturelle, 55 Rue Buffon, 75005 Paris, France and 3Department of Ecology, Faculty of Environmental Science, Czech University of Life Sciences Prague, Kamycka 1176, CZ-165 21 Praha 6, Czech Republic
+Capsule Expert-based classification of bird species as habitat specialists and as generalists agrees with objective measures of species’ habitat requirements based on large-scale monitoring data.
+Aims To compare habitat specialization of 137 common bird species breeding in the Czech Republic using three different measures and to test their relationships to species’ abundance and habitat associations.
+Methods Data on bird abundance and surveyed habitats were collected through a standardized monitoring scheme of common breeding species in the Czech Republic. From these data we calculated a quantitative species specialization index (SSI). Canonical correspondence analysis (CCA) was applied to calculate species’ habitat niche breadth and the level of association of each species to the main habitats. A panel of 11 local bird experts classified each species as habitat generalist or habitat specialist.
+Results Species classified as habitat specialists by expert opinion showed higher habitat specialization according to the SSI, as well as according to CCA-based habitat niche breadth. These species were also more closely associated with one of the main habitat types. These relationships were significant even after controlling for abundance.
+Conclusions As expert opinion accords with the level of species’ habitat specialization expressed using two quantitative objective measures, we suggest that these characteristics reflect real interspecific variation in the breadth of habitat requirements in birds. Interspecific differences in habitat specialization are not caused solely by the variability in abundance among species.
+ INTRODUCTION
+Habitat preference is one of the key ecological traits of any bird species (Wiens 1989). Both breeding performance and adult survival depend on habitat suitability (Newton 1998, Carrete et al. 2006) and thus habitat, in turn, strongly affects local abundance of any bird species (Buckton & Ormerod 1997, Chamberlain et al. 1999, Holmes 2007). Moreover, species associated with common habitats have higher abundance than species living in rare habitats at both
+*Correspondence author. Email: jirireif@yahoo.com
+regional and local scales (Gregory & Gaston 2000). Habitat requirements also predict long-term population trends in many bird species, probably owing to habitat alteration resulting in changes in abundance of birds dependent on affected habitats (Peach et al. 1999, Gregory et al. 2005, Reif, Storch, Vorˇíšek et al. 2008). However, the tightness of the association of particular bird species to individual habitats differs considerably among species (Wiens 1989, Gaston & Blackburn 2000). Therefore, a proper assessment of the breadth of habitat requirements of each bird species is an important task for avian ecologists (Devictor et al. 2008).
+© 2010 British Trust for Ornithology
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+198 J. Reif, F. Jiguet and K. Sˇˇtastny'
+Results of such assessments can be also used for conservation purposes. Birds are widely accepted as useful indicators of the state of various habitats (Gregory et al. 2005) and species selection for such indicators is based on species’ habitat preferences: habitat-specific indicators should be composed of species specialized to the focal habitats. Species selection procedures would thus benefit from a formal assessment of the breadth of species’ habitat requirements.
+There are several approaches to assess the breadth of bird habitat requirements (MacNally 1989, ter Braak & Šmilauer 2002, Marsden & Whiffin 2003, Julliard et al. 2006, Fridley et al. 2007, Horak et al. in press). The simplest way is to sort species according to expert opinion into groups for which we expect different levels of habitat specialization (Pearce et al. 2001, Gregory et al. 2007). Typically, two groups – habitat generalists and habitat specialists – are recognized (Galat & Zweimüller 2001). This classification is inevitably subjective and depends on the accuracy of expert knowledge (Clevenger et al. 2002, Seoane et al. 2005). Moreover, recognition of only two broadly defined species groups results in the loss of information about finer differences in niche breadth (Reif, Storch, Vorˇíšek et al. 2008). On the other hand, such classification might be the only choice if explicit analysis of specific habitat requirements is not possible.
+More objective methods are based on quantitative analyses of bird abundance in different habitats (MacNally 1989). Using these methods, we can estimate niche breadth as a continuous metric. This quantitative information can be further used for objective species sorting into groups (Sallabanks et al. 2006, Reif et al. 2007), while the values of species specialization can be analysed directly (Julliard et al. 2006, Fridley et al. 2007). There are various methods to quantify species specialization which differ both in computation techniques and data requirements. We focus later on two methods that are widely used and easy to calculate.
+Ter Braak & Šmilauer (2002) developed a measure of habitat niche breadth based on multivariate canonical correspondence analysis (CCA), which relates species abundance on sampling plots to the extent of main habitat on the same plots. CCA reduces many correlated habitat variables into a few independent canonical axes that explain the largest part of the variability in bird abundance among sampling plots and thus provide the most important
+gradients in bird community structure. Breadth of species’ occurrence in multidimensional space created by the four most important canonical axes can be treated as a measure of species habitat niche breadth (the lower the value, the higher the degree of specialization). As CCA works with all species within a bird community simultaneously, this habitat niche breadth is a relative measure of specialization within a focal bird community.
+Julliard et al. (2006) have recently introduced a different measure called the species specialization index (SSI). SSI works with abundance of focal species estimated in various habitats. In essence, the coefficient of variation of species abundance among habitats is a measure of species specialization. SSI assumes that more specialized species have higher coefficients of variation, as their abundance is high only in a few habitats and is thus more ‘uneven’. SSI can be compared between bird communities if data are collected by similar techniques, thus allowing community specialization to be estimated (Julliard et al. 2006, Devictor et al. 2008).
+A common problem in analyses of species specialization is unequal abundance of focal species (Gregory & Gaston 2000). Abundant species are often habitat generalists, thus posing difficulties in the recognition of any causality in this relationship (Gaston et al. 1997, Storch & Reif 2002). It is unclear whether a species is common because it is a habitat generalist, or whether it occurs in many habitats owing to its high abundance causing mass effects (Brown & Kodric-Brown 1977) or increasing competitive pressure (Fretwell & Lucas 1970). As a result, some species might be habitat specialists, but commonness of their preferred habitat and/ or their high regional abundance broadens their habitat niches calculated from bird census data.
+In this study, we compared the two quantitative measures of species specialization with a qualitative assessment based on expert opinion using data from the standardized monitoring of common breeding birds in the Czech Republic. First, we tested whether expert species classification, as habitat specialists or generalists, reflects levels of specialization expressed by CCA and SSI. Secondly, we related the quantitative measures to the position of each species along habitat gradients within the bird community of the Czech Republic, expressed by canonical axes in CCA. Thirdly, we expressed specialization as a function of abundance and tested whether the aforementioned relationships were maintained after controlling for species abundance.
+© 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+MATERIAL AND METHODS
+Data
+We used data of bird abundance collected by the Breeding Bird Monitoring Programme (BBMP) in the Czech Republic. BBMP is a large-scale generic monitoring scheme based on voluntary fieldwork made by standardized point counts (Reif et al. 2006). Each volunteer has free choice in the selection of his census site. A site consists of a transect of 20 points located at 300–500-m intervals. Points are visited twice per breeding season to count birds during early morning (the two sessions occurring from mid-April to mid-May and from mid-May to mid-June, in order to census early and late breeders). In each visit all birds seen or heard are counted at each census point for five minutes exactly. Since 2006 volunteers have also collected data on the proportion of main habitats (i.e. coniferous forest, deciduous forest, mixed forest, scrubland, field, meadow, human settlement, wetland) within a 100-m radius of the census point. Despite free choice of census sites, habitat cover around surveyed sites is similar to average land-cover of the Czech Republic, with only human settlements being slightly over-represented (Reif, Vorˇíšek et al. 2008).
+For the purposes of this study, we used data from sites censused from 2006 to 2008, where information on habitat cover was available. The visit with the maximum number of individuals of a given species was taken as its abundance at a census point for one year. In other words, the maximum count for each individual point was taken as the abundance of a given species on that point in one year. For each site, we used only the data from the year it first appeared in the BBMP because not all sites were censused every year. In total, we used data on abundance of 137 bird species from 135 sites with 2555 census points for further analyses (eight sites had fewer than 20 points with both bird and habitat data available).
+Habitat specialization measures
+We related abundance of particular bird species at census points to the habitat cover using CCA. CCA is a multivariate direct gradient analysis technique that is able to detect the patterns of variation in bird community composition that can be explained by the provided set of environmental variables (ter Braak & Šmilauer 2002). CCA ordinates samples (census points) and variables (bird species and habitats) along axes by maximizing the differences among species and
+samples, respectively. Each ordination axis represents an environmental gradient along which the centroids of individual variables and samples are distributed to maximize differences between them (ter Braak & Šmilauer 2002). One assumption of the CCA is a unimodal species distribution along each environmental gradient. The species score is proportional to the average of sample scores weighted by the abundance of respective species and indicates the centre of the distribution of the species along a given canonical axis. Therefore, each of the 137 species used in the analyses obtained a position along each of the four most important habitat gradients represented by canonical axes (Appendix 1). The width of the species’ distribution along a given axis in CCA, as quantified by the standard deviation, can be further used as a measure of habitat niche breadth (ter Braak & Šmilauer 2002). Usually, the first four canonical axes (i.e. those explaining the largest proportion of variability in bird community structure) are taken into account (Gregory & Gaston 2000, ter Braak & Šmilauer 2002) and we have calculated habitat niche breadth of each species as the root mean square of the standard deviations in species’ distribution across the first four axes (hereafter CCA breadth; Appendix 1). CCA analysis was performed with down-weighting the effect of rare species and controlling for serial correlation in the data (see Lepš & Šmilauer [2003] for further details on these methods).
+A second measure of habitat specialization was SSI (Julliard et al. 2006). SSI was originally developed for habitat-specific counts and quantified the variability in species’ abundance across habitat classes. In our case, bird counts were not habitat-specific, i.e. abundance of each species was expressed as the number of individuals at a point with no information as to which habitats particular individuals occurred in, and most points consisted of a mix of habitats. However, we used the data about proportional cover of each habitat within a 100-m radius at particular points to calculate a rough estimate of habitat-specific abundance. To do so, at each census point, we multiplied the abundance of a given species by the proportion of the area covered by each habitat. As a result, we obtained a measure of ‘habitat-specific abundance’ of a species in each habitat at each census point. For each habitat, these ‘abundances’ were summed for all points together and divided by the total number of points (i.e. 2555), providing density of a species in a particular habitat across the whole BBMP dataset. The SSI was further estimated as the coefficient of
+Habitat specialization in birds 199
+© 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+200 J. Reif, F. Jiguet and K. Sˇˇtastny'
+ variation of these densities across all habitats (Appendix 1; Julliard et al. 2006).
+Expert classification of species’ habitat specialization was based on the opinion of 11 experienced Czech ornithologists. Each expert was asked to classify each species as a habitat specialist or a habitat generalist with respect to the eight habitats recognized in the BBMP data (see Appendix 2 for particular classifications). From the expert classifications we calculated two summary variables, one continuous, one categorical: (1) proportion of classifications of each species as a specialist; and (2) conclusion of experts based on congruence of more than half of the classifications (Appendix 2). Put simply, when more than half of the experts classified a species as a specialist, it was concluded to be a specialist and vice versa. These two variables, together with the separate classifications, were used for statistical analyses. The former variable was arcsine transformed.
+Statistical analyses
+We related the quantitative specialization measures to each other and each of them to particular habitat gradients by simple linear regressions. SSI and CCA breadth were compared between specialists and generalists, as revealed by the conclusions of the expert opinions, by a two-sample t-test. To control for the effect of abundance (after its log transformation), we performed the aforementioned tests with a total abundance of particular species in BBMP (i.e. sum of abundances at all 2555 census points) as a covariate. The level of agreement of particular expert classifications with SSI and CCA breadth, respectively, was tested by χ2 tests performed for each classification separately. Species were ordered according to SSI or CCA breadth; the species with the highest specialization ranks were treated as specialists, and the rest of the species was treated as generalists. The division line between specialists and generalists depended on the classification of a given expert: the number of specialists recognized by the expert determined the number of specialists according to SSI or CCA breadth ranking. We tested whether the species classified by the experts had the same classification by the SSI or CCA breadth ranking.
+RESULTS
+CCA revealed the following most important habitat gradients in the bird community censused by BBMP (Fig. 1): (1) from forest to all other habitats (first
+Figure 1. Gradients in habitat associations of 137 common bird species counted by the Breeding Bird Monitoring Programme in the Czech Republic revealed by the canonical correspondence analysis. (a) First and second canonical axes; (b) third and fourth canonical axes.
+axis – explained 6.1% of variability in bird community composition); (2) from scrubland, field and meadow to human settlement (second axis – 2.6%); (3) from coniferous forest to deciduous forest (third axis – 1.8%); (4) from other habitats to wetlands (fourth axis – 0.9%). Although the axes differed in the proportions of variability explained, they were treated as equivalent in further analyses for simplicity. For further analyses of the relationships between species’ specialization and extremeness of their habitat requirements we considered positive and negative parts of particular canonical axes separately and took absolute values of the species scores. We omitted negative parts of both the first and fourth axes as they were defined by their opposition to forest and wetland habitat respectively, and did not capture any clear habitat association.
+                                                                                                                                                                                                                                                                              © 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+Table 1. Relationships of habitat species specialization index (SSI), habitat niche breadth calculated using canonical correspondence analysis (CCA breadth), and quantitative expert-based classification of species’ specialization (Expert-quantitative) to positions of particular species along the most important gradients in bird–habitat associations (Habitat gradient) in 137 common bird species counted by the Breeding Bird Monitoring Programme in the Czech Republic. See Methods section for construction of habitat gradients.
+Habitat specialization in birds 201
+     Habitat gradient
+Forest
+Field and meadow Human settlement Coniferous forest Deciduous forest Wetland
+SSI
+r n P
+CCA breadth
+r n P
+Expert-quantitative
+r n P
+      0.83 50 0.40 88 0.13 49 0.70 73 0.77 64 0.34 71
+<0.001 <0.001 0.363 <0.001 <0.001 0.004
+−0.48 50 −0.55 88 −0.17 49 −0.26 73 −0.35 64 −0.20 71
+<0.001 <0.001 0.250 0.025 0.004 0.091
+0.51 50 0.30 88 0.31 49 0.46 73 0.36 64 0.44 71
+<0.001 0.005 0.617
+<0.001 0.003 <0.001
+ Therefore, four habitat gradients were transformed into six variables describing extremeness of habitat associations of each species.
+SSI and CCA breadth were correlated (r = −0.52, n = 137, P < 0.001). Birds at more extreme positions along particular habitat gradients also expressed higher habitat specialization (Table 1). However, this relationship did not hold true for wetland species and species of human settlements (Table 1).
+The proportion of specialists in our data set varied from 31 to 77% according to the opinion of particular experts (average 54 ± 15%). Species that were assessed as specialists by more than half of the experts comprised 58% of the bird assemblage. Quantitative expert classification of species’ specialization (i.e. proportion of assessments of a given species as a habitat specialist) was related to both SSI (r = 0.61, n = 137, P < 0.001) and CCA breadth (r = −0.53, n = 137, P < 0.001). Qualitative conclusion of expert opinions matched both objective specialization measures well, since habitat specialists had higher SSI and narrower CCA breadth than habitat generalists (Fig. 2). Separate χ2 tests of the congruence of each expert classification and SSI or CCA breadth, respectively, showed consistent results: species ranked as specialized according to objective measures were more frequently assessed as specialists by particular experts (Table 2).
+Abundance in BBMP was a significant predictor of all quantitative measures of species specialization (Fig. 3). Expert-based classification of species specialization correlated with abundance more closely than the two objective measures (Fig. 3). Moreover, species treated as generalists according to expert opinions had higher abundance than specialists (mean log abundance of specialists = 1.87; mean log abundance of generalists = 2.55; t1,135 = −6.04, P < 0.001). However, including abundance in the statistical tests described previously did not modify
+the results (Table 3). Generally, tests performed with SSI were more significant than with CCA breadth (Table 1), even when abundance was controlled for (Table 3).
+Figure 2. Differences between habitat specialists and generalists, respectively, classified by expert opinion, in (a) habitat species specialization index (SSI) (t1,135 = 7.42, P < 0.001); and (b) habitat niche breadth calculated using canonical correspondence analysis (CCA breadth) (t1,135 = −5.25, P < 0.001) in 137 common bird species counted by the Breeding Bird Monitoring Programme in the Czech Republic.
+                                                                                                                                                © 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+202 J. Reif, F. Jiguet and K. Sˇˇtastny'
+Table 2. χ2 tests of congruence between classification of each bird species as a specialist or a generalist by 11 expert Czech ornithologists and objective measures of specialization, species specialization index (SSI) and habitat niche breadth calculated using canonical correspondence analysis (CCA breadth), calculated for 137 common bird species counted by the Breeding Bird Monitoring Programme in the Czech Republic.
+                                             SSI CCA breadth χ2 P χ2 P
+                        Expert1 Expert2 Expert3 Expert4 Expert5 Expert6 Expert7 Expert8 Expert9 Expert10 Expert11 Conclusion
+23.50 P < 0.01 11.32 P < 0.01 43.20 P < 0.01 26.96 P < 0.01 26.11 P < 0.01 23.43 P < 0.01 33.12 P < 0.01 16.96 P < 0.01 24.61 P < 0.01 38.13 P < 0.01 12.90 P < 0.01 39.07 P < 0.01
+5.73 23.83 27.74 16.35 19.50
+7.73 25.56 9.51 8.86 12.92 20.67 14.28
+P < 0.05 P < 0.01 P < 0.01 P < 0.01 P < 0.01 P < 0.01 P < 0.01 P < 0.01 P < 0.01 P < 0.01 P < 0.01 P < 0.01
+                                                                       ‘Conclusion’, species classified by more than
+a specialist and vice versa; see Methods section for details on testing protocol.
+DISCUSSION
+Objective measures of habitat specialization in 137 common bird species of the Czech Republic, i.e. SSI and CCA breadth, corresponded with the subjective opinions of 11 expert ornithologists when sorting these species into groups of habitat specialists or generalists, even when adjusted for species rarity. As these independent approaches based on different principles revealed similar patterns, it is probable that the information on habitat specialization of particular species mirrored the reality well. This suggests that expert-based knowledge on the habitat requirements of particular species may have wider and valuable applications.
+However, the usefulness of expert opinion will always be case-sensitive. Some studies found that a priori expertbased classification of species according to the breadth of their habitat requirements was correct and produced genuine results (Galat & Zweimüller 2001). Other studies that aimed at finding out whether expert knowledge improved performance of habitat niche models, revealed the opposite: models with expert assessment had lower predictive power (Clevenger et al. 2002, Seoane et al. 2005). Moreover, our quantitative measure of species’ specialization, calculated from expert classifications, was more correlated with abundance of particular species than both objective measures. This result implies that
+                                                                                                                                                     © 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+half of
+the experts as
+    Figure 3. Relationships between abundance and (a) habitat species specialization index (r = −0.38, n = 137, P < 0.001; regression equation: y = −0.20x + 1.38); (b) habitat niche breadth calculated using canonical correspondence analysis (CCA breadth) (r = 0.43, n = 137, P < 0.001; regression equation: y = 9.09x + 64.63); and (c) expert classification of species’ specialization (r = −0.64, n = 137, P < 0.001; regression equation: y = −0.32x + 1.42) in 137 common bird species counted by the Breeding Bird Monitoring Programme in the Czech Republic. See Methods section for details on calculation of expert classification of species’ specialization.
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+Table 3. Relationships of habitat species specialization index (SSI), habitat niche breadth calculated using canonical correspondence analysis (CCA breadth) and quantitative expert classification of species’ specialization (Expert – quantitative) to qualitative expert classification of particular species as habitat specialists or generalists, and to positions of particular species along the most important gradients in bird–habitat associations.
+SSI CCA breadth Expert – quantitative df F P df F P df F P
+Habitat specialization in birds 203
+           Abundance
+Expert – qualitative
+Residuals
+Abundance
+Forest
+Residuals 47 Abundance 1 Field and meadow 1 Residuals 85 Abundance 1 Human settlement 1 Residuals 46 Abundance 1 Coniferous forest 1 Residuals 70 Abundance 1 Deciduous forest 1 Residuals 61 Abundance 1
+Wetland Residuals
+1 27.76
+1 32.65 134
+1 43.45 1 130.37
+18.41 19.96
+13.57 1.91
+37.48 54.57
+20.89 93.32
+<0.001 <0.001
+<0.001 <0.001
+<0.001 <0.001
+<0.001 0.174
+<0.001 <0.001
+<0.001 <0.001
+<0.001 0.182
+1 33.32 <0.001
+1 10.15 0.002 134
+1 39.67 <0.001
+1 67.52
+<0.001 <0.001
+<0.001 0.043
+<0.001 0.058
+<0.001 0.002
+<0.001 0.003
+<0.001 0.057
+24.46 1 1.82
+68
+1 18.47 <0.001
+1 14.98 <0.001
+47 47
+1 13.56 <0.001
+1 22.00
+1 61.55
+1 32.46 <0.001
+85 85
+1 4.19
+1 36.69
+1 3.79 46
+1 32.27
+1 10.49 70
+1 82.65
+1 9.77 61
+1 71.63 1 0.01 0.918 1 3.74
+68 68
+1 18.36 <0.001
+1 0.93 0.339 46
+1 20.90 <0.001
+1 1.23 0.271 70
+1 18.52 <0.001
+1 6.91 0.011 61
+ Data on 137 common bird species counted by the Breeding Bird Monitoring Programme in the Czech Republic were used for the analyses; see Methods section for details on the calculation of expert classification of species’ specialization.
+species’ commonness or rarity have relatively larger impact on human assessment (expert opinion) compared with more objective measures. Therefore, we suggest that expert opinion should be used in cases when quantitative data for the calculation of any objective measures are not available.
+Habitat gradients detected within the bird community counted by BBMP broadly coincide with gradients described by Reif, Storch & Šímová (2008) along a single 450 km-long transect across the southern part of the Czech Republic. In fact, the gradients in BBMP were clearer (i.e. habitat variables correlated more closely with particular canonical axes), despite using less precise field techniques (fixed-radius distance sampling, five visits per breeding season, 11 habitat variables in Reif, Storch & Šímová [2008], compared with unlimited counts, two visits per breeding season and eight habitat variables in BBMP). Because quantitative assessment of habitat requirements is sensitive to spatial coincidence of bird species and habitats (Reif, Storch & Šímová 2008), the outcome of such assessment probably depends on sample size, which was much larger in BBMP (2555 compared with 768 census points of
+the transect). Therefore, data from monitoring schemes could be more appropriate for examination of large-scale gradients in bird habitat requirements than data from more localized studies, although the latter might use more elaborate census techniques. On the other hand, such crude data cannot explain more complex patterns in local bird community structure. For these purposes, targeted studies with more elaborate sampling are needed.
+The amount of variability explained by particular canonical axes in BBMP data was very low. Therefore, other factors that were not included in our analyses must affect abundance of bird species at the monitoring sites and, as a consequence, their niche breadth. For instance, Storch et al. (2003) found an east–west gradient within the bird community of the Czech Republic and effects of altitude and climate on patterns in spatial distribution of Czech birds. Our sole focus on local habitat composition could thus neglect the effects of such large-scale factors. On the other hand, since Reif, Storch & Šímová (2008) showed that variability in habitat cover accounted for the existence of geographic gradients in bird assemblages in the Czech Republic, this explanation of the low
+© 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+204 J. Reif, F. Jiguet and K. Sˇˇtastny'
+explanatory power of our CCA axes is not sufficient. As an alternative (not mutually exclusive) we can propose that birds do not fully recognize the humanperceived habitat categories used in our analyses. The application of a high number of fine habitat categories would probably better capture species’ habitat associations and our data would thus be closer to reality. However, this approach is demanding on the skills needed in the collection of such data and its application for voluntary-based large-scale monitoring programmes, such as BBMP, would be difficult.
+Not surprisingly, species at more extreme positions along main habitat gradients in BBMP data were more specialized according to both SSI and CCA breadth. However, this intuitive relationship between extremeness of species’ habitat requirements and their specialization did not hold true in the case of species’ association to human settlements (for both measures of specialization) and in the case of species’ association to wetlands (for CCA breadth). This pattern might result from the fact that both human settlements and wetlands had relatively low coverage, even within the 100-m area of individual census points, and other habitats (e.g. field or meadow) were also present in such samples. Therefore, although some bird species were clearly associated with human settlements or wetlands according to multivariate analyses, habitat mixture at the census points resulted in relatively low specialization of species detected at these points. Moreover, human settlements are relatively young in the evolutionary perspective and the species might not have had enough time to become specialists confined to this habitat.
+The species in our dataset showed different levels of phylogenetical relatedness and our dealing with the species as independent units was thus to some extent incorrect. However, habitat specialization does not seem to be a phylogenetically stable trait. Closely related (congeneric) species differed greatly in their habitat specialization; for example, European Turtle Dove Streptopelia turtur versus Eurasian Collared Dove Streptopelia decaocto, Song Thursh Turdus philomelos versus Mistle Thrush Turdus viscivorus, Blackcap Sylvia atricapilla versus Barred Warbler Sylvia nisoria, Common Chiffchaff Phylloscopus collybita versus Wood Warbler Phylloscopus sibilatrix etc. Therefore, we believe that the patterns would be the same if the phylogeny was controlled for. The other weakness of our study lies in the sampling design of the monitoring scheme: the free choice of surveyed sites by the volunteers might result in the selection of more
+attractive sites for bird counts (Vorˇíšek et al. 2008), where the habitats are of higher quality compared with a random sample of the landscape. Such a bias to ‘good’ habitats might result in steeper gradients in habitat specialization across species. Although we do not have any formal evidence that this effect did not affect our results, we do not expect a large impact on the patterns we observed. The majority of the BBMP sample sites are situated in regions where no attractive bird watching localities occur. Counts in such sites are thus likely to have sampled ‘average’ habitats.
+Our results could be further used for practical purposes in bird conservation. It has already been shown that species with higher SSI are more susceptible to climatic change (Jiguet et al. 2007) and that habitat generalists contribute to homogenization of bird communities in Europe (Devictor et al. 2007). We can thus expect that more specialized species would be under higher risk of regional extinction compared with habitat generalists, even if their population trends are similar. Therefore, identification of highly specialized species by objective quantitative measures or by a panel of experts can help to target the focus of conservation programmes on these species. For instance, all measures of specialization applied in our study identified Ortolan Bunting Emberiza hortulana as one of the most specialized species among farmland passerines. This species has undergone a serious reduction in both abundance and distribution in the Czech Republic during recent decades (Št’astný et al. 2006) but it is not a focal species for Czech conservationists dealing with the protection of farmland birds (Cˇerná et al. 2007).
+The specialization measures discussed in our study could be easily used to select species for inclusion in multi-species indicators of bird population changes in various habitats. Such indicators are widely used on the European scale (Gregory et al. 2005) as well as at the scale of individual countries. There were hot debates about the selection of particular species as indicators (P. Vorˇíšek & R.D. Gregory, pers. comm.), but the evidential basis for species’ habitat requirements has been rather poor and confined to relatively crude information found in the literature (Tucker & Evans 1997). A simple measure of habitat specialization, such as SSI, or an assessment by a panel of experts, such as the one we used, would provide more relevant information on the breadth of species’ habitat requirements in various regions of interest. An example of possible flaws in
+© 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+indicator species selection – when based on crude literature information – is the study of Reif, Vorˇíšek et al. (2008). The authors focused on the comparison of long-term population trends of farmland specialists and generalists. However, half of the species treated as specialists by Reif, Vorˇíšek et al. (2008) had values of specialization measures calculated in our present study similar to several other species treated as farmland generalists.
+Controlling for the effect of regional abundance weakened relationships between habitat specialization assessed by expert opinion and both CCA breadth and SSI, as well as between habitat associations of particular species and their habitat specialization. However, most relationships remained strong and significant, indicating that both SSI and CCA breadth successfully represent real breadth of bird species’ habitat requirements, regardless of the effect of abundance. Therefore, species do not have broad habitat niches owing to the mass effects or high competitive pressure caused by high local densities of these species (Gaston et al. 1997, Storch & Reif 2002). Instead, interspecific differences in habitat specialization have probable roots in the evolution of habitat selection. These highlight trade-offs between high specialization effectively enabling the exploitation of local resources and habitat generalization selecting for wide spatial distribution (McPeek 1996, Egas et al. 2004). This result accords with that of Julliard et al. (2006), who found spatial segregation of generalists and specialists in France at the community level.
+Although SSI and CCA breadth were correlated, the former had higher explanatory power than the latter in most relationships we have examined, especially after controlling for the effect of abundance. Moreover, unlike CCA breadth, value of SSI in a given species is not dependent on the pattern of spatial distribution of other species in a focal bird community. Therefore, SSI could serve as a robust measure of habitat specialization that can be used for largescale comparisons of birds’ breadth of habitat requirements or for the detection of temporal trends in this characteristic. SSI was originally developed for the analysis of data based on habitat-specific counts (Julliard et al. 2006). Data in our study were not habitat-specific and the only possibility was the use of independent information about bird abundance and habitat composition at particular census points. This effect undoubtedly created noise in the results, but the main patterns were clear. As many large-scale
+generic monitoring schemes apply similar designs of field sampling (Vorˇíšek & Marchant 2003) our results suggest that such data can be more widely used for expressing the habitat specialization of bird species using SSI. There is thus wide scope for future studies on this topic. For instance, after necessary standardization of data, it should be possible to test whether species’ habitat specialization remains constant within its geographic range or whether it reflects spatial patterns of abundance.
+ACKNOWLEDGEMENTS
+We wish to thank all volunteer ornithologists for collecting field data. Tomáš Telenský extracted data from the BBMP database. Vladimír Bejcˇek, Jaroslav Cepák, Jirˇí Flousek, Josef Chytil, Pavel Rˇ epa, Ondrˇej Sedlácˇek, Miroslav Šálek, Zdeneˇk Vermouzek and Petr Vorˇíšek kindly provided their opinions on habitat specialization of particular species in our data set. Romain Julliard kindly consulted on methods for the calculation of habitat specialization. The paper benefited from the insightful comments of Gavin Siriwardena and an anonymous referee. Jean-Pierre Moussus helped us with improving the English of the manuscript. JR was supported by the Synthesys network (project number 4517) and the Academy of Sciences of the Czech Republic (project number KJB601110919), KS by the Grant Agency of the Czech Republic (206/97/0771 and 206/04/1254).
+REFERENCES
+Habitat specialization in birds 205
+© 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+APPENDIX 1
+Abundance, habitat species specialization index (SSI), habitat niche breadth calculated using canonical correspondence analysis (CCA breadth) and positions along the four most important canonical axes of bird–habitat associations of 137 common bird species counted by the Breeding Bird Monitoring Programme in the Czech Republic.
+Species
+Accipiter gentilis Accipiter nisus
+A. arundinaceus Acrocephalus palustris A. schoenobaenus Acrocephalus scirpaceus Actitis hypoleucos Aegithalos caudatus Alauda arvensis
+Alcedo atthis
+Anas crecca
+Anas platyrhynchos Anas querquedula Anas strepera
+Anser anser
+Anthus pratensis
+Anthus trivialis
+Apus apus
+Ardea cinerea
+Aythya ferina
+Aythya fuligula Bucephala clangula Buteo buteo Caprimulgus europaeus Carduelis cannabina Carduelis carduelis Carduelis chloris Carduelis flammea Carduelis spinus Certhia brachydactyla Certhia familiaris Charadrius dubius Ciconia ciconia Ciconia nigra
+Cinclus cinclus
+Circus aeruginosus
+C. coccothraustes Columba oenas Columba palumbus Corvus corax
+Corvus corone
+Corvus frugilegus Corvus monedula Coturnix coturnix
+Crex crex
+Cuculus canorus Cygnus olor
+Delichon urbicum Dendrocopos major Dendrocopos medius Dendrocopos minor Dryocopus martius
+Abundance SSI
+11 0.7558 30 0.4728 34 1.2041
+339 0.8462 23 1.1100 97 0.9196 17 0.6335
+151 0.3725 1748 1.1914 23 0.7676 17 0.8695 1263 0.6629 9 1.0306 89 0.9762 61 0.8117 49 1.1541 444 0.7082 1639 1.1502 164 0.6769 151 0.9583 143 1.0584 8 1.0640 414 0.5927 16 1.1699 247 0.8267 488 0.6825 1010 0.7809 26 0.7972 156 1.3317 68 1.1992 185 0.8730 15 0.9788 28 0.7342 16 0.6246 22 0.3889 119 1.2963 406 0.8013 142 1.6807 1715 0.4167 106 0.5449 275 0.5272 131 1.2160 41 1.5242 66 1.3806 16 1.6174 793 0.4158 102 0.8551 1252 0.8514 743 0.7869 49 1.8037 43 0.8962 143 0.8967
+CCA breadth
+66.48 92.21 66.60 80.51 71.43 92.84 88.96 92.17 61.70 99.47 67.84 93.57 91.06 95.14 88.66 80.04 91.75
+101.65 95.56 75.73 85.87 99.61 88.63 42.25 85.78 91.45 95.94 92.63 99.09 87.68
+101.21 111.33 84.76 72.78 78.92 80.10 87.41 68.65 101.13 96.62 95.76 93.67 99.03 52.87 48.84 91.90 95.77 101.57 95.61 75.52 90.27 98.34
+First axis
+0.1901 −0.1684 −0.3786 −0.6319 −0.5403 −0.4475 −0.0187
+0.1297 −0.7360 −0.0968 −0.3227 −0.4009 −0.3143 −0.5620 −0.3490 −0.0284
+0.4596 −0.6024 −0.4039 −0.3856 −0.4268 −0.9604 −0.1957 −0.3864 −0.6670 −0.6399 −0.6092
+0.1046 1.0833 0.5061 0.8447
+−0.4781 −0.5925 −0.0874
+0.0751 −0.8364 0.2901 0.8478 0.0770 0.0032 −0.4112 −0.5078 −0.7055 −0.8285 −0.5623 −0.0578 −0.5024 −0.6479 0.3791 0.8377 0.1130 0.8441
+Second axis
+−0.4557 −0.2151 −0.0284 −0.5377 −0.4104 −0.1088 −0.1052
+0.2518 −0.7906 0.1413 −0.6243 0.0843 −0.3511 −0.5030 −0.2383 −0.5495 −0.3596 0.9480 −0.3225 −0.0341 −0.2159 −0.3110 −0.4890 −0.8815 −0.0854 0.1008 0.4775 0.2798 0.0743 −0.0037 0.0902 −0.6430 −0.4907 −0.3574 0.1297 −0.8863 −0.0677 −0.0285 −0.0907 −0.4731 −0.2866 −0.5062 1.1525 −0.9870 −0.5661 −0.3468 −0.0208 0.5181 −0.0327 0.0423 −0.2345 −0.0302
+Third axis
+0.3863 −0.1631 0.4669 −0.0935 0.1966 0.1786 0.2644 0.2746 −0.3150 0.4796 0.1822 0.1751 0.5755 −0.0455 0.3069 −0.4051 −0.0619 −0.0255 0.1577 0.4546 0.3398 −0.2742 −0.1087 −0.2786 −0.2341 −0.0211 −0.1498 −0.4615 −0.9211 0.9785 0.0793 0.0399 −0.0741 0.3223 0.2307 −0.2619 0.5488 1.1797 −0.1230 −0.1444 −0.0065 −0.4626 −0.0885 −0.3646 −0.3466 0.0133 0.1640 −0.0717 0.4741 1.2754 0.7695 0.0910
+Fourth axis
+−0.0990 −0.1584 2.3860 0.3691 1.8670 1.7962 1.1314 0.0844 −0.3564 1.2271 0.5611 1.0971 1.6906 1.3873 1.4685 0.7319 −0.0986 −0.0391 0.9830 1.5671 1.9614 0.3319 −0.2166 −0.2894 −0.1211 −0.0331 −0.0959 0.2038 0.2013 −0.0740 0.0214 0.4418 0.5128 −0.2140 0.6115 0.1705 −0.2865 −0.5834 −0.0537 −0.1281 0.1257 −0.1691 −0.5892 −0.4214 −0.1992 0.0029 1.5737 0.0959 −0.1482 −0.4709 0.5623 −0.1796
+continued
+Habitat specialization in birds 207
+   © 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+208 J. Reif, F. Jiguet and K. Sˇˇtastny'
+APPENDIX 1
+Species
+continued
+  Emberiza citrinella Emberiza hortulana Emberiza schoeniclus Erithacus rubecula Falco tinnunculus Ficedula albicollis Ficedula hypoleuca Ficedula parva Fringilla coelebs Fulica atra
+Gallinago gallinago Gallinula chloropus Garrulus glandarius Hippolais icterina Hirundo rustica
+Jynx torquilla
+Lanius collurio
+Lanius excubitor
+Larus ridibundus Locustella fluviatilis Locustella luscinioides Locustella naevia
+Loxia curvirostra Lullula arborea Luscinia megarhynchos Luscinia svecica Miliaria calandra Milvus migrans
+Milvus milvus
+Motacilla alba
+Motacilla cinerea Motacilla flava Muscicapa striata Nucifraga caryocatactes Nycticorax nycticorax Oenanthe oenanthe Oriolus oriolus
+Periparus ater Cyanistes caeruleus Lophophanes cristatus Parus major
+Poecile montanus Poecile palustris Passer domesticus Passer montanus Perdix perdix
+Pernis apivorus Phalacrocorax carbo Phasianus colchicus Phoenicurus ochruros P. phoenicurus Phylloscopus collybita Phylloscopus sibilatrix Phylloscopus trochilus Pica pica
+Picus canus
+Picus viridis
+Abundance SSI
+2189 0.6017 13 0.9683 52 0.9658
+1023 0.8576 218 0.7068 533 1.6973
+73 1.1914
+25 2.2522 4219 0.5927 226 0.9016 5 1.3062 19 1.0692 569 0.3472 180 0.6083 1658 0.6671 125 0.7808 432 0.8868 9 1.2449 1792 0.6973 167 0.6750 9 0.9262 245 0.8302 117 1.6954 42 1.7656 280 0.7170 3 1.0855 186 1.2849 15 1.0482 18 0.6996 340 0.5437 171 0.4621 9 1.3711 141 0.8171 19 2.2776 30 0.9909 9 0.9574 481 0.6554 725 1.3347 1387 0.3869 83 1.7711 2500 0.3701 56 0.4953 220 0.6359 1267 1.3398 1024 0.7504 31 1.3909 20 0.7674 40 1.1775 1077 0.6335 484 1.2278 242 0.5913 2083 0.3367 398 1.2979 803 0.7514 321 0.8316 44 0.6177 202 0.3581
+CCA breadth
+82.46 42.77 85.35 96.63 90.00 71.72 94.51 59.67
+102.04 88.28 74.73 94.24 96.80 95.73 95.59 88.46 60.40 91.66 95.94 80.45 82.85 74.08 69.85 70.14 90.67 34.99 47.75 78.27 89.80 95.86 92.05 82.14 99.06 51.35 76.65 50.30 95.54 86.83 97.46 69.87 98.92 91.06 97.44 88.94 86.38 62.95 80.85 81.99 83.87 88.78 96.56 99.74 78.48 93.15 84.27 97.10 97.46
+First axis
+−0.3065 −0.4892 −0.6523
+0.8692 −0.6602 0.7077 0.8437 1.0636 0.4469 −0.3470 0.7034 −0.5274 0.3425 −0.4797 −0.6820 −0.1256 −0.5473 −0.9637 −0.6017 −0.1122 −0.3644 −0.3306 1.5702 −0.5155 −0.5651 −0.3607 −0.5847 −0.6379 −0.2580 −0.5122 0.0473 −0.7926 0.0074 1.6495 −0.5483 −0.8172 −0.1749 1.3026 0.0378 1.4792 0.0860 0.3569 0.4982 −0.8676 −0.6722 −0.9037 0.3782 −0.7530 −0.4020 −0.7950 0.0179 0.2926 0.9439 0.5585 −0.7892 −0.0899 −0.1770
+Second axis
+−0.4367 −0.7268 −0.4483
+0.0465 −0.0978 −0.0047
+0.1355 0.0284 0.0699
+−0.0018 −0.1624 −0.0507
+0.0028 0.2169 0.0969
+−0.3134 −0.6684 −0.0546 −0.1717 −0.3246 −0.4183 −0.5279
+0.1398 −0.9959 −0.3692 −0.5442 −0.8173 −0.6953 −0.4226
+0.1035
+0.4803 −0.6216 0.3165 0.1697 −0.0746 −0.1974 −0.3185 0.1225 0.1675 0.2315 0.1049 −0.0209 −0.1195 1.0582 −0.0186 −0.8927 −0.2632 −0.7006 −0.3877 0.9999 0.6301 0.0437 0.0038 −0.0885 0.2130 0.0020 0.0133
+Third axis
+−0.0298 −0.0858 −0.0565 −0.0864 −0.2048
+1.3615 0.5691 1.5251
+−0.0273 0.4126 −0.9683 0.2128 −0.0493 0.1897 −0.0675 0.3622 −0.1344 −0.2142 0.0537 0.3956 0.2399 −0.0672 −1.2552 −0.3146 0.0904 0.0354 −0.1643 −0.0931 0.2161 −0.0336 0.1846 −0.5526 0.6463 −1.7021 0.2745 −0.3504 0.4422 −0.6031 0.2849 −1.2484 0.2129 0.0886 0.2568 −0.1728 −0.0509 −0.2691 0.3599 −0.1275 0.0630 −0.2150 −0.1482 0.0098 0.7146 −0.4450 −0.2040 0.5458 0.2481
+Fourth axis
+−0.0981 0.2309 1.4010
+−0.0198 −0.1022 −0.2958 −0.2994 −0.5991 −0.0116
+1.8844 1.0330 1.9858
+−0.0182 0.2343 0.0402
+−0.1736 −0.0961 0.2292 0.6108 0.4728 1.3357 0.4139 −0.0657 −0.7345 0.5117 0.6571 −0.1584 1.2654 0.9895 0.2205 0.2813 −0.4381 −0.0360 0.1948 1.7579 −0.5115 0.1348 −0.0868 0.0487 −0.0335 −0.0007 0.5482 −0.0159 −0.2508 −0.0449 −0.0946 −0.1835 0.6940 −0.0386 −0.2253 −0.2550 0.0779 −0.3829 0.1372 −0.0317 0.2409 0.2375
+continued
+ © 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+APPENDIX 1
+Species
+continued
+Habitat specialization in birds 209
+  Podiceps cristatus Prunella modularis Pyrrhula pyrrhula Regulus ignicapilla Regulus regulus Remiz pendulinus Riparia riparia Saxicola rubetra Saxicola torquata Serinus serinus
+Sitta europaea
+Sterna hirundo Streptopelia decaocto Streptopelia turtur Sturnus vulgaris Sylvia atricapilla Sylvia borin
+Sylvia communis Sylvia curruca
+Sylvia nisoria Tachybaptus ruficollis Troglodytes troglodytes Turdus merula
+Turdus philomelos Turdus pilaris Turdus viscivorus Upupa epops Vanellus vanellus
+Abundance SSI
+105 1.3147 336 0.8155 100 1.5746 194 1.5898 317 1.5068
+11 0.9355 137 1.0428 155 1.0585
+39 1.1509 451 0.8766 704 0.6910
+19 0.8846 753 1.0448 467 0.4231
+4893 0.7176 3004 0.3198 547 0.2926 639 0.7487 415 0.5762 127 1.0953 31 1.2266 696 0.9023 2968 0.3409 1787 0.3775 514 0.6207 501 0.9515 39 0.9534 136 1.4539
+CCA breadth
+77.87 97.81 82.37 78.66 75.44 86.90 80.30 64.52 36.44 99.54 96.73 79.62 92.47 90.26 92.33 98.53 89.86 75.24 87.66 42.86 84.14 98.01
+100.41 100.15 88.19 93.93 65.26 72.69
+First axis
+−0.4257 0.6824 1.2812 1.4384 1.3689
+−0.3120 −0.1202 −0.5683 −0.6573 −0.6567
+0.4411 −0.4481 −0.7656
+0.0587 −0.4604 0.1896 0.0172 −0.5361 −0.4607 −0.5115 −0.1252 0.8596 −0.0438 0.3196 −0.4614 0.8290 0.0554 −0.7730
+Second axis
+−0.1869 0.0783 0.1267 0.1269 0.1188
+−0.0343 0.1654 −0.7629 −0.7999 0.6584 0.1155 −0.2505 0.7025 −0.2850 −0.1823 −0.0044 −0.0982 −0.5067 −0.0707 −0.7699 0.1056 0.0677 0.1927 0.0219 −0.1488 −0.1087 −0.3251 −0.9837
+Third axis
+0.4579 −0.5606 −1.1748 −0.9404 −0.9701
+0.5773
+0.4182 −0.3699 −0.2354 −0.0484
+0.4414
+0.2463 −0.1588 0.1639 0.1264 0.0981 −0.0320 −0.1502 −0.2092 −0.1153 0.6915 −0.2157 −0.0149 −0.0463 −0.2318 −0.5611 0.5342 −0.2459
+Fourth axis
+2.4307 0.3592 0.0626
+−0.0176 −0.0017 1.6540 1.8624 0.0829 −0.1880 −0.0429 −0.0525 1.6039 −0.1952 −0.1039 −0.0021 0.0231 0.2016 −0.0459 0.1211 −0.2516 2.3971 0.1579 −0.0176 0.0285 0.4080 −0.0864 −0.4798 −0.1032
+ © 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+210 J. Reif, F. Jiguet and K. Sˇˇtastny' APPENDIX 2
+Classification of 137 common bird species counted by the Breeding Bird Monitoring Programme in the Czech Republic as specialists (S) or generalists (G) by 11 expert Czech ornithologists (Ex1–Ex11).
+              Species
+Ex1 Ex2 Ex3 Ex4 Ex5 Ex6 Ex7 Ex8 Ex9 Ex10 Ex11
+Conclusion Prop S
+              Carduelis cannabina Carduelis carduelis Carduelis chloris Carduelis flammea Carduelis spinus Certhia brachydactyla Certhia familiaris Charadrius dubius Ciconia ciconia Ciconia nigra
+Cinclus cinclus Circus aeruginosus C. coccothraustes Columba oenas Columba palumbus Corvus corax
+Corvus corone Corvus frugilegus Corvus monedula Coturnix coturnix Crex crex
+Cuculus canorus Cygnus olor Delichon urbicum Dendrocopos major Dendrocopos medius Dendrocopos minor Dryocopus martius
+GGGGGGGGGGG S S S S S S S S S S S S G G S S S G S G S S S G G S S G S G G S S
+G 0.00 S 1.00 S 0.64 S 0.55
+continued
+GGGSGGGGSSS GGGGGSGGSGS SSSSSSSSSSS G G S S G G G G S G G GSGSSSSSSSS
+Accipiter gentilis
+Accipiter nisus
+A. arundinaceus
+Acrocephalus palustris
+A. schoenobaenus
+Acrocephalus scirpaceus S S S S S G S S S S S
+Actitis hypoleucos Aegithalos caudatus Alauda arvensis Alcedo atthis
+G 0.36 G 0.27 S 1.00 G 0.27 S 0.82 S 0.91 S 1.00 G 0.09 S 0.64 S 1.00 S 1.00 G 0.09 S 1.00 S 0.73 S 0.73 S 0.82 G 0.36 S 0.64 G 0.36 S 0.64 S 0.55 S 0.91 G 0.09 S 0.91 G 0.45 G 0.18 G 0.09 S 0.55 S 0.64 S 0.73 S 0.55 S 0.55 G 0.18 S 0.73 S 1.00 G 0.45 G 0.18 S 0.91 G 0.00 G 0.09 G 0.00 G 0.36 G 0.45 S 0.91 S 0.91 G 0.09 G 0.27 SGGSSSGGSSS S 0.64
+SSSSSSSSSSS GGGGGSGGGGG GGSSSSSGGSS SSSSSSSSSSS SSSSSSSSSSS GGGSGGGGGGG SSSSSSSSSSS SGSSSGSGSSS SGSSSSGGSSS SSSSSSGSGSS GSGGGSGGSGS GGSSSSGGSSS SGGGGSGGSGS SSGSSGGGSSS SGGSSGGGSSS SGSSSSSSSSS GGGGGGGGSGG
+GGGSGSGGSSS GGGSGGGGSGG GGGGGGGGSGG GGGGSSGSSSS SGGSSSGGSSS G S G S S S G S S S S GGGSSSGSSGS GGSSGSGGSSS GGGGGGGGSGS SGSSSSGGSSS SSSSSSSSSSS SGGSGGGSSGS GGGGSGGGGGS SSGSSSSSSSS GGGGGGGGGGG GGGGGGGGSGG GGGGGGGGGGG SGGSGGGGSSG GGGGSSGSSSG SGSSSSSSSSS SSSSSSGSSSS GGGGGGGGGGS SGGSGGGGGSG
+Anas crecca
+Anas platyrhynchos
+Anas querquedula
+Anas strepera
+Anser anser
+Anthus pratensis
+Anthus trivialis
+Apus apus
+Ardea cinerea
+Aythya ferina
+Aythya fuligula
+Bucephala clangula
+Buteo buteo
+Caprimulgus europaeus S G S S S S S S S S S
+ © 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+APPENDIX 2
+Species
+continued
+Ex1 Ex2 Ex3 Ex4 Ex5 Ex6 Ex7 Ex8 Ex9 Ex10 Ex11
+Conclusion Prop S
+G 0.36 S 0.91 S 0.91 G 0.00 G 0.09 S 0.91 S 0.64 S 1.00 G 0.00 G 0.36 S 1.00 S 0.55 G 0.27 S 0.55 S 0.73 S 0.55 G 0.45 G 0.45 G 0.45 S 0.64 S 1.00 S 0.64 S 0.82 S 0.91 G 0.45 S 1.00 S 0.91 G 0.36 G 0.27 G 0.00 S 1.00 S 0.91 G 0.36 S 1.00 S 0.82 S 0.73 S 0.64 S 0.91 G 0.00 S 1.00 G 0.00 S 0.64 S 0.55 S 0.82 G 0.18 S 0.73 G 0.45 S 0.64 G 0.27 S 0.64 G 0.27 G 0.00 S 1.00 G 0.27 G 0.09
+Habitat specialization in birds 211
+                            GGGSSGGGSGS SSGSSSSSSSS
+Emberiza citrinella
+Emberiza hortulana
+Emberiza schoeniclus S S G S S S S S S S S
+Erithacus rubecula Falco tinnunculus Ficedula albicollis Ficedula hypoleuca Ficedula parva Fringilla coelebs Fulica atra Gallinago gallinago Gallinula chloropus Garrulus glandarius Hippolais icterina Hirundo rustica
+GGGGGGGGGGG GGGGGGGGGGS SSSSSSGSSSS SGGGSSGSSSS SSSSSSSSSSS GGGGGGGGGGG SGGSGGGGGSS SSSSSSSSSSS
+S G G S G S S G S S G GGGSGGGGSGS SSGGGGSSGSS SGSSSSGGSSS SGGGSGSSSGS GGGSGGGSSSS GGGSGSGGSSS SGSSGGGGSGS
+Jynx torquilla
+Lanius collurio
+Lanius excubitor
+Larus ridibundus
+Locustella fluviatilis
+Locustella luscinioides S S S S S S S S S S S
+Locustella naevia
+Loxia curvirostra Lullula arborea Luscinia megarhynchos Luscinia svecica Miliaria calandra Milvus migrans
+Milvus milvus
+Motacilla alba
+Motacilla cinerea Motacilla flava Muscicapa striata Nucifraga caryocatactes Nycticorax nycticorax Oenanthe oenanthe Oriolus oriolus
+GSGSSSGGSSS SSGSSSSGSSS SSSSSSSSGSS SSGGGSSGGGS SSSSSSSSSSS SGSSSSSSSSS GSGSGGGGGSS GGGSSGGGGGS GGGGGGGGGGG SSSSSSSSSSS SSGSSSSSSSS SGGGGSGSGGS SSSSSSSSSSS S S G S S S S G S S S GSGSSSSSSGS GSGSSSGSGSS SSGSSSSSSSS GGGGGGGGGGG
+SSGSSSSSGGG
+Periparus ater
+Cyanistes caeruleus
+Lophophanes cristatus S S S S S S S S S S S
+GGGGGGGGGGG SGGSSGGSSSS SGGGSSGSSGS SGGSSSSSSSS GGGSGGGGGGS GSSSSGSGSSS GGGSGGSGSSS SSGSGGSGSSS GGGSGGGGGSS SGGGSSSSSGS GGGGGGGSGSS G G G G G G G G G G G
+Parus major
+Poecile montanus
+Poecile palustris
+Passer domesticus
+Passer montanus
+Perdix perdix
+Pernis apivorus
+Phalacrocorax carbo
+Phasianus colchicus
+Phoenicurus ochruros
+P. phoenicurus
+Phylloscopus collybita
+Phylloscopus sibilatrix S S S S S S S S S S S
+Phylloscopus trochilus Pica pica
+Picus canus
+Picus viridis
+SGGGGGGGSGS GGGGGGGGSGG
+S S G S S G G S S S S S 0.73
+S G G S G G G S G G G
+G 0.27
+continued
+ © 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012
+
+212 J. Reif, F. Jiguet and K. Sˇˇtastny'
+APPENDIX 2
+Species
+continued
+Ex1 Ex2 Ex3 Ex4 Ex5 Ex6 Ex7 Ex8 Ex9 Ex10 Ex11
+                            S S S S S G S G S S G GGGGGGGGSGG GSGGSGSSSSS SGSSSSSGSSS SGGSSSSGSSS SSSSSSSSSSS SGSSSSSGGSS SGGSGGSSSSS SGGSSSSSSSS SGGGGGSSSGS GGGGSGGGGGG SSSSSSSSSSS
+Conclusion Prop S
+S 0.73 G 0.09 S 0.64 S 0.82 S 0.73 S 1.00 S 0.73 S 0.64 S 0.82 G 0.45 G 0.09 S 1.00 S 0.73 G 0.27 G 0.00 G 0.00 G 0.18 S 0.55 G 0.00 S 1.00 S 0.73 G 0.09 G 0.00 G 0.00 G 0.09 S 0.55 S 0.55 S 0.91
+of classifications of each
+Podiceps cristatus
+Prunella modularis
+Pyrrhula pyrrhula
+Regulus ignicapilla
+Regulus regulus
+Remiz pendulinus
+Riparia riparia
+Saxicola rubetra
+Saxicola torquata
+Serinus serinus
+Sitta europaea
+Sterna hirundo
+Streptopelia decaocto S S G S G S S G S S S
+Streptopelia turtur Sturnus vulgaris
+Sylvia atricapilla Sylvia borin
+Sylvia communis Sylvia curruca
+Sylvia nisoria Tachybaptus ruficollis Troglodytes troglodytes Turdus merula
+Turdus philomelos Turdus pilaris Turdus viscivorus Upupa epops Vanellus vanellus
+GGGGGGGSGSS GGGGGGGGGGG GGGGGGGGGGG GGGGGGGGGSS GGGSSSGGSSS GGGGGGGGGGG SSSSSSSSSSS SGSSGGSSSSS GGGGGGSGGGG GGGGGGGGGGG GGGGGGGGGGG GGGGGGGGGGS GGGSSSGGSSS GGGGSSGSSSS S G S S S S S S S S S
+ 'Conclusion', species classified by more than half of the experts as a specialist and vice versa; 'Prop S', proportion species as a specialist.
+© 2010 British Trust for Ornithology, Bird Study, 57, 197–212
+Downloaded by [University of Massachusetts, Amherst] at 10:51 20 June 2012

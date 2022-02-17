@@ -1,0 +1,626 @@
+ Syst. Biol. 61(3):461–489, 2012
+⃝c The Author(s) 2012. Published by Oxford University Press, on behalf of the Society of Systematic Biologists. All rights reserved. For Permissions, please email: journals.permissions@oup.com
+DOI:10.1093/sysbio/syr130
+Advance Access publication on January 4, 2012
+Multiple Quaternary Refugia in the Eastern Guiana Shield Revealed by Comparative Phylogeography of 12 Frog Species
+ANTOINE FOUQUET1,2,3,∗, BRICE P. NOONAN4, MIGUEL T. RODRIGUES1, NICOLAS PECH3, ANDRE ́ GILLES3, AND NEIL J. GEMMELL2,5
+1Molecular Ecology Laboratory, School of Biological Sciences, University of Canterbury, Private Bag 4800, Christchurch, 8140 New Zealand; 2Departamento de Zoologia, Instituto de Biocieˆncias, Universidade de Sa ̃o Paulo, Caixa Postal 11.461, CEP 05422-970 Sa ̃o Paulo, Sa ̃o Paulo, Brazil; 3Institut Me ́diterrane ́en de Biodiversite ́ et d’Ecologie, UMR 6116, Equipe Evolution Ge ́nome Environnement, Centre St. Charles, Case 36, 3 place Victor Hugo, 13331 Marseille, France; 4Department of Biology, University of Mississippi, Box 1848, MS 38677, USA; and 5Centre for Reproduction and
+∗ Genomics, Department of Anatomy, University of Otago, PO Box 913, Dunedin, 9054 New Zealand; Correspondence to be sent to: Departamento de Zoologia, Instituto de Biocieˆncias, Universidade de Sa ̃o Paulo, Caixa Postal 11.461,
+CEP 05422-970 Sa ̃o Paulo, Sa ̃o Paulo, Brazil; E-mail: fouquet.antoine@gmail.com.
+Received 14 April 2011; reviews returned 11 August 2011; accepted 11 December 2011 Associate Editor: Brett Riddle
+Abstract.—The Guiana Shield (GS) is one of the most pristine regions of Amazonia and biologically one of the richest areas on Earth. How and when this massive diversity arose remains the subject of considerable debate. The prevailing hypothesis of Quaternary glacial refugia suggests that a part of the eastern GS, among other areas in Amazonia, served as stable forested refugia during periods of aridity. However, the recently proposed disturbance–vicariance hypothesis proposes that fluctuations in temperature on orbital timescales, with some associated aridity, have driven Neotropical diversification. The expectations of the temporal and spatial organization of biodiversity differ between these two hypotheses. Here, we compare the genetic structure of 12 leaf-litter inhabiting frog species from the GS lowlands using a combination of mitochondrial and nuclear sequences in an integrative analytical approach that includes phylogenetic reconstructions, molecular dating, and Geographic Information System methods. This comparative and integrated approach overcomes the well-known limitations of phylogeographic inference based on single species and single loci. All of the focal species exhibit distinct phylogeographic patterns highlighting taxon-specific historical distributions, ecological tolerances to climatic disturbance, and dispersal abilities. Nevertheless, all but one species exhibit a history of fragmentation/isolation within the eastern GS during the Quaternary with spatial and temporal concordance among species. The signature of isolation in northern French Guiana (FG) during the early Pleistocene is particularly clear. Approximate Bayesian Computation supports the synchrony of the divergence between northern FG and other GS lineages. Substructure observed throughout the GS suggests further Quaternary fragmentation and a role for rivers. Our findings support fragmentation of moist tropical forest in the eastern GS during this period when the refuge hypothesis would have the region serving as a contiguous wet-forest refuge. [Anura; comparative phylogeography; Guiana Shield; Quaternary; refugia.]
+As concern grows over the destruction of tropical forests (Lyles 1988; Laurance et al. 2002; Da Silva et al. 2005; Laurance 2007), the consequences of climate change (Pounds et al. 1999; Rull and Vegas-Vilarrubia 2006), and the global decline of species richness (Pimm et al. 1995; Avise et al. 2008), it is imperative that we better understand the scope and history of megadiverse regions such as tropical rainforests (Balakrishnan 2005). Withuptoathirdofspeciescurrentlyconsideredimperiled (Stuart et al. 2004), amphibians are the most threatened vertebrates (Beebee 1992; Pounds 2001; Mendelson et al. 2006) highlighting the urgent need to document diversity to optimize conservation efforts.
+Anurans are particularly sensitive to climate change (Pounds and Crump 1994; Pounds et al. 1999). Reasons for this include their generally biphasic life cycle, permeable skin, and exposed eggs (Carey and Alexander 2003; Buckley and Jetz 2007). Moreover, frogs are generally philopatric and have low vagility (Duellman 1982; Blaustein et al. 1994; Beebee 1996). These characteristics are likely to foster diversification, to produce strongly structured phylogeographic patterns (Zeisset and Beebee 2008) and high levels of endemism (Duellman 1999). Consequently, in addition to being of particular conservation concern, they also constitute an
+important and appropriate system for studies of biodiversity and phylogeography.
+The Neotropical realm holds a crucial position for frogs because it hosts by far the greatest diversity on Earth (Duellman 1999). Though a few recent studies have enhanced our understanding of the complex origins of Amazonian biota (e.g., mammals: Da Silva and Patton 1998; fish: Hubert and Renno 2006; anurans: NoonanandWray2006;Santosetal.2009;Lo ̈ttersetal. 2010; birds: Nya ́ri 2007; ants: Solomon et al. 2008), very few have focused on the lowlands of the Guiana Shield (GS) (Noonan and Gaucher 2005; 2006; Fouquet et al. 2007c; Duputie ́ et al. 2009). Additional studies have examined patterns of genetic structure within small politically delimited areas of the GS lowlands (Caron et al. 2000; Dutech et al. 2000, 2003, 2004; Steiner and Catzeflis 2003; Van Vuuren et al. 2004), yet of all studies, only Noonan and Gaucher (2005, 2006) provide an explicit time frame for the histories investigated.
+The GS is located on the northeast coast of South America, bound by the Rio Orinoco to the west, and the lower reaches of Rio Amazonas to the south (Fig. 1). This region is pristine (>90% undisturbed), extremely biodiverse, and one of the least explored regions of Amazonia (Huber and Foster 2003; Hammond 2005). Within
+461
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 462 SYSTEMATIC BIOLOGY VOL. 61
+  FIGURE 1. Relative position (inset) and map of the GS (after Hammond 2005). The white border outlines the region and divides the eastern and the western subregions. Countries and major rivers are indicated as well as important features such as the Rupununi Savannas and the tepuis.
+the GS itself, two distinct areas are recognized, the western highlands of Venezuela and Guyana (Pantepui) and the lowlands of the east. The Rupununi savannah area of the Essequibo River-Rio Branco latitudinally bisects these regions. The eastern region, on which we focus, lies mostly below 400 m above sea level and comprises French Guiana (FG), Suriname, eastern Guyana, and all or part of the Brazilian states of Amapa ́, Para ́, and Amazonas.
+The “how, when, and where” regarding the origins of Amazonian biota are greatly debated (e.g., Bush 1994; Haffer 2008; Rull 2008; Hoorn et al. 2010). The observed biogeographic patterns in Amazonia led Haffer (1969) to suggest isolation of moist forest refugia during periods of increased aridity coincident with temperate glacial maxima. However, studies of paleofloral community structure (Bush 1994; Colinvaux et al. 1996, 2000; Rull 2004) suggest that temperature and atmospheric CO2 concentration, not precipitation, were the primary drivers of paleodistributional changes of Amazonian biota during Quaternary glacial cycles. Furthermore, palynology, geomorphology (Colinvaux et al. 2000), and climate modeling (Mayle et al. 2004) suggest that these changes were not strong enough to produce broad fragmentation of Amazonian forest. This proposal, referred to as the disturbance–vicariance (DV) hypothesis by Moritz et al. (2000), also suggests that although orbital (Milankovitch) cycles are linked to temperate glaciations, the effects of these asynchronous cycles (precession, obliquity, and eccentricity) starting around 2.6 Ma likely supersedes temperate glaciations in their influence on tropical climate. Though there is little empirical data supporting broad scale turnover of biomes (forest vs. savannas) within Amazonia, there is evidence that peripheral and ecotonal areas have suffered reduced precipitation and forest fragmentation (Mayle et al. 2004). Current botanical communities are theproductofthesehistoricalchanges(Servant2000),a
+history exemplified by the patches of savanna and different types of forests peppered through the eastern GS (Gond et al. 2011). Given the size of Amazonia and the current climatic and habitat heterogeneity through its range, it is unsurprising that palynological (see Van der Hammen and Absy 1994; Hooghiemstra 1997), geomorphological (reviewed by Clapperton 1993), and simulation studies (Turcq et al. 2002; Mayle et al. 2004) suggest that at the same time in the Quaternary some areas were considerably drier (e.g., on the eastern and southern periphery) and others wetter than today. It is therefore impossible to generalize paleoclimatic conditions for the entire region from the meager data currently available, particularly when central and eastern Amazonia are almost entirely devoid of sampling sites (Pennington et al. 2000).
+While many hypotheses that rely on geological phenomena (orogeny, e.g., Santos et al. 2009) or features of landscapes (large rivers) have been proposed to explain diversification in Amazonia (reviewed by Moritz et al. 2000; Noonan and Wray 2006; Hoorn et al. 2010), these are generally not applicable to diversification within the geologically stable lowlands of the eastern GS which harbors relatively small rivers compared with those forming the Amazon basin. Thus, high levels of intraspecific divergence within the eastern GS are not predicted by diversification hypotheses that fail to consider climatic phenomena. In the frog genera Atelopus and Dendrobates (Noonan and Gaucher 2005, 2006), forest leaf-litter frogs associated with the modest uplands of the eastern GS, a north–south phylogeographic pattern originating during early Pleistocene has been recovered. Conversely, genetic structure among populations of open habitat species like the plant genera Manihot (Duputie ́ et al. 2009) and Pitcairnia (BoisselierDubayle et al. 2010), the frog Dendropsophus gaucheri (Fouquet et al. 2011), and the rattlesnake Crotalus durissus(Wu ̈steretal.2005)suggestsrecentconnections
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 2012 FOUQUET ET AL.—QUATERNARY REFUGIA IN THE EASTERN GUIANA SHIELD 463
+ among populations that are currently isolated by rainforest in the eastern GS. These phylogeographic patterns suggest historical fluctuations in distributional continuity in response to environmental changes.
+Progress in phylogeographic studies will depend on incorporating the “statistical phylogeography” paradigm (Knowles 2009; Hickerson et al. 2010). Although this approach represents an ideal, several factors currently limit its implementation in some phylogeographic studies. Unlinked rapidly evolving nuclear markers are currently unavailable and difficult to design for many nonmodel organisms (but see Baird et al. 2008; Abdelkrim et al. 2009). Additionally, for many poorly studied groups of organisms from undersampled regions, there may be little or no data from which to develop a priori hypotheses necessary for this approach. The GS is one such poorly studied area and the diversity, distribution, and ecology of anurans in this region are particularly poorly known. Quaternary paleoecological data are actually scarce in Amazonia in general and by extension the eastern GS. Given that so little information exists on Quaternary climate and vegetation change, investigate the forces driving biological diversification in this region can be challenging.
+Here, we investigate the phylogeographic structure of 12 frog species associated with rainforest litter in the eastern GS. Unlike the patchily distributed uplandrestricted GS species studied by Noonan and Gaucher 2005, 2006) our study species’ broad, contiguous ranges are restricted either to the GS (seven species) or to the widespread over Amazonia (five species) (Appendix 1). These lowland species are believed to be incapable of dispersing through large dry forests or open areas (savannas). If parts of the eastern GS were periodically covered by unsuitable habitat for these species during the Quaternary, they would have acted as barriers for those species with divergence among isolates (DV hypothesis). However, if the eastern GS harbored a single forest refugium, as suggested by Haffer (1969), then one would expect genetic homogeneity among extant populations within this region. Geographic overlap or contact of genetic lineages in the single refuge model would then be the result of immigration from adjacent regions. Nevertheless, phylogeographic structure can arise even in the absence of a real barrier to gene flow through the stochastic processes of coalescence and gene drift phenomena (Irwin 2002; Kuo and Avise 2005; Excoffier and Ray 2008). However, in such cases, one would not expect any congruence among the phylogeographic patterns of codistributed taxa nor would we expect unlinked loci to show common patterns (Kuo and Avise 2005). Another difficulty lies in the fact that even when sharing similar histories of isolation one would not a priori expect concordance among species and unlinked genes to be obvious given different ecologies, dispersal abilities, ancestral polymorphism, the stochasticity of lineage sorting, and the very different effective sizes of genes. Using a multitaxa multilocus approach, we sought to overcome the stochasticity inherent to both the coalescent histories of unlinked gene regions (Hudson
+and Turelli 2003) and the different species of the GS to develop a generalized view of the evolutionary patterns of the regional biota. Specifically, we investigated the time frame of intraspecific diversification and whether it originated in situ or if lineages represent Amazonian colonists. We subsequently tested for intraspecific spatial and temporal congruence among the observed patterns. If temporally and spatially congruent phylogeographic breaks between lineages that originated in situ are recovered then we would be able to assume that drastic changes in habitat distribution occurred in this region.
+MATERIALS AND METHODS
+Sampling
+We sampled 757 individuals (Online Appendix, doi:10.5061/dryad.bj1514fn/1) from 12 species; two species from each of six genera, and a minimum of 32 individuals/species. Data from all but 27 individuals were obtained from specimens collected during fieldwork by the authors or from tissue loans. As species boundaries for the selected taxa are poorly defined, we also sampled at least one individual of each congener occurring in the eastern GS in addition to those available from Genbank (159 species). This broad sampling design ensures inclusion of all available data encompassing the evolutionary history of the eastern GS lineages. For the same reasons, we excluded from our 12 focal species, some individuals initially perceived as conspecific, but whose identity was rendered uncertain by preliminary analyses here and in Fouquet et al. (2007b). These taxonomic considerations are fully explained in Appendix 2. Forty additional species were used as outgroups (Online Appendix, doi:10.5061/dryad.bj1514fn/1), with a minimum of three per analysis.
+The focal species were chosen because they exhibit a broad range of life history strategies and distributional patterns and represent distinct evolutionary lineages (Appendix 1). Seven of these species are restricted to the GS; the remaining five are considered to be widespread over Amazonia (Appendixes 1 and 2). All are relatively abundant forest litter species virtually continuously distributed across their range.
+Molecular Methods
+Tissue was taken from thigh muscle or liver and preserved in 95% ethanol. Genomic DNA was extracted using either standard phenol chloroform or lithium chloride methods (Gemmell and Akiyama 1996). Two fragments, one mitochondrial DNA (mtDNA) (12S rDNA and 16S rDNA) and one nuclear DNA (nuDNA) (tyrosinase exon 1), were amplified by standard polymerase chain reaction techniques. Primers used for amplification were those described by Salducci et al. (2005) for 16S and 12S and by Bossuyt and Milinkovitch (2000) for tyrosinase. We designed additional primers to amplify the tyrosinase locus for some genera (Appendix 3).
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 464 SYSTEMATIC BIOLOGY VOL. 61
+ Sequencing was performed using ABI Big Dye V3.1 (ABI, Foster City, CA) and resolved on an automated sequencer at Macrogen Inc. (Korea) and the University of Canterbury sequencing service (New Zealand). Sequences were edited and aligned with Sequencher 4.1 (Gene Code Corp, Ann Arbor). Polymorphic sites were called using the multiple peaks function in Sequencher and were then checked by eye, corrected when necessary, and coded using IUPAC ambiguity codes. Novel sequences were deposited in Genbank (Online Appendix, doi:10.5061/dryad.bj1514fn/1).
+Data Description
+We used DnaSP 5 (Librado and Rozas 2009) to calculate haplotypic (Hd) and nucleotide (Pi) diversity and conduct Tajima’s D (Tajima 1989), F* and D* tests of Fu and Li (Fu 1997) of neutrality in each species and for mtDNA and nuDNA.
+To determine the most probable alleles for individuals heterozygous for nuDNA sequence, we used PHASE (Stephens et al. 2001; Stephens and Donnelly 2003) implemented in DnaSP 5 (Librado and Rozas 2009) on each of the six alignments (congeners were aligned together). We used default conditions, including 500 iterations (which were sufficient to reach stationarity), a burn-in of 100, and a thinning interval of 1. We used the default cutoff thresholds (p = q = 90%). To improve reliability, we ran the algorithm multiple times with different random number seeds. We chose the run with the highest average value for the goodness of fit.
+Phylogenetic Analyses
+We collated all data available for the 12S and 16S rDNA (six data sets, one for each genus, http://purl. org/phylo/treebase/phylows/study/TB2:S12162). Out groups were chosen among the closest genera according to Grant et al. (2006) for Allobates and Anomaloglossus, Pramuk et al. (2007) for Rhinella, Heinicke et al. (2007) for Pristimantis and according to preliminary analysis and Fouquet et al. (2007c) for Adenomera and Leptodactylus (Appendix 1). Alignments of sequences were performed with Clustal X (Thompson et al. 1997) with a gap penalty of five, and other parameters set to the default settings. Alignments were verified by eye and obvious misalignments corrected.
+We used the software Modeltest version 3.6 (Posada and Crandall 1998) to select the substitution models that best fit the mtDNA data sets for each genus (unique haplotypes only) using the Akaike information criterion (Akaike 1981). These models (Appendix 4) were employed in Bayesian analysis performed with MrBayes 3.1 (Huelsenbeck and Ronquist 2001) on the University of Canterbury Supercomputer (http://www.ucsc.canterbury.ac.nz). Bayesian7 analysis consisted of two independent runs of 2.0 × 10 generations with random starting trees and 10 Markov chains (one cold) sampled every 1000 generations. Adequate
+burn-in was determined by examining a plot of the likelihood scores of the heated chains for convergence on stationarity as well as the effective sample size (ESS) of values in Tracer 1.3 (Rambaut and Drummond 2003). We also examined convergence on stationarity on bivariate plots of the split frequencies, cumulative split frequency for all splits for the two runs of the simulation, and symmetric tree–difference score (Penny and Hendy 1985) within and between runs using AWTY (Wilgenbusch et al. 2004). We also employed maximum parsimony with PAUP 4.0b10 (Swofford 1993). Support for proposed clades was assessed via 1000 nonparametric bootstrap pseudoreplicates (Efron 1979; Felsenstein 1985) with the heuristic search option, tree bisection–reconnection branch swapping and 10 random taxon addition replicates per pseudoreplicate. We considered relationships with posterior probabilities 0.95 (Erixon et al. 2003) and/or bootstrap percentages 70% (Hillis and Bull 1993) to be strongly supported.
+Statistical Parsimony Networks
+Statistical parsimony networks were calculated separately for the nuDNA and mtDNA using TCS 1.21 (Clement et al. 2000), with a 95% connection limit. Because some haplotype groups were not connected to each other within the 95% limit of probability of parsimony used by TCS, we attempted to connect them by increasing the connection threshold up to a maximum of 30 steps.
+We subsequently used nested clade delineation according to the criteria of Templeton (1998) to examine the relationship between mtDNA haplotypes. For the following analyses, we considered as “lineages” clades concordant with tree reconstructions and networks; divergent by more than 1% with its closest relative and/or displaying clear geographical discontinuity (i.e., clades highly divergent but displaying geographical proximity). These criteria corresponded to three step clades and over in all species except for Ad. andreae and Al. femoralis for which we considered four step clades and over. We acknowledge that such criteria could be considered arbitrary, but we feel that using this combination of criteria was the best way available to delimit comparable entities and to handle groupings that remained ambiguous using tree reconstruction. Moreover, given the recent criticism of the Nested Clade Analysis (Knowles and Maddison 2002; Panchal and Beaumont 2007; Petit 2008), we emphasize here that we only used the haplotype clustering principle not the highly criticized inference key.
+Geographical Analysis
+To search for spatial congruence among genetic structures, we first mapped the distribution of each mtDNA lineage (as defined above) using MapInfo 7.0 (www.mapinfo.com). The locality of each lineage was delimited using a circle arbitrarily set with a 25 km diameter. We used a classical convex polygon method
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 2012 FOUQUET ET AL.—QUATERNARY REFUGIA IN THE EASTERN GUIANA SHIELD 465
+ (Mohr 1947) to draw the connections between sampled localities to define the range of each lineage. Locations where breaks between lineages occur were mapped by delimiting the areas between the lineage polygons, circumscribed within the global polygon of the species. Basically, these polygons correspond to areas containing the putative contact zone among lineages. Using the same methodological framework of Swenson and Howard (2005) to summarize the spatial pattern of breaks in genetic lineages, we overlaid all observed “breaks” and summed the number of breaks crossing each 40 km2 grid cell across the eastern GS.
+Given that the sampling and/or distribution of samples among species are not completely homogenous, the number of breaks recorded in a given grid cell is influenced by the number of species’ ranges that cross that cell. For each grid cell, we determined the number of species (species polygons) intersecting it. Then, for each cell, we divided the total number of breaks by the total number of species occurring in that cell.
+Divergence Time and Rates of Molecular Evolution
+Relaxed Bayesian molecular clock.—To estimate the time of divergence of basal splits within species and the molecular rates of evolution separately for mtDNA and nuDNA, we used a relaxed Bayesian molecular clock with uncorrelated log normal rates (Beast 1.4.6; Drummond and Rambaut 2003). Unresolved relationships among haplotypes and intraspecific lineages could impact upon estimates of divergence times and rates of evolution (Won and Renner 2006) particularly when using relatively small amount of data (<1 kb) in shallow relationships (Brown and Yang 2010). Thus, we collated the mtDNA data set with all the focal species represented by a reduced number (total of 97 terminal taxa; Appendix 4) of haplotypes and lineages per species to obtain a “supertree” as resolved as possible. For the nuDNA data, we used one randomly selected sequence per species for the focal species (total of 43 terminals; Appendix 4).
+Thirteen divergence estimates from the literature were used to place priors on the age of nodes within our supertree (Appendix 5). Eleven calibration points were set as normal distributions and two as upper bounds (Appendix 5). Twenty-three additional species were selected so that these calibrations could be used on our tree. Clades corresponding to these calibration points and all genera were set as monophyletic with the exception of Leptodactylidae. We used an estimate of 63 Ma (normal distribution, standard deviation = 10) for the basal split of Hyloidea (the root of our supertree) consistent with that used previously by Roelants et al. (2007) and San Mauro et al. (2005).
+The tree prior used the Yule Process, with a UPGMA starting tree and the operators were optimized by a preliminary run of 106 generations sampled every 1000
+burn-in was determined by examining a plot of the likelihood scores of the heated chain for convergence on stationarity. We also examined convergence on stationarity from bivariate plots as described for phylogenetic analyses (above). We estimated the mtDNA rates of molecular evolution in each species by calculating the mean of the rates provided for each branch within the species (Appendix 1). For subsequent analyses, we used the overall estimates of the rates of our mtDNA and nuDNA loci.
+To account for the haplotype variability within species and estimate divergence time with more confidence, we used two complementary methods described hereafter. Moreover, while divergence time estimates for deep splits have greatly improved in the past years, it still is unclear which method is best for inferring intraspecific divergence times (Arbogast et al. 2002; Knowles 2004). Consequently, we prefer to use a combination of different methods and seek concordances.
+Distance-based divergence time method.—Another method that we used for estimating the timing of diversification involved the study of the distribution of pairwise genetic distance within each species. Available methods to detect modifications of diversification rates are mostly based on the internode distances of an inferred tree. They either identify boosts of diversification among clades (e.g., Magallon and Sanderson 2001; Roelants et al. 2007) or selective mass extinctions (Heard and Mooers 2002). They may also deal with the identification of modifications of the diversification rate across the whole tree, at a given time. In this last case, plotting the accumulation of lineages through time (LTT plot, Harvey et al. 1994) helps to identify departures from a reference model of diversification (Roelants et al. 2007). Later, Pybus and Harvey (2000) and Pybus et al. (2002) enhanced this approach by testing the null hypothesis of a pure birth model. Their γ statistic is based on the relative position of internal nodes. As pointed by the authors, γ can be considered as a measure of the shape of the LTT plot. However, methods based on pure birth models are potentially unable to detect temporal increases in diversification rates (Pybus and Harvey 2000) given an increased number of terminal taxa may reflect an increase of birth rate as well as a high death rate (as young lineages have less time to go extinct). Such phenomena, coined the “pull of the present” (Nee et al. 1994), are virtually impossible to distinguish. To overcome this limitation, Rabosky (2006) proposed a likelihood-based approach, which uses Akaike information criterion to select among seven possible diversification models including changes in diversification rates. However, this approach may not identify the true characteristics of the data given the limited scenarios available. Considering (i) the impediments of currently available methods as mentioned above, (ii) that these methods require a high degree of resolution, notably an absence of polytomies that unfortunately our data suffer from, and (ii) that these
+6 generations sampled every 1000 generations. Adequate
+generations followed by two independent runs of 10
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 466 SYSTEMATIC BIOLOGY VOL. 61
+ methods are not designed to be employed with either a multitaxa approach or with intraspecific, it was necessary to design a new tool that fit our question and data.
+Our new method, implemented in the R language (R Development Core Team 2010), is built on the idea, first expressed by Slatkin and Hudson (1991), that the pairwise distances distribution among sequences may reflect the timing and tempo of evolutionary diversification. As pointed out by Slatkin and Hudson (1991), variations in the birth and/or death rates of the lineages leave signatures on the distribution of pairwise distances among individuals. For example, a sudden diversification event will generate a high number of lineages of similar age. In such a case, we expect to observe a distribution of pairwise distances that exhibits modes corresponding to the origin of the different lineages and to differences among closely related haplotypes within each lineage. In contrast, a more continuous process of diversification would generate a smoother distribution. Hence, we seek here to identify the pattern of the pairwise distribution. Mode(s) of such a distribution will allow us detecting signatures of divergences events.
+Several approaches exist to estimate the distribution of an empirical histogram: parametric estimators via a mixture of normal distributions (McLachlan and Peel 2000) or nonparametric estimators of the density based on kernel smoothing (Wand and Jones 1995). When the observations are mutually independent, such estimators are unbiased estimators of the density. In the case of pairwise distances, observations are not independent. We therefore considered kernel density estimate based on the Gaussian density as a smoothing operation of the pairwise distribution. The smoothing operation has been performed using the density function of R with default values. It defines fobs(x) =
+1 Pn x−xi 1 −x2
+n×h × i=1 K h , with K(x) = √2π e 2 , in which,
+h = smoothing parameter, n = number of observations (pairwise distance), x = value at which density is estimated, and xi = observation (pairwise distance).
+We then tested and characterized the difference between (i) the observed pairwise distances distribution fobs and (ii) expected pairwise distances distribution under a null model of diversification with constant rates of birth and death (H0), chosen because it represents “the simplest model for the growth of a tree” (Nee et al. 1994). Let us define (H0): “The process responsible for the observed distribution is a simple birth– death process with rates being constant across time” versus (H1): “The process responsible for the observed distribution departs from a simple birth–death process.” To test (H0) against (H1), we considered the statistic D = d fobs, pH0 , where d is the Kullback–Leiber symmetric distance: d(p, q) = Ep(ln(p/q)) + Eq(ln(q/p)).
+Thetheoreticalpairwisedistributionunder(H0) pH0 is estimated by fH0 , the mean distribution of B (B = 1000) simulations of a pure birth–death process until having the same number of individuals than in the corresponding data set. To be able to perform these simulations, we
+used birth and death rate estimations derived from the maximum likelihood estimators proposed by Nee et al. (1994). It is noteworthy here that the birth–death rate estimation procedure requires the assumption of a molecular clock. The P value of the test: pH0 D > dobs is then approximated by
+Pn k=1
+where fH0 = B1
+k=1
+sis is rejected, we considered two possible ex-
+planations: (i) birth (μ) and/or death (λ) rates are varying through time (i.e., the species underwent diversification/extinction phases) and (ii) the molecular clock assumption is violated (i.e., rates vary among lineages). Given the time scale involved and the fact that speciesspecific rates estimated using relaxed clock vary very little among species (ii) is unlikely (see Results section). When the discrepancy between observed and theoretical distribution is significant, an examination of their respective distributions may help to identify modifications of diversification rates. Given previous phylogenetic analyses and molecular dating, we restricted our data set to lineages displaying a comparable degree of divergence (i.e., we excluded lineages deeply divergent from those of the GS) and used the rate of substitution estimated for our mtDNA data from relaxed clock to convert distances into time.
+We propose here a statistical method to identify a departure from (H0) and an associated graphical representation that allows estimating the timing of such events. Our approach is not computationally intensive and is complementary to other methods employed in our paper. Another advantage of this method is that, unlike current methods mentioned previously, the distribution and timing of divergence events are inferred without relying on any phylogenetic priors among haplogroups.
+Pattern of Timing of Divergences
+We then investigated whether a general pattern emerges from combining these specific distributions and, if so, identified these as major diversification events. To that end, we (i) identified in each distribution estimated via kernel smoothing the different modes (all the local maximums of the distribution were considered as modes) and (ii) tested the null hypothesis of uniformly distributed modes over time via a Kolmogorov–Smirnov test. All modes from each distribution were weighted equally and gathered into a single distribution.
+The distribution f of the obtained modes was then estimated by kernel density estimate. The density f is esti-
+mated by f (x) =
+1 d fk,H0,fH0 B
+> d fobs,fH0
+fk,H0. When the null hypothe-
+,
+ Pn
+      Pn
+1 K x−xi in which xi correspond n×h i=1 h
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 2012 FOUQUET ET AL.—QUATERNARY REFUGIA IN THE EASTERN GUIANA SHIELD 467
+ to the modes and h is the smoothing parameter (here h = 0.2) and K is the density of the standardized Gaussian distribution.
+Coalescence-based method.—Given previous works (Noonan and Gaucher 2005, 2006; Fouquet et al. 2007b, 2007c; Duputie ́ et al. 2009) and our preliminary results on spatial and temporal concordance among the phylogeographic patterns, northern FG and other areas within the GS can be assumed to have harbored isolates during the Quaternary. We therefore used IMa (Hey and Nielsen 2007) to explore the demographic history of distinct groups of populations in the eastern GS (in three cases grouping adjacent populations from FG and Amapa ́ or Suriname) (Appendix 6) using mtDNA and phased nuDNA data. With this method, we were able to simultaneously estimate the effective population size of the two groups, the ancestral population size before splitting, migration rates, and the time since divergence.
+Analyses of demographic history (IMa) were run several times to estimate appropriate parameter values to bound “well-behaved” posterior distributions. Convergence was determined by evaluating the consistency of model values for each parameter. At least two final runs for each pairwise comparison comprised 1 × 107 generations sampled every 100 preceded by a burn-in of 1 × 105 generations and using 10 chains with terms of the geometric increment model set to Term1 = 0.8 and Term2 = 0.99. In two cases (Ad. heyeri and Al. granti 3-1 vs. 3-2) posterior estimates of t did not stabilize (unless migration was constrained to 0). In some cases, the posterior distribution of t did not approach 0 after reaching a peak but plateaued. In those cases, we bounded the upper limit using an approximate minimum value from the beginning of the plateau.
+Having estimated μ for each locus using relaxed clock molecular dating, we calculated the population divergence time (T) using the formula t = T∙u∙N, where t is generated by the program, u is geometric mean of the substitution rates of the two loci, and N is the generation time. We calculated u as l∙k, where l is the substitution rate per site per year and k is the length of the sequence.
+We acknowledge that the use of mtDNA-based groups, instead of “populations” violates one of the basic assumptions of the model. Despite these violations, numerous studies have employed this method and observed results that make biological sense (e.g., Carstens et al. 2005; Cabanne et al. 2008; Markova ́ et al. 2010). As most of the groups considered actually share nuDNA alleles, the program is charged with interpreting these either as migration or as ancestral polymorphism. Nevertheless, these analyses are necessarily an approximation of the reality that must be kept in mind.
+Generation time is expressed as a function of the age at maturity and the survival rate (Saether et al. 2005). This parameter is subject to some uncertainty and thus, cautious interpretations, as we lack basic information on life history for most tropical amphibians including our
+focal taxa (Wells 2007). Nevertheless, we can average this parameter using data from closely related species and those thought to have similar life histories. We considered the survival rates past first breeding to be close to 0 in all species, thus only considering the first reproduction to be significant. We also considered all small bodied species to have a 1 year generation time, which we increased to 1.5 years in larger species that typically have large clutches (for additional justifications, see Appendix 2).
+Approximate Bayesian Computation
+The synchrony of vicariance events of codistributed sister lineages sharing a genealogical break within eastern GS was tested using Approximate Bayesian Computation (ABC) as implemented in MTML-msBayes (Huang et al. 2011). This Bayesian method has advantages over traditional phylogenetic interpretations of biogeography because it considers the genetic variance associated with the coalescent and mutational processes, as well as the among-lineage demographic differences that affect patterns of gene-tree coalescence. Inheritance scalars for nuDNA and mtDNA were scaled to take into account difference in generation time across species and mutation rate scalars were based on relaxed clock estimates. Each set of hyperposteriors was constructed from 1000 accepted draws from K = 5 × 106 simulated draws from the hyperprior using the acceptance/rejection with local regression algorithm (Beaumont et al. 2002). The Omega (Ω) value (the ratio of variance to the mean in the divergence times) allows us to distinguish between (i) simultaneous divergence history and (ii) variable divergence history among population pairs.
+RESULTS
+Data Description
+Our study generated 647 12S rDNA, 538 16S rDNA, and 648 new tyrosinase sequences for the 12 selected species (Online Appendix, doi:10.5061/ dryad.bj1514fn/1). Additional published sequences bring these numbers to a total of 749 concatenated 12S rDNA + 16S rDNA and 691 tyrosinase sequences. Novel and existing sequences from congeneric outgroups added a total of 244 and 118 sequences, respectively. The resulting alignments for each genus range from 790 to 866 bp for mtDNA (varying due to indels in loops regions) and from 524 to 617 for nuDNA (varying due to position of primers used) (Appendix 4).
+All the species display a large number of unique mtDNA haplotypes (mean Hd = 0.893 ± 0.067) (Appendix 1a). Maximum haplotypic diversity was observed in Ad. andreae (Hd = 0.976 ± 0.006) with 69 haplotypes (taking gaps into account) from 91 individuals and minimum Hd was observed in Rh. castaneotica (Hd = 0.745±0.059) with 20 haplotypes from 64 individuals. The maximum nucleotide diversity for
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 468 SYSTEMATIC BIOLOGY VOL. 61
+ mtDNA was observed in Le. wagneri B (Pi = 0.0367 ± 0.0032), with the minimum observed in Rh. castaneotica (Pi = 0.0052 ± 0.0011).
+Most individuals were recovered with unambiguous nuDNA phasing (1.0–0.9 posterior probability) but despite multiple attempts the phasing of some individuals remained uncertain because they harbor too many polymorphic sites. The genetic variability of phased nuDNA is also very high (mean Hd = 0.861 ± 0.124), with allele diversity ranging from 0.990 (±0.002) in Ad. andreae to 0.606 in Al. granti (±0.072) (Appendix 1b) and nucleotide diversity ranging from 0.0149 (±0.0015) in Anomaloglossus sp. to 0.0021 (±0.0002) in Pr. chiastonotus. The number of haplotypes (H), variable sites (S), and nucleotide diversity (Pi) are highly correlated between mitochondrial and nuDNA data sets (For H, S, and Pi Spearman’s correlation coefficient, rs, were 0.682**, 0.856**, and 0.699**, respectively).
+Tests of selection were significant in only one case for the mtDNA data, where a negative Tajima’s D suggested either positive or purifying selection in Rh. castaneotica (Appendix 1a). For the nuDNA, tests of selection were significant in three species (Appendix 1b). All three tests were significant for Ad. andreae, whereas only Tajima’s D was significant in Pr. chiastonotus and Pr. zeuctotylus.
+Phylogenetic Trees and Network Reconstruction
+All but one of the 12 species examined were monophyletic with respect to the congeners included in our analyses (Fig. 2, Appendix 7, doi:10.5061/dryad. bj1514fn/2)—Le. didymus was nested within Le. mystaceus with strong support. All species exhibited high levels of intraspecific mtDNA differentiation across their ranges (detailed hereafter). Though many of these haplotypes clearly cluster as independent lineages, the support for relationships among them is often poor (Fig. 2). In several species, the intraspecific genetic divergence (mtDNA uncorrected distance) is very high (exceeding 6% in three instances: Al. femoralis, Le. mystaceus, Le. wagneri B). However, most of the haplotypes sampled within FG, Amapa ́, and Suriname display divergences below 4%. The observed instance of paraphyly (above) is strongly supported, and Le. mystaceus has been recognized as a complex of cryptic species (De la Rivaetal.2000;deSa ́etal.2005;Toledoetal.2005; Fouquet et al. 2007b). Similarly, Al. femoralis lineages from southwestern Amazonia likely represent a different species given that the recently described Al. hodli is nested within this lineage (Simo ̃es et al. 2010) and that the species is documented to harbor morphological and acoustic differences indicative of species-level differentiation (Ame ́zquita et al. 2009)
+The observed mtDNA haplotypic structure is strongly associated with geography in all species. All GS populations of widespread species (as opposed to the GS endemics) form monophyletic groups except for Rh. margaritifera in which the Para ́ population south of the Amazon nests within the GS lineage. The relationships
+among lineages in Ad. andreae and Al. femoralis are not fully resolved, but tree topologies and networks (see below) support a pattern in which GS lineages are monophyletic. For Ad. andreae, additional data (Cyt b, not shown here) confirmed the existence of a GS clade as well as the monophyly of the northern FG lineage as sister clade of all the other lineages occurring in FG. All other species are either endemic to the GS or unsampled from Amazonia.
+Haplotype network reconstructions of mtDNA data recovered groupings consistent with those identified by phylogenetic tree reconstruction (Fig. 2, Appendix 7, doi:10.5061/dryad.bj1514fn/3). Conflicts between these reconstructions were associated only with clades with low levels of support from phylogenetic analysis (e.g., Ad. andreae, Al. femoralis, and An. baeobatrachus; Fig. 2a).
+There are few observed instances of spatial overlap between lineages (Fig. 2, Appendix 7, doi:10.5061/ dryad.bj1514fn/4): An. baeobatrachus (4 localities in south east FG), Anomaloglossus sp. (1 locality in central FG), Le. mystaceus, and Rh. margaritifera (1 locality in northeast FG). In all cases, these localities occur on the distributional edges of lineages. We considered these an indication of contact zones.
+FG harbors an exclusive lineage in all species except Rh. castaneotica. The distribution of these lineages varies among species; from a northern narrow strip along the Atlantic coast in Ad. andreae, Le. wagneri B, and Pr. zeuctotylus to the entirety of FG in L. mystaceus and Pr. chiastonotus (Fig. 2). An intermediate pattern is found in Ad. heyeri, Al. femoralis, Al. granti, An. baeobatrachus, Anomaloglossus sp., and Rh. margaritifera (Fig. 2), with a contact zone observed between northern and southern lineages in central FG. These southern FG lineages extend into Amapa ́, Suriname, and Guyana in Ad. heyeri, Al. femoralis, Rh. margaritifera with strikingly similar patterns among those three species. In some cases (Ad. andreae, Le. wagneri B, Pr. zeuctotylus; Fig 2), a northern FG lineage was distinguished from a more widespread lineage occurring in FG, Suriname, and Amapa ́. Another striking recurrent feature among species is the occurrence of highly divergent lineages bisected by the Maroni River, which forms the western border of FG. This deep divergence among lineages is found in all species except Al. femoralis and Rh. castaneotica, which do not occur west of the Maroni River. It is noteworthythatthispatternonlyemergesdownstreaminthe wider reaches of the Maroni River, whereas in the headwater regions, the FG and Suriname populations share close affinities (e.g., Ad. andreae, Ad. heyeri, Al. femoralis, Le. wagneri B, Pr. zeuctotylus, and Rh. margaritifera).
+nuDNA Networks
+All focal species were recovered as independent nuDNA clusters (Fig. 2, Appendix 7, doi:10.5061/dryad.bj1514fn/5) except Rhinella spp. (see below). Concordant patterns with intraspecific mtDNA structure (3 and 4 step clades) were also
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 2012 FOUQUET ET AL.—QUATERNARY REFUGIA IN THE EASTERN GUIANA SHIELD 469
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 470 SYSTEMATIC BIOLOGY VOL. 61
+  FIGURE 2. a, b) Twelve subtrees derived from six genus level trees (Appendix 7, doi:10.5061/dryad.bj1514fn/2) based on mtDNA data sets (12S + 16S rDNA) hypothesized from Bayesian analysis. Corresponding statistical parsimony networks (Appendix 7, doi:10.5061/dryad.bj1514fn/5) based on phased nuDNA and simplified maps (Appendix 7, doi:10.5061/dryad.bj1514fn/4) indicating localization of each major mtDNA lineages. All trees are scaled equally. Asterisks indicate significant support for Bayesian analysis and/or maximum parsimony. Lineage locations are coded as follows: AP = Amapa ́; SUR = Suriname; GUY = Guyana; PA = Para`; AM = Amazonas; MT = Mato Grosso; N = North; W = West; E = East; S = South; Cr = Center. The boxed and bolded area names indicate localities outside the GS.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 2012 FOUQUET ET AL.—QUATERNARY REFUGIA IN THE EASTERN GUIANA SHIELD 471
+ recovered in many species given the absence of nuDNA allele sharing among mtDNA defined groups (e.g., Surinamese populations of Al. granti, Anomaloglossus sp., and Pr. chiastonotus and Guyana populations of Le. wagneri B). Limited allele sharing among mtDNA-based groups was also recovered in many instances (e.g., Al. femoralis; An. baeobatrachus), which can either be interpreted as ongoing differentiation or gene flow.
+Nevertheless, a few inconsistencies among nuDNA and mtDNA networks are apparent and may suggest occurrence of gene flow among groups displaying divergent mtDNA. Allele sharing among individuals with highly diverged mtDNA haplotypes was observed in Rh. margaritifera (Rhinella sp. from Amazonas H32 and H33 share alleles with Clade 3-1 from northern FG [Fig. 2b]). We also observed striking discordance between nuDNA and mtDNA in the Amazonas population of Rh. castaneotica which shared a nuDNA allele with Rhinella sp. also from Amazonas (Fig. 2b). These geographically proximate populations are highly divergent for mtDNA (12%). Similarly, the mtDNA groups the Southern Amapa ́ population of Al. femoralis with the FG population, but nuDNA suggests an affinity to Amazonian populations (Tapajo ́s and Amazonas) (Fig. 2a). Finally, the nuDNA network provided by Ad. andreae (Fig. 2a) was difficult to interpret given the high haplotypic and nucleotide diversity that displayed no clear structure. This is likely related to the signature of selection revealed by tests of neutrality for this species, all of which were significant (Appendix 1b), and/or very high effective population sizes that led to the retention of nuDNA allelic diversity.
+Spatial Patterns of Diversification in the Eastern GS
+At least 80% of the sampled ranges of focal species overlap in FG, Amapa ́, and eastern Suriname (Fig. 3a). Sampling within this area can thus be considered extensive. This allows fairly accurate delimitation of the geographic distribution of mtDNA lineages occurring in this area. However, it would be inappropriate to interpret apparent phylogeographic breaks and areas of uniformity outside.
+When combined (Fig. 3b), the observed phylogeographic breaks appear to be concentrated in three areas: (i) the northwest border of FG with Suriname (Maroni River, Fig. 3b: 1), (ii) northeastern FG and North Amapa ́ (Fig. 3b: 2), and (iii) central FG separating the north from the south (Fig. 3b: 3).
+The first break follows the northern course of the Maroni River and is represented in all species spanning this region (10 of 12). This break corresponds to range limits of many other anuran species such as Hypsiboas aff. crepitans, Dendropsophus marmoratus, Ameerega trivittata, Physalaemus cf. ephipiffer, Leptodactylus guianensis that occur almost exclusively to the west of the Maroni River and Engystomops aff. petersi, Ranitomeya ventrimaculata, Dendropsophus aff. brevifrons, Allobates femoralis, and Rhinella castaneotica which are found to the east of the Maroni River.
+The second break corresponds to the Approuague and/or Oyapock Rivers, which delineate the border between FG and Brazil (Amapa ́). Except for Rh. castaneotica, all species spanning these rivers display a phylogeographic break coincident with either the Approuague or the Oyapock rivers (10 of 12). Notably, a few species of frogs such as Adelophryne cf. gutturosa, Ameerega pulchripecta, the salamander Bolitoglossa sp., and the gymnophthalmid lizard Amapasaurus tetradactylus (Bernard 2008) occur in Amapa ́ and not in adjacent FG.
+The third area in which a number of phylogeograph breaks occurs roughly delimits the northern and southern portions of FG. The lineages found in southern FG display strong affinities with those found in adjacent Amapa ́ and/or Suriname. In many cases, this third break is the continuation of breaks one and two, in effect isolating populations of northern FG from the surrounding region. Conversely, zones of uniformity are found in northern FG with two main subregions, north (A) and central (B) (Fig. 3b) and also in the interior of the shield (Fig. 3b: C).
+Estimation of Divergence Times
+Relaxed Bayesian molecular clock.—All ESS values were above 200 and convergence on stationarity was reached quickly. The supertrees derived from the relaxed Bayesian molecular clock method were well supported (Fig. 4) with the few ambiguous relationships restricted to patterns among genera.
+The estimated rates of molecular evolution for each branch of the “mtDNA supertree” range from 0.0107 to 0.0026 (mean 0.0057: 0.0048–0.0067 95% confidence interval [CI]) substitutions/site/my (Fig. 4a). Among the 12 target species, there was little variation in the mean, varying from 0.0061 (±0.0006) (Le. wagneri B) to 0.0054 (±0.0005) (Ad. heyeri) (Appendix 1a). The initial intraspecific divergences within the 12 focal species, all predate the Pleistocene (1.8 Ma).
+The mean rate over the “nuDNA supertree” was 0.00195 (0.00162–0.00234 95% CI) substitutions/site/my and range per branch between 0.0015 and 0.0036.
+Time of divergence using distance-based methods.—All the smoothed frequency distributions of genetic distances are multimodal and depart significantly from the null model (Fig. 5a). We interpret this pattern as a result of variation in the μ/λ ratio, that is, resulting from isolation and drift. These distributions contain a distinct mode between 0 and 1 Ma corresponding to distances among haplotypes within what we considered as lineages and secondary peaks corresponding to splits among these lineages between 1 and 4 Ma. These divergence time estimates are largely concordant with results derived from the time-calibrated Bayesian phylogeny.
+When combining all these distributions using equal weights for each mode and a smoothing function, we obtain a distribution containing three distinct modes
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 472 SYSTEMATIC BIOLOGY VOL. 61
+  FIGURE 3. a) Overlapped sampled ranges of all focal frog species except Rhinella castaneotica. A thick black line delimits the zone where all the focal species overlap (100%) and black dashed line where more than 80% of the species overlap. b) Overlap of the total number of phylogeographic breaks divided by the number of overlapping sampled ranges. The darker the color of the squares the more breaks there are that intersect them. The areas in which the majority of breaks occur (50% of the species having a phylogeographic break in the square) are delimited with gray lines and annotated with numbers. Conversely, the uniform zones, with a low number of breaks are delimited with black circles and annotated with letters. The limits of the 80% overlap of the sampled ranges are also illustrated.
+(Fig. 5b). The first “within lineages” mode between 0 and 1 Ma is very clear. The other two interlineages modes are situated between 1–2.4 and 2.4–4 Ma. Most of the older splits (2.4–4 Ma) correspond to interlineage splits between FG versus Suriname or GS versus Amazonia, whereas the more recent splits primarily correspond to divergence among lineages occurring within FG.
+Coalescent-based method.—Divergences among lineages occurring within the eastern GS were estimated for sixteen comparisons using IMa (Hey and Nielsen 2007) (Fig. 6; Appendix 6). Given Rh. castaneotica did not display clear structure within the GS, this species was
+excluded from these analyses. Effective sample sizes (ESSs) were over 50 in all, but 3 cases that remained low (ESS = 30–40) despite multiple attempts toward optimization. The most recent divergences are found between the two Ad. heyeri lineages (0.4 Ma) and Al. granti (0.71 Ma), but these values should be treated with caution as we set m = 0 and given that this value is much lower than estimates derived from mtDNA alone for Ad. heyeri (2.06 Ma) (but similar for Al. granti: 0.81 Ma). We interpret this incongruence to be due to enforcing m = 0, causing all nuDNA shared alleles to be misinterpreted as ancestral polymorphism instead of recent gene flow and therefore skewing estimates of coalescence time. When considering all other species,
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 2012 FOUQUET ET AL.—QUATERNARY REFUGIA IN THE EASTERN GUIANA SHIELD 473
+  FIGURE 4. Relaxed Bayesian molecular clock trees based on (a) 843 bp mtDNA data set (12S + 16S rDNA) and (b) 584 bp nuDNA data set (tyrosinase). The 12 focal species are indicated in bold. Calibration points are indicated by circles (n = 11) for normal distributions and by triangles for upper limits (n = 2). Divergence time estimates are indicated under branches, and 95% credibility intervals are represented as gray bars centered on the nodes. Posterior probabilities (pp × 100) are indicated above the branches and asterisks refer to a pp  0.99. Miocene, Pliocene, and Pleistocene epochs are highlighted in light gray, darker gray, and light gray background, respectively.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 474 SYSTEMATIC BIOLOGY VOL. 61
+  FIGURE 5. a) Smoothed distributions of corrected pairwise distances for each of the 12 focal species (in thick black line) and 1000 simulated H0 distributions (thin gray) and their mean (thin black). Distances have been scaled using the estimated mtDNA substitution rate and are thus expressed in million years. b) Smoothed distribution of the modes (thick black) of all previously estimated species pairwise distance distributions equally weighted (dashed thin).
+Le. mystaceus displays the most recent divergence (0.89 Ma). The oldest intraspecific divergences were recovered between Surinamese and FG lineages of Al. granti
+(2.34 Ma), Anomaloglossus sp. (1.87 Ma), Pr. chiastonotus (1.43 Ma), and Ad. andreae (1.36 Ma). In three of these (excluding Ad. andreae), this pattern is reflected, and
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 2012 FOUQUET ET AL.—QUATERNARY REFUGIA IN THE EASTERN GUIANA SHIELD 475
+  FIGURE 6. Times of divergence estimates from IMa and 95% CIs based on combined mtDNA and nuDNA data for 16 splits between the mtDNA-based groups for the 11 species displaying phylogeographic breaks within the GS. Divergence between northern FG and the closest relative (n = 11) are indicated in black, which correspond to the ones used in ABC; and additional splits (n = 5) in light gray. For two species (Ad. heyeri and Al. granti), migration was constrained to zero to reach convergence and are indicated in darker gray. Additionally, we show mtDNA only results for Ad. heyeri and Al. granti to illustrate the discrepancy in darker gray. The interval between the minimum (Le. mystaceus) and the maximum (Ad. andreae) mode values is indicated in dark gray and delimited by large dashed lines. The overlap between all the 95% CI is indicated in light gray and delimited with small dashed lines.
+partially driven, by the lack of allele sharing of nuDNA. In all 11 species (Rh. castaneotica excluded), the divergence of northern FG lineages from their closest relatives, with the exception of Ad. heyeri (see above), fall into the early Pleistocene. These comparisons range from 0.84 (L. mystaceus) to 1.34 Ma (Ad. andreae). The 95% CIs (gray bar of Fig. 6) of the same comparisons overlapped between 1.59 (Anomaloglossus sp. Max 95% CI) and 0.98 Ma (Ad. andreae Min 95% CI).
+Approximate Bayesian Computation
+Both temporal and spatial congruence of lineage diversification have been recovered from our analyses of this multitaxa data set. The presence of an endemic FG lineage in all species (except Rh. castaneotica) that diverged from other GS lineages between 0.89 and 1.3 Ma according to coalescence-based estimates and between 1 and 2.4 Ma according to distance-based estimates is one particularly striking feature of these phylogeographic patterns. To explicitly test the potential synchrony of the phylogeographic breaks involving the lineages restricted to northern FG and their close relatives, we applied the ABC method implemented in MTML-msBayes. We compared pairs of populations groups for all 11 (Rh. castaneotica apart) species, segregating the groups restricted to FG (in Al. femoralis and Rh. margaritifera, the mtDNA lineages extend into
+Amapa ́ and in Pr. zeuctotylus to Suriname) with the most closely related lineage with which it is in contact in the GS. The obtained value of Ω (<0.002**; Bayes factor > 500) indicates there is a very strong signal in our data for a single synchronous divergence among these lineages.
+DISCUSSION
+We gathered and analyzed an unprecedented amount of data for 12 understudied frog species from a region of Amazonia that is widely regarded as one of the most important for terrestrial biotic diversity on the planet. As far as we are aware, this study is the first to simultaneously test spatiotemporal patterns of tropical diversification in such a large number of codistributed species. We then used a combination of original and integrative analyses that enabled us to significantly improve our understanding of the evolutionary history of GS frogs.
+When examining the tree reconstructions in light of the geographic range of lineages and their divergence times, the variation among species is striking, with each species displaying a unique pattern. At first glance a general pattern is therefore not apparent, but some similarities are observed, such as a phylogeographic break within the eastern GS for all but one species. Despite the temporal and spatial differences, we show that a general pattern among these species does in fact emerge. To fully synthesize these findings, we discuss the (i) temporal and (ii) spatial discordance among species. We
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 476 SYSTEMATIC BIOLOGY VOL. 61
+ then propose an interpretation of the broad concordant pattern among species, including a hypothesis involving the combined effect of climate and major rivers as forces affecting the phylogeographic patterns observed. We conclude with a discussion of the limitations, uncertainties, and potential refinements of our method.
+Temporal differences
+Several theoretical studies (Edwards and Beerli 2000; Emerson et al. 2001; Knowles and Maddison 2002; Hudson and Turelli 2003) have demonstrated the necessity of quantifying gene and population coalescent stochasticity. Moreover, previous multitaxa studies (e.g., Moritz and Faith 1998; Rowe et al. 2006; Carnaval et al. 2009; Moussalli et al. 2009) have proven how useful such an approach is to examine the effects of ecological, geological, and historical processes on regional communities.
+We partially circumvent the issue of coalescent stochasticity and the potentially complex and varied histories of species and populations by using multiple molecular dating methods and examining genealogical histories of both mtDNA and nuDNA across 12 codistributed species. Comparisons of divergence time estimates derived from different methods demonstrated that the vast majority of splits fall into a 1–3 Ma window (Fig. 5b). Intraspecific splits occurring within FG display a similar temporal range (0.84–1.34 Ma; Appendix 6), a timing supported by ABC analysis as synchronous. Thus, variations in mtDNA divergence among species, indicative of isolation varying in age from 1 to 3 myr, likely result from the inherent stochasticity of coalescent histories and varying degrees of ancestral polymorphism. This highlights the caution with which mtDNA time estimates must be considered. The use of a single mtDNA marker is known to present many caveats, chief among them poor resolution, and large credibility intervals (Wakeley and Hey 1997; Carstens and Knowles 2007). Another source of uncertainty lies in the absence of reliable information on generation times for poorly known species (Duellman and Trueb 1986). We used a minimum value of 1 year (Reading 1991; Donnelly 1999) for small species and 1.5 years for the two largest species (e.g., Le. mystaceus and Rh. margaritifera), but these remain very rough estimates. In fact, the smallest species, which are likely to have the largest population sizes, display some of the deepest divergences (Appendix 6) and a slightly higher generation time would have led to values similar to those of other species using both methods. Nevertheless, though veracity of these assumed generation times is unsubstantiated, the use of different methods led to relatively convergent time estimates that are concordant with previous studies on other anurans of the eastern GS (Noonan and Gaucher 2005, 2006).
+Spatial Differences
+The patterns observed are also spatially varied, suggesting complex evolutionary histories shaped by
+species-specific characteristics. Certainly, basic features link the focal species (forest litter anuran species co-occurring broadly in the eastern GS). However, the distribution (Amazonian vs. GS endemics), reproductive mode (e.g., direct development vs. free larval development), mean body size (20–70 mm), and many more ecological nuances vary among the 12 species in this study. These ecological and behavioral differences likely influence, among other things, species’ ecological tolerance to disturbance, population size, and dispersal ability. Species-specific climatic preferences have been demonstrated to drive genetic structure differently due to major historical climatic fluctuation in Australian forestrial skinks sharing the same range (Moussalli et al. 2009). A genetic signature of refugial isolation may have been blurred by varying patterns of expansion, gene flow, and lineage sorting. Accounting for such individual responses to shared histories, our analysis of pooled geographic breaks revealed a pattern that clearly indicates these species share a history of spatial fragmentation and identifies shared refugial areas within the eastern GS.
+As a corollary to temporal stochasticity of the coalescence process, phylogeographic breaks can also result from processes other than isolation (Irwin 2002; Kuo and Avise 2005; Excoffier and Ray 2008). However, once again, such processes are expected to produce patterns that are not shared across taxa. A formal test of departure from the stochastic distribution of barriers across taxa has not been employed here (e.g., permutation tests), and we cannot completely rule out such possibility. However, our recovery of congruence among 11 species is so compelling that we believe such test to be unnecessary in the present case. This is not to say that this would not be worthwhile, albeit challenging, objective to incorporate in future studies.
+General Congruence and Biogeographical Significance
+Setting aside the idiosyncratic variation in spatial and temporal patterns, we found striking concordance when integrating the multitaxa data set. Given the dissimilarities among spatial patterns and ecologies of the taxa, the recovery of such a general pattern is both unexpected and remarkable. The data suggest that forest litter anurans of the eastern GS share a common history of isolation that has shaped their genetic diversity irrespective of species-specific differences. Geological events, prominent landscape features, and marine transgressions cannot explain the pattern observed in this region. Furthermore, as amphibian sensitivity to climate is the main factor influencing distributions (Buckley and Jetz 2007), we assert that such similarity among multiple species is the result of past climatic fluctuations that acted directly on species habitat distribution and promoted both vicariance and dispersal.
+The consequences of these early Pleistocene climate modifications cannot be directly linked to habitat modifications such as forest fragmentation given the absence
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 2012 FOUQUET ET AL.—QUATERNARY REFUGIA IN THE EASTERN GUIANA SHIELD 477
+ of precise paleoecological records and/or climate models from this time period, which lies beyond the scope of our paper. Nevertheless, the interior of the GS currently harbors a dryer climate than the northern and eastern peripheries and is associated with relictual savannas, semideciduous forest, and open forest (Gond et al. 2011) that are derived from long-term habitat modifications (Servant 2000). Furthermore, evidence for the contraction of moist forest in the GS during the Quaternary has been found in palynological records and charcoal deposits (Charles-Dominique et al. 1998; Ledru et al. 2000; Van der Hammen and Hooghiemstra 2000).
+During drier/colder conditions, it is likely that xeric vegetation expanded, especially on the nutrient poor GS soils (Pennington et al. 2000). The resulting patches of suitable forest were then probably relatively isolated within the lowlands of the GS. Extrapolating from the current precipitation regime in Amazonia, two main wet subregions can be distinguished: the coastal region of eastern GS down to Eastern Para ́ and western Amazonia. Thus, a dry transverse belt may have crossed central Amazonia in a NW–SE direction. Wu ̈ster et al. (2005) argued that such a corridor of open vegetation allowed the snake C. durissus, a savanna specialist, to disperse south of the Amazon during the Pleistocene. Drier conditions along this corridor may have isolated moist forest species in the putative refuge along the coast of the eastern GS. Interestingly, a similar signature of repeated isolation and colonization has been recovered for xeric vegetation and fauna of the granite domes (inselbergs) in FG, implying the existence of corridors between what are today islands in a matrix of humid rainforest (Descamps et al. 1978; Vitt et al. 1996; Sarthou et al. 2001; Duputie ́ et al. 2009; Boisselier-Dubayle et al. 2010).
+Temporally, most of the lineages occurring in the GS diversified during the early Quaternary (0.8–2.6 Ma) (Figs. 5 and 6). Timing of intraspecific diversification implies the most recent speciation events in these groups took place well before the Pleistocene, contradicting Haffer (1969) original version of the refuge hypothesis and corroborating subsequent works (Moritz et al. 2000; Weir 2006; Hoorn et al. 2010).
+Spatially, the phylogeographic breaks are broadly congruent with the consensus pattern resulting in isolation of northern FG (Fig. 3b). Our results indicate that most GS lineages of the twelve species examined diversified in situ during Quaternary. This is necessarily the case for GS endemics but also supported by the presence of GS endemic lineages for widespread Amazonian species and by the high intraspecific levels of haplotype and nucleotide diversity. Despite limited sampling from the area in this study, genetic homogeneity of widespread lineages from the central portion of the GS, as reported in previous studies (Noonan and Gaucher 2005), was observed in a number of our focal species (Fig. 3b: C; e.g., Ad. heyeri, Al. femoralis, Rh. margaritifera, and to some extent in Ad. andreae and Pr. zeuctotylus). We interpret this to be the product of recent expansion during favorable
+climatic conditions. Among all species studied, only Rh. castaneotica lacks a clear phylogeographic break within the GS. The absence of this species from Suriname and the pattern revealed by the mtDNA network and neutrality tests suggest it has undergone recent expansion to the north and colonized FG from Amapa ́.
+The high diversity of haplotypes (Appendix 1; mean Hd = 0.89), the spike in genetic distances near the present (Fig. 5) and the strong genetic structure found in all focal species (Fig. 2) suggests the persistence of an extensive tract of favorable habitat on the northeastern periphery of the GS during the Holocene and probably late Pleistocene. Northern FG unambiguously acted as a refugium during the Pleistocene. This region has been well sampled relative to the other putative refugial areas in Amapa ́ and Suriname but those areas too have probably harbored refugia. These results fit with Descamps et al. (1978), de Granville (1982), and Sastre (1976) whose hypothesis, based on botanical distributions, suggests that the GS forest biota are divided into three refugia: one area corresponding to the highest levels of rainfall in northern FG, another in northeastern Suriname, and the last in northern Amapa ́. This pattern corresponds well with the distributions of our spatially restricted lineages. Regardless of whether the barriers restricting Anuran biota were open vegetation, dry forest, or simply the combined effects of precipitation/temperature fluctuations, our results show that the spatial scale of Quaternary diversification may have been finer than previously thought.
+Combined Effect of Climatic Fluctuations and Rivers
+Hypothesizing a relatively unsuitable interior of the eastern GS, putative refugia may have been situated in the periphery of the region. Therefore, the broad lower reaches of regional rivers may have had a noticeable impact on biotic distributions. Major contact zones between lineages coincide with the lower reaches of the Maroni, Approuague, and Oyapock Rivers (Fig. 3). These boundaries also correspond to the distributional limits of many other species (see Results section). In the interior, near the headwaters of these major rivers, lineages are found on both sides of the river implying recent or contemporary exchanges. We interpret the concordance of phylogeographic breaks with the broad lower reaches of rivers as a consequence of restricted dispersal across this barrier. This is similar to the river barrier hypothesis, first formalized by Wallace (1852) for major Amazonian tributaries, that suggests headwaters are areas of interpopulation interactions, and the broad lower reaches act as effective barriers to dispersal. Contrasting evidence for the importance of rivers has been reported (Gascon et al. 1998; Lougheed et al. 1999), suggesting permeability of rivers to gene flow could depend on river course vagility (Lundberg et al. 1998) over time and species life history traits such as reproductive mode. In Al. femoralis, an Amazonian frog restricted to terra firme forests, observed genetic structure does not
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 478 SYSTEMATIC BIOLOGY VOL. 61
+ correspond to the courses of a major Amazonian river (Gascon et al. 1998; Lougheed et al. 1999). In contrast, the genetic structure of Ranitomeya ventrimaculata appears to have been profoundly affected by the presence of rivers (Noonan and Wray 2006). In our study, genetic divergence is found to be associated with the lower courses of rivers in all species. The large white waters rivers of the Amazon are known to be quite adept at changing their course over time, perhaps more so than the smaller but more channeled clearwater rivers of the GS (Bates et al. 2004).
+Limitations and Future Developments
+High mutation rates, matrilineal inheritance without recombination, and the relative ease of gathering data have driven the use of mtDNA in phylogeography (Avise 2000). However, interpretations based solely on mtDNA are susceptible to imprecision and error due to a number of widely reported complications (White et al. 2008). These pitfalls are at least partly circumvented here by examining patterns from 12 species and both mtDNA and nuDNA. Our nuDNA data remain based on only one slow-evolving locus, but these data clearly support patterns revealed by the mtDNA. The slow rate of evolution of this locus led to analytical problems when using the coalescence-based method in two species as it was difficult to distinguish between migration and shared ancestral polymorphism. Nevertheless, with the exception of the genus Rhinella, in which hybridization between highly divergent mtDNA lineages appears to occur in central Amazonia, all highly divergent mtDNA groups are recovered by nuDNA analysis or exhibited limited allele sharing. This implies limited connectivity among lineages defined by mtDNA haplotype. Consequently, we assume that mtDNA-based groupings are representative of the evolutionary histories of each species and are not the result of stochastic coalescent processes.
+Another interesting development for the spatial method would be to integrate niche modeling in order to test for a correspondence between lineages and current and past environmental suitability and delimit more precisely the location of the breaks. Phylogeography has grown explosively in the last two decades and despite this growth is only now developing the theoretical paradigms and analytical tools that integrate the multidimensional nature of species diversification (Avise 2009; Buckley 2009). The integration of an explicit synchrony test for phylogeographic breaks, such as ABC, together with forms of spatial testing like the method employed herein and the use of multiple unlinked loci in a multidimensional analytical framework, provides an inkling of the future prospects for phylogeography.
+SUPPLEMENTARY MATERIAL
+Supplementary material is available online in the Dryad data repository. Online Appendix, Sample
+information: doi:10.5061/dryad.bj1514fn/1, Supplementary Figures S1–S6, mtDNA trees: doi:10.5061/ dryad.bj1514fn/2, Supplementary Figures S mtDNA networks: doi:10.5061/dryad.bj1514fn/3, Supplementary Figures S maps: doi:10.5061/dryad.bj1514fn/4, Supplementary Figures S nuDNA networks: doi: 10.5061/dryad.bj1514fn/5, Matrices and consensus trees from Bayesian analyses of mtDNA: http:// purl.org/phylo/treebase/phylows/study/TB2:S12162, and Matrices of nuDNA: doi:10.5061/dryad.bj1514fn/7.
+FUNDING
+A.F. was supported by a PhD scholarship from the College of Science, University of Canterbury (UC). Travel grant from UC and Education New Zealand supported fieldwork in Suriname and Brazil. Molecular costs were covered by internal grants from the Universite ́ de Provence (A.G.) and University of Canterbury (N.J.G.). Fieldwork by B.P.N was supported by the National Geographic Society (7509-03) and the National Science Foundation (DEB-0206562).
+ACKNOWLEDGMENTS
+We are grateful to Tammy Steeves, Stephen Lougheed, Jack Sites, Peter Lockhart, Miguel Vences, Jack Sullivan, Ronald deBry, and several associate editors and anonymous reviewers for their valuable contributions to the improvement of the manuscript. We are also thankful toward Marie-Dominique Salducci, Jonci Wolff, Jawad Abdelkrim, and Caroline Costedoat for their help in the lab. We also thank Alain Sandoz for his help with GIS, Vladimir Mencl for helping with supercomputing at UC, and Mike Hickerson for helping with ABC. This study has also greatly benefited from the help and experience of Michel Blanc, Christian Marty, Philippe Gaucher, and Mae ̈l Dewynter who aided A.F. in the field in FG and providing valuable material. We also acknowledge Franc ̧ois Catzeflis, Renaud Boistel, Joep Moonen, Alain and Andrea Dejean, Philippe Cerdan, Christophe Baghooa, Jean-Pierre Vacher, Roger Leguen, Re ́gis Gallais, Benoit Villette, Jean-Christophe de Massary, Jean-Pierre Gasc, Jean-Jacques de Granville, Jean Lescure, Corinne Sarthou, Ce ́line Dupuy, Guy Tiego, Nicolas Raulo, Michael Negrini, Gilles Peroz, Hugues Contamin, Eric Marcon, Mauchausse ́ Nicolas, Pierre-Charles Dominique, Frederic Phan, Bertrand Goguillon, and Olivier Bascoules for providing either tissue loans and/or assistance in FG. Thanks very much to Philippe Kok and Rafael Ernst who also contributed to this work by providing important biological material. In Suriname, we gratefully acknowledge the help of the STINATSU (Foundation for Nature Conservation in Suriname) team, especially Yvette Merton, Marie Djosetro and Rocky, and Natuurbeheer, especially Bryan Drakenstein (Acting Head). In Brazil, we thank the SETEC (Secretaria de Estado da Cieˆncia e Tecnologia do Amapa ́) and especially Erney Plessman de Camargo and Jose ́ Maria da Silva, for permitting the fieldwork
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 2012 FOUQUET ET AL.—QUATERNARY REFUGIA IN THE EASTERN GUIANA SHIELD 483
+     Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+APPENDIX1. Ecologicaltraits,moleculardatadescription,selectiontestsresults,andratesofmolecularevolutionestimatesforeachspecies
+Adenomera andreae
+G
+108 0.976 0.927 0.889 0.804 0.924 0.951
+0.024
+0.015 0.0011
+NS
+NS
+NS
+0.00051
+Adenomera heyeri
+0.00538
+Allobates femoralis
+W
+0.034
+0.0209 0.00270
+NS
+NS
+NS
+0.00560
+0.00111
+Allobates granti
+G
+0.059
+0.0145 0.00205
+NS
+NS
+NS
+0.00555
+0.00035
+Anomaloglossus G
+D/F 0–800 105
+0.012
+0.0263 0.00198
+NS
+NS
+NS
+0.00550
+0.00085
+baeobatrachus Anomaloglossus sp. Leptodactylus
+G W
+D F
+0–800 0–1000
+74 30 30 107 53 37 33 84
+0.97 0.886 0.896 0.884 0.745 0.864
+0.01 0.012
+0.0345 0.00384 0.0158 0.00212
+NS NS
+NS NS
+NS NS
+0.00550 0.00542
+0.00063 0.00103
+mystaceus Leptodactylus
+0.0367 0.00321
+0.0101 0.00113
+0.0149 0.0007
+0.0052 .00108 −1.939∗
+NS NS NS NS NS
+NS NS NS NS NS
+0.00058 0.00070 0.00057 0.00150 0.00047
+wagneri B Pristimantis
+G G G W W
+F D D F F
+0–600 0–700 0–800 0–600 0– 2400
+40 19 18 92 61 17 16 31 54 18 17 49 64 20 20 43 77 34 33 75
+0.039 0.019 0.028 0.059 0.035
+NS NS NS
+0.00613
+chiastonotus Pristimantis
+0.00553 0.00550 0.00543 0.00558
+zeuctotylus Rhinella
+castaneotica Rhinella
+0.0118 0.00139 0.0191
+NS
+margaritifera s.l.
+Mean SD
+62.6 28.4 25.5 69 22.4 15.2 10.74 29
+0.893 0.067
+0.0668
+0.00555
+W
+D 0–800 91 D 0–800 32 F 0–1000 68 F 0–800 32
+69 49
+17 16 33 35 32 87 14 12 34 31 30 84
+0.006
+0.023 0.00113
+NS
+NS
+NS
+0.00552
+0.00101
+(a) mtDNA
+N N H N H D* of F* of Mean Reproductive Elevation mt mt mt Tajima’s Fu Fu rate
+SD
+Range mode (m) DNA TCS DnaSP S Hd SD Pi SD D andLi andLi BEAST
+Continued
+
+ 484 SYSTEMATIC BIOLOGY VOL. 61
+     Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+APPENDIX 1. Continued
+Adenomera 180 andreae
+112 85 0.99
+0.002
+0.01052 0.0004 0.007 0.0004 0.00715 0.0006 0.00237 0.0004
+−1.87006∗ −4.61313 ∗ ∗ NS NS
+NS NS
+NS NS
+−4.61313 ∗ ∗ NS
+NS
+NS
+NS
+NS
+Adenomera 66 heyeri
+17 14 0.819
+0.038
+Allobates 90 femoralis
+37 39 0.958
+0.009
+Allobates 64 granti
+15 13 0.606
+0.072
+Anomaloglossus 200 baeobatrachus
+70 55 0.938
+0.011
+0.01105 0.001
+NS NS
+Anomaloglossus sp. 132 Leptodactylus 104
+43 55 0.915 27 17 0.864
+0.014 0.026
+0.01494 0.0015 0.00397 0.0003
+NS NS NS NS
+NS NS NS NS NS NS
+mystaceus
+Leptodactylus B 76
+50 35 0.984 19 16 0.722 17 16 0.745 52 28 0.97 51 25 0.952
+0.006 0.043 0.036 0.007 0.009
+0.00972 0.0005 0.00211 0.0002 0.00213 0.0002 0.00859 0.0003
+NS NS −1.97849∗ NS −1.83478∗ NS
+wagneri
+Pristimantis 116
+chiastonotus
+Pristimantis 102
+zeuctotylus
+Rhinella 116
+NS NS NS NS
+castaneotica
+Rhinella 144
+0.0069 0.0002 0.0072
+margaritifera s.l.
+Mean 116 SD 42,7
+43 33 0.8612 28 22 0.1237
+0.00404
+N nuDNA
+N H mt TCS S Hd
+SD
+(b) nuDNA
+Pi SD
+Tajima’s D* of Fu D and Li
+F* of Fu and Li
+Notes: Ecological traits are as follows: (i) Ranges are divided in two categories Guianan (G) and widespread (W). We considered the Le. wagneri B endemic to the GS. (ii) Reproductive modes (D = Direct, F = free larval development). Molecular data description is as follows: (i) Number of individuals per species for the mtDNA data set. (ii) Number of haplotypes in the network. (iii) Number of haplotypes from DnaSP (without gaps). (iv) Number of segregating sites (S). (v) Haplotypic diversity (Hd) and standard deviation (SD). (vi) Nucleotide diversity (Pi) and standard deviation (SD). Selection tests results are described as follows: (i) Tajima’s D. (ii) D* of Fu and Li’s. (iii) F* of Fu and Li. Molecular rates of evolution estimates from relaxed molecular clock analysis in substitution/site/my.
+
+ 2012 FOUQUET ET AL.—QUATERNARY REFUGIA IN THE EASTERN GUIANA SHIELD 485
+ APPENDIX 2
+Taxonomic and Distributional Considerations
+Preliminary results and previous studies (Fouquet et al. 2007a, 2007b, 2007c) suggested the existence of distinct species within what is generally considered as Allobates granti (n = 2), Anomaloglossus degranvillei (n = 3), Leptodactylus gr. wagneri (n = 9), and Rhinella margaritifera (n = 8). Consequently, we focused our analyses to the lineages for which the phylogeographical pattern can be examined in the GS.
+• Allobates species of the marchesianus/brunneus group are infamously complex in terms of species delineation. In FG, two species occur that are generally confused. One of them, on which we will focus here, corresponds to Allobates granti recently described by Kok et al. (2006). The second has so far been only recorded in the Saul region.
+• Anomaloglossus degranvillei has been described form central FG. Several species related to A. degranvillei have been actually lumped together since its original description. Anomaloglossus degranvillei is in fact probably restricted to the central mountain range in FG, whereas the most widely distributed species remains still undesirable. Here, we will only focus on the later, Anomaloglossus sp., given this species has been readily sampled and being confident that the other lineage corresponds to the nominal species.
+• Within the Leptodactylus wagneri/podicipinus species group, we focused on L. wagneri B which is a forestrial species occurring in the GS as opposed to the sympatric L. wagneri C which is also forestrial, L. gr. wagneri A and E which also occur in the GS but seem restricted to open areas, L. validus (=pallidirostris; gr. wagneri D) which occurs in Venezuela, Roraima, Trinidade, Tobago, and Guyana according to Yanek et al. (2006) and is reported here to also occur in Suriname and the four additional species occurring outside the GS.
+• We also considered the lineages within the Rhinella margaritifera species complex that occur in the GS except the newly described R. lescurei (Fouquet et al. 2007a)sofaronlydocumentedinFG(butseeA ́vilaPires et al. 2010) and as opposed to the lineages occurring elsewhere in South America.
+• AsmentionedinFouquetetal.(2007a,2007c),Rhinella dapsilis DNA sequences have been analyzed by Pramuk et al. (2007). This species appears to be nested within a clade occurring in eastern Amazonia. However, the R. dapsilis specimen analyzed by Pramuk et al. is indicated to come from Pichincha–Ecuador which is located in the Andes while the species is supposed to occur in western Amazonia according
+to Frost (amphibian species of world accessed in June 2009). The geographical information provided is likely erroneous given the close phylogenetic relationship between the R. dapsilis mtDNA haplotype and other R. margaritifera sample in FG as well as the identification of the specimen as explained in Fouquet et al. (2007a). Given this confusing situation, we used the DNA data in phylogenetic reconstruction as Rhinella margaritifera but did not consider the geographical information.
+On the contrary, we grouped several putative species under one name:
+• Allobates femoralis has been recognized for a long time to harbor cryptic species over its range. Recently, Simo ̃es et al. (2010) described Allobates hodli from southwestern Amazonia and also identified a closely related species from Acre. We included this last species in our reconstruction.
+• We considered all the Anomaloglossus spp. that are clustering with Anomaloglossus baeobatrachus even if evidences that various species are actually hidden under it.
+• We grouped Rhinella margaritifera lineages from the GS, Rhinella martyi (Fouquet et al. 2007a) and the closest Amazonian lineages because they appeared allopatric in the GS and/or phylogenetically close enough to be included in the same group.
+• For similar reasons, we also grouped under the name Rhinella castaneotica populations from Amazonia of this species and material from the GS that actually may correspond to a related but distinct species (Fouquet et al. 2007a).
+Due to the confusion surrounding species delineation in several species like in the Leptodactylus wagneri/podicipinus species group, we mapped the ranges of most Amazonian species according to the GAA supposedly occurring in the GS and additional species (see Fig. S21b). We also mapped the observed and supposed ranges of Anomaloglossus stepheni because it appeared to have a contact zone with Anomaloglossus baeobatrachus. These two different species have similar ecology and reproductive behavior and interestingly do not seem to overlap across their ranges.
+Justifications of the Species Generation Time Used
+It has been shown that the age at maturity is correlated with longevity (Tilley 1980; Miaud et al. 2000), characteristics that are themselves frequently related to body size and mode of reproduction (Wells 2007). These traits are known to vary among the sexes as well as among temperate/lowland species. Most females of temperate species do not reach maturity before 3 years (Halliday and Tejedo 1995). However,
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+
+ 486 SYSTEMATIC BIOLOGY
+most small tropical species with small clutches and parental care (Duellman and Trueb 1986; Donnelly 1999; Morrison and Hero 2003) can probably reproduce as early as their first year (e.g., Kumbar and Pancharatna 2001; Gramapurohit et al. 2004). In larger species such as Leptodactylus bufonius (Reading and Jofre 2003) and Leptodactylus pentadactylus (Galatti 1992), female maturity may be reached as late as 2 years of age. Even less is known of survival with the little information available suggesting that maximum longevity only rarely exceeds 5 years (Morrison et al. 2004) in tropical amphibians and that most individuals survive less than a year after reaching sexual maturity (Barbault and Rodrigues 1978, 1979; Barbault and Pilorge 1980; Galatti 1992; Ramirez et al. 1998; Wells 2007). Given these uncertainties, we considered the survival rates past first breeding to be close to 0 in all species, thus only considering the first reproduction to be significant. We also considered all small bodied species to have a 1 year generation time, which we increased to 1.5 years in larger species that typically have large clutches and in which at least females probably need more than a year to reach sexual maturity.
+APPENDIX 3. New tyrosinase primers designed for this study
+VOL. 61
+     Leptodactylidae Leptodactylidae Leptodactylidae Leptodactylidae Leptodactylidae Aromobatidae Aromobatidae Aromobatidae Aromobatidae Pristimantis Pristimantis Pristimantis Leptodactylidae Leptodactylidae Aromobatidae Aromobatidae Aromobatidae
+Tyr I Adeno 6 Tyr BC Adeno Tyr H Adeno Tyr E Adeno 18 Tyr E Adeno 16 Tyr E Dendro12 Tyr E Dendro16 Tyr I Dendro Tyr I Dendro 5 Tyr E Eleu14
+Tyr E Eleu17
+Tyr I Eleu12
+Tyr I Lepto14 Tyr E Lepto 29 Tyr I Allob 6
+Tyr I Dendro 19 Tyr H Dendro 25
+CAACTCTCC TTTGGGTCCTC
+CTGGAGATGGT TCTACTTGTGG
+ACATTGTTG GGCATCTCTCC
+CTGAGGAGA ACAGTGCTGG
+GGCTGAGGA GAACAGTGCT
+GCTGGGCTGA GGAKATTATC
+GGCTGAGGAKA TTATCRCTTA
+CCTTTGGGT TCACARTTTC
+CCTCACCT TYGGGTTCACA
+TGGGCTGAG TAGGAYGGTA
+GCTGAGTAG GAYGGTACTGG
+GTTGTATCTAC CTCACCTTTGG
+GTCSTGTCCA ACTCTCCYGTG
+CGTTGCTGGT TGGGTGGKTTC
+ACTCCCCTT CAGGTTCACA
+TCCCTTTAGY GGCATTGACGA
+CAGAAGGGGAT GGTGAAGTT
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+APPENDIX 4.
+Best models fitting the data for each genus estimated with Modeltest, alignment sizes of each data
+set, and outgroups used
+Adenomera
+807
+107 584
+152
+L. mystaceus, L. rhodomystax, Lithodytes lineatus Aromobates nocturnus, Nephelobates sp.
+Allobates Anomaloglossus Leptodactylus Pristimantis
+GTR+I+G 0.7493 GTR+I+G 0.3548 GTR+I+G 0.6541 GTR+I+G 0.7586
+0.2260,5.6390,1.2594,0.0800,2.6978,1 0.2091,8.7249,1.5651,0.0718,2.9267,1 0.1683,7.3207,1.4646,0.1001,3.8140,1 0.2502,5.9063,1.2487,0.1596,3.3305,1
+0.4379 0.2883,0.1573,0.2294,0.3250 0.1747 0.2613,0.1674,0.2386,0.3327 0.3843 0.2549,0.1689,0.2473,0.3289 0.2550 0.2501,0.1357,0.2528,0.3614
+807 791 819 866
+81 549 85 524 96 617 130 576
+87 185 135 135
+Allobates granti 1 and 2,
+A. femoralis
+Adenomera heyeri, Lithodytes lineatus
+Rhinella
+GTR+I+G 0.7779
+0.1845,17.7267,3.6557,0.0001,7.7505,1
+0.4938 0.2865,0.1822,0.2212,0.3101
+790
+843 97
+C. nesiotes, Rhamphophryne festae
+Model Gamma GTR+I+G 0.7662
+Substitution matrix 0.2374,9.7214,2.4535,0.0785,4.4889,1
+Pinvar Base composition 0.4235 0.2597,0.1737,0.2385,0.3281
+Align. Taxa Align. Taxa mtDNA mtDNA mtDNA mtDNA
+Outgroups Leptodactylus gr. wagneri A,
+mtDNA dating
+Notes: Models are also indicated for the mtDNA data set used for relaxed molecular clock Bayesian dating.
+GTR+I+G 0.7216
+0.412,8.019,1.6751,0.1781,4.6501,1
+0.2763 0.2677,0.1139,0.2382,0.3802
+68 539
+152
+Phrynopus brunneus,
+P. peraccai, P. bracki, Eleutherodactylus dolops Chaunus chavin,
+
+ 2012 FOUQUET ET AL.—QUATERNARY REFUGIA IN THE EASTERN GUIANA SHIELD 487
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+APPENDIX 5.
+Calibration point details used for the relaxed molecular clock Bayesian dating and corresponding references
+Node
+Hyloidea (Root)
+Additional species included for mtDNA Hyla arenicolor, Hyla arborea
+Age (Ma) SD References 63 10 Roelants et al. (2007)
+Holartic Hyla
+Acris + Holartic Hyla
+Lophiohylini + Hylini
+Pelodryadinae + Phyllomedusinae Dendrobates + Phyllobates
+Dendrobates Phyllobates + Epipedobates Rhinella + Cranopsis + Anaxyrus + Bufo
+Acris crepitans
+Trachycephalus venulosus, Osteocephalus taurinus Litoria caerulea, Phyllomedusa vaillanti Dendrobates auratus, Phyllobates vittatus Epipedobates tricolor
+Bufo bufo, Cranopsis coniferus, Anaxyrus boreas
+18.2 3 Roelants et al. (2007) 30.5 5 Roelants et al. (2007) 40.7 6 Roelants et al. (2007) 43.2 8 Roelants et al. (2007) 18.9 4 Roelants et al. (2007) 26.6 5 Roelants et al. (2007)
+Pristimantis
+Pristimantis + Phrynopus bracki Carribean Eleutherodactylini
+Pristimantis cruentus, Pristimantis actites Phynopus bracki
+Eleutherodactylus martinicensis, Syrrophus zeus
+24.45 6 Heinicke et al. (2007) 36.5 8 Heinicke et al. (2007) 29.4 6 Heinicke et al. (2007)
+Carribean + other Eleutherodactylini
+Leptodactylidae <54.8
+Roelants et al. (2007)
+Interpreted from Roelants et al. (2007)
+<43.3 Interpreted from Roelants et al. (2007) and Pramuk et al. (2007)
+and Roelants et al. (2007) 48.3 8 Heinicke et al. (2007),
+and San Mauro et al. (2005)
+
+ 488 SYSTEMATIC BIOLOGY VOL. 61
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012
+APPENDIX 6. Species
+IMa results and ABC design with data sets description
+4-1 Adenomera andreae (38/74)
+4-2,3,4,5 (34/66) 3-2 (13/26) 4-2 (13/22)
+Central + S FG+ AP +
+2.332 0.757 2.610 1.450 2.959 1.561
+3-1 Adenomera heyeri (19/38)
+N FG
+SUR 773 S FG + SUR +
+0.252 0.178 0.255 0.252 0.188 0.241 0.251 0.184 0.238 0.266 0.179 0.228 0.242 0.182 0.256 0.246 0.188 0.250
+584 0.246 0.260 0.227 584 0.254 0.253 0.222 549 0.244 0.275 0.263 549 0.248 0.269 0.259 524 0.262 0.257 0.250 524 0.267 0.254 0.246
+2.915 62.46 69.355 0.85 9.812 9.501
+16.399 0.1785 0.0663 10.42 NA NA
+1.336 0.978 0.382 0.199 1.121 0.626 0.709 0.249 1.211 0.710 0.918 0.415
+4-1 Allobates femoralis (34/58)
+N FG N FG + AP
+GUY 766 SFG+AP+
+2.425 1.547 2.532 1.934
+17.493 9.997 2.495 2.766 12.441 34.265 5.287 17.937
+2.812 0.0903 0.022 0.008 NA NA 7.792 0.0582 0.0945 0.007 0.0465 0.0004
+4-1 Allobates granti (25) Anomaloglossus 4-1
+NFG NFG NFG
+4-2 (7) 4-2
+SUR + GUY 768 S + E FG 781 S FG +AP 757 S FG 765
+baeobatrachus (52/88) 3-1
+(32/64) 3-2,3 (35/64)
+Anomaloglossus sp. (18/36) Leptodactylus 3-1
+3-3,4 (17/34)
+E FG + AP 778 SFG+AP+
+617 0.253 0.237 0.248 617 0.251 0.227 0.248 576 0.260 0.245 0.238
+0.844 0.251 1.142 0.693 1.196 0.448
+1.625 3.054 2.703
+mystaceus (21/40) Leptodactylus 3-1,2
+FG
+0.225 0.201 0.237 0.219 0.201 0.268 0.226 0.181 0.256
+1.298
+5.499 7.238
+6.322 0.4064 0.5763
+wagneri B (19/38) Pristimantis 3-1 chiastonotus (43/78)
+N FG
+3-3 (5/16) SUR 784 3-2
+2.645 2.655
+22.087 25.65 6.152 4.462
+5.565 0.0004 0.2347 0.057 0.0006 0.0008
+Pristimantis 4-2 zeuctotylus (41/78)
+N FG +
+SUR (13/24) SUR 730
+Rhinella 4-1 margaritifera s.l. (17/30)
+NFG+ 4-2 SFG+AP+
+AP (56/110) SUR + GUY 763
+3.111 and estimated time
+Group 1 (nmt/nu) Local.
+Group
+2 IMa t T in
+FG
+(14/30) AP 771 Central + S
+(nmt/nu) Local. mtDNA A C G nuDNA A C G modes q1 q2 qa m1 m2 Ma 95%L
+95%H
+4-1 FG+ AP +
+0.223 0.182 0.263
+576 0.249 0.241 0.247 539 0.262 0.235 0.258
+2.019
+9.933 7.612
+0.0075 0.0001 0.0815
+0.919 0.581
+2.291
+Notes: (i) Lineages designation from network clades and their respective geographical location; (ii) of split with 95% CI.
+length of the alignments and base composition; and (iii) IMa results
+0.279 0.187 0.225
+1.839
+10.327 30.112
+6.65 0.165 0.1501
+1.291 0.655
+
+ 2012 FOUQUET ET AL.—QUATERNARY REFUGIA IN THE EASTERN GUIANA SHIELD
+489
+ APPENDIX 7. List of supplementary figures
+Figures S mtDNA
+Figures S mtDNA networks, doi:10.5061/ dryad.bj1514fn/3
+       7a
+       7b
+       8a
+       8b
+       9a
+       9b
+10a 10b 11a 11b 12a 12b
+Figures S maps, doi:10.5061/ dryad.bj1514fn/4
+13a 13b 14a 14b 15a
+15b,c 16a 16c 17a 17b 18a
+18b,c
+Figures S nuDNA networks, doi:10.5061/ dryad.bj1514fn/5
+       19
+       19
+       20
+       20
+       21
+       21
+       22
+       22
+       23
+       23
+       24
+       24
+ Species
+Adenomera andreae Adenomera heyeri
+Allobates femoralis
+Allobates granti Anomaloglossus baeobatrachus Anomaloglossus sp. Leptodactylus mystaceus Leptodactylus wagneri B Pristimantis chiastonotus Pristimantis zeuctotylus Rhinella castaneotica
+Rhinella margaritifera s.l.
+trees, doi:10.5061/ dryad.bj1514fn/2
+        1
+        1
+        2
+        2
+        3
+        3
+        4
+        4
+        5
+        5
+        6
+        6
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOILibrary on June 19, 2012

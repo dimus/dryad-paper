@@ -1,0 +1,492 @@
+   Molecular Ecology (2012) doi: 10.1111/j.1365-294X.2012.05652.x
+Climate oscillation during the Quaternary associated with landscape heterogeneity promoted allopatric lineage divergence of a temperate tree Kalopanax septemlobus (Araliaceae) in East Asia
+SHOTA SAKAGUCHI,* YING-XIONG QIU,† YI-HUI LIU,† XIN-SHUAI QI,† SEA-HYUN KIM,‡ JINGYU HAN,‡ YAYOI TAKEUCHI,§ JAMES R. P. WORTH,* MICHIMASA YAMASAKI,*
+SHOGO SAKURAI– and YUJI ISAGI*
+*Division of Forest and Biomaterials Science, Graduate School of Agriculture, Kyoto University, Kyoto 6068502, Japan,
+†Key Laboratory of Conservation Biology for Endangered Wildlife of the Ministry of Education, and College of Life Sciences, Zhejiang University, Hangzhou 310058, China, ‡Division of Special Purpose Trees, Department of Forest Genetic Resources, Korea Forest Research Institute, Suwon 441-350, South Korea, §Graduate University for Advanced Studies, Kanagawa 2400193, Japan, –Graduate School of Life and Environmental Sciences, Kyoto Prefectural University, Kyoto 6068522, Japan
+Abstract
+We investigated the biogeographic history of Kalopanax septemlobus, one of the most widespread temperate tree species in East Asia, using a combined phylogeographic and palaeodistribution modelling approach. Range-wide genetic differentiation at nuclear microsatellites (G¢ST = 0.709; 2205 samples genotyped at five loci) and chloroplast DNA (GST = 0.697; 576 samples sequenced for 2055 bp at three fragments) was high. A major phylogeographic break in Central China corresponded with those of other temperate species and the spatial delineation of the two temperate forest subkingdoms of East Asia, consistent with the forests having been isolated within both East and West China for multiple glacial–interglacial cycles. Evidence for multiple glacial refugia was found in most of its current range in China, South Japan and the southernmost part of the Korean Peninsula. In contrast, lineage admixture and absence of private alleles and haplotypes in Hokkaido and the northern Korean Peninsula support a postglacial origin of northernmost populations. Although palaeodistribution modelling predicted suitable climate across a land-bridge extending from South Japan to East China during the Last Glacial Maximum, the genetic differentiation of regional populations indicated a limited role of the exposed sea floor as a dispersal corridor at that time. Overall, this study provides evidence that differential impacts of Quaternary climate oscillation associated with landscape heterogeneity have shaped the genetic structure of a wide-ranging temperate tree in East Asia.
+Keywords: allopatric divergence, East Asia, Kalopanax septemlobus, land-bridge, phylogeography, Quaternary
+Received 10 October 2011; revision received 15 April 2012; accepted 18 April 2012
+Introduction
+In the last decade, there has been considerable debate concerning how past climatic changes have impacted the distribution and diversity of East Asian temperate forests
+Correspondence: Shota Sakaguchi, Fax: +81 75 753 6129; E-mail: sakaguci@kais.kyoto-u.ac.jp
+(Qian & Ricklefs 2000; Harrison et al. 2001). These temperate forests span a vast area from the northernmost point of Japan (45° N, 140° E), southwards through the Korean Peninsula and East China to far Southwest China at the edge of the Tibetan Plateau (30° N, 100° E). East Asian temperate forests harbour a remarkable diversity of plant species and high plant endemism, and are classified into two major biogeographic regions (Fig. 1a):
+Ó 2012 Blackwell Publishing Ltd
+
+ 2 S. SAKAGUCHI ET AL. (a)
+(b)
+Salween River
+71
+E110
+72
+Nanling Mts.
+73
+E115
+Pacific Ocean
+500
+E135
+II
+75
+E100
+15
+Hengduan Mts.
+66 68
+Central China
+River
+East China Sea
+Maximum species range of
+Kalopanaxseptemlobus
+Hokkaido 11 10 12 9
+I 55 Korean
+14 17
+16 18
+20 19
+21 24 26
+Honshu
+Altitude (m) 2000 –
+the Sino-Japanese and the Sino-Himalayan Forest subkingdoms (Takhtajan 1986; Wu 1998). In recent years, particular research effort has been given to understanding of the location of long-term Quaternary refugia (Manchester et al. 2009), the extent to which species expanded from their last glacial maximum (LGM) distributions, and the importance of landscape features in shaping intraand inter-specific diversity (Wang et al. 2009; Qiu et al. 2011).
+Although East Asia was not covered by ice sheets during the last glacial period, climate oscillations during the late Quaternary strongly impacted the vegetation (Harrison et al. 2001; Qiu et al. 2011). Palaeovegetation studies based on fossil pollen have proposed that temperate forests were able to survive south of the Yangtze River (􏰀30° N) in East China and 􏰀35° N in Central China (Harrison et al. 2001). In Japan, temperate forests are suggested to have survived in coastal areas to 􏰀38° N because of the north-flowing warm Kuroshio Current (Tsukada 1985). In contrast, the northernmost ranges of temperate forests (i.e. Hokkaido and northern Honshu, most of the Korean Peninsula and Northeast China) are thought to have been established by postglacial range expansion, replacing the boreal coniferous forest and ⁄ or treeless steppe vegetation that are thought to have dominated in these regions during the last glacial (Harrison et al. 2001; Yi & Kim 2010). Recently, phylogeographic studies have mostly corroborated the pollen-based evidence for multiple glacial
+refugia for temperate plants in China (Gao et al. 2007; Qiu et al. 2011), and South Japan (Aoki et al. 2004; Hiraoka & Tomaru 2009). However, phylogeographic studies have also found evidence for northern cryptic refugia undetected by pollen in Northeast China (Bai et al. 2010) and North Japan (Tsuda & Ide 2005; Hu et al. 2010).
+Landscape features in East Asia are also considered to have been important in shaping the genetic structure of plant species, with many species having strong phylogeographic breaks even over relatively short geographic distances associated with complex topography of the region (Gao et al. 2007; Zhang et al. 2011). One important feature, the East China Sea, is an area of contention in terms of its relative role as a barrier or dispersal route for temperate species. During the last glacial period, the shallow sea was exposed by lowered sea level, and a hypothesized band of temperate-deciduous forest is thought to have formed across the landbridge (Harrison et al. 2001), possibly connecting the now isolated forests of the Japanese Archipelago, the Korean Peninsula and East China. Repeated land-bridge formation across this seaway in the late Quaternary may have provided recurrent opportunities for population isolation and secondary contact (Qian & Ricklefs 2000). So far, phylogeographic studies have revealed contrasting results as to the historical connections of these now disjunct populations on either side of the East China Sea. Chloroplast DNA (cpDNA) evidence
+67
+Three Gorges
+62
+61 60 59
+Kyushu 45
+0
+64
+Sichuan Basin
+65 DabaMts.
+Yellow 57
+Qinling Mts.
+River Yangtze 58
+32
+41 40 35 36
+43 Shikoku 44
+31
+63
+– 2000 – 1500 – 1000 0–500 –110 – –130 –
+Kilometers
+East China
+69 Yunnan-Guizhou Plateau
+Mekong River
+E105
+Fig. 1 (a) Spatial delineation of two forest subkingdoms in the East Asian temperate forests: (I) the Sino-Japanese Forest subkingdom and (II) the Sino-Himalayan Forest subkingdom. (b) Locations of the 75 sampled populations of Kalopanax septemlobus in East Asia. Palaeocoast lines during the last glacial maximum are shown assuming )110 m (grey) and )130 m (dark grey) sea level depression respectively. The species‘ range limit (broken line) according to Chang et al. (2003) is also shown. More information about the sampled populations is available in Table S1 (Supporting information).
+74
+70
+E120
+E125
+E130
+56
+48
+53 54
+27 29
+Taiwan
+1,000
+E140
+Peninsula
+Sea of Japan
+Tsushima
+Strait 38 37 30
+34
+47 39 33
+22
+N40
+N35
+N30
+N25
+49 50
+46
+52 51
+42
+23
+25 28
+1
+23
+6 4 7 N45
+13 8
+5
+s
+d
+n
+a
+l
+s
+I
+u
+y
+k
+u
+y
+R
+Ó 2012 Blackwell Publishing Ltd
+
+from forest understorey species indicates that divergence times significantly predate the last glacial period (Qiu et al. 2009b; Kikuchi et al. 2010), whereas no significant genetic differentiation between East China and Japan was found in a wind-pollinated canopy tree, Juglans mandshurica (Bai et al. 2010).
+This study investigates the phylogeographic history of one of the most widespread temperate trees in East Asia, Kalopanax septemlobus, a monotypic species that is distributed almost throughout the entire East Asian temperate forests (Chang et al. 2003) (Fig. 1b). This species is particularly suitable to investigate the biogeography of East Asian temperate forests for two reasons. First, whereas other plant species studied have generally had limited geographic distributions, the widespread range of K. septemlobus effectively provides a single study system whereby impacts of past climatic change and landscape features on genetic structure can be directly compared between major regions of the East Asian temperate zone, East and West China, the Korean Peninsula and the Japanese Archipelago. Second, to date, most plant species used to examine the genetic structure of disjunct populations around the East China Sea were forest understorey species with similar lifehistory traits (Li et al. 2008; Qiu et al. 2009b). Biased sampling of species with similar life-history traits could lead to misunderstandings of past fragmentation history of temperate forests as mating system and dispersal mode are important determinants of plant genetic structure (Duminil et al. 2007). In this multidisciplinary study, evidence from nuclear microsatellite (nSSR) and cpDNA markers are combined with palaeodistribution modelling, to reconstruct the biogeographic history of K. septemlobus. The specific aims are to (i) reveal the locations and approximate divergence timings of major genetic lineages, (ii) determine areas of long-term refugia vs. territories recently colonized via postglacial range expansion and (iii) examine how temporal configurations of land-bridges in the East China Sea functioned in impacting the genetic structure of the currently isolated populations.
+Materials and methods
+Plant sampling
+Samples were collected from 2205 individual trees from 75 populations of Kalopanax septemlobus (average 29.4 per population) throughout the species range (Fig. 1b and Table S1, Supporting information). Leaves, or in some cases winter buds or inner bark, were collected in the field for DNA extraction. In the Japanese Archipelago, 46 populations were sampled (Table S1, Supporting information) including one population from
+Okinawa Island, an isolated occurrence of the species. Eight populations from the Korean Peninsula and 20 populations in China were sampled, representing most of the species‘ range in these regions. As a result of the natural local rareness of the species in parts of the Korean Peninsula and China, less than five individuals were collected from four populations (49, 50, 52 and 74).
+DNA extraction and microsatellite genotyping
+Total genomic DNA was extracted from 􏰀1.0 cm2 of plant tissue using a modified CTAB (Cetyltrimethylammonium bromide) method (Murray & Thompson 1980). Six nSSR markers (KP20, KP22, KP24, KP26, KP27 and KP28) developed for K. septemlobus (Fujimori et al. 2006) were used to determine the nSSR genotypes of all samples (N = 2205; Table S1, Supporting information). The nSSR loci were polymerase chain reaction (PCR) amplified following Fujimori et al. (2006) and loaded on an ABI Prism 3100 Genetic Analyser (Applied Biosystems), and scored using GENOTYPER (Applied Biosystems).
+Chloroplast DNA sequencing
+Three non-coding chloroplast fragments [trnH-trnA (Tate & Simpson 2003), trnS-trnfM (Demesure et al. 1995) and rpl32-trnL (Shaw et al. 2007)] were sequenced for 576 samples, an average of 7.7 samples per population (Tables S1 and S2, Supporting information). PCRs were performed in 20 lL containing 􏰀50 ng of template DNA, 2 lL of 10· PCR buffer, 1.6 lL of 2.5 mM dNTP, 0.1 lL of 50 lM each primer and 0.5 unit of TaKaRa Ex Taq (TaKaRa). The PCR cycle for all three fragments was as follows: template denaturation at 94 °C for 3 min, followed by 30 cycles of denaturation at 94 °C for 1 min, annealing at 52 °C for 1 min and extension at 72 °C for 1 min; followed by a final extension of 72 °C for 7 min. Sequencing of PCR products was conducted using both forward and reverse primers with ABI Prism BIGDYE Terminator Cycle Sequencing Ready Reaction kit v. 3.1 (Applied Biosystems), and electrophoresed on an ABI Prism 3100 Genetic Analyser (Applied Biosystems).
+Microsatellite data analysis
+Genetic diversity and differentiation at each nSSR locus. Genetic diversity statistics, A, the number of alleles per locus; HT, total genetic diversity over populations; HO , observed heterozygosity within populations; HS, average heterozygosity within populations (Nei 1987) and heterozygote deficiency, were calculated at each nSSR locus using FSTAT 2.9.3 (Goudet 1995). Genetic
+Ó 2012 Blackwell Publishing Ltd
+PHYLOGEOGRAPHY OF KALOPANAX SEPTEMLOBUS 3
+
+4 S. SAKAGUCHI ET AL.
+differentiation at nSSR markers, G¢ST (Hedrick 2005) and FST (Weir & Cockerham 1984), was evaluated using MSA 4.05 (Dieringer & Schlotterer 2003) and FSTAT 2.9.3 (Goudet 1995). Neutrality of nSSR loci was tested based on the FST–outlier method using LOSITAN (Antao et al. 2008), and any candidate outliers were subsequently removed from the analyses (Luikart et al. 2003).
+Population genetic diversity and identification of genetic barriers. The level of within-population genetic diversity for all populations excluding populations 49, 50, 52 and 74, which all consisted less than five individuals, was evaluated by four genetic diversity statistics, AR, allelic richness (El Mousadik & Petit 1996); PAR, private allelic richness; HE, expected heterozygosity (Nei 1987) and HO, observed heterozygosity. AR and PAR were calculated by rarefying to 10 gene copies using FSTAT 2.9.3 and HP-RARE1.1 (Kalinowski 2005) respectively. Calculation of HE and HO, and tests of heterozygotes deficiency via 1000 randomizations were performed using FSTAT 2.9.3.
+To identify genetic barriers between population groups, a total of one thousand bootstrapped genetic distance matrices of Nei’s Da (Nei et al. 1983) were generated using MSA 4.05 (Dieringer & Schlotterer 2003), and used as input for BARRIER v. 2.2 (Manni et al. 2004), a program which implements Monmonier’s maximum difference algorithm (Monmonier 1973).
+STRUCTURE analysis. The model-based Bayesian algorithm in STRUCTURE v. 2.3 (Pritchard et al. 2000; Falush et al. 2003) was used to detect population structure within K. septemlobus, with the sampling location specified as prior information (Hubisz et al. 2009). A total of 20 independent simulations were run for each K (K = 1–20) with 20 000 burn-in steps followed by 10 000 Markov chain Monte Carlo (MCMC) steps. Two alternative methods were used to explore the true number of gene pools: by monitoring the change in average of log-likelihood of the data, LnP(D), of independent runs for each K, following Pritchard et al. (2000), and by observing the second-order rate of change of LnP(D) between successive K values (Evanno et al. 2005).
+Chloroplast DNA sequence analysis
+Phylogenetic analysis and SAMOVA. The
+sequence data were edited and aligned using BIOEDIT v. 7.0.8.0 (Hall 1999). A mononucleotide repeat region detected in trnS-trnfM fragment was removed before data analyses as a result of significant homoplasy.
+Phylogenetic relationships between cpDNA haplotypes were assessed using PAUP* 4.0 beta (Swofford 2002), with Eleutherococcus spinosus var. japonicus (collected in Oita, Kyushu, Japan) and Panax ginseng
+(cultivated at Kyoto University) used as outgroups. All indels were coded as unordered and of equal weight (Simmons & Ochoterena 2000). A heuristic search was used with 1000 replicates of random branch-swapping addition sequence followed by tree bisection reconnection. Branch support was assessed by bootstrap analysis with 100 replicates using the same search parameters mentioned above, except 10 heuristic search replicates were undertaken. In addition, a median joining network with E. spinosus var. japonicus as an outgroup was inferred using NETWORK v. 4.6.0.0 (Bandelt et al. 1999), with the indels coded as a fifth state.
+To identify population groups and genetic barriers, a spatial analysis of molecular variance (SAMOVA) was performed using SAMOVA 1.0 (Dupanloup et al. 2002). Based on a simulated annealing procedure, SAMOVA algorithm iteratively seeks the composition of a user-defined number of groups (K) of geographically adjacent populations that maximizes the proportion of total genetic variance (FCT) as a result of the differences between groups of populations. We set the number of initial condition to 100 with K = 2–10.
+Sequence characteristics and demographic analysis. The number of haplotypes (H) and haplotype richness (HR) was calculated using CONTRIB v. 1.02 (Petit et al. 1998) for each population and intraspecific lineage inferred from the phylogenetic analyses. CONTRIB v. 1.02 was also used to calculate GST (Nei 1973) for overall samples.
+Calculation of nucleotide diversity (p) and neutrality test statistics of Tajima’s D (Tajima 1989) and Fu and Li’s F¢ (Fu & Li 1993) with associated significance values were carried out for each lineage using DNASP v. 5 (Librado & Rozas 2009). To assess whether intraspecific lineages experienced past population expansions, mismatch distribution analyses (Rogers & Harpending 1992) were performed using Arlequin v. 3.11 (Excoffier et al. 2005). The sum of square deviations between the observed and expected distributions and the raggedness index of the observed distribution were used as test statistics to validate fit of the models (Rogers & Harpending 1992; Harpending 1994). In case where a sudden expansion model was not rejected, the moment estimators of the time to the expansion (s) were converted to absolute time according to Rogers & Harpending (1992). In this study, as the lineage-specific cpDNA substitution rate for Kalopanax is unknown, three different cpDNA substitution rates for angiosperms [the slowest (1.1 · 10)9 substitution ⁄ site ⁄ year), fastest (2.9 · 10)9 s⁄s⁄y) and mean (2.0 · 10)9 s⁄s⁄y) (Wolfe et al. 1987; Muse 2000)] were employed to estimate divergence times. The indel-excluded sequence length (k) was 2000 bp and a generation time for K. septemlobus was approximated as 100 years.
+chloroplast
+Ó 2012 Blackwell Publishing Ltd
+
+Divergence time. To estimate the divergence times of major chloroplast-based population groups detected by SAMOVA, an isolation model implemented in the program IMa (Hey & Nielsen 2007) was applied to the cpDNA sequence data. In the analyses, four demographic parameters of recently diverged populations can be simultaneously estimated, including divergence time (t), effective population size of each extant population (h1 and h2) and the ancestor (hA). IMa analyses were performed for the two pairs of population groups obtained by SAMOVA analysis (see the results of the AMOVA analysis): (i) CP1 vs. CP2 + CP3 and (ii) CP2 vs. CP3. Two populations, one in Central China (68) and Okinawa Island (46), were excluded from the analyses because of difficulty in group assignment. Although likelihood ratio test using MODELTEST3.7 (Posada & Crandall 1998) showed that F81 model (with all substitution rate same; base frequencies unequal) was the best-fitted model for all our data set (each locus and concatenated data), the HKY (Hasegawa-Kishino-Yano) model of sequence evolution (with different transition and transversion rates given) was assumed in isolation model analyses, because (i) HKY model is a more general model of F81, (ii) F81 model is currently not implemented in IMa and (iii) in practice, the alternative model for DNA sequence data (‘infinite-site model’) did not work for our data set, which means the infinite-site model does not fit our data (Hey 2007). The maximum priors for the parameters used for both analyses were t = 5 and h1 = h2 = hA = 5. An inheritance scalar was set to 0.5, as cpDNA sequences are considered in this analysis. Under the prior settings above, three different runs were performed to confirm that posterior probability distributions can converge by monitoring ESS (Effective Sample Size) values and trend lines along MCMCs. In the simulations, five Metropolis-coupled MCMCs with linear heating scheme of 100 million steps after a burnin period of 2 million steps were generated. The estimated divergence time (t) were converted to absolute time using the equation T = t ⁄ l · k, where the same range of values as in the mismatch distribution analysis were used for l and k.
+Spatial genetic structure. The spatial structuring of nSSR alleles and cpDNA haplotypes was examined for the populations in China and mainland Japan by constructing genetic distograms, whereby the mean genetic distances between all pairs of populations belonging to a particular spatial distance class are plotted against the spatial distance classes, using SGS v. 1.0c (Degen et al. 2001). In this study, genetic distance DG (Gregorius 1978) between pairwise populations was calculated based on allele or haplotype frequency matrices, with the interval of each distance class designated as 250 km.
+Significant deviation from random spatial distribution of alleles or haplotypes was tested by 1000 permutations based on Monte Carlo simulations.
+Palaeodistribution modelling. A statistical model that can predict potential distribution of K. septemlobus was constructed by relating modern distribution records and bioclimatic variables, using the maximum entropy modelling technique (Maxent) (Phillips et al. 2006). In addition to the distribution records of K. septemlobus in Japan reported in Sakaguchi et al. (2010), records were sourced from the Chinese Virtual Herbarium (http:// www.cvh.org.cn/) and field surveys for China and South Korea. In total, 402 presence records of K. septemlobus were obtained from throughout the species range, after removal of duplicate records within each pixel (2.5 arcmin; 􏰀5 km). Six bioclimatic variables (Hijmans et al. 2005) at 2.5 arc-min resolution were used to model the species’ niche: (i) annual mean temperature, (ii) mean temperature of the warmest quarter, (iii) mean temperature of the coldest quarter, (iv) annual precipitation, (v) precipitation of the wettest quarter and (vi) precipitation of the driest quarter. Model validation was performed using default settings with 100 replicates of cross-validation procedures with 25% of the data used for model testing. The area under the ROC curve (AUC) was then calculated for each run, which is an indicator of the accuracy of model prediction (Fawcett 2006).
+The established model was then projected onto the reconstructed climatic conditions during the LGM simulated by Community Climate System Model 3.0 (Collins et al. 2006), provided by the Palaeoclimate Modelling Intercomparison Project (http://pmip2.lsce.ipsl.fr/). We prepared the LGM palaeoclimate layers in 2.5 arc-min resolution using the same method as Sakaguchi et al. (2010), except that we utilized the seafloor topography data (ETOPO1), a product by National Geophysical Data Center of National Oceanic and Atmospheric Administration (USA), to estimate the palaeocoast lines ()130 m than at present) and the palaeoclimate surfaces of the exposed seafloor area during the LGM.
+Results
+Nuclear microsatellite diversity and population structure
+The six nSSR loci showed high polymorphism with the number of alleles observed per locus (A) ranging from 25 to 34 and the genetic diversity over all populations (HT) from 0.835 to 0.927 (Table 1). The neutrality test suggested one locus (KP28) to be an outlier. Thus, this locus was excluded from all subsequent analyses. A standardized differentiation measure G¢ST (0.709, a
+Ó 2012 Blackwell Publishing Ltd
+PHYLOGEOGRAPHY OF KALOPANAX SEPTEMLOBUS 5
+
+6 S. SAKAGUCHI ET AL.
+ Locus A KP20 29
+KP22 34 KP24 22
+KP26 33
+KP27 25
+KP28 27
+Average 28.3
+HT HO 0.927 0.757*
+0.890 0.552* 0.893 0.743 0.917 0.627* 0.835 0.665* 0.855 0.583* 0.886 0.743
+HS FST 0.806 0.100*
+0.759 0.109* 0.723 0.176* 0.721 0.188* 0.703 0.128* 0.617 0.229* 0.722 0.155
+G¢ST 0.749
+0.681 0.714 0.819 0.581 0.743 0.715
+Table 1 Characteristics of the six microsatellite loci examined in this study
+  A, number of alleles per locus; HT,
+observed genetic diversity within populations; HS, expected genetic diversity within populations; FST, genetic differentiation index (Weir & Cockerham 1984); G¢ST, standardized genetic differentiation index (Hedrick 2005). Significant departure from Hardy–Weinberg equilibrium and genetic differentiation in FST were tested by 1000 times randomizations (*P < 0.001).
+mean over five loci) was much higher than FST (0.140), indicating that high polymorphism of the nSSR markers may have underestimated FST (Hedrick 2005). Private alleles were found in the populations in most parts of China, southern part of Korean Peninsula, and the Japanese Archipelago excluding Hokkaido (Table S1 and Fig. S1, Supporting information).
+In STRUCTURE analysis, K = 5 was the smallest number of gene pools which was found to capture most of the structure in the data and which seemed biologically sensible (Pritchard et al. 2009) (Data S1, Supporting information). Populations in the Japanese Archipelago were characterized by admixture of two gene pools (nSSR1 and nSSR2) (Fig. 3a). A third gene pool, nSSR3, was found predominantly in East China and extensively admixed with nSSR2 in the Korean Peninsula. A genetic barrier with high bootstrap support was detected between Japanese, and the Chinese⁄Korean populations in the East China Sea region. Most populations south of Yangtze River were recognized as a single deme, dominated by genetically diverse nSSR4. Whereas a gene pool nSSR5 was mostly confined to Daba-Qinling Mountain Range, the populations in Okinawa Island (46) and Central China (61) were shown to have some portion of nSSR5 in their estimated allelic constitution. Two major genetic boundaries were observed in Central China: demarcating (i) East China and Central-Southwest China and (ii) between the Daba-Qinling Mts. and populations south of the Yangtze River.
+Chloroplast genetic diversity and structure
+The concatenated cpDNA sequence had a length of 2055 bp, in which 23 sites were variable with 12 substitutions and 11 indels (Tables S2 and S3, Supporting information). Genetic differentiation for overall samples was high (GST = 0.697). A rooted phylogenetic tree showed that all the haplotypes detected in Kalopanax
+septemlobus
+port = 100; Fig. 2). Within the K. septemlobus clade, the haplotypes were grouped into two sister clades, although bootstrap supports for these were not high (<55%). One of the clades was further divided into two lower clades, CP2 and CP3. The haplotype groups identified in the parsimony haplotype network (Fig. 3b) were consistent with MP tree clades of CP1–CP3. In
+total genetic diversity over all populations; HO,
+1 step
+12 steps
+14 steps
+100
+55 53
+        H13
+H14 H12
+H2 H5
+H04 H06
+67 H10 H11
+H1
+H7
+H08
+H09 H3
+                        55
+64 H15 H21
+60 H17 H22
+H18 H19
+H16 H20
+H23 73 H24
+H25 H26
+E. spinosus var. japonicus P. ginseng
+      23 steps
+ 29 steps
+     Fig. 2 The inferred phylogenetic relationships among Kalopanax septemlobus chloroplast haplotypes and their relationship to outgroups reconstructed by maximum parsimony analysis based on the cpDNA sequence data. This tree is identical to the strict consensus of 80 most parsimonious trees (L = 107). Bootstrap values over 50 are shown above branches.
+  were monophyletic
+(bootstrap sup-
+Ó 2012 Blackwell Publishing Ltd
+CP3 CP2 CP1
+
+ (a)
+PHYLOGEOGRAPHY OF KALOPANAX SEPTEMLOBUS 7 N50
+(b)
+H23
+H26
+H24
+Bootstrap value
+N40
+N30
+N50
+N40
+N30
+H22
+H6 H7
+Chloroplast DNA
+500 1000
+Kilometers E140
+E100
+E110
+E120
+H14
+H13 H12
+H9
+H8
+E120
+E100
+80 50 10
+nSSR5 0.03
+nSSR1
+CP3
+H25
+CP1 H7
+H22 H17
+H21
+H15
+H19 H18 H16
+H6 H4
+H2 H5
+H20 CP2
+36 steps
+ESJ
+H24 H25
+H10
+nSSR4
+nSSR2
+H21
+H23
+H18 H19
+H20
+E110
+H11
+H10 H11
+H4
+0
+E130
+H3
+H1
+H8
+H14
+H13
+H12
+250
+nSSR3
+Fig. 3 (a) Geographic distributions of five nSSR gene pools estimated by STRUCTURE analysis (Pritchard et al. 2000) based on nuclear microsatellite data for Kalopanax septemlobus. A neighbour-joining tree showing the relationships of each gene pool is shown. The expected heterozygosity within each pool is represented by the proportional sizes of coloured circles. In addition, genetic barriers detected by the Monmonier’s maximum difference algorithm (Monmonier 1973) are superimposed on the map, with the width of barrier lines representing bootstrap values. The number of samples analysed per population is proportional to the circle’s size. (b) Geographic distribution of the 26 chloroplast haplotypes. The names of rare haplotypes are shown in the map, which occurred in less than three populations. A median joining network and the genetic barrier detected by SAMOVA (Dupanloup et al. 2002) are superimposed. The number of samples analysed per population is proportional to the circle’s size. Abbreviation; ESJ = Eleutherococcus spinosus var. japonicus.
+CP1 group, the star-like haplotype network and central position of the most frequently observed haplotype (H1) indicate an ancestral status of this haplotype.
+In SAMOVA, a model with the highest FCT value and without any single-population group was obtained when the number of population groups was three
+Ó 2012 Blackwell Publishing Ltd
+H26
+0
+E130
+250
+Nuclear microsatellite
+500 1000
+E140
+Kilometers
+
+8 S. SAKAGUCHI ET AL.
+Table 2 Result of the analysis of molecular variance performed considering the three cpDNA population groups defined in the spatial analysis of molecular variance (Dupanloup et al. 2002)
+China ⁄ Okinawa Island and 4.8 in East China ⁄ Korean Peninsula and Japanese Archipelago (where the most intensive sampling was undertaken). Neutrality test statistics (Tajima’s D and Fu and Li’s F¢) in each haplotype group were all non-significant when calculated using the combined sequence fragments (Table 3) and for each fragment separately (all P > 0.10) respectively. Observed pairwise differences between haplotypes showed unimodal and positive-skewed distribution in each haplotype group. Close fits of expected distribution under a sudden expansion model to the observation and non-significant sum of square deviations and the raggedness index of the observed distribution indices were obtained for CP1 and CP2, but not CP3. The possible population expansion time of CP2 group in Southwest China was estimated at the range of 0.07– 0.19 (0.03–0.26; 95% CI) Ma, followed by expansion of CP1 group at 0.05–0.13 (0.04–0.17) Ma (Table 3).
+Spatial genetic structure of Chinese and Japanese populations
+Significant spatial genetic structure was detected in the first distance class (0–250 km) for Japanese populations in both genetic markers (Fig. 4). Although genetic distance increased with increasing geographic distances based on nSSR markers, it significantly decreased again in the class of 1500–1750 km for cpDNA markers, reflecting the disjunct distribution of a haplotype (H1) predominating in Hokkaido and South Japan. Genetic
+ populations
+Total 575
+79.6 628.5
+5.2 100.0
+d.f.
+Sum of squares
+358.1 190.8
+permutations (*P < 0.001).
+(FCT = 0.84). These three groups had a strong geographic basis, with (i) the Japanese Archipelago, Korean Peninsula and East China (corresponding to CP1); (ii) the Southwest China (CP2) and (iii) Northwest China (CP3) (Fig. 3b). An exception was one population isolated in Okinawa Island (46), which was grouped together with inland Northwest Chinese group. In the SAMOVA model, a considerable portion of genetic variation in cpDNA sequence (84.1%) was explained by the population groups (Table 2).
+Haplotype richness and nucleotide diversity (p) were highest in CP2 group in Southwest China (Table 3), with haplotype richness of 6.0 vs. 4.0 in Northwest
+Variance components
+2.548* 0.325*
+0.159*
+3.032
+Significance of each variance component was tested by 1023
+ Among groups Among 72
+populations
+within groups Within 501
+Percentage of variation
+84.1 10.7
+2
+ Table 3 Genetic diversity, the results of neutrality tests and mismatch distribution analyses of the three cpDNA population groups defined by SAMOVA (Dupanloup et al. 2002)
+ Group
+Distribution
+N
+H
+HR
+p (SD) Tajima’s D
+Fu and Li’s F¢ MD
+SSD
+HRI
+s
+Tslow (Ma) Tmean (Ma) Tfast (Ma)
+CP1
+Japan, Korean Peninsula and East China
+485
+14
+4.8
+0.00021 (0.00002) )0.726NS
+0.415NS Unimodal 0.008NS 0.107NS 0.566
+0.13 (0.10–0.17) 0.07 (0.06–0.10) 0.05 (0.04–0.07)
+CP2
+Southwest China
+59
+8
+6.0
+0.00064 (0.00008) 0.446NS
+1.033NS Unimodal 0.002NS 0.036NS 0.844
+0.19 (0.08–0.26) 0.11 (0.04–0.14) 0.07 (0.03–0.10)
+CP3
+Northwest China and Okinawa Island
+32
+4
+4.0
+0.00019 (0.00004) 0.853NS
+0.761NS Unimodal 0.025* 0.192*
+– – – –
+  N, the number of individual; H, the number of haplotypes detected; HR, haplotype richness rarefied to 32 samples; p, nucleotide diversity; MD, mismatch distribution; SSD, the sum of square deviations between the observed and expected distributions (Rogers & Harpending 1992) and HRI, the raggedness index of the observed distribution (Harpending 1994); s, the time parameter to the population expansion; T, absolute expansion time [converted based on fast (2.9 · 10)9 substitutions ⁄ site ⁄ year), mean (2.0 · 10)9 s ⁄ s ⁄ y) and slow (1.1 · 10)9 s ⁄ s ⁄ y) mutation rate]. NS, not significant; *P < 0.05.
+Ó 2012 Blackwell Publishing Ltd
+
+   (a)
+PHYLOGEOGRAPHY OF KALOPANAX SEPTEMLOBUS 9 (b)
+          distances between Chinese populations based on both markers were much higher than Japanese population pairs. Even in the first distance class (0–250 km), the genetic distances were estimated to be 0.68 (nSSR) and 0.91 (cpDNA) respectively, indicating more restricted spatial distribution of alleles and haplotypes in China.
+Population divergence time
+Distribution of posterior probabilities of t showed a
+sharp peak with almost zero value at maximum parameter prior for each analysis. The peak estimates of divergence time between the East [CP1, hE = 2.50 (1.12–5.12; 90% HPD)] and the West lineage [CP2 + CP3, hW = 1.59 (0.50–3.87)] ranged 0.28–0.74 (0.11–1.53) Ma, a late Quaternary event (Fig. 5a). All the analysed sequences were estimated to coalesce to the most recent common ancestor within a possible range of 0.37–0.98 (0.11–3.30) Ma. Following the major lineage split, the West lineage further diverged into two groups at 0.19–0.51 (0.05–1.34) Ma (Fig. 5b), of which the effective population size of Northwest Chinese group [CP3, hNW = 0.036 (0.005– 1.516)] was much smaller than that of Southwest Chinese group [CP2, hSW = 1.940 (0.616–5.054)].
+Palaeodistribution modelling
+The Maxent model had high predictive power [AUC = 0.956 ± 0.006 (mean ± SD)]. The predicted distribution based on the model was similar to the species actual distribution (Fig. 6a). Whereas the northern parts of the species range are potentially continuous within each region of the Japanese Archipelago and Korean Peninsula, suitable ranges in China were distributed patchily in mountainous areas. Under the LGM climate, the species distribution in most of China, South Japan and the southernmost Korean Peninsula was shown to
+(a)
+250 –
+750 –
+Distance class (km)
+250 –
+China
+Japan
+nSSR
+China
+Japan
+cpDNA
+ 1500 – 2250 –
+750 –
+Distance class (km)
+Fig. 4 Genetic distograms of the average genetic distance DG (Gregorius 1978) between pairwise populations in the interval of each distance class of 250 km with 95% confidence envelopes (a: nSSR and b: cpDNA). The pairwise genetic distances were calculated for the population groups in China and mainland Japan respectively.
+1500 – 2250 –
+           (b)
+fast 0.28 (0.11–0.58)
+0.02 0.1
+fast 0.19 (0.05–0.51)
+slow 0.74 (0.28–1.53)
+2.0
+slow 0.51 (0.14–1.34)
+2.0
+mean 0.41 (0.15–0.84)
+0.5
+mean 0.28 (0.08–0.75)
+                  0.0 0.2
+0.4 0.6 0.0 0.2
+0.4 0.6
+Posterior probability density
+0.0 0.2
+Genetic distance
+0.4 0.6 0.8 1.0
+0.0 0.2
+Genetic distance
+0.4 0.6 0.8 1.0
+Ó 2012 Blackwell Publishing Ltd
+0.02 0.1
+0.5 Time (Mya)
+Fig. 5 Posterior distribution of divergence time among intraspecific lineages of Kalopanax septemlobus (a: East vs. West, b: Northwest China vs. Southwest China) in log scale, with peak estimates for divergence times shown in number. Uncertainty in mutation rates of chloroplast DNA is expressed by incorporating fastest (3.9 · 10)9 s ⁄ s ⁄ y) and slowest rates (1.1 · 10)9 s ⁄ s ⁄ y) given in grey curves (Wolfe et al. 1987). Timings of glacial periods during the late Quaternary [since the oxygen isotope stage 22 (0.85–0.90 Ma) (Bradley 1999; Lisiecki & Raymo 2005) are also shown by broken segments.
+have changed little between the two periods (Fig. 6b). In contrast, distribution shifts were inferred in the following regions. First, a longitudinal belt of suitable climate was reconstructed on the exposed East China
+
+ 10 S. SAKAGUCHI ET AL.
+(a)
+Present
+0.30 –
+0.25 – 0.30 0.20 – 0.25 0.15 – 0.20 0 – 0.15
+E100
+21 ka (CCSM3.0)
+(b)
+Sea during the LGM, connecting populations in East China, the Korean Peninsula and South Japan. Second, extremely low distribution probabilities were predicted in North Japan (especially in Hokkaido) and most part of the Korean Peninsula during the LGM.
+Discussion
+Both nuclear SSR and chloroplast genetic evidence revealed strong geographic structuring within Kalopanax septemlobus, most of which was explained by genetic differentiation among regional population groups. All three major cpDNA lineages (CP1, CP2 and CP3) were recovered in China where pronounced spatial genetic structure was found at both nuclear and chloroplast markers. The current occurrence of the major chloroplast and nuclear lineages in China could be the genetic
+consequence of populations having undergone fewer extinction events (e.g. bottlenecks during glacial periods) in comparison to either the Korean Peninsula or Japanese Archipelago. Alternatively, the current pattern could indicate the greater antiquity of Chinese populations and expansion of the East lineage (nSSR1–3 and CP1) events into the Korean Peninsula and Japanese Archipelago. Deciphering between these two alternatives is particularly difficult because of the commonness of the ancestral haplotype around the East China Sea, and the limited number of reliable fossil records of K. septemlobus (Manchester et al. 2009). The palaeodistribution model predicted that most parts of species‘ current range have been maintained since the LGM, excluding the northernmost ranges which would have been colonized during the postglacial period. Such range dynamics since the LGM was validated by the
+E100
+E110 E120
+0.30 –
+0.25 – 0.30 0.20 – 0.25 0.15 – 0.20 0 – 0.15
+N40
+N30
+E110 E120
+Fig. 6 Predicted distribution probability (in logistic value) is shown in each 2.5 arc-min pixel, based on the palaeodistribution modelling (a) at present (0 BP) and (b) at the last glacial maximum (LGM) (21 000 BP). The distribution of river systems on the exposed East China Sea during the LGM was drawn from Kimura (1996). Distribution records of K. septemlobus at present are also plotted as black points in the maps.
+0
+250 500
+E130
+1,000 Kilometers
+E140
+0
+250 500
+E130
+1,000 Kilometers
+E140
+N40
+N30
+Ó 2012 Blackwell Publishing Ltd
+
+genetic evidence, with a high level of lineage admixture and absence of private alleles and haplotypes in the northernmost territories, i.e. Hokkaido and northern part of the Korean Peninsula.
+Major lineage divergence and geographic stasis of local populations in China
+The major phylogeographic break in Central China (at 􏰀110° E) detected in this study was interestingly shared with other widespread temperate plants (Gong et al. 2008; Mitsui et al. 2008; Mu et al. 2010) and the bat Rhinolophus ferrumequinum (Flanders et al. 2011). Notably, the distribution pattern of the phylogeographic break between CP1 and CP2–CP3 clades of K. septemlobus overlapped with the two subkingdoms of the East Asian temperate forests (Wu & Wu 1996). Although the estimated divergence time of these East and West lineages of K. septemlobus varied in a wide range according to uncertainty in mutation rate of cpDNA (0.28–0.74 Ma) (Fig. 5a), the time range approximates to the severe global cooling of the Quaternary glacial– interglacial cycles commencing 0.85–0.90 Ma (Lisiecki & Raymo 2005). This period is known to have had strong impacts on temperate forest vegetation in Japan, simultaneously resulting in the extinction of many tree taxa from Japan, including Metasequoia and Glyptostrobus, which were later replaced by modern cool temperate species (Momohara 1994). We thus propose a scenario that the ancestral K. septemlobus populations were distributed in both eastern and western China, and diverged allopatrically in response to genetic isolation of these populations during the climatic oscillations of the late Quaternary. A similar situation may also be responsible for the subsequent lineage divergence of CP2 and CP3 clades in China. An alternative explanation for the divergence of East and West lineages may be mountain building associated with the recent uplifting of the Tibetan Plateau (c. 0.9–1.1 Ma; Sun 2000), a process proposed to have been a driver of genetic divergence of other temperate species in this region (Mitsui et al. 2008; Flanders et al. 2011). These regional populations appeared to have experienced demographic expansions in more recent periods, as evidenced by the mismatch distribution analysis (for CP1 and CP2) and negative Tajima’s D (for CP1) respectively (Table 3). The population growths may have associated with spatial range expansion events of CP1 into northern suitable ranges during the interglacial(s), and of CP2 into westernmost part including Yunnan and Hengduan Mountains, where more derived cpDNA haplotypes were observed (Fig. 3b).
+The strong phylogeographic structuring of Chinese populations may also be the result of processes other
+than fragmentation by climate oscillation and ⁄ or possible mountain building processes. A strong case for this was observed in Central China, where a marked phylogeographic break was observed over short geographic distance of 􏰀50 km, between populations in the DabaQinling Mountains (nSSR5 and CP3) and in Central China south of Yangtze River (nSSR4 and CP2). Spatial association of the break with the Yangtze River suggests that the waterway has apparently prevented effective gene flow mediated by both bird and insect species. A comparable phylogeographic break situated on the Yangtze River in the Three Gorges Region was observed in the bird-dispersed species Taxus wallichiana (Gao et al. 2007). However, in East China, no significant genetic barrier was detected at either chloroplast or nuclear genetic markers across the same river. Alternatively, poor dispersal alone may explain the maintenance of this phylogeographic break, as although the presence of fleshy seed pulp of this species is thought to be adaptation to seed dispersal by birds (and mammals), only a very small portion of the seed is actually dispersed (1.65%) (Iida & Nakashizuka 1998), and of these almost all seeds are dispersed within a radius of 100 m from parent trees (N. Fujimori, unpublished). Phylogeographic breaks without geographic barriers to gene flow have been observed in the fleshy-fruited shrub Tasmannia lanceolata, a species also with infrequent seed dispersal by birds (Worth et al. 2010). Thus, we propose that poor seed dispersal of the species (Irwin 2002) together with the complex topography of the Three Gorge Region, and probably in China as a whole, could have had an important role in shaping the strong structuring of Chinese populations.
+Highly localized distributions of nSSR alleles and cpDNA haplotypes in Central-South China, especially south of 30° N, were observed, as exemplified by the spatial genetic structure analyses. At present, the temperate forests harbouring K. septemlobus occurs patchily in montane environments in Central-South China (Fig. 6a). Qian & Ricklefs (2000) proposed that temperate forests in these regions would have merged at low elevations during the last glacial period. However, the predicted LGM distribution of K. septemlobus showed that the populations in this area were mostly fragmented even during the glacial period (Fig. 6b), a situation similar to that observed in Dysosma versipellis (Qiu et al. 2009a). Therefore, these rear-edge populations may have persisted in situ at least through one glacial–interglacial cycle by altitudinal range shifts. Such local migrations would have worked to maintain genetic diversity with less bottlenecking, and increase genetic differentiation between isolated populations as a result of genetic drift (Hewitt 1996; Hampe & Petit 2005) and the accumulation of new mutations. The candidate long-term refugial areas for K. septemlobus are
+Ó 2012 Blackwell Publishing Ltd
+PHYLOGEOGRAPHY OF KALOPANAX SEPTEMLOBUS 11
+
+12 S. SAKAGUCHI ET AL.
+most likely to have occurred in the Three Gorge Region, Nanling Mountains, and in the Tianmu Mountains in East China.
+Range dynamics in response to climate changes in the Japanese Archipelago
+The strong predictions for occurrence during both present and LGM period in South Japan coupled with high nSSR diversity suggest that long-term climate stability has maintained relatively high genetic diversity in this region (Sakaguchi et al. 2011). However, it was unexpectedly observed that Southern Japanese populations showed low chloroplast genetic structuring with few unique and ⁄ or rare chloroplast haplotypes. A possible explanation for this finding may be that merging of populations at lower altitude in South Japan during the glacial periods (Sakaguchi et al. 2010) helped to maintain large population sizes at a regional scale, preventing newly derived haplotype from becoming common by genetic drift. Therefore, although South China and South Japan are similar in terms of having functioned as long-term stable ranges for K. septemlobus, the latter region appears to be characterized by effective population isolation only during interglacial periods.
+On the contrary, the northern territories in Hokkaido and the northernmost Honshu were predicted to have been unsuitable for K. septemlobus during the LGM (Fig. 6b). In line with the prediction, a south to north gradient of decreasing nSSR diversity in Hokkaido (Sakaguchi et al. 2011), and a high level of admixture and low structuring of cpDNA haplotypes (Fig. 3b) are suggestive that the populations in most of Hokkaido would have been established by postglacial colonization. This may have resulted in differentiation in cpDNA haplotype constitution between Hokkaido and the northernmost Honshu by founder effects (Fig. 3b), as represented by unexpected decrease in genetic distance among Japanese populations (1500–1750 km) (Fig. 4b). Regarding the northernmost Honshu, however, multiple lines of genetic evidences for population survival during the LGM were detected; the presence of private nSSR alleles (Fig. S1, Supporting information) and the abundance of cpDNA haplotypes in this region were rarely observed in other parts of Japan (Fig. 3b). In addition to the Pacific and Sea of Japan coastal refugia identified by Sakaguchi et al. (2011), northernmost Honshu populations may also be derived from LGM cryptic refugia that occurred within local favourable microclimates which cannot be detected by palaeodistribution reconstruction (Ashcroft 2010), and ⁄ or from leading-edge populations with unique adaptation to cold environments as a result of glacial isolation in the scattered refugia (Stewart et al. 2010).
+Role of the East China Sea land-bridge as dispersal corridor
+It has been debated whether the temperate forests around the East China Sea were fragmented during glacial periods as well as the interglacials (Harrison et al. 2001; Qian & Ricklefs 2001). In this study, clear differentiation of regional nSSR gene pools of K. septemlobus was observed between South Japan (nSSR2) and East China (nSSR3), whereas these two gene pools were admixed in the Korean Peninsula. Although precise timing remains unknown, it is likely that the lineage divergence between South Japan and East China predates the last glacial period, because the nSSR3 gene pool was diverged from nSSR1–2 as strongly as nSSR5 from nSSR4, which was dated in the range of 0.19– 0.51 Ma. Moreover, the two sides of the East China Sea shared the ancestral cpDNA haplotype (H1), meaning that the population divergence could alternatively have occurred long ago. Thus, recent dispersal between East China and South Japan via the hypothesized dispersal corridor during the last glacial period (Harrison et al. 2001) would have rarely occurred, which is concordant with the population histories of forest understorey species (Li et al. 2008; Qiu et al. 2009b).
+The history of the populations in the Korean Peninsula, however, is complex involving historical admixture from China and Japan and probable glacial survival at least during the LGM. Multiple migrations of the species into the Peninsula leading to the mixing of the two gene pools (nSSR2 and nSSR3) (Fig. 3a) may be an ice-age legacy of dispersal across the suitable habitat that is predicted to have occurred on the exposed seafloor during the LGM (Fig. 6b) and ⁄ or previous glacials. In addition, apart from the potential for post-LGM evolution, the presence of private nSSR alleles (Fig. S1, Supporting information) may be interpreted as genetic evidence for glacial persistence of K. septemlobus in the southern part of the peninsula during the last glacial period, a finding which is consistent with the pollen and genetic evidences for temperate species survival in this region during the LGM (Chung 2007; Qiu et al. 2009b; Kikuchi et al. 2010).
+Exceptional long-distance dispersal and lineage admixture in an isolated insular system
+Combined cpDNA and nSSR evidences based on rangewide samples suggest that the population in Okinawa Isl. (46) has likely been shaped by relatively recent dispersal event(s) from inland China, as the unique haplotype in this population differs from the relatives (CP3) in the Daba-Qinling Mountains by only one step, and no ‘relict’ haplotypes of CP3 group were detected in cosatal East
+Ó 2012 Blackwell Publishing Ltd
+
+China (Fig. 3b). After the probable long-dispersal event, the introduced individual(s) carrying nSSR5 gene pool may have subsequently admixed with the individuals possessing nSSR2 pool (Fig. 3a), which are likely to have migrated from South Japan through the land-bridge during the glacial period(s) (Kimura 1996). This finding is in contrast to most previous studies which have emphasized the importance of migration from Taiwan and⁄or South Japan in contributing to the Ryukyu Island flora (Setoguchi et al. 2006; Nakamura et al. 2010). Further population sampling in the other parts of the Ryukyu Islands and East China combined with coalescent analyses would be effective to better elucidate the migration routes to these islands for K. septemlobus.
+Conclusions
+Strong phylogeographic structure of Kalopanax septemlobus enabled us to trace its historical range expansion throughout East Asia. Populations of K. septemlobus in the currently isolated temperate forests were inferred to predate the last glacial period, and multiple glacial refugia were recovered in most parts of its range. Of the three major cpDNA lineages, the East lineage is likely to have occupied the vast territory towards the northernmost part of Japan by stepwise colonizations, although lineage extinction in the Japanese Archipelago and Korean Peninsula cannot be discounted to explain this pattern. The northernmost parts of the current range were characterized by lineage admixture and low structuring resulting from the postglacial range expansions. Combined genetic evidences provided further new insights into phylogeography of the species, for example limited recent migration event via the hypothesized dispersal corridor on the exposed East China Sea during the LGM, and probable long-distance colonization, from inland China to Okinawa Island with subsequent lineage admixture with South Japan populations. This study exemplifies that extensive sampling of widespread species coupled with a multidisciplinary approach would be beneficial to understand comprehensively the biogeography of the East Asian temperate forest, of which many plants species are rarely represented in the fossil records (Manchester et al. 2009).
+Acknowledgements
+The authors are grateful to X. Gong, O. Zhang, D-Q. Tang and Z. Sun in China; S-H. Kang in South Korea and K. Niiyama, M. Shibata, K. Hoshizaki, S. Goto, H. Samejima, Seiji Higa, S. Masutani, S. Mori, Y. Matsuki, R. Goda, C. Sumiyoshi, S. Higa, Y. Matsuura, Y. Azuma, Y. Isshiki and T. Toyama in Japan for their great help in collecting plant materials, and to Y. Ide, Y. Tsuda, Y. Tsumura, M. Crisp, C-X. Fu, K. Lee and
+E-S. Baik for their insightful comments and discussions on this study. We also thank two anonymous reviewers for constructive comments on earlier versions of the manuscript.
+References
+Ó 2012 Blackwell Publishing Ltd
+PHYLOGEOGRAPHY OF KALOPANAX SEPTEMLOBUS 13
+
+16 S. SAKAGUCHI ET AL.
+ This paper is part of S.S.’s doctorial thesis on the phylogeography and ecological genomics of widespread tree species in East Asia and Australia, under the supervision of Y.I., Y-X.Q., Y.H.L. X-S.Q. conduct molecular research on the evolution, population divergence and conservation genetics of various plant taxa endemic to China and adjacent areas. S-H.K. and J.H. are interested in the breeding of Korean edible and medicinal plants used for development of functional materials. Y.T. is interested in evolutionary history and community⁄population ecology of plant species. J.R.P.W. is interested in better understanding the processes that have shaped the distribution and diversity of species using molecular and non-molecular research methods and how this information can be used to help conserve species into the future. M.Y. studies ecology of ambrosia beetles with emphasis on their host selection process. S.S. is interested in applying remote sensing and GIS technique to forest management. Y.I. is interested in applying genetic methods to conserve endangered species and biodiversity.
+Data accessibility
+DNA sequences: GenBank accessions AB649312–AB649415 (see the information in Table S3, Supporting information).
+Sampling locations: Table S1 (Supporting information). Microsatellite data: doi:10.5061/dryad.91mk9
+Supporting information
+Additional supporting information may be found in the online version of this article.
+Data S1 Determination procedure of the number of gene pools in the STRUCTURE analysis
+Table S1 Shown for each population are population locality with latitude and longitude, sample size (n) and genetic diversity measures.
+Table S2 The primers used for chloroplast DNA sequencing.
+Table S3 Chloroplast DNA sequence polymorphisms detected in three non-coding regions of Kalopanax septemlobus identifying 26 haplotypes (H1–33).
+Table S4 Chloroplast haplotype frequency within the 75 Kalopanax septemlobus populations sampled.
+Fig. S1 Spatial distribution of (a) private allelic richness of nuclear microsatellites and (b) the number of private chloroplast haplotypes detected in each population, with predicted palaeodistribution during the LGM superimposed.
+Fig. S2 (a) Log-likelihood of the data, LnP(D) and (b) the second-order rate of change of LnP(D), D K values (Evanno et al. 2005) are plotted against the number of gene pools, K.
+Please note: Wiley-Blackwell is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+ Ó 2012 Blackwell Publishing Ltd

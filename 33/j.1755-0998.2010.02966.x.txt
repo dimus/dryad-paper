@@ -1,0 +1,737 @@
+    Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 doi: 10.1111/j.1755-0998.2010.02966.x
+SNP GENOTYPING AND APPLICATIONS
+Single nucleotide polymorphisms across a species’ range: implications for conservation studies of Pacific salmon
+L. W. SEEB,*† W. D. TEMPLIN,* S. SATO,‡ S. ABE,§ K. WARHEIT,¶ J. Y. PARK** and J. E. SEEB†
+*Alaska Department of Fish and Game, Division of Commercial Fisheries, 333 Raspberry Road, Anchorage, AK 99518, USA, †School of Aquatic and Fishery Sciences, University of Washington, 1122 NE Boat Street, Box 355020 Seattle, WA 98195, USA, ‡National Salmon Resources Center, Fisheries Research Agency, Sapporo, Hokkaido 062-0922, Japan, §Division of Marine Biosciences, Graduate School of Fisheries Sciences, Hokkaido University, Hakodate 041-8611, Japan, ¶Washington Department of Fish and Wildlife, 600 Capitol Way N., Olympia, WA 98501, USA, **Biotechnology Research Institute, National Fisheries Research and Development Institute, 408-1 Sirang-ri, Gijang-eup, Gijang-gun, Busan 619-705, South Korea
+Abstract
+Studies of the oceanic and near-shore distributions of Pacific salmon, whose migrations typically span thousands of kilometres, have become increasingly valuable in the presence of climate change, increasing hatchery production and potentially high rates of bycatch in offshore fisheries. Genetics data offer considerable insights into both the migratory routes as well as the evolutionary histories of the species. However, these types of studies require extensive data sets from spawning populations originating from across the species’ range. Single nucleotide polymorphisms (SNPs) have been particularly amenable for multinational applications because they are easily shared, require little interlaboratory standardization and can be assayed through increasingly efficient technologies. Here, we discuss the development of a data set for 114 populations of chum salmon through a collaboration among North American and Asian researchers, termed PacSNP. PacSNP is focused on developing the database and applying it to problems of international interest. A data set spanning the entire range of species provides a unique opportunity to examine patterns of variability, and we review issues associated with SNP development. We found evidence of ascertainment bias within the data set, variable linkage relationships between SNPs associated with ancestral groupings and outlier loci with alleles associated with latitude.
+Keywords: ascertainmentbias,chumsalmon,outlierloci,Pacificsalmon,SNPs Received 31 May 2010; revision received 30 October 2010; accepted 3 November 2010
+Introduction
+Conservation of highly exploited species is increasingly moving towards an all-inclusive approach, involving both ecosystem analyses across species and life history stages within species (Farley et al. 2009). With wide-ranging or highly migratory organisms, evaluating population structure or monitoring migrations at multiple life history stages can be challenging and beyond the scope of a single research group. Scientists are increasingly forming large international consortia to develop comprehensive databases to address these types of questions. For example, FishPopTrace is an international project funded by the European Union to generate panels of single nucleotide polymorphism (SNP) markers for
+Correspondence: L. W. Seeb, Fax: (206) 543 5728; E-mail: lseeb@u.washington.edu
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+geographic assignment of four commercially important marine species (Martinsohn & Ogden 2009).
+Pacific salmon (Oncorhynchus spp.) undertake long migrations across the North Pacific Ocean and through the Bering Sea, with populations originating from North America and Asia often sharing migratory routes and feeding grounds during their high-seas residencies (Seeb & Crane 1999a; Urawa et al. 2009; Habicht et al. 2010). Because of their anadromous life history and high fidelity to natal spawning areas, these salmon form hierarchical population structures, and molecular genetic data have been particularly valuable for investigations of this structure. Multiple studies have tracked the migration of immature Pacific salmon on the high-seas and near-shore environment (Murphy et al. 2009; Sato et al. 2009; Tucker et al. 2009; Habicht et al. 2010). Other studies have focused on freshwater migrations across national boundaries (Beacham et al. 2008c) or vulnerability in interception fisheries (Seeb et al. 2004). With increasing interest in
+
+196 L. W. SEEB ET AL.
+the effects of climate change on migration of salmon, applications such as defining the origin of individuals intercepted through bycatch on the high seas and understanding migratory pathways of species protected under the U.S. Endangered Species Act (ESA) are particularly timely.
+Many of these applications require large international data sets that can be shared among laboratories. Researchers funded by the Pacific Salmon Commission (http://www.psc.org/) are currently developing such data sets for Chinook salmon (Oncorhynchus tshawytscha) to aid in management and restoration of fisheries shared between the United States and Canada (e.g. Seeb et al. 2007; Templin et al. 2011). Studies of Pacific salmon using shared data are moving away from reliance on microsatellite markers and incorporating sequence variation through SNP analyses (Smith et al. 2005b; Clemento et al. 2011; Seeb et al. 2011). The combination of lower error rates, increased potential for automation, potential to scan for selectively neutral or adaptive variation and facilitation of data sharing prompted these moves (c.f. Brumfield et al. 2003; Morin et al. 2004, 2009).
+Here, we introduce PacSNP, an international collaboration among researchers from across the Pacific Rim, with the objective of developing a shared SNP database for chum salmon, Oncorhynchus keta. PacSNP functions under the auspices of the North Pacific Anadromous Fish Commission (http://www.npafc.org/new/index.html) and currently includes partner laboratories from both North America and Asia who meet regularly to share samples and data from chum salmon.
+Chum salmon represent a critically important component of the Pacific Rim ecosystem and historically have served as a valuable subsistence resource for residents throughout Western Alaska and Asia (Omoto 1997; Diatchkova 2001; Howe & Martin 2009; Knapp 2009). Recent fluctuations in abundance of major stock assemblages have prompted interest in the metapopulation structure as well as their marine migratory patterns in the North Pacific Ocean and Bering Sea (Myers et al. 2007). Genetic as well as tagging data have clearly shown that Asian and North American populations form highly mixed aggregates in the Bering Sea and Gulf of Alaska and along the respective coastlines (Seeb et al. 2004; Urawa et al. 2009), so that both targeted or incidental fisheries and local environmental changes can affect populations originating from throughout the Pacific Rim.
+Additionally, over the last two decades, the bycatch of chum salmon in the Bering Sea Aleutian Islands trawl fishery for walleye pollock (Theragra chalcogramma) has become a significant conservation issue. Chum salmon are not targeted by the fishery, but bycatch numbers have reached record highs in recent years (NMFS 2010) requiring intense management and adjustments to the fishery
+(Gisclair 2009). Research indicates that the bycatch is highly variable in space and time (Stram & Ianelli 2009). To that end, genetic analyses can provide valuable stockspecific information that is critical to the understanding of the effects of the fishery and to minimize impacts on chum salmon.
+In this study, we apply a panel of 60 SNPs to 114 populations of chum salmon spanning the species range from Korea and Japan in the western Pacific Ocean, ranging across the Pacific Rim, to the northwestern United States in the eastern Pacific Ocean. SNP discovery was accomplished over several years through efforts from multilaboratory collaborations hosted at author laboratories in Anchorage or Seattle (Smith et al. 2005a; Elfstrom et al. 2007). Using these SNPs, we identify distinct lineages of chum salmon and evaluate the challenges and opportunities associated with a range-wide SNP database. We identify outlier loci both across the range and within large geographic regions as well as signals of ascertainment bias in the data. In addition, we investigate the gametic disequilibrium relationship of multiple SNPs within a DNA template. Finally, we apply the database to identify the stock origins of samples collected from surveys in the eastern Bering Sea where the walleye pollock fishery and bycatch take place and from samples collected along the East Coast of the Kamchatka Peninsula in Russian waters.
+Materials and methods
+Tissue collections
+Tissue collection and exchanges were planned and carried out by members of the ad hoc Working Group on Stock Identification at annual meetings of the North Pacific Anadromous Fish Commission’s Committee on Scientific Research and Statistics (http://www.npafc.org/ new/index.html). Collection dates spanned nearly two decades from 1989 to 2006 (Table 1); tissues were primarily collected for studies based on other marker types (Seeb & Crane 1999b; Seeb et al. 2004; Olsen et al. 2008; Smith & Seeb 2008). Two collections (#84 Ilnik River and #85 North of Cape Seniavin) originated from within the contact zone between northern and southern ancestral groups that meet along the North Alaska Peninsula (Seeb & Crane 1999b). Collections made between 1989 and 2003 were originally for allozyme analysis and included heart, muscle and liver. These tissues were collected on dry ice or liquid nitrogen and stored at )80 °C until analysis. Asian collections made between 2004 and 2005 were also based on allozyme tissues. When available, heart tissue was chosen preferentially for DNA extraction followed by liver and then muscle. Beginning in 2004, North American collections were based on fin or axillary
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+
+Table 1 Location of spawning populations, sample size and date collected from chum salmon from the Pacific Rim. Seven major lineages and 15 smaller geographic regions (in italics) are shown. The Coastal Western Alaska major lineage and the Western Alaska summer region include populations from multiple drainages. Collection data for samples of unknown origin are also given
+SNP GENOTYPING AND APPLICATIONS 197
+ Population
+No. Major lineage
+1 Japan (1)
+2 3 4 5 6 7
+8
+9 10 11
+12
+13 14
+15
+16
+17
+18 Russia (2) 19
+20 21 22 23
+24 25 26 27
+28 Coastal Western
+29 Alaska (3)
+30 31 32 33 34 35 36 37 38 39 40
+41
+42 43
+Regions Hokkaido (1)
+Local area
+Japan Sea Coast of Hokkaido
+Nemuro Coast
+Okhotsk Sea Coast of Hokkaido
+Pacific Coast Hokkaido
+Pacific Coast of Honshu
+Korea Amur
+Anadyr River Eastern
+Kamchatka
+Western Kamchatka
+Norton Sound
+Yukon River Lower
+Location N Chitose River— 159
+early ⁄ late
+Teshio River 80 Nishibetsu River 80 Shibetsu River 79 Shari River 77 Tokoro River 100 Tokushibetsu 80 River
+Kushiro River 79 Shinzunai River 80 Tokachi River 160 Yurappu 80
+River—early
+Yurappu 80
+River—late
+Sasanai River 78 Gakko River— 80
+early
+Gakko 80
+River—late
+Tsugaruishi 80
+River
+Namdae River 96 Amur River 60 Amur 100 River—summer Anadyr—early 62 Apuka River 50 Bolyshaya River 96 Kamchatka 100
+River
+Bistraya River 70 Palana River 95 Pymta River 50 Tigil River 44 Kelly Lake 95 Kobuk River 95 Noatak River 95 American River 95 Fish River 95 Kwiniuk River 95 Niukluk River 95 Nome River 95 Pilgrim River 90 Snake River 93 Solomon River 72 Unalakleet River 143 Andreafsky 94
+River
+Anvik, Beaver 191
+⁄ Otter Ck
+Black River 95 Gisasa River 95
+Date collected 2003
+2001 1997 2003 2001 2005 2004
+1998
+2002 1990, 2002 1997
+1997
+1990 2003
+2003 1999
+2005 1997 2001
+1993, 2000 2002 1997 1990, 2003
+1998 1998 2003 2002 1991 1991 1991 2004 2004 2004 2004 2005 1994
+1993, 1995 1995, 1996 1992, 2004
+1993 1993
+2006 1994
+ Honshu ⁄ Korea (2)
+Amur (3)
+Anadyr ⁄ Kamchatka (4)
+Kotzebue Sound (5)
+Western Alaska Summer (6)
+1993,
+ Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+
+198 L. W. SEEB ET AL. Table 1 Continued
+Population
+No. Major lineage
+44 45 46 55 56
+47 Yukon ⁄
+48 Kuskokwim
+49 Upper (4)
+50
+51 52
+53
+54 57
+58 59 60 61 62
+63 64
+65 Coastal Western
+66 Alaska (3)
+67 68
+69 70 71 72 73
+74 75 76 77 78 79
+80 81
+82 83
+84 Alaska Peninsula ⁄
+Kodiak Island (5)
+Regions
+Yukon Fall ⁄ Mid Summer (7)
+Local area
+Yukon River Middle
+Yukon River Fall Canada
+Location N Innoko River 86
+Nulato River 95 Tozitna River 95 Chulinak River 93 Melozitna River 95 Chena River 95 Henshaw Creek 62 Salcha River 85 Big Creek, 95
+Mainstem
+Pelly River 84 Donjek River 76
+(White)
+Fishing Branch 95
+(Porcupine)
+Big Salt 71 Sheenjek River 96
+(Porcupine)
+Bluff Cabin 95 Delta River 190 Kantishna River 95 Tanana River 48 Toklat 190 River ⁄ Geiger
+Big River 95 South Fork 95
+Kuskokwim-
+fall
+Aniak River 95 George River 95 Goodnews River 100 Holokuk River 48 Kanektok River 95 Kogrukluk River 95 Kwethluk River 48 Oskawalik River 58 Stony River151
+early ⁄ late
+Takotna River 95 Togiak River 95 Mulchatna River 95 Nushagak River 89 Stuyahok River 87 Big Creek 80
+(Naknek)
+Whale Creek 95
+(Egegik)
+Pumice Creek 95
+(Ugashik)
+Meshik River 78 Plenty Bear 92
+Creek (Meshik)
+Ilnik River 50
+Date collected
+1993 1994 2003 1989 1994 1994 1995 2001 1995
+1993 1994
+1994
+2001 1992
+1992 1992, 1994 2001 1993 1994
+1996 1995
+1992 1996 1991 1995 1994
+1992, 1993 1994 1994 1994
+1994 1993 1994 1992
+1992, 1993 1993
+1993 1993
+1992 1993
+2002
+  Kuskokwim Fall (8)
+Western Alaska Summer (6)
+US Border US Tanana
+Kuskokwim Summer
+Togiak Nushagak
+Bristol Bay South (9)
+North Alaska Peninsula (10)
+ Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+
+Table 1 Continued Population
+No. Major lineage 85
+86
+87 88 89 90 91 92 93
+94
+95
+96
+97
+98 Susitna River (6) 99
+100
+101 Gulf of
+102 Alaska ⁄ British Colum-
+bia ⁄ Washington
+103 (7)
+104 105
+106 107
+108 109 111 112
+110 113 114
+Unknown Bering Sea— Mixtures NOAA survey
+Regions
+South Alaska Peninsula (11)
+Kodiak Island (12) Susitna (13)
+Gulf of
+Alaska ⁄ South-
+east Alaska ⁄ British Columbia (14)
+Local area
+Location N
+North of Cape 55 Seniavin
+Lawrence Valley 95 Creek
+Moller Bay 95 Joshua Green 100 Frosty Creek 95 John’s Lagoon 80 Volcano Bay 106 Canoe Bay 94 Alagogshak 88
+River
+McNeil River 109 American River 95 Big Sukoi 95 Sturgeon River 71 Chunilna 87 Lake Creek 95 Susitna River 95
+Slough
+Olsen Creek 95 Wally H. 87
+Noerenberg
+Hatchery
+24 Mile—Chilkat 95
+River
+Macaulay 95 Hatchery
+Hidden Falls 95
+Hatchery
+Long Bay 161 Taku River— 95
+fall
+Fish Creek100
+early\late
+North Arm 95
+Creek
+Disappearance 95
+Creek
+Karta River 56
+Nekite 96 Channel ⁄ River
+Nisqually River 95 Elwha River 95
+Date collected 2001 1992 1998
+1994 1992 1992
+1992, 1994 1992 1993
+1994, 1996 1992 1992 1992 1993 1996 1996
+1995 1992
+2006 2006 2006
+1991, 1992 2006
+1998 2006 1998 2006
+1989, 1997 2004 2004
+SNP GENOTYPING AND APPLICATIONS 199
+  area 5171
+East Coast Kamchatka Peninsula
+Kamchatka Period 1
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+312 Aug. 14–Sept. 1, 2004
+98 May 24, 1998
+Washington Fall (15)
+Prince William Sound
+Northern Southeast Alaska
+Southeast Alaska Main
+land
+Southern South-
+east ⁄ Northern British Columbia
+Prince of Wales Island
+Northern British Columbia
+Southern Puget Sound
+Strait of Juan de Fuca
+ 
+200 L. W. SEEB ET AL. Table 1 Continued
+ Population No.
+Kamchatka Period 2 Kamchatka Period 3
+Kamchatka Period 4
+Major lineage
+Regions
+Local area
+Location
+N Date collected 98 June 9, 1998 100 July 10, 1998 100 August 1, 1998
+  1NOAA statistical Area 517 see http://www.fakr.noaa.gov/rr/figures/fig1.pdf
+process preserved in ethanol and stored at room temperature. Sampling was most comprehensive in Alaska, although all major regions were included.
+Samples of migrating fish from the southeastern Bering Sea originated from maturing adults captured by the National Marine Fisheries Service as part of the Bering Aleutian Salmon International Survey (BASIS, Farley et al. 2009) (Table 1). The origin of these samples, taken in North Pacific Fishery Management Council management area 517, likely represent the mix of populations taken as bycatch in the pollock fishery. Collections were made over an approximate 2-week period during mid August to early September, 2004 (Table 1).
+In addition, a time series of collections of maturing chum salmon was analysed from the east coast of the Kamchatka Peninsula within the 200-mile Russian Economic Zone in the Bering Sea and northwestern Pacific Ocean. These samples were collected using drift nets during research cruises in 1998 from the vessel Altair and were previously analysed for allozymes (Seeb et al. 2004).
+SNP genotyping
+Genomic DNA was extracted from chum salmon using DNAeasy 96 Tissue kits (QIAGEN, Valencia, CA, USA). SNP genotyping analyses were conducted as uniplex reactions following the methods of Elfstrom et al. (2007) and Seeb et al. (2009). The plates were read on an Applied Biosystems PRISM 7900HT Sequence Detection System after amplification. Genotypes were scored using Sequence Detection Software 2.2 (Applied Biosystems). Samples were genotyped for 57 nuclear SNPs and three mitochondrial SNPs (Table 2), a subset of those analysed by Smith & Seeb (2008). For quality control, all genotypes were independently re-scored, and 8% of samples were re-run at all loci to identify any laboratory errors and ensure reproducibility.
+Statistical analysis
+The software GENEPOP V4 (Rousset 2008) was used to perform exact tests for genotypic ratios that departed from
+Hardy–Weinberg equilibrium (HWE) expectation and to perform Fisher’s tests for genotypic linkage disequilibrium between each pair of loci across samples. GENEPOP V4 was also used to calculate FST for each locus and overall loci. The multilocus estimates were calculated following the method of Rousset (2007) where additional weight is given to loci with larger sample sizes. Mean expected and observed heterozygosity by locus and populations were calculated using GENALEX 6 (Peakall & Smouse 2006). Allelic richness, a measure of the number of alleles independent of sample size, was calculated for all populations and regions using FSTAT v2.9.3.2 (Goudet 1995, 2001). To compare levels of genetic diversity among regional groups, a permutation test was performed to test significance with 1000 permutations using FSTAT. A principal coordinate analysis (PCA) using GENALEX was conducted based on pairwise FST values to infer genetic relationships among samples. Only nuclear (diploid) markers were used.
+We tested for outlier loci, loci that exhibit higher FST values for a given level of heterozygosity than expected based on neutral variation using the hierarchical island model (100 000 simulations, 20 groups of 100 demes) for all populations as implemented in ARLEQUIN (v. 3.5; Excoffier & Lischer 2010). Population structure was defined by broad geographic regions using a subset of those defined by more comprehensive allozyme and microsatellite studies (Seeb et al. 2004; Beacham et al. 2009) (Table 1). SNPs that had an FST outside the 99% quantile based on coalescent simulations were considered to be candidates for diversifying selection (Beaumont & Nichols 1996). When population structure is present in the data set, the hierarchical method provides a less biased analysis of outlier loci than the finite island model, which assumes all populations are independent units and can produce false-positive results (Excoffier et al. 2009).
+Eight pairs of linked SNPs where physical linkage had been previously described within a single DNA template (Oke_AhR1, Oke_U401, Oke_GHII, Oke_GnRH, Oke_GPH, Oke_IL8r, Oke_U507, Oke_U305; Table 2) were examined for spatial patterns of disequilibrium. We used the program PHASE V2.1 to reconstruct haplotypes following the
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+
+Table 2 Single nucleotide polymorphisms examined in 114 collections of chum salmon. The mean observed (HO) and expected (HE) heterozygosity and FST across all populations for each SNP are provided
+SNP GENOTYPING AND APPLICATIONS 201
+ Locus* Source† 1 Oke_AhR1-278a 3
+2 Oke_AhR1-78a 3 3 Oke_arf-319 2 4 Oke_U401-143b 3 5 Oke_U401-220b 3 6 Oke_CKS-389 1 7 Oke_copa-211 2 8 Oke_Cr30c 1 9 Oke_Cr386c 1
+10 Oke_ND3-69c 1 11 Oke_ctgf-105 3 12 Oke_DM20-548 1 13 Oke_eif4ebp2-64 2 14 Oke_FARSLA-242 3 15Oke_GHII-2943d 3 16 Oke_GHII-3129d 3 17 Oke_GnRH-373e 1 18 Oke_GnRH-527e 1 19 Oke_GPDH-191 2 20 Oke_GPH-105f 3 21 Oke_GPH-78f 3 22 Oke_hnRNPL-239 3 23 Oke_HP-182 3 24 Oke_hsc71-199 2 25 Oke_HSP90BA-299 3 26 Oke_il-1racp-67 2 27 Oke_IL8r-272g 1 28 Oke_IL8r-406g 1 29 Oke_KPNA2-87 3 30 Oke_MAPK1-135 3 31 Oke_MARCKS-362 3 32 Oke_Moesin-160 2 33 Oke_PP2A-635 3 34 Oke_ras1-249 3 35 Oke_RFC2-618 2 36 Oke_RH1op-245 2 37 Oke_serpin-140 2 38 Oke_TCP1-78 3 39 Oke_Tf-278 3 40 Oke_Tsha1-196 2 41 Oke_u1-519 1 42 Oke_u202-131 2 43 Oke_u212-87 2 44 Oke_u216-222 2 45 Oke_u217-172 2 46 Oke_u200-385 2 47 Oke_U302-195 3 48 Oke_U502-241 3 49 Oke_U503-272 3 50 Oke_U504-228 3 51 Oke_U505-112 3 52 Oke_U506-110 3 53 Oke_U507-286h 3 54 Oke_U507-87h 3 55 Oke_U305-130i 3
+Comments
+Excluded
+mtDNA mtDNA mtDNA
+Excluded
+Mean HO 0.081
+0.458 0.346 0.176
+0.386 0.128
+0.194 0.467 0.158 0.106
+0.322 0.364 0.185 0.458 0.466 0.209 0.099 0.380 0.057 0.024 0.261
+0.365 0.152 0.125 0.426 0.104 0.357 0.405 0.247 0.096 0.459 0.208 0.301 0.345 0.287 0.103 0.109 0.185 0.468 0.432 0.251 0.224 0.098 0.401 0.410 0.226 0.466
+0.450
+Mean HE 0.080
+0.458 0.338 0.174
+0.387 0.127
+0.193 0.456 0.157 0.107
+0.318 0.385 0.180 0.449 0.462 0.205 0.101 0.368 0.056 0.024 0.261
+0.361 0.155 0.121 0.420 0.102 0.354 0.402 0.241 0.100 0.458 0.205 0.293 0.349 0.283 0.101 0.111 0.185 0.458 0.425 0.234 0.224 0.102 0.396 0.420 0.231 0.454
+0.450
+FST 0.024
+0.047 0.036 0.034
+0.085 0.217
+0.046 0.078 0.059 0.098
+0.117 0.163 0.099 0.054 0.072 0.073 0.068 0.051 0.037 0.034 0.078
+0.067 0.164 0.077 0.162 0.044 0.125 0.135 0.251 0.128 0.065 0.150 0.185 0.072 0.132 0.084 0.112 0.042 0.071 0.134 0.127 0.402 0.019 0.114 0.045 0.203 0.068
+0.056
+ Excluded
+Excluded
+ Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+
+202 L. W. SEEB ET AL.
+Table 2 Continued
+Locus*
+56 Oke_U305-307i 57 Oke_U509-219 58 Oke_U510-204 59 Oke_U511-271 60 Oke_U514-150 Overall
+Source† Comments
+3 3 3 3 3
+Mean HO 0.221
+0.461 0.332 0.137 0.193
+Mean HE 0.219
+0.456 0.328 0.142 0.193
+FST 0.044
+0.057 0.027 0.087 0.067 0.101
+   *Linked SNPs are denoted with superscript letters.
+†Sources are as follows: (1) Smith et al. 2005a; (2) Smith et al. 2005b; (3) Elfstrom et al. 2007.
+methods of Stephens et al. (2001) and Stephens & Scheet (2005) for Oke_GnRH where significance was inconsistent across the range.
+Mixture analysis
+The ability of the database to correctly assign to regional groups was evaluated using 100% simulations following the methods of Seeb et al. (2004). Simulated mixtures were constructed with SPAM version 3.7b using parametric bootstrapping with replacement (Debevec et al. 2000). All three mtDNA SNPs were combined into composite haplotypes following Smith & Seeb (2008). After dropping a single SNP for four pairs of nuclear SNPs in gametic disequilibrium, the final mixture analysis used 54 SNP loci. The simulations were based on 400 individuals using population-specific allele frequencies from every population within each reporting group such that the total for each mixture equalled 400 fish. The process was repeated 1000 times, and the mean and central 90% of the distribution of estimates were reported as the estimate and the 90% confidence interval.
+As an additional test of the baseline performance, 300 fish were sampled without replacement from specified populations and removed from the baseline. These fish were used to create a mixture with stock contributions similar to those estimated from the September 1 sample in the Bering Sea chum salmon bycatch (Seeb et al. 2004). In that study, the proportional estimates were only reported for six large-scale regions; the same proportions for the six corresponding regions were used in this analysis with each of the populations in a group contributing the same number of individuals. This mixture was analysed using the reduced baseline to evaluate the accuracy and precision of the 15 reporting groups. This test is conservative because the baseline is reduced by the removal of individuals that contribute to the mixture and, thus, the overall number of individuals in the baseline is reduced. Estimation of the stock composition of these mixtures was performed using the Bayesian mixed stock analysis method described by Pella & Masuda (2001),
+and the entire process was implemented in WINBUGS (Lunn et al. 2000). The estimation was run using three chains beginning with different starting conditions, and each chain had a sample size of 15 000 without thinning. Inference was based on the posterior distribution based on a combined set of the last 7500 steps of each chain. The mean of the posterior distribution is reported as the best estimate, and the central 90% of the distribution was reported as the 90% credibility interval. An uninformative (flat) prior distribution was used based on the Dirichlet distribution where parameters for stock proportions from each reporting group were equal (1 ⁄ N) and then divided by the number of populations in each reporting group.
+The composition of the Bering Sea immature collection and the maturing collections from the East Coast of Kamchatka were estimated using a Bayesian model implemented in BAYES (Pella & Masuda 2001). Parameters, number of markers (54) and run conditions were similar to those described earlier for the proof tests.
+Results
+Samples originated from 128 collections representing 114 locations (Table 1, Fig. 1). Collections that represented temporal samples of a single location were pooled as recommended by Waples (1990). A total of 10 458 samples were analysed. Sample size per collection averaged 91 with a range of 44–191. The smallest sample sizes originated from Russia and the largest in Western Alaska (Table 1, Table S1, Supporting Information).
+Population structure
+The three mtDNA SNPs, Oke_Cr30, Oke_Cr386 and Oke_ND3-69, were combined into composite haplotypes at a single locus following the protocols of Smith & Seeb (2008) (Table 2).
+Significant gametic disequilibrium between the linked SNPs was found within more than 90% of the populations where tests were possible in four of eight pairs
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+
+ Fig. 1 Map of sampling locations for 114 populations of chum salmon. Colour, symbols and numbers indicate the populations and group membership from Table 1.
+(P < 0.01). One SNP was dropped from each of the four pairs to avoid pseudoreplication of loci (see Habicht et al. 2010). This resulted in the exclusion of Oke_U401-220, Oke_GHII-2943, Oke_IL8r-272 and Oke_U507-87 (Table 2) for population structure and mixture analyses, leaving 53 nuclear SNPs and the mtDNA-combined locus. The mtDNA locus was excluded in analyses requiring the assumption of diploidy.
+Observed heterozygosity among the nuclear SNPs varied from 0.024 to 0.468 with expected heterozygosity ranging from 0.024 to 0.462 (Table 2). All loci and populations conformed to HWE expectations, similar to results of Smith & Seeb (2008); significant deviations were no more frequent than expected by chance alone (P < 0.05). Mean allelic richness varied among populations from 1.58 in the Gakko River late run in Japan to 1.88 in Kobuk River in the Kotzebue Sound region (Fig. 2; Appendix A). On a regional basis, the greatest average allelic richness values were in the central portion of the range within
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+Alaska (Table 3). The lowest values were observed in the southern portions of the range in both Asia and North America. Tests of the populations from the Alaska major lineages (regions 5–13) versus the two Asian major lineages (regions 1–4) were highly significant (P < 0.001). Similar findings were observed for a test of the Alaska lineages vs. the major lineage from GOA ⁄ BC ⁄ WA (regions 14–15) (P < 0.001). These findings may reflect intrinsic differences in diversity levels or, alternatively, be an indication of ascertainment bias in the SNP panel.
+We tested for significant difference in diversity among the two major lineages of Western Alaska (Coastal Western Alaska #3 and Yukon ⁄ Kuskokwim Upper #4). Greater diversity was detected in allelic richness and expected heterozygosity in the coastal group (P < 0.001).
+The PCA, based on 53 nuclear SNP loci, revealed both major lineage divergence as well as regional population structure (Fig. 3). Axes 1 and 2 were both significant, explaining 46.9% and 26.9% of the variation, respectively.
+SNP GENOTYPING AND APPLICATIONS 203
+
+204 L. W. SEEB ET AL.
+  1.90
+1.80
+1.70
+1.60
+1.50
+1 6 111621263136414651566166717681869196101106111
+Japan Washington
+Fig. 2 Mean allelic richness in 114 populations ranging from Japan in Asia to Washington State in North America. Population numbers are given in Table 1 and grouped geographically; numbering of populations across the Pacific Rim begins in Japan and ends in North America in Washington State.
+        Table 3 Diversity statistics based on 53 populations representing 15 regions of chum Pacific Rim
+SNPs and 114 salmon from the
+populations. The Gulf of Alaska ⁄ BC ⁄ WA populations, along with the Alaska Peninsula and Kodiak Island populations, clustered closely. The two populations from the contact zone along the Alaska Peninsula (#84, 85) clustered independently from both the South Bristol Bay and North Alaska Peninsula regions falling among the Susitna cluster for axes 1 and 2. Axis 3 (not shown) explains another 10% of the variation and separates the two contact zone populations from the Susitna cluster.
+Linked SNPs
+We examined the linkage relationships of eight pairs of SNPs; in each case, two 5¢ nuclease assays were screened within a single gene sequence (Table 4). Of these, four pairs demonstrated complete or nearly complete gametic disequilibrium (Oke_U401, Oke_GHII, Oke_IL8r and Oke_U507). Based on Sanger sequencing validation, these SNPs are separated by 77, 186, 134 and 199 bp, respectively.
+Four SNP pairs—Oke_AhRI, Oke_GnRH, Oke_GPH and Oke_U305—separated by 200, 154, 27 and 75 bp, respectively, displayed complicated patterns of gametic disequilibrium associated with geography (Fig. 4). There were no significant test statistics for Oke_AhRI in the Asian lineages and only a single significant test in the GOA and southern populations (#101 Olsen Creek). The results for Oke_GPH and Oke_U305 were variable within lineages with significant tests within all lineage groups.
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+ Region
+1 Hokkaido
+2 Honshu ⁄ Korea
+3 Amur
+4 Anadyr ⁄ Kamchatka
+5 Kotzebue
+6 Western AK Summer
+7 Yukon Fall ⁄ Mid Summer 8 Kuskokwim Fall
+9 Bristol Bay South
+10 N. Alaska Peninsula 11 S. Alaska Peninsula 12 Kodiak Island
+13 Susitna
+14 GOA⁄SE⁄BC
+15 Washington Fall
+Number of Allelic populations richness
+12 1.691 5 1.645 2 1.724 8 1.806 3 1.855
+32 1.843 14 1.790 2 1.772 5 1.854 6 1.800 5 1.788 3 1.726 3 1.777 12 1.741 2 1.666
+FST 0.016
+0.031 0.027 0.018 0.013 0.004 0.012 0.004 0.012 0.029 0.022 0.077 0.004 0.027 0.033
+  The Japanese and Korean populations formed a single distinct cluster as did populations of Coastal Western Alaska and the Upper Yukon and Kuskokwim rivers. Russian populations also generally clustered together, although the most northern Russian population from Anadyr River (#20) appeared in the centre of the plot and with affinity to both Asian and North American
+Allelic richness
+
+SNP GENOTYPING AND APPLICATIONS 205
+ Gulf of Alaska/BC/WA
+Susitna
+Honshu/Korea
+  Hokkaido
+Amur
+Kam Anadyr
+Kotzebue
+W. Alaska summer
+Yukon Fall, Mid Sum
+Kusko Fall Bristol Bay S
+N. AK Pen
+S. AK Pen Kodiak Island Susitna GOA/SE/BC Washington Fall
+           AK Peninsula/Kodiak
+Russia
+                            Coastal W. Alaska
+Yukon/Kusko Upper
+                                       Japan/Korea
+  Coord. 1 (46.9%)
+Fig.3 Principalcoordinateanalysisof114populationsofchumsalmonbasedonpairwiseFST.Populationsareidentifiedbyregionalcolour; identification of major lineages is included.
+    Table 4 Percent significant tests (P < 0.05) for gametic disequilibrium among multiple SNPs within a template. SNP pairs and regions observed are given. Sequence separation in bp is also given based on the original source descriptions (Table 2).
+Detection of loci under selection
+Using the hierarchical model, we detected two loci as potential candidates for selection, Oke_U502-241 and Oke_RFC2-618 (Fig. 6). Both loci fell above the 99% quantile of the simulation model. These two loci demonstrate similar patterns of allele frequency variation (Fig. 7).
+Oke_U502-241 minor allele frequencies showed a dramatic shift between the Japan ⁄ Korea lineage (#1–17) and the Russian and western Alaska regions (#18–97) (Table S1, Supporting Information), where minor allele frequencies were generally below 0.20. The Japan ⁄ Korea lineage had allele frequencies ranging above 0.75. The three most southerly populations from Northern British Columbia and Washington State (#110, 113–114) also show elevated minor allele frequencies ranging from 0.52 to 0.84. Interestingly, the Susitna populations (#98–100) had minor allele frequencies of approximately 0.37. The pattern of the second outlier locus, Oke_ RFC2-618, was similar but with a more gradual clinal distribution. Three other loci were above the 95% quantile: Oke_U506-110, Oke_copa-211 and Oke_Tf-278, also potential candidates for selection.
+Analysis of Bering Sea mixtures
+Results of the 100% simulations for the 15 regions (Fig. 8) indicated that these groups were highly identifiable in mixtures. Mean values of 1000 bootstrap iterations ranged from 0.85 to 0.99 with the majority allocating above the 0.90 level commonly used in fishery analyses (Seeb et al. 2007). The Honshu ⁄ Korea group (0.87) and Bristol Bay South (0.85) were the lowest performers among the regions, but in both cases, misallocation was to adjacent groups (data not shown). When the performance of the
+ SNP1
+Oke_AhR1-78 Oke_U401-143 Oke_GHII-2943 Oke_GnRH-373 Oke_GPH-78 Oke_IL8r-272 Oke_U507-87 Oke_U305-130
+Oke_GnRH was particularly variable with significant linkage statistics in the centre of the range in Alaska and only a single significant test in Asia (Fig. 4). This can be seen in the allele frequency plots by population for the two loci (Fig. 5a). We also examined the frequency from the phased haplotype reconstruction (Fig. 5b). The frequency of the four haplotypes at Oke_GnRH is depicted as AB, Ab, aB and ab with A and B nomenclature referring to the two individual SNPs within the template sequence. The ab haplotype is particularly interesting with an elevated frequency in the central portion of the range in Alaska populations (#28–83); the ab haplotype was nearly absent in Asia and in populations along the Alaska Peninsula and southward. This is matched by an almost complete absence of the Ab haplotype across the entire range, even in the central portion where the relative frequency of the b allele increases and the Ab haplotype might be expected to be present in the 5–10% range. With only a few minor exceptions, the b allele is associated with the a allele.
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+SNP2 % bp
+ Oke_AhR1-278
+Oke_U401-220
+Oke_GHII-3129
+Oke_GnRH-527
+Oke_GPH-105
+Oke_IL8r-406
+Oke_U507-286 100 199 Oke_U305-307 75 177
+19 200 91 77 98 186 40 154 25 27 98 134
+ Coord. 2 (26.9%)
+
+ 206 L. W. SEEB ET AL.
+Region AhRI GnRH GPH U305
+Japan/ Korea
+Russia
+Coastal Western Alaska
+Yukon, Kuskokwim upper
+Alaska Peninsula, Kodiak I
+Susitna
+GOA/BC /WA
+Fig. 4 Patterns of significant gametic disequilibrium at four linked SNP pairs. In each case, two SNPs were observed in a single template. Populations are grouped by the seven major lineages rather than strictly by geography. Lightly shaded cells 0.05 ‡ P ‡ 0.01; darkly shaded cells P < 0.01.
+baseline was tested using a mixture of known individuals with a composition similar to reported results for the Bering Sea chum bycatch, the estimated proportions were very similar to the expected values (Table 5). Estimated proportions were within 0.032 of the true proportions, and all 90% credibility intervals contained the true value.
+A total of 312 samples captured in the southwest Bering Sea by a NOAA survey cruise were analysed. The results of the mixture analysis indicate that populations are highly admixed in August with representation from throughout the Pacific Rim including the southern populations from both continents (Table 6). Five of the regions contributed at or above 0.10 (Japan ⁄ Hokkaido, Kamchatka ⁄ Anadyr, W. AK Summer, GOA ⁄ SEAK ⁄ BC, Washington Fall).
+The results from the analysis of the time series of samples collected off the east coast of the Kamchatka Peninsula from May to August illustrated the dynamic nature of the migration of maturing chum salmon (Table 6). In May and June, the proportion of salmon originating from the Kamchatka ⁄ Anadyr region was 0.91 and 0.84, respectively, with the remaining proportions from Amur River and the Japan ⁄ Korea lineage. Beginning in July, the composition
+changed markedly with increasing contribution of the Japan⁄Korea lineage. By August, the contribution of the two regions within the Japan ⁄ Korea lineage reached 0.90.
+Discussion
+Diversity and geographic differentiation of SNPs
+This study represents one of the first surveys of SNP variation across the range of a Pacific salmon and expands the earlier study of Smith & Seeb (2008) who surveyed 11 populations of chum salmon from Western Alaska. The goals of this study include examining the behaviour of SNPs across the Pacific Rim with particular attention to linkage relationships, high FST outlier loci and potential ascertainment bias.
+As expected, the major lineages and regional groups described by previous studies using a variety of markers were well supported by the current SNP data set (Seeb et al. 2004; allozymes; Beacham et al. 2008a; microsatellites; Yoon et al. 2008; mtDNA). The two large studies using allozymes and microsatellites included over 300 populations compared to the current 114, so finer detail and additional regions were possible in those studies. The contact zone along the Alaska Peninsula described by Seeb & Crane (1999b) was also clearly evident in the SNP data set.
+We detected significant geographic trends in regional diversity evidenced by allelic richness and heterozygosity. The highest levels of allelic richness were found in the Alaska portion of the range, but this may be a function of ascertainment bias. Within Alaska, effects of ascertainment bias were expected to be minimal, so tests comparing levels of diversity were appropriate. The two late-timing groups inhabiting the upper reaches of the Yukon and Kuskokwim rivers (Yukon Fall ⁄ MidSummer and Kuskokwim Fall) showed a significant decrease in allelic richness compared to the Western Alaska summer groups.
+Variation in the level of diversity within regions was also apparent in FST values, despite the large range of number of populations per region (Table 3). For example, the Western Alaska summer group, with 32 populations spanning much of the Bering Sea Coast, had a regional FST of only 0.004. In contrast, relatively high levels of regional diversity among Alaska Peninsula and Kodiak Island populations (3–6 populations per region) were observed. These results are very consistent with those generated from allozyme data derived from many of the same populations (Seeb & Crane 1999b). They provide additional support for the existence of a very wide-ranging metapopulation of chum salmon inhabiting the Bering Sea coast of Alaska. Similarly, Chinook salmon populations also exhibit low levels of differentiation
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+
+SNP GENOTYPING AND APPLICATIONS 207
+ (a)
+1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0
+(b)
+1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0
+Oke GnRH-373 Oke GnRH-527
+  5 101520253035404550556065707580859095100105110
+ AB
+Ab
+aB
+ab
+    5 101520253035404550556065707580859095100105110
+Fig. 5 Allele and haplotype frequencies for Oke_GnRH. Population numbers are given in Table 1 and grouped geographically; numbering of populations across the Pacific Rim begins in Japan and ends in North America in Washington State. (a) Allele frequency at two SNPs within Oke_GnRH. Frequencies of only a single allele are given for each SNP. The two SNPs show significant gametic disequilibrium in only a portion of the range. (b) Phased haplotype reconstruction at Oke_GnRH.
+ 1.0 0.8 0.6 0.4 0.2 0.0
+Fig. 7 Allele frequencies at the two SNP loci, Oke_U502-241 and Oke_ RFC2-618, identified as outliers. Frequencies of only a single allele are given for each SNP. Population numbers are given in Table 1 and grouped geographically; numbering of populations across the Pacific Rim begins in Japan and ends in North America in Washington State.
+  Oke_RFC2-618
+  0 10 20 30 40 50 60 70 80 90 100 110 Population number
+Oke U502-241
+ 0.40
+0.30
+0.20
+0.10
+0.00
+0.00 0.10
+0.20 0.30 0.40 0.50 Heterozygosity
+Fig. 6 Detection of loci under selection assuming a hierarchically structured population using the method of Excoffier et al. (2009). The solid line indicates the 1% quantiles from coalescent simulations; dashed lines indicate the 5% and 50% quantiles.
+1% quantile 5% quantile Mean
+Oke_copa-211
+Oke_U506-110
+Oke U502-241
+Oke RFC2-618
+Oke_Tf-278
+                                                            along the eastern coast of the Bering Sea (Templin et al. 2011).
+Efforts are now ongoing through the PacSNP collaboration to increase the population coverage, particu-
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+larly in the southern portions of the range in North America and throughout Asia. The well-described summer run of chum salmon in Washington State (Small
+FST
+Allele frequency
+
+ 208 L. W. SEEB ET AL.
+Fig. 8 Results of 100% simulations for 15 regional groups of chum salmon across the Pacific Rim. The mean estimate and the 90% confidence interval are shown.
+Table 5 Mean estimated composition and 90% credibility intervals (CI) for 300 individuals of known origin. Estimates were generated using BAYES (Pella & Masuda 2001)
+species of Pacific salmon (Smith et al. 2007; Habicht et al. 2010; Hauser et al. 2011). Smith & Seeb (2008) used SNPs for proportional and individual assignments of chum salmon from Western Alaska and found a high level of accuracy in proportional assignment among highly and moderately divergent groups. Our goal in this study was to begin evaluating the power of the SNP database across the entire range. We conducted simulation studies as an initial step in the evaluation process and to highlight areas of elevated levels of uncertainty. Results from simulations can overestimate the predicted accuracy of genetic stock identification, but overestimation is much more moderate when regions are large (Anderson et al. 2008) such as in this study. The results from our simulation studies indicate that the majority of regions can be estimated with an acceptable level of accuracy, and some regions are highly accurate and precise. This finding was confirmed with the analysis of the mixture of known individuals removed from the baseline. We constructed the known mixture to include individuals from across the range in proportions similar to what was observed in the Bering Sea bycatch analysed by Seeb et al. (2004). The mean estimate of the mixture for each reporting group was always within the 90% credibility interval indicating that the database performed well at this level of complexity.
+Using Bayesian analysis, we applied the baseline to a sample of over 300 unknown individuals from the southeastern Bering Sea. The results demonstrate the highly complex nature of the mixture in this area with immature individuals originating from throughout the range. These results are consistent with previous findings based on allozyme data from the Bering Sea trawl fishery (Wilmot et al. 1998; Seeb et al. 2004). Two trends are evident. Immature individuals from throughout the range are comingling in the Bering Sea, and, secondly, it is clear that the bycatch fishery can affect populations from across the range of chum salmon.
+The time series from the east coast of Kamchatka indicated a very dynamic mix of populations beginning with predominantly Russian-origin fish early in the summer shifting to predominantly Japanese-origin chum salmon by August. This shift is typical of salmonid populations where individuals from very different origins migrate along similar routes at varying times throughout their life history. Similar results using genetic markers have been documented in maturing Chinook salmon along the British Columbia coast (Beacham et al. 2008d), maturing chum salmon along the South Alaska Peninsula (Seeb et al. 2004) and sockeye salmon returning to Bristol Bay along the North Alaska Peninsula (T. Dann, Alaska Department of Fish and Game, personal communication). The resulting temporal shift in the composition of individuals from the same general location underscores the
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+Region
+1 Japan Hokkaido
+2 Japan Honshu ⁄ Korea 3 Amur River
+4 Kamchatka ⁄ Anadyr 5 Kotzebue
+6 WAK Summer 7 Yukon Fall ⁄ Mid
+Summer
+8 Kuskokwim Fall 9 Bristol Bay South
+10 North AK Pen 11 South AK Pen 12 Kodiak Island 13 Susitna
+14 Gulf of Alaska ⁄ SEAK ⁄ BC
+15 Washington Fall
+True Mean composition estimate
+0.135 0.129 0.058 0.065 0.013 0.019 0.170 0.152 0.018 0.005 0.208 0.204 0.023 0.048
+0.010 0.007 0.015 0.015 0.008 0.007 0.095 0.085 0.000 0.000 0.005 0.005 0.120 0.127
+0.125 0.132
+90% CI
+0.089 0.172 0.030 0.102 0.008 0.033 0.120 0.186 0.000 0.022 0.105 0.272 0.007 0.141
+0.000 0.029 0.000 0.064 0.000 0.024 0.047 0.127 0.000 0.000 0.000 0.012 0.091 0.166
+0.104 0.162
+et al. 2009) was not included in this study because only limited number of individuals were available for analysis. However, the panel of SNP markers used in this study clearly differentiate the Washington fall run from the summer run (data not shown). Additionally, the number of SNPs for chum salmon now approaches 200 (University of Washington, unpublished), and it is anticipated that the enlarged PacSNP data set will include at least 96 SNPs.
+Mixture analyses with SNPs
+SNPs have been shown to be accurate markers for population, individual and parentage assignments in multiple
+
+Table 6 Mean estimated composition and 90% credibility intervals (CI) from immature chum salmon samples originating from southwestern Bering Sea in the bycatch area and from a time series of maturing chum salmon collected off the East Coast of the Kamchatka Peninsula, Russia. Estimates were generated using BAYES (Pella & Masuda 2001)
+SNP GENOTYPING AND APPLICATIONS 209
+ Bering Sea Bycatch
+Area East Coast Kamchatka
+       Region
+1 Japan Hokkaido
+2 Japan Honshu ⁄ Korea 3 Amur River
+4 Kamchatka ⁄ Anadyr 5 Kotzebue
+6 WAK Summer 7 Yukon Fall ⁄ Mid
+Summer
+8 Kuskokwim Fall 9 Bristol Bay South
+10 North AK Pen 11 South AK Pen 12 Kodiak Island 13 Susitna
+14 Gulf of Alaska ⁄ SEAK ⁄ BC
+15 Washington Fall
+August May
+Mean 90% CI Mean 90% CI
+0.134 0.067 0.208 0.060 0.023 0.059 0.000 0.125 0.002 0.000 0.013 0.000 0.054 0.002 0.000 0.169 0.121 0.217 0.905 0.847 0.018 0.000 0.090 0.001 0.000 0.207 0.072 0.293 0.002 0.000 0.021 0.000 0.074 0.005 0.000
+0.009 0.000 0.048 0.013 0.000 0.014 0.000 0.085 0.001 0.000 0.009 0.000 0.044 0.002 0.000 0.096 0.017 0.165 0.001 0.000 0.001 0.000 0.007 0.002 0.000 0.006 0.000 0.019 0.001 0.000 0.120 0.068 0.182 0.001 0.000
+0.124 0.079 0.171 0.001 0.000
+0.108 0.013 0.016 0.951 0.005 0.014 0.027
+0.046 0.006 0.011 0.006 0.010 0.007 0.009
+0.004
+June July
+Mean 90% CI Mean
+0.051 0.000 0.120 0.412 0.033 0.000 0.104 0.035 0.063 0.021 0.116 0.015 0.844 0.774 0.906 0.527 0.001 0.000 0.005 0.001 0.001 0.000 0.004 0.001 0.001 0.000 0.004 0.001
+0.001 0.000 0.004 0.001 0.001 0.000 0.005 0.001 0.001 0.000 0.005 0.002 0.001 0.000 0.006 0.002 0.001 0.000 0.005 0.001 0.001 0.000 0.004 0.001 0.001 0.000 0.004 0.001
+0.001 0.000 0.004 0.001
+90% CI
+0.304 0.513 0.000 0.123 0.000 0.046 0.440 0.612 0.000 0.005 0.000 0.008 0.000 0.004
+0.000 0.005 0.000 0.007 0.000 0.009 0.000 0.014 0.000 0.006 0.000 0.004 0.000 0.006
+0.000 0.004
+August
+Mean 90% CI
+0.857 0.694 0.040 0.000 0.030 0.000 0.062 0.022 0.001 0.000 0.001 0.000 0.001 0.000
+0.001 0.000 0.001 0.000 0.001 0.000 0.002 0.000 0.002 0.000 0.001 0.000 0.001 0.000
+0.001 0.000
+0.940 0.199 0.068 0.116 0.004 0.004 0.004
+0.004 0.006 0.006 0.013 0.010 0.005 0.008
+0.004
+   need for accurate assessment of the composition of salmonid aggregates subject to directed or bycatch fisheries both for conservation and management.
+The shift in composition from Russian to Japanese origin is highly congruent with the allozyme results from the same individuals as reported by Seeb et al. (2004). However, that study identified up to a 0.20 proportion of chum salmon originating from the Alaska Peninsula and Gulf of Alaska. There was probably a misallocation of chum salmon from Russian populations to Alaska Peninsula and Gulf of Alaska populations in the allozyme baseline. Some Russian and Gulf of Alaska populations exhibit close genetic affinities, and misallocation was also evident in the allozyme simulation results. Both the simulations and proof tests with the current SNP data indicate the groups are well separated.
+SNPs across a species range
+Ascertainment bias results from the selection of loci from an unrepresentative sample of individuals that are used to infer various aspects of population structure (Bradbury et al. 2011). In SNP or microsatellite studies, ascertainment bias typically arises if only the most variable loci are included or if only a small panel of individuals are used in identifying and developing the markers (Brumfield et al. 2003). Ascertainment bias has the poten-
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+tial to introduce a systematic bias in estimates of variation within and among populations such that the number and origin of individuals in the ascertainment panels needs to be tracked (Morin et al. 2004). Attention to ascertainment bias is a concern in a study such as this where populations were assayed across the range of the entire species.
+SNP markers used in this study were described in three earlier studies (Smith et al. 2005a,b; Elfstrom et al. 2007). Primers for SNP discovery were designed from aligned EST sequences, previously published salmon sequences or genes characterized as rapidly evolving. In those studies, the sequences were compared to GenBank nonredundant nucleotide and amino acid databases using BLAST and BLASTX, and hits with e-value = <10e)5 were reported. In most cases, the results matched the expected loci. When no match was found, the assays were designated as ‘‘u’’ for unknown. SNPs from these studies were also screened for paralogous sequence variation (PSVs) representative of duplicated regions. If evidence for PSVs was detected (see Smith et al. 2005b; Seeb et al. 2011), the SNP was excluded. Although the SNPs described by Smith et al. (2005b) were developed from ESTs, the majority was noncoding and fell outside the predicted exon. The two SNPs within coding regions, Oke_RFC2-618 and Oke_serpin-140, coded for synonymous substitutions (Smith et al. 2005b; Table S2). Similar
+
+210 L. W. SEEB ET AL.
+analyses were not available for the SNPs described by Smith et al. (2005a) or Elfstrom et al. (2007).
+We reviewed the original screening panels used in the ascertainment of the SNPs to better evaluate ascertainment bias within the data set. Smith et al. (2005a) sequenced at least 32 individuals from previously described DNA templates and then screened eight test populations from Japan to Washington State with samples sizes varying from 64 to 94. Smith et al. (2005b) sequenced 10 individuals each from four sites in Alaska and one site in Russia derived from primers based on alignments of Atlantic salmon (Salmo salar) and rainbow trout (Oncorhynchus mykiss). Elfstrom et al. (2007) used a strategy similar to Smith et al. (2005b). Although the entire range was represented among the three studies, the ascertainment efforts focused on Western Alaska, the area of interest for the authors. We see an elevated level of diversity in Alaska populations reflected in allelic richness and heterozygosity, potentially a signal of ascertainment bias. Evidence to support the alternate hypothesis that populations in the southern portion of the range are inherently less diverse can be gleaned for studies using other marker types. Comparison of levels of diversity using other marker sets across the range is possible, although those studies may also exhibit ascertainment bias. Sato et al. (2004) examined mtDNA variation and found greater genetic variation in the populations of Japan than those of Russia and North America. Based on microsatellite markers, Beacham et al. (2008a) found that Japanese chum salmon populations were more or equally variable compared to populations of Russia and North America. Neither marker type suggests that Japanese populations are inherently less diverse than those from North America as suggested by the current SNP panel.
+Ascertainment bias can be a useful tool when the objective is to differentiate closely related populations. These ascertainment strategies focus on polymorphic markers within the area of interest and can maximize effectiveness of SNP development. However, applying markers designed to take advantage of ascertainment strategies to other areas may have several consequences including lower power as a result of reduction in polymorphisms and the inability to compare levels of variability. Smith et al. (2007) examined the impacts of marker class on population inferences in Chinook salmon. Using a comparison among 22 allozymes, 9 microsatellites and 41 SNPs, they found little effect on measures of diversity among populations (FST) or clustering relationships. However. estimates of within population diversity where low for collections from outside the geographic coverage of test populations. SNP development efforts among PacSNP collaborators now include a new initiative to specifically use ascertainment panels that include better representation from Asia and the
+southern range in North America to increase assignment power within these regions.
+Although attention has focused on ascertainment bias in SNPs, microsatellite markers are also likely to carry an ascertainment bias as typically there is selection for the most polymorphic loci during marker development (Brandstrom & Ellegren 2008). Microsatellite loci of limited power in the test populations are discarded, so attention to the ascertainment and test populations is warranted, particularly if analyses based on evolutionary rates are attempted. This can be complicated by the common use of orthologous microsatellite loci. For example, it is likely ascertainment bias is present in the microsatellite loci used extensively for chum salmon. Beacham et al. (2008b) found significant deviations from HWE in Russian populations at two of the loci in a 14-locus panel. Similarly, Beacham et al. (2008a) describe significant deviations at three different loci from the same 14-locus panel in Japan and representative North American populations. In that study, one locus (One111) exhibited significant deviations at 26% of the tests. This likely reflects the presence of null alleles in Asian populations. Similar findings have been seen in Chinook salmon microsatellite loci when applied beyond the original range of the test populations (Alaska Department of Fish and Game, Anchorage, Alaska, unpublished).
+Linked SNPs
+Use of multiple SNPs within loci has been recently advocated by Morin et al. (2009) who identified an increase in power for population structure and conservation studies by including multiple SNPs within loci and inferring haplotypes, rather than trying to use only unlinked SNPs. They also note that using linked SNPs reduces the ascertainment and assay development efforts. Smith & Seeb (2008), in a study of chum salmon from Western Alaska using a subset of the populations of this study and a similar SNP panel, also evaluated the power of linked SNPs. Smith & Seeb (2008) phased nine SNP pairs including all eight pairs included in this study. The ninth SNP pair, Oke_U503, was excluded here based on poor performance of one of the assays, Oke_U503-302. They found that adding linked SNPs improved mixture and individual assignment probability, but that the choice between including linked SNPs and adding an unlinked SNP must include consideration of the additional development cost and information associated with the unlinked SNP.
+Pertinent insights can also be gained from the phased haplotype reconstruction. The disappearance of the ab haplotype at Oke_GnRH beginning with population #84 (Ilnik River) corresponds to the contact zone between the major northern and southern groups of chum salmon (Seeb & Crane 1999b). This discontinuity is seen most
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+
+clearly in the phased haplotypes (Fig. 5b) where the almost complete absence of the Ab haplotype is apparent. It is less apparent in the individual allele frequencies of the two Oke_GnRH SNPs (Fig. 5a).
+Within humans, a number of studies have examined small segments of the genome with the aim of assessing differences in gametic disequilibrium among populations. Various authors suggest that the extent of disequilibrium at a given region in the genome will vary dependent on the relative influence of demographic factors such as drift, admixture and selection (Slatkin 1994; Terwilliger et al. 1998; Nordborg & Tavare 2002). Some studies have interpreted greater disequilibrium as a function of small isolated populations (e.g., Laan & Paabo 1997). Others have suggested that the most important factor influencing background disequilibrium is the variation found in different genomic regions within and between populations (Freimer et al. 1997). In chum salmon, it appears that the variation in disequilibrium is associated with larger lineages, which in turn may be a reflection of historical demographic factors.
+Detection of loci under selection
+Patterns of genetic diversity across loci between populations have been used extensively to detect local adaptations through identification of high FST or outlier analysis (e.g. Beaumont & Nichols 1996; Foll & Gaggiotti 2008). Most tests use a null distribution generated under a simple island model. Recently, Excoffier et al. (2009) proposed a hierarchical island model in which demes exchange more migrants within groups than between groups. This test explicitly accounts for a priori hierarchical structure and should result in a reduction of false positives in a study such as ours that spans a species range with well-described hierarchical structure. Two loci were identified as candidates for positive selection, with Oke_502-241 and Oke_RFC2-618, falling outside the 99% quantile.
+Oke_U502-241 displayed a very distinct distribution with elevated minor allele frequencies in the southern portions of the range in both Asia and North America indicative of a latitudinal cline. Latitudinal clines in Chinook salmon have been described by O’Malley & Banks (2008) who found evidence of a cline in the two most common circadian rhythm (Clock) genes. The current chum SNP Oke_U502-241 was described by Elfstrom et al. (2007), but no function for the gene was provided. BLASTN returns a hit to the Atlantic salmon (Salmo salar) immunoglobulin IgH locus B genomic sequence (GU129140.1) with an e-value of 9e)113 and 80% identity, but contains multiple high-scoring pairs (HSPs). The IgH gene is large and complex, possessing numerous repeat regions, consistent with the presence of multiple HSPs. Atlantic
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+salmon express two IgH loci related to the gene duplication event in salmonids (Hordvik 1998). Recently, Yasuike et al. (2010) studied the evolution of IgH loci in Atlantic salmon and concluded that duplication significantly contributed to the increased diversity of the antibody repertoire. While IgH is the most likely match for the chum SNP Oke_U502-241, further sequence analysis would be necessary for final confirmation.
+The locus Oke_RFC2-618 also demonstrated a latitudinal cline, although more gradual than Oke_U502-241. Replication factor (RFC) is involved in both DNA replication and repair. The described SNP was identified as a synonymous substitution within a coding region (Smith et al. 2005b; Table S2).
+Other loci falling outside the 95% quantile with known function include Oke_copa-211 (coatomer protein complex subunit alpha; Smith et al. 2005b)) and Oke_Tf278 (Transferrin; Elfstrom et al.(2007)). Transferrin has been shown to be under selection in other studies of Pacific salmon and has been linked to iron-binding proteins that are involved in iron storage and resistance to bacterial disease (Ford 2001). A third SNP with unknown function, Oke_U506-110, also fell outside the 95% quantile. As more data accumulate, it should be possible to better evaluate the adaptive nature of these SNPs.
+PacSNP international collaboration
+Analysis of the origin of high-seas chum salmon with genetic data has a long history dating back to the 1980s. Studies have been focused both on understanding the migratory patterns as well as conservation concerns from both targeted and bycatch fisheries. Using allozymes, research began in the mid-1980s to identify the origin of chum salmon harvested illegally in the high seas and incidentally caught in the high-seas driftnet fisheries for flying squid Ommastrephes bartramii (Smouse et al. 1990), to identify the origin of salmon fisheries occurring off the south Alaska Peninsula and Kamchatka (Seeb et al. 2004) and to identify the migration patterns of Japanese chum salmon (e.g. Urawa et al. 2009). These studies utilized an allozyme data set that was shared among laboratories, and data were collected at dispersed sites. However, the requirements of lethal sampling, cryopreservation of tissue, limited number of markers and hazardous chemicals have made the technique of allozyme analysis obsolete in most laboratories, although the data continue to be used for comparative purposes (e.g. Smith et al. 2007).
+Microsatellite databases have also been applied to estimate the origin of chum salmon from various high-seas mixtures originating across the Pacific Rim (Beacham et al. 2009). However, unlike the early allozyme and developing SNP databases, microsatellite analyses in support of international research on chum salmon have been
+SNP GENOTYPING AND APPLICATIONS 211
+
+212 L. W. SEEB ET AL.
+conducted primarily in a single laboratory (Beacham et al. 2008a,b), avoiding the problems associated with standardization of potentially hundreds of microsatellite alleles across sites in different nations and continents (Seeb et al. 2007; Stephenson et al. 2009; Morin et al. 2010).
+A number of studies are now ongoing that will potentially utilize the PacSNP database, which has now been placed online and is openly accessible. These include BASIS and Japanese high-seas surveys (e.g. Farley et al. 2009; Urawa et al. 2009) as well as the heightened sampling of the bycatch in the walleye pollock fishery (A. Gray, NOAA Fisheries, http://www.fakr.noaa.gov/ npfmc/current_issues/bycatch/Genetics510/GeneticCh um2009Trawl.pdf). In addition, the Western Alaska Salmon Stock Identification Program (WASSIP), an extensive genetic stock identification project for chum and sockeye salmon, will utilize the PacSNP database. Russian laboratories also propose to use these data to clarify stock composition of chum salmon migrating in the northwestern Bering Sea (cf. Gritsenko et al. 2007).
+SNPs across a species range: needs and opportunities
+The use of SNP datasets for conservation and population genetics studies is rapidly expanding as SNP markers become increasing available, and SNP development costs are falling (Everett et al. 2011). The PacSNP (and FishPopTrace) results support the vision of shared openly accessible international databases that can be applied to widely ranging questions both from an applied and theoretical perspective.
+Acknowledgements
+A study of this magnitude could not have been conducted without the help of a large number of people. We thank the research staffs of Alaska Department of Fish and Game, U.S. Fish and Wildlife Service, Canadian Department of Fisheries and Oceans, and NOAA Fisheries for collection of tissue samples in North America. Many of the samples date back to collections made in the 1990s. We thank researchers from National Salmon Resources Center, Fisheries Research Agency, Japan; Kamchatka Fishery and Oceanography Research Institute, Russia; for samples from Asia. We thank Dick Wilmot and Chris Kondzela, NOAA Fisheries, for the mixture samples from the Bering Sea bycatch area and Natalya Varnavskaya, Kamchatka Research Institute of Fisheries and Oceanography, for mixture samples originating from the east coast of Kamchatka Peninsula. Laboratory analyses were conducted at Alaska Department of Fish and Game (ADFG) by numerous members of the Gene Conservation Laboratory. The study could not have been completed without the expert help of Christian Smith, Heather Hoyt, Zac Grauvogel, and Judy Berger from ADFG. We also thank Jim Jasper, Eric Lardizabal and Andy Barclay from ADFG for data analyses and special thanks to Carita Pascal from the University of Washington and formerly from ADFG for assistance throughout the
+duration of the study. Funding for this study was provided by the State of Alaska and a grant from the Gordon and Betty Moore Foundation to LWS and JES.
+Conflict of interest
+The authors have no conflict of interest to declare and note that the sponsors of the issue had no role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+References
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+
+Appendix A
+Diversity statistics by population for Pacific Rim chum salmon
+Population
+1 Chitose River—early ⁄ late 2 Teshio River
+3 Nishibetsu River
+4 Shibetsu River
+5 Shari River
+6 Tokoro River
+7 Tokushibetsu River 8 Kushiro River
+9 Shinzunai River
+10 Tokachi River
+11 Yurappu River—early 12 Yurappu River—late 13 Sasanai River
+14 Gakko River—early 15 Gakko River—late
+16 Tsugaruishi River
+17 Namdae River
+18 Amur River—summer 19 Amur River
+20 Anadyr—early
+21 Apuka River
+22 Bolyshaya River
+23 Kamchatka River
+24 Bistraya River
+25 Palana River
+26 Pymta River
+27 Tigil River
+28 Kelly Lake
+29 Kobuk River
+30 Noatak River
+31 American River
+32 Fish River
+33 Kwiniuk River
+34 Niukluk River
+35 Nome River
+36 Pilgrim River
+37 Snake River
+38 Solomon River
+39 Unalakleet River
+40 Andreafsky River
+41 Anvik River
+42 Black River
+43 Gisasa River
+44 Innoko River
+45 Nulato River
+46 Tozitna River
+47 Chena River
+48 Henshaw Creek
+49 Salcha River
+50 Big Creek
+51 Pelly River
+52 Donjek River
+53 Fishing Branch
+Mean number of alleles
+1.868 1.849 1.887 1.811 1.887 1.868 1.849 1.811 1.868 1.849 1.868 1.792 1.792 1.868 1.717 1.736 1.830 1.887 1.868 1.943 1.962 1.981 1.962 1.962 1.943 1.943 1.981 2.000 2.000 2.000 2.000 2.000 1.981 2.000 2.000 2.000 1.981 1.981 1.981 2.000 2.000 2.000 1.981 2.000 2.000 1.981 1.925 1.962 1.906 1.925 1.925 1.849 1.906
+Allelic richness
+1.704 1.689 1.687 1.683 1.708 1.693 1.716 1.694 1.696 1.676 1.704 1.639 1.658 1.714 1.577 1.606 1.667 1.725 1.724 1.829 1.797 1.812 1.777 1.815 1.809 1.813 1.798 1.821 1.881 1.862 1.797 1.870 1.847 1.860 1.875 1.867 1.835 1.872 1.852 1.839 1.839 1.835 1.844 1.832 1.839 1.833 1.805 1.790 1.783 1.795 1.796 1.736 1.792
+HO HE 0.243 0.240
+0.219 0.231 0.248 0.241 0.237 0.238 0.248 0.241 0.237 0.238 0.252 0.252 0.232 0.241 0.241 0.239 0.223 0.233 0.241 0.247 0.218 0.217 0.220 0.226 0.233 0.244 0.205 0.207 0.205 0.211 0.250 0.236 0.267 0.269 0.257 0.265 0.251 0.267 0.281 0.273 0.268 0.271 0.245 0.255 0.273 0.274 0.274 0.275 0.273 0.273 0.263 0.263 0.265 0.269 0.302 0.293 0.294 0.291 0.271 0.252 0.304 0.294 0.298 0.287 0.296 0.292 0.293 0.300 0.284 0.290 0.292 0.288 0.296 0.295 0.289 0.289 0.301 0.288 0.283 0.292 0.279 0.284 0.301 0.295 0.291 0.287 0.289 0.284 0.297 0.287 0.281 0.285 0.281 0.273 0.271 0.273 0.278 0.279 0.282 0.281 0.268 0.266 0.279 0.270
+SNP GENOTYPING AND APPLICATIONS 215
+   Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+
+216 L. W. SEEB ET AL.
+Appendix A Continued Population
+54 Big Salt
+55 Chulinak River
+56 Melozitna River
+57 Sheenjek River
+58 Bluff Cabin
+59 Delta River
+60 Kantishna River
+61 Tanana River
+62 Toklat River ⁄ Geiger
+63 Big River
+64 S.F. Kuskokwim-fall
+65 Aniak River
+66 George River
+67 Goodnews Weir
+68 Holokuk River
+69 Kanektok River
+70 Kogrukluk River
+71 Kwethluk River
+72 Oskawalik River
+73 Stony River-early ⁄ late
+74 Takotna River
+75 Togiak River
+76 Mulchatna River
+77 Nushagak sonar
+78 Stuyahok River
+79 Big Creek (Naknek)
+80 Whale Creek (Egegik)
+81 Pumice Creek (Ugashik)
+82 Meshik River
+83 Plenty Bear Creek (Meshik) 84 Ilnik River
+85 N Cape Seniavin
+86 Lawrence Valley Creek
+87 Moller Bay
+88 Joshua Green
+89 Frosty Creek
+90 John’s Lagoon
+91 Volcano Bay
+92 Canoe Bay
+93 Alagogshak River
+94 McNeil River
+95 American River
+96 Big Sukoi
+97 Sturgeon River
+98 Chunilna River
+99 Lake Creek
+100 Susitna River Slough 101 Wally H. Noerenberg Hatchery
+102 Olsen Creek
+103 24 Mile—Chilkat River 104 Macaulay Hatchery 105 Hidden Falls Hatchery 106 Long Bay
+Mean number of alleles
+1.943 1.981 1.981 1.943 1.925 1.962 1.943 1.925 1.962 1.925 1.943 1.981 1.962 1.981 1.925 1.981 2.000 1.981 1.943 2.000 2.000 1.981 1.981 1.962 2.000 1.943 1.981 2.000 1.962 1.981 1.962 1.962 1.943 1.943 1.906 1.925 1.962 2.000 2.000 1.981 1.962 1.943 1.906 1.868 1.868 1.887 1.868 1.943
+1.962 1.906 1.981 1.943 1.962
+Allelic richness
+1.792 1.836 1.827 1.791 1.808 1.795 1.793 1.793 1.792 1.771 1.772 1.839 1.829 1.853 1.830 1.855 1.830 1.851 1.825 1.843 1.835 1.835 1.848 1.845 1.873 1.831 1.847 1.859 1.879 1.856 1.820 1.820 1.795 1.812 1.781 1.773 1.803 1.775 1.802 1.803 1.756 1.803 1.758 1.617 1.773 1.777 1.782 1.751
+1.763 1.738 1.717 1.710 1.733
+HO HE 0.273 0.276
+0.284 0.284 0.290 0.288 0.280 0.281 0.285 0.282 0.289 0.285 0.288 0.284 0.276 0.277 0.283 0.283 0.287 0.280 0.276 0.274 0.312 0.293 0.295 0.293 0.294 0.294 0.288 0.289 0.295 0.298 0.295 0.285 0.311 0.298 0.285 0.287 0.288 0.290 0.294 0.289 0.318 0.286 0.310 0.294 0.315 0.295 0.303 0.303 0.304 0.284 0.288 0.291 0.289 0.286 0.303 0.301 0.284 0.284 0.263 0.262 0.265 0.268 0.272 0.274 0.279 0.275 0.267 0.264 0.262 0.262 0.272 0.268 0.262 0.265 0.269 0.269 0.283 0.277 0.266 0.261 0.273 0.272 0.252 0.247 0.195 0.198 0.277 0.272 0.278 0.273 0.272 0.277 0.269 0.262
+0.265 0.267 0.272 0.255 0.242 0.242 0.250 0.248 0.256 0.256
+   Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd
+
+Appendix A Continued Population
+107 Taku River—fall
+108 Fish Creek-early\late 109 North Arm Creek
+110 Disappearance Creek 111 Karta River
+112 Nekite Channel ⁄ River 113 Nisqually River
+114 Elwha River
+Overall
+Mean number of alleles
+1.925 1.925 1.906 1.830 1.925 1.943 1.792 1.811 1.934
+Allelic richness
+1.771 1.751 1.739 1.698 1.753 1.764 1.651 1.681
+HO HE 0.269 0.263
+0.252 0.246 0.258 0.257 0.232 0.236 0.243 0.252 0.258 0.254 0.240 0.236 0.241 0.237 0.271 0.269
+SNP GENOTYPING AND APPLICATIONS 217
+   Molecular Ecology Resources (2011) 11 (Suppl. 1), 195–217 Ó 2011 Blackwell Publishing Ltd

@@ -1,0 +1,317 @@
+Syst. Biol. 50(1):87–105, 2001
+Phylogenetic Utility of Different Types of Molecular Data Used to Infer Evolutionary Relationships among Stalk-Eyed Flies (Diopsidae)
+RICHARD H. BAKER,1,2,4 GERALD S. WILKINSON,3 AND ROB DESALLE1
+1Department of Entomology, American Museum of Natural History, 79th Street at Central Park West, New York, NY 10024, USA; E-mail: desalle@amnh.org
+2Department of Biology, Yale University, New Haven, CT 06520, USA
+3 Department of Zoology, University of Maryland, College Park, MD 21742, USA; E-mail: gw10@umail.umd.edu
+Abstract.—A phylogenetic hypothesis of relationships among 33 species of stalk-eyed 􏱎ies was generated from a molecular data set comprising three mitochondrial and three nuclear gene regions. A combined analysis of all the data equally weighted produced a single most-parsimonious cladogram with relatively strong support at the majority of nodes. The phylogenetic utility of different classes of molecular data was also examined. In particular, using a number of different measures of utility in both a combined and separate analysis framework, we focused on the distinction between mitochondrial and nuclear genes and between faster-evolving characters and slower-evolving characters. For the 􏱍rst comparison, by nearly any measure of utility, the nuclear genes are substantially more informative for resolving diopsid relationships than are the mitochondrial genes. The nuclear genes exhibit less homoplasy, are less incongruent with one another and with the combined data, and contribute more support to the combined analysis topology than do the mitochondrial genes. Results from the second comparison, however, provide little evidence of a clear difference in utility. Despite indications of rapid divergence and saturation, faster-evolving characters in both the nuclear and mitochondrial data sets still provide substantial phylogenetic signal. In general, inclusion of the more rapidly evolving data consistently improves the congruence among partitions. [Diopsidae; incongruence; nuclear genes; partitioned Bremer support; saturation.]
+Flies in the family Diopsidae are characterized by the elongation of the head into long stalks, with the eyes and antennae laterally displaced at the ends of these stalks. In several species, this elongation is so extreme that the length of their eye stalks exceeds the length of their body. Several dipteran families possess hypercephalic species (Grimaldi and Fenster, 1989; Wilkinson and Dodson, 1997), but the Diopsidae are unique in that both males and females of all the species within the family have some degree of head modi􏱍cation. Recently, experiments examining the importance of eye stalks in the mating system of diopsids have provided considerable information about their adaptive signi􏱍cance (Burkhardt and de la Motte, 1985, 1988; Lorch et al., 1993; Wilkinson, 1993; Burkhardt et al., 1994; Wilkinson and Reillo, 1994; Wilkinson and Dodson, 1997). For the majority of diopsid species, males have markedly larger eye stalks than females, and several studies have demonstrated that this increased eye span functions as an ornament for both male combat (Burkhardt and de la Motte, 1983, 1987; Lorch et al., 1993) and
+4Present address (and address for correspondence): The Galton Laboratory, University College London, 4 Stephenson Way, London NW1 2HE, U.K.
+female mate choice (Burkhardt and de la Motte, 1988; Burkhardt et al., 1994; Wilkinson and Reillo, 1994). There is also considerable variation among species in both the size of the eye stalks and the extent of the sexual dimorphism. Given this interspeci􏱍c variation, understanding of the forces in􏱎uencing the evolution of eye stalks would be enhanced by comparative information concerning the pattern of morphological change within the family. This type of analysis requires a robust phylogenetic hypothesis of the evolutionary relationships among these 􏱎ies. Therefore, we conducted a systematic study of several diopsid species, using molecular sequence data from six different gene regions. Various comparative analyses utilizing this phylogenetic framework will be presented elsewhere (Presgraves et al., 1999; Baker and Wilkinson, in prep.).
+In addition, the quality of the molecular data set allows for a detailed examination of the phylogenetic utility of different classes of molecular data. As the quantity and diversity of molecular data have expanded in systematic studies, there has been increased emphasis on discriminating among different types of character information and accommodating these differences into the treebuilding process (Fitch and Ye, 1991; Knight
+ 87
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+88 SYSTEMATIC BIOLOGY VOL. 50
+ and Mindell, 1993, 1995; Chippendale and Wiens, 1994; Collins et al., 1994; Yang, 1996). This accommodation ranges from downweighting characters to separating heterogeneous data, but, in all cases, follows from the principle that some sources of information are more reliable than others and that the more reliable information can be identi􏱍ed as such. In practice, the reliability or utility of systematic data is either assessed directly from the data at hand or assumed to be reasonable, given the results of previous studies. The methods for quantifying utility are varied and include (1) examining properties of the data before phylogenetic analysis (e.g., transition/transversion ratios, saturation curves, and compositional bias) (Friedlander et al., 1994; Graybeal, 1994), (2) examining properties of the data speci􏱍c to a given phylogenetic analysis (e.g., resolution, homoplasy measures, and support measures) (Milinkovitch et al., 1996; Naylor and Brown, 1998), (3) comparing the results with those for a “known” or well-supported phylogeny (e.g., simulation studies and higherlevel vertebrate phylogenies) (Friedlander et al., 1994; Graybeal, 1994; Russo et al., 1996; Cunningham, 1997a, 1997b), and (4) assessing the congruence among comparable data types from different sources (e.g., transversion data from all of the mitochondrial genes) (Miyamoto et al., 1994; Friedlander et al., 1998; Allard et al., 1999). Despite the ubiquitous use of these measures, little attention has been paid to whether or not, when compared with each other, they provide consistent or con􏱎icting information about the nature of data (but see Davis et al., 1998, for a recent example). In this study, by calculating and comparing several different measures, we have comprehensively examined both the utility of different data types and the equivocacy with which this utility can be identi􏱍ed. In general, we focused on two character data dichotomies: nuclear genes versus mitochondrial genes and faster-evolving characters versus slower-evolving characters.
+The majority of molecular sequence data for animal systematic studies has traditionally come from either mitochondrial genes or nuclear ribosomal genes. This bias stems primarily from the ease with which these genes can be ampli􏱍ed relative to the nuclear protein-coding genes. Recently, however, the use of nuclear protein genes in systematic studies has received increased
+emphasis (Friedlander et al., 1994, 1996, 1998; Gatesy et al., 1996; Fang et al., 1997; RamosOnsins et al., 1998). As this type of molecular information becomes more prominent, its utility relative to other types of data must be examined. The data matrix constructed for diopsid 􏱎ies contains three mitochondrial genes and three nuclear protein-coding genes and therefore provides an excellent opportunity for this kind of analysis.
+Concern about the phylogenetic effects of rapidly evolving nucleotide sites has become one of the most prominent issues in molecular systematics. Since Felsenstein’s (1978) seminal paper on the consistency of molecular data, numerous studies have focused on the relationship between the rate of molecular evolution and the accuracy of phylogenetic reconstruction (Fitch and Ye, 1991; Hillis, 1991; Bull et al., 1993; Mindell and Thacker, 1996; Yang, 1996). These studies have generally concluded that, because multiple substitutions potentially mask historical patterns of grouping, rapidly evolving characters have little phylogenetic utility, such that their inclusion in an equally weighted combined matrix will likely confound the results. The majority of empirical studies make at least some attempt to identify the more variable characters, and reducing their in􏱎uence on the 􏱍nal hypothesis has become commonplace (Mindell et al., 1996; Murphy and Collier, 1997; Bloomer and Crowe, 1998; Danforth and Ji, 1998; Martin and Bermingham, 1998). Although some methods of differential weighting discriminate among characters individually (e.g., successive approximation [Farris, 1969; Carpenter, 1988] and Goloboff weighting [Goloboff, 1993]), most studies downweight an entire class of data or type of transformation (e.g., third positions or transitions) that is deemed to be too fast. Some authors (Nixon and Carpenter, 1996; Kluge, 1997; Miller et al., 1997; Allard et al., 1999; Wenzel and Siddall, 1999) have questioned the validity of this approach, arguing that the justi􏱍cation for choosing among the array of possible a priori differential weightings is rarely strong and that a combined analysis of all the characters equally weighted represents the most severe test of the hypothesis. In addition, empirical work (Philippe et al., 1996; Baker and DeSalle, 1997; Olmstead et al., 1998; Bjorkland, 1999; Ka ̈llersjo ̈ et al., 1999) has
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 BAKER ET AL.—MOLECULAR SYSTEMATICS OF DIOPSIDS 89
+ demonstrated that, despite indications of high divergences and saturation, rapidly changing molecular data still contain substantial phylogenetic signal. Overall, the utility of rapidly evolving data types needs to be examined in greater detail with a wide array of measures to determine whether a consistent pattern of unreliability emerges. The diversity of the diopsid data set provides several instances for this type of comparison between fasterand slower-evolving characters.
+MATERIAL AND METHODS
+Taxa
+Currently »150 described diopsid species are grouped in 13 different genera (Steyskal, 1972; Feijen, 1984, 1989), although 7 of these genera contain only one or a few species. Estimates of undescribed taxa suggest that the eventual number of species within the family will exceed 200 (Feijen, 1989). For our analysis, molecular sequence data were collected for 33 diopsid species and two outgroup taxa (Table 1). The choice of taxa was limited by our ability to obtain fresh specimens. Representatives from each of the six major genera except Diopsina were included, although sampling is skewed toward Diasemopsis: of the »40 species currently recognized in Diasemopsis (Feijen, 1989), 15 were included in this study, whereas Diopsis contains >60 described species, of which only 4 were sampled. Two Teloglabrus species from the family Centrioncidae were used as outgroup taxa. Originally included within the family Diopsidae (Shillito, 1950; Hennig, 1958), these 􏱎ies were placed in a separate family by Feijen (1983, 1989). In his analysis, a clade that included both the Centrioncidae and Syringogastridae was designated as the sister taxon of the Diopsidae. Recent character data from egg morphology (Meier and Hilger, 2000), however, contradict the monophyly of Centrioncidae and Syringogastridae and instead place the Centrioncidae alone as sister to the Diopsidae.
+DNA Extraction and Sequencing
+Molecular character information was generated from six different gene regions that included fragments from three mitochondrial genes—cytochrome oxidase II (CO II), 12S ribosomal RNA (12S), and 16S ribosomal RNA (16S)—and three nuclear genes—elongation
+factor-1® (EF-1®), wingless, and white (Table 2). After alignment, these data comprised a total of 3236 characters, of which 966 were phylogenetically informative.
+Genomic DNA was extracted from single 􏱎ies according to the preparation outlined by Vogler et al. (1993) but with an additional phenol puri􏱍cation and only a single ethanol–ammonium acetate precipitation. Primers for the various gene regions are listed in Table 2. For EF-1® and wingless, several diopsid-speci􏱍c internal sequencing primers were made. Polymerase chain reaction (PCR) protocols differed for the various gene fragments. The protocol for the three mitochondrial genes was generally 94±C for 1 min, 50±C for 1 min, and 72±C for 1 min, for a total of 33 cycles. The conditions for EF-1® were 94±C for 1 min, 55±C for 1.5 min, and 72±C for 2 min, for a total of 35 cycles; for wingless and white these were 94±C for 1 min, 47±C for 1 min, and 72±C for 1.5 min, for 35 cycles. PCR products were cleaned with Geneclean kits (BIO 101) and were sequenced by using either a manual dideoxy doublestranded protocol with 35 S or automated sequencing with a 􏱎uorescent dideoxy terminator mix on the ABI 373 and 377 automated sequencers. Automated sequence outputs were imported into Sequencher (Gene Codes Corp., Ann Arbor, MI) for visual inspection of the chromatographs and alignment of the various sequencing reactions for a given taxon and a given gene into a single sequence. Because of the limited quantity and poor quality of the Teloglabrus milleri genomic DNA, we were unable to obtain sequence data from the wingless and white gene for this outgroup taxon. Therefore, for several of the nuclear gene analyses, this taxon was excluded.
+Data Analysis
+Alignment.—The ribosomal sequences were aligned by using MALIGN 2.7 (Wheeler and Gladstein, 1994) and several gap:change costs (2:1, 4:1, 6:1, 8:1, 10:1) to identify regions of alignment stability and instability (Gatesy et al., 1994). The search parameters used included: build, score 4, alignswap, treeswap, keepaligns 100, keeptrees 100, and extragaps 1. Regions of alignment ambiguity among the different alignments were then deleted from the 􏱍nal matrix by using the cull option
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+    90
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Species Chaetodiopsis meigenii (Westwood)
+Localitya
+COII
+12S
+16S
+EF-1® AF303182
+Wingless
+White
+Cyrtodiopsis currani (Shillito)
+Cyrtodiopsis dalmanni (Wiedemann) Cyrtodiopsis quinqueguttata (Walker) Cyrtodiopsis whitei (Curran)
+Diasemopsis aethiopica (Rondani) Diasemopsis albifacies (Curran)
+Diasemopsis conjuncta (Curran)
+Diasemopsis dubia (Bigot)
+Diasemopsis elongata (Curran)
+Diasemopsis fasciata (Gray)
+Diasemopsis hirsuta (Curran)
+Diasemopsis longipedunculata (Curran) Diasemopsis munroi (Curran)
+Diasemopsis nebulosa (Curran)
+Diasemopsis obstans (Walker)
+Diasemopsis signata (Dalman)
+Diasemopsis silvatica (Eggers)
+Diasemopsis sp.M
+Diasemopsis sp.W
+Diopsis apicalis (Dalman)
+Diopsis fumipennis (Westwood)
+Diopsis gnu (Hendel)
+Diopsis longicornis (Macquart)
+Eurydiopsis argentifera (Bigot)
+Sphyracephala beccarii (Rondani) Sphyracephala bipunctipennis (Senior-White) Sphyracephala brevicornis (Say) Sphyracephala munroi (Curran)
+Teleopsis breviscopium (Rondani)
+Teleopis quadriguttata (Walker)
+Teleopsis rubicunda (Wulp)
+Teloglabrus entabenensis (Feijen)b
+Teloglabrus milleri (Feijen)b
+Trichodiopsis minuta (Se ́guy)
+Nelspruit, South Africa Chaing Mai, Thailand
+Ulu Gombak, Malaysia
+Ulu Gombak, Malaysia
+Ulu Gombak, Malaysia Pietermaritzburg, South Africa Lope, Gabon
+AF304752 AF304781 AF304782 AF304783 AF304784 AF304771 AF304758 AF304773 AF304750 AF304775 AF304754 AF304760 AF304776 AF304757 AF304774 AF304753 AF304755 AF304751 AF304756 AF304761 AF304777 AF304778 AF304779 AF304780 AF304764 AF304772 AF304770 AF304765 AF304762 AF304763 AF304768 AF304769 AF304766 AF304767 AF304759
+AF304682 AF304711 AF304712 AF304713 AF304714 AF304701 AF304688 AF304703 AF304680 AF304705 AF304684 AF304690 AF304706 AF304687 AF304704 AF304683 AF304685 AF304681 AF304686 AF304691 AF304707 AF304708 AF304709 AF304710 AF304694 AF304702 AF304700 AF304695 AF304692 AF304693 AF304698 AF304699 AF304696 AF304697 AF304689
+AF304717 AF304746 AF304747 AF304748 AF304749 AF304736 AF304723 AF304738 AF304715 AF304740 AF304719 AF304725 AF304741 AF304722 AF304739 AF304718 AF304720 AF304716 AF304721 AF304726 AF304742 AF304743 AF304744 AF304745 AF304729 AF304737 AF304735 AF304730 AF304727 AF304728 AF304733 AF304734 AF304731
+AF303211 AF303212 AF303213 AF303214 AF303201 AF303188 AF303203 AF303180 AF303205 AF303184 AF303190 AF303206 AF303187 AF303204 AF303183 AF303185 AF303181 AF303186 AF303191 AF303207 AF303208 AF303209 AF303210 AF303194 AF303202 AF303200 AF303195 AF303192 AF303193 AF303198 AF303199 AF303196
+AF304787 AF304815 AF324429c AF304817 AF304818 AF304805 AF304793 AF304807 AF304785 AF304809 AF304789 AF304795 AF304810 AF304792 AF304808 AF304788 AF304790 AF304786 AF304791 AF304796 AF304811 AF304812 AF304813 AF304814 AF304799 AF304806 AF324431d AF304800 AF304797 AF304798 AF304802 AF304803 AF324433f
+AF304821 AF304849 AF304850 AF304851 AF304852 AF304839 AF304827 AF304841 AF304819 AF304843 AF304823 AF304829 AF304844 AF304826 AF304842 AF304822 AF304824 AF304820 AF304825 AF304830 AF304845 AF304846 AF304847 AF304848 AF304833 AF304840 AF304838 AF304834 AF304831 AF324435e AF304836 AF304837 AF304835
+TABLE 1. List of 35 taxa used in the study.
+Bonjongo, Cameroon Pietermaritzburg, South Africa Lamborene, Gabon
+Limbe, Cameroon
+Bonjongo, Cameroon Bomossa, Republic of Congo Gillits, South Africa
+Mabeta, Cameroon Pietermaritzburg, South Africa Limbe, Cameroon Pietermaritzburg, South Africa Pietermaritzburg, South Africa Bomossa, Republic of Congo Pietermaritzburg, South Africa Pietermaritzburg, South Africa Mzingazi, South Africa M’Be-Bouoke, Ivory Coast
+Ulu Gombak, Malaysia Rivulets, South Africa Gombak River, Malaysia College Park, Maryland Pietermaritzburg, South Africa Ulu Langat, Malaysia
+Ulu Gombak, Malaysia
+Ulu Gombak, Malaysia Pietermaritzburg, South Africa Pietermaritzburg, South Africa Lope, Gabon
+AF304732 AF304724
+AF303197 AF303189
+AF304794
+AF304828
+a Voucher specimens are archived at AMNH molecular lab # nos. 942-1 through 942–35. Identi􏱍cations were made by Richard Baker, Sabine Hilger, and Marion Kotrba. b Outgroup taxa.
+c and AF324430.
+d and AF324432.
+e and AFF324434. f and AFF324436.
+GenBank accession no.
+
+2001 BAKER ET AL.—MOLECULAR SYSTEMATICS OF DIOPSIDS 91
+ TABLE 2. Primers used to sequence the various gene regions. All positional information refers to nucleotide location relative to Drosophila melanogaster sequence. The direction of each primer is provided with respect to the sense (S) or antisense (A) strands.
+ Gene region COII
+12S 16S
+EF-1®b
+wingless
+white
+Primer name or sequence
+A3772a
+S3291a
+A3661
+12Saia
+12Sbia
+50 -AATTTATTGCACTAATCTGCC-30a
+50 -GCTGGAATGAATGGTTGGACG-30 a 50 -TATAATTTTGGGTGTAGCCG-30
+50 -TAATCCAACATCGAGGTCGC-30 M44-1a
+M64-1
+rcM53-2
+rcM4a
+50 -TATYGCTTTRTGGAAATTCG-30 c
+50 -CTTGCTTTCACHTTGGGTG-3 0 c
+50 -GGTGTDTTGAAACCAGGTTG-3 0 c
+50 -CTTCGTGATGCATTTCAACGG-30 c
+50 -GAAATGCGNCARGARTGYAA-30 a
+50 -ACYTCRCARCACCARTGRAA-3 0 a 50-GTTAGAACWTGYTGGATGCG-30c
+50 -AYAGTGTATCACGNAATTCGG-30 c
+50 -GAATTNCGTGATACACTRTTCG-30 c
+50 -ATTYTTTTCRCAAAARCTTGG-30 c
+50 -CGYTCNACNACAATRACCTC-30 c
+50 -TGYGCNTATGTNCARCARGAYGA-30 a 50 -ACYTGNACRTAAAARTCNGCNGG-30 a
+Reference or position Brower, 1994
+Simon et al., 1994
+12727-1274 7 (S) 13270-1329 0 (A) 12923-1294 2 (S) 12946-1296 5 (A) Cho et al., 1995
+2284-230 3 (S) 2477-249 5 (S) 2869-288 9 (S) 2934-295 4 (A) 1099-1118 (S) 1756-177 5 (A) 1147-116 6 (S) 1451-147 1 (S) 1448-146 9 (A) 1597-161 7 (A) 1723-174 2 (A) 11404-11426 (S) 11975-11997 (A)
+  a Denotes primers used for PCR ampli􏱍cation.
+b The Cho et al. (1995) primers used in the present study did not contain M13 primer sites. cDiopsid speci􏱍c.
+in MALIGN. For the 12S region, culling reduced the number of characters from »305 (depending on the alignment) to 268 and for 16S from »500 to 396.
+Before an alignment of the protein-coding sequences, intron in both the wingless and white gene fragments was removed. Placement of the wingless intron for all the diopsids corresponds to the intron between the fourth and 􏱍fth exon of Drosophila melanogaster (Rijsewijk et al., 1987), which is »100– 180 bp long. Placement of the white intron in diopsids corresponds to the intron between exons 3 and 4a in Bactrocera tryoni (Bennett and Frommer, 1997), an intron that is »50–90 bp long. Because the extreme sequence divergence in these introns provided little alignment stability, they were therefore excluded from all subsequent analyses. Alignment of the proteincoding gene fragments through their amino acid sequences was performed with ClustalX (Gibson et al., 1994). The alignments of COII, EF-1®, and white were trivial because no indels were required; wingless, however,
+contains a hypervariable region corresponding to a large (»85 amino acids) insertion found in Diptera (Rijsewijk et al., 1987). The amino acids were aligned by using gap:change costs of 2:1, 5:1, 10:1, 20:1, and 30:1 and the Blosum protein cost matrix (Gibson et al., 1994). These cost parameters produced only two different alignments, which varied slightly in the placement of three small indels. To discriminate between these two alignments, we placed the hypothesized gaps into the corresponding regions of the original DNA sequences and performed a parsimony search to determine which alignment required the fewest steps. That alignment was then used in the 􏱍nal matrix (this matrix, as well as the unaligned ribosomal fragments, is available at http://research.amnh.org/molecular/ sequence.html).
+Phylogenetic analysis.—Phylogenetic trees were generated by using parsimony in PAUP¤ versions 4.0d64 and 4.0b1 (Swofford, 1998). Unless otherwise speci􏱍ed, all characters were weighted equally and all
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+92 SYSTEMATIC BIOLOGY VOL. 50
+ tree statistics were calculated with uninformative characters excluded. In most cases, heuristic searches using parsimony were performed with 100 random sequenceaddition repetitions and TBR branch swapping. Bootstrap (Felsenstein, 1985) and Bremer support (Bremer, 1998, 1994) values were used to assess branch stability. Bootstrap values were calculated in PAUP by using 1,000 replicates and excluding uninformative characters. Bremer support values were calculated by constructing constraint commands speci􏱍c to each node on the most-parsimonious tree and then searching for the most-parsimonious tree that did not contain that node. Data decisiveness (DD) values (Goloboff, 1991) were also calculated for the various separate and combined analyses, providing an index that serves as a measure of the information content of a given data set. This index is calculated as DD D (Sø¡ S)=(Sø¡ M) where Sø is the average length of a given data matrix on all possible trees, S is the actual length of the most-parsimonious tree (or trees), and M is the minimum possible number of steps for that matrix. In this case, the average length of each matrix was determined by using 100,000 random trees generated in PAUP.
+Incongruence among the various gene regions was assessed by calculating incongruence length differences (ILD; Mickevich and Farris, 1981) and testing for their statistical signi􏱍cance by using a permutation procedure (Farris et al., 1994, 1995). This test was implemented by using the ARNIE program in the Random Cladistics Software Package (Siddall, 1995). All tests initially performed 999 permutations and used the Hennig86searchcommands“mh”and“bb¤” (Farris, 1988). Because numerous permutation tests were conducted, statistical significance was assessed by using Bonferronicorrected critical values (Rice, 1989). Given the low alpha values required in these tests, the use of 999 permutations was insuf􏱍cient to determine their signi􏱍cance accurately. Therefore, for comparisons that were initially signi􏱍cantly different at the 0.05 level, an additional 9,000 permutations were conducted for the Bonferroni-corrected test. ILD tests were performed on several different combinations of data from the entire matrix. In some cases, ILD tests were performed with certain nodes constrained to be present; for these runs, the partition homogeneity test in PAUP¤ was used.
+Partitioned Bremer support (PBS) was used to evaluate the contribution of a given partition to the overall support of a combined analysis (Baker and DeSalle, 1997). This index divides the Bremer support at each node of the most-parsimonious tree from a combined analysis among the various partitions used to construct that tree. A partition can have either a positive or negative score at any given node, and the sum of the PBS scores of all the partitions for a given node will always equal the original Bremer support for that node. For the diopsid data, PBS scores were calculated as described in Baker and DeSalle (1997) and Baker et al. (1998). Twenty random sequence-addition repititions were performed for each constrained search.
+RESULTS
+Combined and Separate Analyses of Gene Regions
+Trees.—A combined analysis of all the data weighted equally resulted in a single most-parsimonious cladogram (Fig. 1). Statistics for this tree are presented in Table 3. In general, relationships on the tree are very strongly supported. Of the 32 nodes, 21 are characterized by bootstrap values  ̧95 and by Bremer support values  ̧10. Three of the 􏱍ve major genera sampled are monophyletic. Teleopsis is paraphyletic and imbedded within Cyrtodiopsis. A monophyletic Teleopsis requires an additional seven steps on the tree, and a monophyletic Cyrtodiopsis requires an additional 12 steps. For both of these genera to be monophyletic, 21 extra steps are required. This tree also addresses the status of the monotypic genera ChaetodiopsisandTrichodiopsis.Originallydescribed by Seguy (1955), these genera were considered dubious by Shillito (1971), who designated as synonymous with Diasemopsis. Feijen (1984) considered them both to be valid genera, but the phylogeny presented here 􏱍rmly embeds them within the genus Diasemopsis.
+The most important systematic result concerns the placement of Sphyracephala. Flies in this genus have eye stalks substantially smaller (about one-third to one-half of their body length) than those of other genera so their position within the family is critical for polarizing eye stalk evolution. On the basis of their eye span and a few other plesiomorphic morphological features, this genus has been presumed to be basal within the family
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 BAKER ET AL.—MOLECULAR SYSTEMATICS OF DIOPSIDS 93
+  FIGURE 1. The single most-parsimonious cladogram from a combined analysis of all the data equally weighted. Tree statistics are presented in Table 3. Circled numbers at each node are reference numbers used throughout the text. Bootstrap values are provided above each node and Bremer support values below each node.
+(Hennig, 1965; Shillitto, 1971; Feijen, 1989). The molecular data both corroborate the monophyly of the genus (bootstrap value of 100 and Bremer support value of 27) and support its basal placement on the tree (96 and 14, respectively).
+Analysis of the various gene partitions making up the combined matrix reveals various degrees of disagreement. Figure 2
+presents the strict consensus tree for each gene analyzed separately, for the mitochondrial genes alone, and for the nuclear genes alone. Results for these analyses vary in terms of topology, degree of resolution, and amount of homoplasy (Table 3). None of the eight trees is identical to any other or to the combined analysis tree. COII is most striking in its topological differences with the
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+94 SYSTEMATIC BIOLOGY VOL. 50
+ TABLE 3. Tree statistics for various separate and combined analyses. chars. D characters, PI D phylogenetically informative, MP trees D number of most parsimonious trees, L D length, CI D consistency index, RI D retention index, DD D data decisiveness. Resolved nodes D the number of nodes resolved in a strict consensus of that partition’s most-parsimonious trees, Congruent nodes D the number of these resolved nodes that also appear in the combined analysis topology (Fig. 1). PBS values for each data partition were summed across all the nodes on the combined analysis tree and standardized by the minimum possible number of steps for each partition.
+ Data Total partition chars.
+COII 436 12S 268 16S 396 Mitochondrial 1100 EF-1® 1031 wingless 619 white 486 Nucleara 2136 Combined 3236
+PI MP
+chars. trees L
+164 8 827 56 756 212 79 72 304
+299 12 1384 224 24 758 257 16 786 186 6 758 662 6 2272 966 1 3724
+Resolved Congruent Summed PBS/
+CI
+.304 .392 .391 .327 .406 .533 .426 .449 .404
+RI DD
+.472 .377 .588 .535 .668 .605 .525 .443 .712 .656 .812 .776 .719 .664 .755 .702 .684 .625
+nodes nodes PBS
+24 14 45.2 8 8 30.7 26 20 48.1
+23 20 124 21 19 137 27 25 294 28 25 165 29 29 596 32 — 720
+min. steps
+0.180 0.369 0.405 0.274 0.445 0.702 0.511 0.565 0.479
+  a Excluding Teloglabrus milleri.
+other genes. Despite relatively good resolution (only eight most-parsimonious trees), the COII gene is characterized by the most homoplasy (CI D 0.304, RI D 0.472), the least decisiveness (DD D 0.377), and the largest number of nodes (10) in con􏱎ict with the combined analysis topology. 12S alone simply has very little structure, showing 756 equally most-parsimonious trees and only eight resolved nodes, although all of these nodes are consistent with the combined analysis tree. In contrast, the three nuclearprotein coding genes exhibit less homoplasy, more resolution, and greater topological similarities with each other and with the total evidence tree than do the mitochondrial genes (Table 3).
+Incongruence.—The disagreement among data partitions can be examined more accurately by using incongruence measures, that account for the amount of nodal support present in each data set. An ILD test of all six gene partitions combined indicates significant heterogeneity among the data sets (ILD D 79 extra steps, P < 0:0005). Table 4 provides ILD values for all pairwise gene comparisons and for each gene examined against all the rest of the genes combined. Similar to the results presented for an analysis of Hawaiian Drosophila (Baker and DeSalle, 1997), the ILD matrix is asymmetrical with respect to the signi􏱍cance values of the various scores. In this case, neither 12S or 16S is significantly different from COII, but they are signi􏱍cantly different from each other. This pattern necessitates that any separation made among data partitions will require either the
+combination of genes that are signi􏱍cantly different from one another or the separation of genes that are not signi􏱍cantly different from each other. Despite this asymmetry, the ILD matrix clearly indicates that the COII and 12S genes are signi􏱍cantly more problematic that the others. Both genes are signi􏱍cantly different from each of the nuclear genes (although the EF-1® vs. COII comparison is not signi􏱍cant when Bonferroni-corrected values are used) and from the rest of the data combined. In contrast, pairwise comparisons among the other four genes show no significant heterogeneity, and none of these genes differs signi􏱍cantly from the rest of the data combined. Because of the in􏱎uence of 12S and COII genes, the ILD test between the mitochondrial data and nuclear data also indicates signi􏱍cant incongruence (ILD D 24, P < 0:001).
+Partitioned Bremer support.—Given the clear differences in signal among the gene partitions, it is important to assess how these data sets interact in a combined analysis. PBS provides one means for examining this by partitioning the Bremer support at each node among the various genes. Just as all the Bremer support on a tree can be added to obtain a “total support” score (Ka ̈llersjo ̈ et al., 1992), PBS scores can be summed across the entire tree to evaluate the contribution of a given partition to the overall support of the tree. Summed PBS scores are presented in Table 3. To control for differences in size between each data partition, we divided the PBS values by the minimum possible number of steps for each partition. The
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 BAKER ET AL.—MOLECULAR SYSTEMATICS OF DIOPSIDS 95
+  FIGURE 2. Strict consensus trees from separate analysis of each gene region and from the mitochondrial genes combined and the nuclear genes combined. Tree statistics are presented in Table 3. Bremer support values are provided above each node. (Continued)
+minimum number of steps provides a slightly more appropriate means of standardization than the number of phylogenetically informative characters because the former accounts for the fact that characters
+with several states (e.g., four bases) have more potential information than characters with fewer states (e.g., present/absent). Overall, the PBS data provide additional evidence against the phylogenetic utility of
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+96 SYSTEMATIC BIOLOGY VOL. 50
+  FIGURE 2.
+the mitochondrial data relative to the nuclear data. The standardized values for the mitochondrial data are about half that of the nuclear data; in the most extreme comparisons, wingless contributes more than threefold, and white and EF-1® more than twofold, the amount of support provided by COII.
+(Continued).
+Phylogenetic Effects of Fasterand Slower-Evolving Characters
+Nuclear genes.—Besides the dichotomy between mitochondrial and nuclear genes, we focused on the behavior of the more rapidly evolving nucleotides within each category.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 BAKER ET AL.—MOLECULAR SYSTEMATICS OF DIOPSIDS 97
+ TABLE 4. Incongruence length differences for each pairwise gene combination. The upper half of the matrix provides the number of extra steps that result from combining partitions, and the lower half provides the extra steps standardized by the length of the most-parsimonious tree or trees for each pairwise combined analysis. The Total column gives ILD values for each gene compared with the rest of the data combined.
+ Genes
+COII 12S
+16S EF-1® wingless white
+COII
+— 0.023 0.017 0.012 0.015 0.015
+12S 16S 24 19
+— 21¤¤
+0.039 — 9 11 9 11
+EF-1® wingless white Total 20¤ 24¤¤ 24¤¤ 32¤¤
+ 0.023 0.008 0.022 0.01 0.019 0.008
+— 0.005 0.005
+8 8 14 — 4 12 0.003 — 2
+23¤¤ 22¤¤ 18¤¤ 20¤¤
+ ¤Statistically signi􏱍cant (P < 0:01); ¤¤Statistically signi􏱍cant when using a Bonferroni-corrected alpha value.
+As expected, for the nuclear genes, third position sites for each codon are clearly changing at a faster rate than are the 􏱍rst or second position sites. The uncorrected pairwise divergence for third positions (range, from 0.008 to 0.45) is much greater than for 􏱍rst and second positions (0 to 0.07). This divergence is most extreme in the white gene, which exhibits some third position pairwise differences >60%. A plot of sequence divergence for the nuclear third positions relative to 􏱍rst and second positions (Fig. 3) suggests saturation in the third position data. The asymptotic point on this graph roughly corresponds to intergeneric comparisons. Given the rapid evolution of these characters, they have been generally assumed to provide little useful phylogenetic information, particularly for more distantly related taxa (Swofford et al., 1996). Therefore, their phylogenetic utility deserves investigation.
+FIGURE 3. Uncorrected pairwise sequence divergence plot of third position nucleotide sites relative to 􏱍rst and second nucleotide sites for the three nuclear genes combined.
+The third position data are generally more homoplasious than the 􏱍rst and second positions, but the topologies between the two partitions are very similar. Both analyses produced three most-parsimonious trees (Table 5), and a comparison of the strict consensus for each partition reveals topological con􏱎ict at only 􏱍ve nodes. ILD tests indicate no heterogeneity between the partitions (ILD D 8, P > 0:05). Furthermore, the inclusion of third position sites reduces the incongruence among the three different genes. When 􏱍rst and second positions are analyzed alone, the ILD score among the three genes is 21 extra steps, but this drops to 15 when third positions are added to the analysis. Permutation tests indicate that,
+TABLE 5. Tree statistics, incongruence values, and support measures for the 􏱍rst/second position sites and the third position sites of the three nuclear genes. MP trees D number of most-parsimonious trees, L D length, CI D consistency index, RI D retention index, DD D data decisiveness. CAtree nodes, the number of nodes based on a strict consensus of all the MP trees that are consistent with the combined analysis topology (Fig. 1). ILD, the number of extra steps that result from combining the three nuclear genes by using only the characters from the designated codon positions. PBS values are presented both as summed across the entire combined analysis topology and as standardized by the minimum possible number of steps for each partition.
+    MPtree
+L
+CA tree nodes CI
+RI
+DD
+ILD
+Summed PBS PBS/min. steps
+Codon position
+Ist and 2nd 3rd
+3 3
+370 1,896
+23 28 0.608 0.431 0.866 0.725 0.837 0.676
+21 14 155 441
+0.689 0.540
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+98 SYSTEMATIC BIOLOGY VOL. 50
+ compared across genes, the 􏱍rst and second position sites alone exhibit signi􏱍cant con􏱎ict (ILD D 21, P < 0:001), but there is no heterogeneity for the thirds alone (ILD D 14, P > 0:6) or for all the codon positions combined (ILD D 15, P > 0:3). PBS scores (Table 5) also indicate that third position characters have substantial phylogenetic signal. The summed PBS values for the third position data account for well over half (441 of 720) of all the support for the combined analysis tree. Relative to their abundance, the informative 􏱍rst and second positions provide slightly more support than third positions but as a class of data, third positions contain substantially more information.
+In addition, the distribution of the support provided by third position sites is not limited to the tips of the tree. The divergence plot suggests that thirds become saturated across intergeneric comparisons. If these plots accurately re􏱎ect the utility of the third position data, then these characters should be disproportionately informative for more closely related taxa. To evaluate this possibility, we divided all the nodes on the combined analysis tree (Fig. 1) into three categories: (1) between sister species nodes; (2) within genera nodes but not including sister species nodes (Teleopsis and Cyrtodiopsis were treated as a single genus for this analysis); and (3) generic and intergeneric nodes. Because sequence data for wingless and white were not available for T. milleri, the ingroup–outgroup node (no. 32 in Fig. 1) was excluded from this analysis. Of the 31 nodes on the combined analysis tree, 11 fell into the 􏱍rst category, 13 into the second, and 7 into the third. PBS scores for the third position sites were then summed across all of the nodes in each of the three categories (Table 6). Overall, the third positions pro-
+TABLE 6. Distribution of support on combined analysis tree provided by nuclear third position sites. Node categories: (1) most derived nodes, (2) intermediate nodes, and (3) most basal nodes (see text for speci􏱍c de􏱍nitions). PBS values are presented both as summed across all the nodes in a given category and as standardized by the number of nodes in that category. The percentage of total support (resulting from all the data) across these node categories that is provided by the third position data is also shown.
+vided more information per node for the basal intergeneric nodes than for the other two node categories. In addition, although relative to the rest of the data, they provide the most support for the relationships in node category 2 (91% of all the support), they still provide the majority of support for the basal relationships (56% of all the support).
+Mitochondrial genes.—Given the relatively poor performance of the mitochondrial data in general and the COII and 12S genes specifically, we examined the extent to which this result depended on the presence of rapidly evolving characters. For a combined COII and 12S data set, we used a series of weighting schemes traditionally used for reducing the effect of faster-evolving characters and then assessed the results relative to those for the combined analysis topology. The plots in Figures 4a and 4b show that the divergences between more closely related taxa for COII and 12S are characterized by relatively more transitions and third position changes. This pattern suggests that these characters are evolving at a faster rate than transversions or 􏱍rst and second position sites, a result consistent with several other studies (Brown et al., 1982; DeSalle et al., 1987; HelmBychowski and Cracraft, 1993; Bloomer and Crowe, 1998). The plots of third position sites and transitions relative to total divergences (Fig. 4c and 4d) also suggest these data are more saturated. Therefore, the different weighting schemes used the following options: (1) all characters weighted equally, (2) transitions for 12s and for COII third positions eliminated, (3) all transitions eliminated, (4) COII third positions eliminated, or (5) all transitions and COII third positions eliminated.
+Table 7 shows the length of the mostparsimonious trees obtained by using the above weighting schemes and also the number of extra steps required to 􏱍t the weighted data to the combined analysis topology (Fig. 1). Despite some increases in consistency, Table 7 indicates that using the various weighting schemes adds little improvement in congruence and, moreover, when standardized by the length of the weighted analyses, the equally weighted data exhibit the least incongruence with the combined analysis topology. Likewise, the equally weighted data have the greatest topological similarity (18 shared nodes) to the combined analysis tree.
+ Node category
+1
+2
+3 7 134 19.1 56
+No. of nodes
+Summed
+PBS PBS/node
+% support
+ 11 13
+165.7 15.1 141.3 10.9
+57 91
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 BAKER ET AL.—MOLECULAR SYSTEMATICS OF DIOPSIDS 99
+  FIGURE 4. Relative substitution rates of transitions and transversions for the COII and 12S genes and of third positions and 􏱍rst and second positions for the COII gene. (a) Third position/􏱍rst and second position ratio for the COII gene only. (b) Transition/transversion ratio for the COII and 12S genes combined. (c) Third position substitutions for the COII gene. (d) Transition substitutions for the COII and 12S genes combined. All substitution patterns are plotted relative to the total sequence divergence of the six genes combined.
+TABLE 7. The effect of various weighting schemes on the congruence of a combined COII and 12S data set to the combined analysis topology (Fig. 1). 3rd, COII third codon position sites; ti, transitions; L, length; CI, consistency index. CAtree nodes, the number of nodes obtained on a strict consensus of all the most-parsimonious trees that also appear in the combined analysis topology (Fig. 1). CAtree ILD, the increase in length that results from constraining the weighted data to the combined analysis topology.
+DISCUSSION
+Combined Analysis and Incongruence
+The importance of using multiple, diverse sources of phylogenetic information has become increasingly clear as numerous studies using several data partitions have consistently demonstrated the limited ability of single data partitions to accurately reconstruct phylogeny (Cao et al., 1994; Olmstead and Sweere, 1994; Cummings et al., 1995; Baker and DeSalle, 1997). The combined and separate analyses of the six different gene regions presented here reinforce this point and reveal the limitations of even a relatively large data set. With 966 phylogenetically informative
+ Weighting scheme
+All equal
+No 3rd ti, 12S ti No ti
+No 3rd
+No 3rd, ti
+L CI
+1063 0.314 629 0.273 526 0.257 364 0.393 163 0.393
+CA CAtree nodes ILD
+18 28 16 28 13 27 15 23
+9 23
+ILD/L
+0.026 0.045 0.051 0.063 0.141
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+100 SYSTEMATIC BIOLOGY VOL. 50
+ characters, the diopsid matrix is certainly larger than most studies and the fact that the resulting tree is completely resolved with relatively strong support at many nodes is encouraging. However, several nodes are still characterized by weak support, suggesting that certain relationships may be inherently dif􏱍cult to resolve.
+As the amount of data in systematic studies increases, issues relating to their analysis become more complex and controversial. Speci􏱍cally, the issue of data combinability has received the most attention, and both theoretical (Bull et al., 1993; Eernisse and Kluge, 1993; Miyamoto and Fitch, 1995; Nixon and Carpenter, 1996; DeSalle and Brower, 1997)
+TABLE 8. The decrease in ILD scores between the COII/12S data partition and the nuclear genes/16S data partition when each of the nodes on the combined analysis tree is enforced as a constraint on the tree searches of each partition (node numbers correspond to those in Fig. 2). The ILD is 28 extra steps when no constraints are enforced. A plus sign indicates that the node occurs in the consensus trees of both partitions. These are the only nodes in agreement between the two trees.
+Node no. ILD score decrease
+1 0C 21 30C 40 5 0C 60 7 0C 8 0C
+  and empirical (Baker and DeSalle, 1997; 9 1
+10 0C 11 0C 12 3 13 8
+Cunningham, 1997a, 1997b; Miller et al.,
+1997; Davis et al., 1998) aspects of this debate
+have now been extensively treated in the lit-
+erature. Substantial con􏱎ict among data par14 0C
+titions has become a prevalent phenomenon (Baker and DeSalle, 1997; Cunningham, 1997a, 1997b; Baker et al., 1998; Baum et al., 1998; O’Grady et al., 1998; Remsen and
+15 10 16 0C 17 5 18 2 19 1
+DeSalle, 1998), and it has emerged again in 20 2
+21 1 22 0C 23 3 24 0C
+this study. Some have argued (Bull et al.,
+1993; Huelsenbeck et al., 1994) that signi􏱍-
+cantly con􏱎icting data should not be com-
+bined in a single analysis because that might 25 0C
+increase the chances of obtaining misleading results; they contend being conservative in such situations, is more appropriate.
+In this study, however, we found that separating data seems more likely to obscure relationships than either to clarify or to be appropriately conservative about them. Analyzing separately a data partition including both COII and 12S showed either con􏱎ict or ambiguity at 15 nodes when compared with the topology derived from the rest of the data (Table 8). This ambiguity does not, however, accurately re􏱎ect the disagreement between the two partitions. Table 8 shows the decrease in the incongruence length difference (from a value of 28). Nodes 13, 15, and 17 stand out as being particularly critical to this incongruence, and when these three nodes are constrained together, a permutation test between the partitions no longer indicates heterogeneity (ILD D 12, p > 0:05). This local incongruence has been documented in other studies (Mason-Gamer and Kellogg, 1996; Poe, 1996; Baker and DeSalle, 1997) and has important implications for the combinability of data. First, by separating the two partitions
+26 0C 27 3 28 1 29 0C 30 0C 31 0C 32 0C
+in this case, we are left with an ambiguous and conservative statement concerning 15 nodes on the tree when, in fact, only 3 of these nodes are actually problematic. This ambiguity is particularly misleading for 􏱍ve of the nodes, which are very strongly supported (bootstraps between 85 and 100, Bremer supports between 11 and 45) on the combined analysis tree. Second, besides being overly conservative about some con􏱎icting relationships, separating data prevents unique resolution of previously unsupported relationships that are not the source of the incongruence between partitions. The relationships among eight Diasemopsis species (nodes 1–7 in Fig. 1) are only partly resolved in both separate analyses (COII/12S and 16S/nuclear) but become fully resolved when the data are combined. A similar
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 BAKER ET AL.—MOLECULAR SYSTEMATICS OF DIOPSIDS 101
+ relationship between local incongruence and the effects of separating and combining data has been demonstrated in a study of Hawaiian Drosophila relationships (Baker and DeSalle, 1997).
+Phylogenetic Utility of Different Classes of Molecular Data
+Nuclear versus mitochondrial genes.—By virtually any measure used, the utility of the nuclear genes is substantially superior to that of the mitochondrial genes in this study. The nuclear genes exhibit more resolution, less homoplasy, and greater support than do the mitochondrial genes (Table 3). In addition to their consistently weaker signal, mitochondrial genes exhibit more variation in signal among the different partitions. The incongruence analyses demonstrate that nearly all of the con􏱎ict among partitions in the combined matrix results from mitochondrial genes. This is especially interesting considering that mitochondrial genes are linked and therefore necessarily share the same history. Moore (1995) suggested that disagreement among nuclear genes should be more common than among mitochondrial genes because of the increased probability of lineage sorting for these loci, but that prediction is clearly contradicted by the genes collected for this study. Overall, the differential utility of protein-coding nuclear genes is an important result, given the number of systematic studies based exclusively on mitochondrial data. Whether this discrepancy is limited to these genes and this group of 􏱎ies or represents a more general pattern requires additional studies using several genes of each type.
+Faster-evolving versus slower-evolving characters.—Saturation plots and divergence estimates have become a prominent feature of molecular systematics (Mindell et al., 1996; Murphy and Collier, 1997; Bloomer and Crowe, 1998; Danforth and Ji, 1998; Martin and Bermingham, 1998), and many of the characters examined in this study show evidence of rapid evolution and saturation. Given this type of evidence, downweighting or eliminating the in􏱎uence of such characters in the 􏱍nal analysis is not unusual. Whether this strategy consistently improves phylogenetic estimation, however, is increasingly being questioned (Olmstead
+et al., 1998; Yang, 1998; Ka ̈llersjo ̈ et al., 1999; Wenzel and Siddall, 1999).
+For the nuclear genes in this study, the majority of intergeneric divergences of the wingless and white third position sites are >50%, a value that exceeds many of the recommended divergence cutoffs for phylogenetic usefulness (Hillis and Dixon, 1991; Friedlander et al., 1994; Graybeal, 1994). The incongruence and support analyses, however, indicate these data still contain substantial phylogenetic signal. Including the third position sites reduces the con􏱎ict among the three nuclear genes and contributes more support to the combined analysis tree than all the rest of the data combined. Moreover, this support is present at all levels of the tree. Similar conclusions can be drawn from our analysis of the faster-evolving characters in the COII and 12S regions. The divergence plots suggest substantial saturation in these genes, particularly for the transitions and third position sites. All of the weighting strategies examined for this partition, however, reduce the concordance of the COII/12S data to the rest of the information in terms of both topological similarities (identical nodes) and ILD measures. Given the overall strength of the relationships on the combined analysis tree and the fact that, ultimately, the best measure of accuracy for a phylogenetic hypothesis involves topological similarity and support, the information from PBS and ILD measures should take precedent over less direct indices of data quality, such as divergences and homoplasy.
+Overall, the evidence presented in this paper suggests that saturation curves have limited value, especially as a criterion for downweighting or eliminating data. The consistent reliability of divergence estimates as a means for assessing phylogenetic utility is contradicted by the improved phylogenetic estimation obtained by including the more rapidly evolving characters. Recent theoretical analysis (Yang, 1998) has also questioned the utility of saturation plots. He concluded that “pairwise sequence divergence is not a good indicator of the information content in the data, as the accuracy depends on not only the amount of evolution, but also on how many branches the tree has and how the substitutions are distributed among the branches in the tree.” Results from the present study, as well as those from Olmstead et al. (1998),
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+102 SYSTEMATIC BIOLOGY VOL. 50
+ Bjorkland (1999), and Ka ̈llersjo ̈ et al. (1999), provide an important empirical demonstration of this contention.
+A primary reason why saturation curves and divergence estimates can be misleading is that they fail to distinguish between variation among sites and variation within a site (Olmstead et al., 1998; Bjorkland, 1999). Rate differences between partitions may be caused by variations in the proportions of informative sites; for instance, a class of data may exhibit high divergences even if it evolves at a relatively slow rate as long as most of its sites are free to vary. In this way, single-measure divergence estimates may markedly overestimate the difference in substitution rates among classes of data. For the nuclear genes in this study, the comparison of the percent divergences for different codon sites suggests substantial rate differences. Nearly all (98.5%) of the pairwise species comparisons show third position divergence estimates at least 􏱍vefold those of the corresponding 􏱍rst and second position divergence estimates. Comparisons of the average substitution rate for each informative site, however, indicate that third positions are changing at »1.6 times the rate of 􏱍rst and second positions. Therefore, although more third position sites were variable, the average rate of change for each character was similar between codon positions.
+In addition, saturation curves do not account for the number of taxa sampled in a study. In this study, the saturation curves would have shown a similar asymptote if 5 rather than 17 Diasemopsis species had been included. Trees that contain more taxa, however, can accommodate more rapid substitution rates because there are more branches among which to distribute these changes (Yang, 1998). In fact, Yang’s simulations predicted that for an analysis of 50 taxa, the optimal substitution rate per site is between two and four. The rate of change for the nuclear third position sites (3.76) 􏱍ts within this limit. Saturation curves also misrepresent the weight of the divergence evidence relative to the nodes on the tree. Relationships between the more divergent taxa provide the majority of points in a saturation curve but relate to only a few nodes on the tree. For instance, comparisons between intergeneric diopsid species represent 71.6% of the data points in the saturation 􏱍gures, but intergeneric nodes on the tree are only 12.5% of the total.
+Arguments concerning the utility of rapidly-evolving and saturated data are part of a larger debate within molecular systematics that concerns the distinction between data quality and data suf􏱍ciency. Most attempts to improve the overall quality of phylogenetic information require reducing the overall weight of this information. Theoretical analyses have attempted to identify the critical points in data quality/data suf􏱍ciency space where misleading results will occur (Felsenstein, 1978; Bull et al., 1993; Givnish and Sytsma, 1997), but these studies often focus on limited examples, such as four taxon statements or extreme rate differences. Therefore, it is critical to explore the tradeoffs between data quality and data suf􏱍ciency with actual empirical systems. This approach has recently been adopted by several authors (Mindell and Thacker, 1996; Russo et al., 1996; Cunningham, 1997a, 1997b; Allard et al., 1999), who are using the entire mitochondrial genome of various vertebrate taxa. These studies represent an important 􏱍rst step but have generally produced ambiguous results. More importantly, these studies fail to capture accurately the real limitations of most systematic studies. As yet, the literature contains few studies in which one could remove all third positions or transitions and still be left with >100 (and up to 400) phylogenetically informative characters to resolve <15 species. In most cases, the effects of data removal or downweighting will be much more acute than in the studies that use the entire mitochondrion. In an attempt to examine these issues with a more realistic data set, we have identi􏱍ed here three different instances in which the utility of including a certain type of data might be viewed as questionable. They are combining the COII and 12S genes with the rest of the data, including the third position sites from the nuclear genes, and including the fasterevolving characters from the COII and 12S genes. In all three cases, the results strongly suggest that phylogenetic estimation is improved by including this information within an equally weighted framework.
+ACKNOWLEDGMENTS
+We thank John Wenzel, John Gatesy, Patrick O’Grady, Paul Goldstein, and Robert Hanner for helpful comments on the manuscript. We thank two anonymous reviewers, Andy Brower, and Richard Olmstead for suggesting signi􏱍cant improvements to an earlier
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012

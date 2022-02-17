@@ -1,0 +1,186 @@
+Molecular Phylogenetics and Evolution 62 (2012) 673–680
+     Contents lists available at SciVerse ScienceDirect Molecular Phylogenetics and Evolution journal homepage: www.elsevier.com/locate/ympev
+ Molecular phylogenetics unveils the ancient evolutionary origins of the enigmatic fairy armadillos
+Frédéric Delsuc a,⇑, Mariella Superina b, Marie-Ka Tilak a, Emmanuel J.P. Douzery a, Alexandre Hassanin c,d
+a Institut des Sciences de l’Evolution, UMR 5554-CNRS-IRD, Université Montpellier II, Place Eugène Bataillon, Montpellier, France
+b Laboratorio de Endocrinología de la Fauna Silvestre, IMBECU, CCT Mendoza-CONICET, Mendoza, Argentina
+c Origine, Structure et Evolution de la Biodiversité, UMR 7205-CNRS, Département Systématique et Evolution, Muséum National d’Histoire Naturelle, Paris, France d Service de Systématique Moléculaire, Muséum National d’Histoire Naturelle, Paris, France
+ article info
+Article history:
+Received 2 September 2011
+Revised 3 November 2011
+Accepted 14 November 2011 Available online 23 November 2011
+Keywords:
+Xenarthra
+Molecular systematics Molecular dating Taxonomy Biogeography Conservation
+1. Introduction
+The two living species of fairy armadillos or pichiciegos, Chlamyphorus truncatus (pink fairy armadillo) and Calyptophractus retusus (Chacoan fairy armadillo), are probably among the most elusive mammals. Encounters with these small and enigmatic creatures are extremely rare and incidental. The two species have allopatric distributions (Fig. 1A). Ch. truncatus is endemic to the provinces of central Argentina, where it occurs in dry grasslands and on sandy plains, whereas Ca. retusus is distributed in the Gran Chaco region spanning central and southeastern Bolivia, western Paraguay, and extreme northern Argentina
+Abbreviations: MT-RNR1, mitochondrially encoded 12S RNA; MT-ND1, mitochondrially encoded NADH dehydrogenase 1; BRCA1, breast cancer 1 early onset; VWF, von Willebrand factor; Mya, million years ago; Myr, million years; bp, base pairs; ML, Maximum likelihood; MCMCMC, Metropolis-coupled Markov Chain Monte Carlo.
+⇑ Corresponding author. Address: Institut des Sciences de l’Evolution, UMR5554CNRS-IRD, Case courier 64, Université Montpellier II, Place Eugène Bataillon, 34095 Montpellier Cedex 05, France. Fax: +33 4 67 14 36 10.
+E-mail address: frederic.delsuc@univ-montp2.fr (F. Delsuc).
+1055-7903/$ see front matter Ó 2011 Elsevier Inc. All rights reserved. doi:10.1016/j.ympev.2011.11.008
+abstract
+Fairy armadillos or pichiciegos (Xenarthra, Dasypodidae) are among the most elusive mammals. Due to their subterranean and nocturnal lifestyle, their basic biology and evolutionary history remain virtually unknown. Two distinct species with allopatric distributions are recognized: Chlamyphorus truncatus is restricted to central Argentina, while Calyptophractus retusus occurs in the Gran Chaco of Argentina, Paraguay, and Bolivia. To test their monophyly and resolve their phylogenetic affinities within armadillos, we obtained sequence data from modern and museum specimens for two mitochondrial genes (12S RNA [MT-RNR1] and NADH dehydrogenase 1 [MT-ND1]) and two nuclear exons (breast cancer 1 early onset exon 11 [BRCA1] and von Willebrand factor exon 28 [VWF]). Phylogenetic analyses provided a reference phylogeny and timescale for living xenarthran genera. Our results reveal monophyletic pichiciegos as members of a major armadillo subfamily (Chlamyphorinae). Their strictly fossorial lifestyle probably evolved as a response to the Oligocene aridification that occurred in South America after their divergence from Tolypeutinae around 32 million years ago (Mya). The ancient divergence date (􏰁17 Mya) for separation between the two species supports their taxonomic classification into distinct genera. The synchronicity with Middle Miocene marine incursions along the Paraná river basin suggests a vicariant origin for pichiciegos by the disruption of their ancestral range. Their phylogenetic distinctiveness and rarity in the wild argue in favor of high conservation priority.
+   Ó 2011 Elsevier Inc. All rights reserved.
+(Abba and Superina, 2010). These cryptic animals are subterranean and strictly nocturnal, but the details of their ecology and population biology remain unknown (Cuéllar, 2001; Meritt, 1985; Superina, 2006). As a consequence, both species are classified as Data Deficient by the IUCN Red List of Threatened Species (Abba and Superina, 2010), which means that insufficient scientific information is available to realistically assess their conservation status. Field observations suggest, however, worrying population declines for the pink fairy armadillo (Superina, 2006), while the Chacoan fairy armadillo is affected by habitat loss and persecuted by indigenous people who believe it to be an omen of bad luck, foretelling an impending death in the family (Abba and Superina, 2010; Cuéllar, 2001).
+The two fairy armadillo species are the smallest armadillos (both weigh around 100 g) and share similar morphological adaptations to the subterranean lifestyle, such as enlarged digging claws, reduced eyes, a fusiform body shape, and a vertical, rounded plate that caps the rump (Fig. 1B and C). Marked differences exist nonetheless, notably in the carapace structure, the shape of the cephalic shield and ears, and the shape of the tail. Chacoan fairy armadillos bear a dorsal carapace that is fully attached to the skin
+   
+674 F. Delsuc et al. / Molecular Phylogenetics and Evolution 62 (2012) 673–680
+ Fig. 1. Geographic ranges and comparative morphologies of the two living species of fairy armadillos. (a) Updated distribution maps of the Chacoan fairy armadillo Calyptophractus retusus (light gray) and the pink fairy armadillo Chlamyphorus truncatus (hashed lines) modified from Abba and Superina (2010); (b) Calyptophractus retusus Burmeister, 1863; (c) Chlamyphorus truncatus Harlan, 1825. A major distinction between the two species is the dorsal carapace, which is only attached to the body through a thin membrane along the spine in Chlamyphorus, whereas it is fully attached to the body in Calyptophractus, as in other armadillos. Note the spatula-shaped tail and the welldefined head shield in Chlamyphorus, and the rounded tail and visible ears in Calyptophractus. Drawings by Laurence Meslin. ÓMeslin-CNRS2009.
+ A.
+B. Calyptophractus retusus Burmeister, 1863
+ Calyptophractus retusus
+Chlamyphorus truncatus
+1cm
+C. Chlamyphorus truncatus Harlan, 1825
+1cm
+   of the back and head. Their rounded head shield is wider than in the other species and extends laterally and ventrally to the level of the eye. Their ears are visible, and the tip of their tail is rounded. In contrast to this, the carapace of pink fairy armadillos is only united to the body by a thin membrane on the dorsal mid-line. A row of large osseous plates (osteoderms or scutes) at the posterior margin of their well-defined head shield gives the appearance of a distinct ‘‘step’’ in the dorsal surface. Their ears are not visible, and the extremity of their tail is characteristically flattened and diamondshaped (Wetzel, 1985a,b).
+These similarities and differences have been the cause of taxonomic debate for decades. The pink fairy armadillo has been named Ch. truncatus since its first description by Harlan in 1825 (Harlan, 1825). The Chacoan fairy armadillo, initially described as a second species of the genus Chlamyphorus by Burmeister in 1863 (Burmeister, 1863), was later re-assigned to the genera Burmeisteria by Gray in 1865 (Gray, 1865) and Calyptophractus by Fitzinger in 1871 (Fitzinger, 1871). Moeller (1968) proposed retaining Burmeisteria in order to reflect the degree of morphological differentiation between the two species. However, Burmeisteria was previously attributed to a trilobite (Salter, 1865), and the appropriate name should thus be Calyptophractus if a separate genus name were deemed advisable (Wetzel, 1985a). Wetzel, the longstanding taxonomic authority for xenarthrans, did not advocate such a generic distinction, arguing that the two species represented different evolutionary points on one generic gradient of fossorial adaptation (Wetzel, 1985a). The generic distinction has, nevertheless, been retained in recent classifications (Gardner, 2005; IUCN, 2011).
+The morphological distinctiveness of pichiciegos within armadillos also prompted Wetzel (1985a) to assign them to a separate subfamily, Chlamyphorinae. Cladistic analyses of morphological characters including either Ch. truncatus (Billet et al., 2011; Engelmann, 1985; Patterson et al., 1989) or Ca. retusus (Gaudin and Wible, 2006) specimens suggest that fairy armadillos are closely related to the
+Euphractinae. The first molecular phylogenetic studies using both mitochondrial and nuclear genes divided armadillos into three major lineages corresponding to the currently accepted subfamilies Dasypodinae (Dasypus), Tolypeutinae (Tolypeutes, Priodontes, and Cabassous), and Euphractinae (Euphractus, Chaetophractus, and Zaedyus), with a close relationship between Tolypeutinae and Euphractinae (Delsuc et al., 2002, 2003). However, these early studies did not include fairy armadillo representatives. The only molecular study that included a Chlamyphorinae species (Ch. truncatus) found strong support for a sister-group relationship between the pink fairy armadillo and Tolypeutinae based on phylogenetic analyses of non-coding regions flanking retroposed elements (Möller-Krull et al., 2007).
+Because the two species of fairy armadillo have never been included in morphological or molecular phylogenies, their monophyly remains untested and their relationships among armadillos are unsettled. Two alternative hypotheses may explain the morphological similarities between fairy armadillos: either they reflect common ancestry – and illustrate the monophyly of both species – or they are the result of adaptive convergence due to the extreme selective pressures induced by their subterranean lifestyle, which would suggest a diphyletic origin of the two species. To examine the possibility of convergent evolution in fairy armadillos, we used ancient DNA techniques on a Ca. retusus museum specimen to obtain the first molecular data for this species. We sequenced candidate markers already used to unveil xenarthran evolutionary relationships, i.e., two mitochondrial genes (12S RNA [MT-RNR1] and NADH dehydrogenase 1 [MT-ND1]) and two nuclear exons (breast cancer 1 early onset exon 11 [BRCA1] and von Willebrand factor exon 28 [VWF]) (Delsuc et al., 2003). Phylogenetic and molecular dating analyses of these data, including new sequences from the other fairy armadillo (Ch. truncatus), resolves their evolutionary origins and provides a phylogenetic framework and time scale including all extant xenarthran genera. The data presented here will further inform conservation decisions for these enigmatic species.
+
+2. Materials and methods
+2.1. Biological samples
+The Chacoan fairy armadillo (Ca. retusus) sample was obtained from the Bavarian State Collection of Zoology (Munich, Germany). Internal tissue was kindly sampled by Michael Hiermeier from the body of an individual entirely preserved in ethanol. The animal had been collected in 1974 by the Bolivian naturalist Pr. Noel Kempff Mercado. The museum specimen is labeled as Burmeisteria r. retusa and comes from the locus typicus for the species (Santa Cruz de la Sierra, Santa Cruz, Bolivia).
+The pink fairy armadillo (Ch. truncatus) sample was collected by Dr. Mariella Superina from a dead individual found near Corral de Lorca, Mendoza, Argentina (34° 420 S, 67° 030 W). We also used tissue samples from the following xenarthran species to complete the dataset: Zaedyus pichiy (San Rafael, Mendoza, Argentina), Chaetophractus villosus (Buenos Aires, Argentina), and Bradypus tridactylus (Petit-Saut, French Guiana). All samples have been deposited in the Mammalian Tissue Collection of the Institut des Sciences de l’Evolution de Montpellier (Catzeflis, 1991).
+2.2. DNA extraction, amplification, and sequencing
+In order to limit the risks of DNA cross-contamination, the old Ca. retusus specimen was extracted following ancient DNA protocols at the Service de Systématique Moléculaire of the Muséum National d’Histoire Naturelle in Paris, where no other xenarthrans had previously been analyzed. Because the DNA extracted from the Ca. retusus museum specimen was highly degraded, we amplified the two complete mitochondrial (MT-RNR1 and MT-ND1) genes and parts of the two nuclear genes (BRCA1 exon 11 and VWF exon 28) in a total of 31 short overlapping fragments of 150–250 bp each (Supplementary material). PCR conditions were as follows: 3 min at 94 °C; 30 cycles of denaturation/annealing/ extension with 45 s at 94 °C for denaturation, 1 min at 45–55 °C for annealing, and 1 min at 72 °C for extension; and 10 min at 72 °C.
+All modern samples, including the Ch. truncatus specimen, were extracted in Montpellier from tissues preserved in 95% ethanol using the QIAampDNA extraction kit. The four genes were PCRamplified for Ch. truncatus following the protocols previously described by Delsuc et al. (2002) for nuclear genes and Delsuc et al. (2003) for mitochondrial genes. PCR products were purified from 1% agarose gels using Amicon Ultrafree-DA columns (Millipore). All purified PCR products were sequenced using the Big Dye Terminator cycle sequencing kit on an Applied ABI Prism 3130 XL automatic sequencer through technical facilities offered by the Structure Fédérative de Recherche ‘‘Montpellier Environnement Biodiversité’’. The mitochondrial MT-RNR1 gene of Z. pichiy was resequenced from a different individual with new primers (R1/S2x) because the previously obtained sequence (Accession number AJ505827 in Delsuc et al., 2003) appeared to be a pseudogene from nuclear origin (Numt). New sequences of the VWF exon 28 were obtained for B. tridactylus and Cha. villosus because the available sequences contained missing data and ambiguous nucleotides. The 11 new sequences obtained in this study have been deposited in the EMBL Nucleotide Sequence Database under accession numbers FR821704 to FR821714.
+2.3. Dataset assembly
+We constructed a data set including 9 marsupial outgroups and 51 placentals representing the phylogenetic diversity of mammals for which sequences were publically available for the two mito-
+chondrial and the two nuclear genes. The complete taxa list with associated sequence accession numbers is provided (Supplementary material).
+Sequences from the three protein-coding genes were aligned based on their amino-acid translations using a custom modified version of the transAlign script (Bininda-Emonds, 2005) taking advantage of the MAFTT multiple alignment program (Katoh et al., 2005). Sequences from the mitochondrial MT-RNR1 gene were manually aligned according to the secondary structure, using the mammalian reference alignment provided in the OGRe database (Jameson et al., 2003). Selection of unambiguously aligned sites was performed on each individual dataset with the program Gblocks (Castresana, 2000) using default settings with the codon option for the three protein-coding genes. The final concatenation of the four genes contained 5265 unambiguously aligned sites, of which 3576 were parsimony-informative. The final dataset has been deposited in the Dryad digital repository, doi:10.5061/ dryad.38m4p.
+2.4. Phylogenetic analyses
+The best-fitting models of sequence evolution for each gene and the final concatenation were determined based on the Akaike Information Criterion (AIC) as implemented in jModelTest (Posada, 2008) using PHYML (Guindon and Gascuel, 2003) for calculating likelihood scores. The GTR + C8 + I model for MT-RNR1, MT-ND1, and BRCA1, and the GTR + C8 model for VWF and the four-gene concatenation were selected. ML reconstruction was conducted on the concatenated dataset using PAUP⁄ 4.0b10 (Swofford, 2002). ML heuristic searches were conducted with PAUP⁄ using Tree Bisection Reconnection (TBR) branch-swapping on a Neighbor-Joining (NJ) starting tree using the best-fitting GTR + C8 model and associated parameters estimated by jModelTest. ML bootstrap values (BPML) were computed by repeating the same ML heuristic search on 100 pseudo-replicates.
+Bayesian phylogenetic inference under a mixed model partitioned by gene was conducted using MrBayes 3.1.2 (Ronquist and Huelsenbeck, 2003). For each partition, we used the best-fitting model selected by jModelTest. Two independent runs of four incrementally-heated MCMCMC starting from a random tree were performed. MCMCMC were run for 5,000,000 generations with trees and associated model parameters being sampled every 1000 generations. The initial 1000 trees in each run were discarded as burn-in samples. The 50% majority-rule Bayesian consensus tree and the associated posterior probabilities (PPPART) were then computed from the 8000 combined trees sampled in the two independent runs.
+We also performed Bayesian phylogenetic analyses under the CAT-GTR-C4 mixture model using PhyloBayes 3.3 (Lartillot et al., 2009). Four independent MCMC starting from a random tree were run for 10,000 cycles (1,000,000 generations) with trees and associated model parameters being sampled every cycle. The initial 5000 trees sampled in each MCMC run were discarded as burnin. The 50% majority-rule Bayesian consensus tree and the associated posterior probabilities (PPCAT) were then computed from the remaining combined 20,000 trees.
+2.5. Molecular datings
+Bayesian estimation of divergence times under a rate-autocorrelated relaxed-clock model was conducted using the Multidistribute package (Thorne and Kishino, 2002). The log-normal rate-autocorrelated model was chosen to relax the molecular clock assumption because of its ability to reasonably fit various data sets (Lepage et al., 2007). We used the previously estimated ML topology to estimate divergence dates under partitioned model allowing each gene to evolve
+F. Delsuc et al. / Molecular Phylogenetics and Evolution 62 (2012) 673–680 675
+
+676 F. Delsuc et al. / Molecular Phylogenetics and Evolution 62 (2012) 673–680
+at its own rate under the F84 + C4 model. However, three alternative placental rooting schemes (Afrotheria first, Xenarthra first, and Afrotheria + Xenarthra) were tested because the probable occurrence of ancient lineage sorting events currently does not allow the root to be confidently placed (Churakov et al., 2009; Nishihara et al., 2009). In each case, the Rtrate prior was calculated from the median root to tip length of the ML topology. Following Springer et al. (2003), we set the Root prior at 105 Myr. We calibrated our tree with the 17 fossil constraints proposed by Benton et al. (2009) that were compatible with our topologies (Supplementary material). The MCMC were sampled 10,000 times every 100 cycles after an initial burn-in stage of 100,000 cycles to estimate the posterior distribution of divergence dates.
+3. Results and discussion
+3.1. Phylogenetic affinities and systematics of fairy armadillos
+By assembling short overlapping PCR-fragments, we were able to obtain 1928 bp of mitochondrial DNA and 3083 bp of nuclear DNA from the Ca. retusus museum specimen, which represent the first molecular data ever sequenced from this rare species. Phylogenetic analyses of the four concatenated genes using maximum likelihood and Bayesian inference provided a robustly supported picture for the 60 assessed mammalian taxa (Fig. 2). This phylogenetic tree showed placental mammal relationships that are fully in line with the four-way division revealed by classical multigene analyses, with strong support obtained for Afrotheria, Xenarthra, Euarchontoglires, Laurasiatheria, and Boreoeutheria (Amrine-Madsen et al., 2003; Delsuc et al., 2002; Murphy et al., 2001; Springer et al., 2007). Most other placental inter-ordinal relationships were also strongly supported, with the notable exceptions of the position of the root and the relationships among Laurasiatherian orders, where ancient incomplete lineage sorting events probably obscured the phylogenetic signal (Churakov et al., 2009; Murphy et al., 2007; Nishihara et al., 2009; Prasad et al., 2008).
+Phylogenetic relationships within Xenarthra (Fig. 2) were fully congruent with previous studies (Delsuc et al., 2002, 2003; Möller-Krull et al., 2007). All nodes appeared strongly supported by all methods, except for two persisting irresolutions within Tolypeutinae and Euphractinae (Delsuc et al., 2003; Möller-Krull et al., 2007). We found maximum support values (BPML = 100; PPPART = 1.0; PPCAT = 1.0) for the monophyly of the two species of fairy armadillos. We also obtained strong statistical support (BPML = 89; PPPART = 0.99; PPCAT = 0.93) for a sister-group relationship between monophyletic fairy armadillos and Tolypeutinae. This result provides an independent corroboration of the results previously obtained from analyses of retroposon flanking sequences that only included Ch. truncatus (Möller-Krull et al., 2007). It does, however, contradict cladistic analyses of morphological characters that placed fairy armadillos either nested within Euphractinae (Engelmann, 1985; Gaudin and Wible, 2006; Patterson et al., 1989) or as a sister-group to Euphractinae (Billet et al., 2011; Gaudin and Wible, 2006). Our molecular results cast doubt on the phylogenetic informativeness of morphological characters, such as the derived concave configuration of the posterior part of the palate that had been interpreted as a derived feature supporting euphractine affinities for fairy armadillos (Billet et al., 2011). As stated by Gaudin and Wible (2006), the highly distinctive morphological features of fairy armadillos mainly represent autapomorphies that are related to their subterranean lifestyle and render difficult their phylogenetic placement based on morphological data. The close phylogenetic relationship between fairy armadillos and tolypeutines revealed by molecular data strongly suggests that the specialized digging habits shared by these two armadillo groups traces back to a single ancestral event, which would also explain their similarities in humeral form (Milne et al., 2009). Both fairy
+armadillos and tolypeutines have extremely well-developed front claws, which are proportionally much larger than in other armadillos and are used to rip open anthills and termite mounds or to dig burrows – the exception being Tolypeutes matacus, whose cursorial habits derive from specialized digging ancestors (Milne et al., 2009). The fully subterranean lifestyle observed in pichiciegos is, however, unique among armadillos and points to a single adaptation that most likely occurred along the ancestral branch leading to the two fairy armadillo species.
+The divergence date estimates obtained for xenarthrans in a Bayesian relaxed molecular clock framework (Fig. 3 and Table 1) appeared, on average, slightly older but are still compatible with previous estimates that were based exclusively on nuclear gene sequences (Delsuc et al., 2004). Results reported in table 1 show that the uncertainty on the position of Xenarthra within placentals affects divergence time estimates only in a very minor way. Indeed, dating estimates vary between the three different rooting schemes by less than one standard deviation, with the Atlantogenata rooting producing the youngest estimates, as previously observed by Murphy et al. (2007). Our results place the split between the two species of fairy armadillos around 17 ± 3 Mya. This estimation is more than twice as old as the divergence time inferred for the diversification of the three euphractine genera (Euphractus, Chaetophractus, and Zaedyus) that occurred 7–8 Mya (Fig. 3 and Table 1). This fairly ancient estimate therefore supports the classification of fairy armadillos into two distinct genera: Chlamyphorus for the pink fairy armadillo and Calyptophractus for the Chacoan fairy armadillo, as advocated by Gardner (2005).
+According to our results, the separation of fairy armadillos and their tolypeutine sister-group dates back to about 32 ± 3 Mya. This ancient date highlights the phylogenetic distinctiveness of fairy armadillos, which in fact represent a major lineage of armadillos within the family Dasypodidae. Fairy armadillos are currently classified within the subfamily Euphractinae in Gardner’s (2005) reference taxonomy. However, the antiquity and uniqueness of pichiciegos among armadillos would be best accounted for by retaining the subfamily Chlamyphorinae, as originally proposed by Wetzel (1985a).
+3.2. Biogeography and the evolutionary origins of fairy armadillos
+We have previously shown that the evolutionary history of xenarthrans was significantly influenced by major paleoenvironmental changes that occurred during the Tertiary of South America (Delsuc et al., 2004). Our new phylogenetic and dating analyses show that Euphractinae, Chlamyphorinae, and Tolypeutinae separated from each other shortly after the Eocene–Oligocene transition (Fig. 3). This places the origin of the strictly fossorial lifestyle along the ancestral branch of Chlamyphorinae, after their separation from Tolypeutinae around 32 Mya. This period was marked by a global glacial optimum corresponding to the formation of a concrete Antarctic ice sheet and the establishment of the circum-Antarctic oceanic current (Zachos et al., 2001). At the same time, and following intense episodes of tectonic uplift, the Andes became the main relief of South America’s west coast, creating a rain shadow that significantly shaped the continent’s climate (Marshall and Sempere, 1993). All these events greatly influenced atmospheric circulation and induced a drastic general cooling that drove the development of more arid and drier habitats (Pascual and Ortiz Jaureguizar, 1990). The evolution of a purely subterranean lifestyle in the fairy armadillo ancestral lineage, sometime between 32 and 17 Mya, may have been promoted by these paleoenvironmental changes that led to the development of arid ecosystems in southern South America. A similar scenario has been postulated to explain the evolution of fossoriality in the South America-endemic spiny rats of the family Echimyidae (Galewski et al., 2005).
+
+F. Delsuc et al. / Molecular Phylogenetics and Evolution 62 (2012) 673–680
+677
+ Didelphis Monodelphis
+Caenolestes Rhyncholestes
+Dromiciops V ombatus
+                Echymipera Dasyurus
+Notoryctes
+    Loxodonta Trichechus
+Procavia
+            94/1.0/0.97 93/1.0/0.99
+Chrysochloridae
+Orycteropus
+Bradypus Choloepus
+Cyclopes Myrmecophaga
+Tamandua Dasypus kappleri
+Dasypus novemcinctus Euphractus
+Chaetophractus Zaedyus
+Calyptophractus Chlamyphorus
+Priodontes Cabassous
+Tolypeutes
+Cynocephalus
+Echinops Elephantulus
+                                                 88/1.0/0.70
+89/0.99/0.93
+71/0.98/0.61
+93/1.0/0.99
+   Tupaia Homo
+    Lemur
+Pteropus Rhinolophus
+Pipistrellus Artibeus
+Mystacina Manis
+Canis Felis
+Equus
+Rhinocerotidae
+Lama Sus
+Bos Hippopotamus
+Delphinidae
+Megaptera
+   Ochotona Oryctolagus
+Sciurus
+T alpa
+Hystricognathi
+Mus Rattus
+Crocidura Erinaceus
+                                  82/0.99/0.95
+                     0.06 substitution/site
+78/1.0/0.98
+96/1.0/0.98
+      Fig. 2. Phylogenetic relationships of fairy armadillos. Maximum likelihood phylogram for 60 mammalian taxa obtained from phylogenetic analyses of the concatenation of the four genes under the GTR + C8 model. Xenarthrans are shown in bold, including fairy armadillos for which illustrations are presented. Values at nodes indicate maximum likelihood bootstrap percentages (BPML) and Bayesian posterior probabilities obtained under a four-gene partitioned model (PPPART) and under the CAT-GTR-C4 mixture model (PPCAT), respectively. Circles indicate nodes with BPML P 95, and PPPART and PPCAT P 0.95. Nodes without support values received BPML 6 70.
+The separation between the two fairy armadillo species occurred about 17 ± 3 Mya, around the transition between Early and Middle Miocene (Fig. 3). This period corresponded to the end
+of a warm period, culminating with a Middle Miocene climatic optimum (17–15 Mya) that was followed by gradual cooling and reestablishment of a major ice-sheet on Antarctica (Zachos et al.,
+
+ 678
+F. Delsuc et al. / Molecular Phylogenetics and Evolution 62 (2012) 673–680
+Cretaceous
+65 ± 3
+Paleocene Eocene Oligocene Miocene
+ELEMLELEML
+Pli. P.
+Cretaceous
+Paleocene Eocene Oligocene Miocene
+65 61 55 49 37 34 29 24 16 11 5 2 0 Myr
+65615549 37342924 1611520
+58 ± 4
+Sloths
+44 ± 4 A nteaters
+41± 4 A rmadillos
+Dasypodidae
+27 ± 3
+Dasypodinae
+Bradypus
+Choloepus
+Cyclopes
+Tamandua Myrmecophaga Dasypus novemcinctus Dasypus kappleri Euphractus Chaetophractus Zaedyus Calyptophractus Chlamyphorus Priodontes
+Cabassous Tolypeutes
+33 ± 4 32 ± 3
+Chlamyphorinae
+17 ± 3 Tolypeutinae
+23 ± 3 ELEMLELEML
+25 ± 3
+Euphractinae
+8 ± 2 7±1
+Fig. 3. Molecular timetree for all extant xenarthran genera. The Bayesian chronogram was obtained using a rate-autocorrelated relaxed molecular clock model on the concatenation of the four genes (MT-RNR1, MT-ND1, BRCA1, and VWF) using the maximum likelihood topology. Time scale is expressed in million years. The mean age estimate ± one standard error is given for all nodes. Gray rectangles indicate the uncertainty on age estimates based on 95% credibility intervals. Vertical lines delimitate the main geological periods. E = Early, M = Middle, L = Late; Pli. = Pliocene, P. = Pleistocene.
+Table 1
+Divergence time estimates for fairy armadillos and the major xenarthran nodes inferred using a Bayesian relaxed molecular clock model under three rooting alternatives of the placental tree: Atlantogenata (Afrotheria + Xenarthra), Exafroplacentalia (Afrotheria first), and Epitheria (Xenarthra first). Mean posterior estimates, associated standard errors, and 95% credibility intervals are expressed in million years.
+Calyptophractus/Chlamyphorus Chlamyphorinae/Tolypeutinae Tolypeutinae
+Euphractinae
+Cingulata (armadillos) Vermilingua (anteaters) Folivora (sloths)
+Pilosa (anteaters + sloths) Xenarthra
+Atlantogenata rooting
+16.7 ± 2.6 [11.9–22.2] 31.7 ± 3.4 [25.3–38.6] 25.1 ± 3.1 [33.8–48.1] 8.0 ± 1.5 [5.3–11.2] 40.8 ± 3.7 [33.8–48.1] 43.8 ± 3.6 [37.0–51.1] 27.3 ± 3.3 [21.2–34.1] 57.9 ± 3.5 [51.1–65.0] 65.4 ± 3.4 [58.9–72.3]
+Exafroplacentalia rooting
+17.3 ± 2.7 [12.4–23.0] 32.9 ± 3.6 [26.3–40.2] 26.1 ± 3.2 [20.2–32.9] 8.3 ± 1.6 [5.5–11.8] 42.3 ± 3.8 [35.1–50.0] 45.5 ± 3.7 [38.4–52.8] 28.3 ± 3.4 [22.0–35.2] 60.1 ± 3.6 [53.1–67.2] 67.8 ± 3.4 [12.5–74.7]
+Epitheria rooting
+17.9 ± 2.8 [12.7–23.8] 33.9 ± 3.7 [27.1–41.5] 27.0 ± 3.3 [20.9–33.8] 8.6 ± 1.6 [5.7–12.1] 43.6 ± 3.9 [36.1–51.6] 46.6 ± 3.8 [39.2–54.1] 29.1 ± 3.5 [22.3–36.2] 61.4 ± 3.7 [54.2–68.6] 69.2 ± 3.5 [62.5–76.2]
+2001). In southern South America, this global cooling trend translated into a period of aridification that led to the formation of major deserts by 10 Mya (Graham, 2011). The Middle Miocene was, however, also a time of globally high sea levels (Haq et al., 1987), with significant marine incursions penetrating deeply into continental South America (Hoorn et al., 1995; Lovejoy et al., 1998). In southern South America, these marine transgressive events occurred along the Paraná river basin, forming the so-called Paranense sea that covered most of the Chaco-Paraná basin depression and eastern Patagonia in Argentina 15–13 Mya (Hernandez et al., 2005). These Miocene marine transgressions have been hypothesized to have played a key role in shaping the evolutionary history of South American river dolphins (Hamilton et al., 2001). Our dating results for the separation between the two species of fairy
+armadillos around 17 Mya coincide well with the first Middle Miocene marine incursions along the Paraná river basin. In addition, the present-day allopatric distributions of the two fairy armadillo species north and south of the Paraná river basin supports that Middle Miocene marine incursions probably acted as a vicariant agent in the diversification of pichiciegos by disrupting their ancestral range. This hypothetical scenario could be tested by paleontological data, which are currently lacking for fairy armadillos unfortunately.
+3.3. Phylogenetic distinctiveness and conservation of fairy armadillos
+Our results provide the first comprehensive phylogenetic framework and timescale encompassing all xenarthran genera.
+13 ± 2
+11 ± 2
+Pli. P.
+
+Following the concept of phylogenetic diversity (Faith, 1992), these data may be used to guide conservation decisions for xenarthran species. Recent developments of the concept have proposed to combine phylogenetic diversity with extinction risk in order to identify Evolutionarily Distinct and Globally Endangered (EDGE) species (Isaac et al., 2007). Furthermore, Cadotte and Davies (2010) proposed to combine evolutionary distinctiveness with geographical rarity to inform conservation decisions. In practice, however, conservation status and evolutionary distinctiveness seem to be rarely taken into account when deciding where to invest species conservation money. Indeed, most conservation efforts are being focused on a small number of well-studied, charismatic species that live in the developed world, whereas most endangered species are found in the tropics and are both poorly known and uncharismatic (Sitas et al., 2009).
+The conservation status of the two species of fairy armadillos has recently been re-assessed for the IUCN Red List of Threatened Species, and both have been classified as Data Deficient due to the lack of scientific information (Abba and Superina, 2010). Both are, however, restricted to very specific habitat types that are subjected to ongoing habitat loss and degradation, and the population size of Ca. retusus has probably declined in the order of 20–25% over the past 10 years (Abba and Superina, 2010). The two species therefore remain priorities for further survey work, which may well lead to their listing in a threatened category. Our results reveal fairy armadillos as representatives of a major armadillo lineage that warrants taxonomic distinction at the subfamily level (Chlamyphorinae). Following the method developed by Minh et al. (2006) on the dated phylogenetic tree presented in Fig. 3, we estimate that fairy armadillos represent 22.5% of the phylogenetic diversity of Dasypodidae at the genus level. Their extinction would represent the loss of 12.5% of the total xenarthran generic phylogenetic diversity. Their evolutionary distinctiveness, combined with their rarity, restricted geographic range, and ongoing threats make the fairy armadillo species good candidates for soon becoming ‘‘species on the EDGE’’ (Isaac et al., 2007) that require urgent conservation attention. We hope the new phylogenetic data presented here will be helpful to further inform conservation decisions and increase awareness about these enigmatic animals.
+Acknowledgments
+We would like to dedicate this paper to the memory of Pr. Noel Kempff Mercado (1924–1986), a pioneering Bolivian conservationist who collected the Ca. retusus specimen used in our study and was killed by drug dealers in what is now the UNESCO world heritage site Parque Nacional Noel Kempff Mercado. This work would not have been possible without the help of the following individuals and institutions who assisted us in obtaining tissue samples: Carlos E. Borghi (Universidad Nacional de San Juan, Argentina), Gerhard Haszprunar and Michael Hiermeier (The Bavarian State Collection of Zoology, Munich, Germany), Guillermo Ferraris, Guillermo Lemus, Erika Taube, and François Catzeflis. Laurence Meslin is warmly thanked for her drawings of fairy armadillos. The associate editor Carey Krajewski and an anonymous reviewer are thanked for their comments. This work was supported by grants from the British Systematics Association, the Centre National de la Recherche Scientifique (PEPS-INSB-2010), and the Scientific Council of Université Montpellier 2 (CS-UM2-2010). Data used in this work were partly produced through technical facilities of the SFR ‘‘Montpellier Environnement Biodiversité’’ and phylogenetic analyses benefited from the ISEM computing cluster. This is contribution ISEM 2011-149 of the Institut des Sciences de l’Evolution de Montpellier (UMR 5554 – CNRS).
+Appendix A. Supplementary material
+Supplementary data associated with this article can be found, in the online version, at doi:10.1016/j.ympev.2011.11.008.
+References
+F. Delsuc et al. / Molecular Phylogenetics and Evolution 62 (2012) 673–680 679
+
+680 F. Delsuc et al. / Molecular Phylogenetics and Evolution 62 (2012) 673–680

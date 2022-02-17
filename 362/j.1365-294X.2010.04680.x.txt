@@ -1,0 +1,304 @@
+   Molecular Ecology (2010) 19, 2739–2753 doi: 10.1111/j.1365-294X.2010.04680.x
+Is local adaptation in Mimulus guttatus caused by trade-offs at individual loci?
+M. C. HALL,* D. B. LOWRY†‡ and J. H. WILLIS†‡
+*Department of Molecular and Cell Biology, Energy Biosciences Institute, 545 Life Sciences Addition, University of CaliforniaBerkeley, Berkeley, CA 94720-3200, USA, †Department of Biology, Box 90338, Duke University, Durham, NC 27707, USA, ‡University Program in Genetics and Genomics, Box 3565 Duke University Medical Center, Durham, NC 27710, USA
+Abstract
+Local adaptation is considered to be the result of fitness trade-offs for particular phenotypes across different habitats. However, it is unclear whether such phenotypic trade-offs exist at the level of individual genetic loci. Local adaptation could arise from trade-offs of alternative alleles at individual loci or by complementary sets of loci with different fitness effects of alleles in one habitat but selective neutrality in the alternative habitat. To evaluate the genome-wide basis of local adaptation, we performed a fieldbased quantitative trait locus (QTL) mapping experiment on recombinant inbred lines (RILs) created from coastal perennial and inland annual races of the yellow monkeyflower (Mimulus guttatus) grown reciprocally in native parental habitats. Overall, we detected 19 QTLs affecting one or more of 16 traits measured in two environments, most of small effect. We identified 15 additional QTL effects at two previously identified candidate QTLs [DIVERGENCE (DIV)]. Significant QTL by environment interactions were detected at the DIV loci, which was largely attributable to genotypic differences at a single field site. We found no detectable evidence for trade-offs for any one component of fitness, although DIV2 showed a trade-off involving different fitness traits between sites, suggesting that local adaptation is largely controlled by non-overlapping loci. This is surprising for an outcrosser, implying that reduced gene flow prevents the evolution of individuals adapted to multiple environments. We also determined that native genotypes were not uniformly adaptive, possibly reflecting fixed mutational load in one of the populations.
+Keywords: genetic trade-offs, local adaptation, Mimulus, quantitative trait locus mapping, reciprocal transplant
+Received 7 December 2009; revision received 20 April 2010; accepted 21 April 2010
+ Introduction
+It is thought that much of the phenotypic divergence among populations within a species can be attributed to local adaptation to different ecological conditions (Dobzhansky 1951). While there is ample evidence for local adaptation among natural populations (reviewed by Schluter 2000; Kawecki & Ebert 2004; Hereford 2009), little is known about the fitness effects of particular loci across complex natural habitats. Local adaptation is widely considered to be the result of fitness trade-offs
+Correspondence: Megan C. Hall, E-mail: mhall45@berkeley.edu Fax: 510-486-4909
+of particular phenotypes across habitats (Futuyma & Moreno 1988; Thompson 1994). However, it is unclear whether or not such trade-offs exist at the level of the genetic locus. Local adaptation could theoretically arise from allelic trade-offs at individual loci (i.e. antagonistic pleiotropy), with alleles in their native habitat having higher fitness than foreign alleles (Hedrick 1986; Linhart & Grant 1996; Kawecki & Ebert 2004; Roff & Fairbairn 2007). Alternatively, local adaptation could be caused by multiple independent loci, where native alleles at some loci are favoured over non-native alleles in one habitat and these alleles are selectively equivalent in the alternate habitat (i.e. conditional neutrality). Organismal level trade-offs could still occur however if other loci
+Ó 2010 Blackwell Publishing Ltd
+
+2740 M. C. HALL, D. B. LOWRY and J. H. WILLIS
+show the opposite pattern across habitats (Weinig et al. 2003; Verhoeven et al. 2004; Gardner & Latta 2006; Lowry et al. 2009). This latter pattern might only be expected to occur between populations linked by little or no migration, as even modest rates of gene flow and recombination would be expected to facilitate the homogenization of the populations, with fixation of the conditionally beneficial alleles.
+Coastal perennial and inland annual ecological races of the yellow monkeyflower, Mimulus guttatus, are an ideal system to study the genetic basis of local adaptation. Previous studies have consistently shown that coastal and inland populations of M. guttatus are locally adapted to their respective habitats through a suite of phenotypic differences (Hall & Willis 2006; Lowry et al. 2008, 2009). Inland annual populations are locally adapted through early flowering to escape the onset of summer seasonal drought, whereas the more slowly growing perennials transplanted into inland habitats die before flowering (Hall & Willis 2006; Lowry et al. 2008). Persistent summer fog and lower temperatures along the Pacific Ocean allow coastal populations to grow to a much larger size before flowering than transplanted annual plants, ultimately resulting in substantially greater seed set in the first year and survival over multiple years (Hall & Willis 2006; Lowry et al. 2008). While coastal perennials can persist over at least several years, they face other stresses, such as oceanic salt spray, to which they are also locally adapted (Lowry et al. 2008, 2009). Previously, we found that three known salt tolerance quantitative trait loci (QTLs) have locally adapted fitness effects in coastal habitats, while there is no difference in fitness between genotypes at these loci at inland habitats (Lowry et al. 2009). However, local adaptation in this system involves more traits than salt tolerance (Hall & Willis 2006; Lowry et al. 2008).
+In order to evaluate the genome-wide basis of local adaptation between these ecological races and to determine whether previously identified large effect, highly pleiotropic QTLs are involved, we combined a reciprocal transplant experiment with QTL mapping using genetically diverse hybrid recombinant inbred lines (RILs) created from an annual parent originating from Iron Mountain in Oregon’s western Cascades (IM) and a perennial parent from Oregon Dunes National Recreation Area along the Pacific coast (DUN). First we ask, what is the genetic architecture of phenotypic and fitness traits across habitats and genetic backgrounds? For example, are native alleles locally adaptive? We have clear evidence from a previous reciprocal transplant study that the parents of the RILs are, indeed, locally adapted, yet we have little understanding of whether many genes contribute to local adaptation and whether or not local alleles are always favoured. Second, we ask
+whether there is evidence that trade-offs at individual loci can contribute to local adaptation. More specifically, our study aims to understand whether or not the same or different set of genetic loci contribute to local adaptation in the different habitats.
+Materials and methods
+Generation of experimental hybrid and parental plants
+We previously generated recombinant inbred lines (RILs) from reciprocal crosses between the inbred line IM62 (assembled whole genome sequence of this line is available at http://www.phytozome.net/mimulus) and a single outbred, field-collected DUN individual, as detailed in Hall & Willis (2006). We created RILs instead of other classes of hybrids such as F2s so that we could evaluate the performance of diverse sets of genetically identical hybrids in each environment and to map QTLs contributing to local adaptation. We initially began with 840 RILs, but most (􏰁77%) lines became extinct for random or genetic reasons due to the extended period of inbreeding, resulting in 191 RILs. Each RIL was propagated by self-fertilization and single-seedling descent for three to seven generations (depending on the line), with expected homozygosity of the final RILs averaging 96.2% and ranging from 87.5% to 99.2%. Because the RILs may suffer from inbreeding depression, we did not use them directly in the field experiments for fitness assessment. Instead, we backcrossed each RIL as the female parent to unrelated Parental Inbred Lines (PILs) derived from the IM and DUN populations (as described in detail in Hall & Willis 2006) to produce genetically uniform, outbred BC-IM and BC-DUN populations (Fig. S1, Supporting Information). These backcross populations were used for field experiments. The BC-IM and BC-DUN classes of RILs differ significantly for all traits measured in the field that were used in this study (Hall & Willis 2006), so we treat them separately for all analyses in this study.
+Reciprocal transplant design
+The experimental design and field monitoring are previously described in detail (Hall & Willis 2006). Briefly, 1146 total seedlings from BC-IM and BC-DUN classes (191 · 3 replicates · 2 BC-types) were transplanted into the Cascades (near Iron Mountain) and Dunes field sites on 31 May and 1 June 2003, respectively. On the day the first flower opened on an individual plant, we recorded the date and we measured corolla width, corolla tube length, leaf width and stem thickness. We also measured plant height, rosette diameter, total leaf number, total flower number and survival weekly until
+   Ó 2010 Blackwell Publishing Ltd
+
+plants died, into 2004 for some plants at the Dunes site. Large plant and flower size have been shown to be selectively advantageous at both sites (Hall & Willis 2006). Stolons were counted (Dunes site only) and seeds from each plant were collected and counted in year 1 (2003). Total seed production for year 2 (for those who survived to year 2) was estimated based on the number of seeds produced per flower in year 1 multiplied by the total number of flowers produced per plant in year 2. For those few individuals that only produced seeds in year 2, we used the average number of seeds produced per flower for their genotypic class (i.e. BC-DUN) to estimate their year 2 fecundity. Fitness components for individual plants included survival to flowering, total flower number, seed set, survival in year 1 and year 2 (Dunes site only) and overall fitness (k). The phenotypic traits measured contribute to lifetime fitness for these organisms and were included to represent different critical phases of the plants’ life-history. For example, in M. guttatus, large flower size has been shown to be more attractive to pollinators than small flower size (Martin 2004), thereby increasing fitness; and larger plants may be more likely to survive to reproduce in subsequent years, particularly at the Dunes site. Although many of the phenotypic traits were normally distributed, fitness traits were not (i.e. many zero values). Data transformations are not suitable for fitness characters because of the way they treat zero values.
+Because annual and perennial plants may differ in the traits that contribute to fitness, we used a composite measure of fitness to better compare each site. We estimated ki, the growth rate of a population where all individuals are equivalent to the ith individual (McGraw & Caswell 1996). At the Cascades, ki was simply equivalent to each individual plant’s fecundity in year 1 (F1), as none of the plants survived to year 2. Plants that died before setting seed were scored as k = 0. At the Dunes, because some plants survived for more than 1 year, we also scored survival until the end of year 1 (P1) where plants that lived were coded as 1 and plants that died as 0, fecundity in year one (F1), survival until the end of year 2 (P2), and fecundity in year 2 (F2) in a stage-classified population matrix A in the equation,
+nðt þ 1Þ 1⁄4 AnðtÞ; ð1Þ The population vector n(t) is
+􏰜 n1ðtÞ 􏰝
+n1⁄4 n2ðtÞ ð2Þ
+where n1 is the number of new seeds at the post-breeding census and n2 is the number of 1-year-old individu-
+als at time t. We have no estimates of seed survival or recruitment success. The projection matrix is
+􏰜FF􏰝
+A1⁄412 ð3Þ
+P1 P2
+This matrix was used to estimate the dominant eigenvalue, k, or the growth rate of a population with characteristics identical to the ith individual. We assumed that P2 was equal to zero for all plants, otherwise each plant that survived until year 2 would be immortal. We provided sample sizes for all traits measured in Table S1 (Supporting information).
+Linkage map construction
+We constructed a linkage map for this RIL population (N = 186) using JOINMAP (Stam 1993) at 189 EST markers, as explained in detail in Lowry et al. (2009). The linkage map spans 1394.4 cM Haldane and includes 14 linkage groups, which is consistent with previous mapping and cytogenetic studies of M. guttatus (Fishman et al. 2001, 2008; Hall & Willis 2005). The RILs used to create the linkage map were later-generation plants than those used for creation of BC-RILs in this experiment and genotypes were assumed to be the same.
+Quantitative trait locus mapping
+Genome-wide QTL analysis. We mapped QTLs for single traits using composite interval mapping (CIM; Zeng 1993, 1994) in QTL Cartographer v. 1.17 (Basten et al. 2002) and QTL Cartographer Windows 2.0 (Wang et al. 2005). We treated BC-IM and BC-DUN classes of plants separately in each site, for four separate QTL analyses. For each trait, the CIM procedure tested the hypothesis that a test site in an interval between adjacent markers had a QTL affecting the trait, while accounting for genetic background by using multiple regression on additional markers as cofactors. The cofactors included in each CIM model were determined by forward–backward stepwise regression, with the critical P values set at 0.05. Tests were performed at 2-cM intervals with a flanking window size of 10 cM. The LR test statistic is –2 ln(L0 ⁄ L1). Experimentwise significant levels (a = 0.05) were determined by permuting the phenotypes against the genotypes 1000 times for each trait (Churchill & Doerge 1994).
+For each QTL, genotypic values were defined as a for IM⁄IM, d for IM⁄DUN, and –a for DUN⁄DUN, where a and d are additive and dominance effects, respectively. QTL Main Effects (ME) for BC-IM are (a–d), and are (a + d) for BC-DUN. There is no standard criterion for estimating QTL effects and the magnitude of effect can
+TRADE-OFFS CAN CONTRIBUTE TO ADAPTATION IN MIMULUS 2741
+  Ó 2010 Blackwell Publishing Ltd
+
+2742 M. C. HALL, D. B. LOWRY and J. H. WILLIS
+vary dramatically depending on how they are estimated (Lexer et al. 2005). The most commonly used measure of QTL effect, particularly in lab or agricultural systems, is the percentage of variance explained (PVE), which accounts for the range of phenotypic variation within the mapping population. However, perhaps a more useful measure for understanding adaptive divergence in the wild is to estimate QTL effect in terms of the difference between parental populations (Fishman et al. 2002). For example, True et al. (1997) uses a fairly stringent criterion by defining a large (major) QTL as one for which the distributions for alternative homozygotes for a particular QTL show little or no overlap, so that the probability of misclassification of phenotype is <5%, equivalent to 3.28 environmental standard deviations (ESDs). To estimate the magnitude of effect of individual QTLs on each trait, we divided the ME value for the appropriate backcross type by the Environmental Standard Deviation (ESD) for a given trait to obtain a more biologically relevant estimate of QTL effect. We calculated the ESD differently for BC-IM plants and BCDUN plants, as the mean trait values for these two backcross populations differ dramatically (Hall & Willis 2006). For BC-IM plants, which are phenotypically very similar to IM parents for nearly all traits (Hall & Willis 2006), the ESD was estimated as the square root of the IM variance. This was calculated separately for each trait. For the BC-DUN plants, we used the same calculation to estimate ESD by using the DUN variance instead of the IM variance (DUN and BC-DUN plants also have very similar trait means; Hall & Willis 2006).
+Candidate QTL analysis. In a previous QTL study involving these same two parental M. guttatus populations, we discovered two major highly pleiotropic QTLs on linkage group (Lg) 8 that contributed to divergence between these two populations for size and life-history traits, including stem thickness, leaf width, corolla width and length, flowering time and reproductive allocation (Hall et al. 2006). We refer to them as DIVERGENCE (DIV) QTLs. Because we examined many of the same traits in this and the previous study, we had an apriori hypothesis for detecting QTL effects measured in the field at these two candidate positions. The current RIL linkage map shares many markers with the previous F2 map generated from the same pair of parental populations (Hall et al. 2006). Therefore, we used markers in these regions on Lg8 shared between previous and current maps as candidate positions for detecting QTLs in this analysis in addition to QTLs detected solely from CIM (above). If a trait in our joint analysis had a LR test value greater than a significance threshold value of 5.99 (X20.05,2) at either (or both) of these candidate QTL regions, we reported these effects. This test
+does not require corrections for multiple tests along the genome because each position is fixed prior to the test, which increases the power to detect QTL effects on multiple traits (Jiang & Zeng 1995).
+QTL genotype by environment interactions. To test for genotype by environment (G · E) interactions, we measured the same traits on genetically identical RILs in two distinct field environments (Cascades and Dunes sites), which is statistically equivalent to measuring multiple genetically correlated traits in the same environment (Falconer 1952). We employed Multitrait Composite Interval Mapping (MCIM; Jiang & Zeng 1995) using QTL Cartographer v. 1.17 (Basten et al. 2002) and QTL Cartographer Windows 2.0 (Wang et al. 2005) to jointly map traits measured in the two environments and to test for G · E interactions. The MCIM procedure is similar to single trait CIM, but the LR test statistic is )2 ln(L0 ⁄ La), where La is the likelihood under the alternative hypothesis that the test site is a QTL affecting the trait in either environment. At test positions where the null hypothesis is rejected, tests of QTL G · E interactions are performed. Here, the hypotheses tested are
+H0 :a1 1⁄4a2 H1 :a1 61⁄4a2
+ð4Þ
+where a1 and a2 represent main effects of a QTL in environments 1 and 2. Two sets of LR scores (one for the joint analysis and one for the QTL by environment analysis) are thus evaluated (Jiang & Zeng 1995). Experiment-wise significance levels (a = 0.05) were determined by permuting the phenotypes against the genotypes 1000 times so that the correlations between traits were maintained (Churchill & Doerge 1994).
+Results
+Genome-wide QTL analysis
+In this study of the genetic basis of variation of 16 traits in M. guttatus measured in two field environments, we identified 10 genomic regions (QTLs) in the BC-IM lines that significantly affected variation in one (or for one QTL, two) trait(s) (three of which affected traits at the Cascades site, seven at the Dunes site; Table 1, Fig. 1); and nine genomic regions (with 11 total QTL effects) in the BC-DUN lines (one at the Cascades, eight at the Dunes; Table 2, Fig. 1). Here and throughout, we refer to particular genomic locations that affect one or more traits as QTLs. Most QTLs affected only single traits, but in a few cases, they affected multiple traits. The majority of the QTLs (16 of 22 total QTL effects) detected had relatively small (change of <1 ESD)
+Ó 2010 Blackwell Publishing Ltd
+
+   Trait
+Corolla width
+Days to first flowering Maximum rosette diameter Maximum plant height
+Maximum stolon number†
+Survival to flowering
+Total flower number (year 1) Lambda
+QTL map position: Lg, marker, cM
+8, 15, 79.47a 2, 12, 66.97 3, 6, 48.28 6, 13, 65.41 4, 7, 65.14 10, 7, 73.60 10, 5, 46.69 6, 10, 50.02 6, 1, 0.01 8, 12, 59.14
+8, 16, 80.70a
+Cascades
+ME ME ⁄ ESD
+)2.551 )1.093
+0.213 0.425 0.314 0.362
+Dunes
+ME ME⁄ESD )3.012 )0.959
+8.923 0.674 )6.635 )0.753 )7.581 )0.176 )9.411 )0.219 )2.722 )1.824
+)0.582 )0.571
+)47.413 )1.501
+Table 1 QTL main effects (ME) and magnitude relative to ESD for RILs back-crossed to IM parent at the Cascades and Dunes field sites
+TRADE-OFFS CAN CONTRIBUTE TO ADAPTATION IN MIMULUS 2743
+   QTL main effects for BC-IM are (a–d), IM ⁄ IM is defined as a, IM ⁄ DUN is d. Negative values of ME indicate that IM carries the minus allele ⁄ DUN carries the plus allele. Fitness components are in bold. All QTLs are significant at P < 0.05, based on 1000 permutations.
+aQTL effects detected at the same position share a letter. †Trait only measured at Dunes field site.
+phenotypic effect at both sites (Tables 1 and 2, Fig. 1), where the substitution of one allele for another (IM ⁄ IM vs. IM⁄DUN in BC-IM lines; IM⁄DUN vs. DUN⁄DUN in BC-DUN lines) caused a change in phenotype <1 ESD. The remaining 6 QTLs (some at overlapping postions) had larger effects of >1 ESD for individual traits (Tables 1 and 2, Fig. 1).
+We found three QTLs where two separate traits mapped to roughly the same position, suggesting that some loci affect multiple traits within the same environment. At the Dunes site, for example, a pleiotropic QTL on Lg10 affected both survival and seed production in year 2 in BC-DUN plants (Table 2, Fig. 1). It should be noted that our analysis does not allow us to distinguish true pleiotropy from tight linkage of multiple genes acting independently on different traits. Further fine-scale mapping and positional cloning of these QTLs would elucidate this issue.
+There was also evidence for separate QTLs affecting different components of fitness in the multi-year lifecycle of the plants at the Dunes site. For example, separate QTLs control survival in year 2, seed set in year 1 and seed set in year 2 (Table 2).
+Fitness trait QTLs, including those affecting survival, flower production, seed production, survival-to-flowering and k differed in effects across the two field sites. At the Cascades site, native (IM) alleles were favoured for all (2 ⁄ 2) fitness QTLs detected in the genome-wide analysis, as evidenced by the sign of the QTL main effect (Table 1).
+At the Dunes site, the native allele was favored at four of six of the fitness QTLs detected in the genome-
+Ó 2010 Blackwell Publishing Ltd
+wide scan (Tables 1 and 2). Interestingly, both of the QTLs with non-native favourable alleles were found in the BC-DUN population, with DUN homozygotes having lower fitness than heterozygous individuals (Table 2). In contrast, the native allele was favoured in the two fitness QTLs detected in the BC-IM plants, such that the heterozygotes for the DUN allele had higher fitness than IM homozygotes at the Dunes site (Table 1).
+Candidate QTLs
+Using single marker analysis for each of the two candidate QTL positions on Lg8 (DIV1 & DIV2), we detected effects on seven and eight (for BC-IM and BC-DUN, respectively) additional traits (Fig. 2, Table 3). Three of these QTL effects were large (>1 ESD; Table 3), which is consistent with a previous QTL study on an F2 population created from the same two parental populations used in this experiment (Hall et al. 2006).
+Several QTLs detected in the genome-wide analysis mapped to roughly the same position and affected the same traits as the DIV loci. These QTLs are presented separately in Tables 1 and 2 for the genome wide scan and in Table 3 for the candidate QTL analysis, though they are likely to be the same QTL. For example, QTLs affecting k and corolla width were detected in the genome wide scan in the BC-IM population at the Dunes site at the same position as DIV2. In the candidate analyses, these same traits were also affected by DIV2 and are treated as the same genomic location.
+The DIV2 locus in the BC-IM plants appears to show an example of a fitness trade-off. At the Cascades, this
+
+ 2744 M. C. HALL, D. B. LOWRY and J. H. WILLIS
+Ó 2010 Blackwell Publishing Ltd
+
+TRADE-OFFS CAN CONTRIBUTE TO ADAPTATION IN MIMULUS 2745
+Fig. 1 Linkage map of M. guttatus IM · DUN RILs. Locations of significant QTLs affecting BC-IM lines are on the left, BC-DUN on right. Size of symbol indicates the size of the QTL main effect. Small symbols, ME < 1ESD; large symbols, ME > 1. Up arrows indicate that native alleles are favoured (based on results of phenotypic selection analyses; Hall & Willis 2006), down arrows indicate QTLs where foreign alleles have higher fitness than native alleles. Filled symbols indicate a detected QTL effect at the Dunes site, open symbols at the Cascades site. Trait symbols: ww = corolla wide width, ctl = corolla tube length, lw = leaf width, st = stem thickness, date = date of first flower production, lfn = maximum leaf number, diam = maximum plant diameter, ht = maximum plant height, stol = stolon number, stf = survival to flowering, sv1 = survival to end of year 1, sv2 = survival to end of year 2, flrs = total number of flowers produced, sds1 = total seeds produced in year 1, sds2 = total seeds produced in year 2, lambda = total lifetime fitness.
+locus affected both survival-to-flowering and total flower number, where native IM homozygotes had greater fitness than heterozygotes (Table 3a, Fig. 2). DIV2 also affected seed production and k, as well as flower size (which is positively correlated with fitness), with heterozygotes for the native DUN allele having both larger flowers and higher fitness than IM homozygotes (Table 3a, Fig. 2). Two of these fitness traits, flower number and seed number (or k, which is an estimate based largely on seed number) are highly correlated (Spearman’s q = 0.56), even across sites. Although our measures of genotype by environment interaction focus on individual traits only, the effects detected at these correlated traits provide evidence for a trade-off at DIV2.
+We also detected pleiotropy on size and fitness traits in the BC-DUN plants at the Dunes site. DIV1 had an effect on stem thickness, leaf number, rosette diameter, plant height and year 1 survival, suggesting that these size traits may be genetically linked to survival in the first year. At this locus, plants heterozygous for the IM allele were larger and more likely to survive than homozygotes for native DUN alleles (Table 3b, Fig. 2).
+Interestingly, at DIV2, we detected a different pattern with respect to flower size. Plants with IM alleles had smaller flowers (both corolla width and length), wider diameters and a greater likelihood of surviving to the end of the first summer at the Dunes site than DUN homozygotes (Table 3b, Fig. 2).
+QTL genotype by environment interactions
+Although we tested for QTL by environment interactions across all linkage groups for individual traits, we found no significant QTLs involved in interactions in the genome-wide analysis. However, we did find evidence for QTL by environment interactions at the two DIV loci, which we wanted to examine more closely using posthoc analyses. First, in order to test the DIV loci for QTL by environment interactions at a particular trait, we conducted single marker analysis with the marker most closely linked to the QTL peak using twoway analysis of variance (ANOVA). Missing genotype data for individuals was inferred from adjacent markers within the DIV1 or DIV2 locus. The markers in DIV1 are all tightly linked and located within a large inver-
+   Trait
+Leaf width†
+Stem thickness†
+Maximum leaf number Maximum rosette diameter Survival (year 2)†
+Total seeds produced (year 1)† Total seeds produced (year 2)†
+Lambda†
+QTL map position: LG, marker, cM
+11, 3, 5.19 14, 13, 106.63 4, 7, 65.14 4, 10, 109.33 8, 8, 8.22 7, 5, 54.51
+10, 4, 42.85a 4, 13, 126.49b
+5, 6, 63.87 10, 5, 44.69a 4, 13, 126.49b
+Cascades
+ME ME ⁄ ESD
+)1.56 )0.983
+Dunes
+ME
+)4.33 )4.63 0.614
+ME⁄ESD )1.892
+)2.023 0.453
+1.212
+Table 2 QTL main effects (ME) and magnitude relative to ESD for RILs back-crossed to DUN parent at the Cascades and Dunes field sites
+  QTL main effects for BC-DUN are (a + d), DUN ⁄ DUN is defined as )a, IM ⁄ DUN is d. Negative values of ME indicate that IM carries the minus allele ⁄ DUN carries the plus allele. Fitness components are in bold. All QTLs are significant at P < 0.05, based on 1000 permutations.
+†Trait only measured at Dunes field site.
+a,bQTL effects detected at the same position share a letter.
+Ó 2010 Blackwell Publishing Ltd
+43.61 0.0684
+0.232 )0.295 0.459 )0.373 )0.403 853.70 0.459
+)0.0873 854.96 )796.36 )860.82
+ 
+2746 M. C. HALL, D. B. LOWRY and J. H. WILLIS
+                                                                                                                          Fig. 2 Location and effects of candidate QTLs, DIV1 and DIV2, located on Lg8. QTLs with significant QTL by environment interactions between sites are shaded and marked with an ‘x’ to signify an interaction. Locations of significant QTLs affecting BC-IM lines are on the left, BC-DUN on right. Up arrows indicate that native alleles are favoured, down arrows indicate QTLs where foreign alleles have higher fitness than native alleles. Filled symbols indicate a detected QTL effect at the Dunes site, open symbols at the Cascades site. Trait symbols: ww = corolla wide width, ctl = corolla tube length, lw = leaf width, st = stem thickness, date = date of first flower production, lfn = maximum leaf number, diam = maximum plant diameter, ht = maximum plant height, stol = stolon number, stf = survival to flowering, sv1 = survival to end of year 1, sv2 = survival to end of year 2, flrs = total number of flowers produced, sds1 = total seeds produced in year 1, sds2 = total seeds produced in year 2, k = total lifetime fitness.
+sion (Lowry et al. 2009; D. Lowry and J. Willis, unpublished). Both DIV QTLs are located on Lg8 and are unlinked (>50 cM apart). In each case, the trait was the dependent variable and the relevant marker genotype and site were factors. All significant QTL effects are presented in Table 4.
+The ANOVA results generally support the QTL results, indicating significant genotype by environment interactions exist for the majority of these traits at candidate loci (Tables 4 and 5, Figs 3 and 4). The ANOVA results also reveal that the site factor was the most statistically significant factor in the model for nearly all traits (Table 5, Figs 3 and 4), where plants of all genotypes grown at the Dunes site are larger than plants at the Cascades site.
+The presence of significant QTL by environment interaction alone does not indicate whether or not trade-offs exist between sites and loci. To clarify whether interactions are the result of trade-offs as opposed to conditional neutrality, we performed t-tests on the different genotypes within a site to see if they were significantly different from each other. Significant trade-offs are unambiguously supported only if geno-
+types have significantly different fitness values at both sites AND if native genotypes are favoured at both sites. In the BC-IM lines, there appears to be evidence of conditional neutrality as the cause of QTL by environment interactions, not trade-offs, for many of the traits. For example, plants with a native DUN allele at DIV2 have significantly greater fitness (k) than non-native IM homozygous at the Dunes site, but there is no affect on fitness at the Cascades site at this locus (Table 5, Fig. 3). For BC-DUN plants, however, we detected significant differences between genotypes at both sites for both leaf number and plant height (Table 5, Fig. 4), and in opposite directions, indicating a change in rank for these traits. Despite the appearance of genetic trade-offs for these traits, the native genotypes have lower trait values (larger plant height and more leaves are selectively favoured at both sites; Hall & Willis 2006) relative to less-native genotypes, which is inconsistent with local adaptation to each site (though these traits do not measure fitness directly). This pattern could be an example of mutational load at this locus or associative over-dominance at linked loci.
+Ó 2010 Blackwell Publishing Ltd
+
+(A)
+Trait
+DIV1 DIV2
+Cascades Cascades Dunes ME ME⁄ESD ME ME⁄ESD ME
+ME⁄ESD )0.850
+)0.628
+)1.323 )1.501
+TRADE-OFFS CAN CONTRIBUTE TO ADAPTATION IN MIMULUS 2747
+Table 3 QTL main effects (ME) and their magnitude relative to the ESD detected in (A) BC-IM lines and (B) BC-DUN lines using CIM at candidate marker locations, both on Lg 8, at the Cascades and Dunes field sites. DIV1 is between position 5.22–10.22 cM (markers e173–e84). DIV2 is between position 80.70–106.01 cM (markers GAIL-e294). At these positions, a significant QTL effect was determined if it had an LR test ratio greater than a significance threshold of 5.99 (X20.05,2)
+         Corolla width
+Corolla tube length
+Stem thickness 0.128 0.422
+Survival to flowering 0.172 Total flower number (year 1) 0.336 Seeds (year 1)
+Lambda
+(B) DIV1 Dunes
+Trait ME ME⁄ESD
+Corolla width†
+Stem thickness† 0.338 0.250 Maximum leaf number 13.539 0.475 Maximum rosette diameter 43.607 1.212 Maximum plant height 13.564 0.086 Survival (year 1)† 0.146 0.291
+0.343 0.387
+DIV2
+Dunes
+)2.672 )0.995
+)41.787 )47.413
+     ME ⁄ ESD )1.322 )0.381
+29.670 0.824 0.135 0.269
+ME
+    QTL main effects for BC-IM are (a–d), for BC-DUN (a + d). IM ⁄ IM is defined as a, IM ⁄ DUN is d, and DUN ⁄ DUN is )a. Fitness components are in bold.
+†Trait was only measured at Dunes field site.
+Discussion
+In this study, we found a total of 19 QTLs (with each QTL controlling 1.16 traits, on average) affecting 16 traits in a genome wide analysis of two wild populations of M. guttatus. We also found 15 additional QTL effects in a targeted investigation of two previously identified candidate QTLs, DIV1 and DIV2. Many of the alleles controlling fitness traits were advantageous in their native habitat, but surprisingly, in some cases native alleles were not superior. We detected significant QTL genotype by environment interactions for both size and fitness traits at two candidate QTLs. When examining single traits, we found no clear evidence of a cost associated with adaptive loci in alternative habitats, which is consistent with a handful of other recent studies in other systems that suggest non-overlapping sets of loci to be involved in local adaptation to different habitats (Weinig et al. 2003; Verhoeven et al. 2004, 2008; Gardner & Latta 2006). However, when we examined fitness traits that are highly correlated (such as flower number and seed number), we found evidence for a
+trade-off at DIV2 in the BC-IM population, where native IM homozygotes had greater fitness than heterozygotes at the Cascades site and these same IM homozygotes had reduced fitness compared to heterozygotes at the Dunes site.
+Challenges for field-based QTL analyses
+There are many challenges to both field-based reciprocal transplant experiments and QTL analyses conducted in wild populations (reviewed in Slate 2005). Compared to greenhouse-based QTL studies, for example, we found very few QTLs considering the large number of traits measured, even when examining this same pair of populations (Hall et al. 2006). Our ability to detect QTLs was likely hindered by environmental variability, relatively low sample size, quality of genotype data, segregation distortion and breeding design. All of these caveats should be taken into account when interpreting field QTL studies such as ours.
+All field-based QTL studies must contend with high levels of micro-environmental variation that may
+Ó 2010 Blackwell Publishing Ltd
+
+2748 M. C. HALL, D. B. LOWRY and J. H. WILLIS
+Table 4 QTL main effects (ME) and their magnitude relative to the ESD detected in (A) BC-IM lines and (B) BC-DUN lines using CIM at candidate marker locations, both on Lg 8, at the Cascades and Dunes field sites. DIV1 is between position 5.22–10.22 cM (markers e173–e84). DIV2 is between position 80.70–106.01 cM (markers GAIL-e294). At these positions, a significant QTL effect was determined if it had an LR test ratio greater than a significance threshold of 5.99 (X20.05,2). In a separate test, all QTLs were positive for significant QTL · environment interactions. Fitness components are in bold
+       Trait
+(A)
+Corolla width
+Stem thickness
+Maximum rosette diameter Maximum plant height Lambda
+(B)
+Maximum leaf number Maximum rosette diameter Maximum plant height
+DIV1
+Cascades
+ME
+0.119
+)0.654 )0.861 )1.201
+DIV2
+Dunes Cascades
+ME⁄ESD ME ME⁄ESD ME ME⁄ESD
+Dunes
+ME ME⁄ESD
+)0.537 )0.171 )1.412 )0.160
+)2.049 )0.048 )21.39 )0.677
+15.258 0.391
+  obscure the ability to detect genotypic variation underlying phenotypic differences and to map QTLs in the field. We used only a modest number of RILs in our study, and low sample sizes will reduce the power to detect QTLs. The gene-based markers used for linkage map construction in this experiment had reasonably high-density coverage of all 14 linkage groups in M. guttatus (Lowry et al. 2009), though we had a high proportion of missing data points per marker (17.85%) due to poor amplification at some markers, residual heterozygosity still segregating in the lines and other factors. In addition, the presence of segregation distortion (nearly 50% of markers in this cross), severe in some regions (i.e. Lg2; Lowry et al. 2009), likely limited our power to detect QTLs. Further, the genotype data and linkage map construction were based on later-generation RILs than those used in the field experiment. We inferred the genotypes in our field lines and likely had reduced power to detect marker-trait associations in our QTL analyses.
+Finally, breeding design can influence the results of field-based QTL studies. In this study we backcrossed RILs to parental lines in the last generation of our breeding design to eliminate inbreeding depression (Hall & Willis 2006). Unfortunately, this only allowed us to compare one homozygous genotype to a heterozygous genotype in a given genetic background (BCIM, BC-DUN). More complex and labour intensive crossing designs might have allowed us to compare alternative genotypes homozygous (but not identical by descent) for each population’s alleles, ultimately
+increasing our ability to detect and characterize QTLs effects.
+Genetic architecture of local adaptation
+In this study we identified many loci contributing to local adaptation, although the effects of the QTLs differed across habitats and genetic backgrounds. In the Cascades, we only detected QTLs affecting fitness traits in the BC-IM population, presumably because most of the slowly developing BC-DUN plants died of drought before flowering. At this site, the QTL homozygous genotypes with native IM alleles at all fitness QTLs had higher fitness than the heterozygotes with a DUN allele, as expected for local adaptation. Two of these pleiotropic QTLs affected growth rate and resource allocation traits, an important indicator of annual and perennial life-history strategies (Roux et al. 2006). Early-flowering (or rapid onset of reproduction) is selectively advantageous at this Cascades site (Hall & Willis 2006) and at other annual sites in M. guttatus (Willis 1996; Lowry et al. 2008). Indeed, none of the slower-growing perennial DUN parental plants flowered at this site before the summer drought reduced soil moisture to below that needed for M. guttatus to persist (Hall & Willis 2006). Many of these life-history developmental processes are functionally well-characterized in other plant systems (recently reviewed by Ingram & Waites 2006; Anastasiou & Lenhard 2007; Bogre et al. 2008; Busov et al. 2008; Krizek 2009) and should facilitate candidate gene identification underlying these Mimulus QTLs.
+0.393 )0.024
+)0.412 6.540 )0.163 20.812 )0.500 5.628
+)0.078
+0.229 0.578 0.0357
+0.073
+0.523
+1.125 )5.953
+0.920
+0.031
+0.074
+0.073 )0.105
+0.220
+ Ó 2010 Blackwell Publishing Ltd
+
+ Trait (marker) (A)
+Corolla width (GAIL)
+Stem thickness (e299)
+Rosette diameter (e294)
+Plant height (e294)
+k (GAIL)
+(B)
+Leaf number (e84)
+Plant height (e84)
+Rosette diameter (e84)
+Rosette diameter (e294)
+Source of variation
+df
+F
+1.31 81.76 4.45
+0.88 12.63 0.31
+0.094 22.46 5.05
+0.28 8.56 6.73
+3.81
+1.44 7.13
+8.35 189.00 10.44
+5.12 333.69 8.51
+11.68 473.65 13.57
+0.32 459.57 0.19
+P
+0.2539 <0.0001 0.0360
+0.3503 0.0005 0.5784
+0.7593 <0.0001 0.0254
+0.5960 0.0037 0.0100
+0.0518
+0.2311 0.0080
+0.0041 <0.0001 0.0014
+0.0244 <0.0001 0.0038
+0.0007 <0.0001 0.0003
+0.5718 <0.0001 0.6619
+Table 5 Two-way ANOVA for effects of genotype and site (Cascades vs. Dunes) at individual markers located where QTL · environment interactions were detected. (A) BC-IM lines; (B) BC-DUN lines
+Genotype Site Genotype Error Genotype Site Genotype Error Genotype Site Genotype Error Genotype Site Genotype Error Genotype
+Site Genotype Error
+Genotype Site Genotype Error Genotype Site Genotype Error Genotype Site Genotype Error Genotype Site Genotype Error
+· site
+· site
+· site
+· site
+· site
+· site
+· site
+· site
+· site
+1 1 1
+TRADE-OFFS CAN CONTRIBUTE TO ADAPTATION IN MIMULUS 2749
+ 233 1 1 1 150 1 1 1 290 1 1 1 290 1
+1
+1 300
+1 1 1
+312 1 1 1 312 1 1 1 312 1 1 1 300
+ In contrast to the consistent finding of selectively favoured native alleles at the Cascades site, we found that at the Dunes field site selection favoured genotypes with native alleles at only four of the eight total fitness QTL positions (including those identified in both genome-wide analyses and non-overlapping candidate QTLs), with the non-native IM alleles seemingly favoured at the other loci. However this result is difficult to interpret because it is entirely dependent on genetic background, as all four QTLs with seemingly favourable non-native alleles were detected only in the BC-DUN mapping population, where the alternative genotypes are native DUN homozygotes and IM ⁄ DUN heterozygotes. Of course it is conceivable that the non-
+native IM alleles really are favoured over the native DUN alleles at these loci, implying environmentally dependent maladaptation, but perhaps the most likely explanation for this pattern is that the DUN population harbours recessive deleterious alleles at high frequencies that have accumulated in this isolated, largely clonal population. Although our breeding design ensured that all plants were outcrossed with respect to alleles from the same population, thereby preventing the expression of inbreeding depression, it is known that the DUN population has low genetic variation and may suffer from some fixed mutational load. This coastal perennial population has unusually low variation at microsatellite loci, with expected heterozygosities of
+Ó 2010 Blackwell Publishing Ltd
+
+2750 M. C. HALL, D. B. LOWRY and J. H. WILLIS
+ (a) (b)
+                                              (c) (d)
+                                                          (e)
+                               Fig. 3 Mean (±SE) trait values for different genotypes measured in the two field environments for BC-IM lines at candidate markers DIV1 and DIV2 linked to the significant QTL peak detected in MCIM analysis. DIV1 and DIV2 represent the composite genetic effect all of linked loci spanning these QTLs. All size traits are in mm. Allelic effect of markers: (a) DIV1, (b–e) DIV2. Significant genotype · site interactions based on ANOVA (Table 5) at above markers are indicated. ns = not significant, *P < 0.05, **P < 0.01, ***P < 0.001. Differences between genotypes at a single site were tested using t-tests and only significant results (as indicated by P values) are shown. Significant t-test results for: (a) stem thickness at the Cascades site (DIV1), t103 = 2.20 (P = 0.030); (b) corolla width at the Dunes site (DIV2), t141 = )2.88 (P = 0.0046); (c) rosette diameter at the Dunes site (DIV2), t161 = )2.37 (P = 0.0188); e) lambda at the Dunes site (DIV2), t = )2.95 (P = 0.0036).   = IM ⁄ IM homozygotes,   = IM ⁄ DUN heterozygotes.
+163
+only 0.00–0.14 for nine markers, compared to an average of 0.62 for the same markers in the IM population (Kelly & Willis 1998; Sweigart et al. 1999; Willis 1999; Marriage & Kelly 2009). Importantly, the DUN population is also unusual in that it exhibits essentially no reduced fitness upon inbreeding (Marriage & Kelly 2009). These results are consistent with a genetic bottleneck and ⁄ or high levels of clonal (asexual) reproduction in the DUN population, which could result in high
+fixed mutational load. If this idea is correct, then the two QTLs with high heterozygote fitness might be explained by the IM alleles masking the deleterious recessive effects of DUN alleles at those genomic regions.
+Costs associated with local adapted loci
+Fitness trade-offs, commonly observed at the phenotypic level in ecologically distinct populations (reviewed
+Ó 2010 Blackwell Publishing Ltd
+
+in Schluter 2000) are a predicted outcome of local adaptation (Kawecki & Ebert 2004). It is less clear whether or not such trade-offs exist at single loci, where alternate alleles contribute to local adaptation in contrasting environments and therefore have a fitness cost in nonnative environments. Genotype by environment interactions can indicate true genetic trade-offs (change in rank between environments) or they can be the result of strong phenotypic differences observed between habitats or among genotypes at a single site.
+Our analysis was designed to test for QTL genotype by environment interactions for individual traits measured in the two distinct habitats. We found significant QTL by environment interactions for plant size and fitness in two contrasting environments for both DIV loci in the BC-IM population. Large plant size is selectively favoured at both sites (Hall & Willis 2006) and our results show that the native alleles tend to be larger and fitter in their respective habitats. The significant interaction implies that these QTLs are locally adapted, though in most cases this is due to one genotype having higher fitness in its native environment while the alternate genotype is selectively neutral between sites without detectable evidence of a cost.
+Although we found evidence for conditional neutrality for individual traits measured in the two environments, when we examine fitness traits jointly, we find evidence for a trade-off in the BC-IM population at the DIV2 locus for two highly correlated fitness traits: total
+flower number in year 1 and total seed number in year 1, or k (k is a composite fitness estimate that includes seed production in year 1). In this example, individuals with native homozygous genotypes produce more flowers at the Cascades site than plants with a non-native DUN allele (heterozygous individuals). At this same locus at the Dunes site, the opposite is true, where individuals with the native DUN allele produce substantially more seeds than genotypes homozygous for non-native alleles. We also detected these same QTL effects in the genome wide analysis (affecting flower number in the Cascades and k at the Dunes site), though the location of the QTL affecting flower number is at a slightly different position (􏰁20cM) away. Because we did not examine confidence intervals or 2-LOD scores at these individual QTLs, it is not unlikely that these QTL effects are caused by the same underlying QTL.
+Our study is the first that we are aware of where there appears to be a genetic trade-off at an individual locus (DIV2) contributing to local adaptation. Even so, our study also provided many more potential examples of conditional neutrality where native alleles are favoured at one site and selectively neutral at another site. To date, there has been evidence of QTL by environment interactions due to conditional neutrality (Weinig et al. 2003; Verhoeven et al. 2004, 2008; Gardner & Latta 2006). Notably, all of these previous studies focused on selfing organisms, where limited recombina-
+Ó 2010 Blackwell Publishing Ltd
+TRADE-OFFS CAN CONTRIBUTE TO ADAPTATION IN MIMULUS 2751
+  (a) (b)
+Fig. 4 Mean (±SE) trait values for different genotypes measured in the two field environments for BC-DUN lines at candidate markers DIV1 and DIV2 linked to the significant QTL peak detected in MCIM analysis. DIV1 and DIV2 represent the composite genetic effect all of linked loci spanning these QTLs. All size traits are in mm. Allelic effect of markers: (a–c) DIV1, (d) DIV2. Significant genotype · site interactions based on ANOVA (Table 5) at above markers are indicated. ns = not significant, *P < 0.05, **P < 0.01, ***P < 0.001. Differences between genotypes at a single site were tested using t-tests and only significant results (as indicated by P values) are shown. Significant t-test results for: (a) leaf number at the Dunes site (DIV1), t173 = 3.23 (P = 0.0015); (b) plant height at the Dunes site (DIV1), t173 = 2.44 (P = 0.0157); (c) rosette diameter at the Dunes site (DIV1), t173 = 3.36 (P = 0.0010). d = DUN ⁄ DUN homozygotes,   = IM ⁄ DUN heterozygotes.
+                                                                                          (c) (d)
+                                                                                                   
+2752 M. C. HALL, D. B. LOWRY and J. H. WILLIS
+tion between populations could favour the maintenance of allelic variation at separate loci involved in local adaptation. In an outcrosser such as M. guttatus, however, even limited gene flow or recombination would facilitate the fixation of conditionally beneficial alleles. It is therefore striking that we also found evidence for conditional neutrality at several individual traits. It is possible that the modest favouring of native alleles in each environment for fitness could maintain variation at these loci (Weinig et al. 2003) and it is certainly possible that weak selective differences in one habitat might be undetectable in reasonably large field experiments. It is also worth noting that in any field study, there are likely to be unmeasured components of fitness that could contribute to local adaptation and exhibit tradeoffs. Given that we detected trade-offs at correlated fitness traits, it is also likely that different components of fitness carry different weight in different environments and it is therefore difficult to directly compare a single trait across habitats.
+Granted the importance of local adaptation in driving the diversification of organisms, it is surprising that only now are evolutionary biologists beginning to deconstruct the dynamics of this process at the level of the individual locus. Trade-offs at individual loci across habitats is an implicit assumption of genomic scans for adaptive loci (Turner et al. 2010) and are thought to be involved in the formation of ecological reproductive isolating barriers (Nosil et al. 2009). Future field experimentation across multiple systems will be necessary to resolve how often trade-offs are actually involved in crucial evolutionary processes.
+Acknowledgements
+The authors would like to thank L. Cooley, R. McDevitt and J. Morich for field assistance, as well as Tim Vines, Aure ́lie Bonin and four anonymous reviewers for helpful comments to the manuscript. The Duke Sequencing Facility staff, especially L. Bukovnik, made this research possible. Funding was provided by the National Science Foundation grants EF-0328636 and EF0723814 to J.W. as well as two Doctoral Dissertation Improvement Grants to M.H. (DEB-010577) and D.L. (DEB-0710094). Additional funding was also provided by a Sigma Xi GrantsIn-Aid of Research to M.H. and a NIH graduate student fellowship to D.L.
+References
+Ó 2010 Blackwell Publishing Ltd

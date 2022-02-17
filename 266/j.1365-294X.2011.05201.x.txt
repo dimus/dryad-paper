@@ -1,0 +1,373 @@
+   Molecular Ecology (2011) 20, 3653–3668 doi: 10.1111/j.1365-294X.2011.05201.x
+An exceptionally high nucleotide and haplotype diversity and a signature of positive selection for the eIF4E resistance gene in barley are revealed by allele mining and phylogenetic analyses of natural populations
+BERNHARD J. HOFINGER,* JOANNE R. RUSSELL,† CHRIS G. BASS,*– THOMAS BALDWIN,* ** MARIO DOS REIS,‡ PETER E. HEDLEY,† YIDAN LI,§ MALCOLM MACAULAY,† ROBBIE WAUGH,† KIM E. HAMMOND-KOSACK* and KOSTYA KANYUKA*
+*Department of Plant Pathology and Microbiology, Rothamsted Research, Harpenden AL5 2JQ, UK, †Genetics Programme, The James Hutton Institute, Invergowrie, Dundee DD2 5DA, UK, ‡Department of Genetics, Evolution and Environment, University College London, Darwin Building, Gower Street, London WC1E 6BT, UK, §Biotechnology Research Centre, Jilin Academy of Agricultural Sciences, 1363 Caiyu St., Changchun 130033, China
+Abstract
+In barley, the eukaryotic translation initiation factor 4E (eIF4E) gene situated on chromosome 3H is recognized as an important source of resistance to the bymoviruses Barley yellow mosaic virus and Barley mild mosaic virus. In modern barley cultivars, two recessive eIF4E alleles, rym4 and rym5, confer different isolate-specific resistances. In this study, the sequence of eIF4E was analysed in 1090 barley landraces and noncurrent cultivars originating from 84 countries. An exceptionally high nucleotide diversity was evident in the coding sequence of eIF4E but not in either the adjacent MCT-1 gene or the sequence-related eIF(iso)4E gene situated on chromosome 1H. Surprisingly, all nucleotide polymorphisms detected in the coding sequence of eIF4E resulted in amino acid changes. A total of 47 eIF4E haplotypes were identified, and phylogenetic analysis using maximum likelihood provided evidence of strong positive selection acting on this barley gene. The majority of eIF4E haplotypes were found to be specific to distinct geographic regions. Furthermore, the eI4FE haplotype diversity (uh) was found to be considerably higher in East Asia, whereas SNP genotyping identified a comparatively low degree of genome-wide genetic diversity in 16 of 17 tested accessions (each carrying a different eIF4E haplotype) from this same region. In addition, selection statistic calculations using coalescent simulations showed evidence of non-neutral variation for eIF4E in several geographic regions, including East Asia, the region with a long history of the bymovirusinduced yellow mosaic disease. Together these findings suggest that eIF4E may play a role in barley adaptation to local habitats.
+Keywords: eIF4E, Hordeum vulgare, positive selection, resistance to viruses, single nucleotide polymorphism.
+Received 11 March 2010; revision received 26 May 2011; accepted 6 June 2011
+Correspondence: Kostya Kanyuka, Fax: 01582 760981;
+E-mail kostya.kanyuka@rothamsted.co.uk
+–Present address: Biological Chemistry Department, Rothamsted Research, Harpenden AL5 2JQ, UK.
+**Present address: Vilmorin, Route du Manoir, 49250 La Me ́nitre ́, France.
+Introduction
+The eukaryotic translation initiation factor
+plays an important dual role in plants. In its primary function, eIF4E interacts with the 5¢-terminal cap structure of many cellular mRNAs, which is an essential step in translation initiation (Gingras et al. 1999). In addi-
+Ó 2011 Blackwell Publishing Ltd
+4E (eIF4E)
+
+3654 B. J. HOFINGER ET AL.
+tion, a second role of eIF4E in the completion of the life cycle of many plant viruses has now also been recognized (Bushell & Sarnow 2002; Robaglia & Caranta 2006). The (+) ssRNA genome of viruses belonging to the Potyviridae family encodes a small protein called VPg. This protein covalently attaches itself to the 5¢-end of the viral genomic RNA and functions as an alternative cap-like structure (Miyoshi et al. 2006). A direct physical interaction of VPg with eIF4E or eIF(iso)4E (an isoform found in many plant species) has been shown to be necessary for a successful virus multiplication (Leonard et al. 2000; Beauchemin et al. 2007; Khan et al. 2008). Generally, different potyviruses selectively use either eIF(iso)4E or eIF4E to infect plants (Lellis et al. 2002; Sato et al. 2005), although some potyviruses are able to use both isoforms (Ruffel et al. 2006; Hwang et al. 2009; Jenner et al. 2010). Often just a single or a limited number of amino acid changes in the eIF4E protein that disrupts the direct interaction with the potyviral VPg protein have been shown to result in virus resistance (Robaglia & Caranta 2006; Maule et al. 2007; Yeam et al. 2007; Charron et al. 2008; German-Retana et al. 2008; Naderpour et al. 2010).
+Allele mining is a proven efficient strategy for accessing target gene sequence variation and haplotype diversity. For instance, this approach has been used successfully for the identification of novel potentially superior alleles of genes involved in disease resistance to various plant pathogens in a range of plant species (Mejlhede et al. 2006; Nieto et al. 2007; Nunziata et al. 2007; Wang et al. 2008; Bhullar et al. 2009; Rubio et al. 2009). Some effort has been undertaken to identify natural variants of eIF4E in different crop species as potential new sources of virus resistance. Using Ecotilling (a method employing the targeting-induced local lesions in genomes (TILLING)) procedure adapted for the discovery of natural polymorphisms (Till et al. 2008) in 112 Cucumis ssp. accessions, only six polymorphic sites were identified in eIF4E revealing the existence of only six different haplotypes containing mostly synonymous single nucleotide polymorphisms (SNPs) (Nieto et al. 2007). In contrast, as many as 10 different eIF4E haplotypes each containing exclusively nonsynonymous DNA changes were identified by cDNA sequencing from pepper germplasm comprising 25 preselected accessions of diverse origin (Charron et al. 2008). Screening of 92 random tomato accessions from the core collection by next-generation sequencing revealed 15 SNPs in the eIF4E gene resulting in six haplotypes (Rigola et al. 2009). An indication of a high level of genetic diversity at the eIF4E locus in a sample of 127 barley accessions mainly comprising modern cultivars was obtained from detailed analysis of linkage disequilibrium in a 132-kb physical interval spanning the eIF4E gene (Stracke et al. 2007).
+Two different members of the Bymovirus genus in the Potyviridae family, namely Barley mild mosaic virus (BaMMV) and Barley yellow mosaic virus (BaYMV), cause an economically important yellow mosaic disease of winter barley, resulting in high yield losses (Plumb et al. 1986). The occurrence of BaYMV and ⁄ or BaMMV infections has been reported from East Asia (Japan, Korea, and China) and several European countries (CABI ⁄ EPPO 2003). A total of 13 rym genes conferring resistance to yellow mosaic have been mapped, and several of these have been used in commercial barley breeding programmes (Ordon et al. 2004). It has been demonstrated that the allelic recessive genes rym4 and rym5 providing isolate-specific resistance to bymoviruses correspond to eIF4E (Kanyuka et al. 2005; Stein et al. 2005).
+We have recently established an original method for rapid and cost-effective detection of allelic variation at target loci in plants (Hofinger et al. 2009). This new method together with a classical allele mining approach, i.e. sequencing, was employed here to unlock the natural barley germplasm resources for the molecular identification of novel eIF4E haplotypes, particularly useful for studies on the molecular evolution of virus resistance and potentially valuable as additional sources for BaYMV ⁄ BaMMV resistance breeding. An exceptionally high level of eIF4E sequence variation and haplotype diversity in barley, especially among accessions from geographic regions with a long history of bymovirus-induced yellow mosaic disease, were detected. Here, we also show that, unusually, all of the 47 identified eIF4E haplotypes contain nonsynonymous SNPs or small in-frame deletions or insertions (INDELs). The effects of selection and diversification are discussed in the context of the arms race between pathogens (i.e. viruses) and host plants.
+Materials and methods
+Plant materials and growth conditions
+Seeds of 1090 barley (Hordeum vulgare subsp. vulgare) accessions (primarily landraces and old cultivars) of diverse geographical origin used in this study were obtained from the National Small Grains Collection, USDA-ARS (Aberdeen, ID, USA) (Table 1 and Table S1, Supporting information). The barley plants were cultivated in the glasshouse under natural light conditions at 18 °C during the day and 14 °C during the night.
+Preparation of barley cDNA samples and RT-PCR
+RNA isolation and cDNA synthesis were carried out as described previously (Hofinger et al. 2009). PCR
+Ó 2011 Blackwell Publishing Ltd
+
+DIVERSITY OF BARLEY EIF4E 3655 Table 1 Summary of the geographic origins of the barley accessions used for allele mining of eIF4E
+ Geographic region
+North and South America
+Europe
+Africa
+Ethiopia and Yemen Near East
+Central Asia
+East Asia
+Number of accessions
+204
+254
+115
+39 169
+145
+150
+Countries
+Argentina, Bolivia, Brazil, Canada, Chile, Colombia, Ecuador, Guatemala, Honduras, Mexico, Paraguay, Peru, Uruguay, USA and Venezuela
+Albania, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Macedonia, Moldova, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, UK, Ukraine and Yugoslavia
+Cameroon, Egypt, Libya, Mali, South Africa, Sudan, Tunisia and Zimbabwe
+Ethiopia and Yemen
+Armenia, Azerbaijan, Georgia, Iran, Iraq, Israel,
+Jordan, Lebanon, Oman, Russian Federation,
+Saudi Arabia, Syria and Turkey Afghanistan, Bhutan, China (six provinces),
+India, Kazakhstan, Kyrgyzstan, Mongolia,
+Nepal, Pakistan, Turkmenistan and Uzbekistan China (14 provinces), Japan, North Korea, South
+Number of countries
+15
+30
+8
+2 13
+11
+5
+1 84
+Total number of eIF4E haplotypes identified
+9
+19
+5
+5 8
+23
+25
+3 47
+ Australia 14 Total 1090
+Korea and Taiwan Australia
+ amplifications of a 620-bp product spanning most of the barley eIF4E ORF (excluding 130 bp from the 5¢-portion) was carried out using primers RESK-99 (5¢-acccctctggag aacgcctggacct-3¢) and RESK-102 (5¢-ccctttgccacaactgatggtcca-3¢) essentially as described in the study by Kanyuka et al. (2005). Primers ISO-F45 (5¢-aaaccctcggaaagcaaag-3¢) and ISO-R2 (5¢-tgaggtggggttcctcctctg-3¢) were used for amplification of a 867-bp PCR product spanning the complete ORF of barley eIF(iso)4E and primers MCT-F2 (5¢-ccgctcaccatgttcaagaagt-3¢) and MCT-R2 (5¢-tgaaaacaacacatgatgcgact-3¢) for amplification of a 631-bp product spanning the complete ORF of the barley MCT-1 gene.
+Identification of novel eIF4E, eIF(iso)4E and MCT-1 haplotypes
+The coding sequence of the eIF4E gene was analysed in 745 accessions of the RBD collection using direct Sanger sequencing of nearly full-length eIF4E cDNAs generated by RT-PCR with primers RESK-99 and RESK-102 from total barley RNA. For the analysis of the rest of the collection (i.e. 445 accessions), a novel, two-step approach we recently developed was employed (Hofinger et al.
+2009). Briefly, in the first step, two overlapping PCR amplicons derived from eIF4E cDNA were prescreened for the presence of DNA polymorphisms using highresolution melting (HRM), which is a simple and nondestructive closed-tube assay (Wittwer et al. 2003). In the second step, only the cDNA amplicons predicted using HRM to carry novel nucleotide polymorphisms were sequenced by Sanger sequencing.
+The complete ORF of MCT-1 was amplified from the first strand cDNA of 192 barley accessions using primers MCT-F2 and MCT-R2. Concentrations of these primary PCR products were then equalized by dilution (from 1:4 to 1:20) with distilled water (Sigma) and used as templates for synthesis of two smaller overlapping PCR amplicons amenable for HRM analyses: 5¢-amplicon (337 bp) was amplified using primers MCT-F2 and MCT-R4 (5¢-tgttggcaccagagagaacaaa-3¢), and 3¢-amplicon (358-bp) was amplified using primers MCT-F3 (5¢tgatggtccatacatgccaacc-3¢) and MCT-R1 (5¢-cgcgaattctgctt cccttag-3¢). The 5¢-portion of eIF(iso)4E was screened in 112 accessions by analysing a single amplicon of 381 bp produced using primers ISO-2F (5¢-ggctggggtagaaccaaagtgg-3¢) and ISO-R1 (5¢-tccgagctgcggtcttcatc-3¢). Samples, which showed melting curves different from
+Ó 2011 Blackwell Publishing Ltd
+
+3656 B. J. HOFINGER ET AL.
+the wild-type reference barley genotype Morex, were fur-
+ther analysed by Sanger sequencing.
+Plant DNA isolation and analysis of the GC-rich 5¢-portion of the barley eIF4E gene
+For the analysis of the GC-rich 130-bp 5¢-portion of the eIF4E ORF, two accessions (when available) for each eIF4E haplotype were examined. Leaves of six seedlings of each accession were harvested at the two-leaf stage, snap-frozen in liquid nitrogen and freeze-dried. Three 3-mm chrome steel beads were placed into each tube containing the freeze-dried leaves (approximately 20 mg), and samples were ground using a TissueLyser (Qiagen). DNA was isolated from the samples using DNeasy Plant Mini kit (Qiagen). PCR products of the genomic DNA spanning exon1 of eIF4E were amplified using primers 317s (5¢-gtttgcgtccgctcctccatcttcct-3¢) and 1170as (5¢ctgcccgcctagatctatcaacaacc-3¢) and PCR conditions essentially as described in the study by Stracke et al. (2007) and then sequenced by Sanger sequencing.
+Sanger sequencing
+Sequencing was carried out as described previously (Hofinger et al. 2009). For all dye-terminator cycle sequencing reactions of PCR products (cDNA-derived products of eIF4E, eIF(iso)4E and MCT-1, and GC-rich 5¢-portion of eIF4E derived from genomic DNA), the same primers were used as for the respective PCRs. The sequence reactions were analysed on a 3730xlÒ DNA analyzer (Applied Biosystems) at the Genome Enterprise Ltd. (Norwich, UK). Resulting DNA sequences were analysed, and alignments were carried out using the Vector NTIÒ Advance v10.0.1 (Invitrogen).
+Barley SNP genotyping
+Seventy accessions carrying diverse eIF4E haplotypes were subjected to a genome-wide SNP genotyping. Barley genomic DNA was purified using the DNeasy Plant Mini kit (Qiagen) starting with 100–300 mg of young seedling leaves. The concentration of all DNA samples was estimated using spectrophotometry, then verified using UV spectroscopy and Quant-iT PicoGreen (Invitrogen) and finally adjusted to 50 ng ⁄ lL with Tris–EDTA pH 8.0. Five hundred nanograms of each genomic DNA was used in the 384 SNP Illumina GoldenGate oligo pool assay (Illumina Inc.) using the BeadXpress platform, according to the manufacturer’s protocol. Polymorphism at 384 SNP sites located in coding gene sequences fairly equally distributed along the seven chromosomes of barley was examined (Moragues et al. 2010). This SNP subset was selected from a set of
+the 3072 SNPs originally developed and utilized by Close et al. (2009).
+Statistical analyses of population data
+Unbiased haplotype diversity (uh) (Nei 1987) for eIF4E in the whole RBD collection (n = 1090 accessions) and in a subset of 811 accessions, in which the eIF4E coding sequence has been verified by Sanger sequencing, was generated using haplotype input command in GenAlEx v6.2 (Peakall & Smouse 2006). Genetic distance matrix generated using haplotype data was used to calculate pairwise population FST values (PhiPT command in GenAlEx v6.2). The eIF4E nucleotide sequence diversity (p) was estimated using DnaSP v4.10.9 (Rozas et al. 2003). DnaSP v4.10.9 was also used to determine whether the observed haplotype diversity was expected under a neutral model using the coalescent simulation mode, with no recombination, by calculating D*, F* (Fu & Li 1993) and Tajima’s D (Tajima 1989) statistics.
+Genetic distance matrices were generated for the different data sets using the PAST v1.91 software suite (Hammer et al. 2001) for genome-wide SNP analysis, GenAlEx v6.2 for location data, and dnadist in PHYLIP v3.5 (Felsenstein 1989). These were used to calculate standardized Mantel statistics (rM ) using randomization test with 5000 permutations to assign significance to estimates.
+Unbiased genome-wide diversity (uh) for 68 accessions based on SNP genotyping was calculated using haploid diversity function in GenAlEx v6.2. Principal coordinate analysis (PCA) (Peakall & Smouse 2006) was performed also using GenAlEx v6.2. A 3D scatter plot using the first three principal coordinates of the PCA analysis was produced with SigmaPlot v11.0 (Systat Software Inc.). The phylogenetic tree was calculated using the UPGMA method in MEGA4 (Tamura et al. 2007).
+Detection of positive selection
+A maximum likelihood tree based on an alignment of the 47 barley and one wheat eIF4E coding sequence was inferred using RAxML v7.2.6 (Stamatakis et al. 2005) assuming the GTR + C (general time reversible with gamma distributed rate heterogeneity) model of nucleotide substitution. This tree and the sequences alignment were then fed to the program codeml of the PAML v4.4c package (Yang 2007) using ‘site models’ of codon substitution for detecting positive selection. Site models of codon substitution are used to estimate the nonsynonymous to synonymous substitution rate ratio (x = dN ⁄ dS) for each codon location (site) in a protein gene, with
+Ó 2011 Blackwell Publishing Ltd
+
+x = 1, x < 1 and x > 1 indicating neutral evolution, purifying selection and positive selection, respectively.
+Two pairs of models described in the study by Yang (2006) were compared. The first pair was M1a and M2a. In M1a, two classes of sites are assumed: a first class with x0 < 1 and another class of neutral sites with x1 = 1. A proportion p0 of sites belonged to the first class, and another proportion p1 = 1)p0 belonged to the second class. In this model, positive selection (x > 1) is not allowed, so this is the nearly neutral, null model. The second model, M2a, assumes three site classes. The first two classes are the same as in M1a plus a third extra class where x2 > 1. The proportion of codon sites belonging to each class was p0, p1 and p2 = 1)p0)p1. This is the positive selection model.
+The second pair was M7 and M8. M7 assumes one class of sites with x0 following a beta distribution with parameters a and b. The beta distribution is bound between 0 and 1, so positive selection (x > 1) is not allowed in this model. This is the null model. In model M8, two site classes are assumed. The first class of sites follows a beta distribution as in M7, and the second class of sites has x1 > 1. A proportion p0 of sites belonged to the first class, and another proportion p1 = 1)p0 belonged to the second class. This is the positive selection model.
+First, for each model, the likelihood of the alignment given the tree topology was calculated. Then, the log likelihoods for both models in each pair were calculated and compared to decide whether a class of sites with x > 1 (i.e. those under positive selection) is justified.
+We note that the use of codon substitution models to detect positive selection in population level data (as in our case) is usually highly conservative. In many cases, thousands of sequences may be necessary if selection is relatively weak for the tests to have any power (Anisimova 2003). Highly similar sequences and strong linkage among sites mean that x is usually underestimated from this type of data (Bustamante 2005; Kryazhimskiy & Plotkin 2008). Therefore, the fact that selection may be detected at all for a given data set should be interpreted as stronger evidence that positive selection is indeed present.
+Results
+Allele mining in the coding sequence of eIF4E
+The Rothamsted Barley Diversity (RBD) collection comprising 1090 landraces and noncurrent cultivars, differing in the growth habits and morphological characteristics, originating from 84 countries spread over six continents (Table 1 and Table S1, Supporting information), was assembled. The coding sequence of the eIF4E
+gene was analysed in the RBD collection using direct sequencing of amplified nearly full-length eIF4E cDNA and a novel two-step approach involving high-resolution melting (Hofinger et al. 2009).
+Of the 1090 genotypes screened, 47 eIF4E haplotypes were identified. There were two wild-type eIF4E haplotypes wt0A (from cv. Morex) and wt0B (from cv. Igri) that confer susceptibility to bymoviruses BaYMV and BaMMV, two previously recognized haplotypes rym4 (from cv. Franka) and rym5 (from cv. Misato Golden) that confer resistance to a subset of bymovirus isolates (Kanyuka et al. 2005; Stein et al. 2005) and the 43 novel haplotypes with unknown resistance specificity (Table S1, Supporting information). The frequency of each haplotype among the sampled accessions is shown in Table 2 and Fig. 1. Over 600 of the 1090 accessions screened (0.550) carried wt0A and only 19 accessions (0.017) carried wt0B, with rym4 and rym5 represented in only a few individuals (0.007 and 0.001, respectively). The 43 novel eIF4E haplotypes were found within 462 accessions. Of these, 237 (0.217) accessions contained the haplotype designated as 01, and the frequency of the other novel haplotypes (designated as 02 through to 43) were between 0.033 and 0.001 (Table 2).
+Across the different geographical regions, the frequencies of eIF4E haplotypes differed markedly. This was particularly evident for the haplotype 01 which was rare in Central Asia and East Asia (0.028 and 0.013, respectively) and completely absent in Ethiopia and Yemen, but most frequent in Africa, Australia and Americas (0.583, 0.571 and 0.456, respectively) (Fig. 2a). Also noticeable was the complete absence of this haplotype in Japan, Korea, Mongolia and most of the China, as well as the absence of the Morex-type wt0A haplotype in the easternmost provinces Jiangsu and Zhejiang of China (Fig. 2b).
+Most of the other, i.e. the less frequently identified haplotypes were found to be either confined or more commonly occurring in specific geographic regions (Figs 1 and 2b). Of the 40 haplotypes that were present in <10% of the accessions sampled, 24 were unique to one region: eight were found exclusively in accessions from East Asia; six (including rym4), in accessions from Europe; five (including rym5), in accessions from Central Asia; three, in accessions from Ethiopia and Yemen; and two, in accessions from Near East (Figs 1 and 2b, and Table 2).
+Unbiased eIF4E haplotype diversity (uh) for each geographic region ranged from 0.256 (Near East) to 0.792 (East Asia) with a mean value of 0.572 ± 0.053 (Table 3). These values in general corresponded to the number of eIF4E haplotypes discovered. For example, the highest eIF4E haplotype diversity was found in East Asia, and this region also contained the largest number of eIF4E haplotypes (n = 25). However, the Near East
+Ó 2011 Blackwell Publishing Ltd
+DIVERSITY OF BARLEY EIF4E 3657
+
+3658 B. J. HOFINGER ET AL.
+Table 2 Frequency of the eIF4E haplotypes in barley accessions originating from different geographic regions
+ eIF4E sequence variant
+wt0A 01
+03
+02
+12 wt0B 14 04 22 06 07 rym4 16 13 17 20 28 15 05 08 18 19 30 35 38 40 11 23 29 31 39 09 10 21 24 25 26 27 32 33 34 36 37 41 42 43 rym5
+Overall Africa Americas Australia (1090) (115) (204) (14)
+0.550 0.339 0.358 0.357 0.217 0.583 0.456 0.571 0.033 — 0.113 0.071 0.024 — 0.005 — 0.022 — — — 0.017 — 0.020 — 0.016 — — — 0.014 — 0.034 — 0.009 — — — 0.008 0.052 0.005 — 0.008 — — — 0.007 — — — 0.006 — — — 0.005 — — — 0.005 — — — 0.005 — — — 0.005 — — — 0.004 — — — 0.003 — 0.005 — 0.003 0.017 — — 0.003 — — — 0.003 — — — 0.003 — — — 0.003 — — — 0.003 — 0.005 — 0.003 — — — 0.002 0.009 — — 0.002 — — — 0.002 — — — 0.002 — — — 0.002 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — — 0.001 — — —
+Central Asia (145)
+0.648
+0.028 0.021 0.048 0.062
+— 0.014 0.007 0.021
+—
+—
+—
+— 0.033
+Most frequent haplotypes within each geographic region are highlighted in bold. Haplotypes are ordered by overall frequency in the RBD collection.
+region despite the presence of reasonably large number of eIF4E, haplotypes (n = 8) had the lowest uh value because of the presence of mainly low-frequency haplotypes. Significant regional differentiation of eIF4E haplo-
+types was observed, and all pairwise population comparisons were significant, with an overall Wright’s FST value (Wright 1951) of 0.14 (P < 0.010) (Table S2, Supporting information).
+0.014 0.021 0.007 0.014
+0.020 0.013 0.027
+—
+— 0.027
+0.007 —
+0.007
+— 0.020
+0.014
+0.014 —
+— —
+0.007 0.014 0.007
+— — — — — — — — — —
+0.007 0.007 0.007
+— — —
+0.007
+— — — — —
+0.007 —
+0.007 —
+East
+Asia (150)
+0.420
+0.013 0.007 0.113 0.093 0.013 0.100
+Ethiopia & Yemen (39)
+0.590
+Europe (254)
+0.622
+0.185 0.028 0.004
+Near East (169)
+0.852
+0.095
+0.006 —
+ — 0.020 0.007
+— 0.006 0.039 0.018
+— — 0.008 — — 0.016 —
+—
+— 0.231
+0.004 — — — 0.032 — 0.004 — — — — — 0.000 — 0.012 — — — — — 0.004 — — — — —
+— 0.006 0.004 — 0.008 — 0.012 —
+— 0.006 — —
+— —
+— —
+0.008 —
+— —
+— —
+— —
+— —
+— —
+— —
+— —
+— —
+— 0.006 — —
+— — — — 0.004 — 0.004 — 0.004 — — –
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+0.007 —
+0.013
+— 0.026 — 0.026
+0.007 — 0.007 — 0.007 — 0.007 — 0.007 — 0.007 —
+— — — — — — — — — — — — — — — —
+— — — — — —
+0.128
+ Ó 2011 Blackwell Publishing Ltd
+
+eIF4E sequence diversity, haplotype diversity and comparison with the neighbouring gene (MCT-1) and the isoform eIF(iso)4E
+The coding region of eIF4E was sequenced in 811 accessions (Table S1, Supporting information). Sequencing revealed that each of the 47 identified eIF4E haplotypes contained between one and four SNPs and ⁄ or three INDELs located in the 3¢-terminal region of ORF. In total, there were 27 polymorphic sites, an in-frame deletion of 12 nt, and 9-nt or 12-nt in-frame insertions in the 5¢-terminal region of the eIF4E ORF (Fig. 3). The nucleotide diversity in the coding sequence of eIF4E as measured by p (Nei 1987) was 0.0033 and ranged from 0.0010 in the Near East (115 accessions) to 0.0033 in East Asia (143 accessions) and 0.0051 in Europe (100 accessions) (Table 4). All the identified polymorphic sites were nonsynonymous, i.e. resulting in amino acid changes in the encoded protein, with p values corresponding to the overall nucleotide variation (Table 4).
+To test whether the identified nucleotide polymorphisms were selectively neutral, D*, F* (Fu & Li 1993) and Tajima’s D (Tajima 1989) statistics were calculated. Several geographic regions showed evidence of nonneutral variation, with significant values for all three tests (Table 4). Significant deviations from neutrality were observed for the Near East accessions which were
+accompanied by low overall eIF4E sequence diversity (p = 0.0010) and a relatively high number of singleton haplotypes (Table 4). In contrast, significant values of D* and F* were associated with high eIF4E haplotype diversity for East Asia (24 haplotypes with uh of 0.802) and Central Asia (23 haplotypes with uh of 0.680) (Table 4).
+For comparative purposes, two additional barley genes were selected for an in-depth exploration of sequence diversity. These were MCT-1, which is located directly adjacent to eIF4E on chromosome 3H and codes for a PUA RNA-binding domain (Aravind & Koonin 1999) protein putatively involved in regulation of translation, and the isoform of translation initiation factor 4E and eIF(iso)4E, which is located on chromosome 1H (Fig. 4a) and which in Arabidopsis and some other plant species has been shown to confer potyvirus resistance (Maule et al. 2007). It remains unknown whether eIF(iso)4E plays a role in resistance to bymoviruses or any other barley-infecting viruses. For these analyses, a subset of 192 accessions from the main collection was explored using HRM and Sanger sequencing (Table S1, Supporting information). This subset included at least one accession as the representative carrier of each of the 47 eIF4E haplotypes and, although dominated by accessions from East Asia, all other major geographic regions were also sufficiently represented. In this experimental
+Ó 2011 Blackwell Publishing Ltd
+DIVERSITY OF BARLEY EIF4E 3659
+  Fig. 1 The geographical origins of all identified eIF4E haplotypes [except for the two most frequent haplotypes wt0A (0.550) and 01 (0.217)]. The height of the bars shows the total number of barley accessions identified carrying each of the haplotypes 02–43, wt0B, rym4 and rym5. Each accession is coloured according to the geographic origin using the same colour code as indicated in the boxed information. The haplotypes are arranged in descending order both between and within each geographical origin.
+
+3660 B. J. HOFINGER ET AL. (a)
+(b)
+Fig. 2 eIF4E haplotype frequency and geographic distribution. (a) Comparison of eIF4E haplotype frequencies in 10 geographic regions. The pie diagrams display the frequency of each haplotype. The slices representing the most frequent haplotypes wt0A and 01 in each region are coloured as indicated, and the exact proportions of each are given in per cent. All other haplotypes are indicated as red slices to give an impression of their total proportion in each of the geographic regions. For clarity, the circle size is constant and therefore does not denote the number of accessions tested per region. (b) Frequency of eIF4E haplotypes in Korea, Japan, Mongolia and provinces of East China. The circle size is again constant. The identity of each haplotype in the pie diagrams is given by the corresponding colour code.
+subset of accessions, the overall unbiased haplotype diversity (uh) was 0.831 for eIF4E, 0.146 for MCT-1 and 0.000 for eIF(iso)4E with 47, 4 and 1 haplotypes, respectively, revealing low diversity of the two additional bar-
+ley genes that have either a common genome location or sequence homology with eIF4E (Fig. 4b; Table S3, Supporting information).
+Genome-wide SNP genotyping reveals a close genetic relationship between barley accessions from East Asia containing diverse eIF4E haplotypes
+To determine whether eIF4E sequence variation was significantly higher than the genome-wide average, 70 accessions, for which the complete ORF sequence of eIF4E including its GC-rich 5¢-portion has been determined, were subjected to SNP genotyping using the Illumina GoldenGate oligo pool assay. In total, 384 SNPs originating from mapped ESTs and distributed at fairly equal genetic distances along all seven barley chromosomes (Moragues et al. 2010) were tested. All SNPs except one were technically satisfactory and genetically informative. The genotyping data for 383 SNPs were used to calculate a pairwise genetic distance matrix for the 70 interrogated accessions, followed by principal coordinate analysis (PCA). These analyses revealed six clusters of genetically related accessions (Fig. 5 and Fig. S1, Supporting information). A formal examination of whether the genetic relationships among individuals is the same at the eIF4E locus and across the genome was tested using the generated pairwise genetic similarity matrices. A standardized Mantel statistic (rM) based on a randomization test with 5,000 permutations was not significant, indicating that the variation at eIF4E does not reflect the genome-wide diversity. This result must be treated with some caution because of the small number of accessions per region surveyed.
+There were several interesting observations from the clustering based on the genome-wide SNP analysis. Almost all of the accessions from Central Asia and East Asia clustered together (Cluster I, Fig. 5). Furthermore, when unbiased diversity across all SNP loci was calculated, both Central and East Asia exhibited lower uh values than the other regions and lower than the overall mean (Table 5 and Fig. S2, Supporting information), suggesting overall close genetic relationship of all 18 tested accessions from these geographic regions. This is supported by the analysis of allele frequencies which showed (i) in general an overall lower number of polymorphic SNPs in these two geographic regions and (ii) the differences between the frequencies of alternate character states at each locus follow a similar overall pattern (Fig. S3, Supporting information). Nevertheless, these findings should also be treated with some caution and will benefit from verification when genome-wide SNP data become available for a larger numbers of accessions (or, better still, all 1090 accessions of the RDB collection).
+    Ó 2011 Blackwell Publishing Ltd
+
+ Geographic region
+Near East
+Australia
+Africa
+Central Asia
+Europe
+Ethiopia and Yemen Americas
+Number of accessions
+Number of
+eIF4E haplotypes
+9 3 5
+23 19 5 9 25 47
+Haplotype diversity (uh)
+0.264 0.541 0.542 0.570 0.575 0.581 0.650 0.787 0.564
+Table 3 The eIF4E haplotype diversity in accessions from different geographical regions
+East Asia
+DIVERSITY OF BARLEY EIF4E 3661
+ 169 14 115 145 254 39 204 150 Overall 1090
+  Fig. 3 Distribution of polymorphic SNPs and INDELs across 47 eIF4E haplotypes. Position of polymorphic sites in the coding sequence of barley eIF4E is shown in the top row, and haplotype names are given in the left hand column. Absence of a nucleotide at a particular position is indicated by dash.
+Evidence that barley eIF4E is under positive selection pressure
+The results for the positive selection analysis with the site models of codon substitution using the PAML v4.4c
+package of programs for phylogenetic analyses of DNA and protein sequences using maximum likelihood are summarized in Table 6. In both likelihood ratio tests, for the models M1a (variable selective pressure but no positive selection) and M2a (variable selec-
+Ó 2011 Blackwell Publishing Ltd
+
+3662 B. J. HOFINGER ET AL.
+tive pressure with positive selection), and M7 (beta distributed variable selective pressure) and M8 (beta distributed variable selective pressure plus positive selection), the inclusion of a class of positively selected sites was statistically justified with the P-values 4.78– 4.87 · 10)22. In model M2a, 3.2% of the sites (p2) were estimated to be under strong positive selection (x2 = 24.09) and about 30% of the sites are estimated to be evolving neutrally. The rest of the sites (67%) predicted to be strongly conserved and showed no variation. The results for the model M8 were similar, with the proportion of sites having a signature of positive selection (p2) also estimated to be 3.2% with a very high dN ⁄ dS value (x1 = 23.87). The shape parameters of the beta distribution were estimated to be small (a, b << 1) (Table 6). This indicates a U-shaped distribution where sites under no positive selection (0 < x < 1) evolve with x values either very close to zero or one.
+Discussion
+The combination of standard and novel allele mining approaches used in this study revealed an exceptionally high degree of variation in the coding sequence of barley eIF4E which was not evident in either the adjacent MCT-1 gene or the sequence-related eIF(iso)4E gene. A total of 47 different eIF4E haplotypes were identified in the assembled barley diversity collection comprising 1090 landraces and old cultivars from a total of 84 countries spread over the whole world (Fig. 1 and Table 1). Each of the identified haplotypes contained 1–4 SNPs and⁄or 1 INDELs. Interestingly, all the identified nucleotide polymorphisms resulted in amino acid changes. Exclusively nonsynonymous variations were previously identified in the coding sequence of the eIF4E gene in the analyses of 127 modern barley cultivars (Stracke et al. 2007) and 25 pepper (Capsicum annum) accessions (Charron et al. 2008). By contrast, a study on diversity of the eIF4E ORF in a set of 113 accessions of melon (Cucumis ssp.) identified only six SNPs, five of which were silent and only one resulting in an amino acid change (Nieto et al. 2007).
+In this study, which focused primarily on molecular analyses of barley landraces and very old cultivars, East Asia was identified as a hotspot of the eIF4E haplotype diversity (uh = 0.792) (Table 3). This is in agreement with earlier molecular analyses of mainly current barley cultivars which discovered more unique haplotypes in Asian than in European cultivars (Stracke et al. 2007). To test whether East Asian barleys in the assembled collection used in this study were highly genetically diverse, a representative set of 192 accessions (Table S1, Supporting information) was screened for variation in the cod-
+       Ó 2011 Blackwell Publishing Ltd
+Table 4 Barley eIF4E nucleotide diversity Pi (p), and haplotype diversity (uh) and selection (D* and F*, and Tajima’s D) statistics for each geographic region with corresponding significance values (*)
+Number of Geographic region accessions
+Number of
+polymorphic
+sites INDELS†
+Overall Pi
+Nonsynonymous Synonymous Pi Pi
+Number of haplotypes
+Unbiased haplotype diversity (uh)
+D* P* Tajima’s D 3.290** 3.265** )1.730*
+Near East 115 Australia 5
+9 1 2 1 2 0 4 0 7 1
+0.0010 0.0016 0.0019 0.0020 0.0023
+0.0012 0.0000 0.0020 0.0000 0.0024 0.0000 0.0026 0.0000 0.0029 0.0000
+8 2 5 5 9
+0.268 0.400 0.547 0.596 0.650
+N⁄A N⁄A N⁄A
+Ethiopia and Yemen Africa
+North and South
+39 115 181
+)0.295 0.051 )1.091 )0.873 )2.618* )2.087*
+0.747
+America Central Asia East Asia Europe Overall
+17 3 17 2 17 2 27 3
+0.0023 0.0033 0.0051 0.0033
+0.0029 0.0000 0.0042 0.0000 0.0064 0.0000 0.0041 0.0000
+23 19 24 46
+)2.430* )2.610* )0.719 )0.612 )2.470* )2.310*
+)1.786* )0.151 )1.020
+†INDEL locations: 466–477, ‡SE.
+*P £ 0.05; **P £ 0.01.
+493–501 or 493–504 bp.
+113 143 100 811
+0.680
+0.767
+0.802
+0.589 (0.064)‡ N⁄A N⁄A N⁄A
+0.044 )0.619
+
+ing sequences of the two other genes: MCT-1—the gene separated from eIF4E by <1 kb on chromosome 3H (Stein et al. 2005; Wicker et al. 2005) and eIF(iso)4E—the gene encoding an isoform of eIF4E located on chromosome 1H (K. Kanyuka, unpublished). Surprisingly, the eIF(iso)4E ORF was monomorphic (uh = 0.000) in accessions from all geographic regions including East Asia. Sequence variation in the MCT-1 ORF was also quite limited as only three polymorphic sites were identified, and considering polymorphisms, all tested accessions were grouped into three haplotypes (uh = 0.146). Importantly, all tested accessions of East Asian origin belonged to the same very common haplotype designated as the ‘wt’. These data suggested that the intraspecific eIF4E sequence diversity observed in this study may be significantly higher than the genome-wide average.
+To test the above hypothesis, 383 genome-wide genic (i.e. EST-derived) SNPs in a small subset of accessions (n = 70) representing 44 different eIF4E haplotypes were analysed. This pilot analysis indicated that 16 tested East Asian genotypes each with a different eIF4E haplotype were closely related within a single cluster (cluster I in Fig. 5 and Fig. S1, Supporting information) and that the level of diversity within this group was lower than in the five other regions (Table 5). This result is in contrast to the great diversity of the eIF4E haplotypes identified in accessions from this same region (Figs 1
+and 2b, and Table 3). This may reflect the SNPs used in the design of the 384 BeadExpress OPA with emphasis on European cultivated germplasm (Moragues et al. 2010). These initial findings based on the genome-wide SNP analysis of only a few individuals would need to be confirmed in future study on a larger set of accessions and preferably on the whole set of 1090 RBD accessions. Nevertheless, the genome-wide SNP genotyping data obtained in this study are consistent with the data obtained in an earlier study utilizing a different set of genetic markers (Liu et al. 1999), which revealed a higher genetic diversity in barley accessions from India in contrast to those from East Asia, i.e. China, Korea and Japan. Similarly, another independent recent study demonstrated that barley landraces from Europe, North Africa, Near East and Southwest Asia display significantly higher genetic diversity than those from East Asia (Saisho & Purugganan 2007). Collectively, these data indicated that the barley eIF4E gene is under positive selection and that this evolutionary pressure is particularly strong in East Asia.
+The allele mining data presented here raise one immediate question: Why is there such a striking difference in sequence variation between the two isoforms of the translation initiation factor 4E, eIF4E and eIF(iso)4E, in barley? It is currently unknown whether other plant species have differences in degree of diversity between
+Ó 2011 Blackwell Publishing Ltd
+DIVERSITY OF BARLEY EIF4E 3663
+ (a)
+Fig. 4 Summary of the polymorphisms detected in the coding sequences of the eIF4E, MCT-1 and eIF(iso)4E genes in barley. (a) Schematic representation of the locations and orientations of the three genes selected for diversity screening on barley chromosomes 1H and 3H. (b) Localization of the positions of 22 single nucleotide polymorphisms (¤), the deletion (,) and the insertions (4) identified in the coding sequence of eIF4E. (c) Localization of the positions
+(b) of three single nucleotide polymorphisms (¤) identified in the coding sequence of MCT-1. (d) No variation was detected in the coding sequence of
+(c)
+(d)
+eIF(iso)4E.
+
+3664 B. J. HOFINGER ET AL.
+ Fig. 5 Principal coordinate analysis (PCA) of genome-wide SNP data for 70 barley accessions carrying a diversity of eIF4E haplotypes. The genotyping was carried out using the 384 SNP Illumina GoldenGate oligo pool assay on the BeadXpress platform. The PCA was based on 383 genome-wide SNP markers. The 3D scatter plot displays the first three principal coordinates derived from PCA. The percentage of variation is indicated for each of the three axes. The colouring of each sample indicates the geographic origin using the colour code as indicated in the boxed information below. In addition, modern cultivars are indicated by white circles.
+the eIF4E and eIF(iso)4E genes similar to barley. Increased mutation rates may indicate the gene in question is under relaxed selection pressure. This often occurs following a gene duplication event, whereby one copy remains fully functional and retains its original function, while the other experiences increased mutation rates and may eventually develop a novel function
+(Schmidt et al. 1997; Zhang 2003). However, in the case of eIF4E and eIF(iso)4E, each has important established overlapping and separate roles in cellular processes in plants (Rodriguez et al. 1998). Additionally, a higher frequency of silent mutations would be expected in the case of relaxed selection pressure. The excess of nonsynonymous changes in barley eIF4E indicates that this gene may be under positive selection. Indeed, using the PAML v4.4c package of phylogenetic analyses of DNA ⁄ protein sequences by maximum likelihood, we obtained a strong evidence of positive Darwinian selection acting on the barley eIF4E gene (Table 6). One plausible explanation for the unusually high overall degree of eIF4E sequence variation and haplotype diversity identified may be that these are important for adaptation to different local habitats. It has been recently shown that eIF4E in pepper, tomato and pea is under positive selection pressure (Cavatorta et al. 2008). Importantly, the majority of the genes identified as under positive selection pressure have been shown to be involved in pathogen defence (Yang & Bielawski 2000; Tiffin & Moeller 2006; Chen et al. 2010). Differences in the diversity of a pathogen defence gene in response to environmental conditions leading to different selection pressure by the pathogen have been demonstrated in wild barley (Cronin et al. 2007). Co-evolution between the pepper eIF4E and potyviral VPg has recently been proposed (Charron et al. 2008). It is reasonable to suggest that this may also be the case for the barley eIF4E gene–bymoviral VPg. This hypothesis is indirectly supported by the fact that yellow mosaic disease of barley caused by BaYMV and ⁄ or BaMMV is considered a serious problem in East Asia (Kanyuka et al. 2003), i.e. the region with the greatest eIF4E haplotype diversity (uh = 0.802; Table 4) and an identification of only a minimal eIF4E haplotype diversity in geographical regions where these two bymovirus species have not or only occasionally been reported (Ku ̈hne 2009). Selection statistic calculations using coalescent simulations in DnaSP v4.10.9 showed evidence of non-neutral variation for eIF4E in several geographic
+ Geographic region
+East Asia
+Ethiopia and Yemen Africa
+Central Asia Americas
+Europe
+Overall
+Number sampled
+17 6 7 12 12 14 68
+Unbiased diversity (uh)
+0.185 0.221 0.275 0.286 0.352 0.427 0.291
+SE
+0.009 0.014 0.012 0.009 0.011 0.007 0.005
+Table 5 Genetic diversity (uh) calculated for 68* accessions that have been genotyped with 383 SNPs
+  *Two accessions, one from Near East and one from Australia, were excluded from this analysis.
+Ó 2011 Blackwell Publishing Ltd
+
+DIVERSITY OF BARLEY EIF4E 3665 Table 6 Parameter estimates and likelihood scores under models of variable x ratios among sites for the barley eIF4E gene
+ Site model M1a
+M2a
+M7
+M8a M8
+‘* )1438.24 )1414.50 )1438.39 )1438.17 )1414.51
+2D‘† (d.f., P-value)
+47.48 (2, 4.90 · 10)11)§
+47.26 (2, 5.47 · 10)11)§– 47.32 (NA, 3.01 · 10)12)**††
+Parameter estimates
+p0 = 0.727, p1 = 0.273
+x0 = 0.00, x1 = 1.00‡
+p0 = 0.672, p1 = 0.296, p2 = 0.032
+x0 = 0.00, x1 = 1.00‡, x2 = 24.09
+p0 = 1.00‡
+x0 􏰁 beta (a = 0.005, b = 0.012)
+p0 = 0.727, p1 = 0.273
+x0 􏰁 beta (a = 0.005, b = 2.303), x1 = 1.00‡ p0 = 0.968, p1 = 0.032 x0􏰁beta(a=0.005,b=0.012),x1=23.87
+  *Log-likelihood scores.
+†Likelihood ratio statistic.
+‡Fixed value.
+§The correct null distribution for this test is not known and we use a v2d.f. = 2 distribution, which makes the test conservative. –M8 vs. M7.
+**M8 vs. M8a.
+††The null distribution of this test is a 50:50 mixture of point mass 0 and v2d.f. = 1.
+regions, including East Asia (Table 4). Nevertheless, the aforementioned hypothesis requires thorough experimental scrutiny in future studies. For instance, it would be interesting to determine whether numerous eIF4E haplotypes identified in this study represent multiple virus resistance alleles with unique resistance spectra. Selected accessions carrying the newly identified eIF4E haplotypes are currently being tested for resistance ⁄ susceptibility using bioassays where each of the five known European bymovirus pathotypes is individually tested via rub-inoculation onto the leaves of young seedlings. Our preliminary experiments suggest that most of the novel eIF4E haplotypes in barley direct resistance to one or more bymovirus pathotypes (Hofinger et al. 2010). It would also be interesting to sample en mass BaYMV and BaMMV isolates from various geographic regions and to determine whether there is a positive correlation between the diversity levels of the barley eIF4E gene and bymovirus genomes (particularly at the VPg gene).
+A selection of 70 barley accessions, containing various eIF4E haplotypes, were grouped into six clusters based on the genome-wide genotyping data using 383 genic SNPs (Fig. 5). Noticeably, 17 accessions of 20 were analysed, originating from Central Asia and East Asia, grouped together (cluster I), whereas clearly separated from this was cluster II containing accessions mainly originating from Europe (Fig. 5). Interestingly, such a distinct East–West separation was also noticeable for geographic distribution of eIF4E haplotypes. While the haplotypes wt0A and 01 were frequent in the western accessions, these were considerably less frequent or rare in East Asian accessions (Fig. 2a). In contrast, haplo-
+types 02, 12 and 14 occurred most frequently in East Asia, whereas in Europe, these were virtually absent (Figs 1 and 2b). The two recognized resistance-conferring eIF4E haplotypes also followed this trend: rym4 and rym5 were found exclusively in Europe and East Asia, respectively (Fig. 1). A previous molecular genetics analysis of modern barley cultivars has also revealed independent evolutionary histories for rym4 and rym5 (Stracke et al. 2007). However, in the aforementioned study, the strong dimorphism associated with rym4 and rym5 did not correspond to any geographic differentiation. Such a differentiation is likely to have been obscured by intensive breeding and global exchange of previously local crops. The genome-wide SNP genotyping also revealed a clear separation of accessions with the common eIF4E haplotype 01 into two groups, a group of six-rowed and another group of two-rowed barley accessions. The latter group also contained the current two-rowed barley cultivar Optic (Fig. S1, Supporting information). A similar distinction between European two-rowed and six-rowed barleys has also recently been observed in studies from other laboratories (Malysheva-Otto et al. 2006; Stracke et al. 2007; Comadran et al. 2009). Transition from two-rowed to sixrowed barley is caused by mutations in the Vrs1 gene and historically occurred several times in different regions (Komatsuda et al. 2007). Interestingly, in the current study, the 10 two-rowed barleys were classified in four genetically distinct clusters (Fig. S1, Supporting information).
+In addition, this study provided some interesting insights into historic global cultural ⁄ trade routes of barley. Two accessions, RBD561 and RBD875, containing
+Ó 2011 Blackwell Publishing Ltd
+
+3666 B. J. HOFINGER ET AL.
+the haplotype wt0B of eIF4E were genetically closely related irrespective of their geographic origin (Fig. S1, Supporting information). The same was true for the carriers of the haplotypes 03 and 04, originating from several geographic regions including the Americas (Fig. 5 and Fig. S1, Supporting information). Two accessions, RBD2 and RBD100, originating from South America and containing the haplotypes 02 and 05 were classified in the ‘Asian’ cluster I (Fig. 5 and Fig. S1, Supporting information). In summary, these data suggest barley traffic between the New World and Europe, Asia and North Africa. A good example is the eIF4E haplotype 03, which was quite widespread and frequently found in South America (Fig. 1 and Table 2). However, all of these accessions are hulless (Fig. S1, Supporting information and data not shown), which is the predominant type of barley found in the Himalayan region (Taketa et al. 2004; Pandey et al. 2006). It seems likely that the ancestral carrier(s) of the haplotype 03 was introduced from the Himalayan region to other geographic regions traditionally favouring cultivation of hulless barley because of its high nutritional value. Interestingly, an old European landrace Swedish hulless, which also carries the same eIF4E haplotype, was classified in the Asian cluster (Fig. S1, Supporting information) indicating another cultural ⁄ trading route, i.e. from Central Asia to Europe. All eight tested six-rowed carriers of one of the most commonly occurring eIF4E haplotype 01 from diverse geographic regions were also genetically closely related (Fig. S1, Supporting information) indicating a common ancestry. These accessions were classified in one cluster together with accessions from Tunisia carrying the haplotype 06 (Fig. S1, Supporting information), which is closely sequence related to the haplotype 01 (Fig. 3). Therefore, we hypothesize that one of the most common eIF4E haplotype 01 may have originally evolved in North Africa and from there spread around the world.
+Acknowledgements
+The authors thank Dr Harold E. Bockelman (National Small Grains Collection, USDA-ARS, Aberdeen, Idaho, USA) for providing numerous barley genotypes, Mr Richard Parkinson and other Rothamsted Research glasshouse facility staff for the production of excellent plant material, and our project collaborators Drs John Walsh, Guy Barker and Carol Jenner (all Warwick-HRI, UK) for helpful discussions and useful suggestions. This study was supported by the grant BBE0071981 from the Biotechnology and Biological Sciences Research Council (BBSRC) of the United Kingdom (‘Innovation in Crop Science—Exploitation of Genetics for Sustainability’ initiative) awarded to JW, KK, GB and KEHK. Mario dos Reis is being supported by the BBSRC grant BB ⁄ G006431 ⁄ 1 awarded to Prof Ziheng Yang.
+References
+Ó 2011 Blackwell Publishing Ltd

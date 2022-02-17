@@ -1,0 +1,475 @@
+         ORIGINAL ARTICLE
+CALIBRATING DIVERGENCE TIMES ON SPECIES TREES VERSUS GENE TREES: IMPLICATIONS FOR SPECIATION HISTORY OF APHELOCOMA JAYS
+John E. McCormack,1,2 Joseph Heled,3 Kathleen S. Delaney,4 A. Townsend Peterson,5 and L. Lacey Knowles1 1Museum of Zoology, Department of Ecology and Evolutionary Biology, University of Michigan, Ann Arbor,
+Michigan 48109
+2E-mail: jmccormack@lsu.edu
+3Computational Evolution Group, Department of Computer Science, University of Auckland, Auckland, New Zealand 4University of California, Los Angeles, Department of Ecology and Evolutionary Biology, 621 Charles E. Young Dr., Los Angeles, California 90095
+5Biodiversity Institute, University of Kansas, Lawrence, Kansas 66044
+Received February 4, 2010 Accepted July 20, 2010
+Estimates of the timing of divergence are central to testing the underlying causes of speciation. Relaxed molecular clocks and fossil calibration have improved these estimates; however, these advances are implemented in the context of gene trees, which can overestimate divergence times. Here we couple recent innovations for dating speciation events with the analytical power of species trees, where multilocus data are considered in a coalescent context. Divergence times are estimated in the bird genus Aphelocoma to test whether speciation in these jays coincided with mountain uplift or glacial cycles. Gene trees and species trees show general agreement that diversification began in the Miocene amid mountain uplift. However, dates from the multilocus species tree are more recent, occurring predominately in the Pleistocene, consistent with theory that divergence times can be significantly overestimated with gene-tree based approaches that do not correct for genetic divergence that predates speciation. In addition to coalescent stochasticity, Haldane’s rule could account for some differences in timing estimates between mitochondrial DNA and nuclear genes. By incorporating a fossil calibration applied to the species tree, in addition to the process of gene lineage coalescence, the present approach provides a more biologically realistic framework for dating speciation events, and hence for testing the links between diversification and specific biogeographic and geologic events.
+KEY WORDS: Aphelocoma,BEAST,divergencetimes,fossilcalibration,genetree,glaciations,mountainuplift,Pleistocene,species tree.
+The timing of speciation events holds special significance for addressing questions in evolutionary biogeography (e.g., Brown et al. 2008), yet obtaining accurate estimates for divergence times on phylogenies is notoriously difficult and fraught with potential sources of error (Arbogast et al. 2002; Grauer and Martin 2004). Recent analytical advances in relaxed phylogenetics (Thorne and
+Kishino 2002; Sanderson 2003; Drummond and Rambaut 2007) have addressed many of these difficulties, for instance by allowing for molecular rate heterogeneity among lineages (reviewed in Brown and van Tuinen in press). Timing estimates have also been made more accurate with the inclusion of fossil calibrations (Yang and Rannala 2006) and informative priors on substitution rates
+doi:10.1111/j.1558-5646.2010.01097.x
+ ⃝C 2010 The Author(s). Evolution ⃝C 2010 The Society for the Study of Evolution. 1 8 4 Evolution 65-1: 184–202
+
+         (e.g., Weir and Schluter 2008). However, these advances have thus far been limited to gene-tree or concatenation approaches, where divergence times are estimated under the assumption that all gene trees share the same topology and branch lengths. Yet research shows that topological discord among genes is commonplace (Knowles and Carstens 2007; Cranston et al. 2009), and although multiple potential sources for gene-tree heterogeneity exist (Maddison 1997; Degnan and Rosenberg 2009), a universal source of discord arises from the random coalescence of gene lineages (Kingman 1982). Compared to concatenation, the multilocus coalescent allows for much more accurate estimation of the divergence history (i.e., the pattern of species splitting) (Maddison and Knowles 2006; Edwards et al. 2007; Kubatko and Degnan 2007; Heled and Drummond 2010). Moreover, because the timing of gene divergences necessarily predates the actual speciation event (unless gene flow accompanies species divergence), conclusions based on gene trees will always overestimate divergence times in contrast to multilocus coalescent approaches (Edwards and Beerli 2000; Carstens and Knowles 2007b). In light of these issues, the unification of species-tree methods (which are based on the multilocus coalescent; Knowles 2009) with relaxed phylogenetics provides a next step in the progress toward a precise and accurate understanding of the timing of species diversification.
+Accurate estimation of divergence times is especially critical when testing diversification hypotheses that involve adjacent, nonoverlapping time intervals. In North America, mountain formation and glacial cycles were two largely discrete Earth history events that radically reshaped landscapes (Axelrod 1979; Webb and Bartlein 1992; Hewitt 2004), affecting both the timing and tempo of speciation of plants and animals (e.g., Knowles 2000; Lessa et al. 2003; Smith and Farrell 2005). Peaking during the Miocene, mountain uplift fragmented species’ ranges and created high-elevation habitats for colonization (Van Devender 2002). Despite the general consensus that these events promoted diversification (Badgley, in review), few detailed genetic studies have linked speciation events to this time period (but see Riddle 1995, 1996; Jaeger et al. 2005). More emphasis has been placed on Pleistocene glacial cycles, which are thought to have promoted divergence either directly through ice sheet advance (Weir and Schluter 2004) or indirectly by fragmenting habitats (Hewitt 1996; Knowles 2001; Knowles et al. 2007; Muster et al. 2009). The signal of Pleistocene divergence is expected to be particularly evident in the last 0.7 million years (Ma), when glacial cycles became more intense (Webb and Bartlein 1992). In birds, the bulk of evidence appears to support a prominent role for glacial cycles in diversification (Avise and Walker 1998; Weir and Schluter 2004; Cicero and Johnson 2006), although some evidence based on fixed-rate molecular clocks points to pre-Pleistocene divergence (Klicka and Zink 1997, 1999; Lovette and Bermingham 1999). The importance of glacial cycles (Weir and Schluter 2007) and
+other major biogeographic events (e.g., land bridge completion between North and South America; Weir et al. 2010) to speciation has begun to be addressed with relaxed phylogenetics, but how conclusions might differ if analyses were conducted at the level of the species tree—the appropriate level for such analyses—is unknown.
+We test the relative roles of mountain uplift and glacial cycles on diversification in jays (genus Aphelocoma) by calibrating divergence times on a species tree, an analysis made possible by recent modifications to the program BEAST (Drummond and Rambaut 2007) that allow for joint estimation of the species tree and divergence times (∗BEAST; Heled and Drummond 2010). In this framework, fossil calibrations are applied appropriately to the species tree, whereas priors on substitution rates are applied to individual gene trees. We compare species-tree divergence dates to those estimated from more traditional analyses, including a single mitochondrial DNA (mtDNA) gene tree and concatenated data from one mtDNA gene and two nuclear introns.
+The bird genus Aphelocoma provides an excellent study system with which to test the relative influence of Pleistocene glacial cycles and Miocene mountain uplift in North America in a speciestree framework. With a nearly continent-wide distribution (Fig. 1), Aphelocoma is part of a larger radiation of jays that occurs in the
+Figure 1. Geographic distributions of Aphelocoma jays. The three major species groups (i.e., Mexican Jays, Scrub-Jays, and Unicolored Jays) are indicated with colored outlines and all the species lineages discussed in text are labeled. See Methods for details about species designations and Appendix 1 for comparison with existing taxonomy.
+DIVERGENCE DATING ON SPECIES TREES
+  EVOLUTION JANUARY2011 185
+
+         JOHN E. McCORMACK ET AL.
+New World (Bonaccorso and Peterson 2007). Aphelocoma species occupy regions of both high and low elevation in many ecological contexts (Pitelka 1951; Peterson and Vargas-Barajas 1993; McCormack and Smith 2008), making diversification hypotheses invoking both mountain uplift and glacial cycles plausible. Our time-calibrated phylogenies include a fossil calibration point for the genus, as well as a new fossil-calibrated mtDNA substitution rate (with error) for birds specifically (Weir and Schluter 2008). Bird fossils do not preserve well, and it is especially difficult to find pre-Pleistocene fossils that can be attributed with high confidence to a specific living species or ancestor. Setting Aphelocoma apart is the existence of a relatively old (1.98–2.01 Ma) fossil of the Florida Scrub-Jay (A. coerulescens), complete with synapomorphic bill traits (Emslie 1996). This fossil allows for a minimum age estimate on a node placed away from the tips of the phylogeny, where calibration points are most informative (Drummond et al. 2006). Additionally, although a modern phylogenetic analysis of the genus is largely lacking, geographic distributions (Pitelka 1951; Peterson 1991b) and phenotypic (Pitelka 1951; Peterson 1991a; McCormack et al. 2008b) and genetic diversity (Peterson 1992; Rice et al. 2003; Bhagabati et al. 2004; Delaney et al. 2008; McCormack et al. 2008a) in Aphelocoma are well described, providing a framework for a comprehensive systematic study including representatives from all known repositories of diversity (although the necessity of using ancient DNA limited the collection of nuclear data for some lineages). A pair of recent studies also suggests that Aphelocoma is older and more phylogenetically diverse than previously recognized (Delaney et al. 2008; McCormack et al. 2008b), distinctions that are not reflected in their current taxonomy (Watson 2005). A better understanding of the speciational history of Aphelocoma is important given the group’s status as a classic study system for the evolution of cooperative breeding (Woolfenden and Fitzpatrick 1985; Peterson and Burt 1992; Brown and Li 1995) and the ecological niche (Peterson and Holt 2003; Rice et al. 2003; McCormack et al. 2010).
+Methods
+STUDY SYSTEM
+Until the elevation of the Florida Scrub-Jay (A. coerulescens) and Island Scrub-Jay (A. insularis) to full species status separate from Western Scrub-Jays (A. californica) (American Ornithologists’ Union 1998), Aphelocoma was split into three species that corresponded to the major morphological and plumage types: Scrub Jays, Mexican Jays, and Unicolored Jays (Fig. 1). Single-species studies since that time have revealed considerable phylogenetic and morphological diversity within Western Scrub-Jays (Delaney et al. 2008) and Mexican Jays (McCormack et al. 2008b) that approaches species-level distinctiveness in the genus. Phylogenetic diversity within Unicolored Jays is less well known, owing to a
+lack of modern sampling south of the Isthmus of Tehuantepec in Mexico. Due to the uncertainty surrounding current species limits (Watson 2005), and because species-tree methods are most useful when each genetically isolated group is considered a separate taxon, we refer to the major lineages of Aphelocoma as full species (see Fig. 1 for geographic range of all lineages discussed hereafter). We acknowledge the possibility that some of these lineages might not merit elevation to full species status upon detailed study; however, they are included here to provide a more comprehensive view on the timing of the divergence history.
+An important assumption of species-tree methods is a lack of gene flow among lineages. In empirical studies, this assumption is often violated to some extent. However, compared to many other relatively recently evolved bird groups, gene flow among Aphelocoma lineages is limited; detailed studies have only documented likely cases of gene flow among two pairs of lineages (see Discussion for details). In neither case are these lineages sister taxa and in both cases gene flow is evident in nuclear markers whereas mtDNA show reciprocal monophyly. Although there are methods that model gene flow as well as the coalescent (i.e., the isolationwith-migration model; Hey and Nielsen 2004), the approaches based on the Isolation-with-Migration model are inappropriate if gene flow is not between sister taxa, and they require a speciestree as input (i.e., they do not provide an estimate of a species tree under a model of divergence with gene flow).
+SAMPLE COLLECTION AND DNA EXTRACTION
+Molecular analyses were based on 80 frozen tissue or blood samples from individuals from across the full extent of geographic, morphological, and taxonomic diversity currently known in Aphelocoma (Appendix 1). Genomic DNA was extracted from blood and tissue using a DNeasyTM Tissue Kit (Qiagen, Valencia, CA) following manufacturer’s protocols. For DNA extraction from toe pads of museum specimens of three Unicolored Jay lineages, for which fresh blood or tissue was not available, a similar protocol was used, except that the toe pads were washed in ethanol for several days prior to DNA extraction, special care was given to ensure sterile conditions, digestion time was extended for up to 72 h, and DNA was eluted with larger volume to increase yield and later vacuum-centrifuged to increase DNA concentrations.
+MITOCHONDRIAL DNA SEQUENCES
+A 636-bp fragment of the NADH dehydrogenase subunit 2 (ND2) was amplified using primers H-6313 and L-5216 and an 820-bp fragment of the cytochrome b (cyt b) gene was amplified using primers H-16065 and L-14990. PCR conditions were the same for both genes and follow procedures described in McCormack et al. (2008b). Several different pairs of internal primers were used to obtain ancient DNA. PCR products were sequenced using an automated ABI 3730 XL capillary sequencer (Applied Biosystems,
+ 186 EVOLUTION JANUARY2011
+
+         Foster City, CA). All sequences were aligned with SEQUENCHER 4.1.4 (Gene Codes Corporation, Ann Arbor, MI).
+NUCLEAR INTRON DNA SEQUENCES
+We screened a panel of 10 nuclear introns and chose two that amplified well across Aphelocoma taxa and were variable. We amplified a 527-bp portion of ornithine decarboxylase, introns 6 & 7 (OD) using primers OD.6F 5′-GATGAYTCCAAA GCAGTYTGTCGNCTCAG-3′ and OD.8R 5′-CCAGGRAA GCCACCACCAATRTC-3′ (Harrigan et al. 2008). We also amplified a 689-bp fragment of rhodopsin, intron 1 (Rho) using a specially designed forward primer Rhod.1Fjay 5′-GAGCCA CCTGCTCAGTATCC-3′ and Rhod.1R 5′ -CCCATGATG GCGTGGTTCTCCCC-3′ (Kimball et al. 2009). PCR reactions were carried out using the following conditions: 3 min at 92◦C, 35cyclesof1minat92◦C,30sat60◦C,and30sat72◦C, and a final extension of 5 min at 72◦C. Sequences were aligned with SEQUENCHER. Individuals with multiple heterozygous sites were phased probabilistically using the program PHASE (Stephens et al. 2001), accepting results with a probability >90%, using a burn-in of 10,000 iterations and a run length of 10,000 iterations. Haplotypes for remaining individuals were determined by cloning. Haplotypes for individuals heterozygous for indels were determined using the web-based program INDELLIGENT version 1.2 (Dmitriev and Rakitov 2008) or by cloning. TOPALi version 2 (Milne et al. 2004) was used to test for recombination in nuclear loci using the difference of sums of squares (DSS) method with a sliding window of 100-bp and 10-bp step size.
+SINGLE GENE-TREE ANALYSES
+Phylogenies for mtDNA data and nuclear introns were reconstructed using maximum likelihood (ML) and Bayesian analysis. Because there were several indels in the OD gene that appeared to be phylogenetically informative, Maximum Parsimony (MP) was also implemented with a heuristic search in PAUP∗ version 4.0b (Swofford 2000) with single and contiguous-base indels treated as a single event and included in the analysis. Prior to ML and Bayesian analysis, we selected a best-fit model of nucleotide substitution for each of the three genes (including by codon position for mtDNA only) using MRMODELTEST version 2.3 (Nylander 2004) under the Akaike information criterion (AIC). Data were partitioned into codon positions for mtDNA because different substitution models were indicated for each position (see Results).
+ML trees were estimated using GARLI, version 0.951 (Zwickl 2006) using best-fit nucleotide-substitution models, with parameter values estimated from the data and gamma-rate categories set to four. Bootstrap support for the mtDNA gene tree was assessed via 500 pseudoreplicates. Bayesian analysis on gene trees was performed using MRBAYES version 3.1.2 (Ronquist and Huelsen-
+beck 2003) as opposed to BEAST because multiple chains can be implemented more easily in the former, allowing for better exploration of parameter space. For mtDNA, we partitioned data by codon position, assigning to each partition its best-fit model family of nucleotide substitution, with all parameters unlinked between partitions except topology and branch lengths. We ran two independent analyses for 5 × 106 generations using four Markov chains and default heating values. Parameter values were estimated from the data using uniform priors. Trees were sampled every 1000 generations, resulting in 5000 trees for each run. A majority-rule consensus tree was created from the final 10,000 trees. For each analysis, burn-in times were determined by eye using Tracer version 1.5 and convergence was assessed with AWTY (Nylander et al. 2008) to confirm that the standard deviation of split frequencies approached zero.
+Phylogenies were rooted with sequences from close relatives of Aphelocoma as determined from a recent phylogeny of New World jays (Bonaccorso and Peterson 2007). For mtDNA, trees were rooted using DNA sequence from a Steller’s jay (Cyanocitta stelleri) and a pinyon jay (Gymnorhinus cyanocephalus). For nuclear introns, trees were rooted using C. stelleri.
+DIVERGENCE DATING OF GENE TREES
+For comparison to species-tree based estimates, divergence dates were estimated under a gene-tree framework from the mtDNA data alone and from concatenated data (i.e., the mtDNA and the two nuclear genes combined to estimate a single gene tree). Divergence times of the major lineages were estimated with the coalescence-based program BEAST version 1.4.8 (Drummond and Rambaut 2006). Desirable features of BEAST from the standpoint of this study include the ability to (1) calibrate the phylogeny using fossil data for certain nodes, (2) allow substitution rates to vary among branches, and (3) input a prior on the global substitution rate for mtDNA, incorporating error (Drummond et al. 2006). For both the mtDNA and concatenated gene analysis, we chose a Yule tree prior under the assumption that the gene tree is the species tree. As is customary for such analyses, we used a phylogeny pruned arbitrarily to include one representative from each of the major lineages uncovered with the mtDNA gene tree analysis. This method excludes closely related terminal taxa because the Yule tree prior does not include a model of coalescence, which can complicate rate estimation for closely related sequences (Ho 2005). For the mtDNA analysis, we used 17 Aphelocoma lineages (plus two outgroups). For the concatenated analysis, we used 14 Aphelocoma lineages plus one outgroup because nuclear data could not be obtained from the three Unicolored Jay lineages for which ancient DNA was used.
+For the mtDNA analysis, we used BEAST to estimate substitution models for each codon position, assuming uncorrelated rates. For this and all other BEAST analyses, we applied a lower bound
+DIVERGENCE DATING ON SPECIES TREES
+ EVOLUTION JANUARY2011 187
+
+         JOHN E. McCORMACK ET AL.
+of 1.87 Ma on the date of the split between A. coerulescens and other Scrub-Jays based on a fossil bearing synapomorphies in bill morphology unique to A. coerulescens (Emslie 1996). Not only is taxonomic error minimized when fossils are assigned to extant species, but the fact that the geographic range of A. coerulescens is far removed from other living congeners makes confusion with similar species less likely. Further details on identifying extant North America birds from bill fossil data can be found in Emslie (2007).
+The fossil A. coerulescens was dated to 1.87–2.01 Ma based on its occurrence in the Inglis 1A local fauna and reference to a detailed biochronology of Florida’s fauna (Morgan 2005). Potential error toward older dates was considered through the highly conservative application of a uniform prior to all dates from 1.87 Ma back to 100 Ma. Although a lognormal shape has been suggested for priors based on fossil data (Ho 2007), we had no information about the possible shape of the distribution (i.e., location of its peak and 95 HPD). To address potential error toward younger dates, we reran our analyses using 1.5 Ma as the lower bound. Results were qualitatively similar with mean divergence dates for all nodes differing on average 5% between the two analyses, well within the 95HPDs. BEAST requires a fossil calibration date on the root node or, if this is not available, a prior on the global substitution rate (Drummond et al. 2006). A middle Miocene fossil bearing similarities to Aphelocoma exists (Brodkorb 1972). However, given that the fossil is fragmentary and taxonomic assignment equivocal, we chose not to use this fossil to inform a prior on the root node as incorrect taxonomic assignment can introduce a large source of error into estimates of divergence times (Ho 2007). Instead, we applied a prior on the global mtDNA substitution rate (mean = 0.0105 substitutions/my ± 0.001 95% CI) based on new fossil calibrations of coding mtDNA substitution rates in birds (Weir and Schluter 2008). We allowed this rate to vary among branches in accordance with a lognormal distribution with uncorrelated rates. Some studies have found mutation rates to be much higher over recent timescales (Subramanian et al. 2009), suggesting time dependency of mutation rates; given that our study investigated speciation over several million years, we used a substitution rate calibration that corresponded to this timescale.
+In general, our priors were not expected to have an undue influence on the posterior age estimates because of the unrestrictive nature of our fossil prior (i.e., a flat prior). However, to examine whether this fossil prior was having a strong effect on our posterior divergence estimates, we ran an empty alignment (generated by Beauti) for the mtDNA data. Although similar analyses were not possible for all analyses (because of limitations arising from generating empty alignments from hand-edited XML files), we expect results of the empty alignment for the mtDNA gene tree to be generally representative because the same fossil prior was used in all analyses.
+For the concatenated analysis, we specified appropriate substitution models for the different data partitions. Data were concatenated by matching the mtDNA to one of the phased nuclear gene copies chosen at random for each individual to generate one concatenated sequence per individual. Preliminary analysis revealed that nuclear genes were evolving at rates similar to one another, but different from the mtDNA rate, so the XML file for analysis in BEAST was edited by hand to allow two molecular clocks, one for mtDNA and one for nuclear genes. The fossil prior and prior on the mtDNA substitution rate were the same as above.
+Chain lengths were 107 with parameters sampled every 103 for the mtDNA analysis because preliminary runs indicated that this analysis converged relatively quickly and remained stable. For the concatenated analysis, chain lengths were increased to 108. Convergence statistics were monitored by effective samples sizes (ESS), monitoring the run in Tracer version1.5, and with AWTY. A consensus tree with divergence times was obtained from the 10,000 or 100,000 trees after discarding the first 10% as burn-in, which was quite conservative.
+DIVERGENCE DATING OF THE SPECIES TREE
+Simulation studies have shown that three loci combined with multiple (3–9) gene copies per lineage is sufficient for recovering species trees with high accuracy for divergences much younger than that expected in our study (Maddison and Knowles 2006; McCormack et al. 2009; Heled and Drummond 2010; Knowles 2010). The species-tree analysis employed three genes and the number of gene copies per lineage ranged from 2 to 31 (average = 6.9 gene copies per lineage) across all loci. Species-tree analyses were implemented in ∗BEAST, part of the BEAST version 1.5.3 package. ∗BEAST infers species trees from multilocus data and shows advantages in computational speed and accuracy over other similar methods (Heled and Drummond 2010). ∗BEAST uses the multispecies coalescent, an extension of the coalescent prior designed to handle multiple species. Each gene tree is embedded inside the species tree and follows the coalescent in each extant and ancestral species. For this reason, and because ∗BEAST can handle different numbers of gene copies for each taxon, we used the full dataset representing all individuals from each Aphelocoma lineage (plus one outgroup) for which both mtDNA and nuclear data were collected. In addition to divergence times, ∗BEAST also incorporates an estimate of population sizes for each branch into species-tree estimation. Because our goals concerned the timing of diversification, we have focused only on divergence times here. The analysis used a Yule prior for the species tree. The fossil prior on the divergence of A. coerulescens was applied to the species tree, whereas the prior for the mtDNA substitution rate (see above) was applied to that gene tree only. Specifically, the XML was hand-edited to include a prior on the species tree
+ 188 EVOLUTION JANUARY2011
+
+         such that only topologies with C. stelleri as the outgroup were considered, and a uniform prior of 1.87–100 Ma was applied to the stem group (see Fig. 4) of A. coerulescens. The XML file with embedded instructions for hand-editing is included as Supporting information, and automation of XML file generation for this method with Beauti is planned for inclusion in the upcoming BEAST 1.6 package. The mtDNA data were partitioned into three codon positions, and a relaxed uncorrelated lognormal clock was applied to this gene tree. A strict clock was used for the nuclear genes following preliminary runs, which established no significant deviations from a strict clock in that, for these genes, the 95HPD of the posterior distribution of the standard deviation of the substitution rate included zero. Results for the ∗BEAST analyses were obtained by combining posterior samples from four independent chains of length 5 × 107 each. Again, convergence was assessed with ESS values, Tracer, and AWTY; a conservative cutoff of 10% was used for the burn-in.
+Because the mtDNA data were suspected to support a different topology than the nuclear data for reasons other than the stochasticity of the coalescent process (see Discussion), we also analyzed the mtDNA data separately. Although species-tree analyses are typically carried out using multilocus data, inference from a single locus is possible (see details in Heled and Drummond 2010), and preferable for estimating divergence times because they explicitly take into account the gene divergence within the ancestral population as opposed to analyses based directly on a gene tree, which do not take into account gene divergence that predates species divergence (see Edwards and Beerli 2000). Unlike the gene-tree analysis from above, all individuals were used, and as in the multilocus analysis, the fossil prior was applied to the species tree, whereas the mutation rate prior was applied to the gene tree. Chain lengths were 108 with parameters sampled every 103. For all analyses using *BEAST, a consensus tree with divergence times was obtained from the 100,000 trees after discarding the first 10% as burn-in. A cloudogram of the species tree was created from the posterior distribution of species trees with DensiTree (Bouckaert 2010).
+Results
+DNA SEQUENCE CHARACTERISTICS AND GENE TREE ANALYSIS
+Final mtDNA sequences were 820 bp for cyt b and 636 bp for ND2 with no premature stop codons. The two fragments were concatenated and treated as a single locus for further analysis. Of the total 1456 bp of mtDNA, 393 sites (27%) were variable. The OD nuclear intron was 527 bp with 24 (4.6%) variable sites. OD also had eight indels, some of which were fixed among lineages. Two deletions were found in a heterozygous state. An interesting insertion–deletion pattern was observed in some Scrub-Jays
+in which a suite of five substitutions occurred over a 15-bp region flanked on either end by a single-bp insertion and deletion. Twelve Scrub-Jays were detected with this substitution pattern in a heterozygous state and were readily observed by a characteristic 15-bp segment of nonaligning DNA. This portion was excised for ML and Bayesian analysis and coded as a single mutation event for MP. The Rho intron consisted of 689 bp total and had 30 variable sites (4.4%). No significant recombination was detected in the nuclear loci.
+For mtDNA data, MRMODELTEST identified a GTR + I + G as the best model for the locus, and HKY + I, GTR + I, and HKY + I + G for first, second, and third mtDNA codon positions, respectively. ML and Bayesian analysis of mtDNA data produced concordant trees with considerable phylogenetic structure (Fig. 2). Uncorrected sequence divergence among the major species groups (i.e., the Mexican Jays, Scrub-Jays, and Unicolored Jays) ranged from 9.9% to 10.3%. The Mexican Jay lineage from the Transvolcanic Belt, A. ultramarina, was also highly divergent (9.0% divergence from other Mexican Jays), as was the Florida Scrub-Jay, A. coerulescens (8.0% divergence from other Scrub-Jays). Bootstrap support and posterior probabilities were high for all branches except for the node uniting Mexican Jays and Scrub-Jays (Fig. 2).
+For the nuclear genes, best-fit models were HKY for OD and HKY + I for Rho. ML and Bayesian analyses were largely congruent in showing moderate levels of incomplete lineage sorting. (Fig. 3). Lineages observed in the mtDNA phylogeny often grouped together in the nuclear gene phylogenies, but others were paraphyletic. Two major mtDNA clades that were also monophyletic in both nuclear intron phylogenies were Unicolored Jays and A. ultramarina.
+PHYLOGENETIC DATING AND DIVERGENCE TIMES
+High effective sample sizes were observed for all parameters in all BEAST analyses (posterior ESS values >4000 for all four analyses) and assessment of convergence statistics in Tracer and AWTY indicated that all analyses had converged. Maximum clade credibility trees for the mtDNA and concatenated data (Figs. 4A, B) were identical in topology to those produced by Bayesian and ML analysis of the mtDNA tree. Divergence times for these two calibrated gene-tree based approaches were similar and supported initial Miocene diversification of the three major species groups (i.e., the Mexican Jays, Scrub-Jays, and Unicolored Jays), with divergence within these species groups occurring throughout the Miocene, Pliocene, and early Pleistocene (Fig. 4 and S1). Although the 95HPD for many nodes overlapped the Pleistocene, relatively few divergence events dated to the period of intense glacial cycles 0.7 Ma to present (Fig. 4).
+Analysis of the mtDNA within the calibrated species-tree approach (Fig. 4C), which used data from all individuals to inform
+DIVERGENCE DATING ON SPECIES TREES
+ EVOLUTION JANUARY2011 189
+
+         JOHN E. McCORMACK ET AL.
+ Figure 2. ML estimate of the phylogeny of Aphelocoma from mtDNA. The three major species groups in Aphelocoma are color coded (as with the map in Fig. 1). There is high support for all relationships except for the branch uniting Mexican Jays and Scrub-Jays where Bayesian posterior probability (above) and ML bootstrap score (below) are shown. See Appendix 1 for locality information for terminal taxa.
+divergence estimates, produced divergence-time estimates similar to those from the gene-tree based analyses. For all nodes, the 95HPDs for the species tree estimated from mtDNA overlapped with those estimated directly from the mtDNA gene tree, although the mean of estimates derived from the species-tree analysis of mtDNA were more recent (Fig. S1). In contrast, divergence time estimates derived from the multilocus calibrated species tree were considerably closer to the present (Fig. 4D), with a much higher proportion of divergences falling within periods of glacial cycling, particularly within Mexican Jay and Scrub-Jay species groups (nodes labeled 1 and 2; Fig. 4). Recent and older divergences were both shifted toward the present in the multilocus calibrated species tree compared to the those estimated directly from gene trees (Fig. 5), and the 95HPD for many divergence events did not overlap with those estimated either directly from the gene tree or
+the species tree based on just the mtDNA. The evidence for more recent divergences on the species tree is robust to the taxa missing from the multilocus species-tree analysis because the additional taxa in the Unicolored Jay clade would fall within the glacial period (i.e., they are more derived, or at the tips, of nodes that occur within glacial periods).
+The relationships among some of the lineages differed in the multilocus species-tree estimate compared with the other analyses, although such topological differences were not highly supported in the multilocus species tree (e.g., among the Scrub-Jay lineages; Fig. 6). A notable exception was the high support for a contradictory topology in the multilocus species tree in the placement of A. couchii (Figs. 4 and 6). Similarities between the multilocus species tree and other analyses include broad support for a Miocene-early Pliocene divergence of the major species
+ 190 EVOLUTION JANUARY2011
+
+          Gene trees for nuclear introns with the three species groups color coded (as in Figs. 1 and 2) showing lack of monophyly. The gray vertical bars mark the phylogenetic distribution of insertions or deletions.
+groups and a late Miocene-Pliocene divergence of A. ultramarina and A. coerulescens.
+Discussion
+This study provides the first implementation of calibrated speciestree divergence time estimates. Comparison of the dated divergences times for gene trees versus species trees showed a general pattern of more recent divergence times for species trees, regardless of node age (Fig. 5). This pattern was especially evident in the multilocus species tree (Fig. 4D), where many more divergence dates fell within periods of glacial cycling. Below, we discuss possible sources of discrepancy between gene-tree and species-tree results and discuss implications of the findings for biogeography, taxonomy, and conservation of Aphelocoma.
+ESTIMATING DIVERGENCE TIMES WITH GENE TREES VERSUS SPECIES TREES
+Divergence time estimates, even those that incorporate calibration points and a relaxed molecular clock, are necessarily going to have limited precision and accuracy if they are based on gene trees. For example, when dates are derived from estimated gene trees, whether from a single locus or concatenated datasets, the timing of gene divergences are not equivalent to speciation events because gene trees are embedded in species trees, and will therefore produce overestimates for the divergence dates (unless there is gene flow, Edwards and Beerli 2000). Moreover, dates based on a single gene tree are less precise than consideration of multiple loci because multiple gene trees provide indepen-
+dent realizations of the divergence history, and hence account for mutational and coalescent stochasticity. With divergence-time estimates derived from a calibrated gene tree, datasets are typically pruned, based on the reasoning that inclusion of multiple closely related gene copies biases divergence-time estimates toward the recent (Ho 2005) because the Yule model used in these approaches does not provide a sufficient representation of the coalescent process. Not only is the elimination of sequences subjective, especially when genes are incompletely sorted, but it is also not biologically realistic in that it gives time estimates of gene lineage divergence, not estimates of species lineage divergence. Thus, to prune or not to prune is not merely a practical consideration, but a theoretical one as well, bearing strongly on whether one accepts divergence dates of gene trees as if they reflect speciation. In contrast, the method presented here uses a calibrated species-tree for estimating divergence times (using the newly developed program ∗BEAST; Heled and Drummond 2010) and dates speciation events using a full probabilistic coalescent framework with sequence information from all individuals, incorporating both fossil priors, as well as priors on substitution rates for estimation of individual gene trees evolving within the species tree under a relaxed molecular clock (when deviation from a strict clock is warranted). This approach will be especially relevant for the many studies investigating taxonomic groups with poor fossil representation, especially at the root of the tree where calibration points are needed. In such cases, what fossil information exists can be incorporated with additional information on estimates of molecular substitution rates.
+Our results show that application of a gene-tree versus species-tree framework can have important consequences for estimating divergence times. It is noteworthy that some dates in the literature based on gene trees have reported that bird divergences predate the Pleistocene (cf. Klicka and Zink 1997). Although our gene-tree results often agreed with this interpretation (Figs. 4A, B), the multilocus species-tree for Aphelocoma (Fig. 4D) indicated a much stronger correspondence between Pleistocene glacial cycles and divergence, especially within the Mexican Jay and Scrub-Jay species groups (Fig. 4D, nodes 1 and 2). Although some lineages had to be excluded from the calibrated multilocus species tree analyses because of problems of amplifying nuclear loci from museum specimens, the results pertaining to the recency of speciation are nonetheless robust to the missing taxa. For example, if we had data on the three Unicolored Jay lineages, their inclusion would have added yet more examples of Pleistocene divergence given they are all derived lineages of a subclade which is itself estimated to have originated during the Pleistocene.
+That gene divergence will occur prior to species divergence is a biological truism. Consequently, divergence dating based on gene trees will necessarily overestimate divergence
+F i g u r e
+3 .
+DIVERGENCE DATING ON SPECIES TREES
+ EVOLUTION JANUARY2011 191
+
+         JOHN E. McCORMACK ET AL.
+ Figure 4. Time-calibrated phylogenies for Aphelocoma contrasting the dated divergence events from gene trees (A, B) with species trees (C, D). Cartoon bones indicate the location of the fossil prior. Node color indicates whether a divergence event falls into the Pleistocene (<2.58 Ma) with its 95HPD (yellow) and mean (orange), or into the period of intense glacial cycles (0.7 Ma) with its 95HPD (red) and mean (dark red). Divergence times for species trees are generally more recent than those from gene trees. This is especially evident in the multilocus species tree (D), where a higher proportion of divergence events overlap periods of glacial cycles (see text boxes). Coalescent simulations indicate that the branch length differences between the multilocus species tree (D) and mtDNA species tree (C) in Scrub Jays (node 2) is on the margin of that expected from coalescent stochasticity, implicating differential rates of gene flow between mtDNA and nuclear markers. Topological discord in Mexican Jays (node 1) might also have resulted from gene flow.
+times (Edwards and Beerli 2000), especially for recent divergence events (Carstens and Knowles 2007a). But can this general principle combined with stochasticity of the coalescent process entirely account for the differences in the divergence-time estimates derived from the gene-tree versus species-tree approaches for the jays, or must other processes be invoked? An important assumption of most species-tree methods is that gene flow is not responsible for incomplete lineage sorting (Knowles 2009; McCormack et al. 2009). This assumption is often violated in nature, especially in birds, where postzygotic isolation can take millions of years to accrue (Price and Bouvier 2002). Thus, empirical studies employing species-tree methods must consider gene flow as a possible source of topological and branch length error (e.g., Brumfield et al. 2008; Eckert and Carstens 2008), especially if certain genes are expected to diffuse more readily across species boundaries.
+In birds, mtDNA often shows less introgression than nuclear markers among recently evolved species (Tegelstro ̈m and Gelter 1990; Saetre et al. 1997; Brumfield et al. 2001; Bensch et al. 2002;
+Carling and Brumfield 2008; but see Krosby and Rohwer 2009 for a notable counterexample). This phenomenon has been attributed to Haldane’s rule (Haldane 1922), in which the heterogametic sex is the first to show hybrid sterility, although sex-biased dispersal may also be a contributing factor for some species (Petit and Excoffier 2009). Because female birds are heterogametic, hybrid sterility is expected to retard introgression of maternally inherited mtDNA, whereas nuclear alleles are expected to introgress more readily via male-mediated gene flow. Evidence is accumulating that female-heterogametic species, such as birds (Tegelstro ̈m and Gelter 1990; Bensch et al. 2002; Carling and Brumfield 2008; McKay and Zink 2010) and butterflies (Dasmahapatra et al. 2002; Cianchi et al. 2003; Kronforst et al. 2006), conform to this expectation.
+Although gene flow among lineages is generally limited in Aphelocoma compared to many intrageneric bird groups, previous work has documented patterns suggestive of Haldane’s rule among two pairs of lineages in the Mexican Jay (McCormack et al. 2008b) and Scrub-Jay clades (J. McCormack, C. Cicero,
+ 192 EVOLUTION JANUARY2011
+
+         DIVERGENCE DATING ON SPECIES TREES
+ 5 . (A)
+dates for species trees versus gene trees. Only nodes present in both gene trees and species trees are shown. (B) Relationship of node age and relative discrepancy between divergence times from gene trees versus species trees. Note that, relative to node age, the multilocus species tree showed greater discrepancy with the gene tree than mtDNA data alone.
+K. Delaney, unpubl. data). Sex-biased dispersal is an unlikely explanation for these patterns because Aphelocoma species are poor dispersers in general, with females dispersing only marginally
+farther than males in some species (Woolfenden and Fitzpatrick 1996; Curry et al. 2002), or equal distances in other species (McCormack and Brown 2008). Consequently, reduced mtDNA introgression in accordance with Haldane’s rule could explain why the multilocus species-tree divergence estimates were much more recent among species lineages within the Mexican Jay and Scrub-Jay groups (nodes 1 and 2, Fig. 4) compared to other analyses, including analyses of the mtDNA alone.
+To provide some preliminary insight into this hypothesis, we conducted coalescent simulations to assess whether the differences between the divergence times from the mtDNA versus multilocus species trees exceed the expected variance arising from the coalescence of gene lineages (see Supporting information for code used to implement simulations). For each of the 90,000 post-burn-in species trees, an mtDNA gene tree with the same number of individuals as the real dataset was simulated under a neutral coalescent model. The most probable divergence-time estimate based on mtDNA for the root node of Aphelocoma and for the Mexican Jay clade (node 1) fell well within the expected range of dates in the simulations (P = 0.63 and P = 0.28, respectively). In contrast, the simulations suggest that the most probable species divergence time for the Scrub Jay clade (node 2) may be inconsistent with a divergence without gene flow (the observed divergence time was on the recent edge of the dates recovered by coalescent simulations, although it did not deviate significantly from expectation; P = 0.06). In addition, even though branchlength differences in Mexican Jays could be accounted for by coalescent stochasticity, this group also had a major topological difference between the multilocus species tree and the mtDNA trees. In the former, A. couchii and A. potosina were strongly supported as sister taxa (Fig. 6), in contrast to their more distant relationship in the mtDNA trees (Figs. 2 and 4A, C). These two lineages show introgression of nuclear markers near zones of contact, but so far not a single case of mtDNA introgression has been documented (McCormack et al. 2008b). These preliminary analyses suggest that differential gene flow in accordance with Haldane’s rule might be the source of some discord among marker types.
+Our results highlight the added insights from using calibrated species-tree divergence time estimates. Not only does incorporating a coalescent model improve divergence estimates, but this framework is also integral to identifying whether processes other than coalescent stochasticity may impact the estimated dates. In other words, genealogical discord need not imply that information from certain markers is necessarily misleading. Indeed, although divergence histories revealed by mtDNA may not be representative of the genome as a whole, in female-heterogametic species the mtDNA might better reflect the history of initial divergence, given that nuclear genes might be subject to higher rates of gene flow upon secondary contact.
+F i g u r e
+Bivariate
+plot showing
+more recent
+divergence
+ Species
+(shown by the thin lines) superimposed upon a cloudogram of the entire posterior distribution of species trees from the ∗BEAST analysis. Branch widths represent different species tree topologies, not population sizes.
+F i g u r e
+6 .
+tree with the
+highest
+posterior
+probability
+ EVOLUTION JANUARY2011 193
+
+         JOHN E. McCORMACK ET AL.
+BIOGEOGRAPHIC EVENTS IMPORTANT TO SPECIATION IN APHELOCOMA
+Molecular and fossil dating of divergence times indicate that the diversification of Aphelocoma into three major species groups began in the middle to late MiocenePliocene. Although the confidence intervals are relatively wide for these older divergences, these dates are generally consistent, irrespective of the method of analysis. It is worth reiterating that until quite recently these three species groups (i.e., the Mexican Jays, Scrub-Jays, and Unicolored Jays) were considered the only species in Aphelocoma. The relatively ancient origin of these species groups compared to other extant bird species is notable and suggests a considerable amount of cryptic diversity in the genus.
+The Miocene was a time of major tectonic activity and mountain uplift (Van Devender 2002). Final uplift of the Sierra Madre ranges at 15 Ma, and the formation and gradual uplift of the Transvolcanic Belt from 23 to 2.5 Ma (Van Devender 2002) created the high-elevation regions now occupied by Mexican Jays and Unicolored Jays, which speciated roughly 3–8.5 Ma (95HPD on the multilocus species tree; Fig. 4D). Final uplift of the Transvolcanic Belt between 4 and 6 Ma was also concurrent with the origin, roughly 2–6 Ma, of the highly divergent Mexican Jay species lineage, A. ultramarina, that inhabits that mountain range (Fig. 4D). Detailed taxonomic recommendations resulting from this study will be made elsewhere, but we note here the strong phylogenetic support for elevating A. ultramarina to species status, including monophyly based on analyses of both mtDNA (Fig. 2) and nuclear markers (Fig. 3), its long and independent evolutionary history supported by gene trees and species trees (Fig. 6), and species-level phenotypic differences described previously (Pitelka 1951; McCormack et al. 2008b). The Miocene was also a time of climatic and vegetative change worldwide, especially in North America (Zachos et al. 2001; Van Devender 2002). Increasing aridity in the middle Miocene (15–8 Ma; Axelrod 1979) led to the formation of a distinct desert scrub vegetation now occupied by Scrub-Jays. As such, it is not just the coincidence of these geologic and climatic events with estimated dates of divergence that informs our biogeographic hypothesis for the evolution of Aphelocoma, but also the fact that the three ecologically divergent species groups occupy elevations and habitats that apparently did not exist prior to their diversification in the Miocene.
+As for the role of glacial cycles, because nuclear gene flow may have contributed to the discrepancy in the calibrated speciestree divergence estimates from the mtDNA versus the multilocus data for some of the taxa, then the glacial cycles (or at least the onset of intense glacial cycles in the last 0.7 Ma; Webb and Bartlein 1992) may not have played as predominant a role in triggering initial divergence as initially suggested (i.e., gene flow would make some speciation events appear more recent than they actually are). Detailed studies of contact zones will be needed to
+establish the timing of potential gene flow, in concert with niche reconstructions of habitat at glacial maxima (e.g., Peterson et al. 2004), to evaluate the possibility that the glacial cycles may have hindered divergence among some Mexican Jay and Scrub-Jay species lineages by promoting gene flow through habitat shifts that brought these incipient species into contact.
+IMPLICATIONS FOR COMPARATIVE STUDIES AND CONSERVATION
+With complete taxon sampling for mtDNA trees and the most sequence data to date, our study uncovered new diversity and relationships in Aphelocoma with implications for comparative studies and conservation. Aphelocoma has been a classic system for the study of the evolution of cooperative breeding (Peterson and Burt 1992; Brown and Li 1995). The placement of the Florida Scrub-Jay (A. coerulescens) as the sister taxon to all other ScrubJays has long been suspected based on biogeographic and fossil evidence (Pitelka 1951) and allozymes (Peterson 1992), yet our study is the first to confirm this relationship with DNA sequence data. This is important because this phylogenetic placement supports the hypothesis that cooperative breeding is an ancestral trait in A. coerulescens, as opposed to a secondary gain, as suggested by studies that nested this taxon within Scrub-Jays (Rice et al. 2003). Additionally, the placement and strong support for A. sumichrasti as a monophyletic and divergent lineage of Scrub-Jays in the mtDNA tree (Fig. 2), suggests that this cooperatively breeding lineage (Burt and Peterson 1993) may have reacquired some level of cooperation from noncooperative ancestors. These hypotheses should be tested with a more thorough reconstruction of cooperative breeding traits on the Aphelocoma phylogeny.
+This study also provides the first comprehensive assessment of diversity within the endangered and range-restricted Unicolored Jay complex, including samples from south of the Isthmus of Tehuantepec which have not been previously available for DNA sequence analysis. Peterson (1992) described fixed allozyme differences between eastern and western populations north of the Isthmus. Results from mtDNA indicate that the isolated populations of this species are strongly differentiated, with mtDNA sequence divergence ranging from 1.7% (A. oaxacae–A. guerrerensis) north of the Isthmus to 6.9% across the Isthmus (A. concolor– A. unicolor). The International Union for Conservation of Nature (IUCN) considers the Unicolored Jay a species of least concern (BirdLife International 2009) because of its wide geographic range and large population size. The Mexican government, recognizing differences among the isolated groups, considers the species threatened (Wells 2007). Our study supports the latter view. The cloud forest isolates appear to have a long and independent evolutionary history that merit individual protection. Greater recognition for these lineages will be especially critical for preserving geographically restricted Mexican endemics such
+ 194 EVOLUTION JANUARY2011
+
+         JOHN E. McCORMACK ET AL.
+               Appendix 1.
+Locality information for samples used in this study.
+AOU
+Study
+Specimen
+Source1
+Locality
+GPS
+Accession Nos.2
+taxonomy
+taxonomy
+ID
+Coordinates Type
+mtDNA
+OD Rho
+Mexican Jays
+A. ultramarina arizonae
+A. wollweberi
+334259
+334261
+FMNH FMNH
+Pajarito Mountains, Arizona, USA Pajarito Mountains, Arizona, USA
+31.42, −111.13 tissue
+725, 803 625
+A. ultramarina wollweberi
+R ́ıo San Antonio, Durango, Me ́xico Sierra de los Huicholes, Jalisco, Me ́ xico Rancho Gachupines, Zacatecas, Me ́xico Valpara ́ıso, Zacatecas, Me ́ xico
+Sierra del Carmen, Coahuila, Me ́ xico
+728, 806 729, 807 730, 808 731, 809 732, 810 733, 811 734, 812 735, 813
+A. ultramarina couchii
+A. couchii
+A. ultramarina potosina
+A. potosina
+Serran ́ıas del
+Sierra del Carmen, Coahuila, Me ́ xico Sierra de Bledos, San Luis Potos ́ı, Me ́xico
+BB191 334260 334264 343516 393680 02N9800 05J0452 Conacyt360 343576 03J0086
+MVZ FMNH FMNH FMNH FMNH UCL A UCLA UNAM FMNH UCLA
+Chiricahua Mountains, Arizona, USA Pajarito Mountains, Arizona, USA Pajarito Mountains, Arizona, USA Sierra San Jose, Sonora, Me ́ xico Valpara ́ıso, Zacatecas, Me ́ xico
+727, 805
+883 628-9 884 630 885-6 631 887-8 632 889 633-4 890 635 891-2 636-7 893 638-9 894-5 640-1 896 644-5
+05J0357 04J0226 04J0209 343526 343549
+UCLA UCLA UCL A FMNH FMNH
+Taray, Coahuila, Me ́ xico
+Sierra Santa Rosa, Coahuila, Me ́ xico
+25.32, −100.48 blood 28.38, −101.85 blood 28.90, −101.95 blood 28.93, −102.6 tissue 21.87, −101.15 tissue
+736, 814 737, 815 738, 816 739, 817 740, 818
+897 646-7 898 642-3 899 648 900-1 649-50 902 651
+393739
+FMNH
+El Puesto, Jalisco, Me ́xico
+21.58, −101.98 tissue 21.05, −99.00 tissue 21.07, −101.18 tissue 20.83, −99.6 tissue
+741, 819 903
+393657 343548 QRO1012
+FMNH FMNH UNAM
+Jacala, Hidalgo, Me ́ xico
+Puerto Santa Rosa, Guanajuato, Me ́xico Chavarr ́ıas, Quere ́taro, Me ́xico
+742, 820 904
+905 652-3
+Burro, Coahuila, Me ́ xico
+31.42, −111.13 tissue 31.65, −109.3 tissue 31.42, −111.13 tissue 31.42, −111.13 tissue 31.25, −110.07 tissue 22.85, −103.63 tissue 25.02, −105.72 blood 21.90, −103.86 blood 23.17, −102.88 tissue 22.85, −103.63 tissue 28.91, −102.55 blood
+726, 804
+881-2 626-7
+743, 821
+906-7 654
+Continued.
+ 198 EVOLUTION JANUARY2011
+
+         DIVERGENCE DATING ON SPECIES TREES
+              Appendix 1.
+Continued.
+AOU
+Study
+Specimen
+Source1
+Locality
+GPS
+Accession Nos.2
+taxonomy
+taxonomy
+ID
+Coordinates
+Type
+mtDNA
+OD Rho
+A. ultramarina colimae
+A. ultramarina
+343584 04J0176 393669 343561 343567 MEJA3
+FMNH UCL A FMNH FMNH FMNH UCL A
+La Can ̃ada, Jalisco, Me ́xico
+La Mascota, Jalisco, Me ́xico
+La Can ̃ada, Jalisco, Me ́xico Huitzilac, Me ́ xico, Me ́ xico Huitzilac, Me ́ xico, Me ́ xico
+San Nicola ́s, Michoaca ́n, Me ́xico
+19.78, −103.67 20.37, −104.60 19.78, −103.67 19.05, −99.27 19.05, −99.27 19.42, −102.24
+tissue blood tissue tissue tissue feather
+744, 822 745, 823 746, 824 747, 825 748, 826 749, 827
+908 655 909 656 910 657 911 658 912 659
+A. ultramarina ultramarina
+Scrub Jays
+A. insularis
+A. insularis
+145387003
+151313428
+151313409
+343440
+UCL A UCL A UCL A FMNH
+Santa Cruz Island, California, USA Santa Cruz Island, California, USA Santa Cruz Island, California, USA Bah ́ıa Magdelena, Baja California South,
+34.00, −119.72 34.00, −119.73 34.00, −119.73 24.78, −112.1
+blood blood blood tissue
+750, 828 751, 829 752, 830 753, 831
+913 660 914 661 915 662 916-7 663
+A. californica hypoleuca
+A. californica
+Me ́ xico
+A. californica californica A. californica
+333867
+FMNH
+Douglas City, Trinity Co., California, USA
+40.58, −123
+tissue
+757, 835
+924-5 669-70
+caurina
+A. californica immanis A. californica
+333845
+FMNH
+Vida, Deschutes County, Oregon, USA
+tissue
+758, 836
+910 671-2
+obscura
+A. californica oocleptica
+342048
+333982
+FMNH FMNH
+Big Bear City, San Bernadino Co., California, USA Pine Nut Mountains, Douglas Co., Nevada, USA
+39.03, −119.63 39.03, −119.63
+tissue tissue
+760, 838 761, 839
+929-30 674-5 931-2 676-7
+343443
+343436
+334005
+FMNH FMNH FMNH
+La Burrera, Baja California South, Me ́xico San Lucas, Baja California South, Me ́xico Bradley, Monterrey Co., California, USA
+23.5, −110.12 27.5, −112.3
+tissue tissue tissue
+754, 832 755, 833 756, 834
+918-9 664-5 920-1 666-7 922-3 668
+343428
+FMNH
+La Rosa de Castilla, Baja California Norte, Me ́xico
+32.05, −116.13 34.32, −116.83
+tissue
+759, 837
+927-8 673
+333989
+333883
+333880
+FMNH FMNH FMNH
+Pine Nut Mountains, Douglas Co., Nevada, USA Bodfish, Kern Co., California, USA
+Bodfish, Kern Co., California, USA
+35.62, −118.5 35.62, −118.5
+tissue tissue tissue
+762, 840 763, 841 764, 842
+910 678-9 934-5 680-1 936-7 682-3
+Continued.
+ EVOLUTION JANUARY2011 199
+
+         JOHN E. McCORMACK ET AL.
+             Appendix 1.
+Continued.
+AOU
+Study
+Specimen Source1
+Locality
+GPS
+Accession Nos.2
+taxonomy
+taxonomy
+ID
+Coordinates
+Type
+mtDNA
+OD Rho
+A. californica oocleptica
+A. californica
+333902 FMNH
+San Ramon, Contra Costa Co., California, USA
+37.75, −122 37.75, −122
+tissue
+938-9 684-5
+A. californica nevadae
+A. woodhouseii
+689-90 942-3 691-2
+A. californica woodhouseii
+334083 FMNH 333996 FMNH 334109 FMNH 334181 FMNH
+Mount Charleston, Clark Co., Nevada, USA Gardnerville, Douglas Co., Nevada, USA Toiyabe Mtns, Lander Co., Nevada, USA Manzano, Valencia Co., New Mexico, USA
+36.67, −115.63 38.83, −119.62 39.33, −117.13 34.67, −106.47
+tissue tissue tissue tissue
+768, 846 769, 847 770, 848 771, 849
+944-5
+946-7 693-4 948-9 695-6 950-1 697-8
+A. californica texana
+29.83, −100.68 21.45, −101.92
+A. californica grisea
+343452 FMNH
+Rancho Santa Rita, Jalisco, Me ́ xico
+tissue
+776, 854
+960-1 701-2
+A. californica cyanotis
+343467 FMNH 343478 FMNH
+Villa Ocampo, Durango, Me ́ xico
+El Diamante Pass, Coahuila, Me ́ xico
+26.47, −105.48 25.37, −100.87
+tissue tissue
+777, 855 778, 856
+962-3 703-4 964-5 705-6
+A. californica sumichrasti
+A. sumichrasti
+343488 FMNH 343499 FMNH
+Bledos, San Luis Potos ́ı, Me ́xico Sierra de Taxco, Guerrero, Me ́ xico
+21.87, −101.15 18.58, −99.63
+tissue tissue
+779, 857 780, 858
+966-7 707-8 968-9 709
+333904 FMNH 333909 FMNH 333981 FMNH
+San Ramon, Contra Costa Co., California, USA San Ramon, Contra Costa Co., California, USA Pine Nut Mountains, Douglas Co., Nevada, USA
+37.75, −122 39.03, −119.63
+tissue tissue tissue
+765, 843 766, 844 767, 845
+686-7 940-1 688
+333991 FMNH
+Virginia Mountains, Storey Co., Nevada, USA
+tissue
+334212 FMNH 334157 FMNH 334226 FMNH 334229 FMNH
+Gardner, Huerfano Co., Colorado, USA
+Fort Davis, Jeff Davis Co., Texas, USA Uinta Mountains, Duschesne Co., Utah, USA Carta Valley, Val Verde Co., Texas, USA
+37.88, −105.2 30.7, −104.13
+tissue tissue tissue tissue
+772, 850 773, 851 774, 852 775, 853
+952-3 699 954-5
+956-7
+958-9 700
+343501 FMNH
+San Lorenzo de Abarrados, Oaxaca, Me ́xico
+17, −96.17
+tissue
+781, 859
+970-1 710-1
+Continued.
+ 200 EVOLUTION JANUARY2011
+
+         DIVERGENCE DATING ON SPECIES TREES
+              Appendix 1.
+Continued.
+AOU
+Study
+Specimen Source1 Locality
+GPS
+Accession Nos.2
+taxonomy
+taxonomy
+ID
+Coordinates
+Type
+mtDNA
+OD Rho
+A. californica
+A. californica
+343512 FMNH Xocomanatla ́n, Guerrero, Me ́xico
+17.55, −99.65 17.55, −99.65 21.17, −81.35 21.17, −81.35 21.17, −81.35
+tissue
+782, 860
+972 712-3
+remota
+A. coerulescens
+A. coerulescens
+783, 861
+784, 862
+785, 863 974-5 786, 864 976
+Unicolored Jays
+A. unicolor guerrerensis
+A. guerrerensis
+343590 FMNH El Iris, Sierra de Atoyac, Guerrero, Me ́xico
+17.48, 100.2 17.48, −100.2
+toe pad
+787, 865
+A. unicolor concolor A. unicolor
+A. concolor
+343591 FMNH El Iris, Sierra de Atoyac, Guerrero, Me ́xico 343593 FMNH El Iris, Sierra de Atoyac, Guerrero, Me ́xico 343729 FMNH Tlanchinol, Hidalgo, Me ́ xico
+394008 FMNH Tlanchinol, Hidalgo, Me ́ xico
+17.48, −100.2 17.08, −96
+toe pad toe pad tissue tissue tissue
+788, 866 789, 867 790, 868 791, 869 792, 870
+977 718 978 719 979 720
+oaxacae
+A. unicolor unicolor A. unicolor
+A. unicolor A. griscomi
+griscomi
+Outgroups
+Cyanocitta stelleri
+334838 FMNH Vida, Deschutes Co., Oregon, USA
+tissue
+800, 878
+982 724
+Gymnorhinus cyanocephalus
+near Flagstaff, Arizona, USA
+blood
+801, 879
+A. oaxacae
+346831 FMNH Nido de Zempoaltepetl, Oaxaca, Me ́ xico 393749 FMNH Totontepec, Oaxaco, Me ́ xico
+393626 FMNH Xocomanatla ́n, Guerrero, Me ́xico
+804 Archibold Biological Station, Florida, USA 805 Archibold Biological Station, Florida, USA 806 Archibold Biological Station, Florida, USA
+tissue blood blood blood
+714-5 973 716-7
+393681 FMNH Totontepec, Oaxaco, Me ́ xico
+56736 MLZ Ciuda ́d de las Casas, Chiapas, Me ́xico 56726 MLZ Ciuda ́d de las Casas, Chiapas, Me ́xico 16791 MLZ Monte El Choro, Honduras
+16813 MLZ Monte El Choro, Honduras
+16965 MLZ Monte El Choro, Honduras
+tissue toe pad toe pad toe pad toe pad toe pad
+794, 872 795, 873 796, 874 797, 875 798, 876 799, 877
+981 722-3
+1 Field Museum of Natural History, Chicago (FMNH); Museum of Vertebrate Zoology, Berkeley (MVZ); Museo de Zoolog ́ıa, ‘Alfonso L. Herrera’ of Universidad Nacional Auto ́ noma de Me ́ xico (UNAM); UCLA Conservation Genetics Resource Center (UCLA); all other samples donated by individuals.
+2All accession numbers begin with HQ123.
+17.08, −96 17.08, −96
+tissue
+793, 871
+980 721
+ EVOLUTION JANUARY2011 201
+
+         JOHN E. McCORMACK ET AL.
+ 202 EVOLUTION JANUARY2011
+   Supporting Information
+The following supporting information is available for this article: Figure S1. Absolute dates and 95HPDs for gene trees and species trees.
+Supporting Information may be found in the online version of this article.
+Please note: Wiley-Blackwell is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+ 

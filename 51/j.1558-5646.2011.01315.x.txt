@@ -1,0 +1,437 @@
+         ORIGINAL ARTICLE
+EVIDENCE FOR REPEATED ACQUISITION AND LOSS OF COMPLEX BODY-FORM CHARACTERS IN AN INSULAR CLADE OF SOUTHEAST ASIAN SEMI-FOSSORIAL SKINKS
+Cameron D. Siler1,2,3 and Rafe M. Brown1,4
+1Biodiversity Institute, Department of Ecology and Evolutionary Biology, University of Kansas, Lawrence, KS 66045–7561
+2E-mail: camsiler@ku.edu 4E-mail: rafe@ku.edu
+Received September 04, 2010 Accepted March 24, 2011
+Evolutionary simplification, or loss of complex characters, is a major theme in studies of body-form evolution. The apparently infrequent evolutionary reacquisition of complex characters has led to the assertion (Dollo’s Law) that once lost, complex characters may be impossible to re-evolve, at least via the exact same evolutionary process. Here, we provide one of the most comprehensive, fine-scale analyses of squamate body-form evolution to date, introducing a new model system of closely related, morphologically variable, lizards. Our phylogenetic results support independent instances of complete limb loss as well as multiple instances of digit and external ear opening loss and re-acquisition. Even more striking, we find strong statistical support for the re-acquisition of a pentadactyl body form from a digit-reduced ancestor. Our study reveals that species of the genus Brachymeles exemplify regions of morphospace (body plans) previously undocumented in squamates. Our findings have broad, general implications for body-form evolution in burrowing vertebrates: whatever constraints have shaped trends in morphological evolution among other squamate groups (excluding Bipes) have been lost in this one exemplary clade. The results of our study join a nascent body of literature showing strong statistical support for character loss, followed by evolutionary re-acquisition of complex structures associated with a generalized pentadactyl body form.
+KEY WORDS: Ancestralstatereconstruction,body-formevolution,Dollo’slaw,morphology,phylogeny,squamates.
+The unidirectional loss of complex characters has been a major theme in the development of theories of evolutionary change of morphology and body plan evolution (Dollo 1893, 1922; Muller 1939; Simpson 1953; Gould 1970). Dollo’s law, or the irreversible loss of complex characters (Dollo 1893, 1905, 1922; Simpson 1953; Gould 1970), has been the subject of many recent empirical studies (for review, see Galis et al. 2010). Although reacquisition of complex characters historically was believed to be improbable following significant genetic differentiation (Muller
+3 Current Address: Biodiversity Research Center, 1345 Jayhawk Blvd., Lawrence, Kansas 66045.
+1939; Simpson 1953; Marshall et al. 1994; Zufall and Rausher 2004), Dollo’s Law has come into question recently with the advent of phylogenetic methods and new tools for ancestral character state reconstruction (for review, see: Kohlsdorf and Wagner 2006; Collin and Miglietta 2008; Goldberg and Igic 2008; Lynch and Wagner 2009; Wiens 2011). For example, in a recent reviews by Galis et al. (2010) and Wiens (2011), numerous examples of studies supporting the reacquisition of complex traits were discussed, including the reacquisition of teeth and nipples in mammals (Kurte ́n 1964; Gilbert 1986; Sherman et al. 1999; Lihoreau et al. 2006), teeth in frogs (Wiens 2011), wings in insects (Whiting et al. 2003), coiling in snails (Collin and Cipriano 2003;
+doi:10.1111/j.1558-5646.2011.01315.x
+ ⃝C 2011 The Author(s). Evolution ⃝C 2011 The Society for the Study of Evolution. 2 6 4 1 Evolution 65-9: 2641–2663
+
+         C. D. SILER AND R. M. BROWN
+Pagel 2004), sexuality in orobatid mites (Domes et al. 2007), complex life cycles in marsupial frogs (Wiens et al. 2007), and phalanges and digits in squamate reptiles (Greer 1992; Kohlsdorf and Wagner 2006; Brandley et al. 2008). Nevertheless, statistical phylogenetic tests of Dollo’s Law have led to questions concerning potential pitfalls and methodological weaknesses (Trueman et al. 2004; Urdy and Chirat 2005; Goldberg and Igic 2008; Galis et al. 2010; but see Kohlsdorf et al. 2010). Although these potential methodological limitations have been presented, studies continue to find evidence for the reacquisition of complex traits.
+In addition to the studies on the polarity of character change, evolutionary patterns of limb-reduction and loss have provided biologists with a rich suite of hypotheses for tests in a phylogenetic framework (for review, see Brandley et al. 2008). Recent advances in the field of phylogenetics and the availability of molecular data have resulted in a resurgence of interest in the patterns and processes of body-form evolution among squamate reptiles (Wiens and Slingluff 2001; Whiting et al. 2003; Kearney and Stuart 2004; Sanger and Brown 2004; Wiens 2004; Schmitz et al. 2005; Kohlsdorf and Wagner 2006; Wiens et al. 2006; Brandley et al. 2008; Skinner et al. 2008; Skinner and Lee 2009, 2010; Skinner 2010; Galis et al. 2010; Kohlsdorf et al. 2010). From studies of development (Shubin and Alberch 1986; Cohn and Tickle 1999; Shapiro 2002) to studies of locomotion (for review, see Bergmann and Irschick 2010), researchers have attempted to address questions concerning the repeated transition from quadrupedal to limbless body plans in independent lineages of squamate reptiles (Greer 1991; Pough et al. 2004; Wiens et al. 2006). Long believed to be an irreversible evolutionary process, recent studies have provided evidence for digit reacquisition (Kohlsdorf and Wagner 2006; Brandley et al. 2008; Kohlsdorf et al. 2010). To date, finescale studies of squamate body-form evolution have been limited by a paucity of model systems to test the irreversibility of character change (but see Kohlsdorf and Wagner 2006; Skinner et al. 2008; Skinner 2010).
+Previous studies of squamate body-form evolution have focused most often on broad-scale patterns of limb reduction and loss, and a suite of morphological changes have been identified as associated with this evolutionary transition. These include body elongation, reduction in limb size, loss of digits, miniaturization, increase in the number of presacral vertebrae (PSV), loss of external ear openings, and loss of associated limb girdles (for review, see Brandley et al. 2008). Changes in the number of digits have been shown to likely occur through an ordered evolutionary sequence (Alberch and Gale 1985; Shubin and Alberch 1986; Shapiro 2002). Historically, these were assumed to occur through the irreversible loss of the limb and digit character (Brandley et al. 2008). This assumption of irreversibility has had a marked influence on the interpretation of recent findings concerning the reevolution of multiple digits and limbs from limb-reduced an-
+cestors (Whiting et al. 2003: Kearney and Stuart 2004; Collin and Miglietti 2008). Recent studies focusing on ancestral state reconstructions have highlighted several potential methodological pitfalls by demonstrating well supported but misleading reconstructions of character change; this discussion has focused on extent of outgroup sampling and character states at the root of the phylogeny (Goldberg and Igic 2008; Galis et al. 2010). Finally, the assumption of ordered sequential change has had a significant impact on studies of ancestral squamate digit states (Kohlsdorf and Wagner 2006; Brandley et al. 2008; Skinner et al. 2008; Skinner and Lee 2010; Skinner 2010). However, recent findings indicate that an ordered model of digit evolution does not always provide the best-fit model of evolution of digit change in scincid lizards (Skinner 2010; Skinner and Lee 2010).
+There are few genera of scincid lizards that possess both fully limbed and limbless species (Brachymeles, Chalcides, Lerista, and Scelotes; Lande 1978; Wiens and Slingluff 2001), providing rare model systems for fine-scale studies of body-form evolution. Most studies of these genera have included only morphological data (e.g., Lande 1978; Choquenot and Greer 1987; Greer 1987, 1990, 1991; Caputo et al. 1995; Greer et al. 1998) or limited taxonomic sampling (Scelotes: Whiting et al. 2003; Chalcides: Brown and Pestano 1998; Pestano and Brown 1999). However, recent studies of Lerista addressed patterns of body-form evolution using a molecular and morphological dataset and robust taxonomic sampling (Skinner et al. 2008; Skinner and Lee 2009, 2010; Skinner 2010). Limb reduction and loss has been shown to occur frequently in Lerista, a genus of 94 species, with rates of change suggested to be much higher than previously estimated (Skinner et al. 2008; but see Wiens 2009). In contrast to some recent evidence for digit, and possibly limb, reevolution (Kohlsdorf and Wager 2006; Brandley et al. 2008; Kohlsdorf et al. 2010), studies of Lerista support unidirectional loss of digits only (Skinner et al. 2008; Skinner and Lee 2009, 2010; Skinner 2010). Of these four known squamate systems, the genus Brachymeles remains the least studied, and to date, patterns of body-form evolution among species of this enigmatic lizard radiation have received little attention (but see Siler et al. 2011).
+Morphological diversity within the Southeast Asian lizard genus Brachymeles has only recently been brought to light by a series of systematic studies (Siler et al. 2009, 2010a,b, Siler et al. in press; Siler and Brown 2010). Within this genus, all but two of the 26 recognized species are endemic to the Philippines (Brown and Alcala 1980; Siler et al. 2009, 2010a,b, Siler et al. in press; Siler and Brown 2010); the exceptions are B. apus from northern Borneo (Hikida 1982) and B. miriamae (Heyer 1972) from Thailand (formerly Davewakeum miriamae; Siler et al. 2011). Thirteen species are pentadactyl (bicolor, boholensis, boulengeri, gracilis, kadwa, makusog, mindorensis, orientalis, schadenbergi, talinis, taylori, tungaoi, and vindumi), and the
+ 2642 EVOLUTION SEPTEMBER2011
+
+         EVOLUTIONARY SIMPLIFICATION AND REACQUISITION OF COMPLEX BODY FORM IN SKINKS
+remaining 13 species exhibit limbless or intermediate states, including incompletely developed limbs and reduced numbers of digits (bonitae, cebuensis, elerae, muntingkamay, pathfinderi, samarensis, tridactylus, and wrighti). Five of the nonpentadactyl species are completely limbless (apus, minimus, miriamae, lukbani, and vermis). Within the nonpentadactyl species there exists a wide range of limband digit-reduced states, from minute limbs that lack full digits (bonitae, cebuensis, muntingkamay, samarensis, tridactylus), to moderately developed limbs with four to five digits on the hands and feet (elerae, pathfinderi, wrighti). Because of the body-form variation in this clade, and the fact that its many closely related species differ by the presence or absence of digits and characters of the limbs, this group provides an ideal system for testing Dollo’s Law and the prediction of unidirectional limb reduction and loss.
+Siler et al. (2011) provided the first estimate of phylogenetic relationships among species in the genus Brachymeles. The seven-gene dataset included representatives for all but two of the currently known species in the genus as well as broad outgroup sampling (Siler et al. 2011). Results of this study indicated that multiple instances of limb-reduction and loss have occurred in this radiation of burrowing skinks. Additionally, several widespread limb-reduced species (e.g., B. bonitae, B. samarensis) were not found to be monophyletic, and were shown to be species complexes with unique digit numbers and morphologies (Siler et al. 2011). However, no morphological data were presented, and the focus remained solely on the phylogenetic relationships, taxonomic stability, and biogeographic patterns. Here, we add additional molecular sequence data to the datasets of Siler et al. 2011), and a large, newly acquired, comprehensive morphological dataset, to assess patterns of body-form evolution within this unique clade of species. Our combined molecular and morphological datasets represent one the most fine-scaled systems for studying body-form evolution in a group of closely related squamates to date.
+To test hypotheses of body-form evolution among squamate reptiles, we investigate patterns of body-form change in skinks of the genus Brachymeles using a phylogenetic comparative approach, derived from morphological data. We explore the data for evidence of threshold values of morphological features after which changes in body form occur. Additionally, we test for patterns of correlated evolution of morphological characters. We provide the first exploration of the impact of various methodological choices used in previous studies of body-form evolution, including the impact of choice of a morphometric variable as a measurement of body size for nonphylogenetic and phylogenetic size-correction as well as the overall method for multivariate principal component analyses. Finally, using our robust estimate of phylogenetic relationships, we explore the prevalence and directionality of evolutionary changes in limb, digit, and ear char-
+acter states, and the impact of outgroup sampling and ancestral outgroup character states on ancestral state reconstructions. Our results demonstrate one of the best-documented cases of limb reduction, loss, and evolutionary reacquisition of these complex characters in a closely related clade of lizards. We identify the first known case of loss and reacquisition of external ear openings (another trait lost in association with burrowing lifestyles) and highlight the occurrence of taxa occupying two new classes of morphospace: species with minute limbs but with multiple digits and species lacking digits but with longer limbs than congeners with multiple digits. Additionally, our comparative analyses incorporating a historical context via phylogeny revealed significant statistical support for otherwise undetectable patterns of character correlation. Together, our findings provide yet another violation of Dollo’s Law in a new, rich model system for future studies of the historical framework for patterns and processes of body-form evolution.
+Materials and Methods
+TAXON SAMPLING AND DATA COLLECTION
+Phylogenetic analyses for this study took advantage of the datasets of Siler et al. (2011); however, we collected 1323 bp of additional molecular data. Ingroup sampling included 90 individuals collected from 43 localities, with 24 of the 26 currently recognized species of Brachymeles represented (Fig. 1; Siler et al. 2011). The study incorporated a broad sampling of outgroup scincid species from the subfamilies Lygosominae and “Scincinae,” as well as a single outgroup sample from the family Lacertidae (Fig. 1; Siler et al. 2011). The phylogeny of Siler et al. (2011) was based on sequence data for seven genes: (mitochondrial) NADH Dehydrogenase Subunit 1 (ND1), NADH Dehydrogenase Subunit 2 (ND2), ATPase 8 (ATP8), ATPase 6 (ATP6); (nuclear) Brain-derived Neurotrophic Factor (BDNF), R35, Prostaglandin E receptor 4 (PTGER4). For this study, additional complete or partial sequences were collected for the mitochondrial Cytochrome Oxidase Subunit II (COXII) and Cytochrome Oxidase subunit III (COXIII) genes, and components of seven flanking transfer RNA genes (tRNAlys , tRNAleu , tRNAlle , tRNAgln , tRNAtrp , tRNAala , tRNAasn) using the primers of Siler et al. (2011). In addition, the two nuclear loci, Glyceraldehyde-3-phosphate Dehydrogenase (GapD) and α-enolase, were completely sequenced for nearly all ingroup samples and many of the outgroup samples using the primers and protocols of Friesen et al. (1997). All newly collected sequences were deposited in GenBank (accession Nos. HQ906962–907136).
+SEQUENCE ALIGNMENT AND PHYLOGENETIC ANALYSES
+Initial alignments were produced in Muscle (Edgar 2004), and manual adjustments made in MacClade 4.08 (Maddison and
+ EVOLUTION SEPTEMBER2011 2643
+
+         C. D. SILER AND R. M. BROWN
+ F i g u r e 1 . Hypothesized relationships of Brachymeles illustrated by ML estimates (−ln L 60687.493127). Nodes supported by ≥95% Bayesian PP and ML bootstrap support were considered significantly supported and are indicated by black circles. Terminals are labeled with abbreviated taxonomic names. Limb and digit states, numbers of presacral vertebrae, and proportionally drawn body-form diagramatic illustrations are shown for reference. Externally limbless, nonpentadactyl, and pentadactyl species are highlighted by red, blue, and black braches, respectively.
+ 2644 EVOLUTION SEPTEMBER2011
+
+         EVOLUTIONARY SIMPLIFICATION AND REACQUISITION OF COMPLEX BODY FORM IN SKINKS
+Maddison 2005). To assess phylogenetic congruence between the mitochondrial and nuclear data, we inferred the phylogeny for each gene independently using likelihood and Bayesian analyses, and performed pairwise partition homogeneity tests in PAUP 4.0b 10 (Swofford 2002) with 100 replicates for each pairwise comparison to assess set congruence. Following the observation of no statistically significant incongruence between datasets, we felt justified in using the combined, concatenated, data for subsequent analyses. Exploratory analyses of the combined dataset of 108 individuals (including outgroup taxa with missing data for several genes) and a reduced dataset of individuals with no missing data exhibited identical relationships; we therefore chose to include all available data (108 individuals) for subsequent analyses of the concatenated dataset. Alignments and resulting topologies were deposited in TreeBase (SN 11274).
+Partitioned Bayesian analyses were conducted in MrBayes version 3.1.2 (Ronquist and Huelsenbeck 2003). The mitochondrial dataset was partitioned by codon position for the proteincoding region of ND1 and ND2 and by gene region for the short gene regions ATP8 and ATP6. The Akaike information criterion (AIC), as implemented in jModeltest version 0.1.1 (Guindon and Gascuel 2003; Posada 2008), was used to select the best model of nucleotide substitution for each partition (Table S1). The bestfit model for each data partition was implemented in subsequent Bayesian analyses. A rate multiplier model was used to allow substitution rates to vary among subsets, and default priors were used for all model parameters. We ran four independent Metropoliscoupled MCMC analyses, each with four chains and an incremental heating temperature of 0.05. All analyses were run for 18 million generations, sampling every 5000 generations. To assess stationarity, all sampled parameter values and log-likelihood scores from the cold Markov chain were plotted against generation time and compared among independent runs using Tracer version 1.4 (Rambaut and Drummond 2007). Finally, we plotted the cumulative and nonoverlapping split frequencies of the 20 most variable nodes, and compared split frequencies among independent runs using Are We There Yet? (AWTY [Wilgenbusch et al. 2004]). Although all samples showed patterns consistent with stationarity after 2.5 million generations (i.e., the first 12.5%), we conservatively discarded the first 20% of samples as burn-in.
+In preliminary Bayesian analyses of the combined dataset, the independent runs failed to converge. We tried (1) lowering the incremental heating temperature to 0.02, (2) using an unconstrained branch length prior with an exponential distribution of 25 (Siler et al. 2010c, 2011; Marshall et al. 2006; Marshall 2010), and (3) removing outgroup taxa with large amounts of missing data. Although some of the trials of individual permutations of parameters resulted in a failure to converge, the incorporation of the above, plus an unconstrained branch length prior with an exponential distribution and a mean of 25 resulted in convergence.
+Once complete convergence was achieved, we proceeded with final analyses, presented here.
+Partitioned maximum likelihood (ML) analyses were conducted in RAxMLHPC version 7.0 (Stamatakis 2006) on the concatenated dataset using the same partitioning strategy as for Bayesian analyses. The more complex model (GTR + 􏰔) was used for all subsets (Table S1), and 100 replicate ML inferences were performed for each analysis. Each inference was initiated with a random starting tree, and employed the rapid hill-climbing algorithm (Stamatakis et al. 2007). Clade confidence was assessed with 100 bootstrap pseudoreplicates employing the rapid hill climbing algorithm (Stamatakis et al. 2008).
+RELATIVE TIME ANALYSES
+To test the combined dataset for deviations from a molecular clock, we optimized likelihood scores in PAUP∗ 4.0b10 with a molecular clock enforced and not enforced on the maximumlikelihood topology. A likelihood ratio test ([LRT] Arbogast et al. 2002; Felsenstein 2004) significantly rejected a molecular clock (P = 0.00), and subsequent analyses were conducted within a relaxed clock framework. The relative rate chronogram used for morphological analyses in this study was inferred in a Bayesian framework using BEAST version 1.5.3 (Drummond and Rambaut 2007). The dataset was paired down into individual lineages per species or morphologically distinct, nonmonophyletic populations (B. bonitae and B. samarensis; Siler et al. 2011). Four independent BEAST runs of 50 million generations were completed under the same partitioning strategy as for Bayesian analyses, imposing an uncorrelated lognormal relaxed clock prior on substitution rate (Drummond et al. 2006) and Yule speciation prior. Parameters were sampled every 5000 generations and the initial 50% of each run was discarded as burn-in, leaving a combined 20,000 trees in the posterior distribution. To evaluate convergence among MCMC analyses, trends and distributions of parameters, including the likelihood score, were examined in Tracer (Rambaut and Drummond 2007) and AWTY (Wilgenbusch et al. 2004).
+TESTING MORPHOLOGICAL HYPOTHESES
+We test morphology-based hypotheses to address questions concerning the patterns of Brachymeles diversity (Fig. 2): (1) Did limb reduction occur once? (2) Did the complete loss of external limb elements occur once? (3) Did ear loss occur once? (4) Is there support for a gradual transition from pentadactyl to limbless body forms?
+In an attempt to thoroughly evaluate each, we conducted analyses within Bayesian and maximum likelihood (ML) frameworks. The topological constraints for these questions are outlined in Figure 2. The ML approach consisted of conducting an approximately unbiased (AU) test (Shimodaira and Hasegawa 2001; Shimodaira 2002), as implemented in Siler et al. (2010c).
+ EVOLUTION SEPTEMBER2011 2645
+
+         C. D. SILER AND R. M. BROWN
+ 0-5 0-5
+NP
+55
+P LL P LL
+0-5 0-5
+NP
+55
+                                                                                               H1: Single origin of limb reduction AU ≤ 0.000a
+PP = 0.0a
+H2: Single origin of limb loss AU ≤ 0.000a
+PP = 0.0a
+H3: Single origin of ear loss AU ≤ 0.000a
+PP = 0.0a
+2 .
+P NP LL
+(5:5) (5:4) (4:4) (3:3) (3:2) (1-3:1-3) (0:0) (-:-)
+H4: Gradual transition towards limb loss AU ≤ 0.000a,b
+PP = 0.0a,b
+  Four morphology-based hypotheses tested in the study, derived from hypothesized patterns of body-form evolution in squamate reptiles. Each hypothesis is illustrated by constraint trees used in AU and Bayesian tests. The highest P-values recovered from each AU test (AU), and the posterior probabilities (PP) of the constraint topology, are shown. (A) Analyses conducted on constraint topologies with and without the inclusion of Brachymeles miriamae. (B) Analyses repeated for individual clades within Philippine Brachymeles as well as for the entire genus.
+F i g u r e
+Using the full, combined dataset, partitioned maximum likelihood (ML) analyses were conducted in RAxMLHPC version 7.0 (Stamatakis 2006), under the same partitioning strategy used for phylogenetic analyses. A complex model (GTR + 􏰔) was used for all subsets, and 100 ML searches were performed under each of the four constraints. All 500 trees produced by RAxML (100 from the unconstrained analysis and 100 from each of the four constrained analyses), were filtered in PAUP to remove identical topologies. A modified version of RAxML (provided by Alexandros Stamatakis) allowed the per-site likelihoods to be estimated for each of the 54 unique topologies under a partitioned model. An AU test was then performed on the per-site likelihoods from all 54 using CONSEL version 0.1i (Shimodaira and Hasegawa 2001). The P-value reported for a given hypothesis is the largest P-value of all the trees inferred under that constraint. To automate various steps in the process, Perl and Python scripts were written by J. Oaks and CDS (available by request). For the Bayesian approach, we took the percentage of 11520 post-burnin trees consistent with each hypothesis to represent the posterior probability that the hypothesis is true.
+TESTING HYPOTHESES OF CORRELATED CHARACTER EVOLUTION
+We tested the morphological data for phylogenetic signal of morphometric data using Pagel’s lambda (Freckelton et al. 2002) and Blomberg’s K (Blomberg et al. 2003). Both raw and natural-log transformed morphometric variables were analyzed. The topology and branch lengths from the chronogram estimated in BEAST analyses were imported into R (R Development Core Team 2008), and the Geiger (Harmon et al. 2008) and Picante (Kembel et al. 2010) packages were used to conduct transformations to test for phylogenetic signal. Following the observation of significant phylogenetic signal in all morphometric characters (Fig. 3), independent contrasts were used to explore the impact of phylogeny on subsequent analyses of morphology.
+Bivariate and multivariate analyses were performed on raw morphometric data as well as independent contrasts of the morphometric variables to explore both raw morphological patterns observed in Brachymeles and those observed in a phylogenetic context. Morphometric data were measured for 10 characters for 27 lineages of Brachymeles, including B. miriamae
+ 2646 EVOLUTION SEPTEMBER2011
+
+         6 5 4
+SVL TL TotL
+EVOLUTIONARY SIMPLIFICATION AND REACQUISITION OF COMPLEX BODY FORM IN SKINKS
+                                                                                                              3 MBW
+                                                      2
+1
+0
+HL FLL HLL
+                                                                                                                                                            Figure 3. A graphical representation of phylogenetic signal observed for morphometric variables measured for this study. The mean species’ values for each measured variable, and body forms for each species of Brachymeles, are mapped onto the chronogram for reference.
+(Data deposited at Dryad: doi:10.5061/dryad.jh521). These lineages corresponded to the species, subspecies, and morphologically unique populations (i.e., B. bonitae, B. samarensis) sampled in phylogenetic analyses (Fig. 1). Meristic and mensural characters are based on Siler et al. (2009, 2010a,b), and include: snout–vent length (SVL), head length (HL), tail length (TL), total length (TotL; SVL + TL), foreand hind limb length (FLL and HLL), midbody width (MBW), and numbers of PSV, fore-limb digits (Fldig), and hind limb digits (Hldig).
+Species, subspecies, or morphologically distinct populations of Brachymeles possess limbs with as few as one recognizable digit or up to as many as five recognizable digits. Following the methods of Brandley et al. (2008), we coded limbless species as well as species or populations with limbs consisting of only a small stump and no recognizable digits as having zero digits. We measured the 10 morphological characters used in this study from 632 specimens of Brachymeles, with an average of 20 specimens
+per species, subspecies, or morphologically distinct population (Table 1). Measurements of juvenile and sub-adult specimens were excluded from analyses (Table 1). Additionally, we recorded PSV numbers from x-rays for an average of six specimens per species, subspecies, or morphologically distinct population (Table 1). Minor differences in body size characters between sexes and populations may exist in nature or simply as an artifact of sample size, and we attempted to account for this by combining data from broad geographic sampling for both sexes whenever possible.
+Following the methods of Wiens and Slingluff (2001) and Brandley et al. (2008), the value of 1 was added to all variable measurements (some taxa have values of zero for digit numbers), and each measurement was natural log-transformed. Independent contrasts (Felsenstein 1985) were then calculated for each natural log-transformed variable using the Phylogenetic Diversity Analysis Programs (PDAP; Midford et al. 2005) module in Mesquite
+ EVOLUTION SEPTEMBER2011 2647
+
+         C. D. SILER AND R. M. BROWN
+Table 1. Summary of numbers of specimens examined per species and adult specimens per species included in this study. The number of X-rays examined per species are provided for reference.
+ Species or morphologically unique lineage
+Brachymeles apus
+Brachymeles bicolor
+Brachymeles boholensis
+Brachymeles bonitae (central Luzon Island)
+Adult specimens included X-rays
+in analyses examined
+1 1
+9 5 18 7 11 11
+1 2
+6 2 17 3 7 4 4 6 13 6 7 5 3 2 15 9 15 13 10 6 9 8 12 5 4 6 2 2 10 10 20 6 29 6 6 6 14 7 9 9 12 6 14 6 17 6 14 10 5 2 17 9
+what appears to be a conservative body plan, with relatively small limbs even observed in pentadactyl species. We explored whether HL is an appropriate measure with which to standardize morphometric variables, and in doing so account for body size allometry (methodology provided in Supporting information).
+To test for a relationship between body and limb size, as well as body size and PSV number, we regressed relative body size measurements against relative limb size and PSV number for each of the three sets of size-corrected morphometric variables. Additionally, we regressed digit and PSV number against the three sets of relative limb length measurements as well as the raw nonsize-corrected limb lengths to test for relationships between limb size and digit number and number of PSV. All regressions were made through the origin (Garland et al. 1992).
+We used principal components analysis (PCA) on a correlation matrix of raw size-corrected variables following the
+Specimens examined
+   Brachymeles cf. bonitae
+Brachymeles cf. bonitae
+Brachymeles cf. bonitae
+Brachymeles cf. bonitae
+Brachymeles cf. bonitae
+Brachymeles boulengeri
+Brachymeles cebuensis
+Brachymeles elerae
+Brachymeles gracilis hilong
+Brachymeles gracilis gracilis
+Brachymeles lukbani
+Brachymeles makusog
+Brachymeles mindorensis
+Brachymeles minimus
+Brachymeles miriamae
+Brachymeles muntingkamay
+Brachymeles orientalis
+Brachymeles pathfinderi
+Brachymeles samarensis (Samar Island)
+Brachymeles cf. samarensis (Leyte Island population) Brachymeles cf. samarensis (Catanduanes Island population) Brachymeles schadenbergi
+Brachymeles talinis Brachymeles taylori Brachymeles tridactylus Brachymeles sp. A Brachymeles sp. B
+version 1.06 (Maddison and Maddison 2005). The topology and branch lengths from the chronogram estimated in BEAST analyses were used to calculate contrasts. To check that independent contrasts were adequately standardized, the slopes of the regression lines between the absolute values of the contrasts against the square root of the sum of the corrected branch lengths (or their standard deviations) were inspected (Garland et al. 1992). No significant relationships were observed and the independent contrasts subsequently were considered to be appropriately standardized.
+Previous studies corrected for size in body and limb measurements by regressing independent contrasts for each measurement on the contrasts for HL (Wiens and Slingluff 2001; Brandley et al. 2008), based on the observation that relative limb and body lengths vary greatly in lizards compared to the conservative shape of the skull (Stokely 1947). In Brachymeles, most species possess
+1
+28 39 11
+ 2
+10
+23
+ 8
+ 6
+26
+ 9
+ 4
+20
+62
+11
+14
+35
+ 6
+ 2
+12
+53
+39
+ 6
+14
+ 9
+49
+31
+35
+22
+12
+33
+(northern Luzon Island population) (Masbate Island population) (Mindoro Island population) (Camiguin Norte Island population) (Lubang Island population)
+               2648 EVOLUTION SEPTEMBER2011
+
+         EVOLUTIONARY SIMPLIFICATION AND REACQUISITION OF COMPLEX BODY FORM IN SKINKS
+methods of Wiens and Slingluff (2001) to determine whether any body-form groupings can be recovered without a priori designation of groups. All analyses were performed using the seven morphometric variables only, the seven morphometric variables and digit numbers (for the hand and foot), and the seven morphometric variables, digit numbers, and number of presacral vertabrae.
+Methods for simultaneously correcting for body size allometry and conducting PCAs, while taking the phylogeny into account have recently been developed (Revell 2009). To explore differences between methodologies, we repeated all bivariate analyses using phylogenetic size-corrected (PSC) data calculated in R using the phyl_resid function provided in Revell (2009), as well as independent contrasts of the PSC data. Additionally, PCAs of raw, size-corrected variables were compared to results of phylogenetic principal component analyses (Revell 2009).
+EXPLORING MORPHOLOGICAL THRESHOLDS
+Previous studies of squamate reptiles have reported thresholds of raw morphometric body proportions that appear to mark a demarcation between long, fully pentadactyl limbs and shortened limbs and reduced digit states (Lande 1978; Brandley et al. 2008). To determine whether these hypothesized thresholds occur across the diversity of Brachymeles, we created bivariate and overlaid scatter plots of raw digit numbers and PSV number against ratios of limb, snout–vent, and total lengths to HL as well as MBW to HL following the methods of Lande (1978) and Brandley et al. (2008). The plots were subsequently inspected for trends in bodyform change. As in Brandley et al. (2008), raw data were used for more easily interpretable results and comparison with previous studies.
+TESTING FOR EVIDENCE OF CHARACTER REEVOLUTION
+To explore whether there is evidence of the reevolution of limbs, digits, or ear openings in Brachymeles, we compared empirically observed (extant) character states to estimates of ancestral states using the program BayesTraits version 1.0 (Pagel 1994; Pagel and Lutzoni 2002).
+For analyses involving the estimation of ancestral external limb and ear states we examined two models of character evolution: (1) assuming equal rates of character acquisition and loss and (2) assuming independent rates of character acquisition and loss. Following the methods of Skinner and Lee (2010), we examined five disparate models of digit evolution to evaluate which models best fit the data (Table 2). For all analyses, we seeded the mean and variance of the gamma prior from uniform distributions on the interval 0 to 20 by enforcing the “Hyperpriorall” command of BayesTraits. These analyses were then repeated and compared to runs with uniform priors with upper and lower bounds of 0 and 100 (Skinner and Lee 2010). The LogCombiner version 1.5.4 program of BayesTraits was used to combine trees from the posterior distributions of the four independent Beast runs. Of the 20,000 trees in the posterior distribution, we discarded the first 97.5%, producing a file with 2000 trees from the posterior distribution. All 2000 chronograms were then used in analyses of morphological data in BayesTraits in an effort to account for phylogenetic uncertainty. We ran MCMC chains for 25 million generations, sampling every 5000th generation, and discarded the first 50% of samples as burnin. The ratedev parameter was adjusted for each analysis to maintain acceptance rates of 20–40%. The remaining 2500 samples were used to summarize the posterior probabilities of ancestral character states for all nodes of the tree. Bayes factors
+Ta b l e 2 . Bayes-Traits models of digit evolution explored in ancestral state reconstructions and subsequent results. Transition descriptions and the number of parameters are shown for reference. Table entries include the mean likelihood for each model followed by the standard deviation, the harmonic mean likelihood value, and the Bayes factors from bivariate comparisons with the model that best explains the data. Preferred model in bold for emphasis.
+ Model
+State transitions
+Parameter
+q01=q10 q01=q10 q01 ̸= q10 q01 ̸= q10 q10
+q01=q10 q01=q10 q01 ̸= q10 q01 ̸= q10 q10
+−Li −57.38622±0.906
+−62.62201±1.076 −50.63118±1.009 −57.46331±1.608 −63.40825±1.104
+−58.07338±0.846 −62.37969±1.033 −53.83906±0.998 −57.04622±1.362 −69.38824±1.274
+−HMLi −58.09153
+−63.57498 −51.63983 −60.10428 −64.62095
+−58.95081 −63.91871 −54.78141 −60.12493 −70.72887
+2lnBF
+12.903
+23.870
+0
+16.929 25.962
+8.339 18.275
+0
+10.687 31.895
+ Manus
+A Unordered (all transitions between digit states occur at equal rates)
+B Ordered (single state transitions allowed only)
+C Unordered (all state transitions allowed)
+D Ordered (single state transitions allowed only)
+E Unidirectional (digit gain prohibited)
+Pes
+A Unordered (all transitions between digit states occur at equal rates)
+B Ordered (single state transitions allowed only)
+C Unordered (all state transitions allowed)
+D Ordered (single state transitions allowed only)
+E Unidirectional (digit gain prohibited)
+        EVOLUTION SEPTEMBER2011 2649
+
+         C. D. SILER AND R. M. BROWN
+comparing the best-fit model to all other models of character evolution were applied, accepting more parameterized models when the Bayes factor shows strong to very strong support (Kass and Raftery 1995; Nylander et al. 2004). The “AddNode” command of BayesTraits was used to specify all nodes in the chronograms for visualization of the posterior probabilities of character states at each node.
+We ran a series of additional analyses on nodes with ambiguous estimated ancestral character states. The “fossil” command of BayesTraits was used to sequentially enforce the character states making up 95% of the posterior probability at a single node, prioritizing character states with the highest posterior probability. Bayes factors were again applied, and the state supported at each ambiguous node was summarized with the Bayes factors measure of support for that ancestral state (Figs. 6 and 7). To explore the impact of the ancestral character states among outgroup taxa on reconstructions within Brachymeles (Goldberg and Igic 2008), additional analyses were conducted in which we assumed the ancestral state for all nodes sister to Brachymeles was a limbed, pentadactyl species with external ear openings.
+Results
+PHYLOGENY OF BRACHYMELES
+Our complete, aligned matrix contains 82 samples of Brachymeles, representing 24 of the 26 recognized taxa, and containing both mitochondrial genes and nuclear loci. Seventeen additional outgroup samples included representatives from the subfamilies Lygosominae and “Scincinae” within the family Scincidae as well as a single representative from the lizard family Lacertidae. Following the study of Siler et al. (2011), we rooted the tree using samples of Takydromus sexilineatus from China.
+All analyses strongly supported five distinct instances of limb reduction in the genus Brachymeles (including B. miriamae; Fig. 1). Complete limb loss is strongly supported to have occurred three separate times (Fig. 1). Interestingly, the two nonPhilippine species (B. apus [Borneo], B. miriamae [Thailand]) are always recovered as the two lineages sister to all Philippine Brachymeles (Fig. 1). Within the Philippines, all limbless species and the majority of limb-reduced species are recovered as part of two reciprocally monophyletic groups, and together are sister to all pentadactyl species and the remaining nonpentadactyl taxa (Fig. 1).
+The widespread limb-reduced species, B. bonitae and B. samarensis, are not recovered as monophyletic groups (Fig. 1). Furthermore, with strong statistical support, Siler et al. (2011) rejected the hypothesized monophyly of both of these species complexes. Not only are all of the lineages within these complexes well supported and genetically distinct, but they differ morphologically as well (Figs. 1 and 4). Populations within both species
+complexes differ in body size, limb and digit characters, and scale counts (Brown and Alcala 1980; Siler et al. 2011), and even the number of digits and PSV.
+MORPHOLOGICAL HYPOTHESIS TESTS
+Results from the Bayesian methods and the AU test were highly consistent. Both methods rejected all morphology-based hypotheses (Fig. 2). Although we treat the former monotypic genus D. miriamae as the fifth limbless species of Brachymeles following Siler et al. (2011), each hypothesis was reevaluated with both the Bayesian method and by conducting AU tests with B. miriamae samples excluded from constraint trees. No differences were observed in the resulting support for each of the four hypotheses. Additionally, hypothesis no. 4 was tested using three topological constraints: (1) A single transition across all Brachymeles (with and without B. miriamae), (2) two transitions for clades 1 and 2, respectively, and (3) a single transition for clade 1. All three versions of hypothesis no. 4 were rejected by both analyses (Fig. 2).
+ANALYSES OF CORRELATED CHARACTER EVOLUTION
+Tests for the presence of phylogenetic signal resulted in λ values estimated at 1.0 and K values that were significantly different from 0(SVLK=0.8452;MBWK=1.5540;TLK=0.8877;HLK= 1.3734; HLL K = 2.4268; FLL K = 2.6651; TotL K = 0.7828; Fig. 3). Regression analyses show highly consistent results regardless of the variable used for size-correction. Additionally, analyses of size-corrected data based on either residuals from bivariate regressions of phylogenetically independent contrasts (RSC-IC; Lande 1978; Wiens and Slingluff 2001; Brandley et al. 2008), or phylogenetically independent contrasts of phylogenetically sizecorrected data (PSC-IC; Revell 2009), show largely similar results (Table 3). Multivariate correlation analyses revealed HL to be most correlated to all other variables, an indication that it would be the most appropriate variable for use in size-correction.
+Although bivariate regression analyses of raw size-corrected data show highly significant relationships between relative SVL (rSVL), relative tail length (rTL), relative total length (rTotal), relative midbody width (rMBW), and changes in relative fore(rFLL), and hind limb (rHLL) lengths, several of these significant relationships disappear when phylogeny is taken into account (Table 3). However, the opposite is true of the relationship between several of these characters (rSVL, rTL, rTotal, and rMBW) and raw digit and PSV numbers, where regression analyses of all three methods of size-correction result in highly significant relationships only when phylogeny is taken into account (Table 3). Finally, regression analyses of raw, non-size-corrected measurements of limb length, digit numbers, and PSV numbers show highly significant relationships regardless of whether phylogeny is taken into account (Table 4). Correlation analyses of pairs of
+ 2650 EVOLUTION SEPTEMBER2011
+
+         Independent variable
+rSVL
+rSVL rSVL rTL rTL rTL rTotal rTotal rTotal rMBW rMBW rMBW rFLL rHLL rFLL rHLL PC1 PC1 PC1
+Dependent variable
+PSV
+rFLL rHLL PSV rFLL rHLL PSV rFLL rHLL PSV rFLL rHLL Fingers Toes PSV PSV Fingers Toes PSV
+Raw Raw PSC df=31 df=31
+R2 P R2 P
+RSC-IC PSC-IC df=30 df=30
+R2 P R2 P
+EVOLUTIONARY SIMPLIFICATION AND REACQUISITION OF COMPLEX BODY FORM IN SKINKS
+Table 3. Bivariate regression analyses of meristic and mensural variables associated with the transition from pentadactyl to limbless body plans in squamates. Each regression analysis was performed using relative size measurements (rSVL, rTL, rTotal, rMBW, rFLL, rHLL) calculated from raw data (Raw), raw data that have been phylogenetically size-corrected (Raw PSC), regression residual-based size-corrected independent contrasts (RSC-IC), and phylogenetic size-corrected independent contrasts (PSC-IC). All phylogenetic sizecorrections were conducted in R following the methods of Revell (2009). Significant P-values at α ≤ 0.05 are shown in bold, with P-values significant after a table-wide Benjamini and Hochberg (1995) correction marked with an asterisk.
+      0.038 0.284 0.114
+0.769 <0.001∗ 0.530 0.708 <0.001∗ 0.562 0.034 0.311 0.030 0.551 <0.001∗ 0.000 0.497 <0.001∗ 0.000 0.038 0.285 0.004 0.696 <0.001∗ 0.166 0.632 <0.001∗ 0.191 0.030 0.340 0.015 0.636 <0.001∗ 0.071 0.583 <0.001∗ 0.063 0.123 0.049 0.606 0.154 0.026∗ 0.568 0.029 0.349 0.297 0.026 0.374 0.281 0.173 0.018∗ 0.431 0.213 0.008∗ 0.462 0.003 0.770 0.141
+0.059
+<0.001∗ <0.001∗ 0.345
+0.939 0.969 0.742 0.021∗ 0.012∗ 0.505 0.141 0.166
+<0.001∗ <0.001∗ 0.001∗ 0.002∗ <0.001∗ <0.001∗
+0.034
+0.447 <0.001∗ 0.252 0.004∗ 0.220 0.008∗ 0.084 0.113 0.001 0.848 0.002 0.809 0.223 0.007∗ 0.059 0.190 0.030 0.349 0.196 0.013∗ 0.197 0.012∗ 0.199 0.012∗ 0.396 <0.001∗ 0.406 <0.001∗ 0.429 <0.001∗ 0.397 <0.001∗ 0.108 0.076 0.261 0.004∗ 0.565 <0.001∗
+0.240 0.005∗ 0.277 0.002∗ 0.311 0.001∗ 0.102 0.080 0.004 0.732 0.000 0.960 0.164 0.024∗ 0.043 0.261 0.074 0.140 0.194 0.013∗ 0.173 0.020∗ 0.168 0.022∗ 0.260 0.003∗ 0.220 0.008∗ 0.180 0.017∗ 0.148 0.033 0.062 0.185 0.153 0.032 0.324 0.001∗
+          Bivariate
+meristic and mensural variables associated with the transition from pentadactyl to limbless body plans in squamates for raw values and independent contrasts. Significant P-values at α ≤ 0.05 are shown in bold, with P-values significant after a table-wide Benjamini and Hochberg (1995) correction marked with an asterisk.
+Ta b l e
+Independent Dependent
+variable variable
+FLL Fingers
+HLL Toes Fingers Toes FLL PSV HLL PSV
+of
+non-size-corrected
+Multivariate analyses (PCA) of all three sets of data gave highly consistent results, showing strong separation between qualitatively defined (above) body forms of Brachymeles (Figs. 4 and S1). When all 10 variables were included in a PCA, the first principal component explains 85.6% of the variation in the nonphylogenetic data. Size-corrected measures of body width and limb lengths, as well as digit numbers show positive loadings on the first principal component, with size-corrected measures of body length and PSV numbers loading negatively (Fig. 4). The second principal component explains significantly less variation in the data (8.7%), and shows moderately strong positive loadings for size-corrected body and limb lengths and digit numbers, with size-corrected measures of body width loading negatively (Fig. 4). Additional principal components were not retained because cumulative totals of the first two components reached nearly 95%, and subsequent components were associated with low eigenvalues (often well below 1.0), and low levels of explained variance (≤ 2.5%). All nonphylogenetic multivariate analyses support a relationship of body elongation and increased number of PSV with decreased body width, limb lengths, and digit numbers (Fig. S1). When phylogeny is taken into account, the same general pattern
+4 .
+regression
+analyses
+Raw df=31
+R2 P 0.936 <0.001∗
+0.948 <0.001∗ 0.978 <0.001∗ 0.673 <0.001∗ 0.697 <0.001∗
+ Independent contrasts df=30
+R2P 0.346 <0.001∗
+0.461 <0.001∗ 0.686 <0.001∗ 0.642 <0.001∗ 0.661 <0.001∗
+      variables shown to have significant relationships in bivariate linear regressions revealed positive and negative correlations with changes in body and limb size and changes in limb lengths and numbers of digits and PSV (Table 5).
+ EVOLUTION SEPTEMBER2011 2651
+
+         C. D. SILER AND R. M. BROWN
+Ta b l e 5 . Correlation analyses of pairs of morphological variables showing significant relationships from bivariate regression analyses. Relative measures of body size are based on regression residual, size-corrected, independent contrasts. Values represent the Pearson product-moment correlation coefficients.
+we exclude the apparent outlier (B. bicolor), fore-limb digit loss appears to be initiated in species with greater than 34 PSV. With the exception of B. pathfinderi, hind limb digit loss follows an identical pattern. Relative fore-limb and hind limb lengths were observed to decrease by > ∼ 40% and > ∼ 47%, respectively, in species with greater than 41 PSV (Fig. 5).
+With few exceptions, threshold plots revealed numerous cases in which different areas of morphospace were occupied by either pentadactyl or nonpentadactyl species, with little to no overlap.
+EVIDENCE OF EVOLUTIONARY REACQUISITION OF COMPLEX CHARACTERS
+Although the placement of Brachymeles within the family Scincidae remains somewhat ambiguous (Brandley et al. 2005, 2008; Siler et al. 2011; Fig. 1), the impact of ancestral body form for all Brachymeles does not appear to heavily impact ancestral reconstructions within the genus (not shown). The results of analyses of limb, digit, and ear opening states are never significantly impacted by placing restrictions on the ancestral character states among outgroup taxa and the node giving rise to all Brachymeles (not shown). Exploration of the assumed ancestral character states among outgroup taxa always resulted in highly consistent reconstructions for ingroup nodes. Additionally, our inclusion of a large, diverse group of outgroup taxa aided in avoiding some of the pitfalls of ancestral state reconstructions highlighted by other researchers (Goldberg and Igic 2008).
+Ancestral state reconstructions for limbs and ear openings resulted in support for models with equal rates of character gain and loss. The likelihood scores were nearly identical between analyses of a two-rate model versus an equal rates model, with the Bayes factor (limbs, 0.562; ear openings, 0.706) providing nonsignificant support for the more parameterized models. We therefore used equal rates models for all subsequent analyses. Ancestral limb state reconstruction analyses resulted in four nodes where the reconstructed ancestral state is ambiguous, with the limbed state preferred in all cases with varying degrees of support (Fig. 6). These results weakly support the hypothesis of limbed ancestors in Brachymeles (Fig. 6). The ancestral reconstructions of ear openings supported a minimum of three state changes to have occurred (Fig. 6). Unlike the support observed for unidirectional limb loss within Brachymeles, we consistently observe strong support for the reacquisition of ear openings within the Philippine clade, with one or two subsequent losses of the character (Fig. 6).
+Exploratory analyses of digit evolution resulted in unequivocally strong support for the same two-rate unordered model of character evolution that best explained the data for the hand and foot (Table 2). Not only were the resulting likelihood values significantly better than those from analyses of other models, but
+ Variable 1
+rSVL
+rSVL rSVL rTotal rMBW rMBW rMBW rFLL rHLL rFLL rHLL PC1 PC1 FLL HLL Fingers FLL HLL
+Variable 2
+PSV
+rFLL rHLL PSV PSV rFLL rHLL Fingers Toes PSV PSV Toes PSV Fingers Toes Toes PSV PSV
+PMCC
+0.6587
+−0.4770 −0.5211 0.4643 −0.4592 0.4459 0.4426 0.6346 0.6354 −0.6684 −0.6559 −0.3290 0.7520 0.6076 0.6885 0.8254 −0.8153 −0.8107
+           is observed, with the exception of the placement of Brachymeles bicolor and B. pathfinderi in morphospace. Both of these species are outliers in the observed patterns in Brachymeles (Fig. 4).
+MORPHOLOGICAL THRESHOLDS
+Threshold plots revealed a general trend of increased body length associated with decreased limb lengths and numbers of digits (Fig. 5); however, no obvious threshold values exist for which all digits are lost or all external foreand hind limb elements are lost (Fig. 5). There appears to be a general threshold of relative SVL and MBW after which relative limb lengths are greatly reduced and digits are lost. With the exception of B. bicolor and B. pathfinderi, species with a SVL > ∼ 12 times its HL, and a MBW ≤ ∼ 1.3 times its HL, have considerably smaller, nonpentadactyl limbs (Fig. 5).
+Digit loss was also associated with changes in relative limb lengths as well as raw limb lengths, and general threshold values are observed (Fig. 5). Again, with the exception of B. pathfinderi, loss of Fldig appears to be initiated in species with fore-limb lengths ≈ HL, and raw fore-limb lengths < ∼ 5.8 mm. Loss of Hldig appears to be initiated with hind limb lengths ≤ ∼ 1.75 times HL, and raw hind limb lengths < ∼ 12.2 mm. Additionally, the increase in number of PSV is associated with both a loss of digits as well as a decrease in relative limb lengths (Fig. 5). No species with greater than 41 PSV possessed five fingers, and when
+ 2652 EVOLUTION SEPTEMBER2011
+
+         EVOLUTIONARY SIMPLIFICATION AND REACQUISITION OF COMPLEX BODY FORM IN SKINKS
+ Figure 4. Multivariate plot of morphometric and meristic data showing variable loadings for the first and second components for a phylogenetic PCA. Colored spheres indicate body-form groups among Brachymeles, with shapes referring to labeled phylogenetic clades in Figure 1.
+Bayes factors of pairwise comparisons to the preferred model, with the exception of the unordered model A for toe evolution (Bayes factors = 8.339), were all greater than 10 (Table 2). Significantly, both unordered models (those allowing for different rates of character loss and acquisition) provide better fit to the data than ordered or unidirectional models (Table 2).
+Evidence of digit reacquisition is observed for both the hand and foot, with strong support for the reacquisition of a pentadactyl hand from a digit-reduced ancestor (Fig. 7 and Table 6). Within the Philippine species, there is moderate-to-strong evidence for six instances of digit reacquisition on the hand and five instances on the foot (Fig. 7 and Table 6). Although all analyses provide unequivocal support for several instances of digit reacquisition, many additional nodes receive ambiguous ancestral state reconstructions, indicating that the potential number of times digits have reevolved in Brachymeles may be higher or lower than the number we currently observe (Fig. 7 and Table 6). As noted in previous studies (Brandley et al. 2008), the results of ordered analyses (not shown) provide highly similar to identical ancestral reconstructions, but at times these reconstructions are more ambiguous. Regardless of the model, all analyses result in strong
+support for the reevolution of a fully pentadactyl body form from an ancestor with reduced numbers of digits, with ordered models providing even less support for a pentadactyl ancestor (Fig. 7). Digit reacquisition in Brachymeles appears to be equally common on the hand and foot, with evidence for the reacquisition of one to five digits (Fig. 7 and Table 6).
+Discussion
+PATTERNS OF LIMB REDUCTION AND LOSS
+Topology tests rejected single origins of digit reduction, limb loss, and ear loss, and rejected the hypothesis of a gradual transition from pentadactyl to limbless body plans within Brachymeles, regardless of the inclusion of B. miriamae (Fig. 2). Phylogenetic analyses and ancestral state reconstructions provide support for multiple origins of body-form changes within Brachymeles. We find evidence for three losses of external limb elements, and three distinct instances of changes in digit states. Although five species of Brachymeles are externally limbless (B. apus, B. minimus, B. miriamae, B. lukbani, B. vermis), internal pectoral and pelvic girdle elements are visible in X-rays of all five species (C. D.
+ EVOLUTION SEPTEMBER2011 2653
+
+ C. D. SILER AND R. M. BROWN
+Figure 5. Bivariate scatter plots exploring hypothesized thresholds of relative body and limb lengths, relative body width, raw limb lengths, and numbers of presacral vertebrae at which changes in digit number and limb length occur (Brandley et al. 2008). Body proportions are derived from previous studies and were obtained by dividing raw measures of snout–vent length (SVL), fore-limb length (FLL), hind-limb length (HLL), and midbody width (MBW) by head length (HL). Hypothesized morphological thresholds indicated by gray boxes, with proposed outliers labeled for reference.
+Siler, pers. obs.), indicating that the species have retained some vestigial elements of limbs. Previous studies have shown that reductions in digit number are more common in the fore-limbs of scincid lizards, with only four genera possessing species with the opposite pattern (Bipes [Bipedidae], Bachia [Gymnopthalmidae], Anomolopus [Scincidae], and Teius [Teiidae]; Brandley et al. 2008; Skinner and Lee 2010); however, in contrast, all species and populations with unequal digit numbers in the foreand hind
+limbs have fewer toes than fingers in Brachymeles (B. bonitae, B. cebuensis, B. pathfinderi, B. samarensis).
+The results of regression and correlation analyses are for the most part consistent with the results of previous studies (Tables 3–5), with many of the general patterns observed across squamates also observed for Brachymeles. We find a strong relationship between limb reduction, body elongation, and digit loss (Tables 3–5). Additionally, body width
+2654 EVOLUTION SEPTEMBER2011
+
+ EVOLUTIONARY SIMPLIFICATION AND REACQUISITION OF COMPLEX BODY FORM IN SKINKS
+F i g u r e 6 . Maximum clade credibility chronograms and estimated ancestral states of limb and ear opening presence or absence in Brachymeles skinks. Ancestral state reconstructions are indicated at each node. Triangles indicate unambiguous reconstructions of a character state (posterior probability ≥ 0.95), colored according to the hypothesized state. Circles represent ambiguous character reconstructions, with colors representing the preferred state and values showing the Bayes factor as an indication of the strength of support for that state. Colored blocks at each ambiguous node represent alternate states supported in analyses.
+and vertebral changes are also strongly associated with body and limb length changes and digit loss (Tables 3–5). Relative measures of tail and total lengths either are not correlated with limb reduction, vertebral changes, and digit loss, or only are correlated with changes in the number of PSV (Table 3). This result is consistent with our knowledge of the ecology of Brachymeles (Brown and Alcala 1980; Siler et al. 2009, 2010a,b, 2011, in press; Siler and Brown 2010); in this genus, all species are fossorial or semi-fossorial and elongation of the body results predominately from increasing SVL, not TL (Tables 3 and 5).
+Multivariate analyses further support the patterns of bodyform change highlighted in bivariate analyses (Tables 3 and 5; Figs. 4 and S1). Changes in body shape are moderately correlated with hind limb digit loss and strongly correlated with changes in PSV number (Tables 3 and 5). In general, limb reduction and subsequent loss and digit loss are associated with longer, narrower bodies and increased numbers of PSV (Figs. 4 and S1).
+We explored patterns of morphological evolution from two points of view: (1) patterns that can be directly observed and empirically quantified, and (2) those that hold regardless of phylogenetic relationships. It is commonly the case that significant relationships and correlations between characters become weaker or nonsignificant when a phylogenetic context is employed (Cronquist 1981; Kelly and Purvis 1993; Kelly 1995; Kelly and Beerling 1995; Ackerly and Reich 1999; Hutcheon et al. 2002)—a pattern observed in this study. However, our analyses also revealed the opposite pattern to occur as well: numerous significant relationships between morphological characters appeared only after taking phylogeny into account, suggesting that the use of a historical context for comparative analyses incorporated via phylogeny can reveal novel and significant statistical support for otherwise undetectable patterns of character correlation.
+Our exploration of morphological thresholds in Brachymeles reveals several interesting and unexpected patterns. Brandley
+EVOLUTION SEPTEMBER2011 2655
+
+         C. D. SILER AND R. M. BROWN
+Table 6. Statistical support for reacquisition of digits and ears in Brachymeles. Data are only presented for species where moderateto-high evidence exists for the reacquisition of digits or external ear openings. Ancestral character states making up ≥0.95 of the posterior probability are listed, with Bayes factors indicating the preferred state in cases of ambiguous state reconstruction. The posterior probability of the preferred ancestral state is provided for reference, with probabilities above 0.95 bolded for emphasis. Clade references refer to those labeled in Figure 7.
+ Lineage
+Fingers
+All Brachymeles
+Philippine Brachymeles + B. miriamae Clade A
+Clade B
+Clade C
+Clade D
+B. cf. bonitae (Luzon)
+B. cf. bonitae (Lubang)
+B. tridactylus
+B. samarensis (Samar)
+B. cf. samarensis (Catanduanes) B. elerae
+Toes Clade E
+Clade F
+Clade G
+B. bonitae (Luzon)
+B. cf. bonitae (Luzon)
+B. tridactylus
+B. cf. samarensis (Leyte) B. elerae
+Ears
+All Brachymeles Philippine Brachymeles B. elerae
+Ancestral state
+0, 1, 2, or 3
+0, 1, 2, or 3 0
+0
+0
+0
+0 0or2 0or3 0or2 0or2 3or4
+0
+0
+0
+0or2
+0
+0or3
+1, 2, or 3 3 or 4
+Absent
+Absent, present Absent
+Extant state
+0–5
+0–5 0,1,2,or3 0,1,2,or3 0,2,or3
+0 or 2
+1
+2
+3
+2
+2
+4
+0,1,2,or3 0,1,2,or3 0,1,or2
+1 or 2
+1
+3
+2 or 3 4
+Absent, present Absent, present Present
+Preferred ancestral state (2 ln BF)
+0 (8.54–9.04)
+0 (7.77–12.90) –
+–
+–
+–
+–
+0 (12.18) 0 (12.43) 0 (5.29) 0 (7.23) 3 (5.41)
+–
+–
+–
+0 (13.70) –
+0 (12.14)
+2 (5.08–5.44) 3 (4.04)
+–
+Absent (5.09) –
+Posterior probability of preferred ancestral state
+0 (0.890)
+0 (0.879) 0 (0.964) 0 (0.969) 0 (0.998) 0 (0.960) 0 (0.979) 0 (0.892) 0 (0.884) 0 (0.550) 0 (0.913) 3 (0.824)
+0 (0.957) 0 (0.999) 0 (0.998) 0 (0.827) 0 (0.967) 0 (0.826) 2 (0.736) 3 (0.779)
+Absent (0.966) Absent (0.619) Absent (0.999)
+               et al.’s (2008) study of squamate body-form evolution revealed two regions of morphospace to be unoccupied: species with short limbs and multiple digits, and species with long limbs and no digits. For example, no species with limb lengths less than half their HL have been shown to have multiple digits. However, the results of this study provide evidence suggesting that both of these distinctive body forms are occupied by species of Brachymeles (Fig. 5). For example, with the exception of B. elerae, all species with one to three fingers have fore-limb lengths less than half their HL, and a population of B. bonitae with two toes has a HLL less than half its HL. Additionally, the observed relationships between raw limb lengths and digit loss also do not directly follow previous studies (Brandley et al. 2008). Seven species with fore-limb lengths less than 2 mm possess more than one finger, and six species with hind limb lengths less than 3.1 mm possess more than one toe
+(Fig. 5). Another previously undocumented extreme is also exhibited in Brachymeles. To the best of our knowledge, this study is the first to provide evidence for species lacking digits to have longer limb lengths than species with multiple digits (Fig. 5). This indicates that even within this relatively small radiation of skinks, there are exceptions to general, previously documented, and widely accepted (see Brandley et al. 2008, for review) patterns of body-form change. These findings have general implications, and potentially suggest that whatever functional, mechanical, or developmental constraints have shaped morphological evolution among virtually all other lizards (except Bipes) may have been lost in Brachymeles.
+In all threshold plots, two outliers were consistently recovered (B. bicolor and B. pathfinderi; Fig. 5). Both of these species represent unique morphologies within the genus, with B. bicolor representing by far the longest species of Brachymeles, and B.
+ 2656 EVOLUTION SEPTEMBER2011
+
+ EVOLUTIONARY SIMPLIFICATION AND REACQUISITION OF COMPLEX BODY FORM IN SKINKS
+F i g u r e 7 . Maximum clade credibility chronograms and estimated ancestral states of limb and ear opening presence or absence in Brachymeles skinks. Ancestral state reconstructions are indicated at each node. Triangles indicate unambiguous reconstructions of a character state (posterior probability ≥ 0.95), colored according to the hypothesized state. Circles represent ambiguous character reconstructions, with colors representing the preferred state, and values showing the Bayes factor as an indication of the strength of support for that state. Colored blocks at each ambiguous node represent alternate states supported in analyses. The posterior probabilities of a five-digit foreand hind-limb ancestral state to all Brachymeles, B. miriamae + Philippine Brachymeles, and Philippine Brachymeles resulting from the ordered model of Brandley et al. (2008) and the best-fit, unordered model shown for reference.
+pathfinderi being the only digit-reduced species to be nested within a clade of pentadactyl species (Fig. 1). Despite these outlier species, we observe general patterns of body-form change. Loss of fingers appears to occur when relative and raw FLL ≤ 1.0 and 5.8 mm, respectively, and loss of toes occurs when relative and raw HLL ≤ 1.75 times HL and 12.2 mm, respectively (Fig. 5). Excluding B. bicolor and B. pathfinderi, body plan shifts toward limb reduction and digit loss are clearly visible along the spectrum of observed MBWs and numbers of PSV (Fig. 5).
+We compared two common methods for size correction while exploring whether HL is an appropriate measure with which to correct for size. The results of analyses using size-corrected data from the phylogenetic size-correction method of Revell (2009), or the commonly used size-correction method based on residuals from linear regression analyses of independent contrasts (Gar-
+land et al. 1992), were highly consistent (Table 3). Although using alternative characters for size correction (SVL, MBW) in regression, correlation, and multivariate analyses showed highly consistent results (not shown), multivariate correlation analyses indicated that, for Brachymeles, HL is the most appropriate variable for size correction. Comparisons of principal component analyses with raw, size-corrected data, and phylogenetic PCAs (Revell 2009), showed highly consistent results in the values, loadings, and scores of the analyses, as well as in the partitioning of species in morphospace (Figs. 4 and S1).
+COMPLEX CHARACTER “REEVOLUTION” AND DOLLO’S LAW
+Most previous studies of squamate limb and digit evolution have worked within the framework of unidirectional character loss
+EVOLUTION SEPTEMBER2011 2657
+
+         C. D. SILER AND R. M. BROWN
+(see Brandley et al. 2008, for review). Although several recent studies have provided numerous lines of evidence for the reevolution of digits among squamate reptiles (Kohlsdorf and Wagner 2006; Brandley et al. 2008; Kohlsdorf et al. 2010; but see Galis et al. 2010), the hypothesis of digit evolution occurring in an ordered sequence (e.g., Alberch and Gale 1985; Shubin and Alberch 1986; Shapiro 2002) has led to little exploration of disparate models of character evolution. Recently, Skinner and Lee (2010) and Skinner (2010) showed that unordered models of character evolution provided the best-fit for data on Fldig and Hldig in Lerista (one of four genera known to possess species with fully limbed, intermediate, and limbless body forms). However, Bayes factors we inferred in this study showed weak positive support for their best-fit model (Kass and Raftery 1995; Nylander et al. 2004). Surprisingly, the studies of Lerista did not find evidence for digit reacquisition (Skinner et al. 2008; Skinner and Lee 2009, 2010; Skinner 2010) whereas in this study, we found one of the first documented cases of high statistical support for complex character reacquisition in a clade of closely related species.
+We considered applying a model that takes into account statespecific rates of speciation and extinction (BiSSE, Maddison et al. 2007). The assumptions of the BiSSE model’s original implementation included analyzing trait-dependent diversification for: (1) binary characters only, (2) completely resolved, known phylogenies ( = no missing taxa), and (3) large phylogenies. FitzJohn et al. (2009) relaxed one of these assumptions (complete taxon sampling); however, our dataset violates three (original), and both (current), assumptions of the model and preclude its implementation in this study. Evaluations of this model’s limitations for smaller datasets are needed in which only a few changes in character states have taken place.
+Considering our robust datasets, phylogeny, and best-fit models of character evolution, the phylogenetic results of this study unambiguously support five instances of digit reacquisition in the hand and four instances of digit reacquisition in the foot (Fig. 7 and Table 6). Additionally, Bayes factors comparing preferred states for 11 ambiguously reconstructed nodes moderately to highly support an ancestral state with fewer digits than that observed in extant species (Fig. 7 and Table 6). In contrast, the data also support independent instances of complete loss of external limb elements (Fig. 7).
+One of our most striking findings involve support for the reevolution of a pentadactyl body form from a digit less or digitreduced ancestor (Fig. 7 and Table 6). In exploring the impact of the model on this result, we repeated all ancestral state reconstructions with the suite of models compared in Skinner and Lee (2010). Similar to the findings of Brandley et al. (2008), ancestral reconstructions with ordered models of evolution instead of the best-fit undordered models were more ambiguous. However, re-
+gardless of the model of character evolution, all analyses preferred digit less or digit-reduced ancestral states for the nodes giving rise to all Philippines species of Brachymeles with ≥ 95% of the combined posterior probabilities of digit less and digit-reduced states for each node (Fig. 7).
+The Philippine radiation of Brachymeles includes the known diversity of pentadactyl species in the genus, which are supported to have evolved from digit less or at least digit-reduced ancestors (Fig. 7 and Table 6). Although this finding stands in contrast to expectations derived from Dollo’s Law (Dollo 1893, 1905, 1922; Simpson 1953; Gould 1970), preliminary data on the phalangeal formula of species of Brachymeles support the findings of previous studies concerning evidence for digit reacquisition. Kolsdorf and Wagner (2006) and Brandley et al. (2008) noted several species in which digit reevolution was reconstructed unambiguously, and phalangeal formulas are uniform among digits when compared with the primitive phalangeal formula among squamates (fore-limb: 2–3–4–5–3; hind limb: 2–3–4–5–4). Among these strongly supported instances of digit, and possibly limb, reevolution, examples of phalangeal uniformity include Bachia (fore-limb, 0–2–2–2–2; hind limb, 2–2–2–2–0; Kolsdorf and Wagner 2006), Bipes (fore-limb, 3–3– 3–3–3; Zangerl 1945), and Scelotes (fore-limb, 2–3–3–3–2; hind limb, 2–3–4–4–2; Brandley et al. 2008). Surprisingly, the phalangeal formulas of all pentadactyl species of Brachymeles show striking similarities to those observed in Scelotes (fore-limb, 2– 3–3–3–2; hind limb, 2–3–4–4–3; C. D. Siler, pers. obs.). Given that pentadactyl species have not lost all digit identity, it remains plausible that the observed phalangeal formulas among extant taxa is simply due to loss of phalangeal elements in the common ancestor. However, the fact that this phalangeal formula has been maintained over significant evolutionary time suggests that there may be a developmental constraint on digit morphology. Regardless of how the pentadactyl state has evolved in Brachymeles, this strange, shared phalangeal formula among all pentadactyl members of the genus may be evidence that digits have been reacquired via a novel evolutionary pathway, unique among pentadactyl lizards.
+In addition to the possible reacquisition of digits and limbs, the results of this study provide unambiguous phylogenetic support for two instances of external ear reacquisition in Brachymeles (Fig. 6 and Table 6). Although the absence of ear openings is common among small, burrowing, or semi-fossorial skinks, external ear openings invariably have been hypothesized to be lost in a unidirectional manner (i.e., present-to-absent), without reversals or reevolution of exposed tympannae (Greer 2002). Not only do we demonstrate strong evidence for the reacquisition of external ear openings in Brachymeles, but at least one subsequent, additional or secondary, loss of this character is strongly inferred to have taken place leading to the extant character state observed in B.
+ 2658 EVOLUTION SEPTEMBER2011
+
+         EVOLUTIONARY SIMPLIFICATION AND REACQUISITION OF COMPLEX BODY FORM IN SKINKS
+muntingkamay (Fig. 6). These findings are the first of their kind, and suggest that the previous assumption about the unidirectionality of changes in this character may be incorrect. Presently, it is not clear whether the loss of external ear openings in Brachymeles involves a restructuring of bone or simply a restructuring of skin, the former process presumably being more complex of a morphological change. If all species with external ear openings possess an atypical inner ear morphology, the finding would lend additional support to members of the genus having reevolved complex characters via a novel evolutionarypathway.
+Conclusions
+Our data represent one of the most comprehensive, fine-scaled, studies of body-form evolution to date for a closely related group of lizards. Not only have we sampled nearly every recognized species within the genus Brachymeles, but also we have sufficient sampling to investigate intraspecific variation within many species (e.g., B. bonitae and B. samarensis). Coupled with this nearly complete taxonomic sampling, our robust morphological and molecular dataset provide a rich system with which to address questions concerning body-form evolution within one of the few genera to possess the full suite of body forms extremes, including representatives inhabiting previously undocumented portions of body-form morphospace.
+Although within the genus, general external morphologies appear conservative, on the whole, Brachymeles appears to occupy previously undocumented regions of morphospace (Figs. 4, 5, and S1). Examples of this include species with relatively tiny limbs and multiple digits and species with relatively longer limbs and no digits (Fig. 5). Multivariate analyses of morphological data indicate species with similar body forms have evolved into similar regions of morphospace (Figs. 4 and S1).
+Ancestral character state reconstructions are limited in that they provide only a statistical framework with which to investigate data in the context of a reduced tree with branch lengths and a single character per terminus. With that in mind, there are two perspectives to consider when interpreting the results of this study: (1) what do our data, phylogeny, and best-fit models of character evolution tell us about the prevalence and directionality of body-form evolution in Brachymeles? And (2) what are the limitations of our data and analyses for making these inferences? Although alternative explanations are possible, we believe that the strong statistical support uncovered here for the reversibility of complex characters in a closely related group of lizards is some of the most compelling recent examples of clear exceptions to Dollo’s Law. Regardless of the perspective, it is clear that multiple instances of digit and ear state changes have occurred during the evolutionary history of Brachymeles. Considering the comprehensive and fine-scale approach to this study, the results of
+ancestral state reconstructions support the reacquisition of both digits and external ear openings. Furthermore, all analyses support the reacquisition of a pentadactyl body form from a digit less or digit-reduced ancestor, regardless of the model enforced.
+Although these results are novel, it is important to consider the limitations of our data and methods of inference. Due to disproportional diversification in the archipelago, undiscovered mainland diversity, and/or massive extinction outside the archipelago, nearly all of the known diversity within Brachymeles is endemic to the Philippines. The only three non-Philippine species (B. apus, Brachymeles cf. apus, and B. miriamae) are all limbless and sister to the Philippine radiation (Fig. 1). Even with a near-complete range of body forms within the genus, the majority of the variation occurs within two major clades (Fig. 1, Clade 1, 2), with all pentadactyl species part in Clade 2. With this in mind, it is conceivable that there have been multiple independent losses of limbs, digits, and external ear openings giving rise to the Philippine radiation. If this were plausible, such a scenario would suggest that many of the pentadactyl species with external ear openings gave rise to the currently recognized diversity of Brachymeles and have either gone extinct or have yet to be discovered. However, we consider the above scenario unlikely due to the fact that the mainland Southeast Asian herpetofauna has become very well known as a result of extremely active field work in the region (e.g., Van Dijk and Nabhitabhata 1998; Chanard et al. 1999; Malkmus et al. 2002; Pauwels et al. 2003; Grismer et al. 2006a,b; Das 2007, 2010; Manthey and Grossmann 1997; Sang et al. 2009), and no fossil evidence has come to light suggesting otherwise.
+With the comprehensive nature of this and previous studies, we are likely approaching a methodological limit to our ability to understand the processes behind body-form change in Brachymeles. The phylogenetic evidence at hand unambiguously supports the evolution of unique body morphologies and the reacquisition of complex characters. However, support for the directionality of character change will remain debatable until these patterns are investigated with new approaches, including developmental, ecological, and behavioral studies. Regardless, our results provide new, detailed insight into a heretofore incompletely understood range of diversity in this widespread and conceptually intriguing process of body-form evolution among squamate reptiles.
+ACKNOWLEDGMENTS
+We thank the Protected Areas and Wildlife Bureau (PAWB) of the Philippine Department of Environment and Natural Resources (DENR) for facilitating collecting and export permits necessary for this and related studies, wherein we are particularly grateful to M. Lim, J. L. De Leon, C. Custodio, and A. Tagtag. Financial support for fieldwork for CDS was provided by travel grants from the Department of Ecology and Evolutionary Biology and the Panorama Fund of the Natural History Museum and
+ EVOLUTION SEPTEMBER2011 2659
+
+         EVOLUTIONARY SIMPLIFICATION AND REACQUISITION OF COMPLEX BODY FORM IN SKINKS
+ EVOLUTION SEPTEMBER2011 2663
+   Supporting Information
+The following supporting information is available for this article:
+Figure S1. Multivariate plot of morphometric and meristic data showing variable loadings for the first and second components for a nonphylogenetic PCA.
+Table S1. Models of evolution selected by AIC and applied for partitioned, model-based phylogenetic analyses.
+Supporting Information may be found in the online version of this article.
+Please note: Wiley-Blackwell is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+ 

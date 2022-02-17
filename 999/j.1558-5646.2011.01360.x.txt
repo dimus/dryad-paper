@@ -1,0 +1,695 @@
+         ORIGINAL ARTICLE
+WIDE VARIATION IN PLOIDY LEVEL AND GENOME SIZE IN A NEW ZEALAND FRESHWATER SNAIL WITH COEXISTING SEXUAL AND ASEXUAL LINEAGES
+Maurine Neiman,1,2 Dorota Paczesniak,3,4 Deanna M. Soper,5 Austin T. Baldwin,1 and Gery Hehman1 1Department of Biology, University of Iowa, Iowa City, IA, 52242
+2Email: maurine-neiman@uiowa.edu
+3EAWAG, Swiss Federal Institute of Aquatic Science and Technology, Du ̈bendorf, Switzerland
+4ETH-Zu ̈rich, Swiss Federal Institute of Technology Zu ̈rich, Institute of Integrative Biology, Zu ̈rich, Switzerland 5Department of Biology, Indiana University, Bloomington, IN, 47405
+Received December 29, 2010
+Accepted May 9, 2011
+Data Archived: Dryad doi:10.5061/dryad.r0st0
+Natural animal populations are rarely screened for ploidy-level variation at a scale that allows detection of potentially important aberrations of common ploidy patterns. This type of screening can be especially important for the many mixed sexual/asexual systems in which sexuals are presumed to be dioecious diploids and asexuals are assumed to be triploid and all-female. For example, elevation of ploidy level above triploidy can be a source of genetic variation and raises the possibility of gene flow among ploidy levels and to asexual lineages. We used flow cytometry and mtDNA sequencing to characterize ploidy level and genome size in Potamopyrgus antipodarum, a New Zealand freshwater snail where obligate sexual (presumed diploid and dioecious) and obligate apomictic asexual (presumed triploid and nearly all female) individuals frequently coexist. We documented the widespread occurrence and multiple origins of polyploid males and individuals with >3× ploidy, and find that both are likely to be descended from asexual females. Our survey also suggested the existence of extensive variation in genome size. The discovery of widespread variation in ploidy level and genome size in such a well-studied system highlights the importance of broad, extensive, and ecologically representative sampling in uncovering ploidy level and genome-size variation in natural populations.
+KEY WORDS: Asexuality,genomesize,polyploidy,sexualreproduction,tetraploidy,triploidy.
+Asexual animals and plants are usually polyploid, and polyploid animals (and triploid plants) are often asexual (Astaurov 1969; Bierzychudek 1985; Suomalainen 1987; Otto and Whitton 2000). Why polyploidy and asexuality are associated, however, remains unclear (Gregory 2005). To complicate matters, there is growing evidence that ploidy level within presumed obligate asexual lineages is surprisingly variable and complex (Lynch 1984; Belshaw et al. 1999; Castagnone-Sereno 2006). Independent origin of asexual lineages from sexuals that themselves vary in karyotype or genome size and occasional fertilization of otherwise
+asexual individuals are the two most commonly suggested causes for this complexity, especially when ploidy elevation is involved (e.g., amphibians: Bogart and Licht 1986; Christiansen and Reyer 2009; arthropods: Sunnucks et al. 1996; Chaplin and Hebert 1997; Normark 1999; fish: Schultz 1969; Alves et al. 2001; flatworms: D’Souza and Michiels 2009, 2010; plants: Roy 1995; Sharbel and Mitchell-Olds 2001; van Dijk 2003). The link between asexuality and polyploidy and the large body of literature suggesting that the causes and consequences of ploidy-level variation can have profound genetic and phenotypic effects (reviewed in Otto and
+doi:10.1111/j.1558-5646.2011.01360.x
+ ⃝C 2011 The Author(s). Evolution ⃝C 2011 The Society for the Study of Evolution. 3 2 0 2 Evolution 65-11: 3202–3216
+
+         Whitton 2000; Comai 2005; Gerstein and Otto 2009) means that a complete understanding of the distribution and maintenance of sex in many natural systems will often require the characterization of ploidy-level variation and its relationship to mating system.
+The most direct and powerful way to study the maintenance of sex is to compare obligately sexual and obligately asexual organisms that coexist in nature and where the asexuals are repeatedly and independently derived from sexual ancestors (Maynard Smith 1978; Neiman and Jokela 2010). This scenario is one where sex is likely to be actively maintained, and permits direct comparisons between sexual and asexual organisms. However, these conditions are very rarely met in natural mixed sexual/asexual systems (Maynard Smith 1978).
+The frequent coexistence of sexual and asexual individuals (Winterbourn 1970; Lively 1987, 1992) and evidence for repeated transitions to asexuality (Dybdahl and Lively 1995; Neiman and Lively 2004) are thus why Potamopyrgus antipodarum, a New Zealand freshwater snail, is perhaps one of the best natural systems available for studying the maintenance and distribution of sex in nature. Lake populations of P. antipodarum in its native range are either entirely or almost entirely female (<10% male; “low male”) or ∼20–50% male (“high male,” Wallace 1992; also see Winterbourn 1970; Lively 1987, 1992; Lively and Jokela 2002). Allozyme genotyping of females from low and high male populations first revealed that the former nearly always reproduced via apomictic parthenogenesis, whereas the latter were usually sexual (Phillips and Lambert 1989). Soon after, karyotyping of embryos and adults from 12 low male and 10 high male populations suggested that mating system covaried with ploidy, but also hinted at ploidy or genome-size variation within asexual P. antipodarum (Wallace 1992). Although P. antipodarum from high male lakes were generally diploid (2× = 34), the individuals from low male lakes (including several males) had a chromosome number that ranged between 46 and 52, and were referred to as “modified triploids.” More recently, nucleic acid assays of multiple asexual P. antipodarum lineages revealed wide across-lineage variation in per unit mass DNA content within the “triploid” ploidy class (Neiman et al. 2009).
+The P. antipodarum system thus constitutes a set of natural experiments in the evolution of mating system and ploidy-level variation, and is well-suited for empirical studies aimed at understanding the maintenance and distribution of sex and disentangling the relationships between polyploidy and asexuality. Achieving these goals requires the characterization of withinand amongpopulation variation in ploidy level and an understanding of how ploidy-level variation is connected to variation in mating system. With this in mind, we conducted an extensive survey of ploidylevel variation in New Zealand populations of P. antipodarum and evaluated how ploidy level covaried with phylogeographic identity, mating system, and gender.
+Methods
+SAMPLING
+We sampled P. antipodarum in four North Island and 12 South Island lakes in January 2009 and in 6 South Island lakes in January 2010 by pushing a kick net through vegetation and washing snails off of rocks (Fig. 1). We also collected samples from each of three depth-structured habitat zones in Lake Alexandrina (Jokela and Lively 1995). There is a well-established gradient of the relative frequency of sexual P. antipodarum in this lake, where the shallow and intermediate zones are characterized by mixed sexual/asexual, high male populations, whereas P. antipodarum in the deep zone are usually asexual females (Jokela and Lively 1995; Fox et al. 1996; Table 1). With the exception of the intermediate and deep samples from Lake Alexandrina, all other samples were taken from shallow regions.
+All field-collected snails were transported to the University of Iowa (2009) or the Swiss Federal Institute of Aquatic Science and Technology (EAWAG) (2010) and housed in aquaria until used for flow cytometry. At this time adult snails (>2.5 mm) were randomly selected from the field collections, sexed (with the presence of a penis used to assign male status), and dissected such that any brooded embryos were removed prior to flow cytometry. We then snap-froze the head in two separate halves (one for flow cytometry and one for DNA extraction). We dissected and froze heads from the first 10 males that we identified along with the first 20+ haphazardly selected females from 2009 field collections that had a relatively high relative frequency of males (>20%). For 2009 field collections that had <10% males, we sexed all collected adults (100+ individuals) and dissected and froze heads from all the males (ranging in number from two to seven) for flow cytometry, along with the first 20+ haphazardly selected females. For samples collected in 2010, P. antipodarum were sexed and dissected immediately prior to flow cytometry analysis. Because transportation-associated losses of 2010 samples brought to Switzerland were large (∼60–90% mortality per sample), all remaining live adults per lake sample were analyzed (15–38 individuals).
+A 2008 pilot study demonstrated that flow cytometry analysis of body (vs. head) tissue of adult diploid male P. antipodarum reliably generates a bimodal peak pattern, with fluorescence peaks (in FL1 units) from the DNA-staining dye DAPI centered both at the same location as the diploid head tissue run alone and at about half the FL1 units representing a typical head tissue peak (data not shown; “body tissue peak”). Because the gonads are found in this posterior portion of the P. antipodarum body, and because this second peak was never found in association with head tissue run alone, it is likely to represent haploid sperm cells produced by diploid males. We thus also froze the bodies of male P. antipodarum sampled in 2009 to analyze the nuclear DNA content of
+PLOIDY, SEX, AND GENDER IN A FRESHWATER SNAIL
+ EVOLUTION NOVEMBER2011 3203
+
+         MAURINE NEIMAN ET AL.
+ Figure 1. Map of New Zealand showing the locations of and the relative frequency of 2× (white), 3× (stripe), and >3× (black) individuals in the 22 lakes (24 samples including the three different depth zones in Lake Alexandrina) from which we collected 860 P. antipodarum in 2009 and 2010. Each lake/sample is indicated by the acronym assigned in Table 1. We also used 16 P. antipodarum from laboratory cultures descended from individuals sampled from Lady Lake in New Zealand (2007) and from invasive populations in North America (Lake Superior, July 2007) and Europe (sampled in early 1990’s) for mitochondrial cytochrome-b sequencing.
+the cells contributing to this body tissue peak. A possible signature of ova produced by adult female diploid P. antipodarum was not apparent in flow cytometry using body tissue, probably because there are almost certainly orders of magnitude more sperm cells in an adult male than egg cells in an adult female. Bodies of males infected with macroparasites (<10% of all males) were not used for flow cytometry because there was no way to ensure complete removal of the parasite tissue from P. antipodarum body tissue. All P. antipodarum tissue was stored at –80◦C until DNA extraction and flow cytometry.
+FLOW CYTOMETRY
+Samples collected in 2009 were analyzed at the University of Iowa. For these samples, frozen P. antipodarum heads were ground in a solution containing 0.2 M Tris-HCl (pH 7.5), 4 mM MgCl2, 1% TritonX-100, and 4 μg/mL DAPI. This solution was filtered through a 70-micron nylon sheet, and then run
+on a Beckman-Coulter Quanta SC MPL flow cytometer. We used the FL1 channel to assess DAPI fluorescence (and thus the DNA content) of P. antipodarum cell nuclei under a UV lamp. At the beginning of each flow cytometry run, we calibrated the machine using 20 μL of chicken red blood cells (Lampire Biological Labs, Pipersville, PA) treated and filtered as for P. antipodarum. We adjusted the gain so that the chicken standard peak was always centered on 200 FL1 units. Each sample was run until a count of 10,000 events was achieved. We also used flow cytometry on the body tissue of diploid and polyploid males to determine whether polyploid males were similar to diploid males in having a peak of relatively low DNA content nuclei from body tissue that might correspond to sperm. These data were also used to quantify the nuclear DNA content of cells found in body tissue samples.
+Snails collected in 2010 were analyzed at EAWAG. We ground fresh P. antipodarum heads in 100 μL of CyStain UV Ploidy solution (Partec, Muenster, Germany). We then added
+ 3204 EVOLUTION NOVEMBER2011
+
+         PLOIDY, SEX, AND GENDER IN A FRESHWATER SNAIL
+                      Table 1. Characteristics of the New Zealand lake populations and laboratory cultures used for flow cytometry and sequencing.
+Source (acronym)
+Type
+N No. No. (flow) ♀ ♂
+♂
+(all ♂)
+(all ♂)
+(sequence) Haplotypes
+Field-Collecteda (2009)
+Alexandrina Isoetes (AI)
+High male
+60 36 24
+42/18/0 0.00
+18/18/0 50.00
+50.00
+50.00
+0.00
+24/0/0
+100.00
+0.00
+0.00
+0.00
+41 01A, 10A, 25A, 30A, 30B, 30E
+Alexandrina Deep (AD)
+Low male
+54 48 6
+2/52/0 0.00
+2/46/0 4.17
+95.83
+95.83
+0.00
+0/6/0
+0.00
+100.00
+100.00
+0.00
+54 01A , 10A, 30A, 50
+Alexandrina Shallow (AS)
+High male
+50 40 10
+29/21/0 0.00
+19/21/0 47.50
+52.50
+52.50
+0.00
+10/0/0
+100.00
+0.00
+0.00
+0.00
+40 01A , 10A, 25A, 30A, 30C, 30E
+Clearwater (CW)
+High male
+64 30 34
+54/8/2 3.13
+21/7/2 70.00
+30.00
+23.33
+6.67
+33/1/0
+97.06
+2.94
+2.94
+0.00
+26 01A, 30A
+Evelyn (EV)
+Low male
+25 20 5
+0/25/0 0.00
+0/20/0 0.00
+100.00
+100.00
+0.00
+0/5/0
+0.00
+100.00
+100.00
+0.00
+20 01A, 49
+Grasmere (GR)
+Low male
+28 21 7
+7/19/3 10.71
+3/15/3 14.29
+85.71
+71.43
+14.29
+4/3/0
+57.15
+42.85
+42.85
+0.00
+27 01A, 30A
+Heron (HE) Kaniere (KN)
+High male High male
+51 30 21 30 20 10
+41/8/2 3.92 30/0/0 0.00
+21/7/2 70.00 20/0/0 100.00
+30.00 0.00
+23.33 0.00
+6.67 0.00
+20/1/0 10/0/0
+95.24 100.00
+4.76 0.00
+4.76 0.00
+0.00 0.00
+36 01A, 30A, 52
+25 27A, 30D, 53, 54,
+Okarekac (OK) Poeruac (PR)
+Low male Low male
+34 34 0 21 19 2
+11/20/3 8.57 1/11/9 42.86
+11/20/3 32.35 1/9/9 5.26
+67.65 94.74
+58.82 47.37
+8.82 47.37
+0/0/0 0/2/0
+NA 0.00
+NA 100.00
+NA 100.00
+NA 0.00
+14 01A, 08A, 37A, 37C, 37E, 64, 68
+Rotoiti (RT) Rotoroa (RR)
+Low male High male
+44 42 2 46 36 10
+0/9/35 63.54 45/1/0 0.00
+0/16/26 0.00 35/1/0 97.22
+100.00 2.78
+38.10 2.78
+61.90 0.00
+0/0/2 10/0/0
+0.00 100.00
+100.00 0.00
+0.00 0.00
+100.00 0.00
+18 01A, 37B, 48 39 01A, 09A, 09B,
+Sarah (SA) Selfe (SF) Tarawerac (TW)
+Low male High male Low male
+26 20 6 40 30 10 28 24 4
+0/26/0 0.00 20/20/0 0.00 1/27/0 0.00
+0/20/0 0.00 10/20/0 33.33 1/23/0 4.17
+100.00 66.67 95.83
+100.00 66.67 95.83
+0.00 0.00 0.00
+0/6/0 10/0/0 0/4/0
+0.00 100.00 0.00
+100.00 0.00 100.00
+100.00 0.00 100.00
+0.00 0.00 0.00
+09C
+21 01A, 37A
+Taupo (TP)
+Low male
+23 20 3
+0/23/0 0.00
+0/20/0 0.00
+100.00
+100.00
+0.00
+0/3/0
+0.00
+100.00
+100.00
+0.00
+16 37A, 37E, 64, 65, 66
+Taylorc (TY) Waikaremoana (WK)
+Low male Low male
+23 19 4 23 18 5
+1/22/0 0.00 0/21/2 8.69
+1/18/0 5.26 0/17/1 0.00
+94.74 100.00
+94.74 94.44
+0.00 5.54
+0/4/0 0/4/1
+0.00 0.00
+100.00 100.00
+100.00 80.00
+0.00 20.00
+22 01A
+25 08A, 22A, 37A, 57,
+Field-Collected (2010) Gunn (GN)
+Haupiri (HP)
+Ianthe (IA) Mapourika (MP) South Mavora (MA) Te Anauc (TA)
+Low male High male High male High male Low male Low male
+35 35 0 38 30 8 29 16 13 14 13 1 35 35 0 39 36 3
+0/26/9 25.71 3/31/4 10.53 27/2/0 0.00 6/8/0 0.00 0/27/8 22.86 9/30/0 0.00
+0/26/9 0.00 0/26/4 0.00 14/2/0 87.50 5/8/0 38.46 0/27/8 0.00 9/27/0 25.00
+100.00 100.00 12.50 61.54 100.00 75.00
+74.29 86.67 12.50 61.54 77.14 75.00
+25.71 13.33 0.00 0.00 22.86 0.00
+0/0/0 3/5/0 13/0/0 1/0/0 0/0/0 0/3/0
+NA 37.50 100.00 100.00 NA 0.00
+NA 62.50 0.00 0.00 NA 100.00
+NA 62.50 0.00 0.00 NA 100.00
+NA 0.00 0.00 0.00 NA 0.00
+NA NA NA NA NA NA NA NA NA NA NA NA
+Laboratory Culturesb (ploidy)
+Ianthe 10 (IN10; 2×) Ianthe 41 (IN41; 2×) Lady 21 (LD21; 2×) Lady 24 (LD24; 2×) Lady 51 (LD51; 2×) Alex Isoetes 1 (AI1;
+Sex Sex Sex Sex Sex Asex
+NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+NA NA NA NA NA NA NA NA NA NA NA NA
+NA      NA
+NA      NA
+NA      NA
+NA      NA
+NA      NA
+NA      NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+1 41A 1 41B 1 30A 1 30A 1 51 1 01A
+3×)
+Alex Isoetes 67 D
+Asex
+NA NA NA
+NA NA
+NA NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+1 01A
+(AI67D; 3×)
+No. 2×/
+No. 3×/ Percentage No. >3× >3×
+No. 2×♀/ Percentage No. 3×♀/ ♀ 2×
+No. >3×♀ (all ♀)
+Percentage polyploid ♀ (all ♀)
+Percentage ♀×3
+♀ (all ♀)
+Percentage ♀ >3×
+(all ♀)
+No. 2×♂/ 3×♂/ >3×♂
+Percentage ♂2×
+(all ♂)
+Percentage
+Percentage ♂3×
+(all ♂)
+Percentage >♂3× N
+19 01A
+33 01A, 9B, 27A, 27B
+21 01A, 37A, 61, 62, 63, 66
+55, 56
+58, 59, 60
+Continued.
+ EVOLUTION NOVEMBER2011 3205
+
+         MAURINE NEIMAN ET AL.
+        Ta b l e 1 . Continued.
+Source (acronym)
+Type (flow)
+♀ ♂
+(all ♂) NA NA
+(sequence) Haplotypes
+Alex Isoetes 7 (AI7; 3×) Alex Isoetes B52
+Asex NA
+NA NA
+NA NA
+1 22A
+(AIB52; 3×) Denmark A (DKA; 3×)
+Asex NA Asex NA
+NA NA NA NA
+NA NA
+NA NA NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA
+NA NA
+NA
+1 01A 1 22A
+Gunn (GN; >3×) Mapourika 75 (MP75;
+Asex NA Asex NA
+NA NA NA NA
+NA NA
+NA NA NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+1 20A 1 37A
+3×)
+Superior (SP; 3×) Waikaremoana 90’sd
+Asex NA Asex NA
+NA NA NA NA
+NA NA
+NA NA NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+NA NA
+1 22A
+2 36A, 67
+(WK90; 3×) Wales C (WLC; 3×)
+Asex NA
+NA NA
+NA
+NA NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+1 37D
+N No. No.
+♂
+(all ♂) NA NA
+No. 2×/ No. 3×/ No. >3× NA
+No. 2×♀/ Percentage No. 3×♀/ >3× No. >3×♀
+Percentage ♀ 2×
+(all ♀)
+NA
+Percentage polyploid ♀ (all ♀) NA
+Percentage ♀×3
+♀ (all ♀) NA
+Percentage ♀ >3×
+(all ♀)
+NA
+No. 2×♂/ 3×♂/ >3×♂ NA
+Percentage ♂2×
+(all ♂) NA
+Percentage
+Percentage ♂3×
+(all ♂) NA
+Percentage >♂3× N
+aFor the 2009 field collections, all males found in a sample of 200+ snails were used for flow cytometry in low male lakes, whereas at least 10 males were used in high male lakes. Male relative frequency was defined in field collections by the relative frequency of males relative to all adults within a random sample of at least 100 adults taken from the lake collections (low = <10% males/sample; high = >20% males/sample; Wallace 1992; Lively and Jokela 2002).
+bPloidy was previously established for laboratory cultures and was verified with flow cytometry of the individual(s) used for DNA extraction.
+cThere were no diploid males found in these lakes in samples of 200+ snails, suggesting that females classified as diploids in these lakes are asexual. dAncestors of this culture were collected in the early 1990s, and the culture was founded with multiple individuals.
+3206 EVOLUTION NOVEMBER2011
+an additional 700 μL of CyStain UV Ploidy solution to the ground snail tissue, and filtered the solution through 30-micron Partec CellTrics mesh. Nuclear DNA content was measured in the FL4 channel of a Partec Ploidy Analyzer PA-II equipped with an HBO mercury arc lamp. As a size standard, we used Drosophila melanogaster (OR-strain) male heads, which were treated and filtered the same way as P. antipodarum samples. Four or five of these Drosophila extracts were then mixed together and 100–200 μL of this solution was added to each snail sample prior to flow cytometry measurement. Each sample was run until a count of 17,000 events was achieved. We tested the repeatability of the flow cytometry procedure by measuring the fluorescence of separately prepared head halves from the same individual P. antipodarum (2009 samples) and by measuring the fluorescence of individual P. antipodarum samples twice during the course of a single flow cytometry run (2010 samples). The two measures were significantly and positively correlated for both 2009 (N = 8 individuals; Pearson’s correlation coefficient = 0.998, P < 0.0001) and 2010 (N = 25 individuals; Pearson’s correlation coefficient = 0.999, P < 0.0001). Because the repeatability analysis from 2010 included individuals from multiple ploidy levels, we also conducted these analyses separately within the 2× (N = 5) and 3× (N = 18) individuals, with very similar results (2×: Pearson’s correlation coefficient = 0.991, P = 0.001; 3×: Pearson’s correlation coefficient = 0.998, P < 0.001). There were only two >3 individuals in the 2010 repeatability dataset, meaning that we did not have a large enough sample size to perform a meaningful assessment of whether the two flow cytometry measurements from each individual were correlated.
+DATA ANALYSIS
+To avoid including cell debris and clumped cells in data analyses, we first used the Beckman Quanta Analysis software (2009 samples) and Partec FloMax software (2010 samples) to confine data analysis for each flow cytometry sample to the peak of datapoints corresponding to intact nuclei of single cells in growth phase 1. We did the same for the chicken and Drosophila standards and for the male body tissue peaks. We then calculated the mean fluorescence (in FL1 units for 2009 samples, in FL4 units for 2010 samples) for this peak region for each sample. For comparison between different runs on the same machine, we standardized each datapoint by dividing the mean FL1 (FL4) value for each sample by the mean fluorescence of the peak of chicken red blood cell (or Drosophila, for 2010 samples) standard used to calibrate that particular run. The Drosophila standard was mixed with each sample, meaning that for samples run in 2010 we were able to calibrate each sample with a simultaneously run standard.
+To combine the 2009 and 2010 datasets, we divided each sample’s mean standardized fluorescence value by the mean fluorescence value of a haploid genome in its dataset. We estimated the
+
+         mean haploid genome fluorescence value by using the frequency distributions of the two datasets, which each showed two distinct peaks of fluorescence values (and thus nuclear DNA content) corresponding to putatively diploid and triploid P. antipodarum, to delineate diploid classes of individuals. We calculated the mean fluorescence value of the diploid class, and divided this value by two to generate an estimate of mean haploid genome fluorescence for each dataset. The 2009 dataset had a broader distribution of fluorescence values than the 2010 dataset, probably because the 2009 dataset involved a larger and different set of lakes (including Lake Rotoiti, from which 35 of the 77 individuals classified as >3× and 58% of the individuals representing the top 0.5% of the distribution of nuclear DNA contents were sampled), and because 2010 samples were run fresh and mixed with a standard. Therefore, we used a well-defined local minimum between 0.96–0.99 FL1 units in the 2009 dataset to designate individuals with FL1 values ≤ 0.96 as 2×. For the 2010 dataset, which was distinctly trimodal, we classified the 45 individuals with the lowest FL1 values (lowest FL4 values) as 2× (mean FL4 = 3.994 units ± 0.114 SD). We divided each of these mean fluorescence values for the 2× classes by two to generate a 1× fluorescence value for each dataset. The standardized fluorescence value for each sample was then divided by its 1× fluorescence value (2009: 0.402; 2010: 1.995).
+After assigning individuals to ploidy levels (see below), we used a one-way random effects ANOVA (as implemented within PASW 17; SPSS Inc. 2009) to determine whether mean fluorescence (i.e., nuclear DNA content) within each ploidy level differed by population (lake, or habitat within a lake). Ploidy classes containing fewer than three individuals for a given population were excluded from these analyses. As most populations did not have all ploidy levels, we fitted random effects ANOVA models for each ploidy level. We also conducted variance component estimation using the MINQUE method to estimate withinand among-population variance components.
+Similar analyses were conducted for body tissue samples from diploid and triploid males. Because there were only two >3× males for which we collected body tissue data, we did not include these two males in these analyses. We analyzed amongpopulation differences in the DNA content of the cells represented by this body tissue peak for each ploidy level using individual as a random factor nested in population of origin, which was also treated as a random factor.
+Comparisons of the mean and variance of the nuclear DNA content of body tissue cells in triploid and diploid males and of the mean nuclear DNA content in head versus body tissue in triploid males could also provide preliminary information about gametogenesis in polyploid males, provided that future studies verify that this low-fluorescence peak generated by male body tissue is indeed from sperm cells. We compared the means of the nuclear DNA content of body tissue in diploid versus triploid males by
+fitting a model in which ploidy of the male (diploid, triploid) was treated as a fixed factor. Because we did not find triploid males in all of our lake samples, we could not estimate the interaction between ploidy and population of origin. We compared the means of the nuclear DNA content of body versus head tissue in triploid males with a paired-values t-test (as implemented in PASW 17), where the mean FL1 values of head and body tissue were paired within their source individual. We compared the variances of the nuclear DNA content in the body tissue of diploid and triploid males by using Levene’s test of equality of variances.
+DNA EXTRACTION, PCR, AND SEQUENCING
+Total DNA was isolated with the Qiagen DNeasy Plant kit from each individual collected and used for flow cytometry in 2009. We also extracted DNA from 16 individual P. antipodarum from 15 cultures housed at the University of Iowa that are descended from individuals collected from various New Zealand lakes between 2003 and 2008 and from invasive North American (Lake Superior, collected July 2007) and European (collected in the early 1990s) populations. Flow cytometry had been previously used to establish ploidy of the individual cultures, and was used to verify the ploidy of the individuals used for DNA extraction by the University of Iowa 2009 methods described above for head tissue.
+A portion of the mitochondrial cytochrome-b gene was amplified from the extracted DNA using primer pair A (forwardCTTGAATGACAGCAAGAAGT; reverse-GTTGCTAGGCTGCTAAGTGA) or B (forward-GTTGACTTACCWGCWCC; reverse-AGGGCATGCCCCDATTCA). Primer pair A amplified a 1.7-kb fragment in a reaction containing 1× U Phusion Polymerase (New England BioLabs, Ipswich, MA), 1× HF Buffer, 0.2 mM each dNTP, 0.5 μM each primer, and 10–20 ng genomic DNA with cycling parameters of 1 cycle of 98◦C for 2 min, 35 cycles of 98◦C for 20 s, 62◦C for 30 s, 72◦C for 1 min, and 1 cycle of 72◦C for 10 min. Primer pair B amplified a 970 bp fragment in a reaction containing 2 U Biolase Polymerase (Bioline USA Inc., Taunton MA), 1X NH4 Buffer, 2.0 mM MgCl2, 0.4 mM each dNTP, 1.0 μM each primer, and 10–20 ng genomic DNA with cycling parameters of 1 cycle of 94◦C for 2 min, 35 cycles of94◦Cfor30s,50◦Cfor30s,72◦Cfor1min,and1cycleof 72◦C for 10 min. PCR products were purified using QIAquick PCR Purification (Qiagen Inc., Valencia, CA). Fragments were sequenced from one or more primers from Primer Pair A, Primer Pair B, Primer C (AATTTGTCWATYTGATGA), or Primer D (AAAATATCATTCNGGYTG) using BigDye version 3.1 (Applied Biosystems, Foster City, CA) and an ABI 3730 (Applied Biosystems).
+DATA ANALYSIS
+Cytochrome-b sequences were edited and aligned in BioEdit (Hall 1999). We trimmed the sequences to the 718 bp that we were
+PLOIDY, SEX, AND GENDER IN A FRESHWATER SNAIL
+ EVOLUTION NOVEMBER2011 3207
+
+         MAURINE NEIMAN ET AL.
+able to reliably sequence in most individuals. We then used the “Findmodel” application of Modeltest 3.7 (Posada and Crandall 1998) to select the model of nucleotide substitution that best fitted the 513 individual, 718 bp dataset. Finally, we used MEGA 4.0 (Tamura et al. 2007) to run 1000 replicates of a neighborjoining bootstrap procedure under the Modeltest-specified model, Tamura-Nei, to evaluate the statistical support of the tree topology.
+Results
+FLOW CYTOMETRY
+We quantified genome size in 860 adult P. antipodarum from 24 field samples (N = 14–64). Samples from 2009 (670 P. antipodarum individuals; 510 females, 160 males) were analyzed at the University of Iowa, and samples from 2010 (190 P. antipodarum individuals; 165 females, 25 males) were analyzed at EAWAG. We also estimated the DNA content of nuclei in the low-fluorescence FL1 peak generated from body tissue content in 66 males
+(45 diploid, 19 triploid, two >3×) collected in New Zealand in 2009 at the University of Iowa.
+The pooled frequency distribution of the 2009 and 2010 head tissue datasets showed two distinct peaks of fluorescence values (and thus nuclear DNA content) corresponding to putatively diploid and triploid P. antipodarum, as expected from previous cytological (Wallace 1992) and population genetic (Fox et al. 1996) data. Surprisingly, the dataset also contained individuals with nuclear DNA content clearly exceeding 3× (Fig. 2). We used local minima at 2.39× and 3.5× to designate individuals with nuclear genome content ≤ 2.39× as “2×,” individuals with nuclear genome content >2.39× but ≤ 3.5× as “3×,” and individuals with nuclear genome content > 3.5 as “>3×.” Fifty males were classified as >2×, and are referred to as “polyploid males.” All of the males sampled from low male populations (for details see Table 1; also see Wallace 1992; Lively and Jokela 2002) were polyploid, with the exception of four diploid males from a Lake Grasmere sample that was dominated by triploid females. As shown in Table 1, we found >3× individuals in 10 lakes, six of which had
+ Figure 2. Histogram showing the distribution of mean fluorescence of the peak corresponding to DAPI-labeled intact nuclei from single cells in growth phase 1 generated from the head tissue of 860 individual P. antipodarum and from body tissue of 66 male P. antipodarum. Each fluorescence value from each individual was standardized by dividing by the mean fluorescence of the chicken red blood cell standard (2009) or the male Drosophila head standard (2010) used for that particular run. We then used the distribution of fluorescence values from each of the two datasets (2009 and 2010) to designate 2× ploidy classes for each dataset, and then generated a fluorescence value corresponding to mean haploid nuclear DNA content for each dataset by dividing the mean fluorescence value of the individuals in the 2× ploidy class by two. We then divided the fluorescence values of each individual in each dataset by the mean haploid nuclear DNA content value from its dataset to produce a single pooled dataset where each individual’s fluorescence value was scaled by the mean haploid nuclear DNA content for its dataset. The vertical dashed lines indicate the points of demarcation between the 2× and 3× designation (≤ 2.39×) and the 3× and >3× designation (≤3.5×). We classified 38.26% (329) individuals as 2× (mean nuclear genome content = 2.002× ± 0.146 SD), 52.79% (454) individuals as 3× (mean = 3.025× ± 0.21 SD), and 8.95% (77) individuals as >3× (mean = 4.146× ± 0.468 SD). Data from body tissue were not included in the calculation of these means.
+ 3208 EVOLUTION NOVEMBER2011
+
+         Table 2. Analysis of withinand among-population variance in individual DNA content by ploidy. “Body” includes data from body tissue from males at different ploidy levels.
+Model∗ MS (population/error) DF (population/error) F P
+Body 0.493/0.019 8/54 26.54 <0.001
+2× 0.036/0.004 13/312 9.49 <0.001
+3× 0.027/0.004 21/431 6.84 <0.001
+>3×∗∗∗ 0.032/0.009 9/67 3.63 0.001
+Var (%)∗∗
+82.0
+31.8 23.9 11.1
+PLOIDY, SEX, AND GENDER IN A FRESHWATER SNAIL
+     ∗ Models were fitted as a random effects model where variance in DNA content was divided into withinand among-population components. Ln-transformed data were used to achieve homoscedastic variances among populations.
+∗∗Among-population variance components are estimated using untransformed data by applying the MINQUE method available in PASW 17. This method is suitable for heteroscedastic variance and yields unbiased variance estimates for unbalanced data (Sahai and Ojeda 2005).
+∗∗∗ Homogeneity of variance assumption violated despite the ln-transformation, so the test should be interpreted with caution.
+no diploid males. One South Island lake sample, Rotoiti, was made up of predominantly >3× individuals (79.5% of the 44 snails sampled) (Table 1). Three other South Island lake samples had ∼25% >3× individuals (Lake Gunn, South Mavora, and Lake Poerua) (Table 1). Nearly all >3× individuals were female, with only three of the 77 >3× individuals found to be male (3.9%). This is even
+a lower relative frequency of males than for triploid asexual P. antipodarum (10.4%; 47 of 454), indicating that >3× individuals are likely to also be asexual.
+There was significant among-population variance in mean nuclear DNA content within each ploidy class (Table 2, Fig. 3), varying from 32% in diploids to 23% in triploids and 11% in
+ Figure 3. Across lake/habitat variation in nuclear DNA content within and across ploidy levels (2× = star, 3× = triangle, >3× = circle). Lakes/habitats are rank-ordered by increasing mean 3× nuclear DNA content; there were no 3× individuals sampled from Kaniere. Ploidy levels represented by a single individual within a given lake sample (2× individuals from Tarawera, Poerua, and Taylor, and the 3× individual from Rotoroa) were not included within statistical analyses requiring replication within ploidy levels within lakes. There was both a significant effect of lake/habitat on nuclear DNA content values within all three ploidy levels and clear demarcation between the three ploidy levels when lake/habitat was taken into account.
+ EVOLUTION NOVEMBER2011 3209
+
+         MAURINE NEIMAN ET AL.
+ Figure 4. The distribution of the nuclear DNA content of the low FL1 peak from body tissue (standardized with chicken red blood cells) from 45 2× males (star), 19 3× males (triangle), and two >3× males (circle) sampled from 12 New Zealand lakes. Male somatic ploidy was previously determined using head tissue. Datapoints representing each individual are rank-ordered within lake and ploidy level from smallest to largest. Each lake is indicated by the acronym assigned in Table 1. Individual lake acronyms followed by “∗” were not used for statistical analyses requiring replication within lakes because we only generated body tissue data from one individual from each of these lake samples.
+>3× individuals. Such variation is likely to be linked to variation in karyotype and/or genome size (e.g., Burton and Husband 1999; Normark 1999; Sharbel and Mitchell-Olds 2001; Sˇmarda and Buresˇ 2006), although we cannot exclude other potential sources of variation in DAPI staining intensity (e.g., variation in nucleotide composition and/or satellite DNA content, Bosco et al. 2007). Among-population variance in body tissue DNA content was even higher (82%), which we discuss in detail below.
+Finally, we used Pearson’s correlation to determine whether the within-population variance in genome size between diploids and triploids was associated. We found that populations with large variance in diploid genome sizes also had large variance in triploid genome sizes (r = 0.83, N = 10, P = 0.003). Estimates of withinpopulation correlations between diploid and >3× genome size and variances were not possible because of the low number of lakes containing enough diploids and >3× individuals to perform meaningful analyses.
+BODY TISSUE NUCLEAR DNA CONTENT
+The mean DNA content of the nuclei represented by the lowfluorescence FL1 peak generated from triploid male body tissue
+was significantly lower than the mean nuclear DNA content estimated from their head tissue (t = 21.604, df = 18, P < 0.0001), suggesting that triploid males might be producing reduced sperm. Even so, the nuclear DNA content in the body tissue peak from triploid males was significantly higher than that from diploid males (Fig. 4, F2,61 = 251.951, P < 0.0001), suggesting that sperm produced by triploid males usually has ploidy levels higher than haploidy. This peak also had ∼550% higher standard deviation in triploid versus diploid males (0.242 SD vs. 0.044 SD; Levene’s test for equality of variances, F2,62 = 27.722, P < 0.0001), pointing to the possibility of wide variation in nuclear DNA content in sperm produced by triploids.
+Although there was significant among-population variation in nuclear DNA content in body tissue for diploid males (2.8% of total variance; F = 3.37, P = 0.018), the variation among individuals was approximately four times greater (8.7% of total variance; F = 451.00, P < 0.001). The situation was similar for triploid males, where individual-level variation again contributed much more to total variance (22.6% of total variance; F = 1470.00, P < 0.001) than population-level variation (1.1% of total variance; F = 1.05, P = 0.436) for triploid males (Fig. 4). The relatively high contribution of individual-level variance to total variance in body
+ 3210 EVOLUTION NOVEMBER2011
+
+         Table 3. Characteristics of the 45 different haplotypes identified in the 513 individual P. antipodarum sequenced at 718 bp of mitochondrial cytochrome-b.
+PLOIDY, SEX, AND GENDER IN A FRESHWATER SNAIL
+ Haplotypea
+01A
+08A 09A 09B 09C 10A 20A 22A 25A 27A 27B 30A 30B 30C 30D 30E 36A 37A 37B 37C 37D 37E 41A 41B 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68
+N
+234
+  2
+ 29
+ 11
+  2
+ 17
+  1
+ 13
+  9
+ 12
+  2
+ 64
+  1
+  3
+ 20
+  6
+  1
+ 32
+  1
+  1
+  1
+  3
+  1
+  1
+  1
+  2
+  1
+  1
+  3
+  1
+  1
+  1
+  1
+  3
+  1
+  2
+  4
+  1
+  2
+  1
+ 10
+  1
+  5
+  1
+  2
+Percentage Polyploid (no. Polyploid)
+97.44 (228) 100.00 (2)
+0.00 0.00 0.00 5.88 (1)
+100.00 (1) 100.00 (13)
+11.11 (1) 8.33 (1) 0.00 0.00
+100.00 (1) 0.00 0.00 0.00
+100.00 (1) 100.00 (29b ) 100.00 (1) 100.00 (1) 100.00 (1) 100.00 (3)
+0.00
+0.00 100.00 (1) 100.00 (2) 100.00 (1)
+0.00 0.00 0.00 0.00 0.00 0.00
+100.00 (3) 100.00 (1) 100.00 (2) 100.00 (4) 100.00 (1) 100.00 (2) 100.00 (1) 100.00 (7b ) 100.00 (1) 100.00 (5) 100.00 (1) 100.00 (1b )
+Percentage Polyploid ♀ (No. ♀)
+98.13 (224) NA (0) 0.00 (23) 0.00 (5) 0.00 (2)
+8.33 (12) 100.00 (1) 100.00 (11)
+16.67 (6) 14.29 (7) 0.00 (2)
+0.00 (43) 100.00 (1) 0.00 (3)
+0.00 (13)
+0.00 (4) 100.00 (1) 100.00 (30) 100.00 (1) 100.00 (1) 100.00 (1) 100.00 (3)
+0.00 (1)
+0.00 (1) 100.00 (1) 100.00 (2) 100.00 (1)
+0.00 (1) 0.00 (2) 0.00 (1) 0.00 (1) 0.00 (1) 0.00 (1)
+100.00 (3) 100.00 (1) 100.00 (2) 100.00 (2) 100.00 (1) 100.00 (2) 100.00 (1) 100.00 (10) 100.00 (1) 100.00 (5) 100.00 (1) 100.00 (2)
+Percentage Polyploid ♂ (No. ♂)
+95.00 (20)
+100.00 (2) 0.00 (6) 0.00 (6) NA (0) 0.00 (5) NA (0) 100.00 (2) 0.00 (3) 0.00 (5) NA (0) 0.00 (21) NA (0) NA (0) 0.00 (7) 0.00 (2) NA (0) 100.00 (2) NA (0) NA (0) NA (0) NA (0) NA (0) NA (0) NA (0) NA (0) NA (0) NA (0) 0.00 (1) NA (0) NA (0) NA (0) NA (0) NA (0) NA (0) NA (0) 100.00 (2) NA (0) NA (0) NA (0) NA (0) NA (0) NA (0) NA (0) NA (0)
+Percentage >3× (No. >3×)
+10.68 (25) 50.00 (1) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 100.00 (1)
+7.7 (1) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0)
+100.00 (1) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 100.00 (1) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0) 0.00 (0)
+Lake/Culture
+>10c
+OK, WK RR
+RR, SF RR
+AD, AI, AS
+GN
+AI7, DKA, SP, WK
+AI, AS
+KN, SF
+SF
+AD, AI, AS, CW, GR, HE, LD21, LD24 AI
+AS
+KN
+AI, AS
+WK90
+MP75, OK, SA, TW, TP, WK
+RT
+OK
+WLC
+OK, TP
+IN10
+IN41
+RT
+EV
+AD
+LD51
+HE
+KN
+KN
+KN
+KN
+WK
+WK
+WK
+WK
+TW
+TW
+TW
+OK, TP
+TP
+TW, TP
+WK90
+OK
+                        aHaplotype numbers ending in a letter contain 431 bp that are a perfect match for the haplotype with the same number reported in Neiman and Lively (2004). Haplotypes that share a number but end in a different letter vary at a site(s) in the additional 287 bp sequenced here. Haplotypes that do not end in a letter did not contain a 431 bp segment that was a perfect match for any of the haplotypes reported in Neiman and Lively (2004), and were assigned a new number.
+bNo diploid males found in source lakes or with these haplotypes, so these haplotypes were treated as “triploid” (i.e., asexual) in Fig. 5.
+cThis is the “common” haplotype reported in Neiman and Lively (2004), and was found in all lakes sampled in 2009 except KN, TP, and WK. This common haplotype is also represented by the AI1, AIB52, and AI67D cultures. This common haplotype is also represented in the AI1, 67D, and B52 cultures.
+ EVOLUTION NOVEMBER2011 3211
+
+         MAURINE NEIMAN ET AL.
+tissue nuclear DNA content in combination with wide amongpopulation variation in the relative frequency of different ploidy levels thus can explain the variance in body tissue DNA content among populations reported above.
+CYTOCHROME-B HAPLOTYPES
+We sequenced 718 bp of mitochondrial cytochrome-b in 513 individuals for which we also had measured nuclear DNA content (summarized in Table 3). We detected 81 polymorphic sites, and identified 45 haplotypes (Genbank accession #s JF518834JF518877) within four major clades that were separated from one another by > 1.5% sequence divergence (Fig. 5). Most of the haplotypes were rare (< 1% of individuals). Twelve haplotypes were represented by more than five individuals (“common”; >1% of individuals). Five of these haplotypes were completely confined to diploid individuals and additional three were dominated by diploids (>88% diploids). Three of the common haplotypes were confined to triploid and >3× individuals and one (1A) was dominated by triploids and >3× individuals (98%). Haplotype 1A was the most common haplotype in the dataset, found in 46% of individuals. This haplotype was significantly more common in triploids, found in 77.1% of triploid individuals versus 3.7% of diploids (Fisher’s exact test, P < 0.0001).
+We generated cytochrome-b haplotypes for 25 polyploid males from nine lakes, and found five different mtDNA haplotypes. These haplotypes were represented in three of the four major clades, suggesting that polyploid male P. antipodarum are of multiple independent phylogenetic origins. Seventeen (68%) of these males had the triploid-dominated haplotype 1A, whereas the remainder of the males had haplotypes from two well-supported clades (B and C) in which we did not detect diploid males (also see Neiman et al. 2005). The thirty-one individuals with >3× ploidy that we characterized at cytochrome b were represented by six haplotypes (including three of the five where we detected polyploid males) across three clades, suggesting that ploidy levels above triploidy have arisen multiple times in P. antipodarum. Twenty-six (83.9%) of these individuals had haplotype 1A and two others had haplotypes within clade A, whereas the remaining three >3× individuals had haplotypes from clades B (one individual) and D (two individuals).
+Discussion
+We documented the geographically widespread occurrence and multiple phylogenetic origins of lineages containing polyploid males and/or >3× P. antipodarum. This evidence for repeated evolutionary transitions to both types of individuals suggests that they do not represent distinct taxa, but are instead generated by many independent events within P. antipodarum. The relative frequency of >3× individuals, which were found in nearly half of all
+lake samples, varied widely among populations, from >20% of the sample (four lakes) to <5% of the sample (two lakes). These results suggest either that the rate of origin of >3× individuals differs among populations and/or that they represent lineages that can become common in some locations but not others. All polyploid males and >3× individuals had cytochrome-b haplotypes from clades or lineages that were nearly always or only found in triploid individuals, and none had haplotypes found otherwise only in diploids, indicating that they likely originated from triploids. Finally, we found that there was a strong positive correlation between variance in diploid genome and large variance in triploid genome sizes, suggesting that the processes that determine variance in genome size might operate on a local scale (Burton and Husband 1999; Sˇ marda and Buresˇ 2006). These previously undocumented patterns were revealed in a large-scale study involving nearly 1000 individuals and over 20 populations, highlighting the value of broad, ecologically representative sampling strategies in uncovering relatively rare but potentially important phenomena even in well-studied systems.
+These findings bring up many questions that will require more experimental and direct approaches to answer fully. For one, why is there such wide variation in the relative frequency of >3× individuals across lake populations? The answer to this question will likely depend at least in part on the balance between the rate of transition to higher ploidy levels (i.e., rate of input of new >3× lineages) and the strength and direction of selection (or lack thereof) for or against polyploids (e.g., D’Souza et al. 2005, D’Souza and Michiels 2010).
+A related and equally important question is the source of the ploidy elevation in P. antipodarum. Two of the most likely scenarios for the formation of natural autopolyploids were outlined by Ramsey and Schemske (1998) and Husband (2004): (1) the union of two unreduced gametes produced by the same individual (e.g., two 2× gametes produced by a diploid female), and (2) the union of gametes produced by a triploid with gametes from another individual (triploid bridge). There seems to be a consensus that the latter is likely to be far more common in nature, because it only requires one chromosome doubling event (Harlan and DeWet 1975; Husband 2004).
+The presence of high relative frequencies of >3× P. antipodarum in populations where we did not find any diploids does suggest that it is unlikely that they usually originate from a doubling of the diploid genome. Autopolyploidization within diploids would also mean that >3× individuals should often carry the common mtDNA haplotypes of the diploid lineages. Instead, we found that these individuals harbored haplotypes nearly always associated with triploids, including several >3× individuals with haplotypes from well-supported clades in which no diploid individuals were found. These patterns suggest instead that triploid females are a more likely maternal source for these
+ 3212 EVOLUTION NOVEMBER2011
+
+         PLOIDY, SEX, AND GENDER IN A FRESHWATER SNAIL
+      2x, 3x, >3x
+49 (2)
+1A (235)
+48 (1) 50 (1)
+20A (1)
+30A (64) 30C (3) 51 (1)
+52 (3)
+30B (1)
+30D (20)
+53 (1)
+54 (1)
+55 (1)
+27A (12)
+25A (9) 27B (2)
+30E (6)
+58 (1) 59 (2)
+56 (1)
+57 (3) 9A (29)
+65
+56
+100
+62 59
+              83
+    A (NI, SI)
+             61
+73
+50 88
+            97
+76
+9B (11)
+9C (2) 10A (17)
+61(1) 41A (1) 41B (1)
+  60 (4) 22A (13)
+     100
+56
+B (EU, NA, NI) C (SI)
+    80
+37D (1)
+  70 77
+53
+37B (1) 62 (2)
+63(1) 64 (10)
+65 (1)
+8A (2)
+37C (1) 37E (3)
+66 (5)
+37A (32) 36A (1)
+67 (1) 68 (2)
+            D (EU, NI, SI)
+P. estuarinus
+               0.01
+Figure 5. Neighbor-joining tree representing the 45 different cytochrome-b haplotypes and four major clades (A–D) detected in our survey. These clades were defined by at least 1.5% sequence divergence from all other clades and bootstrap support >70%. The twoletter acronym following the clade letter indicates where these snails or their ancestors were collected: “EU” = Europe, “NA” = North America, “NI” = North Island of New Zealand, and “SI” = South Island of New Zealand. The numbers to the left of nodes indicate bootstrap support; only values >50% are reported. The numbers to the right of boxes indicate the haplotype ID number, and the number in the parentheses to the right of the haplotype ID number indicates the number of individuals represented by each haplotype. Haplotype ID numbers that include a letter indicate haplotypes that contained a 431-bp segment that was identical to a haplotype reported in Neiman and Lively (2004). These haplotypes were assigned the number of that 431 bp haplotype, whereas letters delineate haplotypes sharing a particular 431-bp haplotype that are different from one another at nucleotides outside this 431-bp segment. Haplotype ID numbers without letters indicate haplotypes were novel with respect to any previously described P. antipodarum cytochrome-b haplotype. The color of the box at the end of each branch indicates whether haplotypes were found only in 2× individuals (blue), 3× individuals (red), or >3× individuals (yellow). Boxes with two colors indicate that the haplotype was represented by individuals of two ploidy levels. The box with both pink and yellow (indicated with arrow) represents a haplotype with 2×, 3×, and >3× individuals. Male symbols next to a branch indicate that the haplotype was also represented by polyploid males.
+ EVOLUTION NOVEMBER2011 3213
+
+         MAURINE NEIMAN ET AL.
+individuals, although we cannot at this time rule out a role for diploid females.
+Triploid asexual female P. antipodarum might produce offspring with different ploidy levels or genome sizes than themselves either via nondisjunction during oogenesis and/or through fertilization by a male. The likelihood that variation in ploidy of asexual lineages originates from occasional fertilization of asexualfemalesbysympatricmaleswasemphasizedbyMaynard Smith (1978) and Lynch (1984). Empirical evidence for this phenomenon has since been reported in a variety of animal taxa (reviewed in Beukeboom and Vrijenhoek 1998), from flatworms (D’Souza et al. 2004; reviewed in D’Souza and Michiels 2010) and weevils (Tomiuk and Loeschcke 1992) to vertebrates such as Poecilia formosa, the Amazon molly (Avise 2008; Lampert et al. 2008). Our documentation of polyploid males and ploidy variation even in lake samples with no diploid individuals, the possibility of production of haploidand diploidclass sperm by polyploid males, and the observations of active copulatory behavior in asexual female P. antipodarum (Neiman and Lively 2005) suggests that this scenario cannot be rejected.
+That polyploid males might be the source of fertilization leading to ploidy elevation at least in some cases is also consistent with our finding that both polyploid P. antipodarum individuals as well as putative sperm nuclei from polyploid males vary widely in nuclear DNA content. More broadly, we detected substantial among-population variation in the nuclear DNA content of diploid and triploid P. antipodarum, suggesting the presence of substantial intraspecific genome size variation. The within-population variance in genome size for sympatric diploids and triploids was positively correlated, as expected if triploid P. antipodarum originate from local diploid individuals (also see Dybdahl and Lively 1995; Neiman and Lively 2004). Extensive intraspecific variation in genome size and ploidy level has also been documented in several plant taxa (e.g., Burton and Husband 1999; Sharbel and Mitchell-Olds 2001; Sˇmarda and Buresˇ 2006; Cires et al. 2010), but only rare reports of such variation exist from animals (e.g., Bosco et al. 2007; Lunt 2008). Why this is the case is not yet clear, but is probably linked to the fact that there has been much more effort devoted to the study of genome size and ploidy variation in plants than in animals (Mable 2004).
+Regardless of its source, variation in nuclear DNA content across asexual lineages and within and across asexual subpopulations of P. antipodarum points to variation in genome size, which itself might be caused either by variation in chromosome size and/or number (e.g., Henry et al. 2005; Sˇ marda et al. 2008). Wide intraspecific variation in chromosome number has been documented in pulmonate snails (Husted and Burch 1946), root-knot nematodes (Lunt 2008), and in many triploid plants, which often make viable aneuploid offspring that vary widely in nuclear
+DNA content (Ramsey and Schemske 2002; Henry et al. 2005, 2010; reviewed in Comai 2005). These differences in chromosome number or size could provide a source of genetic variation to asexual lineages (Castageno-Serrano 2006). Because genome size, aneuploid karyotype, and ploidy level affect fitness in many other organisms (e.g., D’Souza et al. 2005; Gerstein and Otto 2009; Ching et al. 2010; Henry et al. 2010; Pavelka et al. 2010; Sˇmardaetal.2008,2010),variationinanyofthesecouldgenerate variation in fitness-related traits in P. antipodarum. Future studies should focus on characterizing the extent to which ploidy level and genome size variation in P. antipodarum is related to the genetic diversity of asexual assemblages and how and whether such variation influences fitness-related traits in P. antipodarum.
+ACKNOWLEDGMENTS
+We would like to thank K. Larkin, B. Rasmussen, B. Rook, and C. Schiltz for snail care, J. Miller and C. Stipp for instruction on flow cytometry, C. Lively, J. Logsdon, P. Meirmans, S. Meirmans, A. Nelson, T. Schwander, D. Taylor, P. Wilton, and two anonymous reviewers for comments on earlier versions of the article, and L. Delph, K. King, K. Klappert, C. Lively, and K. Theisen for help with snail collecting. We thank J. Jokela for assistance with all stages of this project, and particularly for contributions involving snail collection and data analysis. MN was supported by the Carver Trust and by International Programs and the Stanley-UI Support organization at the University of Iowa. DP was supported by funding from the Swiss National Science Foundation (grant to Jukka Jokela, #31003A_129961/1).
+ 3214 EVOLUTION NOVEMBER2011

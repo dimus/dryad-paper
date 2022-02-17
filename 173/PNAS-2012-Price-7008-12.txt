@@ -1,0 +1,160 @@
+ Tempo of trophic evolution and its impact on mammalian diversification
+Samantha A. Pricea,1,2, Samantha S. B. Hopkinsb,1, Kathleen K. Smithc, and V. Louise Rothc
+aDepartment of Evolution and Ecology, University of California, Davis, CA 95616; bDepartment of Geological Sciences, Clark Honors College, University of Oregon, Eugene, OR 97403; and cDepartment of Biology, Duke University, Durham NC 27708–0338
+Edited by David B. Wake, University of California, Berkeley, CA, and approved March 20, 2012 (received for review October 20, 2011)
+Mammals are characterized by the complex adaptations of their dentition, which are an indication that diet has played a critical role in their evolutionary history. Although much attention has focused on diet and the adaptations of specific taxa, the role of diet in large-scale diversification patterns remains unresolved. Contradictory hypotheses have been proposed, making prediction of the expected relationship difficult. We show that net diversification rate (the cumulative effect of speciation and extinction), differs significantly among living mammals, depending upon trophic strategy. Herbivores diversify fastest, carnivores are intermediate, and omnivores are slowest. The tempo of transitions between the trophic strategies is also highly biased: the fastest rates occur into omnivory from herbivory and carnivory and the lowest transition rates are between herbivory and carnivory. Extant herbivore and carnivore diversity arose primarily through diversification within lineages, whereas omnivore diversity evolved by transitions into the strategy. The ability to specialize and subdivide the trophic niche allowed herbivores and carnivores to evolve greater diversity than omnivores.
+macroevolution | ecological specialization | character evolution
+Living mammals are remarkably diverse: they span eight orders of magnitude in mass, occupy a variety of habitats across the globe, and exploit subterranean, aquatic, terrestrial, arboreal, and aerial niches. Living mammals also show striking differences in diversity between lineages of similar age, from the more than 2,200 species of rodent to the single species of aardvark (1, 2). Early mammals were small, homoeothermic endotherms with tribosphenic molars. Homoeothermic endothermy enabled mammals to survive in a wider range of ambient temperatures and achieve higher sustained activity levels, but it also increased energy demands (3). These increased energetic demands necessitated adaptations or behaviors that either allowed more efficient extraction of energy from the food consumed, entailed consumption of more energy rich foods, or required an increase in the time spent foraging and eating. The tribosphenic molar, which combines shearing and crushing functions in the precisely occluding teeth, is considered to be a key innovation that promoted more effective carnivory and omnivory in early mammalian lineages (4). This type of tooth is also frequently cited as facilitating the diversification of therian mammals (4–6). The tribosphenic molar is an evolutionarily and functionally highly versatile structure (4, 7) that, in combination with heterodonty (different tooth types within the jaw), enabled mammals to evolve a disparate array of specialized dentitions and thus adapt to a broad variety of niches. Indeed, the extraordinary dental diversity of mammals—to the extent that many species can be identified by the morphology of their molars alone (8)—is a testament to the importance of diet to mammalian evolution.
+Although the adaptations of individual mammalian lineages to diet have been well studied, few studies have examined the impact of diet on large-scale macroevolutionary patterns. Here we present a quantitative macroevolutionary analysis of the tempos of lineage diversification and trophic transition across living mammals. Although the evolutionary history of mammals is intimately
+linked to diet, no consensus exists on how trophic strategy (i.e., herbivory, carnivory, or omnivory) may bias transition rates into these different strategies and impact speciation and extinction. Many hypotheses have focused on specific trophic strategies. For example, theoretical, paleontological, and comparative analyses all suggest that carnivores are more prone to extinction (9, 10) resulting from their dependence on less abundant and stable food resources. It has also been common to make macroevolutionary predictions by considering omnivores, which use both plant and animal protein, as less specialized than species that use a narrower subset of the available food resources (i.e., herbivores or carnivores) (11, 12). Hypotheses linking greater diversification rates to ecological specialization have a long history dating back to Darwin (13) and they remain widespread (12, 14–16). Early macroevolutionary theorists suggested that diversification proceeds from generalist ancestors to specialist descendents (15, 17), implicitly predicting that diversification rates should be highest in specialist groups and transition rates should be highest out of omnivory into herbivory and carnivory.
+Drawing from published data, we have compiled a dataset of diets for over one-third of mammalian species (Dryad repository, http://dx.doi.org/10.5061/dryad.vr28vf67). We applied these data to a virtually complete phylogeny of living mammals (5,020 species from ref. 1, based on ref. 18) and analyzed them using phylogenetic comparative methods that simultaneously estimate diversification and transition rates (19, 20).
+Results and Discussion
+We compiled detailed dietary data on primary observations of mammalian diets from the scientific literature and then, using uniform criteria, categorized each species as either a herbivore (a specialist on primary producers), a carnivore (a specialist on consumers), or an omnivore (a generalist, eating both plant and animal material). Using these data and a virtually complete species-level time-calibrated phylogeny of living mammals (ref. 1, based on ref. 18) we can confirm that mammalian trophic strategies are not evenly distributed among mammalian taxa (Fig. 1). Some clades are almost exclusively carnivorous (e.g., aquatic Cetartiodactyla, such as whales and dolphins; aquatic Carnivora, such as seals and walruses) or herbivorous (e.g., terrestrial Cetartiodactyla, such as deer, cows, and antelope) and others appear to switch frequently between omnivory and herbivory (e.g., primates) or omnivory and carnivory (such terrestrial Carnivora as bears, dogs, and foxes). We used this variability
+Author contributions: S.A.P., S.S.B.H., K.K.S., and V.L.R. designed research; S.A.P., S.S.B.H., K.K.S., and V.L.R. performed research; S.A.P. and S.S.B.H. analyzed data; and S.A.P., S.S.B.H., K.K.S., and V.L.R. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+Data deposition: The data reported in this paper have been deposited in the Dryad data repository, http://dx.doi.org/10.5061/dryad.vr28vf67.
+1S.A.P. and S.S.B.H. contributed equally to this work.
+2To whom correspondence should be addressed. E-mail: saprice@ucdavis.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10. 1073/pnas.1117133109/-/DCSupplemental.
+ 7008–7012 | PNAS | May 1, 2012 | vol. 109 | no. 18
+www.pnas.org/cgi/doi/10.1073/pnas.1117133109
+
+ Fig. 1.
+to analyze the tempo of trophic evolution across living mammals and the impact of diet on speciation and extinction.
+We analyzed the data mapped upon the phylogeny by comparing the fit of eight different evolutionary models using a maximum-likelihood approach (20, 21). These models allowed rates of speciation, extinction, and transition between trophic strategies to be either independent of trophic strategy (rates fixed to be equal across all strategies), constrained by trophic strategy (separate rates for each strategy), or constrained according to status as either a specialist on a single food type (herbivore or carnivore) or generalist (omnivore), with separate rates for each category. Although this method required speciation and extinction to be estimated separately, we discuss only net diversification rate, which is speciation minus extinction, in recognition of the uncertainty of estimating extinction from extant phylogenies (22) (estimated speciation and extinction rates reported in Table S1). Diversification rates and transition rates differ substantially between trophic strategies (Table 1). The best-fitting model according to the Akaike Information Criterion (AIC), which takes into account the number of parameters used in the model as well as the goodness of fit to the data, is the most complex model. This model allows speciation and extinction rates to vary depending on trophic strategy and all six transition rates to be estimated independently. According to the Akaike weights, which are the weight of evidence for each model from the set of different models used (23), there is substantial support for the best-fitting model (0.98 where the weights of all models sum to 1). The model that fixed transition rates to be equal across trophic strategies has the worst fit to the data (ΔAIC = 234 and an Akaike weight of 9.7e−52), confirming that transitions between trophic strategies are important constraints on the uneven patterns of lineage diversity among mammals.
+In the best-fitting model, analyzed using Bayesian Markov Chain Monte Carlo (MCMC) methods, herbivores have the highest net diversification rate, carnivores have a considerably lower rate, and omnivores have the lowest rate (Fig. 2A).
+Phylogeny of all 1,530 mammalian species for which we have dietary data; branch color is a rough guide to diet: herbivores, green; carnivores, blue; and omnivores, purple. The tree shown here represents one of the 100 trees used in the analysis and just one of the many possible character histories used within our analyses. This mapping of diet onto the tree, unlike the reconstructions used internally by diversitree (19), was made for the purposes of illustration without regard to diversification rates. The topology and branch lengths are from ref. 1.
+Priceetal.
+PNAS | May1,2012 | vol.109 | no.18 | 7009
+Marsupialia
+Afrotheria and Xenarthra
+Eulipotyphla Chiroptera
+Carnivora and Pholidota
+Perissodactyla and Cetartiodactyla
+Primates and Scandentia
+Lagomorpha
+Rodentia
+Table 1. Model fitting and parameter estimates of the eight evolutionary models Model specification
+Net diversification
+rate
+Transition rate
+H→O H→C O→H O→C C→H C→O
+Speciation rate
+Extinction rate Transition rate
+No. of parameters
+Log likelihood
+ΔAIC 0
+AIC weight
+Herbivore (H)
+Omnivore (O)
+Carnivore (C)
+Free
+Free Free
+12
+−17133 ± 28 −17146 ± 26 −17159 ± 28 −17162 ± 29
+0.989
+0.143 ± 0.002 0.139 ± 0.003 0.121 ± 0.003 0.137 ± 0.002
+0.032 ± 0.002 0.052 ± 0.002 0.059 ± 0.01 0.030 ± 0.003
+0.101 ± 0.002 0.094 ± 0.002 0.077 ± 0.004 0.106 ± 0.001
+0.036 ± 0.001 0.032 ± 0.002 0.019 ± 0.003 0.024 ± 0.001
+0.001 ± 0.000 0.000 ± 0.000 0.000 ± 0.000 0.000 ± 0.000
+0.008 ± 0.001 0.014 ± 0.001 0.012 ± 0.003 0.005 ± 0.000
+0.003 ± 0.000 0.004 ± 0.000 0.003 ± 0.003 0.005 ± 0.000
+0.000 ± 0.000 0.000 ± 0.000 0.000 ± 0.000 0.000 ± 0.000
+0.013 ± 0.001 0.01 ± 0.001 0.009 ± 0.002 0.024 ± 0.001
+Free
+All constrained Free
+All constrained Free
+Free Free
+Free Specialist/generalist 9
+19.9 ± 5 43.4 ± 23 48.5 ± 5
+0.011 3.7 e−10 2.9 e−11
+All constrained Specialist/ generalist H=C Specialist/ generalist H=C
+All constrained Free 8 Specialist/ Free 10 generalist
+H=C
+−17167 ± 29 −17172 ± 29
+57.3 ± 16 70.6 ± 9
+3.6 e−13 4.6 e−16
+0.09 ± 0.001 0.124 ± 0.001
+0.09 ± 0.001 0.034 ± 0.03
+0.09 ± 0.001 0.124 ± 0.001
+0.008 ± 0.000 0.03 ± 0.001
+0.000 ± 0.000 0.000 ± 0.000
+0.021 ± 0.001 0.006 ± 0.000
+0.004 ± 0.000 0.005 ± 0.001
+0.000 ± 0.000 0.000 ± 0.000
+0.008 ± 0.000 0.013 ± 0.003
+H→C=C→H
+Free Free All constrained 7
+−17255 ± 30
+234.9 ± 21
+9.7 e−52
+0.123 ± 0.013
+0.065 ± 0.009
+0.089 ± 0.008
+0.006 ± 0.005
+0.006 ± 0.005
+0.006 ± 0.005
+0.006 ± 0.005
+0.006 ± 0.005
+0.006 ± 0.005
+H→O=C→O O→H=O→C H→C=C→H
+Specialist/ Specialist/generalist 7 generalist H → O = C → O
+H=C O→H=O→C
+−17180 ± 37
+85.8 ± 21
+2.3 e−19
+0.123 ± 0.046
+0.032 ± 0.101
+0.123 ± 0.046
+0.024 ± 0.018
+0.000 ± 0.000
+0.005 ± 0.013
+0.005 ± 0.013
+0.000 ± 0.000
+0.024 ± 0.018
+10 10
+Median diversification and transition rates estimated ± interquartile range over the 100 replicate phylogenies for the eight evolutionary models analyzed, sorted so that the best-fitting model (indicated in bold) is at the top and the worst at the bottom. The model is specified by indicating whether the rates are free to vary depending on trophic strategy (Free), constrained by specialist or generalist (Specialist/ generalist) or constrained so that rates are the same regardless of trophic strategy (All constrained). Model fit is indicated by ΔAIC, which is the AIC value relative to that of the best-fitting model (ΔAIC 0), which is the most complex model that allows every rate to vary according to trophic strategy. The weight of evidence for each model from the set of models used is given by the Akaike weight.
+EVOLUTION
+
+   AB
+Carnivore to Herbivore
+Herbivore to Carnivore
+Omnivore to Carnivore
+Omnivore to Herbivore
+Carnivore to Omnivore
+Herbivore to Omnivore
+0.00 0.01 0.02 0.03 0.04 0.05 Transition Rate
+that, along with a larger number of individuals, a greater number of herbivore species can be supported globally. Additionally, the stability of plant-based food resources may facilitate diversification, whereas species dependent on food at higher trophic levels may be less able to subdivide niches in a stable fashion. There may also be strong limits on the number of omnivores that can be sustained because some food-web models suggest omnivory should be rare because it destabilizes food webs (e.g., refs. 33 and 34).
+However, it is unlikely that the low net diversification rate in omnivores is entirely explained by the omnivorous niche supporting fewer species. In our dataset omnivores are not rare: species richness of carnivores and omnivores is similar (463 and 413 respectively), a pattern that is also evident in natural communities of mammals (35). Low diversification rates within omnivores may be caused by lower speciation rates if dietary specialists are more likely to undergo allopatric speciation than omnivores because specialists’ narrower food tolerances allow their geographic distributions to be more readily fragmented (36–38). Additionally, specialization can open opportunities for further specialization (39–41), thereby generating diversity through niche subdivision. Extreme illustrations of this process have been presented in several studies on phytophagous insects, which have documented higher rates of diversification in these plant-feeding groups (15). Niche subdivision, by definition, tends to increase specialization, so for omnivores (as generalists) the opportunities for producing descendant lineages that retain their dietary breadth might be limited. Accordingly, omnivores should diversify more slowly than carnivores or herbivores. The difference between herbivores and carnivores may be explained by higher rates of extinction in carnivores because carnivores are more vulnerable to disturbance of species lower down the food chain (9, 42). Indeed, higher trophic level has been shown to be correlated with higher extinction risk in extant mammals (10).
+Ecologically, omnivory can be a strategy for surviving variability in resource availability (34) and, if lineages shift to omnivory during times of environmental perturbation, this may explain why diversification is low (43) and transition rates are highest into, not out of, omnivory. Taken together, these results suggest that omnivory acts as an evolutionary “sink,” which at the broadest scale contradicts the expectation that ecological generalists are sources of future diversity and ecological specialists are evolutionary dead-ends (16, 44). Nonetheless, omnivory does appear to play an important macroevolutionary role because virtually all trophic transitions within mammals involve omnivory: the estimated transition rate between herbivory and carnivory is approximately zero. This finding is perhaps not surprising: In mammals, herbivory and carnivory often entail different and antagonistic physiological and morphological adaptations. Such changes would likely require large amounts of evolutionary time, increasing the probability of a branching event and the evolution of new lineages with intermediate ecology during the transition. Many omnivorous mammals exhibit intermediate phenotypes: the teeth of omnivores, like carnivores, generally have distinct cusps and low crowns; yet like herbivores, their enamel is thickened or crenulate (15, 17). Omnivores’ intestines are similarly intermediate, with gut lengths intermediate between herbivores and carnivores (45).
+Our results imply that diet is a key factor in determining the rates at which different mammalian groups have diversified; however, the link between trophic strategy and diversification could be indirect and involve other important biological or ecological traits. Among the many factors that can drive patterns of diversification, body size and population density are often proposed as strong candidates (46). For body size, the typical expectation is for speciation rates to be higher in smaller species (e.g., refs. 47 and 48) and extinction higher in larger species (49). However, recent analysis of fossils found higher rates of both origination and extinction in larger mammals (10, 50); net diversification rates were either the same in small and large
+Herbivore
+Omnivore
+Carnivore
+                                  0.05 0.10 0.15 Net Diversification rate
+Fig. 2.
+Moreover, the tempo of transitions between the trophic strategies is highly biased. Surprisingly, the highest rates occur into omnivory from herbivory and carnivory and the lowest rates with almost zero transitions occur between herbivory and carnivory (Fig. 2B). These results are supported by the maximum-likelihood parameter estimates from the top four best-fitting models which range in ΔAIC from 19.9 to 48.9 (Table 1); net diversification rate is the highest in herbivores, intermediate in carnivores, and lowest in omnivores; the highest transition rate is into omnivory. Thus, omnivore diversity evolves primarily through transitions into that strategy and rarely by diversification within omnivorous lineages, whereas herbivore and carnivore diversity is chiefly produced through diversification.
+These results could have been produced by more than one scenario of evolutionary dynamics. Many discussions of diversification have made the distinction between explanations and models that assume differing intrinsic rates of extinction or speciation, on one hand, and differing ecological limits on the number of species the environment can accommodate (highest “carrying capacity”; according to ref. 24) on the other (24–28). If there is a global limit on the number of species that can be supported within a particular dietary strategy, net diversification may be diversity-dependent whereby rates slow through time as niche space fills up until diversity is at equilibrium (e.g., ref. 29). Indeed, fossil and molecular data frequently identify a slowdown in diversification rate (e.g., refs. 30 and 31), although there are other explanations for an apparent slow-down that do not involve niche-filling (e.g., ref. 32). Under this scenario the trophic group with a lower limit on its diversity will appear over time to have a lower average rate of net diversification than a group that continues on to reach a higher limit, even though they have grown with identical diversification rates (24). The constant-rate models we have used do not allow us to distinguish this situation from one in which the two groups have had consistently different rates. Nonetheless, whether the trophic strategies inferred to have higher rates have diversified at a consistently more rapid pace, or have simply spent more of their evolutionary history diversifying at a high rate, similar biological interpretations can be applied to these two alternative mechanisms.
+There may be good biological reasons to expect herbivorous, carnivorous, and omnivorous niches to vary in the diversity they can support. In any ecosystem mammalian primary consumers have access to the largest resource base because primary producers account for the largest proportion of biomass. It is therefore possible
+Plot of the posterior probability density of the parameter estimates of the all rates-free model (which was the best-fitting model from the maximum-likelihood analysis) analyzed using Bayesian MCMC methods on 10 of the 100 replicate phylogenies. (A) Depiction of the net diversification rate (speciation minus extinction) for all three trophic strategies and (B) the rate of transition between the trophic strategies.
+7010 | www.pnas.org/cgi/doi/10.1073/pnas.1117133109
+Price et al.
+Posterior probability density
+0 20 40 60 80
+Posterior probability density
+0 200 400 600 800
+
+ mammals or higher in small species, depending on the data subset. Regardless, size is unlikely to be driving our patterns, as herbivorous mammals tend to be larger than carnivorous and omnivorous species (51) and on this basis should exhibit the lowest rates of diversification. Predictions based on population density are similarly problematic: species relying on resources at higher trophic levels usually live at lower densities (47) and should therefore experience much higher extinction rates (52); omnivores should have intermediate diversification rates. In our results this pattern is borne out in the difference between herbivores and carnivores but omnivores have the lowest diversification rates, contrary to the population density predictions.
+Conclusion
+Although the determinants of mammalian diversity are undoubtedly complex (53, 54), diet has had profound consequences for mammalian macroevolution. Through trophic strategy the major features that characterize mammals, such as homoeothermy and specialized dentition, are connected to the controls on diversification: herbivores diversify fastest, carnivores are intermediate, and omnivores are slowest. The estimated transitionrate bias between the trophic strategies contradicts some common expectations: omnivory appears to be an evolutionary sink rather than a source of diversity, and herbivory and carnivory are the basis of future diversity, not evolutionary dead-ends. The uneven distribution of lineages within mammals is thereby linked to differences in trophic strategy, yielding a conclusion that has broad implications for understanding mammalian evolution. The model we provide can be integrated with data from the fossil record and tested further using the increasingly sophisticated methods currently being developed for estimating speciation and extinction rates from molecular phylogenies.
+Methods
+Data Collection and Dietary Categorization. We constructed a database of diets of mammalian species from published accounts of primary research reporting data obtained through analysis of stomach or cheek-pouch contents or the contents of food stores, direct behavioral observation, or fecal analysis. We recorded complete descriptions of diet from the sources; these descriptions were then converted to discrete character codings for the presence or absence of four food types in the diet: invertebrate protein, vertebrate protein, fibrous plant parts (mature leaves, stems, wood, and bark), and nonfibrous plant parts (any other parts of plants, along with fungi and lichens). Applying uniform and explicit criteria, we converted quantitative and qualitative descriptions of diet for each species to a repeatable coding of trophic strategies in three categories: carnivore, omnivore, and herbivore. This process yielded highquality diet codings for 1,534 species of mammals. Of these 658 were herbivores, 463 carnivores, and 413 omnivores (see SI Methods and http://dx.doi. org/10.5061/dryad.vr28vf67 for complete dataset and references used to generate it).
+Models of Trophic Transitions and Diversification Rate. We used a modeltesting approach to investigate the tempo of trophic evolution and its impact on diversification rate. We set up eight models that tested whether speciation, extinction, or transition rates were independent of trophic strategy, constrained by trophic strategy, or constrained by being a generalist (omnivore) or specialist (carnivore or herbivore). The most complex model had separate rates of speciation and extinction for each of the three trophic categories (six parameters) along with unconstrained rates of transition between each pair of trophic strategies (six parameters): herbivore to carnivore, carnivore to herbivore, herbivore to omnivore, omnivore to herbivore, omnivore to carnivore, and carnivore to herbivore.
+Phylogenetic Comparative Methods. We combined the diet data with a timecalibrated phylogeny of virtually all living mammalian species (49) to estimate which of the eight evolutionary models was the best fit to our data. We used a version of the Fritz et al. tree (ref. 1, based on ref. 18), which resolved all polytomies by assigning branch lengths by the birth-death algorithm (54). Maximum-likelihood results were summarized across 100 such trees and the Bayesian MCMC results across 10 trees (because of constraints in time and CPU availability), including the two most disparate topologies according to the Robinson-Foulds symmetric distance metric.
+We conducted a simultaneous analysis of the tempo of trophic evolution and its impact on diversification rate because these two processes are not independent (54). Analyses were conducted using the “Multiple State Speciation Extinction” (MuSSE) model in the diversitree package (55) within the statistical software R (56). This method is an extension of the “Binary State Speciation Extinction” (BiSSE) methods described in ref. 20. The fit of the eight models across the 100 trees was calculated using maximum likelihood; a full Bayesian analysis required more computational power or time than we had access to (∼800 CPU’s for ∼25 d). We assessed model-fit using the AIC, which takes into account the number of parameters used in the model as well as the goodness of fit to the data. Akaike weights were then calculated, which indicate the probability that the model is the best among our set of eight candidate models. To examine the uncertainty in the parameter estimates, the best-fitting model from the maximum-likelihood analysis was analyzed using Bayesian MCMC methods. We assessed model adequacy of the best-fitting model through posterior predictive simulation using the parameter estimates from the MCMC analysis. We then compared the posterior predictive distribution of the number of herbivorous, carnivorous, and omnivorous mammals to our dataset (Fig. S1). Further methodological details are provided in SI Methods.
+ACKNOWLEDGMENTS. We thank R. FitzJohn for assistance with software and for providing a prerelease version of his diversitree package during the analysis process; A. Mooers and T. Kuhn for kindly providing the randomly resolved trees used in this analysis; and C. Jones for helping with early stages of data collection. Helpful suggestions on the manuscript at various stages were provided by two anonymous reviewers, as well as S. Otto, P. Wainwright, the P. Wainwright and S.S.B.H. laboratory groups, and the Mammal Reading Group at the National Evolutionary Synthesis Center. This paper was initiated during the tenure of all four authors at the National Evolutionary Synthesis Center, and partly funded by postdoctoral fellowships and short-term visitor awards (to S.S.B.H. and S.P.; NSF 0717009).
+ Priceetal.
+PNAS | May1,2012 | vol.109 | no.18 | 7011
+EVOLUTION

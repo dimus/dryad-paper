@@ -1,0 +1,305 @@
+   Molecular Ecology (2012) doi: 10.1111/j.1365-294X.2012.05592.x
+Dispersal and gene flow in the rare, parasitic Large Blue butterfly Maculinea arion
+L. V. UGELVIG, A. ANDERSEN, J. J. BOOMSMA and D. R. NASH
+Centre for Social Evolution, University of Copenhagen, Universitetsparken 15, DK-2100 Copenhagen, Denmark
+Abstract
+Dispersal is crucial for gene flow and often determines the long-term stability of metapopulations, particularly in rare species with specialized life cycles. Such species are often foci of conservation efforts because they suffer disproportionally from degradation and fragmentation of their habitat. However, detailed knowledge of effective gene flow through dispersal is often missing, so that conservation strategies have to be based on mark–recapture observations that are suspected to be poor predictors of long-distance dispersal. These constraints have been especially severe in the study of butterfly populations, where microsatellite markers have been difficult to develop. We used eight microsatellite markers to analyse genetic population structure of the Large Blue butterfly Maculinea arion in Sweden. During recent decades, this species has become an icon of insect conservation after massive decline throughout Europe and extinction in Britain followed by reintroduction of a seed population from the Swedish island of O ̈ land. We find that populations are highly structured genetically, but that gene flow occurs over distances 15 times longer than the maximum distance recorded from mark–recapture studies, which can only be explained by maximum dispersal distances at least twice as large as previously accepted. However, we also find evidence that gaps between sites with suitable habitat exceeding 􏰀20 km induce genetic erosion that can be detected from bottleneck analyses. Although further work is needed, our results suggest that M. arion can maintain fully functional metapopulations when they consist of optimal habitat patches that are no further apart than 􏰀10 km.
+Keywords: genetic bottleneck, habitat fragmentation, isolation by distance, population genetic structure, sedentary, virulence
+Received 20 July 2010; revision received 13 March 2012; accepted 19 March 2012
+Introduction
+Dispersal may vary considerably even between closely related species, as selective rewards from staying or leaving natal patches depend on ecological requirements and population densities. Although the theoretical causes and consequences of dispersal are relatively well understood (Hamilton & May 1977; Shreeve & Dennis 1992; Hanski 1999), rather few metapopulations have been investigated in sufficient ecological and genetic detail to assess whether theoretical predictions hold. This is particularly problematic for species that
+Correspondence: Line V. Ugelvig, Institute of Science and Technology Austria, Am Campus 1, A-3400 Klosterneuburg, Austria, Fax: +43 2243 9000 2000; E-mail: line.ugelvig@ist.ac.at
+have become rare because of habitat fragmentation in recent decades, and whose ability to survive further environmental change may depend on a detailed understanding of their natural dispersal efficiency and the extent to which present habitat patchiness and population structure are still compatible with long-term survival of metapopulations (Hanski & Zhang 1993; Travis & Dytham 1999; Thomas 2000).
+Small populations are particularly prone to loss of genetic variation by drift, but this appears not to be problematic as long as gene flow with neighbouring populations remains effective. However, when habitat fragmentation compromises gene flow, low genetic diversity will increasingly affect individual and population fitness as inbreeding accumulates deleterious phenotypic effects (Saccheri et al. 1998; Crnokrak & Roff
+Ó 2012 Blackwell Publishing Ltd
+
+2 L. V. UGELVIG ET AL.
+1999). This will tend to further decrease population size and reduce the long-term adaptive potential (Frankel 1974; Frankham 2005), in a form of positive feedback that has been termed an extinction vortex (Gilpin & Soule ́ 1986). This has led the International Union for Conservation of Nature (IUCN) to recommend that genetic diversity is a major form of biodiversity that deserves explicit emphasis in addition to species and ecosystem diversity (McNeely et al. 1990).
+While high dispersal rates will normally tend to increase population survival and may be selected for as populations become fragmented (Heino & Hanski 2001), this may no longer be true once metapopulations have become fragmented to such a degree that the natural dispersal tendencies of most individuals no longer match the distances that need to be bridged. Under such conditions, a large number of individuals will tend to leave their natal patches without ever arriving in suitable habitat elsewhere, so that there will be strong selection against dispersal (Heino & Hanski 2001). Habitat fragmentation thus alters the costs and benefits of dispersal, and the species that suffer most will tend to be those with specialized life histories that require highly specific combinations of biotic and abiotic conditions (Kruess & Tscharntke 1994; Kotiaho et al. 2005). Reduced levels of dispersal and gene flow have indeed been found in specialist phytophagous insects (Peterson & Denno 1998) and butterflies (Komonen et al. 2004). The only mechanism that may counter selection for reduced dispersal in fragmented habitats is local competition for scarce resources (Dempster 1991). However, this normally requires that remaining habitats retain their high quality for breeding, so that local population densities are high. Under such conditions intraspecific competition may be so high that even low fitness payoffs from dispersal exceed expected reproductive success ‘at home’, which would imply that a site retains its status as a source population (Pulliam 1988).
+Dispersal can be measured directly by observational methods or be inferred from genetic marker data. While observational methods such as mark–release–recapture (MRR) allow direct measurement of dispersal using simple equipment, they can be costly in terms of manpower and will always underestimate dispersal rates and distances unless conducted extensively and simultaneously in many local populations (Hanski et al. 1994; Neve et al. 1996). This is because the probability of re-sampling a marked individual will decrease the further it disperses and because rare long-distance dispersal events are usually missed (Dempster 1991; Lowe et al. 2004). Conversely, genetic methods provide indirect measures of realized dispersal as the population structure statistics that they produce are based on individuals that successfully arrived at new suitable sites
+and contributed to reproduction (Lowe et al. 2004). They are less laborious in terms of sampling, but often require extensive laboratory work for developing and scoring genetic markers.
+In this study, we investigated the genetic population structure of the Large Blue butterfly Maculinea arion (Linneaus, [1758]; family Lycaenidae), to estimate the effective realized dispersal of this rare species, which has become an icon of insect conservation in Britain and continental Europe (Thomas 1995). The genus Maculinea (van Eecke, [1915]) has relatively few species (although some cryptic species are probably to await formal recognition; Als et al. 2004), but all of them have extraordinary life cycles, the completion of which depends on the presence of both specific food plants (on the flowers of which the caterpillars feed during the first three instars) and specific host ants of the genus Myrmica (in the nests of which the caterpillars complete their fourth instar and pupal stage as obligate social parasites; Thomas et al. 1998, 2009).
+Inside the host ant nest, the caterpillars of the Maculinea species employ one of the two feeding strategies, as they are either exclusive predators of ant brood (Thomas & Wardlaw 1992), or ‘cuckoo-like’ parasites with a mixed diet of regurgitated fluids that are actively provided by worker ants supplemented by some predation on trophic eggs and ant brood (Elmes et al. 1991). Species with predatory caterpillars feed at a higher trophic level and thus exploit the ant colony less efficiently, so that it takes on average 350 ant workers to raise a predatory caterpillar compared with 50 for a ‘cuckoo’ caterpillar (Elmes et al. 1991; Thomas & Wardlaw 1992). This difference is critical for the population dynamics, genetics and persistence of Maculinea populations, as most Myrmica species have small colonies of 200–500 workers (Elmes et al. 1998). This implies that predatory species impose a much higher fitness cost on their host (i.e. are more virulent) and experience larger population fluctuations than the ‘cuckoo’ species (reviewed in Thomas et al. 1998). This in turn means that effective population sizes are smaller, and populations are expected to be more vulnerable to extinction.
+Maculinea arion belongs to the predatory Maculinea species and is the most threatened of the European Maculinea species throughout its range (listed as ‘endangered’ on the latest European Red List of Butterflies, van Swaay et al. 2010). The distribution of M. arion in Europe has been subject to major declines during the last 50 years, but it has remained unclear to what extent local population extinctions have been because of habitat deterioration and mismanagement, or because of habitat fragmentation, that is, the need to bridge increasing distances to recolonize empty habitat patches.
+Ó 2012 Blackwell Publishing Ltd
+
+ Direct MMR estimates of dispersal have suggested that low dispersal ability, similar to those typically found in other blue butterflies of the tribe Polyommatini, is an important constraint for maintaining viable metapopulations of M. arion. Average intersite dispersal distances appear to be 200–400 m, and occasional ‘long’ distance dispersal events covered only a few kilometres (Maximum distance 5.7 km: Pajari 1992; Pauler-Furste et al. 1996). However, this assessment has never been validated by genetic marker studies, because sufficient numbers of microsatellite markers were not available. Our present study is the first to provide such data for a representative set of natural M. arion populations in Scandinavia.
+Methods
+Sampling procedure
+A total of 340 individuals of Maculinea arion were sampled during the summer of 2005–2011. Sampling was carried out at two different scales: (i) a regional scale comprising samples from seven distinct sites throughout the southern part of Sweden (including the islands Gotland and O ̈ land), with a maximum distance between sites of 505 km (Fig. 1A) and (ii) a local scale on the
+islands of Gotland and O ̈ land, where M. arion is relatively numerous, allowing for more-or-less continuous sampling with a maximum distance between sampling sites of 90 and 80 km, respectively (Fig. 1B; Table 1).
+DNA samples were collected by a nondestructive sampling method, removing 2–3 mm2 of tissue from the edge of the hind-wing. This type of wing damage resembles that caused by bird attack or general abrasion, and can be observed in many butterflies in the field only a few days after eclosion. Importantly, it does not reduce flight ability, and although there may be some short-term behavioural changes associated with capture, survival rates are not affected (Hamm et al. 2010; D. R. Nash unpublished data; Koscinski et al. 2011).
+DNA extraction, amplification and microsatellite analysis
+DNA was extracted from each wing fragment, which was homogenized in a solution of 100 lL 5% ChelexTRIS (10 mM) solution and 5 lL proteinase K (0.75 units). The samples were incubated at 56 °C for 90 min, boiled at 99 °C for 15 min and centrifuged at 13 266 g for 3 min. The supernatant was stored at )20 °C. For each sample, nine polymorphic nuclear
+50 km
+13 km
+(A)
+Västergötland
+Skåne
+100 km
+Uppland
+Södermanland
+(B)
+k
+ä
+a
+L
+n
+e
+r
+e
+e
+l
+M
+Öland
+Sample size 40
+20 1
+30 20 10
+30 20 10
+Gotland
+19 km
+DISPERSAL OF THE LARGE BLUE BUTTERFLY 3
+Percent
+Percent
+00 5 10 15 2000 5 10 15 20 Distance (km) Distance (km)
+Fig. 1 Spatial distribution of Maculinea arion in Sweden since 1990. Species distribution records (grey dots) are from the Swedish ’artportalen‘ database for the period 1990–2011. The white transparent bubbles indicate the study sites and the sample sizes obtained from each site, ranging from 1–38. The study sites fall into a regional (A) and a local (B) scale. (B) Blow up of the islands of O ̈ land (left) and Gotland (right), indicating the minimum spanning tree (MST) between species distribution records (1990–2011) linking the sample sites. Below are given the distribution of edge lengths for each MST.
+Ó 2012 Blackwell Publishing Ltd
+
+4 L. V. UGELVIG ET AL.
+Table 1 Sampling information for the Swedish Maculinea arion study sites. Population ID, collection year, region and site name, number of samples collected
+expectations using GENALEX 6.3 (Peakall & Smouse 2006), and in pairs for potential genotypic linkage between loci using GENEPOP 4.0 (Raymond & Rousset 1995; Rousset 2008). While deviation from HW proportions across all loci in a population can be caused by inbreeding or Wahlund effects, locus-specific deviations from HW equilibrium may indicate the presence of null alleles, that is specific alleles at a microsatellite locus that fail to amplify (Dakin & Avise 2004). The program MICRO-CHECKER 2.2.3 (Van Oosterhout et al. 2004) was therefore used to check for evidence of null alleles, which are not uncommon in butterflies because of the high variation in regions flanking the microsatellite repeats (reviewed in Meglecz et al. 2004). The presence of null alleles may affect F-statistics (Chapuis & Estoup 2007), but the bias that they introduce is considered to be negligible when frequencies are low (<0.2) (Dakin & Avise 2004). In this study, evidence for null alleles was found in six of the microsatellites, but never consistently in any of the populations, and at low frequencies [GO: Macu11 (0.09), Macu17 (0.11) and Macu20 (0.07); OL: Macu44 (0.09); and SK: Macu8 (0.11) and Macu9 (0.08)]. For this reason, allele frequencies were not adjusted.
+Detecting population boundaries
+The presence of the larval food plant is often used as an indicator of specific butterfly sites, but the additional dependence of M. arion on (usually a single species of) Myrmica host ants complicates such inferences. We therefore used the Bayesian clustering computer program TESS 2.3 (Chen et al. 2007) to detect the number of genotypic clusters (populations), K, in the data set. When provided with multilocus genotypes and distinct geographical locations for all individuals, TESS will return membership probabilities and assign individuals to genetically distinct clusters, without prior assumptions. Slightly modified coordinates were generated before the analysis of M. arion samples with identical collecting information (using the option ‘Generate Spatial Coordinates’, with X and Y in decimal degrees, and a SD value of 0.0001), allowing individuals to be treated as independent samples. Based on the distinct geographical coordinates provided for each individual, a spatial network connecting neighbouring individuals is produced. The neighbourhood network can be manually modified by removing links or introducing dummy individuals. Removal of a link between individuals does not imply that these are geographically separated by a barrier, but that they are not a priori genetically related. This means that they can still be assigned to the same cluster if genetic evidence is strong enough (Durand et al. 2009).
+ ID O ̈ L
+Year
+2005, 2010, 2011
+Region O ̈ land
+No. of Sites samples
+ GO
+2007, 2008
+Gotland
+Na ̈ rshamn
+Astra ̈ sk
+Sta ̊ ngkvie
+Garda
+Alskog
+Nyga ̊ rds
+Mallga ̊ rds
+Ba ̈ lsalvret
+Hejnum ha ̈ llar 3 Kalbja ̈ rga 6 Lauter 6 Langhammars 2
+SK
+UP SO ̈
+VA ̈
+2005, 2006, 2007
+2007 2007
+2006
+Ska ̊ ne
+Uppland
+So ̈ dermanland
+Va ̈ stergo ̈ tland
+Silva ̊ kra
+Vomb
+Drakanmo ̈ llan 26 Hja ̈ lsta 11 Sanda ̊ sa 10 A ̊ sa gravfa ̈lt 9 Djupadalen 17 Ho ̈ gstena 2
+microsatellite loci were amplified, all developed for the closely related Maculinea alcon [five already published (Zeisset et al. 2005)], the remaining four loci were newly developed by ECOGENICS GmbH (http://www.ecogenics.ch; Zu ̈ rich, Switzerland). The number of individuals that amplified at each locus ranged from 285 to 333 (Table 2). Polymerase chain reaction (PCR) conditions were as follows: initial denaturation 5min at 95°C; 35 cycles of 30s at 95°C, 30s at the locus-specific annealing temperature of 57 ⁄ 62 °C (newly developed vs. already published primers), 30 s at 72 °C; final elongation of 60 min at 72 °C. Total reaction volume was 20 lL, of which 1 lL was DNA. PCR products were run on an ABI 3031xl automated sequencer with the GeneScan-500 LIZ size standard and analysed using GENEMAPPER 4.0 (Applied Biosystems).
+The nine microsatellite loci were analysed separately for conformity with Hardy–Weinberg (HW) equilibrium
+Stora Fro ̈
+Ho ̈ gena ̈ sorde
+So ̈dra Holm 9 Knisa Alvar 1 Ra ̈ pplinge Alvar 13 Noahs Ark 1 Jordtorpsa ̊ sen 1 Ka ̊ torp 4
+Ga ̊ rdby sandhed Skarpa Alby Ekelunda 24 Bja ̈ rby Alvar 13
+7 27 5 12 30 1 haid 4 2
+6 38
+15 1
+18 7
+ Ó 2012 Blackwell Publishing Ltd
+
+Table 2 Microsatellite loci used in the study
+Zeisset et al. (2005)
+Zeisset et al. (2005) Zeisset et al. (2005) Zeisset et al. (2005) Zeisset et al. (2005)
+DISPERSAL OF THE LARGE BLUE BUTTERFLY 5
+ Locus
+Macu20
+Macu26
+Macu44
+Macu45
+Macu8 Macu9 Macu11 Macu15 Macu17
+Accession nos
+HM535963
+HM535964
+HM535965
+HM535966
+Repeat motif (CT)3 + 17 (CA)14 (AC)20 (AC)4 + 25
+Primer sequence (5¢–3¢)
+F: TGGCCCGATTTCCTCTAAAC
+R: TGCGTGTTTATTTTCATTTTAACAG F: CTCCCGGGATAGCATTGAC
+R: CATTGTCGCGGTCGTAATTC
+F: ATAAGTCAGCACGTCAAAGCTG
+R: TGCAAATACTCCGAATAAATAACTG F: TGTGTGACTGCGGTTCTTATC
+R: TGTAATCGCAGGAGAGATGTG
+Product
+78–118
+90–92
+174–228
+128–140
+182–206 162–200 173–201 127–141 227–273
+size (bp)
+n k
+316 21
+171 2
+315 21
+329 7
+318 8 329 16 285 9 333 5 290 18
+Ho
+0.711 0.311 0.586 0.440
+0.455 0.543 0.522 0.528 0.627
+  Name, GenBank accession nos,
+microsatellite loci (for previously developed loci see Zeisset et al. 2005). The product size in base pairs, number of individuals (n), number of alleles observed (k) and the observed heterozygosity (Ho) are shown for Maculinea arion.
+repeat motif and primer sequences (F: forward, R: reverse primer) are
+given for the newly developed
+In our search for the optimal number of clusters (K), we tested two neighbourhood systems: the default system produced by TESS (Fig. S1A, Supporting information) and a modified system where all links between individuals from different regions were removed (Fig. S2A, Supporting information). Under both neighbourhood systems, an initial run under the admixture model was performed with Kmax ranging from 2 to 12 (10 replicate runs per K), and the optimal K-value that minimized the Deviance Information Criterion (DIC) was identified. A subsequent run using the optimal K-value and 100 replicate runs was then performed to estimate membership probabilities for each individual, and the 10% of runs with the lowest DIC score were postprocessed in CLUMMP 1.1.2 (Jakobsson & Rosenberg 2007). The interaction parameter w, which describes the influence of the spatial data, was kept at the default setting of 0.6, and all model runs were based on 50 000 sweeps, of which the first 10 000 were discarded.
+To corroborate results of TESS, we also performed admixture analyses using the two well-established clustering programs BAPS 5 (Corander et al. 2008) and STRUCTURE 2.3.3 (Pritchard et al. 2000) (see the Supporting Information for details on parameter settings for these analyses). We also carried out an analysis with TESS using a random sample of eleven individuals per region to test whether the patterns we observed were artefacts of unequal sampling across regions (see Supporting Information for details).
+Relationships among populations
+The relationships among the study populations were investigated by construction of neighbour-joining trees in
+PHYLIP 3.6 (Felsenstein 1989) using Cavalli-Sforza’s chord distance (Cavalli-Sforza & Edwards 1967), under the assumption that the study populations differed genetically for other reasons than genetic mutations. Bootstrap values were obtained across 2000 permutations.
+Comparison of population genetic structure with known distribution
+To compare the results of our population genetic analysis with the known distribution and connectedness of M. arion populations in Sweden, we used species distribution records from the publically available ‘artportalen’ database (http://www.artportalen.se) operated by the Swedish Species Information Centre and the Swedish Environmental Protection Agency. This provides dated, geo-referenced and partially verified observations of many Swedish species including butterflies, and provided 1099 unique records for at least 3792 M. arion when accessed on 7 January 2012. Of these, 1062 records collected since 1990 were used to plot the recent distribution of the species. The majority of records were from Gotland (390), Ska ̊ ne (331), O ̈ land (191) and around Lake Ma ̈laren (53; Fig. 1), so we also used these to examine possible stepping-stone connectivity between populations in these regions by examining the distribution of edge lengths in minimum spanning trees fitted to the geographical coordinates of observations that linked our sampling sites using the program MST Gold (Salipante & Hall 2011). The distribution of edge lengths should reflect the distances that butterflies must cover to migrate between observation sites, and the maximum edge length gives a measure of the greatest dispersal distance required for panmixis.
+Ó 2012 Blackwell Publishing Ltd
+
+6 L. V. UGELVIG ET AL.
+Spatial structure within and among populations
+In organisms with restricted dispersal, genetic differentiation among individuals may be because of geographical distance alone, an effect known as isolation by distance (IBD) (Wright 1943). The spatial scale at which this effect operates varies considerably between species, ranging from the regional scale in highly mobile species to the fine (within population) scale in more sedentary species (Lowe et al. 2004). The outcome is that nearby individuals are more genetically similar than individuals from farther away.
+Based on genetic and loge geographical pairwise distance matrices, we used Mantel’s correlation tests (Mantel 1967) to analyse the spatial genetic structure among populations on the mainland and within populations at the islands of Gotland and O ̈ land. Genetic distance matrices among populations were computed as pairwise [FST ⁄ (1-FST)] in FSTAT 2.9.3 (Goudet 1995), whereas individual-based within-population matrices were computed in GENALEX. Mantel’s tests were carried out in FSTAT with 1000 randomizations.
+Finally, we analysed the hierarchical molecular variance (AMOVA) using three hierarchical levels (within and among populations defined by TESS, and among five local regions: UP + SO ̈ , OL, SK, GO and VA ̈ ) with 1000 permutations in GENALEX.
+Population history
+Isolated populations are vulnerable to environmental and demographical stochasticity and have a greater risk of experiencing population crashes. While populations may rapidly recover in census size, the genetic variation will remain low and only be restored by accumulation of new mutations or gene flow. To test for the occurrence of population bottlenecks, measures of genetic diversity [allelic richness (k¢) and expected heterozygosity (He)] were calculated using FSTAT and GENALEX, and compared among populations by ANOVA and subsequent Tukey HSD tests in JMP 7.0 (SAS Institute Inc.).
+Although genetic diversity is the most powerful method for detecting bottlenecks (Luikart et al. 1998), it requires knowledge of the prebottleneck levels of genetic diversity (which in practice are often unknown) or comparison to other equilibrium populations. However, as the rate of genetic drift increases in sizereduced populations, the total number of alleles (k) will be reduced, whereas the range of allele sizes (r) is only affected by loss of the longest or shortest allele. As the allele distribution in size-reduced populations is rarely bell shaped, the ratio M = k ⁄ r is expected to be smaller in size-reduced populations than in equilib-
+rium populations (Garza & Williamson 2001). The software developed by Garza & Williamson (2001) was used to calculate M and the critical value of M (Mc), allowing for statistical testing. The following parameter settings were used: Dg = 3.5 (the mean size of larger mutations), ps = 0.2 (fraction of mutations larger than a single step—the value was set higher than that recommended by the authors (0.1) as six of the eight analysed microsatellites are interrupted) and eight different values of h ranging from 0.02 to 40 [where h = 4Nel; Ne is the effective population size at equilibrium and l the mutation rate, which for microsatellite loci is in the order of 10)4 per locus per generation (Bhargava & Fuentes 2010)].
+Previous studies have used different approaches to evaluate the observed population specific values of M. One approach compares the value to the de facto upper limit for M after a bottleneck (= 0.68), an empirical value based on data from a wide variety of size reduced populations as suggested by Garza & Williamson (2001). Alternatively, M can be compared with the critical value (Mc) in equilibrium populations, which will depend on the number of individuals sampled and the loci studied.
+Results
+Microsatellite loci and spatial structure
+Ten of the 64 locus · population combinations departed significantly from Hardy–Weinberg equilibrium expectations after sequential Bonferroni correction for multiple tests. Linkage disequilibrium between pairs of microsatellite loci was detected in Macu20 · Macu45 (but only in two of the populations) and in Macu26 ·Macu44, so the locus Macu26 was subsequently excluded from further analysis. All eight remaining loci were polymorphic in all populations, with 4–18 alleles, except Macu45, which was monomorphic in the Va ̈ stergo ̈ tland (VA ̈ ) population.
+Population differentiation and phylogenetic analysis
+Results from TESS provided the strongest support for eight genetic clusters among the sampled M. arion individuals (Fig. 2A; Figs S1 and S3, Supporting information), assigning individuals sampled in the Ska ̊ne and O ̈ land regions into separate east–west and north–south populations, respectively. Seventy-six percent of the individuals could be assigned with a probability >80% to one of the eight clusters (see Table 1 for population IDs), the remaining individuals were admixtures of more genotypes, particularly the populations UP, O ̈ LS and SKE showed pronounced admixture, with all
+Ó 2012 Blackwell Publishing Ltd
+
+ (A)
+(B)
+VÄ 19
+SKW
+25
+UP
+(C)
+VÄ
+SKW
+UP
+ÖLN ÖLS
+Fig. 2 Relationship within and among populations. (A) Assignment of individuals to genetically distinct populations. Each individual is represented by a vertical line, which is partitioned into coloured segments, reflecting the estimated membership to any of the eight clusters. Regional affiliations are labelled below the figure. (B) Geographical pattern of microsatellite variation in populations of Maculinea arion in Sweden. Pie charts for each population represent the proportion of individuals assigned to each of the eight clusters within the population. Sample sizes are given in italics. (C) Unrooted neighbour-joining best tree based on Cavalli-Sforza chord measures from eight microsatellite loci. Bootstrap values above 50% are shown (2000 replicates).
+p (cluster)
+Skåne West (SKW) Skåne East (SKE)
+Västergötland (VÄ) Uppland (UP)
+Södermanland (SÖ)
+Gotland (GO)
+Öland North (ÖLN)
+Öland South (ÖLS)
+26 SKE
+ML bootstrap 0.01 changes
+Ó 2012 Blackwell Publishing Ltd
+11 19
+SÖ
+GO
+105
+SÖ
+99 91
+SKE
+ÖLN 48
+87 ÖLS
+100
+individuals sharing part of their genome with population SO ̈ , O ̈ LN and SKW, respectively (Fig. 2A). 10.3% of individuals sampled in O ̈ LS had higher membership probabilities to O ̈ LN, and similarly, 7.7% of SKE individuals had higher membership probability to SKW (Fig. 2B). The grouping obtained by TESS differed slightly under the two neighbourhood systems, with the default neighbourhood network failing to separate the SO ̈ and UP populations (i.e. K = 7; Fig. S3, Supporting information). This population assignment was supported by the analysis carried out in STRUCTURE (Fig. S2, Supporting information). The analysis in BAPS also inferred seven clusters (0.997 posterior probability for this partitioning), differentiating between the two northern populations UP and SO ̈ , but grouping all individuals from O ̈ land together (Fig. S2, Supporting information). Population assignments based on TESS analysis with a modified network are thus a superset of those found by STRUCTURE, BAPS and TESS with the default network, and so we take these to reflect the most accurate assignment of population clusters. TESS analysis with a random sample of eleven individuals from each region recovered similar patterns to BAPS (see Fig. S3, Supporting information), so that it seems that the population differentiation on O ̈ land is only detected by TESS and STRUCTURE because of the extensive sampling on this island. We can also conclude that the lack of population differentiation on Gotland is not an artefact, as this island was sampled even more extensively.
+Comparison of genetic structure with distribution
+MSTGold identified two unique minimum spanning trees, but with identical segment length distributions, for the species distribution records from each of the four regions investigated (O ̈ land, Gotland, Ska ̊ ne and Lake Ma ̈laren). The majority of edge lengths (94.4% on O ̈ land, 91.7% on Gotland, 95.1% in Ska ̊ne and 87.2% around Lake Ma ̈laren; Fig. 1) were <5.7 km, the previously recorded maximum dispersal distance of M. arion based on MRR studies (Pajari 1992). The longest edge lengths were 19 km on O ̈ land, 13 km on Gotland, 37 km in Ska ̊ne and 38 km across Lake Ma ̈laren (Fig. 1).
+Spatial structure among and within populations
+There was no sign of IBD among the mainland populations (r = +0.04, R2 = 0.01, P = 0.123, where r is the slope and R2 is the explained variation). In contrast, there was evidence for IBD among individuals sampled within the island of Gotland (r = +0.32, R2 = 0.01,
+DISPERSAL OF THE LARGE BLUE BUTTERFLY 7
+66
+GO
+and O ̈ land even when the individuals to the northern (O ̈ LN) population were from the analysis (O ̈ LN + O ̈ LS: r = +0.66,
+P = 0.012)
+assigned
+removed
+R2 = 0.03, P = 0.001; O ̈LS only: r = +0.94, R2 = 0.04, P = 0.001).
+The AMOVA showed that 81% of the total genetic variation was explained within populations, while differences among populations and regions explained,
+
+8 L. V. UGELVIG ET AL.
+respectively, 6% and 13% (P < 0.001). The overall genetic differentiation among the mainland populations (FST) was 0.23, with pairwise population estimates in the range 0.07–0.39. All estimates remained significant after Bonferroni correction (Table 3). The phylogenetic analysis resulted in an unrooted consensus neighbourjoining tree with four nodes supported by bootstrap values above 50%: the two northern populations Uppland and So ̈dermanland, the two populations in Ska ̊ne, the two populations on the island of O ̈ land and the O ̈land populations together with the other island population Gotland (Fig. 2C).
+Population history
+The two measures of genetic diversity, allelic richness and expected heterozygosity, generally gave consistent results and differed among populations. Both measures differed significantly between populations (Fig. 3A; allelic richness: ANOVA, F7,64 = 6.323, P < 0.001; expected heterozygosity: ANOVA, F7,64 = 4.698, P < 0.001), and the highest levels of diversity were found in SKE, SKW, GO, O ̈ LN and O ̈ LS and the lowest levels in VA ̈ , UP and SO ̈ .
+With the exception of population GO, the observed values of M were always below the estimated values for population equilibrium (Mc) for all but the most extreme values of h (i.e. h > 20, translating into an effective prebottleneck population size of some 50 000 individuals). This indicates that bottleneck reductions in population size are a common characteristic of M. arion. Only the Gotland population had an M value above the generally accepted cut-off value of 0.68 (Fig. 3B; Garza & Williamson 2001).
+Discussion
+Spatial structure at the local scale
+No spatial genetic structure was detected among sampled Maculinea arion individuals within the island of
+Table 3 Genetic and geographical distances between the five, mainland, Maculinea arion populations
+ (A) 5.0 a
+4.0
+a
+1.0 abc ab0.8
+         abc
+       3.0xxybcbc xyxy0.6
+      c
+xyz
+      2.0
+1.0
+0.0
+(B) 0.8
+0.7
+0.6
+0.5
+0.4
+Fig. 3 Genetic diversity within populations. (A) Population genetic diversity measured as the allelic richness (k¢, based on five diploid individuals: closed symbols) and the expected heterozygosity (He: open symbols), averaged over eight microsatellite loci ± SE. Populations not connected by the same letter are significantly different (Tukey’s HSD test, P < 0.05). (B) M calculated per study population (closed symbols) and the critical value of M (Mc) simulated for equilibrium populations at different h-values (dashed lines, mean of 10 000 replicates).
+ yz z
+0.4 0.2 0.0
+0.02 0.04
+0.2 0.4
+2 4 20 40
+ xyz
+          SKE SKW VÄ UP SÖ GO ÖLN ÖLS
+Population
+ VA ̈ UP SO ̈ SKE
+VA ̈ 0 0.391 0.362 0.228 UP 261 0 0.331 0.262 SO ̈ 235 38 0 0.211 SKE 276 477 443 0 SKW 286 502 468 37
+SKW
+0.259 0.265 0.206 0.073 0
+Gotland. This indicates that gene flow occurs among all sample sites at this scale where between-site distances may be as high as 90 km. This was surprising as the maximum demographical dispersal distance that has so far been recorded is only 5.7 km (Pajari 1992), that is about 15 times less. Other studies have found similar discrepancies between dispersal distances obtained from observational methods (MRR) and those inferred
+  Pairwise FST estimates are given above the diagonal; all values remained significant after standard Bonferroni correction
+(a = 0.01). Below the diagonal are minimum pairwise geographical distances between populations in kilometres.
+Ó 2012 Blackwell Publishing Ltd
+M-ratio Allelic richness (k’)
+Expected heterozygosity (He)
+
+from genetic marker studies (Peterson 1996; Harper et al. 2003). Differences of this kind may arise because very few migrants are required to prevent genetic drift between populations (Slatkin 1995), so that MRR studies easily fail to detect these rare long-distance dispersal events (Slatkin 1987). Second, gene flow may occur via intermediate sites in a stepping-stone manner, as has been suggested for two other species of sedentary lycaenid butterflies, Euphiliotes enoptes (Peterson 1996) and Polyommatus (Lysandra) bellargus (Harper et al. 2003). In the present study, a combination of these two factors seems likely, as additional M. arion sites are known to exist on Gotland (Fig. 1B; Bina 2007; Elmquist & Nielsen 2007). The maximum edge length of the minimum spanning tree for the species distribution records for Gotland was around 13 km (Fig. 1B), so that long-distance dispersal over this distance would be sufficient for effective stepping-stone gene flow in this island population, and if this was frequent (more than one effective migrant per generation), could explain the lack of differentiation on Gotland (Fig. 2A). Unfortunately, no samples were available from the southern isolated sites on Gotland, so it cannot be excluded that some differentiation exists on the island. Indeed, the pattern observed on O ̈ land suggests that this is very likely the case. There, the maximum edge length of 19 km seems to be sufficient to prevent frequent migration and to allow genetic differentiation between the northern and southern parts of the island (although admixture in the genetic makeup of the individuals suggests that there is still infrequent gene flow or that gene flow has been prevented recently). We have used the species distribution records as a proxy for the presence of suitable habitat, but as we do not know the real distribution of habitats, nor whether the ‘matrix’ between habitats is uniformly inhospitable, we cannot rule out the possibility that the distance effects we observe reflect differences in the suitability of habitats as well as their geographical arrangement.
+Spatial structure at the regional scale
+On the Swedish mainland, two sets of populations are separated by a little over 35 km (Fig. 1A, Table 3): the two northern populations (UP and SO ̈) and the two Ska ̊ne populations (SKE and SKW). There is significant differentiation between the members of each of these pairs (Table 3), but the level of differentiation is lower between the two Ska ̊ne populations. These differences may reflect the nature of the landscape matrix between the different pairs of populations. The Ska ̊ne populations are separated by relatively benign agricultural land probably to provide nectar resources and roosting sites. Conversely, the landscape around the northern
+sites is complex, with the waters of Lake Ma ̈laren and the suburbs of Stockholm leading to the fragmentation of natural and semi-natural habitats. It is thus unclear whether the sharing of genotypes between these sites represents a recent shared history [as more local M. arion populations were known from this area before the 1990s (Eliasson 2008) or current gene flow (see also Fig. 2C)].
+Isolation-by-distance analyses are the simplest models to characterize spatial population genetic structure, as they are based on linear distances between populations. For this reason, they are hypothesized to fail in capturing complex landscape matrices, which are mostly of a nonlinear nature—an effect that will only increase with the number of populations analysed (Jenkins et al. 2010). This may explain why we do not find a significant correlation between geographical and genetic distance across the mainland populations, which are physically isolated, with small population sizes (Fig. 1A, B), and almost all remnants of much more extensive metapopulations that existed several decades ago (Elmquist & Nielsen 2007). We do find a significant IBD within the two metapopulations O ̈ LS and GO, which implies that there is genetic structure at this spatial scale, but that gene flow among local sites prevents significant differentiation between subpopulations.
+Can the Maculinea arion lifestyle explain genetic variation among distant populations?
+The overall level of genetic differentiation (FST = 0.23) found in the present study exceeds that found in a previous study of thirteen Polish M. arion populations, where pairwise FST values ranged from 0.01 to 0.15, with the exception of two isolated populations, where FST approached the levels found here (0.20) (Sielezniew & Rutkowski 2012). Moreover, the Polish study was based on six microsatellite marker loci (five of which were identical to the ones used here) and covered a similar geographical area. The result therefore suggests that Polish habitats are better connected, although M. arion is also declining in Poland. In the closely related Maculinea alcon, a similarly high level of differentiation was found between distant, isolated populations (100–300 km between sites, Nash et al. 2008), whereas differentiation was low (FST = 0.068) among local populations in a metapopulation network of Maculinea nausithous (Anton et al. 2007). The M. nausithous metapopulation ranged across 40 km in the Rhine valley, Germany, and thus represented a geographical area comparable to Gotland, where genetic differentiation could also not be detected.
+In general, high genetic differentiation is expected to be more frequent in habitat specialists compared with
+Ó 2012 Blackwell Publishing Ltd
+DISPERSAL OF THE LARGE BLUE BUTTERFLY 9
+
+10 L. V. UGELVIG ET AL.
+generalists, as the likelihood of successful intersite dispersal is lower. Our result of ample gene flow in M. arion at the local scale and relatively long dispersal distances compared with those inferred for other Maculinea species (and Lycaenidae in general) (Nowicki et al. 2005) is interesting. Of the five Maculinea species with well-known life histories, M. arion is the most virulent (inflicting most damage on its host colonies), which might well have induced selection for enhanced dispersal. Compared with the ‘cuckoo’ lifestyles of M. alcon and Maculinea rebeli, the predatory lifestyle that M. arion shares with M. teleius and to some extent with M. nausithous requires a sixfold increase in the number of workers diverted from other colony tasks to maintain a single Maculinea caterpillar (Thomas & Wardlaw 1992).
+The primary host ant of M. arion in Western Europe, Myrmica sabuleti, has smaller colonies than Myrmica scabrinodis and Myrmica rubra, which are the primary hosts of, respectively, M. teleius and M. nausithous (Als et al. 2004). In fact, rather few wild M. sabuleti colonies are large enough to support just one M. arion caterpillar, and small colonies (or large ones infected by multiple caterpillars) are probably to be completely depleted of ant brood in the spring (Thomas & Wardlaw 1992). This will affect the fitness of the colony markedly and make it less suitable as a host for M. arion in the following year. The association between high virulence and increased dispersal in M. arion may therefore reflect the well-established relationship between virulence and horizontal transmission known for many microbial parasites (Ewald 1983). The parasitic lifestyle of Maculinea is very uncommon within the Lycaenidae, the vast majority of which have mutualistic associations with ants, ranging from loose and facultative to specific and obligate (Pierce et al. 2002). There have been few studies on dispersal ability in polyommatine butterflies that have specific, obligate mutualistic associations with ants, but it is noteworthy that those that have been examined, such as Plebejus argus and Polyommatus (Lysandra) bellargus, combine an extremely sedentary lifestyle with high local densities (Thomas 1983; Lewis et al. 1997). These contrasting patterns of dispersal between mutualists and parasites support the expected positive association between virulence (mutualists can be regarded as having ‘negative’ virulence) and transmission (dispersal).
+Can the Maculinea arion lifestyle explain low genetic variation within extant populations?
+Habitat fragmentation and the ensuing isolation of populations not only results in restricted gene flow, but also increases the risk of significant population bottlenecks
+and erosion of genetic variation (Lowe et al. 2004). We found that the isolated populations, VA ̈ , UP and SO ̈ , had low levels of genetic diversity, especially when measuring allelic richness. This was particularly true for population VA ̈ , the only population that was monomorphic for one of the microsatellite loci. Despite their differences in genetic diversity, all populations except Gotland showed very low values of M, indicating that they may have experienced recurrent bottlenecks.
+When comparing values of the bottleneck index M with the de facto critical value of 0.68 found by Garza & Williamson (2001), seven of our eight populations have experienced a severe reduction in effective population size. Only the Gotland population (GO) had M > 0.68, consistent with records that populations of M. arion on this island have been large and stable over a long period (Eliasson et al. 2005), and thus presumably functioning as an intact metapopulation until the present day. This contrasts with the situation on the mainland, where the number of M. arion localities has declined severely in the latter part of last century (Elmquist & Nielsen 2007). The localities in Eastern Ska ̊ne in particular have been affected by expanding residential areas (Elmquist & Nielsen 2007). When we simulated the critical value of M over a range of parameter values, all eight populations appeared to have experienced population bottlenecks at values of h (the mutation rate scaled effective population size) that are reasonable for M. arion (h = 0.02–0.4, corresponding to prebottlenecked Ne values of around 50–1000 individuals). Even under large values of h (2–4, corresponding to Ne of some 5000–10 000), all but the Gotland population show signs of a recent genetic bottleneck, and it is only at extreme values (h = 20–40, corresponding to Ne of 􏰀50 000– 100 000) that the observed M for the other population exceeds its critical value. This result is remarkable as simulation studies found that the M method has a rather low power to detect bottlenecks when prebottleneck values of h are low (test range: 2–10; Williamson-Natesan 2005), which will always be the case for M. arion because of low effective population sizes (Thomas 1995).
+The bottleneck signatures that emerge from our analyses may be caused by the peculiar life history of M. arion, where only a small fraction of the eggs develop into adults the following year, and where these are probably to originate from a small proportion of the females that manage to oviposit. Factors that probably contribute to this high degree of skew are as follows: (i) the very limited mobility of females once egg laying has started, (ii) the fact that females are apparently unable to use information on the presence of suitable host ants when selecting food plants for oviposition and (iii) the high but variable larval mortality both before and after adoption
+Ó 2012 Blackwell Publishing Ltd
+
+into the host ant nest (Thomas et al. 1989, 1991; Thomas & Wardlaw 1990, 1992; Thomas & Elmes 1998). Such a life cycle could in theory reduce the value of M even in equilibrium populations, something that may explain the value of M below the critical value that we expected in population GO. Future population genetic studies of other Maculinea species would be valuable to shed further light on this issue.
+Maculinea arion is one of very few butterflies that have been reintroduced into a range where native populations had gone extinct (Schultz et al. 2008). The most well-known event of this kind was the reintroduction of M. arion in SW England in the early 1980s (Thomas et al. 2009). The source material for that introduction came from the central part of the island of O ̈ land, but at that time, only educated guesses could be made as to whether this founder population was genetically representative for NW Europe. Our present genetic results suggest that this O ̈ land population was indeed a suitable source, as we can document a high genetic diversity and some gene flow with the neighbouring population on the northern part of the island. A future study that we have initiated will specifically address the genetic similarity of extant and historical populations of M. arion in Sweden and the UK.
+Concluding remarks and recommendations for conservation
+In conclusion, we found that effective dispersal distances of M. arion may be considerably longer than those inferred from observational studies, but that stepping-stone strongholds of optimal habitat no further apart than around 10 km are probably to be essential for maintaining fully viable populations of the type occurring on the island of Gotland, while patches of suitable habitat separated by a few tens of kilometres, and without harsh intervening matrix, may allow some gene flow between metapopulations. However, when such relatively dense mosaics of suitable habitat have been lost, it remains worthwhile to invest in more isolated clusters of M. arion populations and, at the same time, manage sites that are not currently occupied, but which could provide links between populations.
+Acknowledgements
+We thank four anonymous reviewers for useful comments on the manuscript, J. Bergsten, P. Bina, B. Carlsson, M. Johannesson and A.E. Lomborg for providing additional wingtip samples, A. Illum for assistance in the field, and in particular P.S. Nielsen for mediating the contact to the collectors and the Swedish authorities. Collection was made possible through a permit by the A ̊ tga ̈rdsprogrammet, supported by the Swedish Environmental Protection Agency. The work was financed by
+the Danish National Science Research Foundation via a grant to the Centre for Social Evolution.
+Ó 2012 Blackwell Publishing Ltd
+DISPERSAL OF THE LARGE BLUE BUTTERFLY 11

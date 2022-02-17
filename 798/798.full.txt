@@ -1,0 +1,337 @@
+Evolutionary Applications
+   ORIGINAL ARTICLE
+Assessing the role of non-cotton refuges in delaying Helicoverpa armigera resistance to Bt cotton in West Africa
+Thierry Bre ́vault,1,2 Samuel Nibouche,3 Joseph Achaleke4 and Yves Carrie`re2
+1 CIRAD, UPR 102, F-34398 Montpellier, France
+2 Department of Entomology, University of Arizona, Tucson, AZ, USA 3 CIRAD, UMR PVBMT, F-97410 Saint-Pierre, La Re ́ union, France
+4 IRAD, PRASAC-ARDESAC, Garoua, Cameroon
+Keywords
+Bacillus thuringiensis, biogeochemical markers, insect resistance management, genetically engineered crops, polyphagous pest, Bt cotton, refuge strategy.
+Correspondence
+Thierry Bre ́ vault, CIRAD, TA B 102/02, Avenue Agropolis, 34398 Montpellier cedex 5, France. Tel.: +33 4 67 61 55 85; fax: +33 4 67 56 66; e-mail: thierry.brevault@cirad.fr
+Received: 14 July 2011
+Accepted: 7 August 2011
+First published online: 7 October 2011
+doi:10.1111/j.1752-4571.2011.00207.x
+Introduction
+Cotton is widely grown in West Africa, where it helps sustain millions of resource-poor farmers and rural communities. Transgenic cotton producing the Bacillus thuringiensis (Bt) toxins Cry1Ac and Cry2Ab was recently introduced to Burkina Faso (James 2009) to increase agricultural profitability. Such Bt cotton is referred to as a ‘pyramid’ because it produces two distinct Bt toxins active against some lepidopteran pest species (Roush 1998; Showalter et al. 2009). Insect resistance, however, can reduce the effectiveness of Bt crops and is therefore a major concern for the long-term sustainability of Bt crops. Indeed, some populations of the cereal stem borer,
+Busseola fusca (Fuller), the fall armyworm, Spodoptera frugiperda (J.E. Smith), the pink bollworm, Pectinophora gossypiella (Saunders), and the cotton bollworms, Helicoverpa zea (Boddie) and H. punctigera (Wallengren), respectively, evolved resistance to Cry1Ab corn in South Africa, Cry1F corn in Puerto Rico, Cry1Ac cotton in India, Cry1Ac and Cry2Ab in the United States, and Cry2Ab in Australia (Van Rensburg et al. 2007; Tabashnik et al. 2008, 2009; Bagla 2010; Carrie`re et al. 2010; Downes et al. 2010). In turn, field-evolved resistance was reported to result in increased crop damage by B. fusca, H. zea, S. frugiperda, and P. gossypiella (Matten et al. 2008; Tabashnik et al. 2009; Monsanto 2010; Storer et al. 2010). Furthermore, monitoring data from China and India
+a 2011 Blackwell Publishing Ltd 5 (2012) 53–65
+53
+Abstract
+Non-cotton host plants without Bacillus thuringiensis (Bt) toxins can provide refuges that delay resistance to Bt cotton in polyphagous insect pests. It has proven difficult, however, to determine the effective contribution of such refuges and their role in delaying resistance evolution. Here, we used biogeochemical markers to quantify movement of Helicoverpa armigera moths from non-cotton hosts to cotton fields in three agricultural landscapes of the West African cotton belt (Cameroon) where Bt cotton was absent. We show that the contribution of non-cotton hosts as a source of moths was spatially and temporally variable, but at least equivalent to a 7.5% sprayed refuge of non-Bt cotton. Simulation models incorporating H. armigera biological parameters, however, indicate that planting non-Bt cotton refuges may be needed to significantly delay resistance to cotton producing the toxins Cry1Ac and Cry2Ab. Specifically, when the concentration of one toxin (here Cry1Ac) declined seasonally, resistance to Bt cotton often occurred rapidly in simulations where refuges of non-Bt cotton were rare and resistance to Cry2Ab was non-recessive, because resistance was essentially driven by one toxin (here Cry2Ab). The use of biogeochemical markers to quantify insect movement can provide a valuable tool to evaluate the role of non-cotton refuges in delaying the evolution of H. armigera resistance to Bt cotton.
+Evolutionary Applications ISSN 1752-4571
+
+Resistance to Bt cotton
+Bre ́vault et al.
+indicate that the frequency of resistance to Cry1Ac cotton is increasing in some populations of H. armigera (Hu ̈bner) (Liu et al. 2009; Tabashnik et al. 2009), a major pest of cotton throughout the West African cotton belt, where it has already evolved resistance to pyrethroid insecticides (Martin et al. 2005; Bre ́vault et al. 2008).
+Management of insect resistance to Bt crops requires production of abundant susceptible individuals in refuges of non-Bt host plants that disperse and mate with the rare resistant survivors in Bt fields (Gould 1998; Tabashnik et al. 2008, 2009; Carrie`re et al. 2010). Because the cotton bollworm, H. armigera, is polyphagous and mobile (Forrester et al. 1993; Bre ́vault et al. 2008; Vassal et al. 2008), non-cotton host plants in West Africa could reduce the reliance on refuges of non-Bt cotton to delay resistance. Here, non-cotton host plants refer to a ‘nonstructured refuge’ (i.e., host crops and wild host plants), as opposed to a ‘structured refuge’ (i.e., non-Bt cotton planted as part of a licensing agreement). While some studies have evaluated the production of H. armigera by non-cotton host plants elsewhere (Green et al. 2003; Wu et al. 2004; Ravi et al. 2005; Baker et al. 2008), movement of moths from non-cotton hosts to cotton fields has never been quantified in space and time. Nevertheless, it is often assumed that cotton refuges are not required to delay H. armigera resistance to Cry1Ac/Cry2Ab cotton in agroecosystems where small fields of diversified crops and patches of non-cultivated hosts are close together (Ravi et al. 2005; Wu and Guo 2005; Huang et al. 2010; Liu et al. 2010; Qiao et al. 2010), such as in West Africa.
+Simulation models suggest that pyramided plants have the potential to delay resistance more effectively than single-toxin plants used sequentially or in mosaics, even with relatively small refuges (Roush 1998; Zhao et al. 2003). These models, however, assume that production of both toxins Cry1Ac and Cry2Ab remains constant throughout the growing season at levels that kill most target insects. Nevertheless, the concentration of Cry1Ac in cotton generally declines when plants start producing flowers and bolls, while Cry2Ab levels could remain more constant (Adamczyk et al. 2001; Bird and Akhurst 2005; Kranthi et al. 2005; Olsen et al. 2005; Showalter et al. 2009; Carrie`re et al. 2010). Accordingly, the seasonal decline in the concentration of one toxin (here Cry1Ac) could invalidate one of the fundamental assumptions of the pyramid strategy (i.e., the killing of insects resistant to one toxin by another toxin) and thus accelerate resistance evolution (Carrie`re et al. 2010). Furthermore, as pointed out by Bourguet et al. (2010), long-range migration has received little attention in theoretical models of resistance evolution. Yet, the dilution effect of resistance alleles that migrating moths such as H. armigera could exert on local populations may significantly delay the evolution of
+resistance (Feng et al. 2010). In West Africa, the absence of genetic structure among H. armigera populations observed by Nibouche et al. (1998) and Vassal et al. (2008) suggests significant moth movement (>500 km) from southern regions to the cotton belt at the beginning of the growing season in June–July and reverse migration south at the end of the growing season in October– November. A small proportion of moths also enter diapause locally during the dry season (Nibouche 1994). As documented in Agrius convolvuli L. (Lepidoptera: Sphingidae) (Bowden 1973), migrating moths probably follow the seasonal movements of the intertropical convergence zone.
+The purpose of this study was to evaluate the effective contribution in space and time of non-cotton refuges to the pool of H. armigera moths in three agricultural landscapes of the West African cotton belt (Cameroon), using biogeochemical markers to quantify movement of moths from non-cotton hosts to cotton fields throughout the cropping season, prior to the introduction of Bt cotton. We also used a two-locus population genetics model incorporating realistic estimates of key H. armigera biological parameters and seasonal decline of Cry1Ac production to evaluate how shortand long-range movement from non-cotton refuges may affect the evolution of resistance to Cry1Ac/Cry2Ab cotton in each agricultural landscape. Results indicated that supplementing non-cotton refuges with refuges of non-Bt cotton would provide a robust strategy to delay the evolution of H. armigera resistance to Bt cotton in West Africa.
+Materials and methods
+Sampling
+Three sampling locations, where all cotton grown was non-Bt cotton, were selected in Cameroon to represent the typical range of conditions encountered in the West African cotton belt (Fig. 1, Table 1). The agricultural landscape (cultivated vs. uncultivated area) and the abundance of cotton in the cropping system (Guider > Djalingo > Tchollire ́) differed significantly between the three sampling locations. At each location, moths were captured with six pheromone (97% (Z)-11-hexadecenal and 3% (Z)-9-hexadecenal) traps (Biosyste` mes, Cergy Pontoise, France) modified from the Hartstack nylon-mesh 60-cm-diameter cone trap (Hartstack et al. 1979). One trap was set per cotton field, and traps were separated by a distance of 0.5–2 km. Traps were inspected daily to preserve the quality of moths, and pheromone lures were changed every 2 weeks. Eighteen moth collections (6 months, three locations) were performed from June to November 2006 (N = 3380). Moths were preserved in 95% ethanol and stored at )20°C for subsequent analyses.
+54
+a 2011 Blackwell Publishing Ltd 5 (2012) 53–65
+
+ Bre ́vault et al.
+Resistance to Bt cotton
+Table 1. Main agronomic characteristics of the three sampling locations: Guider, Djalingo, and
+Tchollire ́ .
+Cotton area per farmer (ha)
+2006 Avg.
+0.6 0.6 0.7 0.9 0.8 0.9
+Sampling location
+Guider Djalingo Tchollire ́
+Annual rainfall (mm)
+2006 Avg.*
+1122 1042 942 983 967 1159
+Cotton area (ha)
+Percentage of cotton area planted Jun-30
+Seed-cotton yield (kg/ha)
+Main crops and landscape
+Sorghum, corn, cotton, peanut Peanut, corn, cotton, sorghum
+Corn, peanut, cotton, wildlife reserve
+2006
+14 280 10 054 3197
+Avg.
+14823 11 084 2999
+2006 Avg. 2006 Avg.
+67 47 947 1139 89 83 924 1043 98 86 1065 1154
+West African cotton belt
+sampling location
+B. FASO
+N
+300 km
+Figure 1 Sampling locations of Helicoverpa armigera moths in Cameroon (GU, Guider; DJ, Djalingo; TC, Tchollire ́ ). Transgenic cotton producing Bt toxins was recently introduced to West Africa, but only in Burkina Faso. Other Bt crops such as Bt corn have not yet been released in West Africa.
+Information on cropping systems was obtained from SODECOTON data (Direction de la production agricole, Garoua, Cameroun (2006)) in a circular area (25 km radius) around each sampling location.
+*Average of 2004–2007 growing seasons. Although crops such as sorghum and peanut are known hosts of Helicoverpa armigera in several regions of the world, varieties grown in West Africa are seldom infested. Corn is generally 3–4 times more abundant than cotton in the cotton belt of Cameroon.
+Biogeochemical analyses
+Moths were analyzed for 13C/12C carbon isotope signatures of natal host photosynthetic type (Deniro and Epstein 1978; Gould et al. 2002) and gossypol (Rojas et al. 1992), a phytochemical which is uniquely produced in the lysigenous glands of cotton (Gossypium spp.) and closely related species (Jaroszewski et al. 1992). Gossypium arboreum and G. herbaceum (A genome), G. barbosanum and G. anomalum (B genome), and G. barbadense are occasionally found in West Africa, but these plants are rare compared to cultivated G. hirsutum (Valicek 1979).
+For isotope signatures, one forewing of each moth was clipped off and placed on paper towels for 30 min at ambient temperature to enable ethanol to evaporate and
+then lyophilized for 30 min to remove remaining moisture. The remainder of the moth was placed in a separate ethanol-filled vial for subsequent gossypol analyses. Each forewing (approximately 1 mg) was tightly folded into a 5 · 9 mm tin capsule (ThermoQuest, Milan, Italy), individually placed in a 96-well plate and assigned a specific number. Automated isotopic ratio mass spectrometric analyses were conducted at the Scotland Research Institute (SCRI, Dundee, UK). Forewings were combusted, and constituent gases were separated on a gas chromatograph column linked to a mass spectrometer. The output from the mass spectrometer analysis is a ratio, which can be converted to a d13C value using Pee Dee Belemnite (PDB) as a reference (Hood-Nowotny and Knols 2007). Wings from moths reared on common weeds Cleome
+a 2011 Blackwell Publishing Ltd 5 (2012) 53–65
+55
+GU
+DJ
+TC
+CAMEROON
+0 150
+
+Resistance to Bt cotton
+Bre ́vault et al.
+viscosa L. (Capparidaceae) and Hyptis suaveolens (L.) Poit. (Lamiaceae), as well as on field-grown tomato, cotton, or corn in the laboratory had d13C values ranging from
+migrants colonizing the cotton-growing area in June–July primarily comprised susceptible individuals, unless elevated frequency of resistance alleles occurred in the cotton belt owing to use of Bt cotton there and important movement occurred between the cotton belt and southern regions in October–November.
+The model has two main compartments: the rain-fed host plants in the cotton belt and the off-season host plants in southern regions. Both compartments exchanged moths by migration in June–July and October–November. The percentage of moths migrating from the south and contributing to the first generation in the cotton belt is MR1. The percentage of moths emigrating from the cotton belt and contributing to the first generation in the southern regions is MR2 (Figs 2D and S1). Rain-fed host plants in the cotton belt encompass three subcompartments: non-cotton refuges (subcompartment 1; cultivated and wild non-cotton hosts), non-Bt cotton refuges (subcompartment 2), and Bt cotton (subcompartment 3). As cultivated landscapes in West Africa usually form a mosaic of small fields, we assumed random mating between moths originating from the three subcompartments.
+According to Gustafson et al. (2006), the number of moths produced per surface area in each subcompartment of a region during one generation, the total number of produced moths, is as follows:
+Mh 1⁄4 Ah:EhLS:LBh ð1Þ
+where Ah is the relative area of the region occupied by the host type h (subcompartment), Eh is the relative (to unsprayed non-Bt cotton, i.e., E2 = 1) number of effective eggs (eggs that would produce reproductive adults in the absence of mortality owing to Bt toxin or insecticide sprays), LS is the proportion of larvae surviving insecticide sprays (only in non-Bt cotton fields), according to a calendar-based spraying program commonly used in West Africa (Vaissayre et al. 2006; Bre ́vault et al. 2009), and LBh considers the proportion of larvae surviving ingestion of the Bt toxins (only in Bt cotton fields) and fitness cost (on all host types), averaged across the nine genotypes (ss1ss2, ss1rs2, ss1rr2, rs1ss2, rs1rs2, rs1rr2, rr1ss2, rr1rs2, and rr1rr2—where s and r stand for susceptibility and resistance alleles, respectively) and weighted by their relative abundance:
+LBh 1⁄4 XLBhg :fhg ð2Þ g
+where LBhg is the survival of genotype g on host type h and fhg is the relative abundance of genotype g on host type h.
+Survival of genotype g on Cry1Ac/Cry2Ab cotton during the course of the growing season was calculated from empirical data (see Table 2 and parameter estimation below), according to Finney’s formula (1971):
+)27.0& to )25.6& (N = 30), )25.1& to (N = 15), and )9.3& to )8.2& (N = 15), respectively. There was no overlap between C3and C4 (corn)-reared moths. Results from these analyses enabled us to classify any moth with a value of less than )20.0& as having fed on a C3 plant and any moth with a value
+of more than )15.0& as having fed on a C4 plant.
+Moth abdomens were analyzed at Monsanto labs (Monsanto Company, Creve Coeur, MO) for bound gossypol using high-pressure chromatography coupled with a triple quadrupole mass spectrometer (Orth et al. 2007). Gossypol was always detected in moths reared on cotton in the laboratory (N = 15). Furthermore, moths reared in the laboratory on C. viscosa (N = 15) and H. suaveolens (N = 15), as well as on field-grown tomato (N = 30) and corn (N = 15) had no detectable levels of gossypol. In analyses of moths trapped in cotton fields, <2% of blank samples (i.e., without moths) yielded false-positive results (i.e., 1 of 51). We categorized host plants as cotton (which is a C3 plant), non-cotton C3 plants (e.g., weeds such as Cleome spp. and Hyptis sp. and tomato), and C4 plants (e.g., corn). Results from gossypol analyses were confirmed by isotopic ratio analyses with an accuracy of 99.5%. A total of 658 moths were analyzed for both stable
+carbon isotopes and gossypol residues (Table S1).
+Simulation model
+The population genetics model (Fig. S1) incorporated estimates of the key biological parameters for H. armigera to simulate changes in the frequency of two resistance alleles owing to selection by Cry1Ac/Cry2Ab cotton. It was adapted from the model of Nibouche et al. (2007) and specifically incorporated data on moth movement between non-cotton refuges and cotton fields obtained in this study. The model was written in R version 2.8.1 (R Development Core Team R 2008). We estimated the time to resistance as the number of years required for H. armigera survival to exceed 20% on Bt cotton (Sawicki 1987).
+The evolution of resistance was modeled over four generations per growing season, from July to October, based on the life cycle of H. armigera on cotton in West Africa (Nibouche et al. 2007; Bre ́vault et al. 2008). The model also accounted for immigration of moths from southern regions to the cotton belt in June–July, and initiation of diapause in the cotton belt or emigration south in October–November (Nibouche 1994; Nibouche et al. 1998). We assumed that Bt crops were not cultivated in southern regions (James 2009). Accordingly, the pool of
+)28.6& to )26.3& (N = 15),
+(N = 15), )23.0&
+)27.7& to )23.4&
+56
+a 2011 Blackwell Publishing Ltd 5 (2012) 53–65
+
+Bre ́vault et al.
+Resistance to Bt cotton
+ (A)
+100
+75
+50
+25
+Guider
+Refuges
+C4 plants
+Non-cotton C3 plants
+(B)
+100
+75
+50
+25
+Djalingo
+                        (C)
+100
+75
+50
+25
+0
+(D)
+00
+Jun.
+Tcholliré
+Jul.
+Aug.
+Sep.
+Oct.
+Nov.
+Jun. Jul.
+Host plant sequence
+Aug. Sep.
+Corn (C4)
+Oct. Nov.
+MR2
+Weeds (C3)
+Nov.
+         MR1
+Cotton (C3/gossypol+)
+Sep. Oct.
+    Weeds (C3)
+Jun.
+Jul.
+Aug.
+        Jun.
+Jul.
+Aug.
+Sep.
+Oct.
+Nov.
+Moth emergence from cotton
+Figure 2 (A–C) Moths trapped in cotton fields (%) that originated from non-cotton host plants. Remaining moths (100 – % indicated by bar) originated from cotton. Moths were trapped at three locations (Guider, Djalingo, and Tchollire ́) in Cameroon in 2006. (D) Typical sequence of Helicoverpa armigera host plants in the West Africa cotton belt throughout the cropping season. Curves represent temporal occurrence and relative area of host plants.
+   LB3g 1⁄4 LB3g1:LB3g2:LFCg ð3Þ
+where LB3g1 and LB3g2 are survival of genotype g to the Cry1Ac and Cry2Ab toxins, respectively, and LFCg takes into account fitness costs associated with resistance to Cry1Ac (see parameter estimation below). Also, survival of genotype g on non-Bt hosts considered fitness costs (see parameter estimation below):
+LB1g 1⁄4 LB2g 1⁄4 LFCg ð4Þ
+The relative area of cotton in the region is AC, and the relative area of cotton devoted to non-Bt cotton is Pref. Accordingly, the relative area planted to non-Bt cotton (A2) and Bt cotton (A3) is, respectively, A2 = Pref. AC and A3 = (1 ) Pref). AC. In the absence of Bt cotton, Pref = 1 and the observed proportion of moths produced by non-cotton hosts (fnon cot) is obtained from eqn (1) as follows:
+In the presence of Bt cotton, the proportion of moths produced by refuges (fref, see Fig. S1) is obtained from eqn (1) as follows:
+A1:E1:LB1þPref :AC:LS:LB2
+fref 1⁄4A1:E1:LB1þPref :AC:LS:LB2þð1􏰀PrefÞ:AC:E3:LB3
+ð6Þ Combining eqns (5 and 6) results in the following:
+fref 1⁄4
+fnoncot:LS:LB1þð1􏰀fnoncotÞ:ðPref LSLB2Þ fnoncot:LS:LB1þð1􏰀fnoncotÞ:1⁄2Pref :LS:LB2þð1􏰀PrefÞ:E3:LB3􏰊 ð7Þ
+Eqn (7) allows the calculation of the monthly proportion of moths produced in refuges in the presence of Bt cotton based on the observed percentage of gossypolpositive moths quantified in this study (Fig. 2 and S1). Thus, data on area or carrying capacity of the different host plants are not needed to calculate the proportion of moths produced by refuges.
+  fnon cot 1⁄4
+A1 : E1
+A1 :E1 þAC:LS
+ð5Þ
+ a 2011 Blackwell Publishing Ltd 5 (2012) 53–65
+57
+% moths % moths
+% moths
+
+Resistance to Bt cotton Bre ́vault et al.
+Table 2. Standard values of empirical parameters used to model the evolution of Helicoverpa armigera resistance to Bt cotton at three locations in the cotton belt of Cameroon. Sensitivity analyses were performed to evaluate effects of variation in several of these parameters (see Materials and methods).
+ Parameter fnoncot
+LS
+LB3 ss1* c, h
+E3
+p0 RF, b DLC MR1 MR2
+Definition
+Proportion of moths originating from non-cotton hosts
+Survival of larvae to insecticide sprays in non-Bt cotton
+Survival of ss1 larvae on Cry1Ac cotton in August, September, and October Fitness cost and dominance of cost (Cry1Ac)
+Fitness cost and dominance of cost (Cry2Ab)
+Number of effective eggs produced by adults surviving on Bt cotton
+(relative to non-Bt cotton E2)
+Initial allele frequency (Cry1Ac)
+Initial allele frequency (Cry2Ab)
+Resistance factor and slope (Cry1Ac)
+Resistance factor and slope (Cry2Ab)
+Dominance of resistance (Cry1Ac)
+Dominance of resistance (Cry2Ab)
+Proportion of moths migrating from southern regions and
+colonizing the cotton belt
+Proportion of moths from the cotton belt contributing to
+the pool of migrants moving south
+Value
+Fig. 1
+0.20
+0.02, 0.17, 0.37 0.34, 0.33
+0.00, 0.00
+0.60
+0.0003 0.0033
+63, 1.0 6830, 0.76 0.26
+0.00 0.98
+0.20
+References
+Present study
+Bre ́ vault et al. (2009) Kranthi et al. (2005)
+Bird and Akhurst (2004) Mahon and Young (2010) Mahon and Olsen (2009)
+Mahon et al. (2007b) Mahon et al. (2007b) Akhurst et al. (2003) Mahon et al. (2007a) Akhurst et al. (2003) Mahon et al. (2007a)
+  *Survival on Bt cotton.
+The West African cotton belt is colonized at the beginning of the growing season (June–July) by moths migrating from the south, and moths
+from the cotton belt return south at the end of the growing season (October–November).
+Modification of the frequency of r alleles in the cotton belt owing to the immigration of moths from southern regions at the beginning of June was computed as follows:
+f 0cbr 1⁄4 fcbr :ð1 􏰀 MR1Þ þ fsrr :MR1 ð8Þ kkk
+where fcbrk is the frequency of the rk allele in moths of the cotton belt prior to immigration, f0cbrk the frequency modified by immigration, and fsrri the frequency of the rk allele in moths migrating from the southern regions.
+Modification of the frequency of r alleles in the southern regions owing to the immigration of moths from the cotton belt at the end of October was computed as follows:
+homozygote, 1 for heterozygote, and 0 for susceptible homozygote). As a result of the absence of selection pressure on non-Bt hosts, in accordance with eqn (3), the equation is the same for refuge subcompartments 1 (noncotton hosts) and 2 (non-Bt cotton).
+The frequency of the rk allele in moths parents of a generation was computed as follows:
+frk 1⁄4 fref : frk1 þð1 􏰀 fref Þ: frk2 ð11Þ
+where fref is the proportion of moths produced in refuges (eqn 7), and frk1 and frk2 the frequency of rk allele in moths emerging, respectively, from refuges and Bt cotton (eqn 10).
+Because the observed proportion of moths produced by non-cotton hosts sometimes resulted from small samples (Table S1), we used Monte Carlo simulations (Peterson and Hunt 2003) to assess the impact of uncertainty in estimating this parameter on the number of years to achieve >20% survival on Cry1Ac/Cry2Ab cotton. In the Monte Carlo simulations, the proportion of moths produced by non-cotton hosts (fnoncot) in a given generation and region was sampled repeatedly from a Student’s t distribution. This distribution was computed (rt random generation function in R) from the observed proportion of moths produced by non-cotton hosts and the sample sizes used in each generation and region in the study (Table S1, Fig. 2). The random values generated by the Monte Carlo procedure were used in 1000 simulations to evaluate the trajectory of resistance and the variability of this trajectory in each region.
+f 0srr 1⁄4 fsrr :ð1 􏰀 MR2Þ þ fcbr :MR2 kkk
+ð9Þ
+where fsrrk is the frequency of the rk allele in moths of the southern regions prior to immigration, f0srrkthe frequency modified by immigration, and fcbrkthe frequency of the rk allele in moths migrating from the cotton belt.
+The frequency of rk allele in moths emerging from refuges or from Bt cotton was computed as follows:
+PLBhg:fhg :ng
+frkh 1⁄4 g P ð10Þ
+ 2:
+LBhg : fhg
+g
+where LBhg is the survival of genotype g in subcompartment h computed from eqns (3) or (4), fhg the frequency of genotype g in eggs of the considered generation, and ng the number of rk alleles in genotype g (2 for resistant
+58
+a 2011 Blackwell Publishing Ltd 5 (2012) 53–65
+
+Bre ́vault et al.
+Resistance to Bt cotton
+Parameter estimation
+We used published data to estimate model parameters to simulate the evolution of resistance at each of the three sampling locations (Table 2). The seasonal decline in Cry1Ac concentration in Cry1Ac/Cry2Ab cotton resulted in a significant increase in survival of a H. armigera strain with high frequency of a field-derived allele conferring resistance to Cry2Ab (Mahon and Olsen 2009). We assumed that mortality of ss1 larvae to Cry1Ac in Bt cotton (LB3ss1) decreased throughout the growing season as reported by Kranthi et al. (2005). Mortality of ss2 larvae to Cry2Ab in Bt cotton was then calculated to reproduce the seasonal change in survival of genotype ss1ss2 on Cry1Ac/Cry2Ab cotton (Table S2) observed by Mahon and Olsen (2009).
+Survival of genotypes rs1 and rr1 to Cry1Ac and rs2 and rr2 to Cry2Ab was computed with standard dose– mortality regressions as in the study of Nibouche et al. (2007). A theoretical concentration of Cry1Ac or Cry2Ab toxin in Cry1Ac/Cry2Ab cotton was calculated, given the assumed mortality of ss1 or calculated mortality of ss2 (Table 2). This theoretical concentration was then used to calculate the mortality of rs1, rs2, rr1, and rr2, given the resistance factor (RF), the slope of the dose–mortality regression (b), and the dominance of resistance for the lethal concentration LC50 (DLC : from 0 to 1, where 0 = completely recessive and 1 = completely dominant resistance). For Cry1Ac, we used RF = 63 and b = 1 and assumed that partially recessive resistance (DLC = 0.26) was the most likely scenario (Akhurst et al. 2003). For Cry2Ab, we used RF = 6830 and b = 0.76 and assumed that completely recessive resistance (DLC = 0) was the standard level of dominance (Mahon et al. 2007a).
+Data indicate that genetic background of H. armigera strains and characteristics of cotton plants affect the dominance of resistance to Cry1Ac and Cry2Ab, which can vary from recessive to partially dominant (Akhurst et al. 2003; Bird and Akhurst 2004, 2005; Mahon et al. 2007a, 2008; Wu et al. 2009; Nair et al. 2010). We thus used a sensitivity analysis to determine the effect of dominance of resistance to each toxin (DLC = 0, 0.1, 0.3, and 0.5) on the evolution of resistance. Survival of the genotypes under the various combinations of dominance was calculated with the RF and b values used above.
+Based on results from published studies, we assumed non-recessive fitness costs of resistance to Cry1Ac and no fitness costs of resistance to Cry2Ab (Bird and Akhurst 2004, 2007; Mahon and Olsen 2009; Mahon and Young 2010). Survival of the rr1 genotypes was reduced by a factor LFCrr1 = 1 ) c in all subcompartments, where c is the fitness cost. Survival of the rs1 genotypes was corrected by a factor LFCrs1 = 1 ) hc in
+all subcompartments, where h is the dominance of fitness cost (Table 2).
+The relative number of effective eggs (Eh) depends on attractiveness of host plants for oviposition, fecundity of adults that oviposit on the crop, and survival of larvae and pupae in the absence of Bt toxins or insecticides. We assumed that E3 = 0.6 (E2 = 1) to account for the limited fecundity of moths originating from Bt cotton (Mahon and Olsen 2009). Initial frequency of the Cry1Ac and Cry2Ab resistance alleles was set to 0.0003 and 0.0033, respectively, according to Mahon et al. (2007b), but higher values (0.003 and 0.033) were also modeled.
+Pheromone trapping data and gossypol analyses support the hypothesis that some moths migrate south to non-cotton hosts instead of diapausing locally during the dry season. Large trap catches in the cotton belt in the early growing season and in the southern regions at the end of the cotton-growing season cannot be explained by local emergence. MR1 could be high because only 2% of moths trapped in the cotton belt in the early growing season contained gossypol. Data on gossypol content of moths trapped in the southern region from October to December indicate that MR2 could be below 20% (Table 2). We also used a sensitivity analysis to determine the effect of migration (MR1 and MR2 = 0.1 and 0.9) on the evolution of resistance.
+Results
+Movement of H. armigera moths from non-cotton hosts to cotton fields
+Most moths trapped early in the growing season (June– July) had signatures of C3 (79.7–88.3% of moths) and C4 (6.7–18.6%) non-cotton plants, but very few gossypolpositive moths were detected (Fig. 2A–C). When the first moth generation emerged from cotton (August), 87.0– 93.8% of moths still had signatures of C3 and C4 noncotton plants (Fig. 2A–C). The contribution of non-cotton refuges to the pool of moths trapped in cotton fields decreased during the second (September) and third (October) generations, particularly at Djalingo (20.0– 7.5%), and to a lesser extent at Tchollire ́ (62.5–22.2%) and Guider (65.2–45.0%). At cotton harvest (November), most moths originated from non-cotton C3 plants at Djalingo (93.1%) and Tchollire ́ (96.6%), whereas moths from cotton still contributed significantly to the pool of moths (50.0%) at Guider (Fig. 2A–C).
+Evolution of H. armigera resistance to Cry1Ac/Cry2Ab cotton
+Simulations showed that the evolution of resistance was primarily driven by Cry2Ab resistance alleles, as the initial
+a 2011 Blackwell Publishing Ltd 5 (2012) 53–65
+59
+
+Resistance to Bt cotton
+Bre ́vault et al.
+resistance allele frequency and the dominance of Cry1Ac resistance had little effect on the number of years to achieve >20% survival on Cry1Ac/Cry2Ab cotton, except in some cases when inheritance of resistance to Cry2Ab was completely recessive (Tables S3 and S4). While the resistance allele r1 did contribute to survival on Cry1Ac/ Cry2Ab cotton (Table S2; compare, for example, survival of ss1rr2 and rs1rr2), the fact that r1 did not appreciably affect the time to resistance is not surprising because the ratio of survival of ss1 larvae on Cry1Ac cotton was above 20% in October when the concentration of Cry1Ac was low (Table 2; see parameter LB3 ss1). Thus, the presence of Cry2Ab was primarily responsible for the low survival of susceptible insects on Cry1Ac/Cry2Ab cotton throughout the growing season (i.e., from 0.6% in July to 7% in October; Table S2). Results outlined below are therefore largely insensitive to the initial frequency of resistance to Cry1Ac and the dominance of resistance to this toxin.
+Among-site variability affected the role of non-cotton refuges in delaying resistance evolution (Fig. 3A,B; Table S3). In the absence of refuges (including non-cotton refuges), resistance evolved in 3 years or less, except when resistance to Cry2Ab was completely recessive (dominance of resistance, DLC = 0) and initial frequency of Cry2Ab resistance (p0) was 0.0033. With completely recessive resistance to Cry2Ab (dominance of resistance, DLC = 0), noncotton refuges were sufficient to delay resistance ‡9 years at the three locations, irrespective of the initial frequency of Cry2Ab resistance (Table S3). With partially recessive resistance to Cry2Ab (DLC = 0.1) and initial resistance allele frequency of 0.0033 to Cry2Ab, non-cotton refuges delayed resistance ‡32 years at Guider, ‡16 years at Tchollire ́, and ‡8 years at Djalingo (Fig. 3A). With partially recessive resistance to Cry2Ab (DLC = 0.1) and higher initial resistance allele frequency of 0.033 to Cry2Ab, however, resistance evolution was faster and non-cotton refuges delayed resistance ‡17 years at Guider, ‡9 years at Tchollire ́, and £6 years at Djalingo (Fig. 3B). With higher dominance of Cry2Ab resistance (DLC = 0.3 or 0.5), sprayed refuges of 20% non-Bt cotton in addition to non-cotton refuges delayed resistance ‡8 years at Guider, £11 years at Tchollire ́, and £8 years at Djalingo (Fig. 3B, Table S3). In a worst-case scenario with an initial resistance frequency of 0.033 and semi-dominant resistance to Cry2Ab (DLC = 0.5), sprayed refuges of 50% non-Bt cotton delayed resistance 15 years at Guider, 8 years at Tchollire ́, and 6 years at Djalingo (Fig. 3B). Monte Carlo simulations incorporating variability in the proportion of moths produced by non-cotton hosts (fnoncot) during each H. armigera generation revealed similar trends in resistance evolution and confirmed that resistance evolution differed between sampling locations and according to the dominance of resistance (compare Tables S3 and S5 or Fig. 3).
+Resistance evolution was significantly affected by patterns of migration (Fig. 4, Table S6). When many moths migrated north into the cotton belt but few returned south (MR1 = 0.98, MR2 = 0.2 or MR1 = 0.90, MR2 = 0.1), southern migrants diluted the frequency of resistance alleles and delayed resistance. Long-range migration, however, did not delay resistance when many moths from the cotton belt returned south (MR2 = 0.9), or the pool of migrants from the south was small compared to the population overwintering in the cotton area (MR1 = 0.1).
+Discussion
+The adoption of transgenic Bt cotton in West Africa raises novel and important issues related to the sustainability of such technology in small-scale cropping systems.
+ Guider
+Djalingo
+Tcholliré
+   (A) 40 30 20 10 0
+(B) 40 30 20 10 0
+Figure 3 Effect of the abundance of sprayed refuges of non-Bt cotton (%) on the evolution of Helicoverpa armigera resistance to Cry1Ac/Cry2Ab cotton at three locations in Cameroon: Guider (•), Djalingo (h), and Tchollire ́ (D). Simulations considered data on movement between non-cotton refuges and cotton fields measured at each site (Fig. 2A–C). For Cry2Ab, the initial resistance allele frequency was 0.0033 (A) or 0.033 (B), and resistance was partially recessive (DLC = 0.1, dashed line) or semi-dominant (DLC = 0.5, solid line). For Cry1Ac, the initial resistance allele frequency was 0.0003, and resistance was partially recessive (DLC = 0.26) (Table 2). The criterion for resistance evolution was >20% survival on Bt cotton.
+                        0 10 20 30 40 50 Non-Bt cotton refuges (%)
+                       0 10 20 30 40 50 Non-Bt cotton refuges (%)
+60
+a 2011 Blackwell Publishing Ltd 5 (2012) 53–65
+Years to resistance
+
+Bre ́vault et al.
+Resistance to Bt cotton
+40 30 20 10
+MR1/MR2 0/0
+0.9/0.1 0.9/0.9
+0.1/0.9 0.1/0.1
+                           0
+0 10 20 30 40 50
+Non-Bt cotton refuges (%)
+Figure 4 Effect of the abundance of sprayed refuges of non-Bt cotton (%) on the evolution of Helicoverpa armigera resistance to Cry1Ac/Cry2Ab cotton at Djalingo (Cameroon). Simulations considered data on movement between non-cotton refuges and cotton fields and patterns of long-range migration (Fig. 2). For Cry2Ab, the initial resistance allele frequency was 0.0033, and resistance was semi-dominant (DLC = 0.5). For Cry1Ac, initial resistance allele frequency was 0.0003, and resistance was partially recessive (DLC = 0.26) (Table 2). MR1 is the proportion of moths from southern regions colonizing the cotton belt in June–July; MR2 the proportion of moths from the cotton belt contributing to the pool of migrants moving south in October–November. The criterion for resistance evolution was >20% survival on Bt cotton. Results of simulations for MR1/MR2 values of 0/0 were almost identical to results obtained for 0.9/0.9, 0.1/0.9 and 0.1/0.1.
+Because H. armigera is polyphagous and highly mobile, it is often assumed that refuges of non-cotton host crops and wild host plants provide sufficient refuges to delay the evolution of resistance, thus reducing or even suppressing the need of non-Bt cotton refuges (Ravi et al. 2005; Wu and Guo 2005; Liu et al. 2010; Qiao et al. 2010). However, movement of H. armigera from non-cotton hosts to cotton fields had never been quantified directly. Rather, studies assessing the refuge potential of alternative host plants primarily compared insect densities between non-Bt cotton and non-cotton host crops (Green et al. 2003; Wu et al. 2004; Ravi et al. 2005; Baker et al. 2008), although such comparisons do not take into account movement from non-cotton hosts to cotton fields or the overall contribution of the non-cotton hosts surrounding cotton fields. Our study addressed these problems by quantifying movement between all potential non-cotton hosts and cotton fields, in three contrasted agricultural landscapes before the commercial release of Bt cotton.
+Results show variability in the moth production of different host plants among sampling locations and throughout the cropping season. As expected, most moths trapped in the early season had signatures of C3 and C4 non-cotton plants, indicating sources from seasonal weeds
+(e.g., C. viscosa) and early-planted corn. At this time, few gossypol-positive moths were detected, and the few positive moths trapped in cotton fields likely originated from overwintering pupae or possibly from cotton left in fields from the previous growing season. The contribution of non-cotton host plants to the pool of moths trapped in cotton fields decreased during the second (September) and third (October) generations, particularly at Djalingo, and to a lesser extent at Tchollire ́ and Guider. Given the abundance of cotton in Guider > Djalingo > Tchollire ́, a greater abundance of non-cotton hosts in Guider than in Djalingo could explain why there were proportionally more cotton-produced moths in Djalingo than in Guider. At cotton harvest (November), most moths likely originated from late season weeds (e.g., H. suaveolens) at Djalingo and Tchollire ́ , possibly reflecting high larval mortality in the last H. armigera generation on cotton, diapause, or reverse migration southward. At Guider, where cotton is usually planted a few weeks later, moths from cotton still contributed significantly to the pool of moths.
+Our seasonal assessment of H. armigera movement indicates that non-cotton refuges were equivalent to ‡7.5% non-Bt cotton refuges treated with insecticides throughout the cotton-growing season. In simulations, corn-produced moths were not distinguished from moths produced in other refuge types. However, from a management perspective, evaluation of moths from corn was important because it is often assumed that moths from corn represent a large proportion of the pool of moths originating from non-cotton hosts and corn could be used as a non-structured refuge. Even if non-cotton hosts such as corn were important sources of susceptible moths at the three studied locations, moth production was not temporally synchronous with emergence of moths from Bt cotton fields, especially during the second (September) and third (October) generations. Accordingly, the presence of abundant non-cotton hosts in the agricultural landscape does not imply that non-cotton hosts can provide sufficient numbers of Bt-susceptible moths to effectively delay resistance to Bt cotton. Provided that fitness costs high or non-recessive, non-cotton hosts such as corn could, however, play a significant role in delaying resistanceevolution.
+Using the same biogeochemical markers as we did here, Head et al. (2010) reported a low relative contribution of moths from cotton (i.e., < c.a. 40% for any trapping date) to H. zea populations near cotton fields during the period of H. zea emergence from Bt cotton in Arkansas, North Carolina, and Mississippi. They also found that C4 hosts contributed > c.a. 15% of the H. zea moths trapped on any given date during the period of moth emergence from cotton in Arkansas, Georgia, Louisiana, Mississippi,
+a 2011 Blackwell Publishing Ltd 5 (2012) 53–65
+61
+Years to resistance
+
+Resistance to Bt cotton
+Bre ́vault et al.
+and North Carolina. Based on these data, Head et al. (2010) concluded that refuges of non-Bt cotton will play a minor role in the management of resistance to Bt cotton. Because moth populations can decline at sites where use of Bt crops is high (Carrie`re et al. 2003, 2004, 2010; Wu et al. 2008; Hutchison et al. 2010) and biogeochemical markers provide relative measures of the source potential of various refuges without addressing whether local moth populations are large enough to delay resistance, caution should be exerted when using biogeochemical markers to assess the role of particular refuges in regions where Bt crops are used. If the area occupied by cotton and non-cotton refuges is small compared to the area occupied by Bt cotton, the production of moths from refuges could be insufficient to delay resistance and refuges that are a relatively low source of moths could still be needed.
+Theory underlying the pyramid strategy predicts that two-toxin cotton will be most effective for delaying the evolution of resistance when each Bt toxin kills most susceptible pests and resistance to each toxin is recessive throughout the growing season, abundant refuges and fitness costs are present, and selection with either of the toxins does not cause cross-resistance to the other (Gould 1998; Gould et al. 2006; Tabashnik et al. 2008, 2009; Showalter et al. 2009). Our model considered the seasonal decline in mortality of a strain resistant to Cry2Ab on Cry1Ac/Cry2Ab cotton (Mahon and Olsen 2009), which paralleled the decline in Cry1Ac concentration generally observed in Bt cotton during the course of the growing season. Such reduction in mortality of Cry2Ab-resistant insects on Cry1Ac/Cry2Ab cotton invalidates one of the fundamental assumptions of the pyramid strategy, i.e., the killing of insects resistant to one toxin by the other toxin, and thus could accelerate resistance evolution (Carrie`re et al. 2010). Seasonal declines in Cry1Ac-induced mortality and more stable Cry2Ab-induced mortality, as modeled here, necessarily generate stronger selection for resistance to Cry2Ab than Cry1Ac. Thus, it is not surprising that our simulations showed that resistance to pyramided two-toxin Bt cotton was primarily driven by the evolution of resistance to Cry2Ab when the concentration of Cry1Ac declined during the growing season.
+In previous modeling work, based on simulations of a ‘worst-case scenario’ (dominant resistance to both Cry1Ac and Cry2Ab, suboptimal mortality induced by Cry2Ab, high efficiency of insecticide sprays in non-Bt cotton refuges, and high MR2), Nibouche et al. (2007) concluded that Bt cotton should not be grown on more than 30% of the total cotton cropping area to delay resistance evolution by more than 10 years. In contrast to the present study, this earlier model did not incorporate recent estimates of key parameters that influence the evolution of
+resistance to the toxin Cry2Ab in H. armigera (Mahon and Olsen 2009; Mahon and Young 2010), or empirical data on seasonal changes in the movement of H. armigera from non-cotton host plants to cotton fields and on regional variation in the contribution of non-cotton refuges. Here, we found a low efficacy of the pyramid strategy when the concentration of Cry1Ac declined during the growing season, resistance to Cry2Ab was non-recessive, and only non-cotton refuges were available, despite the important but temporally and regionally variable moth contribution from non-cotton hosts to putative Bt cotton fields. Under the first two conditions, our results indicate that refuges of non-Bt cotton would be needed to significantly delay resistance unless high and sustained movement from non-cotton refuges to cotton fields occurred during the growing season (e.g., Guider) or long-range migration was more important northward than southward.
+While some H. armigera individuals overwinter in the West African cotton belt, others immigrate from southern regions to colonize the cotton-growing area in June–July or emigrate south from the cotton belt in October– November (Nibouche 1994; Nibouche et al. 1998). Because the extent of H. armigera migration and its variability remain poorly known, research on this topic could be invaluable for the development of resistance management strategies in West Africa. Furthermore, it will also be critical to assess the effects of seasonal changes in the production of Cry1Ac and Cry2Ab in African cotton cultivars on the survival and dominance of resistance in H. armigera. Despite current uncertainty about these parameters, our empirical and simulation results suggest that the use of non-Bt cotton refuges will enhance the management of H. armigera resistance to Bt cotton in West Africa.
+Conclusions
+The evolution of resistance in target pests such as H. armigera could cut short the profitability of Bt cotton in West Africa. The adoption of Bt cotton is expected to reduce and simplify pest management problems, including pyrethroid resistance in the cotton bollworm H. armigera. A 3-year field trial in Burkina Faso indicates that the use of Bt cotton varieties containing the genes Cry1Ac and Cry2Ab from Monsanto (BollgardÒ II) can increase yield by 30% and reduce insecticide use by 60% (James 2008). If commercial results confirm these findings, the use of biotech cotton will likely expand in the rest of the West African cotton belt. Several countries have passed a national biosafety law or are in the process to do so, to authorize the commercial release of Bt cotton. Biogeochemical markers provide a valuable tool to evaluate the
+62
+a 2011 Blackwell Publishing Ltd 5 (2012) 53–65
+
+Bre ́vault et al.
+Resistance to Bt cotton
+role of a variety of refuges in delaying the evolution of resistance to Bt crops in polyphagous insect pests. Such markers could be useful to assess the role of non-Bt cotton vs. non-cotton refuges in delaying H. armigera resistance in Burkina Faso and other countries that may adopt Bt cotton.
+Acknowledgements
+We thank T. Malausa for advice at early stages of the project, M. Vaissayre, S. Heuberger, and D. Crowder for critical review of the manuscript, and F. Chiroleu, G. Head, R. Orth, C. Scrimgeour, and J.M. Vassal for technical assistance. This work was supported by PRASAC-ARDESAC and SODECOTON Co.
+Data archiving statement
+Data for this study are available in Dryad: doi:10.5061/ dryad.ts7sm.
+Literature cited
+a 2011 Blackwell Publishing Ltd 5 (2012) 53–65
+63
+
+Bre ́vault et al.
+Resistance to Bt cotton
+Supporting Information
+Additional Supporting Information may be found in the online version of this article:
+Figure S1. General description of the simulation model. Circled numbers refer to the corresponding equation number in Materials and Methods.
+a 2011 Blackwell Publishing Ltd 5 (2012) 53–65
+65
+Table S1. Name and geographic coordinates of sampling locations. The number of Helicoverpa armigera moths analyzed in each month (2006) for stable carbon isotope ratio and gossypol is reported.
+Table S2. Standard values of relative survival of Helicoverpa armigera genotypes on Cry1Ac/Cry2Ab cotton (LB3g). We assumed a fitness cost associated with resistance to Cry1Ac but not Cry2Ab and DLC values of 0.26 and 0.0 for resistance to Cry1Ac and Cry2Ab, respectively (Table S3). Other survival values were calculated in sensitivity analyses assessing the effect of dominance (see Methods).
+Table S3. Effects of dominance of resistance (DLC), presence of non-cotton refuges, abundance of non-Bt cotton refuges (Pref) and initial frequency of resistance alleles (po) on the number of years to achieve >20% survival on Cry1Ac/Cry2Ab cotton. Simulations considered movement of H. armigera from non-cotton hosts to cotton at three locations in Cameroon, in the absence of long-range migration.
+Table S4. Frequency of resistance alleles r1 (Cry1Ac, top) and r2 (Cry2Ab, bottom) at the time when > 20% survival on Cry1Ac/Cry2Ab cotton occurred (see Table S3). Simulations considered movement of H. armigera from non-cotton hosts to cotton at three locations in Cameroon, in the absence of long-range migration.
+Table S5. Effects of dominance of resistance (DLC), abundance of non-Bt cotton refuges (Pref) and initial frequency of resistance alleles (po) on the mean number of years (with 0.05and 0.95-quantile) to achieve >20% survival on Cry1Ac/Cry2Ab cotton. For each generation and region, the proportion of moths produced by non-cotton hosts (fnoncot) was sampled repeatedly (1000 iterations) from the Student distribution, according to Monte Carlo simulation (see Methods).
+Table S6. Effects of dominance of resistance to Cry2Ab (DLC), abundance of non-Bt cotton refuges (Pref) and initial frequency of the Cry2Ab resistance allele (po) on the number of years to achieve >20% survival on Cry1Ac/Cry2Ab cotton at Djalingo (Cameroon). Simulations considered movement of H. armigera from non-cotton hosts to cotton and patterns of long-range migration.
+Please note: Wiley-Blackwell are not responsible for the content or functionality of any supporting materials supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.

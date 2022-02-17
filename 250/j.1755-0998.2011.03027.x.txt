@@ -1,0 +1,300 @@
+    Molecular Ecology Resources (2011) 11, 903–913 doi: 10.1111/j.1755-0998.2011.03027.x
+Rapid development and screening of microsatellite loci for Artibeus lituratus and their utility for six related species within Phyllostomidae
+EVE S. MCCULLOCH and RICHARD D. STEVENS
+Department of Biological Sciences, Louisiana State University, Baton Rouge, LA 70803, USA
+Abstract
+Microsatellites are often the marker of choice for population genetic studies at intermediate spatial and temporal scales. Developing large numbers of markers has traditionally been technically difficult, and this has limited our ability to investigate evolutionary phenomena that emerge across short temporal scales. Moreover, few markers tend to successfully amplify across species boundaries. As rapid advancements in high-throughput sequencing make microsatellite development costand time-effective, new avenues for evolutionary, population genetic and chromosome linkage mapping research are emerging. We used a published PERL script and second-generation sequencing to rapidly and affordably develop microsatellite loci for a widespread phyllostomid bat, Artibeus lituratus, for which no markers were previously available. We used Roche FLX (Titanium) Genome Sequencing to randomly sequence 􏰀101 Mb (255 065 unique reads) of genomic DNA for A. lituratus, within which we discovered 30 100 microsatellite loci. We designed primers for 19 395 loci that contained suitable flanking regions. We ordered primers for 96 loci, 90 of which produced a single PCR product in A. lituratus. We genotyped 52 loci, and 45 were polymorphic in A. lituratus. We tested cross-species amplification for 96 loci in six additional phyllostomid species: A. planirostris, A. fimbriatus, A. phaeotis, Enchisthenes hartii, Sturnira lilium, and Carollia perspicillata. Cross-species amplification was successful for at least one species for 87 loci (A. fimbriatus), and in all species, at least 66 loci were amplified. These markers will not only facilitate future work on these seven species, but also illustrate the utility of this high-throughput method for development of primers across many species simultaneously.
+Keywords: Artibeuslituratus,microsatelliteloci,next-generationsequencing,Phyllostomidae,primerdevelopment Received 7 February 2011; revision received 12 April 2011; accepted 15 April 2011
+Introduction
+Microsatellite markers are widely used in many avenues of research including population and landscape genetics, conservation genetics, behavioural ecology and the forensic sciences (Buschiazzo & Gemmell 2006) by virtue of their high mutation rate and because their evolutionary fate is governed largely by neutral processes (Ellegren 2004). They are particularly useful for studying relationships among individuals, or recent genetic changes in populations (Selkoe & Toonen 2006). As many markers facilitate resolving subtle population divergence, the capacity to rapidly and affordably develop large numbers of microsatellite markers is necessary (e.g. Abdelkrim et al. 2009; Allentoft et al. 2009; Castoe et al. 2010). This may prove especially useful in the growing fields of landscape genetics (Manel et al. 2003; Holderegger &
+Correspondence: Eve S. McCulloch, Fax: 225 578 2597; E-mails: emccul1@lsu.edu, evemcculloch@gmail.com
+Wagner 2006; Storfer et al. 2007) and conservation genetics (Frankham 1995) where genetic patterns are driven by sometimes very recent historical processes, such as anthropogenic disturbances including habitat destruction (Laurance et al. 2001; Hansen et al. 2008), fragmentation (Laurance et al. 2006; Hubbell et al. 2008) and climate change (Parry et al. 2007). Advances in our genetic toolkits can provide resources to answer questions about the effects of very recent events on genetic structure of populations.
+High-throughput microsatellite development may additionally negate two traditional disadvantages to using microsatellites: (i) methods of microsatellite development such as enrichment and cloning protocols (e.g. Glenn & Schable 2005) are relatively expensive and time-consuming, perhaps especially so for taxa such as birds and bats that have a lower frequency of repetitive DNA in the genome (Van den Bussche et al. 1995; Primmer et al. 1997), and (ii) priming sites are typically species
+Ó 2011 Blackwell Publishing Ltd
+
+904 E. S. McCULLOCH and R. D. STEVENS
+specific. However, given large numbers of microsatellites, it is possible to test many loci across a panel of species simultaneously and choose markers that work for all focal species. This could facilitate the use of microsatellite loci in multiple species population studies in a way that has not been practical before.
+Here, we present (i) development of thousands of microsatellite loci for a widespread and much-studied frugivorous bat, Artibeus lituratus (Phyllostomidae) and (ii) testing of 96 loci for A. lituratus and six other phyllostomid bat species of increasing genetic distance, none of which had previously published microsatellite primers (although Ortega et al. 2002 published primers for a closely related species, A. jamaicensis). Species we screened include A. fimbriatus and A. planirostris (same subgenus as the focal species A. lituratus: Artibeus), A. phaeotis (different subgenus: Dermanura), Enchisthenes hartii (closely related genus, previously A. hartii), Sturnira lilium (same subfamily: Stenodermatinae), and Carollia perspicillata (different subfamily: Carolliinae).
+Materials and methods
+Preparation of gDNA for 454 sequencing
+Genomic DNA for sequencing came from a single specimen of Artibeus lituratus collected in the Canindeyu ́ Department of Paraguay, Villa Ygatim ́ı District, Karapa StationoftheReservaNaturaldelBosqueMbaracayu ́ (RNBM, in the charge of the Fundacio ́ n Moise ́ s Bertoni) on February 27, 2009 (Louisiana State University Museum of Natural Science (LSUMNS) catalog number LSUMZ-36792, and tissue collection number M-9613). Information regarding habitat characteristics and details of the bat community at the RNBM can be found in Stevens et al. (2004). Identification was verified with examination of cranial morphology (Lo ́ pez-Gonza ́ lez 2005). Liver and kidney tissues that had been stored in 95% EtOH were digested in a solution of 500 lL SNET (Sambrook & Russell 2001), 1 lL Proteinase K and 1 lL RNase overnight at 37 °C, then the temperature was raised to 55 °C for another hour to complete digestion; finally, an additional 1 lL of RNase was added and the sample was left at room temperature for 15 min. DNA was extracted using a phenol–chloroform extraction protocol, precipitated with 100% isopropanol and washed with 70% EtOH before being resuspended in 100 lL of 1 · TE (Sambrook & Russell 2001). Roughly 70 lg was sent to Duke University’s Genome Sequencing and Analysis Core Facility 454 Titanium Sequencing Services, and library preparation and sequencing followed their standard protocols and quality control steps. This library was barcoded and run on the equivalent of 􏰀1 ⁄ 8 plate; it yielded 􏰀115.4 Mb of sequence (􏰀101 Mb of which was
+unique sequence), which represents approximately 3.75% of the genome, assuming a similar genome size for all Artibeus species (genome size: Redi et al. 2005).
+Primer development
+The fasta file containing raw sequence data (Appendix S1, Supporting information) was then analysed using the PERL script ‘primer_designer’ recently published by Castoe et al. (2010). Primer Designer extracts reads that contain perfect, compound (multiple repeat motifs occurring noncontinuously in a read) and broken tandem repeats (same repeat motif occurring noncontinuously in a read) that are at least 12 bp in length and inputs those reads into Primer3 (Rozen & Skaletsky 2000), following which primers are designed based on parameters defined by the user. Primer Designer also groups together translated or shifted repeat motifs, as well as reverse complement repeat motifs, therefore counting only unique repeat motifs. The latest version of Primer Designer was obtained from the authors, as it has been modified since it was originally published. Additionally, the code required downloading an earlier version of Primer3 (2.0.0 alpha) and creating an executable binary ‘primer3_ core’. Primer3 criteria for primer design included the following: 58–65 °C melting temperature (Tm) with <2% difference between paired primers and optimal Tm of 62 °C, GC content 30–80%, a GC clamp on the last two 3¢ nucleotides, amplicon length of >60 bp, max poly-N of four nucleotides and primer size 18–30 base pairs (bp) with optimal size of 20 bp. Other parameters were set to Primer3 default values.
+The resulting output file with primer and microsatellite loci information was sorted in order to select microsatellites for testing. The following criteria were met for primers to be considered viable: >6 tandem repeats (i.e. 12 bp for di-nucleotide repeats, 18 bp for tri-nucleotide repeats etc.), <3 occurrences of the forward or reverse primer (respectively) in all reads, and primer pair occurs at least one time. At least six tandem repeats has been used as a defining characteristic of microsatellites (Ellegren 2004), and multiple priming sites in the data set may indicate the priming site is within a transposable element and can result in non-specific amplification. Of 2539 microsatellite loci that met those criteria, a selection was made of 96 loci (Table 2) representing the full range of available repeat motif types: 15 di-nucleotide, 30 tri-nucleotide, 34 tetra-nucleotide, 17 penta-nucleotide and 10 hexanucleotide. Loci with a total length >50 bp were chosen preferentially, but beyond this and the criteria previously mentioned, selection was otherwise arbitrary. Selected primers were ordered from Integrated DNA Technologies in two 96-well plates, one containing all forward and another the matching-position reverse primers. This
+Ó 2011 Blackwell Publishing Ltd
+
+arrangement facilitated efficiently testing these loci across multiple species.
+Testing primers across species
+Initially, 96 microsatellite loci were tested for amplification on one individual of each of the following species: A. lituratus, A. planirostris, A. fimbriatus, A. phaeotis, E. hartii (previously A. hartii: Van Den Bussche et al. 1993), S. lilium and C. perspicillata (Table 1). These species were selected for testing because they represent a gradient of increasing genetic distance from A. lituratus (Jones et al. 2002; Bininda-Emonds et al. 2007; Redondo et al. 2008; Cooper & Purvis 2009; Baker et al. In press) (Fig. 1C). Genomic DNA was extracted from tissue samples with a QIAGEN DNeasy 96 Blood & Tissue kit, following manufacturer’s instructions. Average DNA concentration was 126 ng ⁄ lL, and most variation in concentration was found among individuals within a species, with the exception of A. planirostris, which had markedly lower DNA concentrations for all individuals than did the other species. However, we felt that DNA concentrations were sufficient in all cases to allow for
+successful amplification of microsatellite loci and DNA concentrations were not equalized across taxa. Although it is possible that this created variation in the strength and clarity of the PCR product, it is unlikely that it would result in failure to amplify. Consequently, this variation in DNA concentration would not influence subsequent analyses based on amplicon presence ⁄ absence data.
+We used a step-down thermocycler profile. Thermocycler settings for polymerase chain reaction (PCR) were as follows: 94 °C (5 min), then 10 cycles at 94 °C (30 s) ⁄ 60 °C (45 s) ⁄ 72 °C (60 s), bumping down 1 °C every cycle, followed by 25 cycles at 94 °C (30 s) ⁄ 50 °C (45 s)⁄72 °C (60 s), and a final extension at 72 °C for 10 min. No other thermocycler conditions were tested. Each locus was amplified using PCR in a final volume of 20 lL with the following components: 1 lL of 25– 360 ng ⁄ lL DNA template, 1 lL of 1.5 U Taq DNA polymerase, 1 lL of 20 lM forward and reverse primer each, 0.96lLof25nM MgCl2,2lLof10·PCRbuffer,0.4lL of 10 nM dNTP, and autoclaved Nanopure H2O to reach final volume. Amplification status was assessed based on the presence of a visible band between roughly 100–1000 bp, as determined by running 􏰀10 lL of PCR
+Table 1 List of specimens used for testing microsatellite loci for amplification and polymorphism
+Tissue ID gDNA
+M-9487 112 M-9619 107 M-9732 366 M-9561 117 M-9750 90 M-9633 180 M-9916 145 M-2557 85 M-2558 72 M-2556 95 M-1714 29 M-5929 27 M-5926 53 M-9488 79 M-9683 113 M-9321 151 M-1068 151 M-920 112 M-919 216 M-9450 114 M-9649 122 M-9520 253
+Collection location
+Paraguay, Itapua Dpt. Paragauy, Canindeyu Dpt. Paraguay, Alto Parana Dpt. Paragauy, Canindeyu Dpt. Paraguay, Concepcion Dpt. Paraguay, Caaguazu Dpt. Argentina, Misiones Province Costa Rica, Puntarenas Province Costa Rica, Puntarenas Province Costa Rica, Puntarenas Province Peru, Loreto Dpt.
+Peru, Loreto Dpt.
+Peru, Loreto Dpt. Paraguay, Itapua Dpt. Paraguay, Caaguazu Dpt. Paraguay, Alto Parana Dpt. Peru, Lambayeque Dpt. Peru, Lambayeque Dpt. Peru, Lambayeque Dpt. Paraguay, Itapua Dpt. Paraguay, Caaguazu Dpt. Paraguay, Caazapa Dpt.
+Spp.
+Artibeus fimbriatus A. fimbriatus
+A. fimbriatus
+A. lituratus
+A. lituratus
+A. lituratus
+A. lituratus
+A. phaeotis
+A. phaeotis
+A. phaeotis
+A. planirostris
+A. planirostris
+A. planirostris Carollia perspicillata C. perspicillata
+C. perspicillata Enchisthenes hartii E. hartii
+E. hartii
+Sturnira lilium
+S. lilium
+S. lilium
+Relationship to A. lituratus Same subgenus (Artibeus)
+Same subgenus (Artibeus) Same subgenus (Artibeus) NA
+NA
+NA
+NA
+Different subgenus (Dermanura) Different subgenus (Dermanura) Different subgenus (Dermanura) Same subgenus (Artibeus)
+Same subgenus (Artibeus)
+Same subgenus (Artibeus)
+Different subfamily (Carolliinae) Different subfamily (Carolliinae) Different subfamily (Carolliinae) Closely-related genus (Enchisthenes) Closely-related genus (Enchisthenes) Closely-related genus (Enchisthenes) Same subfamily (Stenodermatinae) Same subfamily (Stenodermatinae) Same subfamily (Stenodermatinae)
+Ampl. Polym. ) (20)
+) (20) + (20) ) (52) ) (52) + (52) + (52) ) (20) ) (20) + (20) ) (20) ) (20) + (20) ) (20) ) (20) + (20) ) (20) ) (20) + (20) ) (20) ) (20) + (20)
+MICROSATELLITE DEVELOPMENT FOR SEVEN BATS 905
+   Information presented includes identification (museum tissue number), concentration of genomic DNA (ng ⁄ uL), location of specimen collection, species, and species’ relationship to Artibeus lituratus. All tissues and associated specimens came from the Louisiana State University Museum of Natural Science. Samples tested for PCR product with 96 microsatellite loci are indicated with ‘+’ and those that were not used are indicated with ‘)’. All samples were genotyped to determine polymorphism. The number in parentheses indicates for how many loci this was carried out.
+Ó 2011 Blackwell Publishing Ltd
+
+906 E. S. McCULLOCH and R. D. STEVENS
+ 56 48 40 32 24 16
+8 0
+96 80 64 48 32 16
+0
+(a)
+Polymorphic Monomorphic Multiple peaks Fail
+(b)
+Product
+No product
+(c)
+                                          Alit Apla
+Apha Ehar
+Slil Cper
+  Fig. 1
+3.8
+5.9
+8.3
+12.4
+17.1
+22
+Panels A and B show results of tests for polymorphism and amplification, while Panel C shows evolutionary relationships between species; columns for Panels A and B correspond to species nodes in Panel C. (a) Fifty-two microsatellite loci were screened for polymorphisms across a panel of four Artibeus lituratus. Twenty of those loci were arbitrarily chosen to genotype three individuals per species for each of the six con-familial species. A key indicates the number of loci which were (i) polymorphic, (ii) monomorphic, (iii) polymorphic with either large amounts of stutter around the peak or which had multiple peaks and (iv) those which failed to amplify. (b) Proportion of 96 microsatellite loci with PCR product for each of the seven species tested. Amplification status was determined based on the presence of a band between 􏰀100 and 1000 bp, as visualized on a 2% agarose gel. Number of loci with PCR product is as follows: A. lituratus (90), A. planirostris (81), A. fimbriatus (87), A. phaeotis (66), Enchisthenes hartii (79), Sturnira lilium (78) and Carollia perspicillata (75). (c) Topology of species relationships: numbers at nodes are estimates of time since divergence in millions of years, based on Bininda-Emonds et al. (2007). Species abbreviations: A. lituratus ‘Alit’, A. planirostris ‘Apla’, A. fimbriatus ‘Afim’, A. phaeotis ‘Apha’, E. hartii ‘Ehar’, S. lilium ‘Slil’, and C. perspicillata ‘Cper’.
+                         product on a 2% agarose gel (250 V, 25 min). We used 0.7 lL of New England Biosystems 100 bp DNA ladder (Catalogue no. N3231L) to assess product size.
+We did a Ward’s Hierarchical Clustering Analysis to determine species similarity based on 96 loci tested for
+amplification. We used a measure of distance (Euclidean) that weights similarly the common amplification of a locus between species pairs, as well as common failure to amplify at a given locus. This is relevant because not all loci amplified equally in all species; for example, while ‡66 loci amplified in each of the seven species, only 46 loci commonly amplified in every species (i.e. never failed to amplify in any of the species for which they were tested). Euclidean distances were calculated based on a matrix of the 96 primers (rows) by seven species (columns), where ‘Product’ was given a value of ‘1’ and ‘No product’ a value of ‘0’. This pair-wise distance matrix was then used to group species based on a Ward’s hierarchical cluster analysis in R (R-project 2008), with significance determined by running a bootstrap analysis using the package ‘pvclust’ with 10 000 re-samplings (Suzuki & Shimodaira 2009).
+A subset of 52 microsatellites, selected because they produced a single strong, clear band of PCR product in the test for amplification in A. lituratus, were then genotyped for four A. lituratus individuals to determine whether loci were polymorphic. Twenty of these loci were arbitrarily selected for screening in three individuals from each of the remaining six related species (Tables 1 & 2). All microsatellite primers selected for genotyping used M13 universal primers (Schuelke 2000) and the same PCR conditions described earlier, with the addition of M13 fluorescently labelled universal primers (when applicable: either FAM, HEX or NED), and the following modification: Schuelke (2000) suggests that the reverse and universal M13 primers be used in equal proportions, while the forward primer with the M13 tail be used at a fourth of the volume of the other two primers (1:1:0.25). This suggestion was followed, and 0.25 lL of 20 lM forward and 1 lL each of 20 lM reverse primer and 20 lM M13 fluorescently labelled universal primers were used for all reactions. The addition of a M13 tail to the forward primer in a few cases resulted in loci no longer amplifying. PCR product was duplexed for genotyping in the case of A. lituratus (FAM ⁄ NED or FAM ⁄ HEX labelled primers genotyped together). Each sample was genotyped using a 3130XL Genetic Analyzer (Applied Biosystems) at the LSU Genomics Facility, with ROX 400 Ladder (Applied Biosystems). Allele sizes were determined in GeneMapper version 4.0 (Applied Biosystems).
+Results
+Primer development
+The sequencing of A. lituratus resulted in 115 417 777 bp of raw sequence data, of which 1.01 · 108 bp represented unique sequence: we found 255 065 unique reads of
+Ó 2011 Blackwell Publishing Ltd
+No. microsatellite loci tested
+
+MICROSATELLITE DEVELOPMENT FOR SEVEN BATS 907
+            Ó 2011 Blackwell Publishing Ltd
+Table 2 Screening microsatellite markers developed for Artibeus lituratus across six con-familial species, forward and reverse primer ID and sequence included
+Forward Primer
+Reverse Primer
+Alit Apla Cper (52) (20)
+Afim Apha (20) (20)
+Ehar Slil Cper (20) (20) (20)
+AL2_00090 AL2_00381 AL2_00491 AL2_00497 AL2_00735 AL2_00821 AL2_00827 AL2_01230 AL2_01366 AL2_01650 AL2_01742 AL2_01924 AL2_02087 AL2_03000 AL2_04186 AL2_04254 AL2_04728 AL2_05097 AL2_05216 AL2_05378 AL2_05478 AL2_05478 AL2_05700 AL2_06221 AL2_06788 AL2_07050 AL2_07816 AL2_07956 AL2_07965 AL2_08749 AL2_09089 AL2_09606 AL2_10036 AL2_10380 AL2_11228 AL2_11685 AL2_11749 AL2_11949
+ATGGTGGGGAATGCTAGAGG TCGTTGGGGTGTACAAGAAGC GAAGAGGAAATCCCACTCGG GCAAAGAGAACCTGAGTCCAGC CCAGGGATTCACCCTGTAGC CAGAGGCAGGTCAAAGGAGG CTGGGTAGTTGGTGGGATGG AATGCAAATCAAATGCAGCC AGGCAACTCTGCTCTGCTCC AAGCTCCTGGGACAGACAGC TGGCTGTGAGACACTCTCTATGC GGTGCTCTTACCTGTTCAACTGC TTGTCTACAAGGGTTCCGCC TACAAGGGTTTCCCACCACC TTGACAGACCTTCCCTCAGC TTACAGGCCTCTCTCTGGGC ATGAGGCCCACCATGTTAGC TAATCTGCACTGGGCCACC TGGCTGAAGGAACTACTTTCCC CCAGGTCAGCCAAGGTAACG AAGCTGAAAGAGGCATTCCG AAGCTGAAAGAGGCATTCCG CTTTCCTTCCACACCCAACC GGAACTCCACTTGGCTCTGG CTGATTGTTTCCCACCCACC TTTCCTCTCCTCTCAGGGTCC GCAGTGATTGTTTTGCTCGC GCATAAGTCCCCACAATGCC GCCTCTGCTAGAGTAATTTGTGTGG AGAAGCCAGCAGAGAAACGC TGAATATTTTGTGCCCATCCC TTTATCTTTCAGAAGGGGAAGGG ACCTCAGGACCTTCCACAGC TCAAGTCCAGGATTCCTCCC GGGTCAAGGGTAGGTCAAAGG TTAACGCTGAGCCACTTAGCC TGTGGTTCAGCACTAGCAGAGG GAGGCCACAGAAGCTGAAGG
+AL2_21775 AL2_19760 AL2_05715 AL2_09776 AL2_17854 AL2_06824 AL2_06380 AL2_24257 AL2_20377 AL2_19660 AL2_22924 AL2_13613 AL2_05111 AL2_12620 AL2_16337 AL2_05845 AL2_08259 AL2_10437 AL2_29438 AL2_13822 AL2_29864 AL2_10100 AL2_16761 AL2_03237 AL2_15200 AL2_29928 AL2_30227 AL2_13983 AL2_27704 AL2_01815 AL2_16695 AL2_04152 AL2_28085 AL2_33051 AL2_30611 AL2_14536 AL2_00704 AL2_13284
+GAAGAGCTGTGCCCTCTGC + + + + + + + AGGAACACCACTGGGAGACG + + + + + + + GCCGGCGTCTAGTTGTAACC + + + + + + + CACAGAGCAGATGGGAAAGG + + + + + + + GCCATATGCTTCTTGCTCCC + + + + + + + GATCCAGACCCTCAAGACGC + + + + + + + TTTGTTCTCCAGCCTTGTTCC + + + ) + + ) CTTAGCCCGAAACACCAAGG + + + + + + + CCTAGCTTTGACTGTTGGGAGG + ) + ) + + + TTGGTCTTCTGTGGGTGTGG + + + ) ) + + GCCTGCCATTGTCCTATTCC + + + + + + + TCTCCCTCGGTCTCTTCTGC + ) ) ) ) ) + TGCTGTCAGATCCTTCCTGC + ) + ) + + + CAGGTTAAGCACCCACATGC + + + + + + + TTTCGACAGAACCAGGAAGG + + ) ) ) + ) CAAGTCAGACATTTACACTGCCC + + + + + + + CCTTCTAACCCCACGTCACC + + + + + + + GCCATAGACCGAAAGGTTGC + + + + + ) + TGGGAGAAAGAGAGTTGGGC + + + + + ) ) GTGTCAGCCCCACAAGTGC + + + + ) + + GTATTCCGTGTCAGCCCACC + ) + ) + ) + GTGCCTCTGAGGAGGATGC + + + ) + + + ACATTTTGGCTTCAGCTGCC ) ) + ) + + + GAGGCTCATCAGTGTCCTGG + + + ) + + + TGGAAAAGCCAGGAGTAGCC + + + + + + + TGGTGTTGGTTACCGACTGG + ) + ) + + + TACCAGCTGTTCCTGGATGC ) + ) + + + + AGAGGCTTAGCGGTTCCTCC + + + + + + ) ACGGCAGGCTCTGTAAGTCC + + + + + + + GACAGTGACCAGAGGGGAGC + + + + + + + GGAGTGCACGAGAAGCAACC ) ) ) ) ) ) ) GAGGGAGGAAAAGTCCTGGC + + + ) + + + AGTCAGCCACTTGGACAGGG ) ) + ) ) + ) CCAACCTTAACTTTGTTCCAGC + + + ) ) ) ) CAGCAGCAATCCATAAACGG + + + ) + + + ACCAGAAGGGCATCCATCC + + + + ) + + GGTCCACAATGGAGGATAAGG + + + + + + +
+NT NT NT NT NT NT NT NT P P P P M NT P M P NT P NT NT NT P NT NT NT NT NT P P NT NT P NT P NT P NT P P NT NT NT NT P P NT NT NT NT NT NT NT NT NT NT NT NT M NT P F
+NT NT NT NT NT NT NT NT P P
+P P NT NT P F NT NT NT NT NT NT NT NT NT NT NT NT P M NT NT NT NT NT NT NT NT P P NT NT NT NT P MLP NT NT NT NT NT NT NT NT NT NT NT NT NT NT F F NT NT NT NT NT NT NT NT NT NT NT NT P P
+NT NT NT NT NT NT NT NT NT NT NT NT P P MLP P P P NT NT NT P P M NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT P P MLP NT NT NT NT NT NT NT NT NT NT NT NT P MLP M NT NT NT NT NT NT P P P NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT F F F NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT M F F
+Forward Primer Sequence
+Apha Ehar Slil
+Amplification test
+Polymorphism test
+Reverse Primer Sequence Alit Apla Afim AATGCTTTCGTCCCTCCC ) ) ) ) ) ) )
+F NT NT NT NT NT P NT NT NT NT NT P P
+
+908 E. S. McCULLOCH and R. D. STEVENS
+           Ó 2011 Blackwell Publishing Ltd
+Table 2 Continued
+Forward Primer
+Forward Primer Sequence
+Reverse Primer
+Reverse Primer Sequence
+Alit Apla
+Afim Apha
+Ehar Slil Cper
+Alit Apla Afim (52) (20) (20)
+Apha Ehar (20) (20)
+Slil Cper (20) (20)
+AL2_12214 AL2_13085 AL2_13186 AL2_13263 AL2_13578 AL2_14295 AL2_14802 AL2_14889 AL2_15220 AL2_16384 AL2_16820 AL2_17396 AL2_17817 AL2_17843 AL2_18500 AL2_18713 AL2_18855 AL2_19025 AL2_19504 AL2_19895 AL2_20130 AL2_20278 AL2_20293 AL2_20404 AL2_20868 AL2_21103 AL2_21280 AL2_21513 AL2_21652 AL2_21655 AL2_25023 AL2_25522 AL2_25600 AL2_25788 AL2_25886 AL2_26146 AL2_26200 AL2_26300
+TGAATTCTAAACACCTCAACTTGC CCTGAGAACCAAGGCACAGC CTTGGGCTACATCCCAAACC AAGCCTTCACCTCCCTCACC AGGCGGTCATGTAAGTTGGC GTTGAGATGCACGCAAGAGG TGCCTTTTCCTCATAAGGGC TGCTGCCTTACCAACACACC CATGGAAGCCTACTGAGCCC GGGCCAAATCCAATGAGTAGC TGGGACTCTGTGCTTCTTGG AGCTCTCCTCTGAGCCTTGC TTCCAGAGGGTCCCAGAGC GTTGGGGCACATACCAGACG GATTAGGAACAGGGGAGTGGG ATGCCCCATATCTCCACAGG CTCTTTCTCCTTCCCCACCC CACAGTGGGGCTACATCAGC TTCTTGTGTTCACATGGGGC CATCTGGTGGGGTTTTCAGC AGACACACTGAGAGCCACGC AGAAAGTCACTGCCCAAGCC CCAGTCAAGGTGTGAGCAGG GCGGTTGAAAGGAAGTAGAACG AAGTTCTGAGGGGACGTTGG TCACCAGAGGCAATCACAGC CTGAGGAGACTGGGACAGCC GAGAGTGGCACTTCGAGGG TCCAGAAAGTGGAAGAGGAAGG CTGAATGCAGGCAGATGAGG GTTGCAGGTTCAATCCTCCC GCTAGGTATGGGGCTGTATTCC AGCCTCCATTTGACTCCTGC CAAATTCCACCAGTTCTGCG CAGGTAAGAAGAGCCAGCAGC CACATGGTCGTAAACTAAAGGGG TGTCCACTAGCTTGGAAGGC ATTCGTGTGTGTGACCTGCC
+AL2_24834 AL2_11788 AL2_18327 AL2_28199 AL2_22124 AL2_27884 AL2_31579 AL2_16224 AL2_19616 AL2_12662 AL2_01767 AL2_16670 AL2_06744 AL2_14016 AL2_22716 AL2_18023 AL2_16158 AL2_08890 AL2_20320 AL2_07983 AL2_29013 AL2_31434 AL2_18937 AL2_06735 AL2_10444 AL2_09958 AL2_21430 AL2_07493 AL2_07154 AL2_25429 AL2_06886 AL2_16051 AL2_19865 AL2_03037 AL2_17525 AL2_24739 AL2_02384 AL2_04170
++ ) ) + + + + + + + + + + + + + + + + + + + + + + + + + ) ) + + + + + + + + + + + +
+P P P NT NT NT NT NT NT P P P P P P P NT NT NT NT NT NT NT NT P NT NT P P P NT NT NT NT NT NT P NT NT M NT NT NT NT NT P P P NT NT NT P NT NT NT NT NT MLP NT NT P NT NT P NT NT P P M P NT NT P NT NT M NT NT MLP NT NT NT NT NT NT NT NT NT NT NT P M P P M M NT NT NT NT NT NT P NT NT NT NT NT NT NT NT NT NT NT
+P F NT NT NT NT P P P P NT NT NT NT NT NT NT NT P P NT NT NT NT NT NT NT NT NT NT P P NT NT NT NT NT NT NT NT NT NT NT NT M M NT NT NT NT NT NT NT NT NT NT NT NT NT NT M P M P NT NT NT NT NT NT NT NT NT NT NT NT
+M M NT NT NT NT P F
+Amplification test
+Polymorphism test
+GATTTTGTGGAGTTGCTGGC
+CTCAGGGCCGTACTCAATCC
+TCACTGAGGCTGTGAGGAGG
+TGCCCAGTGTATGGGTAAGC
+CTCTACCTGCATGTGGGTGC
+TTTTCCAAGTTTCTCTCCATACAGG
+GGAATTGAACATTGCAGAATGG
+ACAGGGTGACCTTGGATTGG
+CAACTCTCCTGGAGTTGTGCC
+CCTGCCACTTGGTAGGTTGG
+GCAATGAAGGAGGTGAAGCC
+CCTAAGCAAGGCATTGACACC
+GCAAAAGAAACCCCACAAGC
+GGTGAAGGGGACTGAGGACC
+GCTTAAATTTGGGGTTCCTGG
+GATAACTGTTCAGGCCCAAGG
+TAGTTGATTGGCCTGTCCCC
+GAAATCTCAGTGCGCAGACG
+ATTGGCAGACAGCAAGGAGC
+ATGCGATGTCCACACTCACC
+AGGAGCTTGTCCAGAGGACG
+TCAGCACTGCTTTCTTTGCC
+TGGGATATGGGAAGTGAGGG
+CCTCTAGTCAGTCCCACCCC
+ACCCACCACAGCGGTATAGG
+TCTCACTACACGCGCTCACC
+GGTCACAGGAACACAGACCG
+GTTTAGCATGCCAAGGAGGC
+TCTGTCCTTGTCCGGTTTGG
+CTTTCTGCTGGCAGACTTGC
+CTCAACCCACTGAGCACACC
+CACCTTCTGGCCTCAATTCC
+TTCTCTTCCACTGGCCTTCG
+TTTGCTTGTGGGAAATGTGG
+GGCTTGGCAAAGGTAGTTGC
+AAGGCTCCCTCTTCCTGACC
+TGGTTCCATTCTCAGTCAGGG + + + + + + + GACAGCTGGTGAATGCATGG + + + ) + + )
++ +
++ +
++ +
++ +
++ +
++ +
++ +
++ )
++ +
++ +
++ +
++ +
++ +
++ +
++ + ) + + + + + + + +++++ + + + + + + ) + + ) + + ) + + + + + + + + + + + + + ) + + + + + + + + + + + ) + + + + ) + + + + + ) + + + + +
++ +
++ +
++ )
++ +
++ +
++ +
++ +
++ +
++ +
++ +
++ +
++ +
++ +
++ +
++ +
++ +
+++
++ +
++ )
++ +
++ +
++ +
++ +
++ +
++ +
++ +
++ +
++ + +))))+) + + + + + + + + + + + + + + + + + + + + + + + + ) + + ) + + + ) + ) ) + + + + + + + ))))))+
+P M NT NT NT NT NT NT NT NT F F NT NT NT NT NT NT NT NT NT NT P P NT NT NT NT NT NT NT NT NT NT NT NT M M NT NT NT NT NT NT NT NT NT NT NT NT NT NT M M P P NT NT NT NT NT NT NT NT NT NT NT NT
+
+MICROSATELLITE DEVELOPMENT FOR SEVEN BATS 909
+      Ó 2011 Blackwell Publishing Ltd
+Table 2 Continued
+Forward Primer
+Forward Primer Sequence
+Reverse Primer
+Reverse Primer Sequence
+Alit Apla
+Afim Apha Ehar Slil Cper
+Alit Apla (52) (20)
+Afim Apha (20) (20)
+Ehar Slil Cper (20) (20) (20)
+AL2_26550 AL2_26725 AL2_27432 AL2_27850 AL2_28166 AL2_28335 AL2_28502 AL2_28575 AL2_28600 AL2_28800 AL2_28805 AL2_28856 AL2_29159 AL2_29507 AL2_29909 AL2_30236 AL2_32006 AL2_32411 AL2_32736 AL2_32886
+GCAATGTGCAGTTCGAGTCC CTCACGATTGAACGCAAAGC AGAATTAGGATTCGAGCTAGGG TCCACAGCTAAGGGACTAACCC CTGAGATGCAACCATGTCCC GGGTGACTTCACGTTTCAGC ATCCAACCTCACCTCCTTGC AGACAGGGATCTGGAGAATGC CTTCTCTGAATCAACTGCCAGC GCTATTCCTGGCCATGTACC CCTGATGGACAACACATGCC TCCAACCTATTGAGCCACCC TCACATACCCAGGTTGCAGG GCTGGGACAGTTCAGGTTCC TGATTTCTTGTGGAGAGCCG CTTACCACTGTGTGGCCTCG CGGTTTCTGGGCATTAGAGG TATTTGTGCATCCCAGGACC GGGAAATAGACCAAATGTAATGGC ACAGGTCTACAGGGCAACGC
+CTTTACCTGGCCTGACCTCG TCCTGGGTTACTGTCTGGGG TGTGGTCCAAACTCTACCCC TGGCCTTTCAATTACACCCC GCCAAAAGTAGGACGTTACAGG TTTGGTAAATAGGGTCTTTGGG TTTTGCCAATTTCTTATTATCCTGC GTTTAGAAGGGGAGGTGGGC GCAGTAAGCATTTGCTGCCC AACTGTATGGTACCAAAATGTATGC AGTTCGTCCACGTCCTCTGC TCTTCTAGGAGCCTGAGCCC TCAAGATCAGCACATTCCCC TTTGGACAGCAAACCACTCG AAGCCCAGGAGAGACAGCC GGACCTCAATCCACTGAGCC AAGAGCCAGCTTTGCTTTCG TCGATTCAGGGTGAGTCAGG GGTGTGTAGGCTTGTGGACG GTCCACAGCAGGTAGAGGGG
+++
++ +
++)
+++ ++))))+ + + + + ) ) + +++++)+ + + + + + + + + + + + + + + +++++++ ++++++) +++++++ +++)++) + + + + + + + +++)+++ +++++++ + + + + + ) ) +)))++) +++++++ + + + + + + +
+AL2_20318 AL2_03049 AL2_02989 AL2_25954 AL2_11739 AL2_01489 AL2_12976 AL2_12779 AL2_17977 AL2_09002 AL2_02065 AL2_22791 AL2_24945 AL2_02049 AL2_32895 AL2_03193 AL2_18579 AL2_12706 AL2_12812 AL2_21299
++)++) + + ) + + ++))+ +++++
+P NT P P NT NT P P NT NT P NT P NT NT NT P NT P NT P NT NT NT P NT P P NT NT P NT P P NT NT NT NT P NT
+NT NT P MLP NT NT P P NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT P P NT NT NT NT P P NT NT NT NT NT NT
+NT NT NT P MLP P NT NT NT P M MLP NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT NT P P M NT NT NT NT NT NT P MLP MLP NT NT NT NT NT NT NT NT NT
+Primer IDs correspond to identification used in Appendix S2 (Supporting information). Amplification tested for 1 individual. Number in parentheses indicates number of individuals genotyped in test for polymorphism. Species abbreviations: A. lituratus ‘Alit’, A. planirostris ‘Apla’, A. fimbriatus ‘Afim’, A. phaeotis ‘Apha’, Enchisthenes hartii ‘Ehar’, Sturnira lilium ‘Slil’, and Carollia perspicillata ‘Cper’.
+‘+’ product, ‘)’ no product; ‘P’ polymorphic, ‘M’ monomorphic, ‘NT’ not tested, ‘F’ failed to amplify ⁄ peaks too small, ‘MLP’ multiple peaks, or large amount of stutter around peak.
+Amplification test
+Polymorphism test
+
+910 E. S. McCULLOCH and R. D. STEVENS
+295 660 total reads, and an average read length of 397 bp (maximum: 768 bp, minimum: 40 bp) (Appendix S1, Supporting information). Microsatellite loci were found in 30 100 (􏰀10%) reads, of which 2946 were compound and 751 were broken. The numbers of reads containing loci of each repeat motif size were as follows: 7500 di-nucleotide, 4470 tri-nucleotide, 17 751 tetra-nucleotide, 2569 penta-nucleotide, and 955 hexa-nucleotide; 19 395 reads had suitable flanking regions for designing primers (Appendix S2, Supporting information). Included in the Appendix is a table with information on every microsatellite locus for which forward and reverse priming sites could be developed (Appendix S2, Supporting information). Also included is a file containing the entire sequence database obtained from the 454 run (Appendix S1, Supporting information); each read is tagged with the same unique sequence identifier referred to in the table of microsatellite loci for which primers were developed (Appendix S2, Supporting information).
+Testing primers across species
+The majority of the 96 microsatellite loci for which primers were ordered amplified in all species, and there were no strong differences in amplification success for different repeat motif types (di-, tri-, etc.). The percent of the 96 loci for which there was visible product for each species is as follows: A. lituratus (93.8%), A. planirostris (84.4%), A. fimbriatus (90.6%), A. phaeotis (68.8%), E. hartii (82.3%), S. lilium (81.3%) and C. perspicillata (78.1%) (Fig. 1B). There is a trend towards decreasing PCR product with increasing genetic distance from A. lituratus, with the exceptions of A. fimbriatus and A. phaeotis. A. fimbriatus is more distantly related to A. lituratus than is A. planirostris (Redondo et al. 2008), yet it shows the most similar pattern of microsatellite amplification (Fig. 1B,C). Moreover, when common amplification status (product, no product) is accounted for in a Ward’s hierarchical clustering analysis based on Euclidean distances, A. fimbriatus and A. lituratus form a group with statistical significance (P-value < 0.05), but the other species clusters are not as well-supported (Fig. 2). The other and more unexpected outlier is A. phaeotis, which despite being in the same genus shows the fewest amplifying loci.
+Selections of microsatellite loci were further screened for polymorphisms in either three or four individuals each: four A. lituratus individuals were genotyped for 52 microsatellite loci, and three individuals per species for the other six species were genotyped at 20 loci each (Fig. 1A). We characterized the number of loci that contained polymorphisms, although not the number of alleles found for each loci. We found evidence for multiple alleles in 86.5% of the loci tested for A. lituratus and 85% of loci tested for A. fimbriatus. A. planirostris and
+E. hartii also exhibited polymorphisms at many loci (80%, for both: Fig. 1A). We found polymorphisms in only 60% of the loci genotyped for A. phaeotis and in 50% of those genotyped for S. lilium. C. perspicillata, the most distantly related species represented here, was polymorphic at only 25% of the loci tested. C. perspicillata also had many monomorphic loci (35% of the 20 loci tested), followed by S. lilium (20%) and A. phaeotis (20%). The remaining species had fewer apparently monomorphic loci (A. planirostris: 15%, A. fimbriatus: 10%, E. hartii: 10%), particularly A. lituratus (7.7%). Among the loci that were genotyped, C. perspicillata also had the most loci which failed to amplify (20%). There were progressively fewer such failures as we moved from species distantly related to A. lituratus to those more closely related to A. lituratus: S. lilium (15% failure rate), E. hartii (10%), A. phaeotis (10%), A. fimbriatus (5%), A. planirostris (5%) and A. lituratus (1.9%). A small number of failures was expected, even though we were genotyping loci that previously successfully amplified, because of the addition of an M13 tail to the forward primer. Only four species had loci that, while clearly polymorphic, also had either pervasive stutter (PCR induced artifacts, potentially correctable downstream with programs like Micro-Checker: Van Oosterhout et al. 2004) around the allele or had multiple (>2) peaks for a single individual (non-specific amplification): A. lituratus (3.8% of 52 loci tested), A. phaeotis (10% of 20 loci), S. lilium (15% of 20 loci) and C. perspicillata
+  76
+81
+Ward’s Hierarchical Clustering Analysis run to determine similarity between seven species based on tests for amplification. AU (approximately unbiased) P-values (%) are given above each cluster and were computed by 10 000 bootstrap re-sampling runs. Clustering performed in R with the ‘pvclust’ function (Suzuki & Shimodaira 2009) using Euclidean distances. Artibeus lituratus and A. fimbriatus cluster together with statistical significance.
+Fig. 2
+84
+88
+* 95
+Ó 2011 Blackwell Publishing Ltd
+Artibeus fimbriatus
+Artibeus lituratus
+Artibeus phaeotis
+Carollia perspicillata
+Enchisthenes hartii
+Artibeus planirostris
+Sturnira lilium
+
+(20% of 20 loci). Microsatellites falling into this category would be unsuitable for use unless the amplification specificity was improved.
+Discussion
+Detection of large numbers of microsatellite loci using second-generation sequencing is now not only rapid, but also cost-and time-effective and becoming more so. We were able to develop primers for 19 395 loci, of which 2539 met the following criteria, namely that the forward and reverse primers occur only once (and together) in all reads, and that loci must contain at least six tandem repeat units. Given our laboratory facilities, we were able to do so in <2 weeks (not including wait time for the 454 sequencing). The gDNA used here represented a random sampling of the A. lituratus genome, and subsequent selection of loci using Primer_Designer was unbiased and included all possible repeat motifs from di-nucleotide (four possible unique combinations: AT, CG, AC, TC) through hexa-nucleotide (350 unique combinations). While ascertainment bias is avoided in the initial development of loci, our choice of longer microsatellites (>50 bp) for downstream testing could result in preferential selection for highly polymorphic microsatellites, if longer microsatellites have higher mutation rates (Ellegren 2004). Loci for which we ordered primers amplified very well for all seven species we tested, with no necessary troubleshooting to determine the optimal thermocycler and PCR conditions for any particular marker. It is worth noting that although the step-down thermocycler profile (dropping through a 10-degree range of annealing temperatures) we used is appropriate for simultaneously testing a selection of primers with different annealing temperatures, it probably influenced primer site binding specificity and amplification success. Because there was little need to troubleshoot, testing seven species for amplification (96 loci) and polymorphism (52 or 20 loci) took <10 days, including time for DNA extractions. Importantly, this was accomplished using bats, whose genomes are considered to be relatively deficient in microsatellites (Van den Bussche et al. 1995).
+It was surprising that microsatellite loci developed for A. lituratus amplified so successfully across species not only within the same genus, but also within the same subfamily and family. Results of other studies led us to expect >50% amplification success: for example, Ortega et al. (2002) screened for cross-species amplification of A. jamaicensis microsatellite loci in C. perspicillata and found that nine of fourteen loci amplified (64%), although only one of those was polymorphic (7%). We found that C. perspicillata, the most distantly related of the species we tested, showed an almost 80% amplification success rate. When testing for polymorphisms, the results were
+less pronounced but still promising, with most species tested being polymorphic for 80% or more of the loci tested. Even S. lilium, a distantly related genus within the same subfamily as A. lituratus, was polymorphic for half of the loci tested. C. persicillata showed the poorest success in general, yet even it was polymorphic for 25% of markers tested. Given that 2539 loci of the >19 000 for which we developed primers met our conservative criteria – and if we assume rates of amplification and polymorphism seen in tested loci are representative – then we could expect almost 2000 microsatellite loci out of the published data set to amplify for C. perspicillata and nearly 500 of those to be polymorphic. It should also be noted that the estimates of polymorphism reported here are probably conservative: four individuals were tested for A. lituratus, and only three for the other species. As a result, only the most variable markers would have been detected as polymorphic. Nevertheless, even testing only one set of PCR conditions (albeit with a ‘step-down’ thermocycler protocol) for only 96 of the microsatellite loci reported here, we could have obtained roughly nineteen polymorphic microsatellite markers for the most distantly related species tested (C. perspicillata) and many more for the others. It is worth mentioning that in our tests of cross-species amplification, we did not sequence loci in order to confirm the purity and repeat unit of the product being amplified. However, when genotyping, we found alleles were very similar in size to what we expected based on sequence data from A. lituratus.
+We also found that A. phaeotis was a strong outlier in our analyses. It showed the lowest rate of successful amplification of all species tested, including species with much greater divergence times from A. lituratus (Fig. 1C), and the number of polymorphic loci was low, although A. phaeotis had more polymorphic loci than did C. perspicillata or S. lilium. We initially considered that this might have been because of the quality or quantity of gDNA; however, species with both lower quantities and quality of gDNA (A. planirostris) showed no apparent problems with amplification. Furthermore, the amounts of gDNA used should have been more than sufficient for successful amplification and genotyping (Table 1). It is possible that this species has undergone either rapid evolution in or loss of sequence regions or priming sites. More investigation would be needed to determine why relatively few loci amplified successfully or were polymorphic when genotyped in A. phaeotis.
+An unexpected result was the presence of more than double the number of tetra-nucleotide repeats as compared to di-nucleotide repeats present in our sequence data. Castoe et al. (2010) found similar results with the copperhead snake, Agkistrodon contortrix. We do not have an explanation for this finding, though it would be interesting to investigate why some repeat motifs are more
+Ó 2011 Blackwell Publishing Ltd
+MICROSATELLITE DEVELOPMENT FOR SEVEN BATS 911
+
+912 E. S. McCULLOCH and R. D. STEVENS
+common than others, and whether those trends differ among groups of species.
+The methods for developing microsatellite markers described in this and other recent papers are increasingly useful in answering a wide range of questions for nonmodel organisms. For example, Abdelkrim et al. (2009) successfully developed microsatellite loci for New Zealand’s endangered blue duck (Hymenolaimus malacorhynchos), a species of particular interest in conservation research because it had undergone recent reductions in range, population size, and possibly genetic diversity as a result of habitat destruction. Since Abdelkrim et al. published in 2009, sequencing technology and bioinformatics readily available to researchers have continued to improve, making it possible to develop many more markers (Castoe et al. 2010) even for species known only from fossils (Allentoft et al. 2009). Our focal species, A. lituratus, is a widespread species distributed from southern Mexico to northern Argentina; the markers we develop here will be used to investigate determinants of population genetic structure in regions where relatively recent habitat destruction has resulted in highly fragmented landscapes. These studies provide examples of developing microsatellites with high-throughput methodologies, as well as some possible uses for resultant loci, which can range from investigating extinct species and taxa of conservation interest, to asking questions more traditional to population or landscape genetics.
+The approach illustrated here is not only efficient for producing an abundance of markers for the focal species, but also was reasonably successful at obtaining markers for many related species. Testing a panel of markers across related species also permits selecting markers that have priming sites conserved across a panel of focal species, therefore facilitating the study of multiple related species with one set of markers. In addition, a great deal more can be done with the microsatellite loci and primers published here, both in terms of developing these markers across additional species and in terms of screening more markers within species.
+Acknowledgements
+The Louisiana State University (LSU) Board of Regents Fellowship, LSU BioGrads, the American Society of Mammalogists Grants-in-Aid of Research and the Louisiana Environmental Education grant funded ESM. RDS was funded by the NSF (DEB-1020890) and the Louisiana Board of Regents (LEQSF2006-09). We acknowledge the LSU Museum of Natural Sciences for specimens used in this study, with special thanks to Donna Dittman, Robb T. Brumfield and Mark S. Hafner. We thank Andrew Whitehead (AW) for use of key laboratory facilities, Christopher Faulk for advice with PERL, Scott Herke for use of genotyping facilities and J. Sebastia ́n Tello, Reid Brennan and AW for helpful commentary on this manuscript. We also give
+special thanks to people with whom we worked in Paraguay: Mario Maldonado, Claudia Mar ́ıa Jose ́ Rolon Mendoza, Mirtha Ruiz D ́ıaz, Pastor Emmanuel Pe ́rez, Julio Torres, Noe de la Sancha, Lourdes Valdez, Flavia Netto, Mar ́ıa Luisa Ortiz Fleitas and many others, including park guards. In addition, we are grateful to private landowners and NGOs, especially the Fundacio ́n Moise ́s Bertoni Guyra Paraguay and Red Paraguaya de Conservacio ́n Ambiental en Tierras Privadas, as well as Freddy Bauer and the staff of Vida Silvestre in the Secretaria del Ambiente (SEAM) de Paraguay who gave us collecting permits for Paraguay. We also express our thanks to four anonymous reviewers whose commentary helped us improve our manuscript.
+References
+Ó 2011 Blackwell Publishing Ltd

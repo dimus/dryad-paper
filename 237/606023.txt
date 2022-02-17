@@ -1,0 +1,295 @@
+   Mammalian Metabolic Allometry: Do Intraspecific Variation, Phylogeny, and Regression Models Matter?
+Author(s): Annette E. Sieg, Michael P. O’Connor, James N. McNair, Bruce W. Grant, Salvatore J. Agosta, and Arthur E. Dunham
+Reviewed work(s):
+Source: The American Naturalist, Vol. 174, No. 5 (November 2009), pp. 720-733 Published by: The University of Chicago Press for The American Society of Naturalists Stable URL: http://www.jstor.org/stable/10.1086/606023 .
+Accessed: 11/06/2012 16:24
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at . http://www.jstor.org/page/info/about/policies/terms.jsp
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+        http://www.jstor.org
+The University of Chicago Press and The American Society of Naturalists are collaborating with JSTOR to digitize, preserve and extend access to The American Naturalist.
+
+ vol. 174, no. 5 the american naturalist november 2009 􏺣
+ Mammalian Metabolic Allometry: Do Intraspecific Variation, Phylogeny, and Regression Models Matter?
+Annette E. Sieg,1,* Michael P. O’Connor,1 James N. McNair,2 Bruce W. Grant,3 Salvatore J. Agosta,4 and Arthur E. Dunham5
+1. Department of Biology, Drexel University, Philadelphia, Pennsylvania 19104; 2. Annis Water Resources Institute, Grand Valley State University, Muskegon, Michigan 49441; 3. Department of Biology, Widener University, Chester, Pennsylvania 19013; 4. Department of Ecology and Evolutionary Biology, University of Toronto, Toronto, Ontario M5S 3G5, Canada; 5. Department of Biology, University of Pennsylvania, Philadelphia, Pennsylvania 19103
+Submitted April 3, 2009; Accepted July 17, 2009; Electronically published October 2, 2009 Online enhancements: figures. Dryad data: http://hdl.handle.net/10255/dryad.713
+ abstract: Power scaling relationships between body mass and organismal traits are fundamental to biology. Compilations of mammalian masses and basal metabolic rates date back over a century and are used both to support and to assail the universal quarterpower scaling invoked by the metabolic theory of ecology. However, the slope of this interspecific allometry is typically estimated without accounting for intraspecific variation in body mass or phylogenetic constraints on metabolism. We returned to the original literature and culled nearly all unique measurements of body mass and basal metabolism for 695 mammal species and (1) phylogenetically corrected the data using the fullest available phylogeny, (2) applied several different regression analyses, (3) resampled regressions by drawing randomly selected species from each of the polytomies in the phylogenetic hypothesis at each iteration, and (4) ran these same analyses independently on separate clades. Overall, 95% confidence intervals of slope estimates frequently did not include 0.75, and clade-specific slopes varied from 0.5 to 0.85, depending on the clade and regression model. Our approach reveals that the choice of analytical model has a systematic influence on the estimated allometry, but irrespective of the model applied, we find little support for a universal metabolic rate–body mass scaling relationship.
+Keywords: allometry, body size, mammal, metabolic rate, phylogeny, regression.
+.
+ well correlated with direct calorimetry. Since that time, empirical scaling relationships between mass, metabolism, and numerous other traits have been demonstrated (Peters 1983; Calder 1984; Schmidt-Nielsen 1984), but a tenable mechanistic explanation for these patterns continues to elude us.
+The study of allometry has been reinvigorated by the lively debate surrounding the metabolic theory of ecology (MTE; West et al. 1997; Brown et al. 2004; Clarke 2004; Cyr and Walker 2004; Kozlowski and Konarzewski 2004). Briefly, the MTE posits that minimization of transport costs of metabolites in the quasi-fractal distribution networks that supply metabolically active tissues requires a scaling exponent of 3/4 for metabolism, which, in turn, requires the scaling of various other traits to be multiples of 1/4 (West et al. 1997, 1999; Brown et al. 2004). The MTE’s putative mechanism has been rebutted on theoretical (Dodds et al. 2001; Chaui-Berlinck 2006; Painter et al. 2006; Apol et al. 2008) and functional (reviewed in O’Connor et al. 2007b) grounds, and the existence of a single explanatory mechanism for allometry is generally considered implausible (Dodds et al. 2001; Cyr and Walker 2004; O’Connor et al. 2007b). The generality of the MTE has also been pared down by findings that allometric exponents across the major kingdoms of life broadly diverge from universal quarter-power (or even third-power) scaling (Bokma 2004; Makarieva et al. 2005, 2008; Reich et al. 2006; Downs et al. 2008). As a result, the empirical foundation on which the MTE now rests is restricted to the allometry for which its proposed mechanism was primarily designed in the first place: the relationship between body mass and basal metabolism in vertebrates.
+Publication of large-scale meta-analyses of metabolic allometry data has risen sharply in recent years (reviewed in White et al. 2007), just as publication of new measurements on mammal species has fallen to pre-1960 levels
+ Introduction
+Allometric relationships between body mass and a great variety of organismal traits take the form of power functions. Rubner’s (1883, 1894) empirical work more than a century ago effectively launched the field of allometry, with the discoveries that metabolic rates scale nonisometrically with body mass in dogs and that indirect calorimetry is
+   * Corresponding author; e-mail: aes48@drexel.edu.
+Am. Nat. 2009. Vol. 174, pp. 720–733. 􏱞 2009 by The University of Chicago. 0003-0147/2009/17405-51190$15.00. All rights reserved.
+DOI: 10.1086/606023
+ 
+ Mammalian Metabolic Allometry Analysis 721
+ and sobering declines in mammal species have come to light (Schipper et al. 2008). The mammalian metabolic allometry data, in particular, have been the subject of extensive reanalysis (reviewed in Dodds et al. 2001; White and Seymour 2003; Savage et al. 2004). Issues that remain largely unresolved in these analyses include how well the metabolic data satisfy the strict definition of basal metabolism, which regression model is appropriate, and whether the data should be corrected for phylogenetic relatedness (Glazier 2005).
+Numerous studies have excluded measurements on all animals with ruminant digestive systems on the grounds that they fail to satisfy the definition of basal metabolic rate (BMR; White and Seymour 2003, 2004, 2005; White et al. 2006). It has also been argued, however, that most resting metabolic rate measurements should be included, provided that the animal regulates its body temperature (McNab 1997). With regard to statistical methodology, allometry data are usually analyzed with ordinary least squares (OLS) regression, despite clear violations of the statistical assumptions of that technique and the fact that several other, more appropriate techniques are available. Use of OLS regression is usually justified by an assertion that variation in the quantity treated as a dependent variable (e.g., BMR) is much greater than that in the quantity treated as an independent variable (e.g., body mass) and/ or that the regression r2 is high enough (10.9) that use of an alternative regression model that properly accounts for variation in both quantities is unwarranted (Enquist et al. 2003; Savage et al. 2004; Makarieva et al. 2005, 2008; Moses et al. 2008). However, rarely is either assertion supported with compelling evidence. Moreover, McNab (1988) has pointed out that r2 is a biased estimate of the overall fit of the regression because it is positively correlated with the range in BMR and body mass. Finally, with regard to statistical problems created by phylogenetic relatedness, many studies have found that phylogenetic correction does not significantly change the value of the estimated slope (reviewed in Glazier 2005). However, Duncan et al. (2007) and Clarke and Rothery (2008) have recently found a significant phylogenetic signal in mammalian allometric data with significant differences in scaling at the ordinal level.
+The purpose of this article is to address these three unresolved issues by assembling an updated mammalian metabolic allometry data set that includes original measures of variation. Using information in this new data set, we address how well the data satisfy the strict definition of BMR, the appropriateness and utility of several different regression models, and the need for phylogenetic correction. We hope to encourage more careful consideration of analytical techniques applied to allometry data and to highlight the need for new measurements of metabolic rates for additional mammalian species.
+ Material and Methods
+Data Set
+The relationship between body mass (m) and wholeorganism metabolic rate (MR) is generally assumed to take the form of a power function,
+MR p a 7 mb (1)
+(reviewed in LaBarbera 1989), in which scaling is determined jointly by the coefficient a and mass exponent b. For statistical analysis and visual comparison with data, it is traditional to log transform the nonlinear equation (1) to the linear equation,
+log (MR) p log (a) 􏱘 b 7 log (m). (2)
+Here, log(MR) is a linear function of log(m), and the two parameters are the slope b and the intercept log(a).
+Two important factors are often overlooked in studies of physiological allometry when fitting equation (2) to data. First, the purpose of the analysis is to estimate parameters for the theoretical relationship between the true values of log(m) and log(MR), not to predict the true value of log(MR), given an observed value of log(m). Second, parameter estimation is being performed on the basis of observed values of log(m) and log(MR), both of which are random variables subject to both measurement error and intrinsic variation. These factors are important because ignoring either can lead to biased estimates of the slope. Specifically, ignoring the error in log(m) causes systematic underestimation of the slope (LaBarbera 1989; except when the purpose of the analysis is to predict the true value of log(MR), given an observed value of log(m); Draper and Smith 1998). Special cases defined by the ratio of error variances of log(MR) and log(m) are also known where this bias will be negligible (e.g., Draper and Smith 1998). Thus, the validity of regression techniques commonly applied to metabolic allometry data rests on implicit assumptions about relative error variances. Yet previous compilations of data do not include information required for calculating these variances (Lovegrove 2000, 2003; White and Seymour 2003; Savage et al. 2004). One of our objectives in building the new data set was to include this information.
+We obtained original articles cited in the compilations of Lovegrove (2000, 2003), White and Seymour (2003), Savage et al. (2004), and Mun ̃oz-Garcia and Williams (2005)—which are themselves to varying degrees based on other compilations (Hart 1971; Hayssen and Lacy 1985; Elgar and Harvey 1987; Geiser 1988; McNab 1988; Heusner 1991)—and performed literature searches for new articles since 2004. We thereby obtained nearly all unique
+ 
+ 722 The American Naturalist
+ measurements for 695 mammalian species. Measurements that were reported in the text of an original article as a mean with some stated measure of variation (standard deviation, standard error, confidence interval, or range) were taken directly from the text. If raw data were presented in a published figure, we extracted the values using Matlab routine digitize2.m (available from http://www .mathworks.com). Using multiple extractions of sample figures by different investigators, we estimated that error in these extracted values was approximately 5%.
+We standardized the measures of variation to standard deviations and converted all units for mass to grams and, for metabolic rates, to milliliters of oxygen consumption per hour. For conversions requiring a respiratory quotient, that value was taken directly from the article if available or assumed to be 0.8 otherwise. In a few articles, ranges had to be transformed into standard deviations by applying a correction based on a Monte Carlo simulated relationship between sample size, range, and standard deviation. We discarded reports of standard deviations if they were based on multiple measurements of only one individual. For species for which we had multiple articles or multiple sets of measurements (e.g., in different years), we calculated an overall mean body mass and BMR weighted by sample size.
+The extracted data satisfied the strict definition of basal metabolism to varying degrees. The most common violations were with respect to absorptive state and consciousness. These types of violations were often hard to identify with certainty, and questionable data were therefore left in the data set, with comments about suspected problems. Likewise, animals that had been captive bred, had been long-term acclimated to laboratory conditions, or had had recent minor surgery performed (e.g., insertion of a probe) were also left in the data set. However, animals in torpor, juveniles, reproductive females, obviously active animals (e.g., exercising), or nonnormothermic animals were discarded from the extracted data set. The species, genus, family, and order identifications were corrected to reflect their listing in the third edition of Mammal Species of the World (Wilson and Reeder 2005). Finally, body temperature data from White and Seymour (2003), supplemented with body temperature data extracted from the original literature, were also included in the data set. Our complete data set on 695 species with references and comments are available in Dryad (http://hdl.handle.net/10255/ dryad.713).
+We log10 transformed our data before regression analysis in all cases, except where body temperature was included as a predictor variable. In that case, a loge transformation was applied to mass, resting metabolic rate (MR), and body temperature (which was also inverse transformed) because of the Boltzmann factor in the Arrhenius equation relating
+ body temperature to MR (Gillooly et al. 2001; Downs et al. 2008). These transformations yielded a linear allometric relationship of the form
+log10 (MR) p a 􏱘 b 7 log10 (m), (3) with slope b and intercept a estimated using generalized
+linear models.
+Mammal Phylogeny
+Quantitative assessment of relationships between traits in comparative studies is often confounded by phylogenetic influences on those traits. Phylogenetic autocorrelation violates statistical assumptions of independence, artificially inflates degrees of freedom, and can lead to erroneous findings of functional relationships as a result of constraints on trait values due to evolutionary history (Felsenstein 1985; Harvey and Pagel 1991; O’Connor et al. 2007a). The fullest available mammalian phylogeny (Bininda-Emonds et al. 2007) bases its taxonomy on Mammal Species of the World (second edition). For the phylogenetic correction, we matched 628 of the species in our data set directly (there were a few misspellings), identified 57 synonyms, and had to leave out two species, Grant’s golden mole (Eremitalpa granti) and Abert’s squirrel (Sciurus aberti), because a synonym could not be identified. There were also seven terminal taxa in Bininda-Emonds et al. (2007), each of which is now recognized as two or more separate species for which there are measurements in the data set. If the original species was retained in the new edition, measurements for just that species were included, and the “daughter” species was discarded. In one case, the Hamadryas baboon (Papio hamadryas), the original species was not retained, and we instead used the daughter species with the best available data, the Chacma baboon (Papio ursinus), based on the sample size for the measurements. This resulted in a grand total of 685 included species.
+Statistical Analysis
+Regression analysis of the allometric relationship requires assumptions about the trait variation (measurement error and random variation) in m and MR. OLS regression assumes that log(m) is an independent variable whose values are known without error (Sokal and Rohlf 1995). Reduced major axis (RMA) regression assumes that the ratio of error variance and intrinsic variation in log(m) and log(MR) equals a constant (LaBarbera 1989) and minimizes the distance of each point perpendicular to the fitted regression line. An orthogonal regression technique, least squares variance–oriented residuals (LSVOR), weights the
+ 
+ Mammalian Metabolic Allometry Analysis 723
+ importance of variance in m and MR by their relative magnitudes and does not require residuals to be normal to the regression line (O’Connor et al. 2007a).
+In order to compare the effects of the type of regression analysis on estimates of the slope, we performed OLS, RMA, and LSVOR on each subset of our data. LSVOR requires the specification of an overall variance ratio (v; O’Connor et al. 2007a), which we determined for each species (p) using the ratio of the squared coefficients of variation for resting metabolic rates (y) and body masses (x):
+2
+vcv p( ). (4)
+jy7p /my7p jx7p /mx7p
+ This largely removed the confounding effects of cor-
+relation with mass in both variables, although vcv was still
+weakly but significantly correlated with mass (fig. 1, top;
+R2 p 0.029, F p 15.587, P ! .01). The relative fre1, 521
+quency distribution of vcv was centered at about 1.0, with 95% confidence intervals extending from approximately 0.3 to 3.0 (fig. 1, bottom). We therefore applied LSVOR with these three variance ratios (i.e., 0.3, 1.0, and 3.0) in addition to conventional OLS and RMA regressions. We bootstrapped our regressions on native data 2,000 times and present mean parameter estimates for scaling relationships with 95% confidence intervals.
+We used Felsenstein’s method of creating phylogenetically independent contrasts (PICs) with hypothetical reconstructed ancestors, untransformed branch lengths, and a Brownian motion process of evolution (Felsenstein 1985). Because the mammal phylogeny is less than 50% resolved at the species level (Bininda-Emonds et al. 2007), we took a resampling approach to deal with polytomies. We constructed PICs using a randomly selected representative from each of the polytomies (see fig. 2). We resampled the tree selections 50,000 times, and at each iteration (1) we selected a full complement of representatives from each of the polytomies as well as from all of the species from fully resolved taxa, (2) we constructed PICs based on that tree, (3) we performed regression analyses on those PICs, and (4) we bootstrapped the regressions 2,000 times. The results of a previous attempt to resolve the large polytomy within the rodents by inserting a more fully resolved phylogeny from Steppan et al. (2004) into the Bininda-Emonds et al. (2007) supertree and proceeding with PIC construction did not significantly differ from the results obtained by random selection of taxa within polytomies (data not shown).
+We also used the method of phylogenetic generalized least squares (PGLS) regression to estimate the parameters of the allometric scaling relationship (Grafen 1989). The
+ variance-covariance matrix was determined by the length of the shared portion of the phylogenetic tree between two species (i.e., covariance for pairs of species) and the length of the total path through the phylogenetic tree from root to tip for each species (i.e., specific variance; Grafen 1989). This method ends up being equivalent to constructing PICs from the full phylogeny (Rohlf 2001). The covariance matrix was computed using standard equations (Garland and Ives 2000), assuming Brownian motion evolution and scaling branch lengths within the variance-covariance matrix by the standard deviation, or the square root of the sum of the branch lengths for each paired species (Garland et al. 1999; Garland and Ives 2000). We used PGLS to fit scaling exponents and intercepts to our allometric relationships.
+Finally, we applied these same analyses to allometry data separated by clade. Clades were chosen as separated regions (i.e., subtrees) of the full mammalian tree that altogether spanned a majority of the full tree (190%), were regions with a single common ancestor, and that did not exclude any measured taxonomic groups descending from that common ancestor. Only the most populated clades (in terms of species measured) were analyzed: rodents, chiropterans, primates, marsupials, soricids, and carnivores/ungulates/pangolins (Fereuungulata; Waddell et al. 1999; Springer et al. 2005). We first tested for homogeneity of clade-specific intercepts and slopes using an ANCOVA. We then resampled OLS, RMA, and LSVOR regressions performed on native data and PICs in each of the separate clades, and we compared the cumulative frequency distributions of the slope estimates using the KolmogorovSmirnov test. We also performed PGLS on the cladespecific data.
+Computations
+All of our analyses were performed in Matlab 7.0 (release 14; MathWorks, Natick, MA). Matlab routines are available from the authors on request. Bootstrapped parameters are presented as means with 95% confidence intervals (CIs), and generalized linear model results are means 􏱠1 SEM.
+Results
+Full Native Data Set
+The data set contains mean body masses and BMRs for 695 species, body temperatures for 535 species, and complete information on variation in mass and MR measurements for 529 species. Using OLS without phylogenetic correction, there was a highly significant relationship between mass (m), body temperature (T ), and MR:
+b
+ 
+ 724 The American Naturalist
+ Figure 1: Intraspecific variance ratios of basal metabolic rate to body mass are used to select the slope along which the residuals of least squares variance–oriented regression are measured. Top, thetaCV is the ratio of the squared coefficient of variation for basal metabolic rate to that of body mass for each species. There was a weak negative relationship between thetaCV and log10-transformed body mass. Bottom, histogram of thetaCV values is centered at about 1, or variance equivalence, with a majority of values falling between 0.1 and 10.
+ ln (MR) p 35.267 􏱘 0.676 7 ln (m)
+1,000 ( Tb)
+􏱘 􏱛10.4557
+ (R2 p 0.957, F2,479 p 5,217.3, P ! .001), where the inverse transformed Tb had a small but significant negative relationship with ln(m):
+ 1,000
+T p3.24􏱘(􏱛0.001)7ln(m)
+b
+(fig. 3; R2 p 0.013, F p 6.243, P p .013). This yields 1, 479
+an overall linear relationship between ln(MR) and ln(m) with a small estimated effect of temperature correction (0.0104 7 ln(m)):
+  
+ Mammalian Metabolic Allometry Analysis 725
+ Figure 2: Full mammalian phylogenetic tree (Bininda-Emonds et al. 2007), with branch lengths corresponding to time, in millions of years ago (MYA) and crosses at each ancestral node, and oriented so that tips for extant species are located at time p 0. The figure depicts one iteration of tree selection in the calculation of phylogenetic independent contrasts: black lines are the included branches of all fully resolved taxa and of the randomly selected representative for each polytomy (indicated by a circle at the node of divergence of the selected taxon from the rest of the polytomy). Gray lines are polytomous portions of the full mammal tree not selected in the exemplar iteration.
+ ln (MR) p 1.42 􏱘 (0.676 􏱘 0.0104) 7 ln (m).
+Results of bootstrapped OLS, RMA, and LSVOR with vcv p 0.3, 1.0, and 3.0 on log10-transformed native body masses and metabolic rates are presented in table 1. OLS had the shallowest slope, LSVOR with vcv p 0.3 had the steepest, LSVOR with vcv p 3.0 was roughly equivalent to OLS, and LSVOR with vcv p 1.0 was roughly equivalent to RMA, which was intermediate in steepness.
+Contrasts: Full Data Set
+In general, phylogenetic correction via the formation of PICs increased the slope of the regressions slightly but significantly. Results of bootstrapped OLS, RMA, and LSVOR on PICs were again that OLS had the shallowest slope and LSVOR with vcv p 3 was roughly equivalent to OLS, LSVOR with vcv p 0.3 had the steepest slope, and RMA and LSVOR with v p 1.0 were intermediate and
+ roughly equivalent. The PGLS slope estimate for the full tree was even shallower than OLS, with a highly variable intercept.
+Clade-Specific Analyses: Full Data Set
+The ANCOVA revealed that there was a significant difference between clade-specific slope estimates (F5,614 p 10.693, P ! .01). The ANCOVA further indicated that there were no significant differences between clade-specific intercepts (F5, 619 p 0.2795, NS), although this result should be viewed cautiously because there are significant differences in the clade-specific slopes. The predictive power of the phylogenetic effects is demonstrated via the mean model having a root mean square error (RMSE) of 0.0792; the fraction of variance explained by the regression model is R2 p 0.756 (RMSE p 0.0392), with the effect of the clade intercepts R2 p 0.757 (RMSE p 0.0393) and clade slopes R2 p 0.780 (RMSE p 0.0375). The shallowest re-
+cv
+ 
+ 726 The American Naturalist
+  Figure 3: Weakly significant negative relationship between body temperature and body mass in mammals. Body temperatures (K) have been inverse transformed, and body masses are shown as log10 transformed.
+ lationship was for the soricids (intercept, 0.990 􏱠 0.224; slope, 0.527 􏱠 0.077), and the steepest was in the chiropterans (intercept, 0.297􏱠0.219; slope, 0.872􏱠0.049). Rodents also exhibited a shallow slope (intercept, 0.970􏱠0.207; slope, 0.553􏱠0.024), while fereuungulates (intercept, 0.427 􏱠 0.181; slope, 0.766 􏱠 0.027), primates (intercept, 0.323 􏱠 0.225; slope, 0.775 􏱠 0.055), and marsupials (intercept, 0.340 􏱠 0.287; slope, 0.757 􏱠 0.016) were close to 3/4-power scaling.
+Clade-specific PGLS regressions yielded parameter estimates virtually identical to those from the ANCOVA in terms of slope estimates (table 1). Intercepts in clades were highly variable and tied to the slope values, with larger intercepts for shallower slopes (e.g., soricids; see fig. 4).
+Separated Clade-Specific Data Sets
+The distribution of clade-specific slope estimates from regressions on PICs (and native data; not shown) shifted on the basis of the particular regression analysis applied (see fig. 5): LSVOR (vcv p 0.3) 1 RMA and LSVOR (vcv p 1.0) 1 LSVOR (vcv p 3.0) 1 OLS. This pattern was similar to that of the different regression analyses applied to the full native and contrast data sets. The cumulative frequency distributions of the slope estimates were also significantly different between regression analyses in each of the separated clades (D ≥ 0.190, P ! .001). In contrast to the ANCOVA and clade-specific PGLS slope estimates, (1) fereuungulate and rodent slope estimates were much more variable than other clades, and (2) the pattern of slope estimates changed, with chiropteran, primate, and mar-
+ supial slopes tightly centered at about 0.75 and rodents exhibiting steeper slope estimates than soricids. A randomization test of the placement of trait pairs (mass and metabolic rate) on different terminal branches of the cladespecific subtrees before PIC construction and subsequent regression analysis demonstrates a phylogenetic signal: the jagged distribution of estimated slopes in the original analyses, especially in the rodents (fig. A1 in the online edition of the American Naturalist) and fereuungulates (fig. A2 in the online edition of the American Naturalist), are smoothed out over a broader range after randomization.
+Discussion
+The analyses we have presented are based on the largest available mammalian metabolic allometry data set and the best available phylogeny (Bininda-Emonds et al. 2007). Our data set is also unique in that it includes measures of intraspecific variation that are necessary for checking the assumptions of alternative regression models. We found that estimates for the slope of the allometric relationship between log(m) and log(MR) diverge from predictions of the MTE (West et al. 1997; Brown et al. 2004). Both the choice of regression technique and the phylogenetic correction affect estimates of allometric slopes and intercepts. We argue that there probably is not a canonical approach to analyzing allometric data and that our results stand in contrast to the existence of universal scaling of metabolic allometry in mammals.
+ 
+                         Table 1: Mammal metabolic allometry parameter estimates from regression analyses on native and phylogenetic independent contrast data
+Rodents: Intercept
+.696 .614 (.636–.759) (.558–.668)
+.628 (.571–.684)
+.582 (.525–.638)
+.665 (.607–.724)
+2.234 (.280) .553 (.024)
+Slope
+.671 .714 (.642–.699) (.689–.739)
+.707 (.681–.733)
+.730 (.704–.756)
+.687 (.660–.714)
+(􏱛.013–.050) .640
+(􏱛.018–.045) (􏱛.017–.046) .681 .673
+(􏱛.020–.043) .695
+(􏱛.015–.048) .655
+Fereuungulates: Intercept
+.233 .106 (.017–.429) (􏱛.117–.311)
+.116 (􏱛.110–.324)
+.048 (􏱛.185–.262)
+.117 (􏱛.045–.379)
+(.621–.657) .015
+(.663–.698) (.654–.689) .013 .013
+(.677–.715) .013
+(.636–.671) .014
+.984 (.395) .766 (.029)
+Slope
+.822 .854 (.774–.873) (.805–.907)
+.852 (.802–.905)
+.869 (.818–.924)
+.836 (.788–.889)
+(􏱛.026–.055) .769
+(􏱛.028–.054) (􏱛.028–.054) .816 .811
+(􏱛.029–.054) .837
+(􏱛.027–.054) .789
+Chiropterans: Intercept
+.448 .390 (.368–.530) (.308–.469)
+.396 (.312–.477)
+.364 (.275–.447)
+.423 (.342–.505)
+.057 (.005–.108)
+.059 .059 (.007–.111) (.007–.110)
+.060 (.008–.112)
+.058 (.006–.109)
+.683 (.220) .872 (.035)
+Slope
+.779 .820 (.730–.831) (.769–.877)
+.816 (.764–.873)
+.838 (.784–.901)
+.797 (.746–.850)
+.728 (.725–.730)
+.760 .756 (.758–.763) (.754–.758)
+.774 (.772–.776)
+.741 (.739–.743)
+Primates: Intercept
+.416 .324 (.201–.648) (.113–.537)
+.335 (.123–.553)
+.286 (.065–.502)
+.378 (.169–.602)
+.034 (􏱛.037–.104)
+.020 .022 (􏱛.058–.094) (􏱛.055–.095)
+.014 (􏱛.070–.091)
+.028 (􏱛.045–.099)
+.743 (.274) .774 (.033)
+Slope
+.758 .788 (.682–.823) (.723–.851)
+.785 (.717–.848)
+.801 (.736–.865)
+.771 (.699–.834)
+.708 (.705–.710)
+.772 .764 (.769–.775) (.761–.766)
+.800 (.797–.802)
+.734 (.731–.736)
+Soricomorphs: Intercept
+1.052 .990 (.926–1.173) (.872–1.109)
+1.011 (.886–1.134)
+.976 (.856–1.099)
+1.035
+(.909–1.157) (􏱛.008–.112)
+.043 .045 (􏱛.024–.105) (􏱛.021–.107)
+.039 (􏱛.033–.104)
+.050 (􏱛.013–.109)
+2.281 (.238) .527 (.043)
+Slope
+.472 .516 (.388–.551) (.438–.592)
+.501 (.418–.580)
+.526 (.444–.605)
+.484 (.400–.563)
+.520 (.516–.523)
+.617 .594 (.613–.621) (.590–.598)
+.652 (.647–.657)
+.552 (.548–.556)
+Marsupials: Intercept
+.450 .419 (.344–.563) (.324–.519)
+.424 (.327–.526)
+.407 (.315–.506)
+.438 (.336–.547)
+.049 (.008–.091)
+.049 .049 (.008–.091) (.008–.091)
+.049 (.007–.092)
+.049 (.008–.091)
+.783 (.270) .757 (.025)
+Slope
+.722 .735 (.685–.757) (.703–.765)
+.733 (.700–.764)
+.739 (.708–.769)
+.727 (.692–.760)
+.711 (.709–.713)
+.750 .745 (.749–.752) (.743–.746)
+.766 (.764–.768)
+.726 (.725–.728)
+Full tree: Intercept
+.585 .540 (.549–.622) (.506–.575)
+.547 (.513–.582)
+.523 (.490–.557)
+.568 (.532–.604)
+.017 (􏱛.001–.035)
+.015 .015 (􏱛.004–.034) (􏱛.003–.034)
+.014 (􏱛.005–.033)
+.016 (􏱛.002–.035)
+1.263 (.531) .687 (.014)
+Slope
+.716 .735 (.700–.730) (.720–.748)
+.732 (.717–.746)
+.742 (.728–.756)
+.723 (.708–.737)
+.707 (.698–.713)
+.745 .739 (.735–.751) (.729–.745)
+.759 (.750–.766)
+.722 (.712–.728)
+OLS RMA
+LSVORb
+LSVORc
+OLS .018
+RMA LSVORa .013 .014
+LSVORb .011
+LSVORc .016
+PGLS
+Native data LSVORa
+Phylogenetic independent contrasts
+Note: Regressions are ordinary least squares (OLS), reduced major axis (RMA), and least squares variance–oriented residuals (LSVOR) with three different variance ratios (vcv). Parameter estimates are means, with 95% confidence intervals in parentheses. Phylogenetic generalized least squares (PGLS) are performed on native data corrected for phylogeny, with a variance-covariance matrix of branch lengths for species pairs scaled by the square root of the sum of the branch lengths. PGLS parameter estimates are shown with the calculated standard error in parentheses; slope estimate confidence intervals for PICs are mean upper and lower bounds for the bootstrapped estimates.
+a vcvp1.
+b vcvp0.3. c vcvp3.
+(.719–.801)
+(.764–.851) (.758–.847)
+(.783–.874)
+(.737–.823)
+.053
+
+ 728 The American Naturalist
+  Figure 4: Clade-specific scatterplot of mammalian metabolic allometry data. Basal metabolic rates and body masses have been log10 transformed, and the plot does not include data from clades excluded in the clade-specific analyses (e.g., Proboscoidea).
+ Meeting the Criteria for BMR
+Because our results make clear that decisions made on analyses to be applied to data should be based on the data themselves, we start with a discussion of the many instances where our data are less than optimal. There is widespread pseudoreplication of metabolic rate measurements that may be more problematic in large and/or rare animals. Failures to reach postabsorption, activity, and measurements while sleeping are also common problems. We excluded measurements on reproductive females and animals that were clearly active throughout the metabolic measurements (i.e., field and maximal metabolic rates). We also excluded measurements on most domesticated species from our new data set because of potential changes in body composition and size that occur as a result of artificial selection (McNab 1988), although a few such species (e.g., aurochs Bos taurus) have been retained because they were included in recent compilations (Heusner 1991; Savage et al. 2004). We included, with comments, animals that we suspected were not postabsorptive; were not sleeping; later entered torpor, hibernation, or died; had mass values not definitively given for just the individuals with measured metabolic rates; and were reported in non-English articles.
+There are numerous physiological issues that may affect the clade-specific data. For instance, it is commonly noted that basal metabolic measurements in the smallest shrews may be unattainable because they are physiologically incapable of reaching postabsorption without adverse effects, they increase activity levels in response to periods of fast-
+ ing, or their body size dictates metabolic rates that do not conform to typical BMR scaling (Speakman et al. 1993). However, care has been taken in the inclusion of measurements, and clearly active measurements on shrews were excluded (e.g., the Asian house shrew Suncus murinus; Oron et al. 1981). Examination of the native data in the smallest shrews (and rodents and bats) also demonstrates that their allometries are not obviously different from those of their larger-bodied clade conspecifics (separate scatterplots of data not shown).
+Approaches to dealing with these issues have previously consisted of the exclusion of measurements on animals with ruminant digestive systems and Q10 adjustment of metabolic rates to correct for differences in body temperature and measurements performed in the sleep part of the circadian cycle (White and Seymour 2003, 2004, 2005; White et al. 2006). However, the effect of circadian rhythm on metabolic rate is small in mammals above 50 g (Clarke and Rothery 2008), ruminant digestion is largely anaerobic, although it does provide some amount of thermogenesis (Blaxter 1967), and most animals, including many shrews, can be brought to basal metabolism by careful researchers (McNab 1997). Furthermore, there is no consistent pattern across phyla (e.g., marsupials, artiodactyls, and lagomorphs) in the influence on body temperature of heat from gut fermentation (Clarke and Rothery 2008). Instead of selecting only the metabolic rate measurements deemed as those most closely matching BMR, with the greatest sample size, with the least amount of time in captivity, and so on, we have left the resulting variability
+ 
+ Mammalian Metabolic Allometry Analysis 729
+ Figure 5: Clade-specific histograms of mammalian metabolic allometry slope estimates. The relative frequency of estimation of a particular slope value is shown for just four clades—rodents, carnivores/herbivores/pangolins (fereuungulates), chiropterans, and soricomorphs—because results for marsupials and primates are extremely similar to those for chiropterans. For clarity, just parameter estimates from ordinary least squares (OLS) and least squares variance–oriented residuals (LSVOR) regressions with vcv p 1, 0.3 (“lo”), and 3 (“hi”) are shown because results for LSVOR with vcv p 1 are almost identical to those for reduced major axis.
+ in our data set and tried to address it analytically with regressions that incorporate different error variance structures and corrections for body temperature and phylogeny.
+Regression Analysis
+Regression analyses adapted to different relative variances in each trait and/or different assumptions and minimization criteria yield consistently different slope and intercept estimates. OLS estimates were consistently shallower than RMA and LSVOR, estimates from LSVOR adjusted for three times greater intraspecific variation in metabolic rate than body mass were significantly steeper than OLS, estimates from LSVOR adjusted for equal intraspecific variation in both variables were slightly shallower than RMA, and estimates from LSVOR adjusted for three times less intraspecific variation in metabolic rate than in body mass were significantly steeper than all other regressions. Each of these types of intraspecific variance ratios applies to part of the data set, but the dependent variable does not invariably have variation that is much greater than, equal to, or less than the independent variable.
+Overall slope estimates differed significantly between re-
+ gression methodologies, estimated intercepts were negatively correlated with estimated slopes, and high r2 values did not indicate immunity from these differences. LSVOR regression requires measurements of intraspecific variation (both biological and measurement) to select the angle along which residuals are measured (O’Connor et al. 2007a), and without these inputs, the direction of the measurements of residuals has to be made independently of the data, just as in OLS and RMA regressions (Warton et al. 2006; O’Connor et al. 2007a). Indeed, LSVOR generally outperforms both OLS and RMA: simulations bear out the superior performance of LSVOR under conditions in which RMA and OLS misestimate slopes and the equivalent performance of LSVOR under conditions in which RMA and OLS perform well (O’Connor et al. 2007a). We therefore advocate the use of LSVOR for allometric analyses of physiological traits when the intraspecific variance is known, although there is perhaps no one correct regression analysis for these data.
+Phylogenetic Signal
+There is a significant phylogenetic signal in our mammalian metabolic allometry data set: steeper slope esti-
+ 
+ 730 The American Naturalist
+ mates were obtained in analyses of PICs as compared with analyses of native data, significantly different clade-specific slopes were obtained via ANCOVA, and randomization of the location of trait values on the clade-specific subtrees smoothed out histograms of slope estimates. Calculation of phylogenetic contrasts alleviates overestimation of the strength of the relationship between traits caused by phylogenetic correlations or constraints (Martins and Garland 1991; O’Connor et al. 2007a). PGLS and ANCOVA (with phylogenetic least squares) are also important phylogenetic correction methods, especially in dealing with different types of evolutionary processes (Grafen 1989; Diaz-Uriarte and Garland 1996; Hansen and Martins 1996; Hansen 1997; Martins and Hansen 1997; Butler and King 2004). However, these methods employ scaled branch lengths, assume that variation in the independent variable is negligible, and impose an OLS-style fitting procedure that specifies regressors and response variables (Rohlf 2001; O’Connor et al. 2007a). Finally, Symonds and Elgar (2002) have also demonstrated sensitivity of mammalian metabolic allometry slope estimation to evolutionary trees based on molecular versus morphological data. While the supertree we used is an amalgamation of evolutionary data (Bininda-Emonds et al. 2007), in simulations where the exact timings of evolutionary divergences (ancestral nodes) and character states were known and different rates of evolution were imposed, the unscaled Felsenstein (1985) method of phylogenetic independent contrast formation was found to correlate most closely with the true contrast values (O’Connor et al. 2007a).
+A significant phylogenetic signal has previously been observed in mammalian allometries at the ordinal level with similar observations of steeper slopes upon phylogenetic correction (Hayssen and Lacy 1985; Glazier 2005; Duncan et al. 2007; Clarke and Rothery 2008). The shallower slopes of soricids have also been alluded to by Duncan et al. (2007) and Glazier (2005), although these were within the outdated designation of Insectivora. The phylogenetic effects incorporated in the ANCOVA explained statistically significant variation in metabolic rate and indicated significant clade-specific differences in slopes. The jaggedness of our resampled slope estimates due to clades with outlying trait combinations (e.g., fereuungulates, possibly because of pangolins) also demonstrates the importance of the phylogenetic signal through the heterogeneity of slope estimates that results from different phylogenetic tree selections before contrast calculation. We acknowledge that there is still uncertainty in each of the phylogenetic hypotheses herein. However, our results indicate that the overall allometric slope should not be interpreted as a general description of metabolic allometry in mammals.
+ Physiological and Ecological Factors
+Among mammals within the same clade or having the same body size, metabolic rates are highly variable because of a diverse array of factors such as body temperature, environmental temperature and precipitation, latitude, altitude, food availability, behavioral strategy, and diet (McNab 1995, 1997, 2003; Mueller and Diamond 2001; Lovegrove 2003; White and Seymour 2004; Careau et al. 2009). General differences between larger mammals (with steeper scaling) and smaller mammals (with shallower scaling) have also been described (reviewed in Glazier 2005). Proponents of the MTE have argued that the preponderance of small-mammal measurements in metabolic allometry (with consistent deviations toward higher metabolic rates) artificially drives overall slope estimates to be shallower and that this is supportive of the MTE (Savage et al. 2004). We found that this is not consistently true within rodents that span the small to intermediate body sizes of the overall data set; in small chiropterans, rodents, and shrews; or in overall regression analyses of the full data set with slope estimates that are shallower, equivalent to, and steeper than 0.75.
+The only physiological factor we incorporated was body temperature, which had values that were highly variable and weakly negatively correlated with body mass, despite the small overall range of body temperatures of animals within their thermoneutral zones during BMR measurements. Incorporation of the body temperature variable in regression analysis of our data set has a small but significant effect on the estimated allometric relationship. This statistically significant effect appears to be derived from the large sample size of measurements (n p 535) and is unlikely to be biologically significant because it explains very little additional variation (R2 p 0.016) compared with that explained by the body mass variable (R2 p 0.939). There are also significant differences in the scaling of body temperatures with body masses in mammals at the ordinal and higher-order (e.g., Marsupialia, Ferae, and Ungulata) levels of taxonomy (Clarke and Rothery 2008), which may relate to the clade-specific scaling differences we observed.
+Our clade-specific slope estimates ranged from 0.5 to 0.85, which is a range broader than that observed previously at the ordinal level (Glazier 2005; Duncan et al. 2007). Each of the clades also had well over a 200-fold span of body masses (lowest in chiropterans with (maximum m/minimum m) p 277). These clade-specific differences cannot be tied to any one behavioral, procedural, physiological, or ecological factor, even within a particular clade, although no doubt some factors apply to some of the data.
+ 
+ Mammalian Metabolic Allometry Analysis 731
+ Metabolic Allometry Theory
+We applaud the attention to allometry that has been rekindled by the MTE. Our research herein was prompted by this recent activity, especially with regard to universal quarter-power scaling (West and Brown 2005). In that vein, the focus of our analyses has been slope estimation, but we have also demonstrated variable intercept estimates (i.e., normalization constants) primarily in relation to the estimated slope. Proponents of the MTE readily admit that their model does not predict normalization constants (Allen and Gillooly 2007) and maintain that variation in the observed slope of a particular allometric relationship is in keeping with predictions of the MTE (Moses et al. 2008).
+The issue at hand is the extremely limited predictive power of the MTE. It predicts neither the slope nor the intercept of mammalian metabolic allometry. We found that slope estimates are tied to the data set and the analytical model applied (with few instances of 95% confidence intervals on slope estimates including 0.75 in the overall scaling relationship) and that intercepts are tied to the slopes. Downs et al. (2008) also recently demonstrated that the MTE fails to prescribe metabolic responses to body temperature in a variety of organisms, including mammals. In moving forward, we hope these results encourage new measurements of mammalian basal metabolism and careful data-based decisions about the application of particular analytical models to allometry data.
+Acknowledgments
+We thank M. Giampapa, J. Howard, and K. Magrini for important contributions to the new data set. Conversations with A. Clarke and M. Weksler greatly improved our understanding of issues in allometry and the mammal phylogeny. This work is the result of a seminar group to which F. Hansen, S. Kemp, and B. Wallace have been important past contributors. A.E.S. acknowledges support from the Panaphil Foundation. Comments from two anonymous reviewers improved this manuscript considerably.
+Literature Cited
+  
+ Mammalian Metabolic Allometry Analysis 733
+ Mammals come in all shapes and sizes, and some species’ metabolic rates are easier to measure than others. Photographs by Michael O’Connor.
+ 

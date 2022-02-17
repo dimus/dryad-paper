@@ -1,0 +1,326 @@
+    Molecular Ecology Resources (2011) 11, 914–921 doi: 10.1111/j.1755-0998.2011.03021.x
+Kakusan4 and Aminosan: two programs for comparing nonpartitioned, proportional and separate models for combined molecular phylogenetic analyses of multilocus sequence data
+AKIFUMI S. TANABE
+Institute of Biological Sciences, Graduate School of Life and Environmental Sciences, University of Tsukuba, Ten-no-dai 1-1-1, Tsukuba, Ibaraki 305-8572, Japan
+Abstract
+Proportional and separate models able to apply different combination of substitution rate matrix (SRM) and among-site rate variation model (ASRVM) to each locus are frequently used in phylogenetic studies of multilocus data. A proportional model assumes that branch lengths are proportional among partitions and a separate model assumes that each partition has an independent set of branch lengths. However, the selection from among nonpartitioned (i.e., a common combination of models is applied to all-loci concatenated sequences), proportional and separate models is usually based on the researcher’s preference rather than on any information criteria. This study describes two programs, ‘Kakusan4’ (for DNA sequences) and ‘Aminosan’ (for amino-acid sequences), which allow the selection of evolutionary models based on several types of information criteria. The programs can handle both multilocus and single-locus data, in addition to providing an easy-to-use wizard interface and a noninteractive command line interface. In the case of multilocus data, SRMs and ASRVMs are compared at each locus and at all-loci concatenated sequences, after which nonpartitioned, proportional and separate models are compared based on information criteria. The programs also provide model configuration files for MRBAYES, PAUP*, PHYML, RAXML and Treefinder to support further phylogenetic analysis using a selected model. When likelihoods are optimized by Treefinder, the best-fit models were found to differ depending on the data set. Furthermore, differences in the information criteria among nonpartitioned, proportional and separate models were much larger than those among the nonpartitioned models. These findings suggest that selecting from nonpartitioned, proportional and separate models results in a better phylogenetic tree. Kakusan4 and Aminosan are available at http://www.fifthdimension.jp/. They are licensed under GNU GPL Ver.2, and are able to run on Windows, MacOS X and Linux.
+Keywords: Bayesianinference,maximumlikelihood,modelselection,software Received 22 December 2010; revision received 24 February 2011; accepted 7 March 2011
+Introduction
+Substitution models applied in model-based phylogenetic analyses may have a disproportionate influence on inferred trees and thereby reduce their credibility. Consequently, statistical comparison and selection of substitution models have become essential in phylogenetic studies (Posada 2008). Software such as MODELTEST (Posada & Crandall 1998), PROTTEST (Abascal et al. 2005), MRMODELTEST, MRAIC, MODELGENERATOR (Keane et al. 2006) and JMODELTEST (Posada 2008) have been developed to compare substitution models, but these programs are not able to simultaneously conduct model selection for multilocus data.
+Correspondence: Akifumi S. Tanabe, Fax: +81 29 853 7267; E-mail: akifumi.tanabe@gmail.com
+The DNA sequencing revolution continues to produce massive amounts of sequencing data, with ever-decreasing time and effort. Given the increasing use of multilocus data for phylogenetic inference, Kakusan (Tanabe 2007) was developed to facilitate model selection for multilocus phylogenetic analysis based on the assumption of different substitution models at different loci and/or codon positions. This approach is also known as the mixed model or partitioned model and involves two types of models: proportional and separate. The proportional model assumes that branch lengths are proportional among arbitrarily specified partitions such as loci and/or codon positions, whereas the separate model assumes that each partition has an independent set of branch lengths (Yang 1996). Most studies do not compare these models with nonpartitioned models; instead, the
+Ó 2011 Blackwell Publishing Ltd
+
+model to be applied is subjectively or unintentionally selected. In an earlier version, Kakusan (Tanabe 2007) generated configuration files for phylogenetic analyses in which nonpartitioned, proportional and separate models were applied, but it was unable to compare these models or to use amino-acid sequence data. This report describes the development of two new computer software applications, Kakusan4 and Aminosan, which can be used to easily compare nonpartitioned, proportional and separate models at the nucleotide and amino-acid sequence data, respectively. Functions for generating configuration files for PHYML (Guindon et al. 2010), RAXML (Stamatakis 2006) and Treefinder (Jobb et al. 2004) were added to these programs as well.
+Implementation
+Both Kakusan4 and Aminosan are able to read various formats of sequence files by utilizing ReadSeq to convert and normalize sequences before they are read. Each program has two operation modes: an interactive wizard mode and a noninteractive command line mode. If Kakusan4 or Aminosan is executed and receives no input file or the interactive option is enabled, the program enters the interactive mode. Otherwise, both programs run under the noninteractive mode.
+Pre-selection processes
+Kakusan4 and Aminosan test the homogeneity of the nucleotide or amino-acid composition, respectively, among all operational taxonomic units (OTUs) prior to model selection. This is necessary because the presence of compositional heterogeneity biases phylogenetic inferences (Jermiin et al. 2004). Kakusan4 and Aminosan test the hypothesis of compositional homogeneity among OTUs using a v2 test, which, as implemented in either software, is almost the same as that in PAUP* (Swofford
+Table 1 Supported SRMs of Kakusan4
+Equal frequency SRM KSRM
+JC69 (Jukes & Cantor 1969) 0 K80 (Kimura 1980) 1 TN93ef 2 K81* (Kimura 1981) 2 J1ef 3 J2ef 3 TIMef 3 TVMef 4 SYM (Zharkikh 1994) 5
+SRM, substitution rate matrix.
+*Because Treefinder is incompatible to
+finder to calculate maximum likelihoods of the candidate models.
+2003). However, PAUP* uses ambiguous or degenerate characters to calculate v2 statistics , whereas Kakusan4 and Aminosan do not. Nonetheless, because most data have small number of ambiguous or degenerate characters, Kakusan4 and Aminosan provide virtually the same result as PAUP*. The results of the test for a whole (i.e., allloci concatenated sequences), for each locus, and/or for each codon position are saved as plain text files. If the homogeneity hypothesis is rejected, then the need to apply data-recoding [e.g., RY coding (Woese et al. 1991) and Dayhoff coding (Hrdy et al. 2004)], or a nonhomogeneous model (Blanquart & Lartillot 2006, 2008) should be considered.
+To compare candidate models, Kakusan4 and Aminosan calculate AIC (Akaike 1974), AICc (Sugiura 1978) and BIC (Schwarz 1978), which are formulated as
+MODEL SELECTION FOR MULTILOCUS DATA 915
+AIC 1⁄4 􏰀2 ln L þ 2K; ð1Þ AICc 1⁄4 􏰀2 ln L þ 2nK ; ð2Þ
+ n􏰀K􏰀1 BIC 1⁄4 􏰀2 ln L þ K ln n;
+ð3Þ
+where L, K and n are maximum likelihood, the number of free parameters and the sample size of the data, respectively. Maximum likelihoods are calculated, and the numbers of parameters are counted as described later. In the model selection from nonpartitioned models at each locus, at each codon position and at the whole, the number of free parameters (Knonpartitioned) is formulated as
+Knonpartitioned 1⁄4 Kbranch þ KSRM þ KASRVM; ð4Þ
+where Kbranch, KSRM and KASRVM are the number of free parameters for branch lengths, for the substitution rate matrix (SRM), and for the among-site rate variation model (ASRVM), respectively. Supported SRMs and their KSRM are shown in Table 1 (Kakusan4) and Table 2 (Aminosan). Candidate ASRVMs differ according to the specific situation and are detailed in the user manual.
+ Unequal frequency SRM KSRM
+F81 (Felsenstein 1981) 3 HKY85 (Hasegawa et al. 1985) 4 TN93 (Tamura & Nei 1993) 5 K81uf* 5 J1 (Jobb 2008) 6 J2 (Jobb 2008) 6 TIM (Posada 2003) 6 TVM (Posada 2003) 7 GTR (Tavare ́ 1986) 8
+Substitution rates
+AC1⁄4AG1⁄4AT1⁄4CG1⁄4CT1⁄4GT AC1⁄4AT1⁄4CG1⁄4GT, AG1⁄4CT AC1⁄4AT1⁄4CG1⁄4GT, AG, CT AC1⁄4GT, AT1⁄4CG, AG1⁄4CT AC1⁄4CG, AT1⁄4GT, AG, CT AC1⁄4AT, CG1⁄4GT, AG, CT AC1⁄4GT, AT1⁄4CG, AG, CT AC, AT, CG, GT, AG1⁄4CT AC, AG, AT, CG, CT, GT
+  Ó 2011 Blackwell Publishing Ltd
+K81 and K81uf matrices, K81 and K81uf matrices will not be considered, if Kakusan4 use Tree-
+
+916 A. S. TANABE
+Table 2 Supported SRMs of Aminosan
+SRM (frequencies are given by SRM)
+Poisson
+Dayhoff-DCMut (Kosiol & Goldman 2005) JTT-DCMut (Kosiol & Goldman 2005) BLOSUM62 (Henikoff & Henikoff 1992) VT (Mu ̈ ller & Vingron 2000)
+WAG (Whelan & Goldman 2001)
+PMB (Veerassamy et al. 2003)
+LG (Le & Gascuel 2008)
+mtREV (Adachi & Hasegawa 1996) mtMam (Cao et al. 1998)
+mtArt (Abascal et al. 2007)
+mtZoa (Rota-Stabelli et al. 2009)
+cpREV (Adachi et al. 2000)
+rtREV (Dimmic et al. 2002)
+HIVb (Nickle et al. 2007)
+HIVw (Nickle et al. 2007)
+SRM, substitution rate matrix.
+Because Kbranch is equal to the number of branches in the case of nonpartitioned and proportional models, it can be given by
+Kbranch 1⁄4 2NOTU 􏰀 3; ð5Þ
+where NOTU is the number of OTUs. The number of free parameters in the proportional model (Kproportional) is also formulated as
+ Kproportional 1⁄4 Kbranch þ Kproportion
+k2all partitions
+þðK þK SRM1
+þ
+ðKSRMk þ KASRVMkÞ;
+ð6Þ
+X
+ASRVM1
+SRM2
+ASRVM2 ð13Þ
+where Kproportion is the number of proportion parameters to be multiplied by a common set of branch lengths. Kproportion is given by
+Kproportion 1⁄4 Npartition 􏰀 1; ð7Þ
+where Npartition is the number of partitions. The number of free parameters in the separate model (Kseparate) is formulated as
+Kseparate 1⁄4 Kbranch þ X ðKSRMk þ KASRVMk Þ: k2all partitions
+In the case of the separate model, Kbranch is given by
+Kbranch 1⁄4 Npartitionð2NOTU 􏰀 3Þ; ð9Þ
+because each partition has an independent set of branch lengths. For example, if a data set contains two noncoding partitions and 10 OTUs, and if the best models are JC69 + C for the former partition and GTR + C for the latter partition, then the number of free parameters in the proportional model (Kproportional) and in the separate model (Kseparate) are
+1⁄4 2 􏰇 ð20 􏰀 3Þ þ ð0 þ 1 þ 8 þ 1Þ ð14Þ 1⁄4 44; ð15Þ
+respectively.
+As AICc (Sugiura 1978) and BIC (Schwarz 1978)
+require the sample size of the data set, Kakusan4 and Aminosan measure the sample size before model selection. However, sample size is unclear in a phylogenetic
+SRM (frequencies are KSRM estimated from data)
+0 Poisson+F
+0 Dayhoff-DCMut+F 0 JTT-DCMut+F
+0 BLOSUM62+F
+0 VT+F
+0 WAG+F
+0 PMB+F
+0 LG+F
+0 mtREV+F
+0 mtMam+F
+0 mtArt+F
+0 mtZoa+F
+0 cpREV+F
+0 rtREV+F
+0 HIVb+F
+0 HIVw+F
+KSRM Target gene 19 None
+19 Nuclear
+19 Nuclear
+19 Nuclear
+19 Nuclear
+19 Nuclear
+19 Nuclear
+19 Nuclear
+19 Mitochondrial 19 Mitochondrial 19 Mitochondrial 19 Mitochondrial 19 Plastid
+19 Retroviral 19 Retroviral 19 Retroviral
+   Kproportional 1⁄4 ð2NOTU 􏰀 3Þ þ ðNpartition 􏰀 1Þ
+þðKSRM1 þKASRVM1 þKSRM2 þKASRVM2Þ
+ð10Þ 1⁄4ð20􏰀3Þþð2􏰀1Þþð0þ1þ8þ1Þ ð11Þ
+1⁄4 28;
+Kseparate 1⁄4Npartitionð2NOTU 􏰀3Þ
+ð12Þ þK þK Þ
+ð8Þ analysis. Thus, Kakusan4 establishes the sample size using the minimum number of substitutions across the tree (parsimonious tree length), the sum of the minimum number of substitutions at each site, the sum of the minimum number of character states at each site, the number of sites (alignment length), the number of variable sites and the total number of characters. In Aminosan, the sample size is established based on the minimum number of substitutions across the tree (parsimonious tree length), the number of sites (alignment length) and the total number of characters. By contrast, the most frequently used sample size in the past studies was the number of sites.
+Ó 2011 Blackwell Publishing Ltd
+
+Table 3 Selected models at several empirical data sets
+Number Number
+Amino-acid‡
+MODEL SELECTION FOR MULTILOCUS DATA 917
+ Data type DNA
+References
+Als et al. (2004)
+Davenport et al. (2006)
+Filardi & Moyle (2005)
+Fry et al. (2006) Murphy et al. (2001)
+Regier et al. (2010) Als et al. (2004)
+Fry et al. (2006) Hwang et al. (2001) Regier et al. (2010)
+NOTU of loci 47 3
+9 4 28 2 16 5 66 17
+80 28†
+47 3 16 5 18 8 80 28§
+of sites 2851
+2503 1707 2813 9533
+24 027
+949 1001 2284 8009
+AIC
+Proportional among loci and codon positions
+Proportional among loci and codon positions
+Proportional among loci and codon positions
+Proportional among loci and codon positions
+Separate among loci and proportional among codon positions
+Separate among loci and codon positions
+Proportional among loci
+Proportional among loci
+Separate among loci Separate among loci
+AICc
+Proportional among loci and codon positions
+Proportional among loci and codon positions
+Proportional among loci and codon positions
+Proportional among loci and codon positions
+N.A.*
+Separate among loci and proportional among codon positions
+Proportional among loci
+Proportional among loci
+Separate among loci
+Proportional among loci
+BIC
+Proportional among loci and codon positions
+Proportional among loci and codon positions
+Proportional among loci and codon positions
+Proportional among loci and codon positions
+Proportional among loci and codon positions
+Proportional among loci and codon positions
+Proportional among loci
+Proportional among loci
+Proportional among loci
+Proportional among loci
+  SRM, substitution rate matrix.
+*Sample size must be larger than the number of parameters plus one to calculate AICc.
+AICc of all models cannot be calculated at several loci and I cannot compare the models.
+†Only the loci that have 600 bp long or more were used because all-loci used analysis did not finish within 10 days. ‡Only the appropriate SRMs were considered as candidates at mitochondrial and nuclear loci.
+§Only the loci that have 200aa long or more were used because all-loci used analysis did not finish within 10 days.
+Before the likelihoods under the candidate models are optimized, Kakusan4 and Aminosan generate a tree topology for maximum likelihood optimizations using the neighbor-joining method (Saitou & Nei 1987) with either JC69 (Jukes & Cantor 1969) (Kakusan4) or K83 (Kimura 1983) (Aminosan) distances as determined by PHYLIP or PAUP*. Alternatively, users can specify a tree topology by entering a tree file written in Newick or NEXUS format. Although Kakusan4 and Aminosan are able to use different tree topologies in the model selection of different loci, comparisons of nonpartitioned, proportional and separate models require a common tree topology.
+The model selection processes
+Kakusan4 considers the partitioning and nonpartitioning of loci and/or codon positions, and Aminosan considers the partitioning and nonpartitioning of loci. If other parti-
+tioning strategies are to be considered, different partitions should be given as different loci. Kakusan4 cannot recognize coding and noncoding sequences without their prior assignment by the user; thus, coding and noncoding regions in the same locus must be given as different loci.
+The model selection processes of Kakusan4 and Aminosan consist of two parts. The first is a comparison among the combinations of SRMs and ASRVMs at each locus, at each codon position and at the whole. The second is a comparison among nonpartitioned, proportional and separate models at the whole. It should be noted that partially proportional and partially separate models are not taken into consideration except the model of separate among all-loci and proportional among codon positions in each locus at this time.
+SRM/ASRVM comparison at each locus, at each codon position and at the whole. Kakusan4 and Aminosan
+Ó 2011 Blackwell Publishing Ltd
+Because the sample sizes are not enough, the
+
+918 A. S. TANABE
+Table 4 Information criteria of nonpartitioned, proportional and separate models at the data of Als et al. (2004)
+ Data type DNA
+AIC
+Proportional among loci and codon positions
+Separate among loci and proportional among codon positions
+Separate among loci and codon positions
+Proportional among loci Separate among loci
+Nonpartitioned (GTR+C) Nonpartitioned
+(GTR+C+Invariant) Nonpartitioned (TVM+C)
+Proportional among loci Nonpartitioned (mtREV+F+C)
+Nonpartitioned (mtREV+F+C+Invariant)
+Nonpartitioned (JTT+F+C)
+Separate among loci
+19 846.73 19 852.17
+20 601.81
+21 285.99
+21 304.15
+21 657.01 21 659.07
+21 681.44
+7710.86 7797.28
+7799.29 7803.43 7938.04
+AICc
+Proportional among loci and codon positions
+Separate among loci and proportional among codon positions
+Proportional among loci
+Separate among loci and codon positions
+Separate among loci
+Nonpartitioned (GTR+C) Nonpartitioned
+(GTR+C+Invariant) Nonpartitioned (J2+C)
+Proportional among loci Nonpartitioned (mtREV+F+C)
+Nonpartitioned (mtREV+F+C+Invariant)
+Nonpartitioned (JTT+F+C)
+Separate among loci
+19 870.13 19 945.23
+21 295.57
+21 371.03
+21 372.01
+21 664.35 21 666.56
+21 688.62
+7753.27 7826.99
+7829.57 7833.13 8185.54
+BIC
+Proportional among
+loci and codon positions
+Separate among loci and proportional among codon positions
+Proportional among loci
+Nonpartitioned (GTR+C)
+Nonpartitioned (GTR+C+Invariant)
+Nonpartitioned (J2+C) Separate among loci
+Separate among loci and codon positions
+Proportional among loci Nonpartitioned
+(mtREV+C) Nonpartitioned (mtREV+F+C) Nonpartitioned
+(mtREV+C+Invariant) Separate among loci
+20 735.21 21 813.03
+21 940.50
+22 252.55
+22 260.56
+22 265.20 23 031.49
+25 779.20
+8195.25 8333.48
+8336.23 8340.27 9296.03
+ Amino-acid
+ Information criteria of nonpartitioned models shown earlier are the three smallest only. All results are sorted in ascending order by information criteria.
+calculate the maximum likelihoods of the generated or specified tree topology under all combinations of candidate SRMs and ASRVMs. For Kakusan4, Treefinder (Jobb et al. 2004), PAUP* (Swofford 2003) or baseml (Yang 2007) is used, and for Aminosan, Treefinder (Jobb et al. 2004) or codeml (Yang 2007). In this calculation, Kakusan4 and Aminosan are able to carry out parallel processing by simultaneous multiple executions of the aforesaid programs to accelerate large-scale computing using multicore CPU or multi-CPU machines. On a PC or Mac, this parallelism does not require MPI, PVM, or OpenMP environment, whereas on PC clusters or supercomputers, it requires a single-system image environment such as MOSIX (Barak & La’adan 1998) or Kerrighed (Morin et al. 2003). Then, Kakusan4 and Aminosan compare the candidate models based on AIC (Akaike 1974), AICc (Sugiura 1978) and BIC (Schwarz 1978).
+Comparison among nonpartitioned, proportional and separate models at the whole. After comparisons among the combinations of SRMs and ASRVMs at each locus, at each codon position, and at the whole, the maximum likelihoods of the proportional and separate models are calculated using Treefinder (Jobb et al. 2004) and by summing up the maximum log-likelihoods of all partitions, respectively. This calculation is also done in
+parallel. The best-fit combinations of SRMs and ASRVMs, which are selected in the first step, are subsequently applied to individual partitions in these optimizations. The best-fit combination of a common SRM and a common ASRVM at the whole in the first step is used as a nonpartitioned model in the following comparison. Finally, the AIC (Akaike 1974), AICc (Sugiura 1978) and BIC (Schwarz 1978) of the models are calculated and compared.
+Post-selection processes
+After the model is selected, Kakusan4 and Aminosan output model comparison tables as tab-delimited text files and generate model configuration files for MRBAYES (Ronquist & Huelsenbeck 2003), PAUP* (Swofford 2003), PHYML (Guindon et al. 2010), RAXML (Stamatakis 2006), or Treefinder (Jobb et al. 2004). It should be noted that PAUP* and PHYML cannot apply proportional and separate models, and RAXML cannot apply proportional model.
+Results and discussion
+Several empirical data sets were analysed to assess the utility of Kakusan4 and Aminosan and to demonstrate that best-fit partitioning and modeling differ among data
+Ó 2011 Blackwell Publishing Ltd
+
+sets. Sequences were retrieved from GenBank, TreeBASE or the supplementary files of published papers, aligned by E-INS-i of MAFFT (Katoh et al. 2005), and trimmed visually and manually as needed. All likelihoods were optimized by Treefinder (Jobb et al. 2004), and output configuration files for Treefinder (Jobb et al. 2004) was enabled. Parameters of nucleotide and amino-acid frequencies were optimized. The proportion of invariable sites was included as a candidate of the ASRVMs. All-loci nonpartitioned analyses, all-loci partitioned analyses, codon position nonpartitioned analyses and codon position partitioned analyses were carried out. The remaining options were left at the default settings of Kakusan4 and Aminosan. The number of sites was used as the sample size to calculate AICc (Sugiura 1978) and BIC (Schwarz 1978). The sequence alignments and results of these analyses can be downloaded from the web page of this project (http://www.fifthdimension.jp/) or from the web site of DRYAD project (http://datadryad.org/) (doi: 10.5061/dryad.8646).
+The best-fit models were found to differ among the data sets, but all-loci and codon position nonpartitioned models were never selected except in a single case, in which the AICc of codon position partitioned models could not be calculated (Table 3). Furthermore, differences in the information criteria among nonpartitioned,
+proportional and separate models were much larger than those among the three best nonpartitioned models (Tables 4 and 5).
+Heterotachy (within-site among-branch rate variation) (Philippe & Lopez 2001;Lopez et al. 2002) and among-site substitution-pattern heterogeneity (Lartillot & Philippe 2004) are known as the major causes of phylogeny misestimations. Because the separate model allows branch lengths, SRMs and ASRVMs to vary among loci to take into account the heterogeneity of evolutionary rates between loci and branches, it is able to decrease the effect of heterotachy (Philippe et al. 2005). As the proportional model allows both SRMs and ASRVMs to vary among loci, it exhibits much greater fitness than the nonpartitioned model with respect to data that are heterogeneous in their substitution patterns (Nylander et al. 2004). Proportional and separate models, therefore, should provide better phylogenetic trees for rateor patternheterogeneous data. However, unlimited parameterization increases both computation time and overfitting to the noise of the data. Ripplinger & Sullivan (2008) showed that there are no significant differences among maximum likelihood trees that are reconstructed by applying bestfit models according to several model selection criteria, and that best-fit and unsupported models often lead to different maximum likelihood trees. They concluded that
+Table 5 Information criteria of nonpartitioned, proportional and separate models at the data of Regier et al. (2010)
+MODEL SELECTION FOR MULTILOCUS DATA 919
+ Data type DNA
+AIC
+Separate among loci and codon positions
+Separate among loci and proportional among codon positions
+Proportional among loci and codon positions
+Separate among loci Proportional among loci
+Nonpartitioned (GTR+C) Nonpartitioned
+(GTR+C+Invariant) Nonpartitioned (TVM+C)
+Separate among loci Proportional among loci Nonpartitioned (LG+F+C)
+Nonpartitioned (LG+F+C+Invariant)
+1 731 333 1 756 006
+1 760 862
+1 795 561 1 800 154
+1 804 167 1 804 170
+1 804 701
+507 252 509 478 512 690
+512 692
+AICc
+Separate among loci and proportional among codon positions
+Proportional among loci and codon positions
+Separate among loci and codon positions
+Separate among loci Proportional among loci
+Nonpartitioned (GTR+C) Nonpartitioned
+(GTR+C+Invariant) Nonpartitioned (TVM+C)
+Proportional among loci Nonpartitioned (LG+F+C) Nonpartitioned
+(LG+F+C+Invariant) Nonpartitioned (LG+C)
+1 761 815 1 763 863
+1 770 650
+1 797 788 1 800 236
+1 804 169 1 804 172
+1 804 703
+511 620 512 698 512 701
+513 815
+BIC
+Proportional among loci and codon positions
+Separate among loci and proportional among codon positions
+Proportional among loci
+Nonpartitioned (GTR+C) Nonpartitioned
+(GTR+C+Invariant) Nonpartitioned (TVM+C) Separate among loci
+Separate among loci and codon positions
+Proportional among loci Nonpartitioned (LG+F+C) Nonpartitioned (LG+F
++C+Invariant) Nonpartitioned (LG+C)
+1 768 575 1 797 785
+1 803 712
+1 805 509 1 805 520
+1 806 035 1 833 008
+1 843 538
+513 815 513 927 513 936
+514 913
+ Amino-acid
+Nonpartitioned (LG+C)
+Information criteria of nonpartitioned models shown earlier are the three smallest only. All results are sorted in ascending order by
+information criteria.
+513 809
+Separate among loci
+520 989
+Separate among loci
+541 019
+ Ó 2011 Blackwell Publishing Ltd
+
+920 A. S. TANABE
+the application of a best-fit model selected by any criterion is preferable to the use of an unsupported model in a maximum likelihood phylogenetic inference. Thus, the aforesaid results highlight the necessity of comparing nonpartitioned, proportional and separate models for every data set.
+Acknowledgements
+The author thanks Dr. Ziheng Yang for his generosity in redistributing the modified baseml and codeml and Dr. Gangolf Jobb for permission to redistribute Treefinder. Dr. Satoshi Chiba, Dr. Tetsuo Hashimoto, Dr. David Posada and three anonymous reviewers are acknowledged for providing useful comments on an earlier version of the manuscript, and Dr. Nobuaki Nagata for feedback on the test process of these programs. Textcheck English consultants read the manuscript and improved the English.
+References
+Ó 2011 Blackwell Publishing Ltd

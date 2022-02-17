@@ -1,0 +1,1007 @@
+  Syst. Biol.46(1):145-179,1997
+EVOLUTION OF MALE TAIL DEVELOPMENT IN RHABDITID NEMATODES RELATED TO CAENORHABDITIS ELEGANS
+DAVID H. A. FITCH
+Department of Biology, New York University, Room 1009 Main Building, 100 Washington Square East, New York, New York 10003, USA; E-mail: fitch@acfl.nyu.edu
+Abstract.—The evolutionary pathway that has led to male tails of diverse morphology among species of the nematode family Rhabditidae was reconstructed. This family includes the wellstudied model species Caenorhabditis elegans. By relating the steps of male tail morphological evolution to the phenotypic changes brought about by developmental mutations induced experimentally in C. elegans, the goal is to identify genes responsible for morphological evolution. The varying morphological characters of the male tails of several rhabditid species have been described previously (Fitch and Emmons, 1995, Dev. Biol. 170:564-582). The developmental events preceding differentiation of the adult structures have also been analyzed; in many cases the origins of vary-
+ing adult morphological characters were traced to differences during ontogeny. In the present work, the evolutionary changes producing these differences were reconstructed in the context of
+the four possible phylogenies supported independently by sequences of 18S ribosomal RNA genes (rDNA). Two or more alternative states were defined for 36 developmental and adult morpholog-
+ical characters. These characters alone do not provide sufficient data to resolve most species relationships; however, when combined with the rDNA characters, they provide stronger support
+for one of the four rDNA phylogenies. Assuming a model of ordered transformations for multistate developmental characters generally results in greater resolution. Transformations between character states can be assigned unequivocally by parsimony to unambiguous branches for most of
+the characters. Correlations are thereby revealed for some of the developmental characters, indicating a probability of a shared developmental or genetic regulatory pathway. Four of the unequivocal character state changes on unambiguously supported branches closely resemble the phenotypic changes brought about by known mutations in C. elegans. These mutations define genes that are known to act in genetic regulatory hierarchies controlling pattern formation, differentiation, and morphogenesis. Although these studies are still at an early stage, these results strongly suggest that parallel studies of developmental mutants in C. elegans and of morphological and developmental evolution among related nematodes will help define genetic changes underlying
+the evolution of form. [Caenorhabditis elegans; character analysis; evolution of development; ontogeny; phylogeny.]
+Several long-standing controversies
+among evolutionary theorists can poten-
+tially be addressed by including well-stud-
+ied genetic model systems in phylogeneti-
+cally representative empirical studies
+(Kellogg and Shaffer, 1993). One such con-
+troversy concerns the question of whether
+macroevolutionary change is essentially
+saltational (i.e., fueled by mutations with a
+large phenotypic effect) or proceeds by the
+accumulation of many changes that indi-
+vidually have a small effect on the organ-
+ism (Gould and Eldredge, 1977; Charles-
+worth et al., 1982; Wallace, 1985; Barton
+and Turelli, 1989; Orr and Coyne, 1992; how significantly developmental or other Weber, 1992). In microevolutionary studies constraints bias or limit phenotypic variincluding Drosophila melanogaster, variation ability (Maynard Smith et al., 1985; Hall, in quantitative traits such as bristle num1992:75). Such constraints may augment ber has been directly traced to loci (e.g., homoplastic morphological changes. An
+145
+Achaete-Scute and scabrous) that have been defined by developmental genetic analysis to be important in the expression of such traits (Mackay and Langley, 1990; Long et alv 1995). Macroevolutionary variation is likely to arise from changes affecting such developmentally important genes as well, but there is remarkably little empirical evidence (Barton and Turelli, 1989; Orr and Coyne, 1992).
+Empirical data on the genetic regulatory hierarchies underlying morphological (and
+therefore developmental) evolution should similarly improve our understanding of
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ 146 SYSTEMATIC BIOLOGY VOL. 46
+understanding of how morphological characters may be transformed by changes at genetic and developmental levels should eventually help us in building models for morphological character transformations that would empower phylogenetic reconstructions using such characters.
+The definition of and criteria for recognizing homology continue to be highly controversial subjects (Hall, 1994). In model systems such as the nematodeCaenorhabditis elegans, the connections among genetic, developmental, and organogenetic levels can be empirically defined. Therefore, parallel studies in genetics, development, and evolution should help define (1) how morphological homology is manifest at the level of shared genetic and developmental mechanisms (e.g., explore the biological foundation for the hypothetical morphostatic mechanisms of Wagner, 1994), (2) how homologous morphological characters are modified by evolutionary changes in (homologous or analogous) developmental or genetic regulatory mechanisms (e.g., the morphogenetic mechanisms of Wagner, 1994), and (3) how homologous mechanisms may be deployed to form analogous or entirely different characters (e.g., Hall, 1995).
+In response to this need to establish a fundamental, mechanistic understanding of character evolution, I have initiated a long-term study of the developmental and genetic basis of morphological evolution designed to take advantage of the wellstudied developmental genetic model Caenorhabditis elegans. The focus of this study is the external genital specialization of the male tail. My approach is to compare the steps of the historical pathway of male tail evolution in a group of species related to C. elegans to the functions and mutant phenotypes of developmental genes in C. elegans. The aim is to identify genes in which mutational changes may have contributed to morphological evolution. Eventually, I will explore this possibility for the particular genes identified by this "candidate gene" approach by reconstructing their molecular evolution and by testing differ-
+ent alleles in interspecific transgenic animals for their effects on morphogenesis.
+The similarity between the effects of certain developmental mutants in C. elegans and the evolved differences among nematode species has been pointed out by several authors (Steinberg and Horvitz, 1981, 1982; Ambros and Fixsen, 1987; Sternberg, 1991; Sommer et al, 1994; reviewed by Fitch and Thomas, 1997). Several mutant screens have focused on isolating mutations with an effect on the morphology of the male tail (reviewed by Emmons and Sternberg, 1997). Interpretation of the phenotypes of these mutations is facilitated because the adult and developing stages of the male tail have been analyzed by electron microscopical reconstruction (Sulston et al., 1980), and the origin of the constituent cells from largely invariant cell lineages has been described (Sulston and Horvitz, 1977; Sulston et al., 1980). Because of these invariant cell lineages and small cell numbers, rhabditid nematodes are uniquely suited for identifying individual genetic loci involved in the evolution and development of forms that would be difficult (or impossible) to map in organisms with larger tissues and variable cell lineages.
+Another advantage of the male tail for evolutionary studies is that it is one of the most variable morphological features of nematodes (Chitwood and Chitwood, 1950). The systematics of many nematode groups classically and currently depends heavily on male tail characters (Chitwood and Chitwood, 1950; Andrassy, 1976,1983, 1984; Sudhaus, 1974, 1976, 1980), many of which are analyzed in this work. Fitch and Emmons (1995) previously compared the development of the male tail in C. elegans with that in several other species in the family Rhabditidae (order Rhabditida, phylum Nematoda) and were able to trace differences in certain morphological features between species to differences in the rearrangement of individual cells in the developing epidermis of preceding larval stages. Such differences in cell rearrangement were postulated to arise from differ-
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 147
+"Eurhabditis"
+*//// ////////
+cr o* ^ <P ^ 9
+FIGURE 1. The set of statistically supported cladograms (I-FV) inferred from 18S rDNA sequences of rhab-
+ditid nematodes (Fitch et al., 1995) and the strict consensus of these trees (P). Numbers designate branches that
+are referenced in the text. Branch 4 in trees III and IV corresponds to species group "Eurhabditis" (Sudhaus, 1976). Branch 2 in trees II and IV corresponds to Rhabditis monophyly. In tree P, O = the two nodes that have been collapsed because of uncertainty in the branching order. However, this consensus tree suggests more uncertainty than actually exists: Rhabditis blumi and Rhabditella axei are not each other's closest relatives in any of trees I-IV and Pellioditis typica is not more closely related to the Caenorhabditis group than to the RhabditisRhabditella group.
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+     Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+TABLE 1. Parsimony analysis of nematode 18S rDNA sequence data alone or in combination with male tail character data using PAUP (Swofford, 1993) for different character sets, types, and weighting schemes.
+Anal-
+ysis Character setd
+M P s.b treec
+(
+II III Length CI Rank Length
+IV
+Length CI
+1 A (1.0 un)
+2 A (ng 1.0 un)
+3 A (1.0 gp)
+4 A (0.8 un)
+5 A (ng 0.8 un)
+6 A (0.5 un)
+7 C (1.0 un)
+8 C (ng 1.0 un)
+9 C (0.8 un)
+100 74 98 87 100 100 63 93 70 100
+1 1,644 1 1,508 4 141 1 7,048 1 6,449 1 2,116 2 771 2 735 2 3,313
+0.726 2 0.710 3 0.730 1 0.725 2 0.709 3 0.725 2 0.721 19 0.711 19 0.722 17 0.768 4
+1,650 0.721 4 1,514 0.705 4 139 0.771 40 7,074 0.721 4 6,476 0.704 4 2,124 0.720 4 780 0.705 1 744 0.696 1 3,352 0.706 1 56 0.915 221
+1,656 1,517 145 7,101 6,489 2,133 769 733 3,308 64
+0.717 3 0.703 2 0.659 10 0.717 3 0.702 2 0.715 3 0.724 5 0.715 5 0.724 4 0.782 11
+1,652 0.720 1,513 0.706 143 0.692 7,083 0.720 6,472 0.705 2,127 0.719 774 0.715 738 0.706 3,329 0.715 57 0.912
+10 M (un)
+-1.260 I -1.261 I -1.261 I -1.242 HI -1.237 III -1.255 III -1.463 II,
+100 66 100 65 100 73 100 94 100 94 100 92 100 100
+96 84 100 92 72 100 93 84 100 67 50 100 67 50 100 65 41 100 39s 38 65
+259 65
+11 M (or)
+12 M (un)
+13 M (un)
+14 M (or) A (1.0 un)
+15 M (or) A (ng 1.0 un)
+16 M (un) C (1.0 un)
+U-W h
+100 42 100 64 100 70 100 87 100 88 100 62 100 62 100 82 100 82 100 69 100 69 100 89 100 89 100 99
+51 100 48
+573 89 3 1,709 3 1,573 3 1,733 3 1,597 4 836 4 800 6 860 6 824 4 3,638 4 3,482 6 3,758 6 3,602 187 53
+0.544 49 0.728 1 0.713 2 0.712 1 0.696 2 0.725 4 0.718 4 0.692 5 0.684 5 0.728 3 0.720 3 0.689 3 0.681 3 0.795 4
+77 0.642 461 1,706 0.730 5 1,570 0.715 5 1,727 0.716 8 1,591 0.701 7
+88 1,720 1,581 1,744 1,605 833 797 857 821 3,628 3,472 3,748 3,592 52
+0.551 35 0.720 3 0.707 2 0.705 2 0.691 1 0.731 1 0.723 1 0.696 1 0.688 1 0.732 1 0.724 1 0.692 1 0.684 1 0.814 11
+76 0.652 1,709 0.728 1,570 0.715 1,728 0.716 1,589 0.702
+25 M (or)
+26 M (un)
+k
+u-w -1.302 u
+100 100 100 99
+48 40 74 39' 38 70
+144 67 217 49
+0.614 12 0.775 4
+60 0.700 115 43 0.912 151
+66 48
+0.625 9 0.795 11
+59 0.714 44 0.886
+A (1.0 un)
+A (ng 1.0 un)
+-1.301 Y -1.298 II -1.300 IV, II -1.263 II -1.263 IV -1.291 IV -1.288 IV -1.241 IV -1.237 IV -1.306 IV -1.304 IV -1.250 IV -1.245 IV -1.625 II,
+92 75 100 j
+17 M (un) C (ng 1.0 un)
+18 M (or) C (1.0 un)
+19 M(or)C(ng1.0un)
+20 M (un) C (0.8 un)
+92 40 100 86 66 100 85 50 100 90 74 100 90 74 100 85 86 99 85 86 99 93 77 100 93 77 100 77 85 100 77 85 100 46 44 70
+836 0.726 2 800 0.718 2 857 0.696 5 821 0.688 5
+831 0.734 795 0.726 850 0.706 814 0.698
+21 M (un) C (ng 0.8 un)
+22 M (or) C (0.8 un)
+23 M (or) C (ng 0.8 un)
+24 M (un)
+3,632 0.730 2 3,476 0.722 2 3,737 0.696 5 3,581 0.688 5
+3,614 0.737 3,458 0.729 3,709 0.705 3,553 0.697
+-1.258 I
+-1.258 I
+-0.996 II 99
+74 92 94 75
+-1.757 II,
+u-w
+Branches in MP tree
+% bootstrap support)d I
+1 2 3 4 5 Rank Length
+CI Rank
+CI Rank
+1 Alternative trees
+47 0.921 125
+48 0.897
+ 
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Anal-
+ysis Character set"
+Branches in MP tree (% bootstrap support)d
+Alternative tree;
+I II III
+IV
+Length CI
+27 M (Olf
+28 M (un)i C (1.0 un)
+29 M (or? C (1.0 un)
+30 M (un)) C (0.8 un) -1.309
+31 M (or) C (0.8 un) -1.293
+U 100 III 100 IV 100 III 100 IV 100 IV 100
+109 59 0.633 10 53 0.721 80 58 3 824 0.728 4 827 0.723 1 821 3 838 0.708 6 840 0.704 2 835 3 3,578 0.730 4 3,587 0.727 1 3,568 3 3,648 0.707 4 3,652 0.705 2 3,638 5 869 0.730 3 866 0.734 2 865
+0.646 6 0.733 2 0.712 1 0.734 2 0.710 1 0.736 1
+52 0.738 822 0.731 833 0.715
+32 M (un>
+m
+C (1.0 un) -1.358
+3,569 0.733 3,624 0.715 862 0.740
+c d e
+Topology shown in Figure 1 (except as noted) of the most-parsimonious (MP) tree(s) found in an exhaustive search.
+Percentage of 2,000 bootstrap replications supporting a particular branch in the MP tree (or the first MP tree listed).
+Listed for each of the four alternative trees shown in Figure 1 are the rank (i.e., number of trees with a length less than or equal to that of the tree evaluated), the length (i.e.,
+-1.303 -1.292 -1.278
+99 38 65 89 60 90 56 89 64 90 66 91
+49 81 71 100 79 100 64 100 78 100 73 100
+M P c
+Rank Length CI Rank Length CI Rank Length
+CI Rank
+tree 1
+2 3
+4 5
+TABLE 1. Continued.
+" A = all positions included in the 18S rDNA alignment (alignment 3 of Fitch et al., 1995); C = only highly conserved, unambiguously aligned positions of the 18S rDNA alignment (containing very few gaps [indels]); M = male tail characters, excluding the nonindependent adult characters 2-5, 7, and 8 (characters 31-34 were also excluded); ng = indels ignored;
+un = character transformations assumed to be unordered; or = multistate character transformations assumed to be linearly ordered; gp = indels only were counted. Positions involved in stem secondary structures (Caenorhabditis elegans model; see Fitch et al., 1995) in the 18S rRNA were weighted 1.0, 0.8, or 0.5 times as much as loop positions. Because integer weights are required by PAUP, relative weights were increased to achieve the appropriate ratio (e.g., a ratio of 0.8 was achieved by weighting stems by 4 and loops by 5). This integer weighting therefore results in greater total tree lengths. When male tail characters were combined with 18S rDNA characters (analyses 12-23), male tail characters were weighted as much as the 18S rDNA loop characters.
+b
+1992). However, the phylogenetic signal may be limited to only a few clades (e.g., in analyses 10 and 11, only two branches show high bootstrap support).
+Skewness of the distribution of tree lengths for the set of all possible unrooted trees. All values are significant at a level greater than 99% confidence limit (Hillis and Huelsenbeck,
+total number of substitutions and indels inferred by parsimony; if included, indels were counted as one substitution, regardless of lejigth), and the consistency index (CI, excluding "uninformative" characters, such as autapomorphies).
+'Four MP trees were produced by the unordered male tail characters, one of which was tree II in Figure 1. The other three trees may be designated in parenthetical notation,
+where clades are designated as nested groups in parentheses with numbers designating corresponding branches, as follows: tree U, (1:(C. briggsae, C. elegans)5:(4:(3:(2:(R. myriophila, R. blumi)P. typica)Rh. axei))(T. palmamm, Pe. strongyloides)Y, tree V, ((((C. briggsae, C. elegans)({R. myriophila, R. blumi)P. typica))Rh. axei)(T. palmarum, Pe. strongyloides)Y, tree W,
+((((C. briggsae, C. elegans)Rh. axei)((R. myriophila, R. blumi)P. typica))(T. palmarum, Pe. strongyloides)). Tree U is congruent with the phylogeny proposed by Sudhaus (1976).
+* Although the bootstrap value for this branch was 39%, a bootstrap value of 41% was obtained for branch 3 of tree U.
+h
+Tree Y (not shown in Fig. 1) was only produced by ordered male characters and does not correspond to any classification system or phylogeny proposed on the basis of either morphological or molecular evidence. In parenthetical notation, where clades are designated as nested groups in parentheses, this tree may be described as follows: (5:(4:(R. myriophila, R. blumi)(l:(C. briggsae, C. elegans)3:(2:(P. typica, Pe. strongyloides)Rh. axei)))T. palmarum).
+' Although the bootstrap value for this branch was 40%, a bootstrap value of 60% was obtained for an alternative branch supporting a clade containing the two Rhabditis species, Rhabditella axei, and the Caenorhabditis species (i.e., as in tree II).
+i Because changes in characters 31-33 are each strongly correlated with changes in character 30 (see text and Appendix 5), parsimony analyses were repeated with characters 3133 excluded.
+k
+Because changes in character 34 may also be correlated with changes in character 30 (see text and Appendix 5), parsimony analyses were repeated with characters 31-34 excluded.
+' Although the bootstrap value for this branch was 39%, a bootstrap value of 46% was obtained for branch 3 of tree U.
+m
+Each male tail character that was included had twice the weight of a nucleotide character.
+ 
+ 150 SYSTEMATIC BIOLOGY VOL. 46
+ences in the expression or specificity of cellular recognition and adhesion proteins.
+In the character analysis presented here, I have described these differences in morphology and development as discrete character states and reconstructed their evolutionary changes in the context of the phylogenetic relationships of the species. The species relationships were previously inferred from nucleotide sequences of 18S ribosomal RNA (rRNA) genes (rDNA; Fig. 1; Fitch et alv 1995). I further examined how sensitive the multistate character reconstructions are to possible ontogenetic constraints on the ordering of changes. These well-defined molecular and morphological character sets also allow an opportunity to determine whether or not the morphological and molecular data are congruent and if so whether or not data combination can in this case help resolve phylogenetic ambiguities.
+These reconstructions provide information not only about the polarity of character state changes but also about the minimum number of evolutionary steps underlying particular character state differences. By combining this information with existing knowledge about the roles of particular genes or genetic pathways in pattern formation or morphogenesis, specific hypotheses can be formulated for the role of particular genes and genetic changes in male tail evolution.
+MATERIALS AND METHODS
+Nematodes and Culture Conditions
+Nematode strains used in this work have been described previously (Fitch and Emmons, 1995; Fitch et al., 1995): PB102 = Caenorhabditis briggsae (Dougherty and Nigon, 1949) Dougherty, 1955; CB4088 = Caenorhabditis elegans (Maupas, 1899) Dougherty, 1953; EM435 = Rhabditis myriophila Poinar, 1986; DF5010 = Rhabditis blumi Sudhaus, 1974; DF5006 = Rhabditella axei (Cobbold, 1884) Chitwood, 1933; DF5026
+= Pellioditis typica (Stefanski, 1922) A n drassy, 1983; DF5019 = Teratorhabditis palmarum Gerber and Giblin-Davis, 1990; DF5022 = Pelodera strongyloides dermatitica
+(Sudhaus and Schulte, 1988) Fitch, BugajGaweda, and Emmons, 1995. All of the strains are wild type except C. elegans strain CB4088, which carries the him5(el490) mutation, and C. briggsae strain PB102, which carries the mih-l(bdlO2) mutation (S. Baird, pers. comm.); both of these mutations result in a high incidence of males of wild type morphology in selfing populations of these hermaphroditic species. All of the strains used in this work have been made available from the Caenorhabditis Genetics Center (University of Minnesota). Cultures were maintained at 20°C on NGM plates preseeded with Escherichia coli OP50 (Brenner, 1974). Except for Teratorhabditis palmarum (maintained by monthly transfers), worms were cryogenically preserved as described for C. elegans (Sulston and Hodgkin, 1988).
+Phylogenetic Analyses
+PAUP 3.1.1 (Swofford, 1993) was used to estimate phytogenies from the Fitch et al. (1995) 18S rDNA sequence data (EBI alignment accession number DS19607) alone or in combination with the male tail character data presented in this work (see Appendices 1, 7). Details of the various character sets, character weights, and character types used are presented in Table 1. When male tail character data were used in these parsimony analyses, the nonindependent characters were excluded (see Table 1). Multistate male tail characters were assumed to be either unordered or linearly ordered (Tables 1-3; see Appendix 2).
+Reconstruction of Character State Transformations
+Morphological and developmental data used in this study were taken from previous work (Fitch and Emmons, 1995) and used to define characters and character states as discussed in Appendix 1. All possible evolutionary character state transformations were reconstructed on each of the four alternative trees by parsimony using MacClade 3.04 (Maddison and Maddison, 1992) with the character states defined in Appendix 6 and the data matrix shown in Appendix 7. Many changes could be re-
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 151
+constructed unequivocally with respect to both state change and branch (i.e., such a change remained on the same single branch for all possible most-parsimonious reconstructions and all four alternative trees); only these unequivocal changes are listed in Table 2. Details concerning the treatment of particular characters are presented in Appendices 1, 5, 7, and 8. To determine the relative costs (i.e., effects on the parsimony score) of assuming particular states at ancestral nodes (see Table 3), alternative states were fixed at certain nodes using MacClade.
+RESULTS AND DISCUSSION
+Development of the Rhabditid Male Tail: Characters and Ray Homologies
+The eight nematode species studied here represent six genera of one of the largest families of free-living nematodes, Rhabditidae, and were chosen in part because they present a range of male tail morphologies. Most of the morphological and developmental features that are considered here have been described in detail elsewhere (Fitch and Emmons, 1995). These features are associated with the external genitalia present in the posterior region of the male. The most prominent of these features are an acellular fan extending bilaterally outwards from the body and a set of nine bilateral pairs of sensilla, called rays, lying within the fan with their distal tips opening to the exterior at various points. An archetypal arrangement of these features is depicted in Figure 2.
+an ancestral condition (see Panchen, 1994: 28). In contrast to Owen's application of the term, however, the rhabditid archetype has an explicit developmental basis (Fig. 2).
+An understanding of the development of male tail characters is particularly relevant to understanding their homologies and evolution. For example, assigning ray homologies, as reflected in this case through common developmental origins, is important for reconstructing evolutionary changes to individual rays and thus to the pattern of rays as a whole. Previous attempts to identify ray homologies (e.g., Sudhaus, 1974, 1976) were insufficient (e.g., they misidentified particular rays or mistook phasmids for rays) because they described patterns only in adults (appropriate tools for developmental analysis were unavailable). Appendix 1 therefore presents a brief description of the development of the male tail as requisite background for understanding the evolution of the male tail characters studied in this work. For example, my assignments of ray homologies are based on the specific pattern of relative positions in which the ray cells originate in the lateral hypodermis (Fig. 2a). This specific pattern is symplesiomorphic for the species studied and suggests homologous relationships between rays whose cells originate at the same relative position (Fitch and Emmons, 1995; Appendix 1). The assignment of ray homologs with respect to the archetype (Fig. 2) would probably have been regarded by Owen as a case of general homology (see Panchen, 1994:36). However, my definition of ray homologs in different taxa as having the same relative topological origins during development is perhaps more similar to von Baer's notion of homology being rooted "in the potential expressed
+In this paper, I reserve the term archetype
+for the hypothetical, least-differentiated
+state (i.e., the default state that would re-
+sult from the absence of ray cell migrations
+after the cells originated in the lateral hy-
+podermis) and the term ground state for the by shared ontogenetic primordia" (Riep-
+hypothetical ancestral state. My use of the term archetype in the sense of a Platonic, idealized generalization that is not actualized in any taxon is somewhat similar to Richard Owen's (1848) use of the term in his depiction of an idealized vertebrate archetype and contrasts with Darwin's (1859: 435) subsequent application of the term to
+pel, 1994:94). These shared primordia are determined according to their relative positions as formulated by Remane (1952; Sudhaus and Rehfeld, 1992:70-76) as a criterion of homology (adumbrated by Geoffrey's [1818] "principle of connexions"). Regardless of how homology itself is defined, the symplesiomorphic pattern of ray
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ 152
+SYSTEMATIC BIOLOGY
+VOL. 46
+(d)
+stage hours " 30
+L3
+35 L4
+Rn
+I
+34
+RAJA
+RrtB R/TSt ray cells
+R/7.a
+FIGURE 2.
+left, posterior is to the right. Thick lines represent the body outline. Ph = phasmid; se = body seam; hyp7 = main body hypodermal syncytium. (a) The boundaries of ray and hypodermal cells in the left lateral tail hypodermis are depicted for an archetypal early L4 male rhabditid after the ray cell lineages are completed. Thin lines represent cell boundaries. The groups of ray cells that arise as clusters of four cells each are numbered; the Rn.p hypodermal cells are designated individually. The relative positions in which ray cells and their associated Rn.p hypodermal cells originate in the lateral hypodermis are highly conserved (symplesiomorphic)
+in the rhabditids studied (Fitch and Emmons, 1995). (b) The boundaries of ray and hypodermal cells in the left lateral tail hypodermis are depicted for an archetypal late L4 male rhabditid. Thin lines represent cell boundaries. For each cluster of four ray cells shown in a, one cell undergoes programmed cell death and the two neuronal cells sink below the hypodermal surface, leaving only the structural cell at the hypodermal surface (the single numbered cells), (c) Thin lines represent external features of the archetypal adult male tail. The rays are numbered. In the archetype, rays 5 and 7 open on the dorsal surface and the others open at the edge of
+the fan. If the ray structural cells remained at the same positions in which the ray cells originated, this hypothetical "default" pattern of rays in the archetypal adult would result from male tail morphogenesis. This archetype thus provides criteria for assigning hypothetical ray homologies, as denoted by the numerals near clusters of ray cells at early L4 (a), ray structural (Rnst) cells at late L4 (b), and adult rays (c). Ray patterns in
+the species represented in Figure 3 therefore result from shifts in the positions of the ray cells after they are born in the lateral hypodermis (Fitch and Emmons, 1995). (d) A typical ray cell lineage in Caenorhabditis elegans. At least in C. elegans, the four cells of each ray cluster are lineally related: one cell undergoes programmed cell death (X), and the two neuronal cells (RnA and RnB) sink below the hypodermal surface during L4 development, leaving only the structural cell (Rnst) at the surface.
+Archetype of rhabditid male tail development; view of the left lateral surface. Anterior is to the
+Rn.p (hyp)
+     Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 153
+cell origins provides a basis for comparing ray development in the different species and for defining characters and character states.
+I have divided the varying male tail features of the eight species in the study group into a series of 36 characters, each of which assumes two or more character states (Appendices 1 and 6). The distribution of character states among the species is given in Appendices 1 and 7. Characters 1-10 concern adult morphology, and characters 11-36 are developmental. A more detailed description of the characters and character states is provided in Appendices 1 and 2.
+Adult characters 2, 3, 5, 7, and 8 are dependent upon developmental characters 25, 11, 12, 21, and 22-24, respectively. For example, the degree of adult fan extension (character 3) is ontogenetically related to the amount of overall retraction during L4 (the last larval stage) morphogenesis (character 11), and the displacement of the openings of rays 1, 2, and 4 to the dorsal or ventral surfaces of the adult fan (character 8) is correlated with the position of the ray structural cell in the lateral hypodermis of the L4 larva (characters 22-24). Where I have used male tail characters in phylogenetic analyses, the dependent adult characters have been excluded.
+Phylogenetic Analysis: A Case for Combining Data
+separating Teratorhabditis palmarum and Pelodera strongyloides from the other species by parsimony using partial 18S rDNA sequences from several ascaridoid species as
+an outgroup (Fitch et al., 1995) and more recently using 18S rDNA sequences from representatives of several other groups within the order Rhabditida as well as an anciently diverged adenophorean nematode (Fitch and Thomas, 1997). The phylogenetic uncertainties represented by the set of alternative trees depicted in Figure
+1 involve only two points (designated by the open circles on tree P, the strict consensus): (1) either Pellioditis typica diverged slightly before Caenorhabditis diverged from the Rhabditis species (R. blumi and R. myriophila, the latter referred to previously as Rhabditis sp. br) and Rhabditella axei (i.e., as in trees I and II) or P. typica forms a monophyletic "Eurhabditis" species group with Rhabditella axei and the Rhabditis species (as in trees III and IV); (2) Rhabditis myriophila could be more closely related to Rhabditella axei than to Rhabditis blumi (trees I and III) or may be more closely related to R. blumi (trees II and IV).
+To provide a baseline for comparing results from analyses including the male tail characters, I reanalyzed the 18S rDNA data set alone. Parsimony analysis of the entire 18S rDNA data set results in one most-parsimonious (MP) tree, tree I (Fig. 1); the other three trees are next in rank (Table 1, analysis 1). I also examined the effects on the four trees of (1) indels (gaps introduced into the sequences to allow alignment), (2) nonindependence at stem positions (potentially paired bases that may undergo compensatory changes to maintain secondary structures in rRNA), and (3) variable regions, which include positions that change more rapidly, have more indels, and bear a higher probability of nonhomologous nucleotide comparisons
+Previously (Fitch et al., 1995), 18S rDNA
+sequences were used to infer a set of four
+alternative species phylogenies (Fig. 1) that
+could not be statistically rejected in pair-
+wise parsimony tests (Templeton, 1983;
+Felsenstein, 1993), log-likelihood ratio tests
+(Kishino and Hasegawa, 1989; Felsenstein,
+1993), or ordinary least-squares tests
+(Rzhetsky and Nei, 1992, 1993). Relative to
+the Fitch et al. (1995) analysis, "C. vulgar-
+is" and "C. remanei" (now C. remanei vulthan conserved regions.
+garis and Caenorhabditis sp. n., respectively; When indels are removed, the same MP W. Sudhaus, pers. comm.) were excluded tree is obtained as when they were includfrom the present character analysis beed, but bootstrap support drops for the cause they are essentially identical develclades defined by branches 2-4 (Fig. 1, tree opmentally and morphologically to C. eleI; Table 1, analysis 2 compared with analgans. The root was placed on the branch ysis 1); the rank of tree IV is also in-
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ 154 SYSTEMATIC BIOLOGY VOL. 46
+creased. When indels are considered alone
+(Table 1, analysis 3) it becomes clear that
+indels are major contributors (94% of boot-
+strap replicates) to support for the branch
+(branch 4, tree II, Fig. 1) that separates Pel-
+lioditis from the other "Eurhabditis" taxa
+{Rhabditis and Rhabditella) and CaenorhabAlthough assumptions of ordered verditis. These effects are due to indels in vari-
+able regions, because removing the few indels in the conserved regions does not affect the topological results (even bootstrap percentages are unaffected; cf. analyses 8 and 7, Table 1).
+Possible nonindependence at stem positions does not have a strong effect on the analysis. When nucleotide characters likely to be involved in stem structures (C. elegans model; Ellis et al., 1986) are downweighted by either 20% (as suggested by Dixon and Hillis, 1993; Table 1, analyses 4 and 5) or 50% (as suggested by Wheeler and Honeycutt, 1988; Table 1, analysis 6), the MP tree is unchanged, as are the relative ranks of the four trees. Also, the bootstrap values for different branches fluctuate only slightly (Table 1, cf. analyses 4 and 6 with analysis 1, and analysis 5 with analysis 2).
+When the more variable regions are excluded (Table 1, analyses 7-9), there is greater relative support for the inclusion of Pellioditis with Rhabditis and Rhabditella into a monophyletic "Eurhabditis" clade. That is, tree HI becomes the MP tree. This topology is also supported when stems are down-weighted (Table 1, analysis 9), although bootstrap support for the "Eurhabditis" clade (branch 4 of tree HI, Fig. 1) is not strong.
+sus unordered models for male tail character state transformations yield different MP phytogenies, the bootstrap support is very low for all but two clades, Caenorhabditis and Rhabditis (Table 1, analyses 10 [100% support for branches 1 and 2, respectively] and 11 [100% support for branches 1 and 4, respectively]). A high level of bootstrap support (99-100%) is maintained for branches 1 and 2 even when characters 31-34 are excluded (Table
+1, analyses 24-27; characters 31-34 are probably correlated). Because of the strong support for the Rhabditis clade, the consistency indices (CIs) for trees II and TV are substantially higher than those for trees I and IQ. Thus, if Rhabditis myriophila is more closely related to Rhabditella axei than to Rhabditis blumi, then there has been substantial homoplasy for these morphological characters (even more than for the molecular characters, if ordered states are assumed). Furthermore, character reconstructions show that there are no potential synapomorphies (from the male tail data set) that could support the monophyly of Rhabditis myriophila and Rhabditella axei but that several synapomorphies unequivocal-
+ly support Rhabditis monophyly (i.e., the open bars in Fig. 3). I therefore favor the view that Rhabditis is not paraphyletic with respect to Rhabditella.
+These analyses suggest that when ac-
+count is taken of characters that are likely
+to contribute the majority of homoplastic
+changes (and thus to the greater portion of
+the error in the phylogenetic inference), the
+"Eurhabditis" clade is given greater sup-
+port. Based on morphological data, Sud-
+haus (1976) suggested that Rhabditis could male tail data do not provide significant be paraphyletic; however, Rhabditis has bootstrap support for any clade not disnever been considered to be paraphyletic
+with respect to Rhabditella. On the basis of similar parsimony results (and additional analysis), Fitch et al. (1995) postulated that
+played in the set of alternative rDNA trees. That is, the conflicts in the results from the different data sets (i.e., as manifest in the different MP trees) appear only in portions
+tree IV could be the "true" tree, such that both "Eurhabditis" and Rhabditis represent monophyletic groups. Statistically, however, the molecular data alone cannot distinguish among the four alternative trees in Figure 1 (Fitch et al., 1995).
+The insufficient bootstrap support for clades other than Caenorhabditis and Rhabditis when male tail characters are used alone and the inability of the 18S rDNA data to significantly resolve the two points shown on tree P (Fig. 1) suggest that the two data sets are complementary. The
+     Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 155
+of the trees where character support is weak. This is one of the most appropriate instances in which data sets should be combined (de Queiroz, 1993). I have therefore excluded the nonindependent male tail characters and combined the data sets (Table 1, analyses 12-23, 28-32).
+Combining the data augments support for tree IV. Whereas tree IV was never the MP tree when either data set was considered alone, it became the MP tree for the combined data set (Table 1, analyses 1223), except when rDNA variable regions and indels were included (Table 1, analyses 12 and 14) or when an unordered model was used with characters 31-33 excluded (Table 1, analyses 28 and 30).
+male tail characters is to slightly decrease the ranks of trees I, II, and HI relative to tree IV and to increase bootstrap support for the Rhabditis and "Eurhabditis" clades in tree IV (Table 1, cf. analyses 14, 15, 18, 19, 22, 23, 29, and 31 with analyses 12, 13, 16, 17, 20, 21, 28, and 30, respectively). Bootstrap support decreases only for the Rhabditis-Rhabditella branch (branch 3 of tree IV). This decrease is due at least in part to the extreme posterior positioning of the ray 4 cell cluster during morphogenesis in Khabditella axei, a reversal in tree IV that has a high parsimony cost under the assumption of ordered transformations. These results sustain the prediction of Slowinski (1993) that minimally connected (linearly ordered) characters increase phylogenetic resolution relative to maximally connected (unordered) characters.
+Changing assumptions about the rDNA
+characters in the combined set yields sim-
+ilar results as when the rDNA characters
+were considered alone. First, excluding in-
+dels in the variable regions resulted in in-
+creased support for inclusion of Pellioditis
+in a "Eurhabditis" clade, as the parsimony
+rank of tree IV increased (Table 1, cf. anal-
+yses 13 and 15 with analyses 12 and 14,
+respectively). (The few indels in the con-
+served regions have no topological effect;
+tree ranks and bootstrap values are iden-
+tical when analyses 17, 19, 21, and 23 are
+compared with analyses 16,18, 20, and 22,
+respectively.) Second, excluding the vari-
+able regions (analyses 16-23) resulted in
+stronger support for a "Eurhabditis" clade
+(e.g., comparing analyses 16 and 18 with
+analyses 12 and 14 shows that tree IV be-
+comes the MP tree instead of tree II); boot-
+strap support for "Eurhabditis" (branch 4
+of tree IV) also increases (cf. analyses 17
+and 19 with analyses 13 and 15, respec-
+tively). Third, down-weighting nucleotide
+characters likely to be involved in forming
+stem secondary structures (and thus could
+undergo interdependent compensatory
+changes) results in slightly greater boot-
+strap support for the monophyly of both
+Khabditis (branch 2 of tree IV) and "Eurhabunder the assumption that multistate charditis" (branch 4 of tree TV; cf. analyses 20-
+23 with analyses 16-19).
+Finally, the most interesting effect of im-
+posing the constraint of linearly ordered transformations on appropriate multistate
+acters were unordered. This assumption is predicted to lead to a conservative estimate of the number of unequivocal transformations because resolution is generally lower than under the assumption of a lin-
+Taken together, the phylogenetic analyses summarized in Table 1 strongly suggest that tree IV is likely to be the best representation of the phylogenetic history of these species.
+Reconstruction of Unambiguous, Unequivocal Transformations
+Because the main goal of this work was to reconstruct the evolutionary changes to see if underlying genetic changes could be suggested and targeted for later molecular study, I was interested in the least ambiguous, least equivocal set of reconstructions possible. (I have reserved the terms ambiguous and equivocal to refer respectively to the uncertainty in the branching order in a cladogram and the uncertainty about the branch on which a transformation occurs; uncertainty about the states in a transformation will be specifically described as such.) Using MacClade (Maddison and Maddison, 1992) with the male tail data matrix (Appendix 7), character state transformations were reconstructed for the internodes of all four possible cladograms
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ 156 SYSTEMATIC BIOLOGY VOL. 46
+early ordered (minimally connected) transformation model (Slowinski, 1993). Of the 62-71 total transformations (the total number depending on the tree topology), 26 could be reconstructed (for 25 of the 36 characters) that were unequivocal and occurred on the same unambiguous branch in all four possible trees (Table 2). These transformations were therefore deemed the most reliable representations of historical changes; I selected from this pool the evolutionary changes that I have targeted for further study.
+Although an ordered model does seem
+to provide a higher phylogenetic resolution
+for the male tail characters (only one MP
+tree results; Table 1, analysis 11), evolu-
+tionary reconstructions for some characters
+actually become less resolved, depending
+on the tree. For example, the primitive state 27
+for several of the transformations listed in Table 2 becomes uncertain under an ordered model, resulting in an equivocal assignment for some of these transformations in particular trees. Only two transformations that were equivocal under an unordered model became unambiguously and unequivocally resolved under an ordered model. Only the transformations that did not change under different models were targeted for further study.
+a—>c 26 a->b a->b
+30 d -^b
+31 d ->b
+32 d ->b
+A large portion of the unambiguous, un-
+equivocal transformations listed in Table 2
+occur in the Caenorhabditis lineage, sug-
+gesting that C. elegans may be a particular-
+ly suitable model for understanding the
+genetic basis of evolutionary change, es-
+pecially the aquisition of novel features.
+According to Table 2, an ancestor of this
+genus acquired a number of distinctive
+characteristics, including a closed fan po-
+sitioned more posteriorly (characters 1, 2,
+25: a —» b), fusion of the terminal tail tip trees II, III, and IV. cells (13: a —> b), dorsoventral displace-
+ment of the openings of rays 1, 2, and 4 (8,
+22-24: a —> b), and extension of the R9.p a novel tapered morphology for ray 6 (9: a
+cells dorsally to meet at the dorsal midline (29: a —> b). Of particular significance to understanding the genetic basis of some of these evolutionary transformations are atavistic mutations in C. elegans. For example, an ancestor of Caenorhabditis also acquired
+—> b); atavistic mutations result in a primitive cylindrical morphology, pointing to genes required for the tapered morphology that therefore may have been involved in the evolution of this morphological novelty.
+TABLE 2. Unequivocal transformations reconstructed for all four possible nematode cladograms in Figure 1. Transformations are listed for branches numbered on the consensus tree (tree P, Fig. 1). Characters and character states are designated as in Appendix 6. The reconstruction was made under the model of unordered transformations for multistate characters. Transformations that become equivocal for at least one tree under the ordered model are noted. The ordered model results in two additional unequivocal reconstructions over all four topologies: 14: c —» d a n d 1 5 : c —» d o n b r a n c h 5 .
+Branch no. 1
+Character no. State change
+aa l a-»b
+a b
+Chosen for further genetic study.
+2 7a
+a->ba
+3 3
+11 a—>b
+4 20 5 20
+b
+a ->b
+b
+c c d
+e
+8
+aa 5 a-»b
+a—>b 4 a—>b
+34 b-»c
+35 d->b
+7 1
+2 a—>b
+8 a—>b
+9a a—>ba 13 a—>b
+22 23 24 25 29
+a-»b a-»b a—»b a->b a->b
+12* a -> b
+a
+If ordered, the primitive state could be either a or b for trees I and II.
+c
+trees I, II, and IV.
+d
+If ordered, the primitive state could be either c or d for
+If ordered, the primitive state could be either c or d for
+trees I, II, and IV but becomes unequivocally c for tree III
+(thereby imposing an unequivocal c —» d change on branch 6
+for tree III).
+e
+If ordered, the primitive state could be either b or c for
+a->b
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 157
+The distribution of the other unambig-
+uous, unequivocal transformations listed
+in Table 2 further suggests why the male
+tail characters support few relationships:
+these changes are autapomorphic, except
+for the 10 changes supporting the Caeno-
+rhabditis clade (branch 7 of tree P, Fig. 1)
+and the 2 changes supporting the Rhabdi-
+tis-Rhabditella clade (branch 8; these 2
+changes are actually developmentally cor-
+related and were counted as a single
+change in the phylogenetic analyses). Al-
+though not shown in Table 2 (which only
+shows changes on branches shared among
+all four cladograms), there are no potential
+synapomorphies (from pools of either
+equivocal or unequivocal changes) sup-
+porting a Rhabditis myriophila-Rhabditellaworst hypothesis at most characters and axei relationship (trees I and III). However,
+there are seven potential synapomorphies that are unequivocal on trees II and IV (nine under the ordered model) supporting Rhabditis monophyly (e.g., see Fig. 3).
+requires 18-21 additional changes relative to the MP reconstructions (Table 3). The archetype is therefore unlikely to be representative of the most recent rhabditid ancestor. That is, the least-differentiated state
+Reconstruction of the Male Tail in the Most (i.e., the archetype, Fig. 2) is unlikely to
+Recent Common Ancestor
+The archetype (Fig. 2), in which ray cells do not shift position from where they originate and Rw.p cells do not fuse with their neighbors, provides one hypothesis for the ground state of Rhabditidae that can be evaluated phylogenetically. Accordingly, the ray positions in this archetypal ancestor would appear relatively evenly spaced, as in Figure 2c. Evolution from this archetypal ancestor would have proceeded by addition of steps during the ontogeny of the rays between the time the ray cells originate and ray morphogenesis. In these steps, the ray cells would move to new (developmentally derived) epidermal positions from where they originated; the resulting ray pattern would have displaced and unevenly arranged rays. Sudhaus (1976:74-76) suggested a similar primitive Urform with evenly spaced rays, although he did not regard this form as representative of the most recent ancestor of the Rhabditidae.
+By fixing the states of the multistate developmental characters corresponding to ray positioning and Rn.p cell fusions, the
+represent the evolutionary ground state (ancestral state) for the Rhabditidae. This conclusion may apply more generally and may be underappreciated in many comparative developmental studies that fail to incorporate an explicit phylogenetic framework.
+Table 3 also shows that the effect of assuming an ordered model of transformations generally increases resolution (i.e., reduces the number of MP reconstructions of ancestral states), but not for all characters. For example, assuming an ordered model increases resolution over all trees for character 15 and over some trees for characters 14, 16, 33, and 36. Whereas a single MP reconstruction for characters 30-32 results under an unordered model, these characters become less resolved in all the trees under an ordered model. In cases where resolution is increased by assuming an ordered model, there are no states in the MP reconstruction that were not in the MP reconstruction under the unordered model. The single exception is character 33, where state b becomes the single MP ancestral state under an ordered model but was not
+relative cost of assuming that the archetypal form (state a for all of these characters) is ancestral to the rhabditid species studied here is generally higher than for any alternative hypothesis (Table 3). If transformations are assumed to be unordered, the parsimony cost of assuming that the archetype is ancestral for most trees is small (5-11 additional changes over 10 characters need to be postulated, depending on the tree; Table 3). In most cases, however, the cost of assuming the archetypal state at the root node is higher than assuming some other state (the archetypal state is not even represented for characters 35 and 36). If transformations are assumed to be ordered, the archetype is the single
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ 158 SYSTEMATIC BIOLOGY VOL. 46
+TABLE 3. Consequences of assuming particular ancestral states and a linear model of ordered transformations for appropriate nematode multistate morphological characters. I-IV and P refer to dadograms in Figure 1.
+Ancestral
+Unordered
+Characterno. state" I II in IV P I II m IV P
+Ray cell associations 14.ray1
+15.ray2
+16.ray3
+17.ray4
+18.ray5
+Rn.p cell fusions 30.Rl.p
+31.R2.p
+32.R3.p
+33.R4.p
+34.R5.p
+35.R6.p
+36.R7.p
+Total cosr=
+Ordered
+a 0 0 0 0 0 1 1 1 1 1 b1100011000 c0000011000 d0000022111
+a 1 1 1 1 1 2 2 2 2 2 b0000000000 c0000000000 d0000011111
+a 0 1 0 1 1 3 2 3 3 3 b0000011111 c0100011000 d0000011000
+a 0 1 0 1 1 5 5 5 5 5 b0101133333 c0101122322 d0000022322
+a 0 0 0 0 0 1 1 1 1 1 b0111101111 c0111112222
+a 1 2 1 2 2 7 6 7 6 6 b1111154544 c1211143433 d0000043533
+a 1 2 1 2 2 7 6 7 6 6 b1111154544 c1211143433 d0000043533
+a 1 2 1 2 2 7 6 7 6 6 b1111154544 c1211143433 d0000043533
+a 0 1 0 1 1 3 3 3 3 3 b1211122222 c0000022322
+a 1 1 1 1 1 6 5 6 5 5 b0000043433 c1111153433 d1111174544 e2121196766
+b 1 1 1 1 1 3 3 3 3 3 c2222222222 d0000011111
+b 0 0 0 0 0 1 1 2 2 1 c1100111111 d1100122112
+5 11 5 11 11 20 18 20 21 21
+a b
+be postulated if the root node is assumed to be a particular state, and transformations are either unordered (i.e., can occur
+directly from any state to any other state) or ordered (i.e., can only occur in the linear order where a is the most developmentally
+primitive state according to the archetype depicted in Fig. 2). The results are shown for all multistate characters except
+characters 20 and 21, for which a natural order for the alternative states was not apparent.
+c
+Total increase in parsimony score if state a is fixed at the root node for all characters listed except 35 and 36. Under the ordered model, the cost shown is the number of additional steps required over the lowest parsimony score assuming ordered characters, not over the lowest parsimony score assuming unordered characters.
+Relative parsimony costf"
+Different states were fixed for the root node using MacClade (Maddison and Maddison, 1992).
+For each tree (P is a "soft" polytomy consistent with all four alternative trees), the number of additional changes that must
+     Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 159
+an MP reconstruction under the unordered model (Table 3).
+This analysis at the root node exemplifies features of the character reconstructions at other nodes. Specifically, the major qualitative differences in the character reconstructions made for a particular tree under ordered as opposed to unordered models are in the numbers of step changes assigned to particular branches and in the resolution of nodal states or branch assignments. Rarely are there conflicting sets of MP reconstructions of nodal character states between the different transformation models.
+The Best Reconstruction: Ancestral Features and Developmental Constraints
+Tree IV is currently my best hypothesis for the relationships of the taxa studied. Specifically, although the phylogenetic analysis of the 18S rDNA data alone could not significantly resolve the branching order at the two nodes marked in tree P (Fig. 1), (1) the trends in the 18S rDNA data suggest that "Eurhabditis" is likely to be monophyletic, and (2) the male tail characters augment support for Rhabditis monophyly (as well as "Eurhabditis" monophyly to some extent).
+Therefore, to obtain a more focused picture of male tail evolution, I reconstructed the evolutionary transformations specifically for tree IV (only unequivocal changes are shown in Fig. 3). For this tree, 44 of the total 63 transformations could be unequivocally reconstructed, assuming unordered multistate characters. Using these unequivocal transformations, a reasonably well-resolved picture of the ancestor at the root node can be reconstructed (Fig. 3). The only characters that have equivocal states at the root node are 6,14-16, and 36. Thus, parsimony could not unequivocally predict whether the most recent common ancestor of the study group had a phasmid placed posteriorly or laterally (character 6). Likewise, parsimony could not unequivocally predict the ray cell associations (and hence the positions of the rays) for rays 13 or the fusion behavior of R7.p (characters
+14-16 and 36, respectively) in the common ancestor.
+These five equivocally reconstructed characters define a significant morphological-developmental division of the species in the study group that corresponds to the earliest phylogenetic divergence (Fig. 3). For all the species on the left branch leading from the root (i.e., the Caenorhabditis and "Eurhabditis" clades, Fig. 3), the phasmid is located posteriorly, ray 1 contacts Rl.p and lies near the anterior boundary of the fan, ray 2 contacts R2.p, ray 3 contacts R3.p and is anterior to ray 5, and R5.p and R7.p fuse independently with other cells or remain unfused. For both of the species on the right branch leading from the root (i.e., T. palmarum and Pelodera strongyloides), the phasmid is located laterally, ray 1 contacts R3.p and lies near ray 2, ray 2 does not contact R2.p, ray 3 contacts R6.p and is posterior to ray 5, and R5.p and R7.p fuse to each other. This distribution of character states is consistent with the phylogeny and suggests that the corresponding apomorphic changes occurred on one of the two branches leading from the root node. Because these characters are equivocal at the root node, I cannot confirm the prediction of Sudhaus (1976: 73-75) that the rhabditid ancestor had (1) 2 rays lying precloacally (the positions of the anterior 3 rays [characters 14-16] could not be unequivocally reconstructed) and (2) had 10 "rays" on each side (if the phasmid position [character 6] were anterior, between rays 6 and 7, then the ancestor would appear to have 10 rays) (for a further comparison of these results with those of Sudhaus, see Appendix 4).
+An ordered transformation model helps to resolve many changes but also results in lower resolution for other changes and some nodal states. Specifically, assuming an ordered model results in the resolution of 11 transformations that were equivocal under the unordered model (Fig. 3). However, five unequivocal transformations under the unordered model become equivocal under the ordered model (Fig. 3). Moreover, there is no longer a single MP state at the root node for ray cell position
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+     Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Rhabditis
+§77:d->c 20: a->b
+118: a-»c (36: c->b)
+Ancestor:
+b/c-»e) Rhabditis / Rhabditella Ancestor
+t *33: c-»a
+b/c^a)
+34:
+Ancestor at the Root Node: Ph?>
+Primitive state may differ for this unequivocal change if ordered transformations assumed
+46
+Transformation is absent if an ordered model of transformation is assumed
+*28: a->b (36: c/d-»b)
+130: d-»b 13/: d->b
+35: d-»b
+5
+34
+12 5346Ph
+T.palmarum Pe.strongyloides
+(14: (15:,
+Transformation on an unambiguous branch is unequivocal for all trees in Fig. 1
+Transformation on an unambiguous branch is unequivocal for this tree but equivocal on at least one other tree in Fig. 1
+Transformation on an ambiguously supported branch is unequivocal on this tree
+Unequivocal change on this tree only if an ordered model of transformation is assumed
+Homoplasy
+Transformation becomes equivocal if an ordered model of transformation is assumed
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 161
+characters 17 and 18 and Rn.p cell fusion characters 30-34, although the alternative states of these developmental characters do not affect the inferred adult male tail morphology of the ancestor at the root node.
+There is very little homoplasy for the male tail morphological characters in this tree. There are only two pairs of parallel changes among the unequivocal transformations (Fig. 3) and three cases of parallel or reversal changes among the equivocal characters (not shown). The major difference in the parsimony scores between trees I or III and II or IV (Table 1, analyses 10 and 11) results from the large number of homoplastic changes (parallels or reversals) that must be postulated to maintain Rhabditis paraphyly (trees I and III, Fig. 1); these changes are apomorphic for a Rhabditis clade in trees II and IV (Fig. 3).
+Although there is little homoplasy in tree IV, there is an interesting case of character dependence. This dependence involves the characters (30-33) for the fusions of the anterior four Rn.p cells and possibly the character (34) for R5.p fusions. Because these are multistate characters, the concentrated-changes test of Maddison (1990) could not be used to demonstrate this dependence. A binary recoding of multiple states (as suggested by Maddison,
+1990) is also inappropriate in this case because the kinds of changes appear to be correlated. My test of dependence is, however, based on a method similar to that of Maddison (1990) for estimating the probabilities of changes occurring in particular branches. I arbitrarily picked one of the characters as the "independent" character (i.e., character 30) and asked what the probability is for a change in a "dependent" character (e.g., 31) occurring in the same branch as that marked by the independent character transformation (further details of this method are presented in Appendix 5).
+The results of these tests demonstrate that characters 30-32 change coordinately in three different branches of tree IV (i.e., those defining the taxa Caenorhabditis, Rhabditis, and Teratorhabditis palmarum). For each of characters 31 and 32, the probability of observing, by chance alone, three different changes in the three branches distinguished by changes in character 30 is 6/837 (i.e., of 837 different ways to distribute three different changes in the cladogram, in only 6 do these changes fall on the branches distinguished by changes in character 30) = 0.0072, a significantly small probability. (The assumptions in this case are actually quite conservative, re-
+FIGURE 3. Reconstruction of only the unequivocal character state transformations for the rhabditid nematode cladogram IV of Figure 1 (branch lengths are arbitrary) under the assumption of unordered transformations;
+no optimizations for equivocal changes are shown. For each species and for several hypothetical ancestors at internal nodes are shown schematics of late L4 and adult male tails (corresponding to the stages shown in Figs. 2b, 2c) The early L4 stage shown in Figure 2a is conserved in all the extant taxa and is thus inferred at
+all nodes. The upper drawing for each taxon depicts the positions of the ray structural cells (small numbered circles), the phasmid (Ph), and the Rn.p and other hypodermal cells in the left lateral hypodermis. Dashed lines at cell boundaries represent cell fusions. The lower drawing for each taxon shows a left lateral view of
+the adult male tail with the distinctive adult patterns of the rays (homologs numbered according to the archetype in Fig. 2). For the hypothetical ancestor at the root node, dashed lines represent alternative positions for
+the phasmids. The positions of the phasmids and rays 1-3 in this ancestor could not be unequivocally reconstructed (see Appendix 8). See Appendix 6 for definitions of characters (italicized numbers) and associated states (a-e). Only the unequivocal transformations for these characters are shown. Branch assignments could
+not be resolved for any state changes for characters 6, 19, or 36; these characters are not represented on the tree. Although most of the transformations reconstructed are unequivocal on corresponding branches of the other possible cladograms shown in Figure 1 (heavy bars), some are not (hatched bars); other transformations
+are unequivocal on this cladogram but occur on a branch that is not supported in all four trees in Figure 1 (open bars). The effects of assuming an ordered model of transformations are also indicated: only 5 transformations become equivocal (J), 1 becomes unsupported altogether (§), the primitive state could or does become different for 12 (t), and 11 additional transformations become resolved (unequivocal, thin bars with transformation listed in parentheses). Only four transformations are homoplastic (*). C. = Caenorhabditis; R. = Rhabditis; Rh. = Rhabditella; P. = Pellioditis; T. = Teratorhabditis; Pe. = Pelodera.
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ 162 SYSTEMATIC BIOLOGY VOL. 46
+quiring that the same state, d, is primitive for all three changes.) Moreover, of the six alternative ways that the three different changes can be distributed in the three branches, only one is identical to the particular pattern of changes in character 30. The probability of the observed identity between the distribution patterns of changes in character 30 and those in characters 31 or 32 (see Fig. 3) is thus 1/837 = 0.0012, an even smaller (more significant) probability. If I remove the constraint that the primitive state must be the same for each change (but keep the total number of changes in the cladogram the same and assume unordered transformations), then the three changes in characters 31 or 32 would occur in the three branches at a probability of 6/2184 = 0.0027. Similarly, a distribution of changes (as observed in Fig. 3 for characters 31 and 32) with the identical pattern as character 30 would be predicted at a probability of only 1/2184 = 0.0005.
+As detailed in Appendix 5, a different situation exists for characters 33 and 34, which cannot share an identical pattern of changes with character 30. Although changes in character 33 are also strongly correlated with changes in character 30, changes in character 34 may or may not be, depending on the assumptions used (see Appendix 5). I did not attempt to determine probabilities under the complicating assumptions of ordered transformations and unequal branch lengths.
+Because changes in characters 31-33 (and possibly 34) are correlated with changes in character 30 (and with each other), they were excluded from the data set in a parsimony reanalysis (Table 1, analyses 24-31). When the male tail characters are considered alone under unordered or ordered models, bootstrap support remained high (99-100%) for a Rhabditis clade (analyses 24-27). However, with the combined data set I was unable to distinguish between trees III and IV: under the unordered model, the parsimony scores of these trees differ by a single change (analyses 28 and 30). However, the Rhabditis clade (branch 2 of tree IV, analyses 29 and 31) is better supported (albeit
+weakly) than a Rhabditis myriophila-Rhabditella axei clade (branch 2 of tree III, analyses 28 and 30) under two conditions: (1) transformations are assumed to be ordered or (2) rDNA stem positions are weighted less than loop positions (Table 1, cf. branch
+2 bootstrap values and tree III and IV lengths in analyses 29 and 31 with those in analyses 28 and 30). In these analyses, I have conservatively weighted each male tail character equal to a single nucleotide character (instead of equally weighting the two sets of data, for example); doubling the weight of the male tail characters results in markedly increased bootstrap support for the Rhabditis clade and for tree IV as the MP tree (Table 1, cf. analyses 32 and 28). Thus, even when male tail characters that are probably interdependent are excluded, support is still augmented for tree IV more than for the alternative trees.
+CONCLUSIONS AND SPECULATIONS
+The main objective of this work was to seek correlations between the elementary (i.e., minimally reconstructed) steps of morphological evolution and the changes in morphology brought about by known mutations. By this means, I hope to generate hypotheses regarding genetic loci that could have been involved in morphological evolution. In this paper, I have taken the first step toward this goal by reconstructing the evolutionary pathway leading to diverse male tails of eight species in the nematode family Rhabditidae.
+This reconstruction must be considered preliminary for at least two reasons. First, the number of species in the study group is small. The number of described species in the three main clades studied (i.e., Caenorhabditis, "Eurhabditis," and Pelodera-Teratorhabditis, not yet representative of the entire family Rhabditidae) is around 150 (Sudhaus, 1976, 1991), and the number of existing species in these groups is undoubtedly far higher (Sudhaus, 1991). Therefore, I have examined but a fraction of the whole, and the study group could be unrepresentative. Second, the branches of the tree are long; the 18S rRNA genes of the different genera studied here are
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 163
+about eight times more divergent than the 18S rRNA genes of tetrapod classes (Fitch et alv 1995). It is not known whether these long branches are due to the great age of these groups and/or to rapid evolution.
+Small sample size and long branch lengths affect both the molecular phylogeny and the character reconstruction upon which my conclusions regarding the evolutionary pathway are based. The molecular phylogeny for these species is unresolved at two nodes (Fig. 1) that are fairly deep (Fitch et alv 1995), although including the morphological data does aid resolution (Table 1). Also, the actual pathway of morphological evolution that gave rise to the species considered here need not have been the same as the hypothetical MP pathway(s) I have deduced. Because the branches are long, there is no reason to believe that multiple transformations between character states have not occurred along each branch. It is, however, also probable that evolutionary changes in rhabditid morphology are slow in comparison with rates of genetic divergence; the Caenorhabditis species studied are genetically as divergent as different mammalian orders (Fitch et a l , 1995; Fitch and Thomas, 1997), yet they are morphologically nearly indistinguishable. This slower rate of morphological than of genetic evolution is supported by the fact that there are few morphological homoplasies (Fig. 3). The reconstruction presented here is therefore useful as a phylogenetic hypothesis to be tested by analysis of additional species.
+Candidate Genetic Changes Underlying Evolutionary Changes in Male Tail Morphology
+Although this analysis is at an early stage, it already suggests genes and genetic changes that are promising candidates for further study in an evolutionary context. Of the unambiguous, unequivocal transformations that I have reconstructed (Table 2), four are similar to the phenotypes of mutants presently known in C. elegans; a couple of these are similar to the mutants in intriguingly trifling ways (tri-
+fling sensu Darwin [1859:417]: shared mi-
+nutiae that attain significance for classification, in this case for correlation between a mutation and an evolutionary change). Mutations in C. elegans define genes whose molecular products are known or may be determined and where further information regarding interacting genes, molecular functions, and a possible evolutionary role may be sought. Although only a small number of male tail genes have as yet been studied in C elegans, and in spite of the fact that this reconstruction involves few species, the parallel analysis of mutations and evolution has already resulted in the identification of candidate genes for further study. Furthermore, I have been able to infer the polarity of the evolutionary changes (Table 2), providing further predictions about the kinds of genetic changes that may have occurred in these genes.
+Two of the four evolutionary changes that are similar to those in mutants occurred on terminal branches (Table 2, transformations in characters 10 and 7). The tendency in C. briggsae of ray 3 to move posteriorly towards ray 4 and to fuse with ray 4 is an autapomorphy of this species (character 10: a -» b). This change from the ancestral condition of the Elegans species group resembles the phenotype of mab-5 gain-of-function {gf) mutations in C. elegans (Chow and Emmons, 1994). The mab-5 gene encodes a homeodomain-containing putative transcription factor similar to Drosophila Antennapedia (Costa et al., 1988); these genes are probably orthologues (Schubert et al., 1993). In G elegans, mab-5 helps to determine the separate identities of the rays required for their proper assembly into a species-specific arrangement in the fan (Chow and Emmons, 1994). In a single known mab-5 gf mutant (Hedgecock et al., 1987), the identity of ray
+3 appears to be reassigned to that of ray 4, giving a ray 3-4 fusion phenotype identical to that seen in C. briggsae (Chow and Emmons, 1994). A mutation with a similar effect, at a mab-5 homolog or at another locus involved in specifying the identity of ray 3, may have occurred along the lineage leading to C. briggsae.
+A second autapomorphy that is similar
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ 164 SYSTEMATIC BIOLOGY VOL. 46
+in trifling ways to a C. elegans mutant phenotype is the loss of ray 8 in Rhabditis blumi (Table 2; Fig. 3, character 7: a -> b). In C. elegans, loss of the ability to express the generic ray sublineage is associated with mutations at the lin-32 locus (Zhao and Emmons, 1995). This gene encodes a putative transcription factor of the basic helix-loophelix (bHLH) family of genes and has both molecular and genetic properties similar to the Achaete-Scute genes of Drosophila. Expression of lin-32 is both necessary and sufficient to allow expression of neuroblast cell fate for all the rays; hence, regulation of its action is central to the development of rays in the posterior region of the male. Known mutations in C. elegans affecting the level of wild type lin-32 gene product or the amino acid sequence of the lin-32 gene product can affect the probability of generating some rays more than they can affect the probability of generating other rays (Zhao and Emmons, 1995). In fact, ray 8 is always the most susceptible to these mutations. That is, although loss of the other rays is variable in all three of the known alleles of lin-32, ray 8 is lost 100% of the time, even in the weakest allele, el926 (C. Zhao, pers. comm.). Thus, a mutation in a lin-32 homolog, or one that affects regulation of a lin-32 homolog, may have occurred in the lineage leading to Rhabditis blumi, resulting in the specific loss of ray 8.
+mary function are not known, although cloning of this gene is in progress (Ying Yang and Fitch, unpubl.). A similar lowered-function change could thus have produced the leptoderan tail tips in the Rhabditis-Rhabditella clade. Such a change could have become fixed in an ancestral population, as indicated by the fact that neither mutant allele of lep-1 demonstrates significant loss of siring capacity or mating efficiency with regard to the wild type in preliminary mating tests (Fitch, unpubl.).
+The appearance of a morphologically specialized ray 6 along the lineage leading to Caenorhabditis (Table 2; Fig. 3, character 9: a -» b) may have involved changes in a genetic pathway presently under study in C. elegans. Perhaps more than the previous examples, this change appears to represent the evolutionary appearance of a novel feature. The C. elegans genes known to act in a pathway leading to the unique morphology of ray 6 include (1) daf-4 (S. Baird, pers. comm.), which encodes a TGF-p receptor homolog (Estevez et al., 1993), (2) egl-5 (Chow and Emmons, 1994), a homeobox-containing transcription factor of the HOM-C/Hox gene cluster that is a homolog of Drosophila AbdominalB (Wang et al., 1993), (3) mab-18 (Baird et al., 1991), a homolog of mammalian Pax-6 (Zhang and Emmons, 1995), which is a homeobox-containing transcription factor of a different family (Chalepakis et al., 1993), and (4) mab-21 (Baird et al., 1991), which encodes a protein with a novel sequence (Chow et
+The appearance of the leptoderan tail tip
+along the lineage leading to Rhabditis and
+Rhabditella could have resulted from a lossal., 1995). Mutations in these genes cause of-function (//) mutation or a change in loss or gain of the unique morphology norregulation affecting a homolog of the lep-1 mally associated with ray 6 in Caenorhabgene of C. elegans (Table 2; Fig. 3, character ditis, and they cause adjacent subsets of 5: a -» b, character 12: a —> b). Postulated rays to fuse; thus, they control not only the // mutations at the lep-1 locus result in a morphology but also the identity of ray 6 leptoderan tail tip in C. elegans that closely and possibly of other rays (Chow and Emresembles (in trifling ways at the cellular mons, 1994). Because mutations in these level) the small tail tip in Rhabditis (Fitch, genes cause ray fusions, they do not pre-
+unpubl). Specifically, these alleles prevent
+the retraction and fusion of the tail tip hy-
+podermal cells in a manner identical to the
+failure of retraction and fusion of tail tip
+hypodermal cells in at least one Rhabditis
+species (Fitch, unpubl.). The molecular na-
+ture of the lep-1 gene product and its pripearance of novel ray 6 morphology in
+cisely mimic the ray 6 phenotype of nonCaenorhabditis species. Nevertheless, evolutionary changes in any of these genes, as well as in others in the pathway known (Baird et al., 1991) and others yet to be described, might have contributed to the ap-
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 165
+Caenorhabditis. Transgenic experiments to examine the effect of expressing the wild type C. elegans mab-18 gene in species without a specialized ray 6 are one approach to testing these hypotheses.
+As more species are added to the tree, the polarity of other character changes may be determined, resulting in more and better hypotheses about the underlying genetic changes. For example, the position of the phasmid (character 6) relative to the three posterior rays (rays 7-9) differs between the two groups of species that are the first to diverge in the tree shown in Figure 3 (i.e., the Teratorhabditis-Pelodera clade and the clade containing the other species). In C. elegans, asymmetric division of the T blast cell produces two cell lineages, the anterior one giving rise to rays 7-9 and the posterior one producing the phasmid (Sulston et al., 1980). The anterior position of the phasmid relative to rays 7-
+9 in Teratorhabditis and Pelodera (and several other species groups) could result from reversed polarity of the asymmetric T-cell division. Such polarity differences have been observed in other nematode species comparisons (Steinberg and Horvitz, 1981, 1982). Lowered-function mutations in the gene lin-44 result in the failure to control the polarity of the T-cell division such that 68-79% of T-cell divisions are reversed relative to wild type, generally resulting in the displacement of phasmid cells anteriorly (Herman and Horvitz, 1994). The LIN-44 gene product is a cell-signaling molecule homologous to vertebrate Wnt and Drosophila wingless proteins and is produced by the tail tip cells (Herman et al., 1995). Downstream of lin-44 in the genetic pathway controlling T-cell division asymmetry is lin-17, required for establishing 7the asymmetry itself (Sternberg and Horvitz, 1988; Herman and Horvitz, 1994; Chamberlin and Sternberg, 1995). It is therefore possible that the difference in phasmid position between Teratorhabditis-
+kind of change this was require determination of the branch assignment and thus direction of this character transformation. The addition of appropriate outgroup taxa should facilitate such a determination.
+Developmental Constraints in the Evolution of the Male Tail
+The correlations among characters 30, 32, and 32, which represent different cell fusion events involving the R(l-3).p cells, do not arise trivially from the requirement that cell fusions must involve at least two cells (which thus share the same fate by definition). First, there is no a priori constraint that a fusion must involve more than two cells. Second, the cell fusions involving R(l-3).p are likely to result from a developmental pathway that is shared in the course of the aquisition of cellular identity by the three individual Rn.p cells during their ontogeny. To a somewhat lesser extent, R4.p and possibly R5.p (characters 33 and 34) may share this pathway.
+One interpretation of the correlation among characters 30-32 is that it represents a developmental constraint in the sense that the coordinated evolution of these characters results from a shared developmental or genetic regulatory hierarchy rather than from identical selective forces acting on independent characters. Selection is an unlikely explanation for these coordinated changes because there is no obvious morphological consequence of the fusion or lack of fusion among these Rn.p cells (as demonstrated, for example, by the variation in fusions without corresponding variation in adult features such as fan morphology; Fig. 3). However, a pleiotropic genetic regulatory hierarchy is likely to influence the identity of several of these developmentally similar Rn.p cells. Such a regulatory hierarchy involves Hox genes in determining ray cell identities, for example (Chow and Emmons, 1994), although no phylogenetically coordinated changes could be detected among the rays of the species studied here.
+Another type of developmental constraint may be predicted from the analysis of ray development. In this case, the poten-
+Pelodera and the other taxa resulted from change in the regulation of the LIN-44 cellsignaling pathway or a change in the competence or response of the T cell to the LIN-44 signal. Hypotheses about what
+a
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ 166 SYSTEMATIC BIOLOGY VOL. 46
+tial constraint involves a strict limitation
+imposed on the possible variation of ray
+cell positions in the lateral hypodermis by
+the topology of the Rn.p cell boundaries.
+That is, the apical ends of the ray cells
+could well be restricted to the boundaries
+of the Rn.p cells (the positions of which
+appear to be determined by the cell divi-
+sions producing the Rn.p cells). According-
+ly, evolutionary shifts in ray positions are
+expected to be saltational, not gradualistic.
+In Caenorhabditis species, the apparent exthese preliminary results do provide a baception, rays 1, 2, and 4 appear to move
+slightly away from these boundaries and are engulfed by specific Rn.p cells or the hyp7 syncytium (Fitch and Emmons, 1995). The mechanism of this engulfment is unknown but suggests a limited potential for ray cell patterns to escape from the topological constraints of the Rn.p boundaries.
+Beyond this topological constraint, selection could play a strong role in shaping ray pattern if ray pattern influences copulatory behavior and mate choice, for example. Although most described species in the Rhabditidae are gonochoristic (with males and females), one model that derives an optimum hermaphrodite/male sex ratio predicts that the C. elegans mating system will select for males with promiscuous copulatory behavior and largely "disinterested" (selective?) hermaphrodites (Hedgecock, 1976). Although different copulatory behaviors depend to a large extent on the presence of particular rays (reviewed by Emmons and Steinberg, 1997), it is not clear how specific patterns of rays influence copulatory behavior or what behaviors might be selected by hermaphrodites. The ability to manipulate these patterns genetically in C. elegans should allow us to address such questions and thus to empirically discriminate between adaptive and nonadaptive explanations for ray patterns.
+Toward a Developmental and Genetical Understanding of Macroewlutionary Change
+Although these studies are at an early stage, the results strongly suggest that parallel studies of developmental mutants in C. elegans and of morphological and devel-
+sis for constructive speculation and prediction.
+opmental evolution among related nematodes provide a powerful model for defining developmental and genetic changes by which diverse forms may arise through evolution. Specifically, the C. elegans model has provided candidate genes that can be targeted for futher investigation into their roles in the evolution of male tail morphological diversity. Although it is obviously too early to use this preliminary data to settle the long-standing controversies,
+Is macroevolution gradualistic or saltational at the genetic level? At least in the Rhabditidae, where differences can be described at the level of single cells, evolutionary changes in form may be discrete enough to suggest the underlying genetic changes. This does not imply that the microscopic level of analysis allowed by this system makes it a poor model for studying the evolution of quantitative characters, a criticism, for example, that recently has been leveled (I think mistakenly) against the experimental evolution of cell size in E. coli (see Mlot, 1996). Rather, the potential to elucidate the genetic regulatory networks that govern development provides an exceptional tool for identifying genetic changes with large or subtle effects. Because single genetic changes can be postulated for some of the evolutionary changes in the male tail, I predict that many evolutionary changes in morphology will have resulted mainly from changes at single loci, perhaps accompanied by changes at other loci with much lower magnitude effects. This prediction agrees with population genetic analyses of several quantitative traits where the underlying genetic changes involve few loci and differ markedly in both magnitude and quality of their effects (Mackay and Langley, 1990; Tanksley, 1993; Long et al, 1995). Because of the hierarchical organization of the genetic pathways and networks controlling development, it can additionally be predicted that many morphological changes result from changes at loci that occupy relatively high levels in this hierarchy, thus
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 167
+preserving the developmental integration of complex structures while allowing coordinated morphological change (Futuyma, 1986:439-440).
+How significant are developmental or other constraints likely to be in biasing variation? Although a clear picture is not yet available of the entire developmental and genetic regulatory pathways leading to ray patterning, two different kinds of constraints are already suggested: (1) as in the case of the R(l-3).p cells, cells may share a developmental or genetic regulatory hierarchy and therefore evolve coordinately (i.e., independent development is limited), or (2) as in the case of the cells that give rise to the rays, cell positions may be constrained by the topology of neighboring cells. In both cases, die developmental constraints do not result from internal selection against a potential variant but from the low probability of getting variants that escape coordinate regulation in the first case or topological constraint in the second. Because the power of selection is limited by variation, such developmental constraints could cause significant bias in the evolution of form. However, the rare variant that allows escape from such a constraint (as in the patterning of rays 1, 2, and 4 in Caenorhabditis) could allow significant opportunity for selection to shape new forms. Thus, mapping out the developmental and genetic regulatory networks in model systems such as C. elegans is likely to enable the identification of potential constraints.
+What is homology? The volumes that have been written on this subject alone attest to the complexity of a problem that cannot be solved here. But perhaps the quest for a definition of homology that fits all cases is somewhat misdirected. Morphological characters are assembled from multiple information pathways (including both genetic networks and epigenetic mechanisms). Does homology require that all information pathways underlying a character be shared through descent, or does it only require that some of those pathways (i.e., the morphostatic ones; Wagner, 1994) be shared through descent? If so,
+is the sharing of some pathways sufficient for homology (e.g., because Pax-6 / eyeless gene patterning of eyes is shared between vertebrates and flies, should these very different eye organs be considered homologous)? Could we then talk about percent homology as the number of morphostatic pathways shared out of the total pathways forming the character, or are only mechanisms homologous (despite the fact that many mechanisms are themselves assemblies of parts that might be individually substituted)? Clearly, elucidating the information pathways themselves is what is important to understanding the elements of macroevolutionary change, not converging to any particular conceptual definition of homology. Developmental genetic models such as C. elegans allow information pathways to be defined; a phylogenetic framework for C. elegans (to which the present work is meant to contribute) will allow the evolution of these pathways to be studied.
+Although a comprehensive definition of a homology concept is not required for these studies, the character comparisons necessary for reconstructing evolutionary changes require operational tools to define the same character in different species (e.g., the criteria for suggesting homology as opposed to homology itself). However, use of these operational tools (which can be refined as more phylogenetic and mechanistic information is accumulated) does not result in a foregone conclusion about which features are actually homologous; phylogenetic analysis using character assemblages can reveal convergences as well as apomorphies. In the case of ray pattern evolution, mechanistic information about ray development (formulated as a hypothetical archetype) allowed an operational hypothesis for ray comparisons, thus facilitating evolutionary reconstructions. Among the underlying genetic changes that I have hypothesized for the evolution of ray positioning are those that actually modify ray identity, e.g., mab-5(gf). Thus, even if rays can change their identities (homologies?) into those of other rays within the series, underlying genetic changes can potentially be identified.
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ 168
+SYSTEMATIC BIOLOGY VOL. 46
+SUMMARY
+Combining independent morphological and molecular characters increases phylogenetic resolution in the case of the Rhabditidae (see Table 1). Conflicts between the MP trees resulting from separate analyses of the male tail and of rDNA data sets are due to low resolution of some clades instead of nonindependence of characters within one of the data sets. The data sets are complementary with regard to phylogenetic information (e.g., the male tail characters strongly support Rhabditis monophyly whereas the rDNA data cannot distinguish between Rhabditis monophyly or paraphyly). Specifically, analysis of the combined male tail and rDNA characters results in augmented support for tree IV (which was never the MP tree when the different data sets were analyzed separately).
+Assuming a model of ordered as opposed to unordered transformations for the multistate male tail characters results (in combination with the rDNA data) in a higher resolution of the phylogeny (i.e., branching order) and in higher resolution for most (but not all) character transformations. Specifically, support for tree IV always increases relative to that for the three alternative trees (I—III, Fig. 1) under an ordered as opposed to an unordered model (Table 1). Although most character transformations become more highly resolved (with respect to branch and nodal state assignments) under an ordered model than under an unordered model, other transformations may become less resolved (e.g., characters 30-34 at the root node; Table 3; Fig. 3).
+The ancestral (ground) state for male tail development and morphology (inferred from the phylogenetic reconstructions of transformations that are both unambiguous and unequivocal) differs from the archetype (Figs. 2b, 2c) based on a least-differentiated developmental model. The archetype is, in fact, the single worst hypothesis for a rhabditid ancestral form (see Table 3); however, this does not invalidate the archetype as a foundation on which to
+build an ordered model of character state transformations, which does not necessarily depend on an archetypal state being ancestral. This difference between archetype and ancestor emphasizes the importance of including phylogenetic analysis in comparative studies (a typological view is not an evolutionary one). The present analysis cannot distinguish whether the archetype represents an ancestral state in a very early nematode (Urform),the reconstruction of which will require the inclusion of much more divergent nematode taxa.
+Reconstruction of the unequivocal transformations on tree IV reveals little homoplasy in the male tail characters but does uncover an interesting case of correlated characters. The homoplasy in the morphological-developmental characters is substantially less than in the rDNA characters (see the CIs in Table 1), suggesting their potential usefulness in phylogenetic analysis (although the number of these characters will obviously be much smaller than the potential number of nucleotide characters). The developmental fates of some of the Rn.p hypodermal cells are phylogenetically correlated. Because selection on morphology is unlikely to have been a factor in this correlation, these cells probably share a genetic or developmental regulatory hierarchy.
+Most importantly, parallel consideration of the evolutionary reconstruction and C. elegans developmental genetics allows us to target candidate genes possibly involved in the evolution of form. Several unambiguous, unequivocal evolutionary transformations are remarkably similar (even in trifling aspects) to mutations in C. elegans. These mutations define genes that could have changed to produce the observed evolutionary transformations. These candidate genes have been targeted for further analysis to understand their roles in development and evolution.
+ACKNOWLEDGMENTS
+I thank S. Baird, D. Cannatella, S. Emmons, K. Kiontke, P. Mabee, W. Sudhaus, and two anonymous reviewers for strains, valuable discussions, and comments on the manuscript. I especially thank Scott Em-
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ as-
+In all the rhabditid species studied, each ray is produced from three cells of an initial four-cell cluster (Fig. 2a). In C. elegans (and probably in the other species, see Appendix 3), each cluster of four cells descends from a precursor cell called Rn.a (where n = {1, 2, . . . , 9} for each side) in the lateral hypodermis (Fig. 2d). (Throughout this paper, cell nomenclature is that used for C. elegans; see Sulston et al., 1980; White, 1988:119.) One cell in each cluster undergoes a programmed cell death, and each ray is formed from the
+-
+on
+APPENDIX 1
+MALE TAIL CHARACTERS AND CRITERIA FOR RAY HOMOLOGIES
+three remaining cells: a structural cell, which anchors ry-
+the distal tip of the ray to the fan cuticle, and the dendritic endings of two neurons (Fig. 2d). The sister of Rn.a, called Rn.p, is a hypodermal cell. In C. elegans,
+Rl.p-R5.p fuse together and form part of the tail (W.
+seam, or set. Although the ray cell lineages of the other species are presently unknown, rays in these species are derived from cells that originate during development of the last larval (L4) stage in the same
+s relative positions as in C. elegans (Fig. 2a).
+Because this pattern of relative positions and cellular connections is the same in all these species (and thus is symplesiomorphic), homologous relationships have been hypothesized between rays whose cells originate at the same relative position (Fitch and Emmons, 1995). Accordingly, homologous rays bear the same identifying numerals in Figures 2 and 3. This hypothesis of ray homologies is therefore based on the criteria whereby a special and complex pattern of connections (in this case between cells in the lateral hy-
+podermis, Fig. 2a) suggests the homologies of the individual parts (Remane, 1952, in Sudhaus and Rehfeld, 1992:70-76). Specifically in this characteristic arrangement (Fig. 2a), (1) nine Rn.p hypodermal cells are arranged in a characteristic anteroposterior pattern on each side, (2) each cluster of ray cells originates in a position adjacent to a particular Rn.p cell (which is the sister of the cell producing the ray cells in C. elegans and probably in the other species, see Appendix 3), (3) the cells for rays 5, 7, and 9 lie dorsal to the row of Rn.p cells, and (4) the cells for rays 1-6 and 8 lie ventral to the row of Rn.p cells. Continuity of information, further supporting this hypothesis of homology, is implied by the inheritance of this specific pattern by all the species in the study group (i.e., convergence is highly unlikely).
+It is not necessary to impose the restriction that all d.)o.f the underlying developmental mechanisms need be shared by homologous morphological characters (the aim is to understand the biological basis of changes
+
+ 172 SYSTEMATIC BIOLOGY VOL. 46
+to such characters). For example, ray precursor cell identities could be positionally (regulatively) or lineally (mosaically) determined. Positional determination of early lineages leading to ray precursors is supported by laser ablation studies in C. elegans (Sulston et al., 1980). Therefore, observations of different cell lineages leading to specific ray precursor cells in different species would not refute or weaken the hypothesis of ray homology assignments on the basis of the positions in which ray cells originate.
+Whereas the patterns of ray cell originations are the same in different species, subsequent patterns of ray cell movement and clustering are different. After all of the ray cells have been generated during L4 larval development, they begin to change shape and to migrate to and cluster at specific and reproducible junctions between particular Rn.p cells or near other ray cell groups (Fitch and Emmons, 1995). This cell migration (generally in a posterior direction) is the basis of my model for ordered transformations of multistate ray cell position characters, such that more steps are assumed to be required the further a cell migrates from its point of origin (see Appendix 2). The archetype represented in Figure 2 is a reconstruction of the hypothetical least-differentiated state, in which these cell migrations would not occur. During this morphogenetic process, the dendritic endings of the two ray neurons sink slightly into the hypodermis, leaving only the structural cells of each ray at the epidermal surface (Fig. 2b); these cells become anchored in the cuticle in a species-specific pattern (this larval pattern is represented for each species in Fig. 3).
+This two-dimensional pattern of structural cells in the larval surface prefigures the species-specific pattern of rays in the adult male tail (Fig. 2c). During the next period of morphogenesis, all of the cells in the male tail change shape and retract inwardly and anteriorly, causing the lateral cuticle to collapse, fold, and flatten into the shape of the fan. Also at this time, particular Rn.p hypodermal cells may fuse together, fuse with the lateral body seam (se) hypodermis lying anterior to the tail seam (set), or fuse with the main body syncytium (hyp7) in which these seams are embedded (Baird et al., 1991; Fitch and Emmons, 1995). These Rn.p cell fusions have no apparent morphological consequence. Because the apical tips of the rays are anchored in the cuticle, the rays are formed as tubes of cytoplasm in the wake of the retraction. Although the process of retraction itself appears to be very similar in all of the species, it progresses to various extents. The adult form thus results from the morphogenetic retraction translating the two-dimensional pattern of ray cells in the L4 lateral hypodermis (Fig. 2b) into the three-dimensional pattern of rays in the adult fan (Fig. 2c). In the archetype (Fig. 2), which represents the hypothetical state in which ray cell migrations do not occur, the rays would arise at the same positions at which the ray cells originate.
+Prior to this work, the number of rays in different rhabditid species was thought to vary between 8 and 10; the evolution of differing arrangements was hypothesized to occur by gain and loss of particular rays as well as lateral movement (Sudhaus, 1976; see Ap-
+pendix 4). Analysis of the developmental basis of ray homologies (Fitch and Emmons, 1995) indicated that one pair of sensilla previously thought to be a pair of rays was in fact a pair of phasmids lying laterally instead of posteriorly as in the remaining species (labeled "Ph" in Figs. 2, 3). Phasmids differ from rays in developmental time of appearance, cellular structure, and function (Sulston et al., 1980). Thus, all the species except one actually have 9 pairs of rays; no species has 10. The exceptional species (Rhabditis blumi) has eight pairs of rays because of a failure of the R8 cell homologue to produce the typical lineage leading to the formation of ray 8.
+I have broken down the variable characteristics of the 10 species of the study group into a series of 36 characters, each of which assumes two or more character states (Appendix 6). The distribution of character states among the species is given in Appendix 7.
+The adult characters mainly concern the fan and overall body shape. Four adult characters (7-10) concern the rays: presence of ray 8 (7), dorsoventral positions of the tips of rays 1, 2, and 4 (8), conformation of ray 6 (9), and position of ray 3 (10). I did not attempt to define adult characters that described the most prominent variable property of the rays, i.e., their anteroposterior positions, because there was no obvious axial coordinate system against which to measure the positions of single rays in adults. The evolution of ray positions was instead only represented by developmental characters. Adult ray positions are correlated with the final positions of the ray cell groups with respect to Rn.p cells during the late L4 larval stage (see Fitch and Emmons, 1995; Figs. 2b, 3). The array of Rn.p cells provides an obvious point of reference for rays 1-8, and the various character state changes thus defined are represented by characters 14-21. For ray 9, it was not clear how to describe its position and whether or not this position was variable; it was therefore left out.
+A problem arises in describing the variable patterns of the Rn.p cell fusions that occur during L4 morphogenesis. Specifically, the difference in the fusion behaviors of Rl.p-R5.p in Caenorhabditis (where they fuse together, forming the set syncytium) versus in Rhabditis (where they remain unfused) could be described as presence or absence of a set or could be described cell by cell as presence or absence of fusions with particular neighbors. Because changes could conceivably affect individual cells, I have chosen to describe these fusions as if they were properties of the individual cells (characters 30-36), although pleiotropic changes could affect multiple cell groups. In this way, the concentrated-changes test (see text and Appendix 5) may be used to show whether pleiotropy is
+a likely explanation for the observed patterns of changes. The concentrated-changes test suggests that some of the Rn.p cells are coordinately regulated.
+APPENDIX 2 RATIONALE FOR THE ORDERED TRANSFORMA TION MODELS
+For several of the developmental characters, there were more than two character states. In these in-
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ 1997 FITCH—NEMATODE MALE TAIL EVOLUTION 173
+stances, it was possible to propose a sequence that would represent an ordered evolutionary progression from one state to the next. Character states for which ordered models could be proposed were (1) the cell associations made by the ray cells, which govern ray cell position, and (2) the fusion partners of particular Rn.p cells.
+Ray cell position (cell association) states may be ordered with respect to the anteroposterior axis. Specifically, when the Rn.p cell associations of a ray cell group varied, it is possible that during evolution the position of the ray cell group progressed in a stepwise (linearly ordered) fashion to associate the ray cell group first with one Rn.p cell and then with the next in physical anteroposterior order. The states of such multistate characters were assigned the letters a, b, c, and d in the proposed order. State a is always associated with the least-differentiated state, i.e., a ray cell group is associated with its respective Rn.p hypodermal cell, as in the archetype pictured in Figure 2b. Additional developmental steps appear to occur that produce in the displacement of ray cells to new positions and associations with different Rn.p cells, resulting in displaced rays and uneven ray spacing in the different species. According to the ordered model, the further the displacement away from the point of origin of the ray cells, the greater are the number of steps away from the least-differentiated state (a).
+Similarly, the fate of a particular Rn.p cell may be ordered with respect to the kind of hypodermis with which it fuses, which is somewhat related to the distance of this hypodermis away from the Rn.p cell. For example, in order of increasing numbers of steps away from the unfused developmental ground state (state a), Rl.p may fuse with its adjacent R2.p neighbor (state b), may fuse with a cluster of Rn.p cells (the set; state c), or may fuse with the body seam (se) or hyp7 (the main body syncytium) (state d).
+eages). The lineages leading from the Rn precursor cells to generate the ray cells and the associated Rn.p cell are also identical to those in C. elegans. Furthermore, the cell lineages leading to the Rn cells are very similar to the corresponding lineages in C. elegans. Specifically, there is one less asymmetric division in each of two lineages giving rise (from V6) to theP. redivivus homologues of rays 3-6; additionally, the homologues to C. elegans rays 1 and 2 are absent in P. redivivus (this conclusion is suggested both by the similarity in cell lineages and by the similarity between the spatial pattern of ray cell nuclei in theP. redivivus L4 hypodermis and the spatial pattern of ray cells in the rhabditid comparisons). The lineages producing rays 7-9 (from the T cell) are identical in the two species. The fact that these ray cell lineages are remarkably conserved between representatives of different suborders predicts that the ray cell lineages within the family Rhabditidae will be highly conserved.
+Although phylogenetic analysis has not yet includ-
+ed Panagrellus redivivus, certain C. elegans mutants phenocopy this species' difference in ray number. The ray lineages in this species are nearly identical to those in
+C. elegans, except that the anterior two rays are not present (Sternberg and Horvitz, 1982). The same anterior ray loss results in C. elegans from the hypomorphic bx54 mutation in the gene mab-5 (Chow and Emmons, 1994) and from hypomorphic alleles of lin-
+32 (Zhao and Emmons, 1995). To test whether such hypomorphic changes were involved in the evolution
+of the male tail of Panagrellus, transgenic C. elegans wild type lin-32 might "rescue" the hypomorphic evolutionary change and produce nine rays in Panagrellus.
+APPENDIX 4 REINTERPRETATION OF RAY PATTERN EVOLUTION IN RHABDITIDAE
+The conclusions presented here differ from those previously published chiefly with regard to the number of rays and the origin of differences in the positions of the rays. Analysis of developmental events leading to the rays allows an explicit definition of homologies among rays previously determined exclusively from positions of rays in adult animals and thus provides a reinterpretation of ray pattern evolution in Rhabditidae. This analysis has shown that one of the so-called rays in the Teratorhabditis-Pelodera clade is in fact a phasmid (Fitch and Emmons, 1995). The phasmid is a characteristic posterior sensillum, apparently chemosensory, present from hatching in both males and females/hermaphrodites (Chitwood and Chitwood, 1950; Sulston and Horvitz, 1977). It is positioned at the extreme posterior and does not extend significantly from the body surface in most of
+O N
+APPENDIX 3
+THE PROBABLE CONSER V A TION OF
+RAY CELL LINEAGES
+The ray cell sublineages (as well as the positions at which the ray cells originate) probably are conserved among the species studied. Specifically, because the numbers of cells forming each ray cell cluster are conserved, the rays in all the species are probably made of three cells generated by a ray (Rn) sublineage similar to that found in C. elegans (see Fig. 2d). Fitch and Emmons (1995) demonstrated that the putative precursors to the ray cells also originate in the identical locations in which the ray cells originate.
+Also, the cell lineages producing the Rn cells prob-
+ably are conserved among the species studied here.
+Sternberg and Horvitz (1982) determined the male postembryoniccelllineagesforPanagrellusredivivus(athespeciesofthestudygroup.ButinT.palmarumand
+species in a different suborder, Cephalobina, from the Rhabditina species described here, therefore representing an outgroup). In P. redivivus, which lacks a fan and rays, genital papillae are generated by a ray cell sublineage identical to the corresponding lineages of C. elegans (supporting the conservation of ray sublin-
+Pe. strongyloides, two species previously considered to have 10 rays, the phasmid is positioned laterally and extends outwards in the fan in a manner identical to
+a ray. The phasmid is also the seventh papilla from the anterior in both species. In accord with this finding, Sudhaus (1976) suggested that either the sixth or
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  174 SYSTEMATIC BIOLOGY
+VOL. 46
+the seventh papilla was the one that was "lost" (weggefallen or reduziert) in the evolution of 9 rays in Mesorhabditis, not represented in this study, and in a few Rhabditis species (Sudhaus postulated that the rhabditid ancestor had 10 rays). I interpret this "loss" to mean a relocation of the phasmid to a posterior location, out of the domain of fan retraction, such that it
+is not drawn into a raylike form during retraction. However, in the evolution of nine rays in most of
+APPENDIX 5 PROBABILITY CALCULA TIONS
+the "Eurhabditis" species (Rhabditis, Rhabditella, Pellio-
+tion depends on being able to derive the number of
+ditis), Sudhaus (1976) suggested that the most poste-
+rior (10th) papilla was lost (although no clue was pro-
+vided as to which papilla was lost in the evolution of
+Caenorhabditis). This misinterpretation was probably acters (or a binary recoding of multistate characters). due to the fact that the phasmids in some "EurhabdiAlthough his concentrated-changes test is inappropritis" species are slightly papilliform or raylike (e.g.,
+Rhabditis blumi and Rhabditella axei, see Fig. 3) and are
+state male tail characters, the same basic approach
+located posterior to the nine rays. Although Sudhaus (1980) correctly identified the phasmid for Rhabditella axei, he did not recognize the "reduced ninth ray" as the phasmid in Rhabditis blumi (Sudhaus, 1974) and thereby missed the fact that Rhabditis blumi generally has only eight rays. The "10 rays" of other "Eurhabditis" species may have been similarly posited on the basis of a posterior, papilliform phasmid. The "atavistic" aberrations called Schwanzknoten (tail-knots) in Rhabditis and Pellioditis alluded to by Sudhaus (1976: 73) cannot, therefore, be atavistic in the sense that they represent a reappearance of a 10-rayed ancestral form. The natural variants of Rhabditis blumi observed by Fitch and Emmons (1995) to have nine rays actually originated by a novel duplication of a ray lineage anterior of ray 1, and therefore these variants were not atavistic. Sudhaus (1974:453) may have also observed such a variant but considered it to be an atavistic reappearance of the "seventh ray."
+may be used to count the number of possible ways that multistate character changes can be distributed under certain explicit assumptions and restrictions. Specifically, transformations were assumed to be unordered and the parsimony score was not allowed to change (e.g., distributions of changes that required extra reversals were excluded from consideration, as in the concentrated-changes test). Additionally, the count was limited to combinations that showed the same kinds of changes as those in the observed pattern (as specified in each case, the primitive state for each transformation was or was not kept the same as the corresponding transformation in the observed pattern). Because of the complexities of accounting for different cases, a computer algorithm was not developed, and calculations were carried out manually.
+Once W, is calculated, the probability of the particular distribution of changes in a (dependent) character is 1 / W,. There may be w ways that these different kinds of changes can be distributed in the same branches; the probability of these branches being occupied by changes is then w/Wt. For example, Figure Al shows the total
+The conclusion that the number of rays is remark-
+ably conserved (Sudhaus, 1976) is even stronger if we
+consider that the "10-rayed" species (e.g., Teratorhab-
+ditis palmarum and Pelodera strongyloides) actually havneumber of ways (W, = 130) that two different kinds of
+9 rays and one phasmid per side. Despite variation
+within species, and with the exception of Rhabditis blu-
+mi, this number seems to be highly conserved in
+Rhabditoidea (perhaps as conserved as digits in tet-
+rapods!). Perhaps future genetic and functional stud-
+ies of the rays in C. elegans and the other species will possibilities and thus results in a conservative estimate
+provide insight into the possible adaptive, historical, or developmental constraints that may help to explain this conservation of ray number.
+My explanation for the evolutionary basis for the differences in ray pattern among species also differs from those of previous authors. Previously, explanations for the presence of rays at different positions within the fan were sought by postulating not only positional shifts but also evolutionary gain and loss of particular rays (Osche, 1958; Sudhaus, 1976). The assignment of homologies for the rays of different species based on the similarities in cellular arrangements during development has shown instead that all of the species have the same set of rays (with the exception of Rhabditis blumi, which has lost ray 8). Differences in the ray arrangements have resulted from the shifting of these rays to various positions in the fan during evolution.
+of the significance of any correlation that may be inferred. In six of these distributions of the two changes (denoted by asterisks in Fig. Al), both changes fall on branches that are also occupied by changes in character 30. The probability of this type of event is therefore 6/130 = 0.046, just barely significant. In two of these six possibilities, the same kind of change in character 34 occurs as occurs in character 30 in the Caenorhabditis lineage (i.e, fusion of an Rn.p cell with the set, or tail seam),
+a significant probability, therefore, of 2/130 = 0.015. Under the alternative assumption that the primitive states are not necessarily the same as in the observed changes, there are 182 different ways for these two different kinds of changes to occur on the tree without invoking extra changes. In this case, the probability of observing the changes in branches also occupied by changes in character 30 by chance alone is 6/182 = 0.033, and the prob-
+FOR CORRELA TED CHARACTERS
+The possible correlation of changes in characters 3033 (and possibly character 34) were tested by determining the probability that the similarities in the distribution of the changes in these characters could be explained by chance alone. This probability calcula-
+possible ways (W,) that these changes could be distributed in a given cladogram. Maddison (1990) proposed a method for deriving W, for binary state char-
+ate for testing the coordinated changes of the multi-
+changes (b -» d and b -> c) in character 34 can be distributed in the cladogram such that there are only two changes in character 34 (e.g., no reversals) and that the primitive state of each change was only b. The latter restriction yields a conservative estimate of the number of
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 175
+34: b->d • 34: b-»c
+FIGURE Al. All possible ways that two different changes (b -> d and b —»c) could occur over the rhabditid cladogram IV (Fig. 1). For each possible branch assignment for the b —> d change (•), the number of alternative ways (WH) that b -> c (•) could occur is shown, such that state b remains the primitive state for both changes and there are no additional changes (such as reversals) that would alter the parsimony score. Asterisks denote the six alternative ways that b -> c changes could occur, together with the b -> d change, in the branches where changes in character 30 also occur. The total number of ways that these two different changes could occur, given these assumptions, is W, = XlU Wn = 130.
+ability of observing both Rl.p and R5.p fuse with the set by chance alone is 2/182 = 0.011. These calculations do not take into account the fact that there is one observed lineage (Rhabditis) where R5.p does not change coordinately with Rl.p under the unordered model. Thus, it is possible that the fate of R5.p is correlated to some extent with the fate of Rl.p.
+The correlation of change in character 33 with change in character 30 is slightly more complex than in the previous example. In this case, two of the three changes are the same (parallel, c -> a) and the other change is different (c -» b). Of the 429 different ways that such changes could be arranged on the cladogram, assuming that the primitive state is c for all the changes, 3 ways show changes in the three lineages distinguished by changes in character 30, a probability of 3/429 = 0.007. However, in one of these arrangements, the kind of change in character 33 (fusion with the set) in the Caenorhabditis lineage is identical to the kind of change in character 30 for this lineage. The probability of observing this similarity in pattern is thus 1/429 = 0.002. Allowing up to one reversal and removing the constraint that the primitive state must be the same for all changes results in probabilities of 3/936 = 0.003 and 1/936 = 0.001, respectively, for the same kinds of events described above. Again, this analysis ignores the fact that of the three changes in character 33 two are the same, but all three changes in character 30 are different. Nevertheless, it seems likely that the fate of R4.p (character 33) is correlated to some extent with the fate of Rl.p (character 30).
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  176 SYSTEMATIC BIOLOGY
+APPENDIX 6. States of varying characters in male tails of rhabditid nematodes.
+VOL. 46
+Character
+Adult
+1. Fan: anterior confor-
+mation
+2. Fan: position of an-
+terior edge
+3. Fan: extension
+4. Body shape: overall
+5. Body shape: tail tip 6. Phasmid: position
+7. Rays: ray 8
+8. Rays: tip position for
+rays 1, 2, 4
+9. Rays: morphology of ray 6
+10. Rays: position of ray 3
+Developmental
+11. Overall body retrac-
+tion
+12. Terminal cells: re-
+traction
+13. Terminal cells: fu-
+sion
+14. Ray cell associations:
+ray 1
+15. Ray cell associations:
+ray 2
+16. Ray cell associations:
+ray 3
+17. Ray cell associations:
+ray 4
+18. Ray cell associations:
+ray 5
+19. Ray cell associations:
+ray 6
+20. Ray cell associations:
+ray 7
+21. Ray cell associations:
+open
+near base of spicules
+broad blunt
+peloderan posterior present
+at margin
+narrow, uniform,
+open separate
+strong
+present
+do not fuse
+Rl.p
+R2.p
+R3.p
+R4.p
+R5.p
+R6.p
+R7.p
+R8.p
+seam-hyp7
+border seam-hyp7
+border seam-hyp7
+border near base of spicules within seam
+within seam
+ventral of seam
+closed
+near cloaca
+narrow elongate
+leptoderan lateral absent
+on dorsal or
+ventral
+surface broad, ta-
+pered,
+closed tendency to
+fuse with ray 4
+weak
+absent
+fuse
+Rl.p + R2.p R2.p + R3.p R2.p + R3.p R4.p + R6.p R4.p + R6.p R6.p + R7.p R7.p + R9.p R7.p
+within set
+within hyp7
+within hyp7
+near cloaca
+ventral of
+seam ventral of
+seam within seam
+R2.p + R3.p R3.p
+R3.p + R4.p R6.p
+R5.p + R6.p
+migrates into R7.p
+(no ray 8)
+R3.p + R4.p R3.p + R4.p R6.p
+R6.p + R7.p
+ray o
+22. Dorsoventral position of Rnst: ray 23. Dorsoventral posi-
+tion of Rnst: ray 24. Dorsoventral posi-
+tion of Rnst: ray
+25. se-set boundary 3
+1 2 4
+position
+26. Rn.p position: Rl.p
+27. Rn.p position: R2.p 28. Rn.p position: R6.p
+Character states
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 177
+29. Rn.p
+30. Rn.p Rl.p
+31. Rn.p R2.p
+32. Rn.p R3.p
+33. Rn.p R4.p
+34. Rn.p R5.p
+35. Rn.p JXO.p
+36. Rn.p
+position: R9.p cell fusions: cell fusions: cell fusions: cell fusions: cell fusions: cell fusions: cell fusions:
+strictly
+lateral unfused
+unfused unfused unfused unfused unfused unfused
+to dorsal
+midline fuses with
+R2.p + R3.p fuses with
+Rl.p + R3.p fuses with
+Rl.p + R2.p
+fuses with set
+fuses with R7.p
+fuses with
+DC „ _i_ 0 7 „ JXO.p T JX/.p
+fuses with R5.p
+fuses with set
+fuses with set
+fuses with set
+fuses with se
+fuses with R6.p + R7.p
+fuses with se
+fuses with R5.p + R6.p
+fuses with se fuses with se fuses with se
+fuses with set fuses with hyp7 fuses with hyp7
+fuses with hyp7 or se
+1
+R7.p
+se = body seam; set = tail seam.
+APPENDIX 6. Continued
+Character states
+Character a b c d e
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+    Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Rhabditis blumi
+Rhabditella axei
+b
+Pellioditis typica
+Teratorhabditis
+palmarum
+APPENDIX 7. Character states for each rhabditid nematode species.
+Species 1 2 3 4 5 6 7 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+36
+Caenorhabditis
+briggsae bbaaaaabbbaabbbcbabaabbbbaaabcccbdd
+d d d d
+Caenorhabditis
+elegans bbaaaaabbaaabbbcbabaabbbbaaabcccbdd
+Rhabditis myriophila
+aaaabaaaaaabaaaaabaabaaaaaaaaaaaaad aaaababaaaabaaaaabaacaaaaaaaaaaaaad aabbbaaaaabbaabbdabaaaaaaaaaadddce c/dd aaaaaaaaaaaaaabbcbabaaaaaaabadddcbd b aaaaabaaaaaaaddddabcaaaaabbbabbbacb c
+Pelodera
+strongyloides aaaaabaaaaaaaccddcbaaaaaaaaaadddcbd b
+a b
+See Appendix 6 for descriptions of characters (1-36) and states (a-e). Uncertainty in the character state assignment.
+a Character no.
+ 
+  1997 FITCH—NEMATODE MALE TAIL EVOLUTION 179
+APPENDIX 8. Possible features of the nematode at the root node of tree IV (Fig. 3), assuming an unordered model of character state transformation (the effects of assuming an ordered transformation model are noted).
+Character
+Adult
+1. Fan: anterior conformation
+2. Fan: position of anterior edge 3. Fan: extension
+4. Body shape: overall
+5. Body shape: tail tip
+6. Phasmid: position
+7. Rays: ray 8
+8. Rays: tip position for rays 1, 2, 4
+State
+a
+a
+a
+a
+a
+a or b a
+a a a
+a a a
+a a, b, c, or d
+a b, c, or d
+b b, c, or d
+c d
+d a
+b a a
+a a
+a a a a a a
+f d
+f d
+f d
+c« b« d
+b b, c, or d
+Description
+open
+near base of spicules broad
+blunt
+peloderan
+posterior or lateral present
+at margin
+narrow, uniform, open separate
+strong
+present
+do not fuse
+with Rl.p, Rl.p + R2.p, R2.p + R3.p, or
+R3.p + R4.p
+9. Rays: morphology of ray 10. Rays: position of ray 3
+Developmental characters
+11. Overall body retraction
+12. Terminal cells: retraction 13. Terminal cells: fusion
+6
+14. Ray cell associations:
+15. Ray cell associations:
+16. Ray cell associations:
+17. Ray cell associations:
+18. Ray cell associations:
+19. Ray cell associations:
+20. Ray cell associations:
+21. Ray cell associations:
+22. Dorsoventral position of Rnst:
+ray 1
+23. Dorsoventral position of Rnst:
+ray 2
+24. Dorsoventral position of Rnst:
+ray 4
+25. se-set boundary position 26. Rn.p position: Rl.p
+27. Rn.p position: R2.p
+28. Rn.p position: R6.p
+29. Rn.p position: R9.p
+30. Rn.p cell fusions: Rl.p 31. Rn.p cell fusions: R2.p 32. Rn.p cell fusions: R3.p 33. Rn.p cell fusions: R4.p 34. Rn.p cell fusions: R5.p 35. Rn.p cell fusions: R6.p
+36. Rn.p cell fusions: R7.p
+ray ray ray ray ray ray ray ray
+1 2 3 4 5 6 7 8
+with R2.p with R2.p with R6.p with R5.p with R6.p with R7.p with R8.p
++ R3.p, R3.p, or R3.p + R4.p + R3.p, R3.p + R4.p, or R6.p + R7.p
++ R7.p
+3
+seam-hyp7 border
+seam-hyp7 border
+seam-hyp7 border near base of spicules within seam
+within seam
+ventral of seam
+strictly lateral
+fuses with se
+fuses with se
+fuses with se
+fuses with se
+fuses with R7.p
+fuses with hyp7
+fuses with R5.p, fuses with R5.p + R6.p, or
+fuses with hyp7
+" If a linearly ordered transformation model is assumed, the possible states are b or c, and the character reconstruction becomes more resolved at other nodes.
+b c
+If transformations are ordered, the possible states are c or d, and the reconstruction becomes equivocal only at this node; plesiomorphic states at some later nodes become c.
+d e
+se = body seam; set = tail seam.
+' If transformations are ordered, the assignment becomes equivocal (c or d), and the reconstruction becomes equivocal at
+several later nodes.
+* If ordered, the assignment becomes equivocal (b or c), and the reconstruction becomes equivocal at several later nodes.
+If transformations are ordered, the possible states are c or d, and the reconstruction becomes more resolved.
+If ordered, the assignment becomes equivocal (a or b), and the reconstruction becomes equivocal at two later nodes.
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 

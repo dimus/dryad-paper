@@ -1,0 +1,481 @@
+   Molecular Ecology (2011) 20, 3237–3250 doi: 10.1111/j.1365-294X.2011.05158.x
+Alien eggs in duck nests: brood parasitism or a help from Grandma?
+RALPH TIEDEMANN,* KIRSTEN B. PAULUS,* KATJA HAVENSTEIN,* SVERRIR THORSTENSEN,† AEVAR PETERSEN,‡ PETER LYNGS§ and MICHEL C. MILINKOVITCH–
+*Unit of Evolutionary Biology ⁄ Systematic Zoology, Institute of Biochemistry and Biology, University of Potsdam, KarlLiebknecht-Strasse 24-25, Haus 26, D-14476 Potsdam, Germany, †Langahl ́ıð 9a, IS-603 Akureyri, Iceland, ‡Icelandic Institute of Natural History, IS-125 Reykjav ́ık, Iceland, §Christiansø Fieldstation of Natural Science, Christiansø, DK-3760 Gudhjem, Denmark, –Laboratory of Artificial and Natural Evolution, Department of Genetics and Evolution, University of Geneva, Geneva, Switzerland
+Abstract
+Intraspecific brood parasitism (IBP) is a remarkable phenomenon by which parasitic females can increase their reproductive output by laying eggs in conspecific females’ nests in addition to incubating eggs in their own nest. Kin selection could explain the tolerance, or even the selective advantage, of IBP, but different models of IBP based on game theory yield contradicting predictions. Our analyses of seven polymorphic autosomal microsatellites in two eider duck colonies indicate that relatedness between host and parasitizing females is significantly higher than the background relatedness within the colony. This result is unlikely to be a by-product of relatives nesting in close vicinity, as nest distance and genetic identity are not correlated. For eider females that had been ring-marked during the decades prior to our study, our analyses indicate that (i) the average age of parasitized females is higher than the age of nonparasitized females, (ii) the percentage of nests with alien eggs increases with the age of nesting females, (iii) the level of IBP increases with the host females’ age, and (iv) the number of own eggs in the nest of parasitized females significantly decreases with age. IBP may allow those older females unable to produce as many eggs as they can incubate to gain indirect fitness without impairing their direct fitness: genetically related females specialize in their energy allocation, with young females producing more eggs than they can incubate and entrusting these to their older relatives. Intraspecific brood parasitism in ducks may constitute cooperation among generations of closely related females.
+Keywords: eider duck, indirect fitness, intraspecific brood parasitism, microsatellites, relatedness, Somateria mollissima
+Received 1 March 2011; revision received 29 April 2011; accepted 5 May 2011
+Introduction
+Intraspecific brood parasitism (IBP; also called conspecific brood parasitism or prehatch brood amalgamation), i.e. laying of eggs into the nest of another female, is a remarkable, yet widespread, phenomenon in Anatidae (ducks and allies). Indeed, among the 234 bird species known to exhibit IBP (Yom-Tov 2001), 32% are anatids, a number vastly disproportionate relative to
+Correspondence: Ralph Tiedemann, Fax: +49 331 977 5070; E-mail: tiedeman@uni-potsdam.de
+the fraction (1.5%) of anatid species within birds (Monroe & Sibley 1993). As brood parasitism has been observed in most of the extant anatid species analysed to date (Yom-Tov 2001), it is probable that duck species generally exhibit this very peculiar trait. Several hypotheses have been forwarded to explain this phenomenon. Some of them assume that parasitizing females do not build a nest themselves because of either (i) limitation of nest sites, (ii) intrinsic individual limitations (lack of experience and⁄or poor physiological condition; Sorensen 1991), (iii) or as an alternative reproductive strategy maintained by balancing selection
+Ó 2011 Blackwell Publishing Ltd
+
+3238 R. TIEDEMANN ET AL.
+(recently reviewed in Reichart et al. 2010). Other hypotheses assume parasitizing females to have established a nest themselves, but to additionally lay eggs in other females’ nest, either (i) because they lost the eggs in their nest, or (ii) for decreasing the risk of predation by distributing eggs into several nests (‘bet-hedging’), or (iii) because they are in such excellent condition that they can increase their fitness by laying additional eggs into other females’ nest (‘fecundity enhancement’; Sorensen 1991; Lyon & Eadie 2008). While the evidence for the bet-hedging hypothesis is scarce (Lyon & Eadie 2008), there is support for the ‘fecundity enhancement’ hypothesis: it has been demonstrated (A ̊hlund & Andersson 2001) that parasitic duck females can double their reproductive output by laying eggs in other females’ nests in addition to incubating eggs in their own nest. The mentioned hypotheses have in common that they concentrate on the fitness benefit for the parasitizing female. From the host’s perspective, IBP might either decrease the fitness, under which scenario one should assume the evolution of an avoidance mechanism (Svennungsen & Holen 2010). Alternatively, host females might also gain (indirect) fitness, when experiencing IBP.
+Ducks are characterized by female natal philopatry; contrary to many bird species, it is the female, not the male, that returns to its birth site (Greenwood 1980; Greenwood & Harvey 1982; Anderson et al. 1992). Several authors (Andersson 1984, 2001; Eadie et al. 1988; McRae & Burke 1996; Andersson & A ̊ hlund 2000; Loeb et al. 2000; Lyon & Eadie 2000; Lo ́pez-Sepulcre & Kokko 2002; Loeb 2003) have raised the possibility that kin selection could explain the occurrence of brood parasitism. Indeed, if parasitic and parasitized females are close relatives (a situation that is greatly facilitated in ducks by the combination of coloniality and female philopatry), the host female could gain an indirect fitness benefit from IBP. Although this hypothesis has gained recent experimental support (Andersson & Waldeck 2007), its evolutionary implications are controversial: While the potential gain in inclusive fitness is evident from the perspective of the parasitizing female, one of the models of IBP based on game theory predicts that — from the host’s perspective — the loss in direct fitness exceeds the gain in indirect fitness, hence making IBP evolutionary unstable (Zink 2000; but see Andersson 2001; Lo ́pez-Sepulcre & Kokko 2002).
+Ducks, including eiders, can reach high ages of more than a decade. Although longitudinal studies on ducks are scarce, there is evidence that clutch size decreases with higher age (Dow & Fredga 1984). Our study is the first investigating IBP in relation to the age of the host female: If the ability to produce own eggs decreases with age, older females might lay fewer eggs than they
+can incubate. Then, the incubation of additional eggs from related females might constitute a gain in indirect fitness without any associated loss of direct fitness. Here, we specifically test the hypotheses that (i) IBP preferentially occurs among relatives and (ii) IBP increases with the age of the host female.
+Although very large clutch sizes, high egg-laying rates, and ⁄ or differences in egg appearance can be indicative of IBP in ducks, these traditional methods often underestimate the level of IBP (Semel & Sherman 1992). The use of molecular data in duck species should allow a better investigation of both IBP and the kinselection hypothesis (e.g. Andersson & A ̊hlund 2000, 2001; Lyon & Eadie 2000). Hence, using DNA microsatellites, we analysed IBP and genetic relatedness between breeding females and their newly hatched ducklings in a common duck species, the Eider (Somateria mollissima), in two breeding colonies, one in the Subarctic (Northern Iceland) and the other in the Southern Baltic Sea.
+In species with natal philopatry and parental care in both sexes, both males and females may potentially increase their inclusive fitness by tolerating IBP from relatives (McRae & Burke 1996). However, as (i) male Eiders are not philopatric and disperse across colonies (Tiedemann et al. 1999, 2004), (ii) pairing and mating take place outside the breeding colony at wintering grounds where eiders of different origins mix (Spurr & Milne 1976), and (iii) theoretical models on IBP in ducks concentrate on the egg-layer’s (i.e. the female’s) perspective (Andersson 1984, 2001; Eadie & Fryxell 1992; Zink 2000; Lo ́pez-Sepulcre & Kokko 2002), we focus here on the analysis of females.
+Materials and methods
+Study areas and populations
+Christiansø is a rocky Danish island of about 600 m in diameter, east of Bornholm in the Southern Baltic Sea (55°19¢N, 15°11¢E), where approximately 2600 eider females nest annually (Lyngs 2000). Akureyri airport is situated at the bottom of the Eyjafjo ̈rður fjord in Northern Iceland (65°41¢N, 18°04¢W). The runway is build into the fjord and provides a suitable habitat of about 2,000 by 300 metres. This colony consists of about 380 nesting females with an average clutch size of 4.1 eggs per nest (Petersen & Thorstensen 1990). According to the traditional taxonomy, eiders at Christiansø belong to the palaearctic subspecies S. m. mollissima, whereas the Icelandic eiders belong to the nearctic subspecies S. m. borealis (cf. Tiedemann et al. 2004). Eider ducks are, in general, restricted to areas mostly inaccessible to mammalian predators. More specifically for the two
+Ó 2011 Blackwell Publishing Ltd
+
+sites analysed here, the level of predation by mammals is further restricted at Akureyri airport because of human activities, and mammalian predators are absent in Christiansø archipelago. Large gulls are present at both sites but typically do not attack adult females at the nest (personal observations).
+Field work
+Female eider ducks were caught at the nest in early May at Christiansø (springs of 1998–2001; n = 63) and in late May at Akureyri (years 2000 and 2001; n = 77). Specifically, females were captured at Christiansø by pulling over their head a dark cotton bag, kept open by a metal ring of about 20 cm in diameter and attached to a pole of about 1.5 m. At Akureyri, females were either driven into hand-held mist nets (see Otnes 1990 for details) or captured by pulling over their head a loop attached to a 2to 3-m-long pole. Each female was blood-sampled at the leg vein and ring-marked (with one individual-specific steel ring and 1 year-specific coloured ring). In Akureyri, many females had already been ring-marked as a result of intensive annual campaigns during the last decades (Petersen & Thorstensen 1990; see Appendix I). Each nest of marked females was identified with a stick (to be found in subsequent study years) and located on a map on which pairwise Euclidian distances among nests were measured. Eggs were monitored at least twice a day to ensure that ducklings were sampled shortly after hatching. Altogether, 506 eider ducklings were blood-sampled in the nest within at most 12 h after hatching. Five females had their ducklings sampled once, whereas 45, 7 and 6 females were investigated 2, 3 and 4 consecutive years, respectively. Altogether, 140 nests of 63 females (41 from Akureyri, 22 from Christiansø) were analysed. Blood samples were directly transferred into a preservation buffer (Seutin et al. 1991) and kept at 4 °C.
+Production of molecular data
+DNA was isolated from blood samples using the SuperQuik-Gene DNA extraction kit (Analytical Genetic Testing Center, Denver, CO, USA) according to the manufacturer’s instructions. To determine whether offspring had been mothered by the incubating female, we genotyped seven polymorphic autosomal microsatellite loci for 140 clutches, both of the nesting females and corresponding 506 ducklings. The 7 loci (HrU2, Primmer et al. 1995; Sfil4 and Sfil7, Fields & Scribner 1997; Smo4, Smo6, Smo9, and Smo10, Paulus & Tiedemann 2003) were amplified via PCR according to Paulus & Tiedemann (2003). It has been demonstrated (Paulus & Tiedemann 2003; Tiedemann et al. 2004) that these loci
+are polymorphic and do not deviate significantly from Hardy–Weinberg equilibrium in the two populations studied here. Fragment size was determined on an ABI 373 automatic sequencer, using the GENESCAN 2.0 software (Applied Biosystems) and an internal size standard (MapMarker, Eurogentec). In case of allelic mismatch between a nesting female and a duckling (i.e. if the two individuals did not share at least one allele at any given locus), all specimens of that clutch (female and all ducklings) were reanalysed by a different investigator in a different laboratory, performing a new PCR and determining fragment size on an AB 3100 multicapillary sequencer. Only mismatches confirmed by both analyses were considered here. For each locus, we calculated the specific exclusionary power as in Reichart et al. (2010).
+Inference of intraspecific brood parasitism
+Because neither parent was known with certainty beforehand, we followed the maternity assignment approach of Reichart et al. (2010), i.e. genotypes of nesting females and offspring in the nest were compared locus-by-locus. In principle, true biological offspring should share at least one allele at each locus with the nesting female. Lack of a shared allele at a locus (called ‘mismatch’ hereafter) between a nesting female and a duckling in its nest can occur by one of the following four phenomena: (i) genotyping error for nesting female and ⁄ or duckling; (ii) mutation in the germ line of the nesting female or at an early development stage of the duckling (mosaicism); (iii) homozygote mismatches because of a null allele in the adult female; or (iv) the nesting female not being the mother of that duckling, i.e. ‘intraspecific brood parasitism’ (IBP). Genotyping errors were minimized by confirming all mismatches in two separate genetic analyses. For point (ii), assuming mutation rates at polymorphic microsatellites between 10)4 and 10)3 (e.g. Paetkau et al. 2004), we can expect — on average — between 0.7 and 7 such events in our data set (506 ducklings * 7 loci * 2 alleles ⁄ locus * 10)4 or 10)3 mutations ⁄ locus), of which half (0.35–3.50) can be expected to affect an allele received from the true biological mother. Homozygous mismatch (i.e. when the nesting female and the duckling are — at any specific locus — both homozygous but for different alleles) should be considered with caution because it could be caused by the occurrence of null alleles or by allelic drop-out (Goosens et al. 1998), rather than by nonparentage. In our data set, the overall frequency of homozygous mismatches for ‘nesting female vs. offspring’ pairs is 0.8% across all loci (i.e. 28 mismatches of 3542 pairwise comparisons), corresponding to 11 ⁄ 243 ducklings (4.5%) in the Christiansø site and 15 ⁄ 263
+Ó 2011 Blackwell Publishing Ltd
+INTRASPECIFIC BROOD PARASITISM, AGE AND KIN 3239
+
+3240 R. TIEDEMANN ET AL.
+ducklings (5.7%) in the Akureyri sample. Homozygous mismatches occur at three loci with the following frequencies: 2.0% (10 ⁄ 506) for sfil4, 0.8% (4 ⁄ 506) for Smo4 and 2.8% (14⁄506) for Smo9. It is unlikely that a significant proportion of homozygous mismatches are, in our sample, because of null alleles because we would then expect some individuals to exhibit homozygosity for null alleles (i.e. individuals that would exhibit no amplification product at one locus, a case we did not encounter). Similarly, it is unlikely that allelic drop-out yielded a large number of homozygous mismatches because genomic DNA quality was high, genotyping was duplicated, and the loci used in the present study did not exhibit any significant excess of short alleles in homozygous eider individuals analysed elsewhere (Tiedemann et al. 2004).
+The expected frequency of mismatches because of the combined effect of genotyping error and mutation was calculated according to a Poisson distribution and compared with observed values (Fig. 1). Each of the 506 ducklings was assigned as a ‘biological offspring’ or ‘parasitic duckling’ of the corresponding nesting female on the basis of genotype comparisons. Specifically, an offspring was assigned ‘parasitic’ if full parentage was incompatible with the allele distribution of the offspring and the corresponding nesting female, as even single mismatched offspring are very likely to be parasitic ducklings (see Fig. 1 and the following Results section). Nevertheless, we additionally analysed our data set after excluding all ducklings that exhibited a mismatch with the nesting mother at a single locus (cf. Reichart et al. 2010). It should be noted that this approach is conservative (=reduces type I statistical error) because it excludes the rare potential ‘true biological, yet singlelocus mismatched, offspring’ (i.e. exhibiting either one mutated allele, or one null allele, or one allelic drop out), at the expense of an increased type II error, because many individuals that are truly parasitic may be excluded (i.e. the frequency of ‘parasitic single-locus mismatched offspring’ is expected to be high, given the high genetic relatedness among breeding females).
+Computation of pairwise genetic identity and relatedness
+For each of the 140 nests, mean allele identity (number of shared alleles divided by the number of scored alleles, across the 7 analysed microsatellite loci) was computed between the nesting female and (i) biological offspring within its nest (Inf ⁄ bo), (ii) parasitic ducklings within its nest (Inf ⁄ pd), (iii) all ducklings from other nests in the colony (Inf ⁄ rd; background identity with random ducklings), and (iv) all females from other nests in the colony (Ir; background identity among nesting females,
+i.e. ‘genetic identity’ according to Nei 1987, page 221). We infer genetic relatedness between a nesting female (nf) and a parasitic female (pf) using the following equation (see Appendix II for derivation):
+Inf=pd 􏰀 Ir rnf=pf 1⁄4I 􏰀I :
+nf=bo r
+We put our molecular data in perspective with nesting females’ age obtained from ring-marking in the
+  (a) 600 500 400 300 200 100 0
+(b) 600 500 400 300 200 100 0
+HrU2 Sfiμ4
+Sfiμ7
+Smo4 Smo6 Smo9
+Smo10
+Match
+Mismatch
+Confirmed mismatch
+                        Microsatellite loci
+   Expected mismatches
+(3% typing error, 10e-3 mutation rate)
+Expected mismatches
+(3% typing error, 10e-4 mutation rate)
+Observed mismatches
+                  01234567
+Number of mismatched loci
+Fig. 1 (a) Comparison of genotypes between nesting female and corresponding ducklings: number of ducklings with no mismatch, with one or several mismatch(es) after one round of genotyping, and one or several mismatch(es) confirmed after re-typing at the corresponding loci. (b) Observed number of mismatches between duckling and nesting female (only those confirmed by re-genotyping) compared with expected numbers because of genotyping error and⁄or mutations. See text for details.
+ Ó 2011 Blackwell Publishing Ltd
+Number of ducklings Number of ducklings
+
+20 years prior to our study at the Akureyri site. When a female is captured for ring marking, there is some uncertainty whether this individual is in its very first nesting season (i.e. at age 2) because we cannot guarantee that any given female was ringed in its first breeding year. Therefore, we assigned a minimum (rather than exact) age to each ring-marked female (Appendix I). Females caught without a ring were assigned to minimum age 2. Eider females with a minimum age of 3 and more were assigned to age classes (age 3–6, age 7–10 and age ‡11) for computing summary statistics (mean occurrence of IBP, average clutch size and number of own eggs).
+Statistical analyses
+As some females contributed more than once to the analysis (because they were observed in different years, as confirmed by ring marking), we used Fisher’s exact test to identify a possible individual-specific effect. Likewise, as our study spans more than one breeding season, we tested for a possible year-specific effect for all parameters associated with IBP, applying v2 homogeneity tests for frequency data, and Analyses of Variance (data from more than 2 years) or t-tests (data from 2 years) for numerical data (Sokal & Rohlf 1995).
+The correlation between female minimum age and IBP occurrence was assessed by using the product– moment correlation coefficient (e.g. Sokal & Rohlf 1995), whereas the correlation between nest distance and genetic identity among nesting females was evaluated, separately for sites and study years, by a Mantel test using MANTEL ver. 2.0 (Liedloff 1999).
+Results
+Inference of intraspecific brood parasitism
+For the typed microsatellites, numbers of alleles (and—in parentheses—locus-specific exclusionary power for Christiansø ⁄ Akureyri) were as follows: HrU2: 3 alleles (0.185 ⁄ 0.166); Sfil4: 9 alleles (0.451 ⁄ 0.334); Sfil7: 60 alleles (0.748 ⁄ 0.726); Smo4: 32 alleles (0.645 ⁄ 0.650); Smo6: 12 alleles (0.361 ⁄ 0.332); Smo9: 14 alleles (0.718 ⁄ 0.613); Smo10: 23 alleles (0.466 ⁄ 0.477). When one or several genotype mismatches were observed between a nesting female and any duckling in the nest, all animals (nesting female and all ducklings) were retyped in a separate laboratory, yielding an overall estimate of genotype error of about 3% (Fig. 1a). From here on, and in all subsequent figures and tables, only confirmed mismatches are considered. Of 506 ducklings, 423 proved to match the nesting female at all loci after retyping. The total exclusionary power of our analysis was 0.996
+and 0.993 at Christiansø and Akureyri, respectively, translating into an estimated probability of only 0.004 and 0.007, respectively that an unrelated duckling matches a females’ genotype at all loci by random. Hence, ducklings matching the nesting female at all loci are considered true biological offspring of that female. The remaining 83 ducklings differed from the nesting female at 1–6 loci. We assessed the possible impact of mutation and genotyping error on our mismatch data: Fig. 1b shows expected dyad frequencies of matches ⁄ mismatches under the assumption that all ducklings in a nest originate from the nesting female (‘null hypothesis’; Poisson distribution of 1 ) b where b is the sum of the genotype errors — i.e. 3% in each of two subsequent typings — and the mutation rate; data for two mutation rates are shown). According to this calculation, we can expect only 3 (low mutation rate) to 6 (high mutation rate) ducklings exhibiting a singlelocus genotype mismatch with their mother. We observe 83 mismatching ducklings, a number that vastly exceeds the expectation under the null hypothesis (Fig. 1b). Even for the 49 confirmed single mismatches, the vast majority (i.e. an estimated 88–94%) can be considered to be ‘parasitic offspring’. For mismatches at more than one locus, the probability that such a duckling is parasitic exceeds 99.9%, even when considering a high mutation rate.
+Occurence of intraspecific brood parasitism
+Among 63 and 77 analysed nests at the Christiansø and Akureyri sites, respectively, 24 (38%) and 23 (30%) were inferred to contain ducklings not mothered by the nesting female (i.e. ‘parasitic’ ducklings; Table 1). The overall percentages of parasitic ducklings per parasitized nest (see Appendix III for data of individual females) is 41% and 42% for the Christiansø and Akureyri sites, respectively, whereas the proportions of parasitic ducklings across all nests are 17% and 16%, respectively (derived from Table 1). The percentage of parasitized nests has a tendency to be higher at Christiansø (Fisher’s exact test; P = 0.085), while the percentages of parasitic ducklings within a nest do not significantly differ between sites.
+As we re-sampled some females in consecutive years, we tested whether the probabilities of IBP in 2 consecutive years are independent. Fisher’s exact test for independence indicates that there is no sign of an individual-specific effect, i.e. the likelihood of IBP in the nest of a given female is independent among years of sampling, both for Christiansø and Akureyri [P = 0.190 and P = 0.177, respectively; the power of these tests is 1)b=0.86 and 1)b=0.72 for Christiansø and Akureyri, respectively, to detect with significance (at the 5%
+Ó 2011 Blackwell Publishing Ltd
+INTRASPECIFIC BROOD PARASITISM, AGE AND KIN 3241
+
+3242 R. TIEDEMANN ET AL.
+  Site Christiansø
+Akureyri
+Nonparasitized Parameter Year females
+No of 1998 10 nests199912 200010 2001 7 Total 39 1998 59 1999 68 200045 200129 Total 201 2000 27 nests200127
+1 mismatch
+>1 mismatch
+Sum Total
+7 17 921 515 3 10
+24 63 15 74 13 81
+853
+635 42 243 10 37 1340 23 77 18 134 23 129 41 263
+Parasitized females
+Table 1 Occurrence of intraspecific brood parasitism (IBP) at Christiansø and Akureyri. Nonparasitized females are defined as exhibiting no mismatch with any duckling in their nest. Evidence of IBP for parasitized females is separated into single and multiple mismatch(es), at 7 microsatellite loci, between females and ducklings in their nest
+   No of ducklings
+4 3 4 5 3 2 2 1
+13 11 10 5 6 7 5 3 5 1 26 16 7 3 3 10 10 13 13 5 10 13 23 18
+No of
+Total No of 2000 ducklings 2001
+Total
+54 116 106 222
+ level) a high correlation (r > 0.75) in IBP across subsequent years]. Furthermore, the age of host females and the various estimates of genetic identity related to IBP do not significantly differ across sampling years, except for relatedness between nesting females and both own and parasitic offspring at Akureyri where both these measures were significantly lower in 2001 than in 2000 [t-test: t-values 2.843 (P = 0.011) and 2.650 (P = 0.015), respectively]. As there is no identifiable individual-specific or year-specific effect on age and genetic-identity parameters in relation to the occurrence of IBP, we used mean values of these parameters among study years for further analyses such that more robust estimates based on larger sample sizes are obtained (for year-specific data refer to Appendix III).
+Age dependence of intraspecific brood parasitism
+Because all studied eider females of the Akureyri colony have been individually ring-marked as nesting adults during the past decades (except for eiders of minimum age 2 which we caught without ring; see
+Material and methods), we could unambiguously determine in this colony that probability and levels of IBP are correlated with mean minimum age of nesting females (Table 2). For the 3to 6-year-age class, only 17% of the nests contained parasitic ducklings, while this proportion increases to 35% and 37% for the 7to 10-yearand >11-year-age classes, respectively (Table 2). It should be noted that IBP was also common (42%) among the females of the 2-year-age class, i.e. among those eiders of unknown age which we caught without ring. Except for this first age class, the percentage of alien eggs increases significantly (r = 0.529, P = 0.052, n = 14) with the age of nesting females, such that, on average, over 20% of the clutch is not mothered by the oldest nesting females. This latter value increases to a striking 64% of alien eggs when only parasitized nests are considered. Finally, the three females that incubated alien eggs only (i.e. their nests did not contain any biological offspring) were all at least 15 years old.
+Note that the total number of eggs (own plus parasitic) remains relatively stable across age classes of
+Table 2 Occurrence of intraspecific brood parasitism in relation to the minimum age of the nesting host females at the Akureyri site (mean values ± standard errors; in parentheses are values if only parasitic ducklings with more than one mismatch are considered)
+ Age class n 2 12
+3–6 29 7–10 17 ‡11 19 All 77
+Proportion of nests with IBP
+0.417 (0.000) 0.172 (0.103) 0.353 (0.235) 0.368 (0.316) 0.299 (0.169)
+Proportion of alien eggs
+0.201 ± 0.079 (0.000 ± 0.000) 0.051 ± 0.023 (0.027 ± 0.015) 0.162 ± 0.060 (0.088 ± 0.041) 0.236 ± 0.086 (0.133 ± 0.059) 0.145 ± 0.030 (0.058 ± 0.016)
+Average total clutch size
+2.9 ± 0.3 3.5 ± 0.2 3.7 ± 0.4 3.3 ± 0.3 3.4 ± 0.1
+Average number of own eggs
+2.3 ± 0.3 (2.9 ± 0.3) 3.3 ± 0.2 (3.4 ± 0.2) 3.1 ± 0.3 (3.3 ± 0.3) 2.5 ± 0.4 (2.9 ± 0.3) 2.9 ± 0.2 (3.2 ± 0.1)
+  Ó 2011 Blackwell Publishing Ltd
+
+ 0.2
+0.1
+0
+n = 41
+2–6
+7+
+P = 0.008
+     Minimum age (years)
+Fig. 2 Percentage (means and standard errors) of alien eggs (two or more mismatches to the nesting female) in the nests of eider females of different ages. P-value is for pairwise t-test.
+n = 36
+nesting females (average total clutch size in Table 2). This is explained by the observation (Fig. 3) that the number of own eggs in the nest of parasitized females significantly decreases with age (r = 0.669, P = 0.024, n = 14), whereas the number of own eggs in the nest of nonparasitized females remains stable across age classes (r = 0.077, P = 0.822, n = 14).
+When the conservative approach of ‘counting only ducklings with more than one mismatch as parasitic’ (cf. Table 1) is followed, the age dependence of IBP appears even more pronounced (Table 2, Fig. 2).
+Relatedness, nest distance and intraspecific brood parasitism
+As expected, mean genetic identity between nesting females and their biological offspring is significantly higher (0.636 and 0.604 at Christiansø and Akureyri, respectively; Table 3) than that between nesting females and offspring randomly taken from the colony (0.360 and 0.298; P < 0.001; see Table 3 for details). The mean genetic identity between a parasitized nesting female and an inferred parasitic offspring in its nest reaches intermediate values (0.486 and 0.410 at Christiansø and Akureyri, respectively). These latter values remain significantly higher than those between a nesting female
+and a random offspring (P < 0.001; see Table 3 for details); hence, parasitic offspring are genetically significantly more closely related to their host female than expected by chance. This result strongly suggests that the biological (parasitic) mother and the host female are genetically closely related. Using mean allele identities between nesting females and various cohorts in the population (see Material and methods), we estimated that the mean genetic relatedness between a nesting female and a parasitic female is r = 0.39 ± 0.07 (0.48 ± 0.09 and 0.28 ± 0.11 for Christiansø and Akureyri populations, respectively). This significantly higher-thanrandom genetic identity between host and parasitic females (for two randomly chosen females, an average of r = 0 is expected according to the Formula 3 in Appendix II) is unlikely to be a by-product of relatives nesting in close vicinity because we were unable to evidence any significant relationship between distance among nests and levels of genetic identity among nest holders (Mantel tests: Christiansø 1999: r = 0.12, P =0.110; Christiansø 2000: r = )0.09, P = 0.238; Akureyri 2000: r = )0.03, P = 0.223; Akureyri 2001: r = )0.11, P =0.014). Indeed, although the correlation between these two parameters (in different nesting seasons and at different sites) is significant in Akureyri for the year 2001, these statistics are characterized by r2 values between 0.009 and 0.014; in other words, only 0.9– 1.4% of the variation in genetic identity is explained by distances among nests. Hence, there is no indication that female relatives nest in close vicinity to each other.
+Discussion
+Relatedness and intraspecific brood parasitism
+Our previous analyses of mtDNA restriction patterns (Tiedemann & Noer 1998) and mtDNA sequence data (Tiedemann et al. 1999, 2004) confirmed that eider females are strongly philopatric such that colonies are composed of closely related matrilines. To test the possibility of kin selection as a causal mechanism for IBP, we analysed here genetic relatedness (by typing 7
+ Parameter
+Ir
+Inf ⁄ rd Inf ⁄ pd
+Inf ⁄ bo
+Tested against
+— — Inf ⁄ rd
+Inf ⁄ rd
+Christiansø
+0.358 ± 0.045
+0.360 ± 0.009
+0.486 ± 0.026
+t = 4.580; d.f. = 46;
+P < 0.001
+0.636 ± 0.012
+t = 18.504; d.f. = 45;
+P < 0.001
+Akureyri
+0.316 ± 0.037
+0.298 ± 0.006
+0.410 ± 0.031
+t = 3.547; d.f. = 44;
+P < 0.001
+0.604 ± 0.012
+t = 23.729; d.f. = 41;
+P < 0.001
+Table 3 Mean allele identities (I), computed from 7 microsatellite loci, at the Christiansø and Akureyri sites between nesting females (nf) and either ducklings randomly chosen from the colony (rd), parasitic ducklings (pd), or biological offspring (bo). Ir gives mean allele identity among all nesting females. P values are given for comparisons with respective random expectations (onetailed t-test)
+INTRASPECIFIC BROOD PARASITISM, AGE AND KIN 3243
+  Ó 2011 Blackwell Publishing Ltd
+Mean relative frequency of alien eggs
+
+3244 R. TIEDEMANN ET AL.
+polymorphic autosomal microsatellites with high total exclusionary power of over 0.99) between breeding Eider duck females and their newly hatched ducklings at two different sites and demonstrated that over all, 34% of nests contained ducklings not mothered by the nesting female (i.e. ‘parasitic’ ducklings). This proportion is remarkably similar to the estimated 31% of IBP in a Canadian Eider colony (Waldeck & Andersson 2006), as detected by protein fingerprinting (Andersson & A ̊ hlund 2001). It has been previously suggested that IBP preferentially occurs among relatives such that host and parasitic females are closely related (Andersson & Eriksson 1982; Andersson 1984; Eadie et al. 1988; McRae & Burke 1996; Loeb et al. 2000; Lo ́pez-Sepulcre & Kokko 2002; Loeb 2003; Andersson & Waldeck 2007). Based on genetic identity (measured by the use of molecular data) between host females and parasitic ducklings, we infer here that the overall mean genetic relatedness between a host female and the corresponding parasitic female is 0.39 ± 0.07, i.e. all our analyses suggest that the mean coefficient of relatedness between a parasitic and a host female is between the theoretical expectations among first-order (0.5 for mother ⁄ daughter or full sisters) and second-order (0.25 for grandmother ⁄ granddaughter or cousins) relatives. This r value might actually constitute a slight underestimate, as the background identity of females randomly chosen from the colony might be elevated, because of female philopatry.
+Given that female Eider ducks are philopatric, the close relatedness between parasitic and host females could (i) be because of individual recognition of relatedness among these females, or (ii) just reflect a side effect of close relatives breeding in close vicinity. The latter possibility has been postulated for the moorhen (Gallinula chloropus), where random host-nest selection (under strong natal philopatry) yields an almost one-in-five chance of laying parasitic eggs into a first-order relatives’ nest (McRae & Burke 1996). Eiders, however, are—albeit philopatric with regard to their colony—not as faithful as moorhen to a specific nest location: in a study of a Norwegian Eider colony (Bustnes & Erikstad 1993), it has been demonstrated that only 25% of the females were faithful to a specific local nest, whereas 84% nested <100 m from their previous-year nesting location. In the present study, we observed that not a single of 48 females monitored in more than 1 year was faithful to an exact nest location, and the mean distance of nests for a given female in consecutive years is 26 and 272 m in Christiansø and Akureyri, respectively (Appendix I). In neither colony is there a tendency of females to nest near the nest location at which they were born, as there is no close geographic aggregation of genetically related female nest holders.
+The theoretical model of Lo ́ pez-Sepulcre & Kokko (2002) suggests that—in the absence of direct fitness benefits of IBP—hosts should avoid IBP unless they are able to recognize kins ‘accurately enough’. Therefore, as our analyses strongly suggest that host and parasitizing females (i) are relatives but (ii) do not preferentially nest in close proximity, we conclude that such a recognition mechanism might exist in Eider females as it has been evidenced (Andersson & A ̊hlund 2000; van der Jeugd et al. 2002) in Goldeneyes (Bucephala clangula) and Barnacle geese (Branta leucopsis). We are, however, unable to present any direct evidence for this mechanism.
+Age dependence of intraspecific brood parasitism
+A ‘kin-selected’ trait (here, IBP) can be evolutionary stable only if the gain in indirect fitness exceeds the potential loss in direct fitness. Recent models based on game theory differ as to whether this criterion is fulfilled for IBP (Zink 2000; Andersson 2001; Lo ́pez-Sepulcre & Kokko 2002). A ̊hlund & Andersson (2001) suggested that young duck females may become parasitic because of their high egg-laying capacity. Here, we further suggest that IBP may more easily evolve if tolerance of alien eggs increases with the host female’s age because (i) older females have a higher expected number of close relatives (daughters and granddaughters as well as younger sisters) in the colony (i.e. the level of increase in indirect fitness due to IBP is positively correlated with the age of the host female) and (ii) some older females may produce fewer eggs than they can incubate (i.e. IBP would not reduce their direct fitness). Under our new model, brood parasitism would allow genetically related females to specialize in their energy allocation, with young females producing more eggs than they can incubate and entrusting these to those closely related older females that produce fewer eggs. Our data indicate that (i) the average age of parasitized females (9.1 years) is higher than the age of nonparasitized females (6.8 years; Appendices I, III), (ii) the percentage of nests with alien eggs increases with the age of nesting females (Table 2), (iii) the level of IBP (in terms of absolute and relative numbers of parasitic eggs) significantly increases with the host females’ age (Fig. 2 and Table 2), and (iv) the number of own eggs in the nest of parasitized females significantly decreases with age (whereas the number of own eggs in the nest of nonparasitized females remains stable; Fig. 3). All these correlations between the age of nesting females and IBP parameters become more acute when the 2-year-age class is excluded from the analyses. Because of our approach of assigning a minimum age to a female upon first encounter in the colony (see Material and
+Ó 2011 Blackwell Publishing Ltd
+
+ 5 4 3 2 1 0
+Fig. 3 Mean number of own eggs produced by nonparasitized (filled rectangles and plain line) and parasitized (open triangles and dashed line) nesting Eider females of different ages (2year-age class excluded from correlation; see text for details).
+ Nests without IBP r = 0.077; P = 0.822
+Nests with IBP
+r = 0.669; P = 0.024
+                      0 2 4 6 8 10 12 14 16 18 20
+Minimum age (years)
+methods), we cannot for sure distinguish between firsttime breeders and females with previous breeding history immigrating into our study site. In any case, the reproductive performance of this cohort (in terms of clutch size and number of own eggs) is the lowest among all age classes (Table 2). At least for some specimens in this cohort, one may assume that they constitute first-time breeders which might be still inexperienced and have not yet reached their peak reproductive performances.
+The mean inferred genetic relatedness between host and parasitic females is about 0.39, i.e. between a firstorder and second-order relationship. Although it is perfectly possible that, on occasions, parasitic females lay eggs in the nests of younger host females (some old females remain able to lay many eggs; cf. Fig. 3), host females are clearly, on average, older than parasitic females.
+An alternative to our hypothesis of a selective advantage to IBP (as a way to increase indirect fitness in response to a decrease in direct fitness because of senescence-related reduction in the production of eggs) would be that older females have fewer own eggs as a consequence from, rather than a prerequisite to, IBP. Here, two scenarios seem possible, i.e. (i) a parasitic female might remove the eggs of the nesting female and replace them by her own (and older females might be less successful in repelling such intruders) or (ii) young females might manipulate older relatives to lay fewer eggs. We consider the ‘intruder’ scenario less likely, as such behaviour has never been reported for eiders and it appears counterintuitive that such aggressive behaviour of parasitic females should be directed preferentially to related females. Also the ‘manipulation’ scenario—albeit possible—seems unlikely, as it should not be evolutionary stable: parasitized females would suffer an inclusive fitness loss, because the gain
+in indirect fitness would be lower than the decrease in direct fitness (even in the case of younger parasitic females laying eggs only in the nest of older relatives). Yet another hypothesis would be that old female relatives tend to lay eggs in each other’s nests. However, we consider this hypothesis less likely because (i) younger female ducks may lay, on average, more eggs than they can incubate (A ̊ hlund & Andersson 2001) and (ii) there is no a-priori reason to consider that old females are more prone than younger females to become parasitic.
+There are also a few occasions where females do not incubate own eggs at all, but sit on a nest entirely made up of parasitic offspring. These females are all at least 15 years old. In these cases, we cannot distinguish between (i) a parasitic female laying eggs into a host’s nest or (ii) a nest takeover by the incubating female. Nest takeovers have been reported in Common eiders (Waldeck & Andersson 2006). With regard to our inclusive fitness argument, however, there is no conceptual difference between IBP and nest takeover from the perspective of the host.
+In conclusion, our analyses suggest that IBP allows some older females to gain indirect fitness without affecting their direct fitness. Hence, intraspecific brood parasitism in ducks can increase the total fitness not only of the younger parasitizing females (A ̊hlund & Andersson 2001), but also of the older, but closely related, host females. While the kin-selected nature of IBP has been previously postulated (Andersson & Eriksson 1982; Andersson 1984; Eadie et al. 1988; McRae & Burke 1996; Andersson & A ̊ hlund 2000; Lo ́ pez-Sepulcre & Kokko 2002; Loeb 2003; Andersson & Waldeck 2007; but see Semel & Sherman 2001), our study is the first that provides experimental evidence for an age dependence of IBP. Hence, we suggest that some instances of intraspecific brood parasitism in ducks might indicate cooperation among generations of closely related females.
+Acknowledgements
+We thank K. G. von Kistowski, M. Scheer and O. Schuldt for assistance with field work at Christiansø. Three anonymous referees provided valuable comments on a previous version of the manuscript. Financial support is acknowledged from Deutsche Forschungsgemeinschaft (TI 267-1), the University of Potsdam, the University of Geneva, the Georges and Antoine Claraz Foundation, and the International Brachet Foundation.
+Ó 2011 Blackwell Publishing Ltd
+INTRASPECIFIC BROOD PARASITISM, AGE AND KIN 3245
+Number of eggs
+
+INTRASPECIFIC BROOD PARASITISM, AGE AND KIN 3247
+ R.T. is Full Professor in Evolutionary Biology ⁄ Systematic Zoology at the University of Potsdam (Germany). K.B.P. is a senior scientist and K.H. is a technical assistant in Tiedemann’s group, both working on various aspects of population genetics and behavioural ecology. A.P. is the head of the Icelandic Institute of Natural History and has—together with S.T.—studied Eiders on Iceland for decades. P.L. leads the Christiansø Fieldstation of Natural Science and has investigated the biology of the Eider colony on Christiansø for many years. M.C.M. is Full Professor at Geneva University (Switzerland), heads the laboratory of Artificial and Natural Evolution and works on various aspects of conservation genetics, phylogenomics, phyloinformatics, and Evo-Devo.
+Data accessibility
+Microsatellite data: DRYAD entry doi:10.5061/dryad.n8f38.
+Appendix I
+Year of ringing, minimum age, frequency of parasitic ducklings (Fpd) and distance between nests in subsequent years for Eider females at the Akureyri site. It should be noted that nesting females were at least 2 years old at the time of ringing
+    Nesting female
+ismol 39 ismol 50 ismol 54 ismol 71 ismol 77 ismol 82 ismol 85 ismol 88 ismol 92 ismol 98 ismol 106 ismol 114 ismol 119 ismol 122 ismol 125 ismol 130 ismol 136 ismol 141 ismol 147 ismol 149 ismol 154 ismol 160 ismol 165 ismol 169
+Year of ringing
+1992 1996 1987 2000 1987 1984 2000 2000 1998 2000 2000 1995 1995 1995 2000 1987 1987 1989 2000 1999 1997 1998 2000 1995
+Minimum age
+Year 2000
+10 6 15 2 15 — 2 2 4 2 2 7 7 7 2 15 15 13 2 3 5 4 2 7
+Year 2001
+— 7 16 3 16 19 3 3 5 3 3 8 8 8 3 16 16 14 3 4 6 5 3 8
+Fpd
+Year 2000 0⁄3
+0⁄3 0⁄5 1⁄3 0⁄3 — 0⁄2 2⁄3 0⁄5 0⁄4 0⁄2 0⁄4 0⁄2 0⁄2 1⁄4 0⁄5 4⁄4 0⁄5 0⁄1 0⁄4 1⁄5 0⁄4 0⁄3 0⁄3
+Year 2001 —
+1⁄3 0⁄3 2⁄4 0⁄3 1⁄2 0⁄1 1⁄5 0⁄3 1⁄3 0⁄3 4⁄8 0⁄5 0⁄4 0⁄1 0⁄1 2⁄5 1⁄3 0⁄4 0⁄1 0⁄4 0⁄3 0⁄5 1⁄3
+Distance between nests in 2000 and 2001 (m)
+— 291
+92 125 572
+— 750
+359 25 822 243 103 24 134 8 59 137 280 230 75 25 175 1633 17
+    Ó 2011 Blackwell Publishing Ltd
+
+3248 R. TIEDEMANN ET AL.
+Minimum age
+Fpd
+Year 2000 0⁄4
+0⁄3 0⁄5 0⁄5 0⁄4 2⁄4 3⁄3 1⁄4 2⁄3 1⁄4 0⁄5 0⁄4 0⁄4 0⁄3 — — —
+   Nesting female
+ismol 176 ismol 181 ismol 185 ismol 191 ismol 197 ismol 206 ismol 219 ismol 223 ismol 228 ismol 232 ismol 237 ismol 246 ismol 251 ismol 256 ismol 357 ismol 371 ismol 389
+Appendix II
+Year of ringing
+1987 2000 1995 1999 1999 2000 1986 1988 2000 1993 1995 1999 1996 2000 1990 1986 1998
+Year 2000
+Distance between nests in 2000 and 2001 (m)
+   15 2 7 3 3 2 16 14 2 9 7 3 6 2 — — —
+Year 2001
+16 3 8 4 4 3 17 15 3 10 8 4 7 3 13 17 5
+relationship between a
+Year 2001
+0⁄3 1239
+0⁄2 172 0⁄3 167 1⁄4 508 0⁄4 107 0⁄5 42 4⁄4 42 0⁄1 17 0⁄2 325 2⁄3 214 0⁄3 125 0⁄3 192 2⁄3 324 0⁄4 150 0⁄1 — 0⁄4 — 0⁄3 —
+ Derivation of formula for coefficient of nesting female and a parasitic female.
+i.e. the first-order relationship between nf and pf (here, mother ⁄ daughter) is correctly identified.
+The coefficient of relatedness rxy and the genetic identity at microsatellite loci Ixy have been found to perform equally well as indicators of genetic relatedness among individuals (Blouin et al. 1996). According to Lynch & Ritland (1999; equation 8), rxy can be calculated from Ixy according to:
+r 1⁄4Ixy􏰀Ir ð3Þ xy 1􏰀Ir
+where Ir is the genetic identity among randomly chosen unrelated individuals. Substituting (eqn 3) into (eqn 2) yields
+Inf =pd 􏰀Ir
+rnf=pf 1⁄4 1􏰀Ir ð4Þ
+hence,
+rnf=pf 1⁄4 Inf=pd 􏰀 Ir ð5Þ
+Inf=bo 􏰀 Ir
+Appendix III
+(a) Nests containing ducklings with at least one microsatellite locus not matching with the nesting female (inferred parasitic duckling, pd) at the Christiansø site. (b) Nests containing parasitic ducklings at the Akureyri site. Fpd = frequency of parasitic ducklings; min age = minimum age; I = Allele identity; nf = nesting females; bo = biological offspring, pd = parasitic duckling, rd = random duckling. Asterisks indicate number of mismatched loci, relative to the nesting female
+The coefficient of relatedness rxy is the probability that, for any autosomal locus, a random gene taken from individual x is identical by descent with a random gene taken from individual y (e.g. Lynch & Ritland 1999). Its expected value is 0.5 for parent–offspring as well as full sib relationships and 0.25 for second-order relationships.
+The relationship between a nesting female (nf) and its biological offspring (bo) is hence given by rnf ⁄ bo, and the relationship between the parasitic female (pf) and its offspring (pd) is given by rpf ⁄ pd. According to kin selection theory (Hamilton 1964; Freeman & Herron 2004), the relationship between an actor (here, nf) and a recipient (here, pd) is given as the product of the two independent probabilities of (i) the relationship between actor and recipient’s parent (here, pf) and (ii) the relationship between recipient’s parent and its offspring (i.e. the recipient pd):
+rnf=pd 1⁄4 rnf=pf 􏰋rpf=pd ð1Þ
+As the expected relationship between true mother and offspring is the same for nf and pf (rnf⁄bo =rpf⁄pd =0.5), we can substitute rpf ⁄ pd by rnf ⁄ bo and solve eqn (1) to rnf ⁄ pf:
+Inf =bo 􏰀Ir 1􏰀Ir
+     r rnf=pf 1⁄4 nf=pd
+As an example, if the parasitic duckling is the grandchild of the nesting female, rnf ⁄ pd = 0.25. Hence, rnf ⁄ pf = 0.25 ⁄ 0.5 = 0.5,
+ rnf =bo
+ð2Þ
+Ó 2011 Blackwell Publishing Ltd
+
+INTRASPECIFIC BROOD PARASITISM, AGE AND KIN
+3249
+ (a)
+IBP nest
+1 2 3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Mean ± SE Mean ± SE Mean ± SE Mean ± SE Mean ± SE
+Inferred parasitic duckling (pd)
+dk259*, dk263*** dk280*
+dk285*, dk286***,
+dk287**, dk288** dk291*, dk292* dk296*, dk298* dk312*, dk313* dk322*
+dk390*
+dk401**, dk403** dk411*
+dk415****
+dk419*, dk421* dk424***, dk426* dk445*
+dk462**, dk463**** dk472****
+dk474*
+dk481****, dk484**** dk485*
+dk489*, dk490*, dk492* dk519*
+dk529**
+dk547*, dk548*, dk551* dk557*, dk558*
+—
+—
+—
+—
+—
+Nesting female (nf)
+dk258 dk277 dk283
+dk290 dk295 dk310 dk320 dk241 dk258 dk327 dk359 dk283 dk364 dk443 dk310 dk246 dk246 dk327 dk364 dk435 dk443 dk431 dk443 dk464 —
+— — — —
+ Year Fpd 1998 2⁄5
+1998 1⁄5 1998 4⁄6
+1998 2⁄4 1998 2⁄5 1998 2⁄3 1998 1⁄4 1999 1⁄5 1999 2⁄3 1999 1⁄5 1999 1⁄5 1999 2⁄3 1999 2⁄5 1999 1⁄5 1999 2⁄5 1999 1⁄1 2000 1⁄4 2000 2⁄4 2000 1⁄4 2000 3⁄4 2000 1⁄3 2001 1⁄4 2001 3⁄5 2001 2⁄4 1998 — 1999 — 2000 — 2001 — All years —
+Inf ⁄ bo 0.619
+0.625 0.607
+0.607 0.619 0.500 0.643 0.679 0.714 0.643 0.625 0.786 0.619 0.696 0.595
+—
+0.643
+0.714
+0.595
+0.643
+0.607
+0.643
+0.536
+0.679
+0.603 ± 0.018 0.670 ± 0.022 0.640 ± 0.021 0.619 ± 0.043 0.636 ± 0.012
+nf min age 2
+2
+Inf⁄pd 0.393
+0.571 0.500
+0.500
+0.571
+0.286
+0.643
+0.643
+0.393
+0.571
+0.286
+0.679
+0.429
+0.571
+0.393
+0.214
+0.571
+0.286
+0.571
+0.452
+0.643
+0.429
+0.524
+0.536
+0.495 ± 0.046 0.464 ± 0.054 0.505 ± 0.063 0.496 ± 0.034 0.486 ± 0.026
+Inf⁄rd 0.384
+0.332 0.434
+0.345 0.342 0.332 0.342 0.424 0.388 0.369 0.334 0.434 0.365 0.349 0.332 0.277 0.277 0.369 0.365 0.427 0.349 0.329 0.349 0.404 0.359 ± 0.364 ± 0.357 ± 0.361 ± 0.360 ±
+0.014 0.016 0.024 0.022 0.009
+Inf⁄rd 0.301
+0.257 0.348 0.318 0.322 0.258 0.283 0.277 0.307 0.289 0.347 0.312 0.278 0.257 0.284 0.341 0.257 0.301
+nf min age —
+— —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+  —
+Nesting host female (nf)
+is71
+is88
+is125
+is136
+is154
+is206
+is219
+is223
+is228
+is232
+is50
+is98
+is82
+is169
+is141
+is191
+is88 3 is71 3
+  (b) Nests containing parasite duckings at the Akureyri site
+ IBP nest
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Year Fpd 2000 1⁄3
+2000 2⁄3 2000 1⁄4 2000 4⁄4 2000 1⁄5 2000 2⁄4 2000 3⁄3 2000 1⁄4 2000 2⁄3 2000 1⁄4 2001 1⁄3 2001 1⁄3 2001 1⁄2 2001 1⁄3 2001 1⁄3 2001 1⁄4 2001 1⁄5 2001 2⁄4
+Parasitic duckling (pd) is73*
+Inf⁄bo Inf⁄pd 0.571 0.571
+0.643 0.536
+0.667 0.643 — 0.518 0.643 0.429 0.643 0.536 — 0.452 0.619 0.143 0.714 0.607 0.619 0.500 0.607 0.286 0.571 0.214 0.571 0.214 0.536 0.214 0.500 0.214 0.548 0.286 0.643 0.500 0.571 0.500
+ is89*, is90*
+is127*
+is137*, is138*, is139*, is140* is156**
+is208*, is210*
+is220**, is221**, is222** is227******
+is229*, is230*
+is233*
+is287****
+is290****
+is298****
+is300***
+is305**
+is313****
+is320*
+is330*, is332*
+2 15 5 2 15 14 2 9 7 3 19 8 14 4
+ Ó 2011 Blackwell Publishing Ltd
+
+3250 R. TIEDEMANN ET AL. (b) (Continued)
+  IBP nest
+19 20
+21
+22
+23
+Mean ± SE Mean ± SE Mean ± SE
+Year Fpd 2001 2⁄3
+2001 4⁄4 2001 4⁄8
+2001 2⁄5 2001 2⁄3
+2000 —
+2001 —
+Both years —
+Parasitic duckling (pd) is353*, is355**
+is359*, is360**, is361*, is362*
+is382****, is383*****, is385****, is388****
+is396*****, is397* is410*, is411*
+—
+—
+—
+Nesting host female (nf)
+is251 is219
+is114
+is136 is232 — — —
+nf min age 7
+16
+8
+16 10
+6.8 ± 1.9 9.1 ± 1.5 8.1 ± 1.2
+Inf ⁄ bo 0.643
+—
+0.661
+0.548
+0.571
+0.640 ± 0.015 0.580 ± 0.014 0.604 ± 0.012
+Inf⁄pd 0.429
+0.536 0.250
+0.393
+0.464
+0.493 ± 0.044 0.346 ± 0.035 0.410 ± 0.031
+Inf⁄rd 0.322
+0.283 0.304
+0.318
+0.289
+0.296 ± 0.009 0.299 ± 0.008 0.298 ± 0.006
+  Ó 2011 Blackwell Publishing Ltd

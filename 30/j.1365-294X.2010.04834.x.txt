@@ -1,0 +1,342 @@
+   Molecular Ecology (2010) 19, 4876–4891 doi: 10.1111/j.1365-294X.2010.04834.x
+Range-wide distribution of genetic diversity in the North American tree Juglans cinerea: a product of range shifts, not ecological marginality or recent population decline
+SEAN M. HOBAN,* DANIEL S. BORKOWSKI,* SUNSHINE L. BROSI,† TIM S. MCCLEARY,* LAURA M. THOMPSON,‡ JASON S. MCLACHLAN,* MARIE A. PEREIRA,*
+SCOTT E. SCHLARBAUM‡ and JEANNE ROMERO-SEVERSON*
+*Department of Biological Sciences, University of Notre Dame, 327 Galvin Life Sciences, Notre Dame, IN 46556, USA, †Department of Biology, Frostburg State University, 201 Compton Science Center, 101 Braddock Road, Frostburg, MD 215322303, USA, ‡Department of Forestry, Wildlife and Fisheries, The University of Tennessee, 282 Ellington Plant Sciences, Knoxville, TN 37996, USA
+Abstract
+The spatial distribution of genetic diversity is a product of recent and historical ecological processes, as well as anthropogenic activities. A current challenge in population and conservation genetics is to disentangle the relative effects of these processes, as a first step in predicting population response to future environmental change. In this investigation, we compare the influence of contemporary population decline, contemporary ecological marginality and postglacial range shifts. Using classical model comparison procedures and Bayesian methods, we have identified postglacial range shift as the clear determinant of genetic diversity, differentiation and bottlenecks in 29 populations of butternut, Juglans cinerea L., a North American outcrossing forest tree. Although butternut has experienced dramatic 20th century decline because of an introduced fungal pathogen, our analysis indicates that recent population decline has had less genetic impact than postglacial recolonization history. Location within the range edge vs. the range core also failed to account for the observed patterns of diversity and differentiation. Our results suggest that the genetic impact of large-scale recent population losses in forest trees should be considered in the light of Pleistocene-era large-scale range shifts that may have had long-term genetic consequences. The data also suggest that the population dynamics and life history of wind-pollinated forest trees may provide a buffer against steep population declines of short duration, a result having important implications for habitat management efforts, ex situ conservation sampling and population viability analysis.
+Keywords: bottlenecks, butternut, climate change, genetic diversity, range shifts Received 13 March 2010; revision received 5 August 2010; accepted 9 August 2010
+Introduction
+A central aim of evolutionary biology is to identify and describe the processes that determine the spatial distribution and abundance of genetic diversity. Many distinct processes, acting at different time and spatial scales, shape this distribution, including variation in
+Correspondence: Jeanne Romero-Severson, Fax: (574) 631 7413; E-mail: jromeros@nd.edu
+habitat quality at the range margins, demographic fluctuations and range shifts because of long-term climate changes (Loveless & Hamrick 1984; Foll & Gaggiotti 2006). A pressing challenge in population genetics is to disentangle the effects of each process (Grivet et al. 2008; Gaggiotti et al. 2009; Zellmer & Knowles 2009). Identifying those having the greatest impact is a logical first step in developing predictive models for population responses to future environmental change (Hamrick 2004; Petit et al. 2008; Jaramillo-Correa et al. 2009).
+Ó 2010 Blackwell Publishing Ltd
+
+Our goal in this investigation is to determine which of three processes (recent population decline, ecological marginality and postglacial range shifts) has had the most influence on current patterns of range-wide genetic diversity in Juglans cinerea L. (butternut), an outcrossing, wind-pollinated canopy tree native to eastern North America.
+Changes in population demography as a result of a rapid decline in census may result in substantial loss of genetic diversity and increased differentiation as a result of genetic drift (Frankham 1995; Allendorf & Ryman 2002; Ferna ́ndez-M. & Sork 2007). Both natural and anthropogenic causes of decline may vary in time and in spatial scale (Vellend 2004), affecting parts of the range intensely and other parts not at all (Hutchison 2003; Jump & Penuelas 2006). Butternut populations have experienced severe decline in the past 80 years (􏴦5 butternut generations), largely because of the introduced fungus Sirococcus clavigignenti-juglandacearum, the agent of butternut canker. Butternut canker has had greatest demographic impact in the southeastern United States, where the disease has caused mortality rates of 70–90% (Anderson & LeMadeleine 1978; Schlarbaum et al. 1997; Ostry & Woeste 2004). If this disease has had a significant impact on genetic diversity, it would be most pronounced in this region, the southern edge of the native range.
+Ecological marginality could also influence population dynamics, limiting local population sizes and weakening connectivity (Gaston 1996; Lo ̈nn & Prentice 2002; Gapare et al. 2005). Butternut is typically found in riparian or suitable upland habitats in temperate deciduous forests, but populations persist on the range edges in the transition from the central hardwood forest to the unsuitable habitats of northern boreal forest, southern and eastern pine forest and western prairie (McDaniel 1979; Rink 1990; Fralish 2002). The abundant centre hypothesis predicts that these edge populations will lose genetic diversity and become more differentiated from each other and from the core, as gene flow through pollen decreases and genetic drift increases (Maruyama & Kimura 1980; Lesica & Allendorf 1995).
+The influences of recent decline and marginal edge environments take place on a background of long-term climate cycles, the most recent of which was the repeated advance and retreat of northern ice sheets during the Pleistocene (Hewitt 2000; Gamache et al. 2003; Petit et al. 2004). During each glacial retreat, temperate species in eastern North America recolonized northward in a series of successive founder events that may have resulted in substantial loss of diversity and increased differentiation along the route (Petit et al. 2004; Excoffier et al. 2009). Butternut, located south of 35°N in eastern North America during the last glacial
+maximum (LGM) (Jackson et al. 2000), has colonized at least half of the historical native range (Fig. 1) since the Wisconsinian ice sheet began to retreat 􏴦18 000 BP (Davis 1983; Pielou 1992). The genetic impact of this geographically extensive range shift may still persist in northern populations.
+A primary problem in distinguishing the relative impacts of these three processes is that predicted genetic patterns for different processes may be concordant across some regions. For example, low genetic diversity in northern edge populations may result from range shifts or from marginal environmental conditions (Fig. 1), but most investigations are not explicitly constructed to distinguish between them. Identifying the underlying process will often require sampling across much of the native range, including both southern and northern edges (Sagarin & Gaines 2002; Sagarin et al. 2006). A secondary challenge is to construct a statistical framework that permits comparison of the degree to which one process (e.g. distance from the ice margin during the LGM) accounts for the response variable (e.g. allelic richness) when compared to other processes (Eckert et al. 2008; Gaggiotti et al. 2009). Methods to evaluate the relative importance of each process in natural systems have only recently emerged (Gaggiotti et al. 2009; Zellmer & Knowles 2009).
+Our aim in this study was to explicitly test the relative importance of recent decline, ecological marginality and range shifts as predictor variables for the spatial distribution of genetic diversity in butternut. We combined an extensive sampling effort with a comparative statistical framework to determine which process has most influenced genetic diversity and population differentiation in butternut. In our conclusion, we interpret our results in the light of past support for each process and discuss the application of these results for conservation of forest trees in a time of climate change.
+Materials and methods
+Overview of methods
+We employed quantitative metrics to measure the genetic response of each population to ecological processes, for 29 populations across the native range. These response variables included four measures of diversity (number of alleles, allelic richness, number of low incidence alleles, heterozygosity), two measures of differentiation (FST, RST) and three measures of population bottlenecks (M-ratio, allele frequency mode shift and heterozygote excess). We then constructed a statistical framework in which each of the three processes we tested (recent decline, ecological marginality and range shift) was represented by a qualitative and a quantitative
+Ó 2010 Blackwell Publishing Ltd
+RANGE SHIFTS, GENETIC DIVERSITY IN J. CINEREA 4877
+
+4878 S. M. HOBAN ET AL.
+1
+25
+24
+27-29
+Fig. 1 Prediction of range-wide genetic diversity and differentiation for three processes (b, c and d) relative to population locations (yellow circles). (a) population labels; (b) ecological marginality of the periphery; (c) range shift following the last glacial maximum; (d) recent population decline with a southern epicentre. Filled area: native range for J. cinerea. Red to blue gradient: high diversity and low differentiation to low diversity and high differentiation.
+            21
+    26
+ 22
+    23
+ 17-20
+ 13-16
+   9-12
+   2-6
+8
+(a)
+   7
+               21
+     22
+        2-6
+ 1
+25
+26
+24
+27-29
+  23
+17-20
+ 9-12
+13-16
+  8
+  7
+(b)
+     (c)
+(d)
+   predictive variable, similar to the approach of Gapare et al. (2005) and Schwartz et al. (2003). Our goal was to identify the variable(s) and hence the process, with the greatest predictive power for diversity, differentiation and bottlenecks. We used t-tests to compare the qualitative variables, simple linear regression to test the predictive power of each quantitative variable alone and two different model comparison procedures to test the predictive power jointly. To complement these model-based tests, we used a Bayesian clustering method to test for population genetic structure without the constraints of an a priori model. Lastly, we tested the null hypothesis that none of these processes are
+influencing population structure, in which case differentiation would be a function of isolation by distance alone.
+Species
+Butternut is a monoecious, outcrossing, diploid forest tree typically found at low densities in riparian areas and in upland forest patches containing suitable habitat. Trees are reproductively mature at 10–15 years, and individual trees rarely live longer than 60–70 years (a generation time and lifespan considerably shorter than that of many forest trees (e.g., oak and beech). The
+Ó 2010 Blackwell Publishing Ltd
+
+decline caused by butternut canker, while recent, represents multiple generations of population reduction for this species.
+Collections
+We sampled twigs from 1004 butternut trees in 29 naturally regenerating forests (Fig. 1) and recorded their GPS location. Tissue samples were kept cool in transport and then stored at )20 °C until DNA extraction, as previously described (Hoban et al. 2009). Samples include a variety of size classes, but with similar size distributions across most populations. The distribution of our sample locations reflects the locations of naturally occurring butternut populations of sufficient size for this study and is consistent with the surveys of federal and local foresters. We acknowledge an absence of population collections in Indiana, Ohio and Illinois, states in which agricultural, industrial and urban development has nearly eliminated continuous forests. In regenerating forests in southern Indiana, butternut persists primarily not as naturally recruiting populations but as scattered trees many kilometres apart (Coggeshall 1997). The last substantial population (>30 nonadmixed trees) in southern Indiana (Ross-Davis et al. 2008) has recently been decimated by butternut canker. Lastly, many remaining trees are hybrids with Japanese walnut (J. ailantifolia Carrie`re), an introduced species and therefore not useful for this study (Hoban et al. 2009). In spite of this gap, we emphasize that our samples cover a span of distance from the edges to within the main body of the range.
+Genotyping
+We genotyped the DNA samples with 11 microsatellite markers, 10 from butternut (Hoban et al. 2008) and one from black walnut, J. nigra L.(Robichaud et al. 2006), using PCR and genotyping protocols as previously reported (Hoban et al. 2008). We genotyped all 1004 samples with an average success rate of 10.5 loci per individual. As hybridization between butternut and an introduced exotic species, Japanese walnut, is common at some locations (Ostry & Woeste 2004; Hoban et al. 2009), we used both nuclear and chloroplast DNA markers to identify and remove hybrids (Hoban et al. 2009; McCleary et al. 2009).
+Population diversity statistics
+After removal of 100 hybrids, 904 individuals were retained for analysis (Table 1). Markers were tested for linkage (gametic) disequilibrium (LD) at each popula-
+tion and locus, using GENEPOP (Raymond & Rousset 1995). We used Holms’ correction (Holm 1979) for multiple tests. We tested for evidence of null alleles using MICRO-CHECKER (Van Oosterhout et al. 2004).
+We tested per locus and per population deviations from Hardy–Weinberg equilibrium (HWE) using GENEPOP. Using the program GDA (Lewis & Zaykin 2001), we calculated per population number of alleles (A), allelic richness (AR) and expected (HE) and observed heterozygosity (HO). We also recorded the number of low incidence alleles (those present in five or fewer populations).
+Population differentiation statistics
+To test whether population allele frequencies differ, we used GENEPOP Option 3, which tests the null hypothesis that population allele frequencies are drawn from the same distribution. We calculated pairwise FST between each population using FSTAT (Goudet 1995) and tested significance using 1000 permutations. Using SPAGEDI (Hardy & Vekemans 2002), we calculated RST (a differentiation statistic incorporating allele size information) and performed similar permutation tests. We also examined genetic distance between populations using principal component analysis (PCA) of pairwise FST, generated with GENALEX (Peakall & Smouse 2006).
+Bottlenecks
+We used three tests to detect signatures of population bottlenecks: M-ratio, heterozygote excess and allele frequency mode shift. The first, M-ratio (Garza & Williamson 2001), is the ratio of the number of occupied allelic states over the number of possible states (the range from smallest to largest allele). The test is based on the assumption that bottlenecked populations are likely to have more empty allelic states than nonbottlenecked populations because of loss of rare alleles. Garza and Williamson calculated the M-ratio for simulated and actual data sets and found that it accurately detects populations that have undergone large demographic reductions (e.g. effective population size, Ne, from 5000 to 50) at a critical value of 0.68. We calculated the M-ratio for each population using ARLEQUIN (Excoffier et al. 2005). We then tested for heterozygote excess using a one-tailed Wilcoxon signed-rank test, implemented in BOTTLENECK (Luikart & Cornuet 1998), to compare actual heterozygosity to a distribution obtained through a coalescent simulation based on a two-phase microsatellite mutation model. Mode shifts in allele frequency distribution were detected with BOTTLENECK. In a population at equilibrium, more alleles are expected at low frequency (<0.1) than in any other
+Ó 2010 Blackwell Publishing Ltd
+RANGE SHIFTS, GENETIC DIVERSITY IN J. CINEREA 4879
+
+4880 S. M. HOBAN ET AL.
+Table 1 Sample sizes, locations and predictor variables Predictor variables
+  Qualitative
+Disease Long. impact
+90.56 High 91.46 High 91.42 High 91.40 High 91.00 High 91.13 High 85.81 High 86.01 High 79.36 High 79.08 High 78.15 High 78.63 High 78.86 High 79.11 High 78.92 High 79.43 High 72.51 Low 72.90 Low 72.72 Low 72.45 Low 88.53 High 89.01 High 88.72 High 76.99 Low 78.42 Low 80.15 Low 66.21 Low 66.73 Low 65.92 Low
+Quantitative
+Tdisease‡ (km)§ (km)§
+  Pop* N† Lat.
+1 35 34.75
+2 26 37.50
+3 24 37.28
+4 18 37.22
+5 13 36.96
+6 31 36.85
+7 162 36.01
+8 64 37.29
+9 21 38.68
+10 14 38.70
+11 13 38.85
+12 19 38.31
+13 18 41.94
+14 26 41.93
+15 18 41.46
+16 45 41.64
+17 21 44.78
+18 21 44.55
+19 20 44.00
+20 20 43.09
+21 28 45.57
+22 20 44.66
+23 40 42.93
+24 26 45.50
+25 29 44.71
+26 24 44.51
+27 38 45.98
+28 33 46.08
+29 37 46.68
+Core-periphery
+Periphery Core Core Core Periphery Periphery Periphery Core Core Core Periphery Periphery Core Core Core Core Periphery Periphery Core Core Periphery Core Core Periphery Periphery Periphery Periphery Periphery Periphery
+Ice margin
+South South South South South South South South South South South South South South South South North North North North North North North North North North North North North
+Dedge Dice 68 )29 210
+C– 12.55
+11.94 11.76 11.94 11.74 11.88
+9.94 9.48 8.00 8.02 8.17 8.27 7.55 7.52 7.52 7.49
+10.42 10.27 10.23 10.31 11.27 11.15 10.48
+9.03 8.39 8.26
+15.48 15.08 15.94
+  *Population ID (Fig. 1).
+†Number of successfully genotyped, nonadmixed individuals.
+‡Number of years between disease detection and year of sample collection.
+§Dedge the distance to the nearest range edge; Dice the distance to the nearest ice margin at last glacial maximum. –Connectivity (highest values have lowest connectivity).
+equal-sized frequency bin (e.g. 0.1–0.2), making the frequency distribution skewed (i.e. ‘L-shaped’). During a bottleneck, low frequency alleles will be lost faster than higher frequency alleles, reducing the ‘L’ and causing a mode shift (Luikart & Cornuet 1998; Luikart et al. 1998).
+The heterozygote excess and mode-shift tests detect more recent bottlenecks while the M-ratio method is suited to detecting older bottlenecks. Heterozygote excess is reduced rapidly as a population expands and reaches a new migration–drift equilibrium (<4 Ne generations), while gaps in the allele frequency spectrum can only be filled in by new mutations or migration (Williamson-Natesan 2005).
+Qualitative and quantitative predictive variables
+68 86 330 68 72 330 68 56 350 68 48 350 68 31 370 68 )33 350 68 87 210 68 108 260 68 93 270 68 46 300 68 32 330 68 297 10 68 301 20 68 352 60 68 334 20 25 30 )390 25 35 )410 25 67 )330 25 144 )280 68 6 )160 68 81 )60 68 284 )50 17 )19 )370 17 )12 )260 17 30 )270 11 )281 )860 11 )251 )830 11 )341 )920
+ Qualitative. We assigned each population to one of two categories: high or low disease impact, peripheral or core location and north or south of the ice margin at LGM (Table 1). Populations exposed to butternut canker for more than 60 years were classified as ‘high impact’ (Anderson & LeMadeleine 1978; Schlarbaum et al. 1997), and populations exposed to butternut canker for one generation or less (􏴦25 years) (Hopkin et al. 2001; Schmalz & Bergdahl 2006) were considered ‘low impact’ of the disease. We then defined a peripheral strip, an area around the range boundary wide enough to account for 5% of the range area, 􏴦50 km for
+Ó 2010 Blackwell Publishing Ltd
+
+butternut’s range (Little 1971). Populations within or beyond this strip were classified as peripheral. We also tested a looser definition of periphery, 􏴦10% of the range edge, or 100 km. We also classified populations as south or north of the southernmost advance of the Wisconsinian ice margin at LGM.
+Quantitative. Each population was assigned a predictive continuous variable representing the strength of the given process (Table 1). First, we assigned each population the predictor variable Tdisease, the year in which butternut canker was first detected in the state or province in which the population is located. As discovery of a disease in a forest tree population is likely to be long after the disease first arrived, our measure although approximate is conservative. Next, we measured the distance of each population to the nearest range edge (Dedge) with ARCINFO (Environmental Systems Research Institute, 2004), assigning negative values to disjunct populations. Lastly, we calculated the distance from the population to the southern edge of the Wisconsinian ice margin at LGM (Dice), giving negative values to those populations north of the margin. The ice margin provides a relative measure of the minimum colonization distance after the ice receded.
+Qualitative and quantitative statistical analyses
+We used a one-tailed t-test to test for significantly different means between populations belonging to different categories of the population genetic response variables (e.g. high ⁄ low disease impact), similar to the method used by Jump & Penuelas (2006) to test whether fragmented forests have greater allelic diversity and heterozygosity than nonfragmented populations. Additionally, we use a chi-square test to compare the proportion of bottlenecked populations in each category, for each bottleneck test.
+Next, we used multiple regression for each of the seven response variables, using the three predictor variables, Tdisease , Dedge and Dice . This is an approach similar to the method used by Vellend (2004) to test the effects of land use history, habitat heterogeneity and isolation on both species and genetic diversity. We used a linear model with pairwise interactions:
+^yi 1⁄4 b0 þb1X1 þb2X2 þb3X3 þb4X1X2 ; þ b5X1X3 þ b6X2X3 þ e
+where b0 is the intercept, X1 is Tdisease, X2 is Dedge, X3 is Dice and yˆ i is the response variable. We performed model simplification using backwards removal of nonsignificant terms, using R (R-CDT 2005). The effect of
+each removal was checked using the Akaike Information Criterion.
+We also performed simple linear regression for each of the seven response variables using each of the three predictor variables alone, to test their predictive power apart from the others. For all the tests in this section, we report significance with and without Holm’s correction for multiple comparisons. Additionally, as populations 27–29 are disjunct, their inclusion may upwardly bias significance values for both the qualitative and quantitative tests. We performed all tests with and without these populations. As mean pairwise FST calculations may violate the assumptions of linear regression, we also performed a Mantel test between matrices of pairwise FST values and matrices of pairwise differences across populations for the predictive variables (i.e., pairwise calculations of Dice for population A minus Dice for population B).
+Lastly, we implemented a Bayesian model comparison method using GESTE (Foll & Gaggiotti 2006), which first estimates population-specific F-statistics and then evaluates the predictive relationship of the variables (e.g. latitude and connectivity). This method generates a posterior probability for each model considered. Note that this is a posterior probability (Pr), not a P value, as in classical model comparison. Models take the form of a general linear model:
+l 1⁄4 a0 þa1G1 þa2G2 þ:::anGn;
+where l is the population-specific parameter ln (h) (h being directly related to FST) and G1)Gn are the environmental variables that may influence h. In contrast to model simplification, this method estimates the probability of every possible model in a computationally efficient manner, making evaluation of multiple predictor variables feasible. We used seven predictor variables: sample size, connectivity, latitude, longitude, Tdisease , Dedge and Dice (Table 1). We calculated connectivity as a measure of the average distance between a population and all other populations (Foll & Gaggiotti 2006). As in Gaggiotti et al. (2009), we first performed analysis with all factors and then using only those having the top five cumulative posterior probabilities (for these data, factors with Pr > 0.10). Because this is a new approach, we compared values of FST from GESTE to those obtained using GENEPOP, FSTAT and SPAGEDI (Weir & Cockerham 1984).
+Bayesian analyses of population structure
+We used two Bayesian clustering programs, BAPS (Corander et al. 2003) and STRUCTURE (Pritchard et al. 2000), to identify population structure without a priori assumptions. Both programs infer the parameters of a
+Ó 2010 Blackwell Publishing Ltd
+RANGE SHIFTS, GENETIC DIVERSITY IN J. CINEREA 4881
+
+4882 S. M. HOBAN ET AL.
+model consistent with the multilocus genotypic data provided. As opposed to classical model testing procedures, these programs treat the model parameters as variables and are able to explore a wide parameter space. STRUCTURE simultaneously estimates population allele frequencies and assigns individuals to populations, using the criterion of minimum deviation from HWE within populations. BAPS partitions the data among groups of individuals (i.e. detects which sampling locations are different) based on similarity of population allele frequencies, comparable to a Fisher’s exact test for population differentiation. The biological interpretation of population structure found using BAPS and STRUCTURE is similar to FST, in that migration and shared ancestry result in weaker structure while reduced gene flow and increased drift result in stronger structure. Strong structure concordant with geographical contrasts (e.g. the range edge vs. the core) provides support for the process proposed. Both are conservative methods that tend to not report spurious structure. Settings for STRUCTURE: admixture model, infer a, uniform prior on a, allele frequencies correlated, LOC prior information on, burn-in = 25 000, sweeps = 50 000, K from 1 to 15, with five replicates. The most likely K was determined using both the log probability of the data (Pritchard et al. 2000) and the ‘‘delta K’’ method (Evanno et al. 2005). Settings for BAPS: clustering of groups, K from one to 15, with five replicates.
+Isolation by distance: Mantel tests
+We tested whether differentiation may be because of isolation by distance of populations at equilibrium (Kimura & Weiss 1964; Slatkin 1993; Hutchison & Templeton 1999), in which case geographical and genetic distances should be strongly correlated. Using SPAGEDI, we performed a Mantel test of pairwise FST ⁄ (1)FST) on the natural logarithm of distance (Rousset 1997), with 20 000 permutations. We conducted this test with all populations (n = 29) and with the following subsets: with disjunct populations removed (n = 25), within the core (n = 14), south of the ice margin at LGM (n = 16), low disease impact (n = 10) and the largest BAPS cluster (n = 22). As an additional consideration of the isolationby-distance hypothesis, we included connectivity as an explanatory variable in the GESTE analysis (Gaggiotti et al. 2009).
+Results
+Descriptive statistics
+A total of 904 individuals were successfully genotyped with a minimum of six and an average of 10.5 loci per
+individual. No locus had fewer than five alleles in a given population. The total number of alleles (A) observed across all eleven markers was 265 (mean A per locus = 24.1, mean A per population = 109). The number of alleles within populations ranged from 174 in population 8 to 78 in population 29.
+Departures from HWE expectation, LD and null alleles were minimal. Of 1595 possible population-locus combinations, only 32 (2%) showed significant LD. These were distributed across 11 populations, with only one population having > 4 instances. No pair of loci showed significant linkage disequilibrium in more than two populations. Null alleles were reported as likely for marker jcinB264 in 13 of the 29 populations, with the estimated percentage of null alleles within the populations ranging from 9% to 21% (mean = 15.8%). We recalculated all descriptive statistics with and without this locus and used t-tests to compare values. We observed no significant differences (data not shown). We observed slight but significant heterozygote deficiencies in 14 populations that were attributable to small departures at particular loci. No population had more than four loci departing from HWE. Small per locus departures from HWE are expected in small populations (Schwartz et al. 2003; Marsico et al. 2009).
+Population differentiation
+Global and pairwise population differentiation was moderate and highly significant in most cases. Of 406 population pairwise comparisons, 396 were significant (P < 0.05) and 311 remained significant after adjustment for multiple comparisons (P < 0.0001). The overall test for population differentiation was also significant (P < 0.0001). Mean pairwise FST was 0.0452 (r = 0.025, max = 0.126) and mean pairwise RST was 0.0443 (r = 0.049, max = 0.271) (Table 2, Table S1). The PCA based on FST indicates that populations north of the ice margin at LGM tend to be genetically distant both from each other and from the other populations, while populations south of the ice margin exhibit less differentiation (Fig. 2).
+All loci showed some deviation from the stepwise mutation model (i.e. one base pair difference between alleles). Loci displayed between 1% and 36% nonstepwise mutations (mean = 7.4%). However, RST values showed strong correlation with FST values, suggesting that RST is robust to moderate violations of the assumptions underlying the mutation model.
+Bottlenecks
+Twelve populations were below the critical value for the M-ratio test, seven populations showed a
+Ó 2010 Blackwell Publishing Ltd
+
+Table 2 Population genetic diversity, differentiation dence alleles (LIA), which are summed across loci
+and bottleneck statistics. Values averaged across all loci, except for low inciHet Mode
+Pop
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+A* Ar† LIA
+10.818 7.428 12 11.273 8.058 5 11.091 8.200 6
+9.727 7.593 2
+7.091 6.646 4 10.273 7.214 2 15.818 7.786 28 14.364 8.370 15
+9.909 7.875 7 8.545 7.800 4 9.000 8.345 3
+10.545 8.556 6 9.909 8.216 5 10.636 8.037 8 9.727 8.065 5 11.091 7.105 6 8.545 6.781 1 9.182 7.349 1 10.545 8.264 4 9.545 7.645 9 7.818 6.193 3 8.545 6.620 6 8.636 6.007 4 8.636 6.747 7 10.182 7.634 1 10.364 8.085 7 8.364 6.197 3 8.909 6.770 5 8.273 5.947 2
+HE‡
+0.788 0.837 0.837 0.817 0.778 0.819 0.839 0.850 0.842 0.811 0.848 0.839 0.859 0.840 0.842 0.801 0.814 0.818 0.842 0.812 0.776 0.766 0.753 0.778 0.836 0.858 0.783 0.807 0.751
+HO FST§ RST 0.687 0.051 0.043
+0.815 0.027 0.019 0.803 0.029 0.051 0.778 0.033 0.018 0.735 0.061 0.047 0.733 0.034 0.044 0.801 0.042 0.041 0.836 0.025 0.020 0.818 0.036 0.033 0.875 0.052 0.014 0.806 0.028 0.015 0.794 0.037 0.033 0.790 0.030 0.009 0.795 0.030 0.019 0.822 0.039 0.097 0.764 0.047 0.025 0.885 0.047 0.040 0.805 0.044 0.022 0.826 0.026 0.019 0.789 0.046 0.076 0.790 0.072 0.100 0.794 0.064 0.044 0.723 0.069 0.071 0.756 0.070 0.076 0.837 0.038 0.079 0.821 0.027 0.016 0.761 0.063 0.078 0.798 0.059 0.065 0.752 0.088 0.070
+M-ratio– excess** shift 0.702 N N
+0.704 Y Y 0.726 N N 0.712 N N 0.602†† N N 0.765 Y Y 0.862 N N 0.853 Y N 0.647†† N N 0.681 N N 0.664†† N N 0.685 N Y 0.684 N N 0.716 N N 0.697 N Y 0.703 N N 0.635†† Y N 0.665†† N N 0.687 N N 0.679†† N Y 0.583†† N N 0.621†† Y Y 0.603†† Y N 0.631†† N N 0.685 N N 0.724 N N 0.572†† Y N 0.641†† N N 0.588†† N N
+RANGE SHIFTS, GENETIC DIVERSITY IN J. CINEREA 4883
+   *Average number of alleles.
+†Average allele richness.
+‡Heterozygosity expected under Hardy–Weinberg equilibrium. §Mean pairwise FST and RST.
+–Critical value <0.68, values below this threshold indicated with ††. **Significant heterozygosity excess: bottleneck test.
+significant heterozygote excess and six showed a mode shift in allele frequencies (results by population, Table 2). The only significant biogeographical pattern to these bottlenecks was the M-ratio, which showed a higher proportion of bottlenecked populations north of the ice at LGM (Tables 2 and 3; Table S2). Recent investigations have demonstrated evidence of historical, but not recent, bottlenecks by comparing results from these three methods (Jordan et al. 2008; Henry et al. 2009).
+t-tests
+For the disease impact contrast, three t-tests were signif-
+icant and for the core-periphery contrast, two tests were Ó 2010 Blackwell Publishing Ltd
+significant, while for the north vs. south of the ice margin contrast, seven tests were significant (Table 3, Table S3). Under the alternative definition of the periphery, core-peripheral populations had no significant differences (Table S4). After multiple comparison correction and removal of disjunct populations 27–29, the north vs. south of the ice margin comparisons were still significant for all seven and six response variables, respectively, while the other categories were never significant (Table 3, Tables S5 and S6).
+Linear models
+Both multiple and simple linear regressions of the quantitative predictor variables (Tdisease , Dedge and
+
+4884 S. M. HOBAN ET AL.
+ 24
+11 10 12
+76
+8
+      20 16
+15
+     27 25
+13
+28
+Population location North of LGM South of LGM
+    29
+14
+2 3 4 26 21
+5
+22
+                 91 17
+19
+18 23
+     Fig. 2 Principal component analysis based on FST. The first and second principal components account for 0.28 and 0.27 of the variance, respectively. Population labels as in Fig. 1 and Table 1. Black circle: north of ice margin at last glacial maximum (LGM); open circle: south of the ice margin at LGM.
+  Dice) reveal a stronger influence of the range shift process. Using multiple regression, we obtained a minimal adequate model explaining each response variable (Table S7). Tdisease was retained in four, Dedge was retained in three and Dice was a retained as a significant predictor for all seven. In all cases, the single most significant predictor was Dice (Table 4), even after multiple comparison correction (Table S8). When populations 27–29 were removed, Dice was still the most significant predictor and was retained in all models, although R2 values were reduced (Table S9). Using simple regression, Dice was a significant predictor for six response variables (all but low incidence alleles), Dedge for two and Tdisease for none (Table 4, Table S10). After multiple comparison correction, Dice had significant predictive value for allelic richness,
+M-ratio and FST (and near significance for the other four), while Dedge and Tdisease had no significant predictive value for any response variables (Table S11). Mantel tests of pairwise differences in the predictive variables for pairwise FST across populations were significant for Dedge (P = 0.01) and Dice (P = 0.02) but not Tdisease (P = 0.07).
+Bayesian model testing (GESTE)
+The Bayesian model testing procedure also suggests a stronger influence of the range shift process. When considering all seven predictive variables, the two with the highest cumulative probability were Dice (Pr = 0.433) and latitude (Pr = 0.306) and the single model with the highest probability (Pr = 0.258) included only Dice (Table 4, Table S12). Using the five best factors from this initial run, latitude and Dice again resulted in the highest cumulative probability (Table S12). The error for the most probable model and the 95% credible interval are within the bounds suggested by Foll & Gaggiotti (2006). Values of FST from GESTE were highly correlated with values from traditional methods of estimating FST but were slightly inflated (Fig. S1).
+Bayesian analyses of population structure
+The clustering methods suggest population differentiation because of bottlenecks from range shifts. For both methods, at the most likely K values (K = 11 for both methods, Fig. S2), population structure is most apparent north of the ice margin (Fig. 3). Plots of Ln P(D) and a showed convergence within 10000 reps, suggesting that the burn-in and sweeps were sufficient.
+ Response Test variable
+Contemporary decline
+(low ⁄ high)
+ns* ns ns
+0.040 ns 0.046 ns ns ns 0.029
+Ecological marginality (C ⁄P)
+ns ns ns
+ns 0.034 ns ns 0.035 ns ns
+Range shift (N⁄S)
+0.003 ns ns
+0.008†,‡ 0.001†,‡ 0.038† 0.009†,‡ 0.0004†,‡ 0.006†,‡ 0.001†,‡
+Table 3 Qualitative tests: probabilities for the value of the test statistic for three predictors
+  Proportion of bottlenecks (v2 test)
+Seven population genetic variables (t-test)
+M-ratio Het. excess Mode shift
+Allele number Allele richness Rare alleles Heterozygosity FST
+RST M-ratio
+  C ⁄ P, core ⁄ periphery; N ⁄ S, north ⁄ south.
+*ns, not significant (P > 0.05).
+†Also significant (P < 0.05) after Holm’s correction.
+‡Also significant (P < 0.05) after removing disjunct populations.
+Ó 2010 Blackwell Publishing Ltd
+
+Method
+(a) P value for predictors evaluated separately
+Multiple regression with model simplification
+Bayesian model comparison
+*ns, not significant (P > 0.05). †Most significant predictor.
+Allele number Allele richness Rare alleles Heterozygosity FST
+RST M-ratio
+— X — X X — X —
+— X† X X† — X† X X† X X†
+— X†
+— X†
+— X†
+Response variables
+Contemporary Ecological Range decline marginality shift (Tdisease) (Dedge) (Dice)
+ns† ns 0.030 ns 0.027 0.002 ns ns ns ns ns 0.034 ns ns 0.003 ns 0.018 0.019 ns ns 0.003
+Table 4 Quantitative tests. (a) P value for the regression using three predictors evaluated separately. (b) Retention in the minimal adequate model for predictor variables evaluated jointly
+RANGE SHIFTS, GENETIC DIVERSITY IN J. CINEREA 4885
+  Linear regression
+Allele number Allelic richness Rare alleles Heterozygosity FST
+RST
+M-ratio
+(b) Retention in the most predictive model for predictor variables evalueted jointly
+                   (a)
+                  (b)
+Fig. 3 Bayesian cluster analyses. (a) STRUCTURE (K = 11), colours represent the cluster having the highest Q value for that population (one cluster did not have the highest Q in any population, so only 10 colours are displayed); (b) BAPS (K = 7), colours represent distinct BAPS clusters; (c) actual Q values per population, showing admixture of 11 clusters including grey cluster not appearing in (a); populations left of the arrow are south and populations right of the arrow are north of the ice margin at last glacial maximum (LGM) (double dashed line, approximate ice margin).
+ 1 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0
+(c)
+1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829
+South North
+                                  Isolation by distance: Mantel tests
+Discussion
+A weak but significant pattern of isolation by distance was observed across all populations and within each subset examined (Table S13). Similar values were obtained with FST instead of FST ⁄ (1)FST) and with raw distance values instead of log values (data not shown). Additionally, connectivity was a weak predictor in the GESTE model (Table S12).
+Recent population decline
+We observed a latitudinal cline in diversity opposite to that predicted under dramatic recent decline caused by an introduced pathogen. In locations where population decline because of disease has been most severe, diversity tends to be highest (Table 2). The magnitude and
+Ó 2010 Blackwell Publishing Ltd
+
+4886 S. M. HOBAN ET AL.
+the duration of a bottleneck will have a strong influence on its genetic signature in a population. For comparison, Jump & Penuelas (2006) demonstrated significant effects of fragmentation on a timescale of > 500 years in European beech (Fagus sylvatica), while other investigations have shown that brief (< 100 years) and even extreme population declines may not have lasting genetic signatures (Brown et al. 2007; Yao et al. 2007; Okello et al. 2008). Overlap among generations, persistence of a few trees that survive infection and gene flow among local populations may also delay the genetic impact of population reductions. Retention of substantial effective population sizes despite a sharp decline in population census can occur in species in which gene flow among local populations and across generations is high (England et al. 2003; Johansson et al. 2006).
+Previous studies of genetic diversity in the Juglans genus have produced inconclusive results. Very low genetic diversity for isozymes, among the lowest reported for trees (Vendramin et al. 2008), was reported in butternut populations in Quebec, New Brunswick and Vermont (Morin et al. 2000). A study in 43 populations of black walnut (J. nigra) across the range core (Victory et al. 2006) detected high diversity and low differentiation, but the effect of range edges was not explored. However, a significant latitudinal cline of decreasing diversity was observed, similar to our observations. A previous investigation of genetic diversity in butternut (Ross-Davis et al. 2008) showed high diversity and low structure in the centre of the range, but the authors did not test for hybrid individuals or sample along range edges. While we report high diversity in more centrally located populations, similar to RossDavis et al., we demonstrate a reduction in diversity in northern populations, providing the most complete picture of range-wide diversity in this species to date.
+Ecological marginality at range edges
+Previous studies have shown lower diversity in marginal populations in both plants and animals (Cassel & Tammaru 2003; Hutchison 2003; Schwartz et al. 2003), with the strongest support from investigations pairing demographics with genetics (Lo ̈ nn & Prentice 2002). However, many studies are not explicitly designed to test alternative hypotheses, and authors acknowledge that effects of range shift or anthropogenic disturbance are viable alternative explanations. Although a pattern of lower diversity in northern edge populations was evident in butternut, we also observed high diversity at the southern and eastern peripheries. When the three processes are compared, the range shift hypothesis is consistently a better predictor. Additionally, peripheral populations were no more likely to show evidence of
+bottlenecks than nonperipheral populations. There are at least two possible explanations for our observations. First, population dynamics (size, abundance, persistence) on the range edge may not be substantially different from those in the core. Alternatively, the peripheral population dynamics are indeed different, but the genetic signature is too weak relative to the effect of range shifts for detection with the methods used. We did not locate naturally occurring populations of sufficient size in the geographical centre of the range (Illinois, Indiana and Ohio) despite a concerted effort. A more intensive search for naturally regenerating forest fragments with suitable butternut habitat in these intensively farmed, logged, urbanized and industrialized states would fill this gap. Nevertheless, genetic diversity in a population was clearly not predicted by location with respect to the geographical periphery, when the northern and southern edges of the periphery were included.
+We anticipate that our results, paired with other studies (Eckert et al. 2008; Lawton 1993), will strengthen the experimental design and analysis of future investigations of this process. We emphasize that a decline in diversity from the range centre to northern edge, as observed in many previous investigations, does not provide support of either the core-periphery or the range shift process, but rather both. A specifically designed range-wide sampling scheme coupled with a rigorous, model comparison approach, similar to the one we implemented, is necessary for a better understanding of genetic consequences of ecological marginality of the range edge. We note that the geographical clumping of some of our sampling sites probably weakens the statistical power of our analyses and should be avoided in future studies.
+Range shifts
+We observed a latitudinal gradient in diversity from the range core northward. Using model comparison, we show that this pattern is distinct from core-periphery influences or recent population decline, providing convincing support for the effect of range shifts and adding to the already strong body of evidence in support of the range shift hypothesis in both plant and animal taxa (Hewitt 2000; Jaramillo-Correa et al. 2009). We also detected more population differentiation in northern populations. Long-distance dispersal or recolonization from disjunct and isolated refugia closer to the ice margin, which seem necessary to explain rates of postglacial colonization in North American forest trees (Clark 1998; Austerlitz & Garnier-Gere 2003), should lead to severe founder effects. In some investigations, however, leading populations show less differentiation, perhaps
+Ó 2010 Blackwell Publishing Ltd
+
+because of complex colonization paths or a mixing of divergent lineages from isolated refugia (Gamache et al. 2003; Petit et al. 2003; Heuertz et al. 2004). Our results reinforce the idea that a universal pattern for differentiation at the leading edge of recolonization is unlikely. Rather, differentiation will depend on the frequency of long-distance dispersal events, location of refugia and stochastic biotic and abiotic events, including local landscape heterogeneity (Magni et al. 2005; Soltis et al. 2006; Excoffier et al. 2009). We suggest that our finding regarding the influence of range shifts is not limited to butternut. As nearly all eastern North American forest species migrated north during the last glacial retreat, range shifts may have played a key and enduring role in the distribution of diversity within these forests.
+Several butternut populations deviate from the overall patterns we observe. The Arkansas population (population 1) was a moderately divergent southern population, a finding that is consistent with its disjunction from the main range. The Tennessee population (population 7) was the only relatively distinct southern population in clustering analyses (Fig. 3). This observation may be because of the unusually high census at this location (> 200 trees), which we will examine in another manuscript. Lastly, some populations north of the ice margin showed moderate diversity and differentiation (Table 2, Figs 2 and 3). Stochastic processes during colonization and gene flow among some populations may have erased signals of founder effects.
+Isolation by distance
+We found very weak isolation by distance. Several other studies in wind-pollinated forest trees have also shown weak isolation by distance, even when populations are significantly differentiated (Heuertz et al. 2004; Victory et al. 2006; Craft & Ashley 2007; Smulders et al. 2008). This may be attributed to the fact that isolation by distance is predicted to be weak at large spatial scales (Bradbury & Bentzen 2007), or when populations have not reached migration–drift equilibrium (Slatkin 1993), such as after range shifts.
+Conservation context
+Over 90% of butternut trees are infected with butternut canker in some regions (Nielsen et al. 2003; Ostry & Woeste 2004; Schmalz & Bergdahl 2006). Natural regeneration is rare, as seedlings are particularly susceptible to canker (Orchard 1984). Our work indicates that southern populations, despite recent large-scale population declines, have retained high heterozygosity and a sizeable fraction of the total diversity in the
+species and are therefore the most suitable targets for ex situ conservation collections (Ledig 1988; Frankham 1995; Stockwell et al. 2003). If local extinctions continue, whole cohorts of trees will perish without producing descendents, resulting in an irrecoverable loss of genetic diversity (Segelbacher et al. 2003). Management of habitat to facilitate regeneration and transplanting of disease-tolerant trees back to forested locations should be both feasible and effective at maintaining moderate population sizes in situ. In contrast, northern populations exhibit less diversity and higher differentiation. Although in a geographical position to colonize northward in response to climate warming, these populations may have less capacity to adapt to rapidly changing conditions, if genetic diversity represents adaptive potential (Frankham 1995, 2005; Allendorf & Ryman 2002). A recent study of 19 North American forest trees based on a performance index measuring lifetime fitness showed consistently lower values at the northern boundary of the native range (Purves 2009), possibly suggesting that edge populations may not be well adapted to edge conditions. We acknowledge that genetic diversity as measured by anonymous microsatellite markers is not a direct indicator of adaptive potential, but the direct measures of fitness parameters (Purves 2009) are suggestive of adaptive changes and merit additional study. We also suggest that, for long-lived organisms with overlapping generations and long-distance dispersal potential through pollen, local populations may persist for several generations below the recommended minimum viable population size (500–1000 individuals) with minimal genetic loss and that even small populations retain conservation value (Allendorf & Ryman 2002). However, debate continues on the importance of genetic diversity versus differentiation in prioritizing populations for conservation (Petit et al. 1998), the adaptive significance of differentiation for neutral genetic markers (Fraser & Bernatchez 2001) and the potential conflict between maintaining diversity and maximizing fitness (Stockwell et al. 2003).
+Conclusions
+Our investigation provides fresh perspective on the genetic consequences of three major biogeographical processes typically investigated in isolation. Based on our finding that recent decline and ecological marginality of the periphery have less genetic impact in butternut than large-scale range shifts, it is apparent that the genetic impact of recent population losses should be evaluated in the context of Holocene epoch range shifts. Abiotic and biotic stresses (e.g. hemlock woolly adelgid, emerald ash borer, pine bark beetle) have caused
+Ó 2010 Blackwell Publishing Ltd
+RANGE SHIFTS, GENETIC DIVERSITY IN J. CINEREA 4887
+
+4888 S. M. HOBAN ET AL.
+large-scale population declines in North American forests, but the life histories and dispersal mechanisms of some wind-pollinated forest trees may provide a genetic buffer against short-term demographic reductions, as suggested by others (Hamrick 2004). Future investigations will need to focus on the trade-off between severity and duration of the bottleneck, and the specific biological and abiotic mechanisms that directly affect the magnitude of genetic diversity loss. Carefully designed sampling schemes and comparative statistical analysis, including recently developed Bayesian methods, will contribute to this research direction. Our results also may apply to predictions of the impact of climate change on butternuts, other forest trees and organisms with similar life history and gene-flow characteristics. If the reduced neutral genetic diversity that we observed represents adaptive potential, northern populations may be less capable of adapting to future changes and new environments. Even if tree populations are able to track climate change by shifting ranges, a debatable outcome (Pearson 2006), we show that the genetic consequences of range shifts in forest trees may endure hundreds of generations and may overshadow recent demographic changes.
+Acknowledgements
+We are particularly grateful for assistance from the United States National Park Service, United States Forest Service and Natural Resources Canada. We thank the following people for help with field collections: Robert White, Jack Frank, Brice Leech, Ashton Berdine, Eagle Brosi, Jeanine Riggleman, Jennifer Murrow, Ami Sharp, Dale Bergdahl, Diane Burbank, Barbara Boysen, Judy Loo, Donnie McFee, Robert Anderson, David Gallagher, Mary Ann Buenzow, Paul Berrang, Chris Casey, Henrietta Bennett, Carrie Sweeney, Dwight Slocum and Wayne Kruger. We are also indebted to the following undergraduate assistants for both field and laboratory work: Britney Dennis, Bridgette Sanchez, Betsy Madison, Ellen Luecke, Lindsay Huebner, Paul Goedde and Casey Bouskill. We also acknowledge and appreciate discussion, criticism and manuscript edits from Nora Besanksy and the McLachlan laboratory group. This work was funded by the University of Notre Dame, the University of Tennessee, the Margaret Finley Shackelford Trust, the Healing Stones Foundation and the Northern Nut Growers Association. SH was funded by a fellowship from the Arthur J. Schmitt Foundation.
+Ó 2010 Blackwell Publishing Ltd
+
+  S.M.H. is a postdoctoral research associate working on population genetic simulations at the Laboratorie d’Ecologie Alpine, Grenoble France. This study was part of his PhD dissertation on conservation genetics of forest trees. D.S.B. is a graduate student in the Romero-Severson program. He focuses on fine scale population differentiation and spatial genetic analysis of natural populations of forest trees. S.L.B. received her PhD in 2010 in the Department of Forestry, Wildlife and Fisheries at University of Tennessee under the direction of Scott E. Schlarbaum. Currently an instructor at Frostburg State University, her research interests include ethnobotany in Appalachian and other cultures and preservation of culturally significant keystone species including rare, threatened and endangered plants. T.S.M. is the Romero-Severson lab manager, a graduate of the Purdue Forestry program, he is responsible for graduate and undergraduate training in bench techniques and field collections. He is also responsible for the marker development and cultivar identification programs.in butternut, black walnut, oak and chestnut. L.M.T. received M.S. degree in 2003 in the Department of Forestry, Wildlife and Fisheries at the University of Tennessee under the direction of Frank T. van Manen. She is now a PhD student in the Environmental and Life Sciences Program at Trent University, Ontario Canada. J.S.M. is a forest ecologist. His current research efforts integrate paleoecological and genetic data to understand forest population response to long-term environmental change. M.A.P. was awarded a Baccalaureate degree in Anthropology from University of Notre Dame in 2010 and is now attending graduate school at the University of Maryland. S.E.S. is a Professor of Forest Genetics in the Department of Forestry, Wildlife and Fisheries at the University of Tennessee and the Project Leader of the University of Tennesse’s Tree Improvement Program;
+His research program combines traditional breeding and testing methodologies with molecular approaches to improve stress tolerance in forest trees. J.R.-S. is an Associate Professor specializing in the genetics and genomics of natural populations of insects and forest trees. Her current research focuses on population substructure, comparative genomics, speciation and the genetic mechanisms of stress tolerance.
+Supporting information
+Additional supporting information can be found in the online version of this article.
+Fig. S1 A comparison of FST calculated using Weir & Cockerham’s method (FSTAT, GENEPOP, and SPAGEDI), to FST calculated using the Bayesian procedure in GESTE, and to RST calculated using SPAGEDI. Note the higher variance in RST, and the high correlation between traditional and Bayesian methods.
+Fig. S2 Two methods of detecting the ‘best’ K: delta (K) values and log probability of the data at values of K for K = 1 to 15, from STRUCTURE v. 2.3.3.
+Table S1 Pairwise population FST below the diagonal, calculated using FSTAT
+Table S2 Proportion of bottlenecked vs. nonbottlenecked populations in each category
+Table S3 t-tests for categories under each process
+Table S4 t-test probabilities using alternate (100 km) definition
+of the periphery
+Table S5 t-test probabilities for population contrasts under each model, after Holm’s correction
+Table S6 t-tests for categories of each process, after removal of the disjunct populations, 27–29
+Table S7 Minimal adequate model to explain number of alleles, allelic richness, heterozygosity, M, RST, FST, and number of rare alleles
+Table S8 Minimal adequate models after Holm’s correction Table S9 Minimal adequate models, with New Brunswick pop-
+ulations removed
+Table S10 Coefficients of determination and P values for all linear models
+Table S11 Coefficients of determination and P values for all linear models after Holm’s correction
+Table S12 GESTE Bayesian model comparison
+Table S13 Results of Mantel test on all populations, and five
+population subsets
+Please note: Wiley-Blackwell are not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+Ó 2010 Blackwell Publishing Ltd
+RANGE SHIFTS, GENETIC DIVERSITY IN J. CINEREA 4891

@@ -1,0 +1,343 @@
+Syst. Biol. 48(1):65–75, 1999
+Additional Support for Afrotheria and Paenungulata, the Performance of Mitochondrial versus Nuclear Genes, and the Impact of Data Partitions with Heterogeneous Base Composition
+MARKS.SPRINGER,1 HEATHERM.AMRINE,1ANGELABURK,1 ANDMICHAELJ.STANHOPE,2
+1 DepartmentofBiologyandInterdepartmentalGraduatePrograminGenetics, University of California, Riverside, California 92521, USA;
+E-mail: mark.springer@ucr.edu (M.S.S.), hamrine@ucrac1.ucr.edu (H.M.A.), angburk@citrus.ucr.edu (A.B.)
+2 Queen’sUniversityofBelfast,DepartmentofBiologyandBiochemistry, 97 Lisburn Road, Belfast BT9 7BL, United Kingdom;
+E-mail: m.stanhope@qub.ac.uk
+Abstract.—We concatenated sequences for four mitochondrial genes (12S rRNA, tRNA valine, 16S rRNA, cytochrome b) and four nuclear genes [aquaporin, alpha 2B adrenergic receptor (A2AB), interphotoreceptor retinoid-binding protein (IRBP), von Willebrand factor (vWF)] into a multigene data set representing 11 eutherian orders (Artiodactyla, Hyracoidea, Insectivora, Lagomorpha, Macroscelidea,Perissodactyla,Primates,Proboscidea,Rodentia,Sirenia,Tubulidentata).Withinthis data set, we recognized nine mitochondrial partitions (both stems and loops , for each of 12S rRNA, tRNA valine, and 16S rRNA; and 􏰭rst, second, and third codon positions of cytochrome b) and 12 nuclear partitions (􏰭rst, second, and third codon positions, respectively, of each of the four nuclear genes). Four of the 21 partitions (third positions of cytochrome b, A2AB, IRBP, and vWF) showed signi􏰭cant heterogeneity in base composition across taxa. Phylogenetic analyses (parsimony, minimum evolution, maximum likelihood) based on sequences for all 21 partitions provide 99–100% bootstrap support for Afrotheria and Paenungulata. With the elimination of the four partitions exhibiting heterogeneity in base composition, there is also high bootstrap support (89–100%) for cow + horse. Statistical tests reject Altungulata, Anagalida, and Ungulata. Data set heterogeneity between mitochondrialandnucleargenesismostevidentwhenallpartitionsareincludedinthephylogenetic analyses. Mitochondrial-gene trees associate cow with horse, whereas nuclear-gene trees associate cow with hedgehog and these two with horse. However, after eliminating third positions of A2AB, IRBP, and vWF, nuclear data agree with mitochondrial data in supporting cow + horse. Nuclear genes provide stronger support for both Afrotheria and Paenungulata. Removal of third positions of cytochrome b results in improved performance for the mitochondrial genes in recovering these clades. [Afrotheria; base composition; Eutheria; Paenungulata; phylogeny reconstruction.]
+Relationships among orders of eutherian (placental) mammals have proven dif􏰭cult to resolve with DNA sequence data. Protein coding sequences from complete mitochondrial (mt) genomes provide support for some clades (e.g., Cetartiodactyla and Ferungulata; see Krettek et al., 1995) although resolution of other phylogenetic questions is less clear (e.g., rodent monophyly/polyphyly; D’Erchia et al., 1996; Sullivan and Swofford, 1997). Potential shortcomings of the currently available mtDNA data set include incomplete ordinal representation and lack of branch subdivision for several orders (e.g., Xenarthra). Taxonomic representation is more complete for the mt rRNA genes and the nuclear IRBP and vWF genes, all of which include representation for at least 16 of the 18 liv-
+ing eutherian orders (Novacek, 1992). However, these data sets are appreciably shorter than the complete mitochondrial protein coding data sets. Nevertheless, mitochondrial rRNA and nuclear IRBP and vWF gene sequences provide convincing support for Cetartiodactyla, Paenungulata (i.e., Hyracoidea + Proboscidea + Sirenia), and Afrotheria (i.e., Macroscelidea + Paenungulata + Tubulidentata + Chrysochloridae + Tenrecidae) (Porter et al., 1996; Stanhope et al., 1996, 1998a, 1998b; Springer et al.,1997a, 1997b). Strong support for Ferungulata (i.e., Cetartiodactyla + Perissodactyla + Carnivora; Krettek et al., 1995) has not emerged from nuclear sequences.
+Several studies have compared the relative performance of different mitochondrial protein–coding genes in vertebrate/-
+65
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+66 SYSTEMATIC BIOLOGY VOL. 48
+ mammal phylogeny reconstruction (Cao et al., 1994; Cummings et al., 1995; Zardoya and Meyer, 1996; Naylor and Brown, 1997). It remains unclear whether mitochondrial or nuclear genes are generally more ef􏰭cacious for reconstructing higher-level mammalian relationships. An advantage favoring mitochondrial genes is shorter coalescence times relative to most nuclear genes (Moore, 1995). A potential disadvantage is that faster rates of nucleotide substitution in mitochondrial loci result in multiple hits (and saturation) at reduced evolutionary distances relative to nuclear genes. Here, we concatenate DNA sequences for four mitochondrial genes and four nuclear genes for representatives of 11 eutherian orders and examine the utility of this multigene data set in mammalian phylogenetics. We also examine the performance of the mitochondrial versus nuclear partitions in recovering strongly supported clades.
+METHODS
+The primers F14164 (5’ gaaaarycatcgttgtahttcaacta 3’) and R15181 (5’ acwggttgdccdccrattcakgt 3’) were used to amplify a 1,016 base-pair region of the mt genome that included 1,005 base-pairs of the cytochrome b gene for Elephantulus rufescens and Orycteropus afer. Polymerase chain reaction (PCR) products were sequenced directly by using the Sequenase PCR Product Sequencing Kit (USB) or cloned into PCR II (Invitrogen) and sequenced. Internal sequencing primers were designed as necessary. Both strands were sequenced. Additional cytochrome b sequences, as well as sequences for 12S rRNA, tRNA valine, 16S rRNA, aquaporin, alpha 2B adrenergic receptor (A2AB), exon 1 of the interphotoreceptor retinoid-binding protein (IRBP) gene, and exon 28 of the von Willebrand Factor (vWF), were obtained from GenBank for representatives of the 11 eutherian orders listed in Table 1. All of the nuclear sequences are from exons. In several cases, it was necessary to use chimeric sequences (Table 1).
+Sequences were aligned by using CLUSTAL W (Thompson et al., 1994), followed by minor modi􏰭cations by eye. Am-
+biguous regions of the rRNA and tRNA alignments were excluded from phylogenetic analyses (Swofford et al., 1996; Springer et al., 1997b; Stanhope et al., 1998a, 1998b). A short region of the A2AB gene was also dif􏰭cult to align because of a glutamic acid repeat corresponding to nucleotide positions 840-869 of the Macroscelides proboscideus sequence (Y12524). This region was also excluded from phylogenetic analyses. This resulted in a data set that encompassed 7,320 aligned nucleotide positions, of which 3,349 bp represent mitochondrial genes (12S rRNA = 859; tRNA valine = 58; 16S rRNA = 1,289; cytochrome b = 1,143) and 3,971 bp represent nuclear genes (aquaporin = 337; A2AB = 1,143; IRBP = 1,246; vWF = 1,245). This data set is available online from www.utexas.edu/ftp/depts/systbiol/.
+PAUP* (Swofford, 1998) was used to evaluate differences in base composition across taxa within 21 different partitions using a chi-square test. Nine mitochondrial partitions were as follows: 12S rRNA stems; 12S rRNA loops; tRNA valine stems; tRNA valine loops;16S rRNA stems; 16S rRNA loops; and 􏰭rst, second, and third codon positions of cytochrome b. The models of Springer and Douzery (1996), Andersen et al. (1982), and De Rijk et al. (1994) were used to partition 12S rRNA, tRNA valine, and 16S rRNA, respectively, into stems and loops. The 12 nuclear partitions were the 􏰭rst, second, and third codon positions of each of the four nuclear genes
+PAUP* (Swofford, 1998) was used to perform unweighted parsimony, transversion parsimony, minimum evolution (ME), and maximum likelihood (ML) analyses. In all cases, we used tree bisection-reconnection branch swapping. In parsimony analyses, gaps were treated as missing data. In parsimony searches, 10 random input orders were used; a single input order was used in ML searches. To perform bootstrap analyses, 500, 500, and 200 replications were used with parsimony, ME, and ML, respectively. A new feature added to PAUP* (d64 upwards) allows bootstrap resampling at variable sequence lengths, the statistical rationale of which is described in Waddell (unpublished). LogDet and ML-corrected
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999
+SPRINGER ET AL.—PERFORMANCE OF MITOCHONDRIAL AND NUCLEAR GENES 67
+ TABLE 1.
+Taxonomic sampling and accession numbers for mitochrondial and nuclear genes. Genes
+  Order
+12S rRNA, tRNA valine, 16S rRNA
+Bos
+J01394
+Procavia
+U61084 , U97335
+Erinaceus
+X88898
+Oryctolagus
+AJ00158 8
+Elephantulus
+U97339
+Equus
+X79547
+Homo
+J01415
+Loxodonta
+U60182, AF039436
+Mus
+J01420
+Trichechus
+U61083 U97337
+Tubulidentata
+a All Equus are E. Caballus, except for vWf, which is E. asinus.
+[Hasegawa et al. (1985) model with 2:1 transition to transversion ratio] distances were used in conjunction with minimum evolution. ML searches also employed the Hasegawa et al. (1985) model of sequence evolution with a 2:1 transition to transversion ratio. Kishino and Hasegawa (1989), Templeton (1983), and winning-sites (Prager and Wilson, 1988) tests were used to test prior hypotheses, most of which derive from morphology (e.g., see Novacek 1992, 1993).
+RESULTS
+Base Composition and Data Compatibility
+Base composition across taxa was judged signi􏰭cantly heterogeneous for one of nine
+ Artiodactyla
+Hyracoidea
+Insectivora Lagomorpha Macroscelidea Perissodactylaa Primates Proboscidea
+Rodentia Sirenia
+cyt b
+Bos
+J01394
+Procavia
+D8690 9
+Erinaceus
+X88898
+Oryctolagus
+AJ00158 8
+Elephantulus
+AF107725
+Equus
+X79547
+Homo
+J01415
+Loxodonta
+D84150
+Mus
+J01420
+Dugong
+U07564
+aquaporin
+Bos
+Y10633
+Procavia
+Y10631
+Erinaceus
+Y15950
+Oryctolagus
+Y10636
+Macroscelidea
+Y10630
+Equus
+Y10634
+Homo
+D31846
+Elephas
+Y10629
+Mus
+D13960
+Dugong
+Y15949
+A2AB
+Bos
+Y15944
+Procavia
+Y12524
+Erinaceus
+Y12525
+Oryctolagu s
+Y15946
+Macroscelidea
+Y12522
+Equus
+Y15945
+Homo
+M34041
+Elephas
+Y12520
+Mus
+L00974
+Dugong
+Y15947
+Orycteropu s
+Y12521
+IRBP
+Bos
+J04441
+Procavia
+U48586
+Erinaceus
+AF02539 0
+Oryctolagus
+Z11812
+Elephantulus
+U48584
+Equus
+U48710
+Homo
+J05253
+Loxodonta
+U48711
+Mus
+Z11813
+Dugong
+U48583
+Orycteropu s
+U48712
+vWf
+Bos
+X63820, AF004285
+Procavia
+U31619
+Erinaceus
+U97536
+Oryctolagus
+U31618
+Macroscelidea
+U31612
+Equus
+U31610
+Homo
+M25851
+Loxodonta
+U31615
+Mus
+U27810
+Dugong
+U31608
+Orycteropu s
+U31617
+Orycteropus
+Orycteropus
+Orycteropu s
+U97338
+AF10772 4
+Y10632
+ mitochondrial partitions (third positions of cytochrome b) and three of 12 nuclear positions (third positions of A2AB, IRBP, and vWF, respectively). We note that the Chisquare text of base composition employed in PAUP* ignores phylogenetic correlation. Our exclusion of heterogeneous base composition partitions (HBCPs) was conservative as we included all nucleotide positions of each partition rather than just variable or informative positions.
+Results of data set incongruence tests were mixed (Table 2). Partition homogeneity tests for parsimony indicate signi􏰭cant heterogeneity in the case of rRNA-tRNA versus cytochrome b. With third positions of cytochrome b omitted, rRNA-tRNA and
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+68
+SYSTEMATIC BIOLOGY
+VOL. 48
+ Test
+Partition homogeneity test Mitrochondrial vs. nuclear
+with HBCPsa
+Result
+TABLE 2.
+Data compatibility tests.
+  without HBCPs
+Mitochrondial rRNA and tRNA vs. nuclear Four nuclear genes
+Cytochrome b vs. rRNA
+with HBCPs
+without HBCPs
+1st, 2nd, and 3rd positions of nuclear genes
+P = 0.075 P = 0.410 P = 0.535 P = 0.325
+P = 0.010 P = 0.180 P = 0.920
+No con􏰮icts No con􏰮icts
+Con􏰮icting associations for cow No con􏰮icts
+P=0.0014 P=0.0201 P=0.0492 P=0.3945
+P=0.0191 P=0.1410
+P < 0.0001
+P = 0.0117, 0.0071
+P = 0.0797 P = 0.3258
+P < 0.0001
+P = 0.0279, 0.0146
+less apparent or insigni􏰭cant with the exclusion of HBCPs. Also, when used to evaluate whether or not two data sets indicate the same tree (bar sampling error), the KH, Templeton, and winning-sites tests reject too often (Waddell, 1995; Waddell et al., 1999). Given the equivocal results of these incongruence tests, we elected to combine the individual data partitions into a concatenated data set that included all of the mitochondrial and nuclear genes. Because of the increased con􏰮ict associated with including HBCPs, we performed analyses with and without including these partitions. Data set sizes with and without these partitions were 7,320 and 5,727 bp, respectively.
+Mitochondrial vs. nuclear trees with 90% bootstrap criterion Parsimony
+Minimum evolution (ME) Maximum likelihood (ML)
+with HBCPs without HBCPs
+Kishino–Hasegawa test Mitochondrial data on nuclear tree
+ML with HBCPs
+ML without HBCPs Parsimony with HBCPs Parsimony without HBCPs
+Nuclear data on mitochondrial tree(s) ML with HBCPs
+ML without HBCPs
+Parsimony with HBCPs
+Parsimony without HBCPs (2 trees)
+Templeton test
+Mitochondrial data on nuclear tree
+Parsimony with HBCPs
+Parsimony without HBCPs Nuclear data on mitochondrial tree(s)
+Parsimony with HBCPs
+Parsimony without HBCPs (2 trees)
+a HBCPs = heterogeneous base composition partitions.
+cytochrome b were not judged signi􏰭cantly heterogeneous (Table 2). All of the other partitions tested, including mitochondrial versus nuclear, were homogeneous as judged by the partition homogeneity test. With a 90% bootstrap criterion, there were no con􏰮icts for mitochondrial versus nuclear gene trees for any of the phylogenetic methods that were employed except for ML, where there was one con􏰮ict. This con􏰮ict (cow + horse versus cow + hedgehog) disappeared when HBCPs were excluded. With HBCPs included, most of the Kishino–Hasegawa and Templeton tests indicated signi􏰭cant heterogeneity for the mitochondrial versus nuclear data sets (Table 2). Con􏰮icts were
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999 SPRINGER ET AL.—PERFORMANCE OF MITOCHONDRIAL AND NUCLEAR GENES 69
+   FIGURE 1. ML bootstrap tree (200 replicates; HKY85 model) based on the 7,320-bp concatenated data set that includes all mitochondrial and nuclear genes.
+Phylogenetic Analyses
+Figure 1 shows an unrooted ML bootstrap tree for the 7,320-bp data set. Assuming mouse or hedgehog (or both) as the outgroup, there is 100% support for both Afrotheria and Paenungulata. Parsimony and ME bootstrap trees (not shown), the latter with both LogDet and ML distances, also support these clades at the 100% bootstrap level. Cow and horse are supported at the 78% bootstrap level. Without the HBCPs, bootstrap support on the ML tree (not shown) increased to 90% for cow + horse; Afrotheria and Paenungulata remained at 100%.
+Statistical tests for both parsimony and ML provide signi􏰭cant support for Afrotheria and Paenungulata (Tables 3, 4). Trees constraining Altungulata, Anagalida, Hyracoidea + Perissodactyla, and Ungulata, in turn, are rejected at P < 0.0001. Statistical tests neither support nor reject Glires, Ferungulata (only two of four orders were represented), or Tethytheria, with or without the inclusion of HBCPs.
+ML bootstrap trees for the mitochondrial and nuclear data sets, with bootstrap resampling set at the size of the smaller mitochondrial data set, are shown in
+FIGURE 2. ML bootstrap tree (200 replicates; HKY85 model) based on the 3,349-bp mitochondrial data set.
+Figures 2 and 3, respectively. The ML mitochondrial tree supports cow + horse at 98%, whereas the ML tree for the nuclear genes supports cow + hedgehog at 93% and supports these two with horse at 98%; nuclear support for cow + horse was only 7%. Afrotheria and Paenungulata, the two clades that were strongly supported in all of the combined analyses, both receive stronger support from the nuclear data set.
+ FIGURE 3.
+model) based on the 3,971-bp nuclear data set, but with bootstrap resampling set at 3,349 sites.
+ML bootstrap tree (200 replicates; HKY85
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+70 SYSTEMATIC BIOLOGY VOL. 48
+ TABLE 3. Results of Kishino–Hasegawa (KH), Templeton, and winning-sites (WS) tests for parsimony, based on 7,320-bp data set.
+  Cladea
+Altungulata Anagalida Afrotheria Ferungulata Glires
+Hyrax + horse Paenungulata Tethytheria Ungulata
+With clade
+7951 7917 7810 7810 7830 8021 7810 7817 7914
+Shortest tree
+Without clade
+7810 7810 7877 7822 7810 7810 7850 7810 7810
+KH 0.0001*
+0.0003* 0.0014 * 0.4455 0.4431 0.0001* 0.0117 * 0.5280 0.0001*
+P
+Templeton
+WS 0.0001*
+0.0001* 0.0017 * 0.4677 0.2735 0.0001* 0.0140 * 0.5885 0.0001*
+ <
+< <
+<
+< <
+0.0001 * 0.0011 * 0.0057 * 0.5118 0.5064 0.0001 * 0.2089 * 0.5839 0.0001 *
+< <
+< <
+ Asterisks indicate signi􏰭cance at P = 0.05.
+a Composition of prior hypotheses (clades) is as follows: Altungulata = Perissodactyla + Paenungulata; Anagalida = Glires + Macroscelidea; Afrotheria = Macroscelida + Paenungulata + Tubulidentata; Ferungulata = Artiodactyla + Perissodactyla; Glires = Lagomorpha + Rodentia; Paenungulata = Hyracoidea + Proboscidea + Sirenia; Tethytheria = Proboscidea + Sirenia; Ungulata = Artiodactyla + Paenungulata + Perissodactyla + Tubulidentata.
+Diminished bootstrap support with the mitochondrial data set is most evident in the case of Afrotheria with either parsimony or ME (Table 5).
+By excluding HBCPs from both the mitochondrial and nuclear data sets, the resulting data sets were 2,968 bp (mitochondrial) and 2,759 bp (nuclear). ML bootstrap trees based on resampling at the 2,759-bp level (trees not shown) were topologically more similar than were mitochondrial and nuclear trees that included HBCPs. On the nuclear tree, Afrotheria, cow + horse, and Paenungulata were supported at the
+100%, 76%, and 96% bootstrap levels, respectively. On the mitochondrial tree, these same clades were supported at the 94%, 96%, and 100% bootstrap levels, respectively. Thus, after eliminating HBCPs, the average performance of mitochondrial data was slightly better than for nuclear data in recovering these clades. Notably, with removal of HBCPs, nuclear sequences support cow + horse instead of cow + hedgehog. In the case of the mitochondrial data, elimination of cytochrome b third positions increases support for Afrotheria and Paenungulata.
+TABLE 4.
+Cladea
+Altungulata Anagalida Afrotheria Ferungulata Glires
+Hyrax + horse Paenungulata Tethytheria Ungulata
+Results of Kishino–Hasegawa (KH) tests for maximum likelihood, based on 7,320–bp data set. –Ln likelihood
+  With clade
+45249.556 45100.967 44779.283 44779.283 44816.872 45407.362 44779.283 44787.133 45096.129
+Without clade KH
+ 44779.283 44779.283 45017.370 44808.396 44779.283 44779.283 44882.942 44779.283 44779.283
+< 0.0001* < 0.0001* < 0.0001*
+0.3792
+0.3129 < 0.0001* < 0.0001* 0.6107 < 0.0001*
+ Asterisks indicate signi􏰭cance at P = 0.05. a Prior hypotheses (clades) as in Table 3.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999 SPRINGER ET AL.—PERFORMANCE OF MITOCHONDRIAL AND NUCLEAR GENES 71
+ TABLE 5. Mitochondrial versus nuclear bootstrap support for Afrotheria and Paenungulata with different phylogenetic methods.
+ Phylogenetic methoda
+Combined mitochondrial genes Transversion parsimony Parsimony
+ME with ML distances
+ME with LogDet distances ML
+Combined nuclear genes Transversion parsimony Parsimony
+ME with ML distances ME with LogDet distances ML
+Afrotheria
+85 (90)b 38 (76) 38 (71) 37 (66) 77 (94)
+100 (99) 100(100) 100(100) 100(100) 100(100)
+Paenungulata
+55 (79) 81 (98) 99 (100) 99 (98) 96 (100)
+81 (73)
+99 (93) 100 (98) 100 (97) 100 (96)
+Cow + horse
+86 (88)
+88 (79) 100 (99) 100 (98)
+98 (96)
+7 (47)
+7 (58) 41 (88) 36 (89)
+7 (76)
+  a ME = minimum evolution; ML = maximum likelihood.
+b Values not in parentheses are based on data sets with all partitions included; both nuclear and mitochondrial data were resampled at the size of the smaller (3,349-bp) mitochondrial set. Values in parentheses are based on analyses without the heterogenous base composition partitions; resampling was at the size of the smaller (2,759-bp) nuclear data set.
+Bootstrap support for Afrotheria, cow + horse, and Paenungulata was assessed for both mitochondrial and nuclear genes as a function of the number of nucleotide positions that were resampled (Figs. 4, 5). At the 300-bp resampling level, ML (Fig. 4a), ME (Fig. 4b), and parsimony (not shown) provide at least 90% bootstrap support for Afrotheria with the nuclear genes (all partitions). Mitochondrial genes (all partitions), in turn, do not reach this level of support for Afrotheria with any of the methods, even when resampled at the 2800 nucleotide level (Fig. 4). Both mitochondrial and nuclear genes provide strong support (> 90%) for Paenungulata with most phylogenetic methods (Fig. 5). Deleting third positions of cytochrome b results in improved support for both Afrotheria and Paenungulata with the mitochondrial data set. ML support values reached 96% for Afrotheria (Fig. 4a) and 100% for Paenungulata (Fig. 5a).
+In the case of cow + horse (Fig. 6), mitochondrial data provide much stronger support for this clade than nuclear data. The performance of nuclear genes in recovering cow + horse is noticeably better with the exclusion of HBCPs. At the 2,400-bp resampling level, ML bootstrap support for cow + horse increased from 8% to 70%.
+To compare the relative level of support of each gene, we resampled at the size of
+aquaporin (337 bp), which was the shortest gene sequence (excluding tRNA valine) included in our study. There was considerable variation in the levels of support in favor of Afrotheria, cow + horse, and Paenungulata (Fig. 7). Among the nuclear genes, IRBP performed best in recovering Afrotheria and Paenungulata, followed in order by A2AB, vWF, and aquaporin. IRBP and A2AB were the best nuclear genes in supporting cow + horse. Of the mitochondrial genes, 12S rRNA performed best in recovering Afrotheria and Paenungulata. Cytochrome b provided the highest support for Ferungulata. Although nuclear genes were generally better for recovering Afrotheria and Paenungulata, 12S rRNA performed better than aquaporin in recovering both of these clades. Two nuclear genes (A2AB and IRBP), in turn, performed better than 12S rRNA in recovering cow + horse. The trend for 337bp resampling re􏰮ects earlier graphs, with nuclear sequences best for Afrotheria, mitochondrial sequences best for cow + horse, and comparable levels of mitochondrial and nuclear support for Paenungulata.
+DISCUSSION
+Our concatenated data set that includes eight genes and representatives of 11 placental orders provides strong support for
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+72 SYSTEMATIC BIOLOGY VOL. 48
+     FIGURE 4. Bootstrap support for Afrotheria as a function of the number of resampled nucleotides: (a) MLundertheHKY85model;(b)MEwithMLdistances.
+Afrotheria and Paenungulata. Disparate methods of phylogenetic analysis support these clades at the 100% bootstrap level. Further, constraining against these clades results in trees that are signi􏰭cantly worse as judged by several statistical tests. With the elimination of HBCPs, there is also strong bootstrap support (89–100%) for cow + horse, although Kishino–Hasegawa tests (ML and parsimony) could not reject the best trees without cow + horse. Aside from Afrotheria, Paenungulata, and to a lesser extent cow + horse, the concatenated data set does not provide signi􏰭cant support for other prior hypotheses. Altungulata, Anagalida, Hyracoidea + Perissodactyla, and Ungulata were convincingly rejected. These same clades were also rejected in a study based on IRBP sequences for representatives of all placental orders (Springer et al., 1997a). Molecular support for Afrotheria, and against Altungulata, Anagalida,
+FIGURE 5. Bootstrap support for Paenungulata as a function of the number of resampled nucleotides: (a) MLundertheHKY85model;(b)MEwithMLdistances.
+Ungulata, etc., necessitates a reassessment of morphological data relevant to these hypotheses.
+It is perhaps surprising that a concatenated data set that includes 7,320 bp provides only limited resolution among 11 placental orders. One factor that may diminish resolution in the combined mitochondrial– nuclear gene analyses is underlying heterogeneity between mitochondrial versus nuclear genes. Our analyses with the 5,727-bp data set that excluded HBCPs suggest that much of the data set heterogeneity traces to partitions with base composition heterogeneity. First, various measures of data set incongruence indicate less heterogeneity with the elimination of these partitions. Second, the mitochondrial data show improved support for Afrotheria with elimination of the third positions of cytochrome b. Third, the nuclear data set supports cow + horse, instead of cow + hedgehog, after deleting
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999 SPRINGER ET AL.—PERFORMANCE OF MITOCHONDRIAL AND NUCLEAR GENES 73
+     FIGURE 6. Bootstrap support for cow + horse as a function of the number of resampled nucleotides: (a) ML under the HKY85 model; (b) ME with ML distances.
+the third positions of A2AB, IRBP, and vWF. These 􏰭ndings suggest that caution should be exercised in deciding whether or not to include HBCPs. At a minimum, the effect of removing these positions should be investigated.
+Lake (1994) and Lockhart et al. (1994) have proposed a distance correction (LogDet or paralinear distances) that addresses base composition heterogeneity. In our analyses with the complete nuclear data set, ME with LogDet distances recovers the cow + hedgehog and cow + horse associations at 64% and 36%, respectively. These values are similar to ME with ML (KHY85 model) distances (cow + hedgehog = 59%; cow + horse = 41%). When just nuclear HBCPs are analyzed, LogDet gives 94% support for cow + hedgehog and just 2% support for cow + horse. In part, the inability of LogDet to recover cow + horse may result from failure to recognize and allow for a distinct base
+FIGURE 7.
+and data partitions: (a) Afrotheria, (b) Paenungulata, (c) cow + horse. All data sets were resampled at the size of aquaporin (337 bp).
+composition of the invariant sites (Waddell, 1995; Waddell and Steel, 1997).
+Nuclear genes outperform mitochondrial genes in recovering Afrotheria. In the best case scenario for the mitochondrial data (i.e., ML without third positions of cytochrome
+ ML bootstrap support for different genes
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+74 SYSTEMATIC BIOLOGY
+VOL. 48
+ b), it requires approximately eight times as much mitochondrial sequence as nuclear sequence to reach the 90% bootstrap support level. Of the three best-supported clades in our study, Ferungulata (represented by cow and horse) and Paenungulata are more recent than Afrotheria (Springer, 1997). The superior performance of nuclear versus mitochondrial genes in recovering Afrotheria may re􏰮ect the earlier origin of this clade (i.e., > 80 million years; Springer, 1997) coupled with the retention of greater phylogenetic signal among the nuclear genes at deeper levels in the eutherian tree. One contributing factor is that third positions of nuclear genes apparently remain more useful at deeper temporal levels than do third positions of mitochondrial genes. In the case of Afrotheria, third positions of the nuclear data set provide strong bootstrap support (> 95%) with a variety of phylogenetic methods. At the same time, third positions of nuclear genes may contribute misleading information if there are HBCPs. In our study, cow clusters with hedgehog unless these partitions are deleted. In contrast, mitochondrial data provide stronger support for cow + horse. Morphological data also favor cow + horse over cow + hedgehog (Gaudin et al., 1996).
+Finally, we recommend a pluralistic approach in future attempts to reconstruct higher-level relationships. It may be instructive to gather sequences for genes that have different functions (e.g., rRNA versus protein coding) and that derive from different genomes (i.e., mitochondrial versus nuclear). In cases where different partitions and different methods of phylogeny reconstruction give the same result, we can be most con􏰭dent in having resolved branches on the eutherian tree.
+ACKNOWLEDGMENTS
+This work was supported by the Alfred P. Sloan Foundation, the European Commission (ERB-FMRXCT98-0221), and the National Science Foundation. We thank Drs. Wilfried de Jong, David Penny, and Peter Waddell for helpful comments on earlier drafts of this manuscript.
+REFERENCES
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012

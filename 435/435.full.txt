@@ -1,0 +1,422 @@
+  Syst. Bid. 45(l):48-66, 1996
+PHYLOGENETIC COVARIANCE PROBABILITY: CONFIDENCE AND HISTORICAL ASSOCIATIONS
+MARK E. SIDDALL
+Virginia Institute of Marine Science, School of Marine Science, The College of William and Mary, Gloucester Point, Virginia 23062, USA; E-mail: mes@vitns.edu
+Abstract.—The correlation that exists among multiple cladograms is often taken as evidence of some underlying macroevolutionary phenomenon common to the histories of those clades and, thus, as an explanation of the patterns of association of the constituent taxa. Such studies have various forms, the most common of which are cladistic biogeography and host-parasite coevolution. The issue of confidence has periodically been a theoretical consideration of vicariance biogeographers but in practice has been largely ignored by others. Previous approaches to assessing confidence in historical associations are examined here in relation to the difference between simple-event and cumulative probabilities and in relation to the restrictiveness of joint hypothesis testing. The phylogenetic covariance probability (PCP) test, a novel approach to assessing confidence in hypotheses of historical association, employs the empirical protocol of Brooks parsimony analysis (BPA) in an iterative, computer-intensive randomization routine. The PCP value consists of the frequency with which a solution as efficient or more efficient than the observed hypothesis of correlated phylogeny is achieved with random associations (e.g., of parasites and hosts or of taxa and areas). Because only the associations, and not the contributing phylogenies, are subjected to randomization, the test is not prone to certain criticisms leveled at other cladistic randomization routines. The behavior of the PCP test is examined in relation to eight published studies of historical association. This test is appropriately sensitive to the degrees of freedom allowed by the number of contributing clades and the number of taxa in those clades, to the extent of noncorrelated associations in the observed hypothesis, and to the relative information content contributing to that hypothesis. [Biogeography; BPA; coevolution; confidence; historical associations; randomization.]
+Since Platnick and Nelson (1978) asserted that cladistic biogeography is "inherently statistical," empirically meaningful measures of the relative nonrandomness of a particular hypothesis of historical association have not been ignored, although their application has been infrequent. The approaches used by Rosen (1978), Platnick and Nelson (1978), and Nelson (1979) are identical in the manner in which probability is determined, although they differ in their perspective on the data. Their approaches are addressed here only briefly;
+Although biogeography and host-para-
+site association studies are relatively com-
+mon, rarely is there an attempt to quantify
+the strength of the support for historical
+association. Borrowing from correlation
+analysis, an r value provides an estimate
+of the goodness of fit of a function. Con-
+fidence in the relationship is expressed in
+terms of a P value, the probability that an
+equally efficient result could be achieved
+by chance. In questions of historical asso-
+ciation, the notion that congruence be-
+tween independently derived cladograms
+is fundamentally a probabilistic issue has
+been widely acknowledged (Metcalf, 1929:
+4; Rosen, 1978:160; Brooks, 1979:303, 1981: they have been soundly criticized else-
+229; Nelson, 1979:8; Nelson and Platnick, 1981:312; Mitter and Brooks, 1983:85), as is the notion that discovering the extent of historical association is fundamentally an exercise in determining the degree of correlation between the associates' phylogenetic histories (Kellogg, 1913:158; Brooks, 1979:300, 1981:235, 1988:249; Nelson and
+where (Pielou, 1981; Simberloff et al., 1981; Cracraft, 1988; Simberloff, 1987). Simberloff (1987) and Page (1988) both employed a Monte Carlo approach to determining levels of significance. The new method proposed here for finding estimates of confidence on historical associations employs the empirical protocol detailed by Brooks
+48
+Platnick, 1981:10; Mitter and Brooks, 1983: 96)
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 SIDDALL—CONFIDENCE LIMITS ON BPA 49
+ (1981,1990; see also Wiley, 1988) in a computationally intensive approach that randomizes associations rather than trees. Eight examples of its application to data sets extracted from published literature are examined to consider a variety of data sets and biogeographic problems.
+N-TREES
+Rosen's (1978) biogeographic method involved superimposing two cladograms (in his example, area cladograms for species of Heterandria and Xiphophorus) and retaining in a reduced area cladogram those elements that were consistent for both. His estimate of significance for the resulting hypothesis of historical congruence involved calculating the probability that two labeled trees (i.e., n-trees sensu Margush and McMorris, 1981) would have the same topology. Thus, for a five-area reduced area cladogram, there are 105 possible n-trees, and the probability that one five-taxon cladogram will replicate one particular congruent five-taxon portion of another is
+1/105 or P = 0.009. The only difference in this process introduced by Nelson (1979) was calculation of these probabilities in terms of replicated components of a particular term size in relation to the number of possible components of equivalent size for all replicated components of each size and accumulation of a final overall probability by multiplying all of the component partial probabilities. Apart from problems introduced by reduced area cladograms, widespread taxa, missing taxa, and redundant distributions, these methods were criticized for their assumption of a null distribution defined as all n-trees are equiprobable, the lack of knowledge regarding the probability that cladograms for which no associations exist would match, and the lack of consideration of the probability in relation to imperfectly resolved topologies (see Simberloff, 1987, for a more complete review). A serious criticism that can be leveled at the component-replication method (Nelson, 1979) is that the partial probability of one component is not independent either of other components or of their partial probabilities (Rohlf, 1982). This un-
+(b)
+ FIGURE 1. Hypothetical null distribution for observed tree length (So). (a) Simple-event probability of occurrence of length So ( • ) . (b) Cumulative probability of occurrence of length So or shorter ( • ) .
+realistic compounding error rate is equally problematic for Brown's (1994) method of calculating confidence in biogeography, in addition to the errors and information loss introduced by reliance on strict consensus.
+The probability of a completely imperfect match (i.e., the minimum possible degree of historical association) is only represented by a few of all possible trees and, thus, is also unlikely. There is a difference between the simple-event probability of an observation's occurrence in a null distribution and the cumulative probability of that particular observation's occurrence as well as all other possible occurrences toward one extreme in the null distribution. In Figure 1, the parameter of interest is tree length (as in the permutation tail probability test; Faith and Cranston, 1991). The simple-event probability of a tree of some observed length So occurring is 0.080 (Fig. la), apparently significant at a critical level of 10%. Hypothesis testing, however,
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  50 SYSTEMATIC BIOLOGY
+VOL. 45
+relates to cumulative probability distributions, not simple-event probability. In Figure lb, the cumulative probability of occurrence of a tree of length S ^ So is 0.165, which is not significant at the same critical level. An example of this difference involves the issue of adaptive radiation (see Farris, 1976; Slowinski and Guyer, 1989, 1993; Maddison and Slatkin, 1991; Felsenstein, 1992). With respect to the approaches taken by Rosen (1978), Platnick and Nelson (1978), Nelson (1979), and Brown (1994), although one can determine the simple-event probability of chance occurrence of a particular n-tree, there is no measured parameter against which one can determine a cumulative probability distribution. As such, these approaches do not lend themselves to hypothesis testing.
+MARKOVIAN MONTE CARLO
+Simberloff et al. (1981) and Simberloff (1987) suggested that a more appropriate null distribution for cladograms than the all n-trees equiprobable model is a Markovian model (Harding, 1971) that states that for any existing n-tree with n taxa, the next speciation event creating n + 1 taxa is equally likely to occur at any of the n terminal nodes. Thus, the probability of finding a particular labeled n-tree is dependent on its structure to the point that all trees are not equiprobable (see also Slowinski, 1990). The protocol described by Simberloff et al. (1981) entailed randomly generating cladograms under the Markovian model many times and finding the number of times in those replicates that the observed similarity exactly matched a particular biogeographic hypothesis. This approach suffers from the same restriction as do simple-event probabilities. In Figure 2a, there is one "item of error" between host and associate phylogenies. The actual associate tree in Figure 2a is one particular topology that could result from a Markovian growth process with a particular frequency. What is left out of Simberloff's (1987) approach is the notion that a better match (e.g., Fig. 2b) will occur in the randomized data sets with a finite probability.
+Page (1988) introduced a modification of
+(a)
+FIGURE 2. Simple-event probability for assessing revolutionary confidence values. The frequency that randomized trees will match a hypothesis as well as does the observed tree (a) is less than the frequency that randomized trees will match as well or better than does the observed tree (a plus b).
+the Markovian approach in relation to the problem of multiple equally parsimonious area cladograms under assumptions 1 and
+2 of component analysis (Nelson and Platnick, 1981). A median binary tree (see Penny et al., 1982, for algorithms) is calculated for each suite of area cladograms hypothesized by each taxonomic group, and a minimal tree similarity value is calculated. Next, taxon cladograms of equal size are randomly generated and analyzed according to the same principles as used for the real cladograms. This process is repeated many times (e.g., 100), and the cumulative probability (number of iterations) for which as good or better similarity was achieved with random data is determined. From this method, Page (1988) concluded that assumption 2 performed better (i.e., nonrandom) with respect to Rosen's (1978) Heterandria/Xiphophorus data set than did either assumption 0 or assumption 1.
+Although the computer-intensive approaches used by Simberloff et al. (1981), Simberloff (1987), and Page (1988) represent significant theoretical advancements in determining levels of confidence in questions of biogeographic congruence and historical associations, in terms of randomization, their methodologies focus on the structure of the trees themselves and not on the associations between them. Two items warrant consideration as a result: (1) the joint hypothesis testing that occurs with Monte Carlo-based approaches and (2) what substantive question is being asked of the data and what randomization
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 SIDDALL—CONFIDENCE LIMITS ON BPA 51
+routine is appropriate for asking it. Question 2 ought to be, "For two or more associated clades, are their historical cladogenetic events correlated?" Recognition of this approach as a correlation analysis should govern the choice of randomization method.
+Addressing first the problem of joint hypothesis testing, the characteristics of the Monte Carlo method of resampling are such that the structure of the null hypothesis is "the data are a random sample from a particular population." These joint hypotheses are used for testing questions concerning the particular model being used to generate the null distribution with which an observation is being compared. Thus, the underlying assumption in the methods proposed by Simberloff et al.
+(1981), Simberloff (1987), Page (1988), and others is that the Markovian model of tree growth is an appropriate one. Rejection of the null hypothesis might result from a real phylogenetic phenomenon (i.e., congruence) or from inappropriateness of the Markovian model. Both Simberloff (1987) and Page (1988) argued for the applicability of this null distribution on the grounds that empirical data compiled by Savage (1983) for 594 cladograms indicated that the topological distributions were not significantly different than would be expected by chance under the Markovian model as opposed to the all-trees-equiprobable model. The argument that the Markovian growth model is more realistic may be true on the whole for a collection of many trees, yet there is no reason to assume a priori that it need be true for a particular tree being assessed in a particular biogeographic comparison. For example, if one or more clades have undergone an episode of adaptive radiation, deviations from this stochastic model are predicted (Slowinski and Guyer, 1989; Slowinski, 1990).
+Another approach to assessing confidence in these questions of historical association is possible when one recognizes that this question is fundamentally one of correlation. Tests of significance provide information about one of two distinct random influences. One influence is con-
+cerned with a characteristic of the population from which a random sample is drawn. Conventional parametric tests such as f-tests are of this type, as are Monte Carlo and bootstrap methods. The other random influence concerns the relationship among variables. Significance tests used in correlation analyses (i.e., P[r = 0]) are of this type, as is the approximate randomization method of reassociation or permutation (Noreen, 1989:1-5). The shape of the host and associate trees is only one aspect of the evidentiary data in a test of coevolution. The other aspect is the number and complexity of the associations between the terminals in the associated trees, i.e., how the variables are related. Investigations of historical association, whether biogeographic or host-parasite cospeciation, are
+fundamentally questions of correlation. Were the cladogenetic events apparent in the associates' history correlated with those that occurred in the hosts'? The appropriate null distribution of a test statistic in the calculation of a level of significance in conventional correlation analysis is the distribution obtained when the values of the two (or more) parameters are associated randomly. In host-parasite associations, if the substantive theory is that the observed distributions of parasites and hosts (or taxa and areas) are explained by correlated cladogenesis (cospeciation, association by descent, or some other nonrandom influence), then the null distribution against which the observed data must be compared is that predicted by a random association of parasites with hosts (or taxa with areas). The advantages of approximate randomization procedures are that they can be used to test the significance of any correlation test statistic, the data can be drawn from any population, and, perhaps more importantly for data of a phylogenetic nature, the observations need not be a random sample.
+The applicability of approximate randomization tests to revolutionary questions can be readily visualized in comparison with the analogous mathematical correlation test of significance. Figure 3a shows a linear correlation for two points.
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  52
+SYSTEMATIC BIOLOGY VOL. 45
+  (a)
+(a) (b)
+height weight height weight
+(b)
+X2
+XI
+^/
+Yl Y2
+10 20 30 40 50
+10 20 30 40 50
+FIGURE 3.
+lation of two points representing two pairs for associated variables. Although there is a perfect fit in both, this high efficiency is trivial because any conceivable association of the observations is equally good (i.e., P = 1.00).
+These two points represent two associations between two pairs of observations of two variables, i.e., XI is associated with Yl, and X2 is associated with Y2. The efficiency of the line connecting the two points is perfect (i.e., r = 1.00). The comparable correlated phylogeny example is given in Figure 3b. There are two associations between two pairs of observations (taxa) of two variables (trees) and the degree of coevolution is perfect. In both of these examples, the correlations are trivially perfect. Two points in a linear correlation are guaranteed to yield a perfect fit but a perfect lack of confidence (i.e., P = 1.00) because any confidence value is dependent on degrees of freedom that are two less than the number of associations. Similarly, were the associations between the host and associate any different, an equally perfect coevolutionary scenario would result. Tests of significance in coevolution are also dependent on degrees of freedom that are two less than the number of associations. The relevance of this minimal value of 2 becomes apparent in more complex questions.
+Linear (a) and coevolutionary (b) corre-
+(C)
+weight
+FIGURE 4.
+values for height and weight, (a) Tabular form, (b) Association form, (c) Graphical form. The appropriate procedure for determining a confidence value in the best linear fit is accomplished by randomly changing the associations (b) and recalculating a best linear fit to discover the frequency with which a fit as good or better can be achieved.
+An approximate randomization test looking at the correlation between, for example, height and weight (Fig. 4) proceeds through the following steps: a correlation coefficient (ro) is calculated for the "observed" associations of height and weight; then the heights and weights are randomly reassociated and a new correlation coefficient (rr) is calculated; the frequency with which rr matches or exceeds ro is the tail distribution or P value. The values of the associated variables are not randomly generated (as they would be in a Monte Carlo approach) because random values would have no bearing on the relationship between the observed values. Rather, the likelihood of achieving a particular association in a randomized data set, and thus the overall null distribution, is governed by the number and structure of associations in the original sample. For example, in Figure 4, in any randomized data set the
+Representation of a series of correlated
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 SIDDALL—CONFIDENCE LIMITS ON BPA 53
+ probability that a height of 2 will be associated with any particular weight is 0.20, whereas the probability that a height of 3 will be associated with any particular weight is 0.40 because there are two associations involving height = 3 in the original sample. The correlation that exists between historical associates is treated similarly. Consider two cladograms of associated taxa in which there are six taxa each and six associations (Fig. 5). Maximal congruence, or maximal correlation among the phylogenies, is shown in Figure 5a; all 10 lineages (black internodes) and five cladogenetic events (black nodes) in one tree are correlated with those in the other tree, i.e., there is a perfect fit and all six associations (black lines between trees) are evidentiary of coevolution. In Figure 5b, the associations have been arranged in such a way as to give maximally uncorrelated phylogeny, yet it is impossible to have a complete absence of implied coevolution. Two lineages (black internodes) and one correlated event (black nodes) are correlated by virtue of two associations (black lines between trees). Figure 5c is exactly the same as Figure 5b with respect to the shape of the trees and the associations between them, but the implied coevolutionary event (black nodes) is different because a different pair of associations has been arbitrarily selected. Thus, not only must there always be at least two associations (i.e., two pairs of taxa) that suggest at least one correlated evolutionary event, but as the amount of correlated phylogeny diminishes, it becomes more and more arbitrary which nodes in the associated trees are
+correlated. This lack of stability rests solely on the apparent associations, irrespective of the shape of the trees. It is not possible, therefore, to state that one has confidence in a particular portion of the associated topologies as indicative of coevolution and not in some other portion. Rather, the question and any resulting statement must be expressed in terms of the entirety of the hypothesis. Given a group of associated taxa, their phylogenetic histories, and the observed associations, is there evidence to suggest that there has been correlated phy-
+FIGURE 5. Juxtaposition of associated topologies and how the taxa are associated. Correlated cladogenetic events are represented by black circles at nodes, correlated lineages by black internodes, and associations evidentiary of coevolution by black lines between the two trees, (a) Perfect match between the two phylogenies. (b) Perfect mismatch between the two phylogenies, but at least one event is correlated, (c) Associations and trees are the same as in b, but a different pair of associations is arbitrarily chosen as evidence of coevolution.
+logeny of the taxa? If so, how much evidence?
+PHYLOGENETIC COVARIANCE PROBABILITY
+The empirical protocol outlined by Brooks (1981) has undergone some modification (Brooks, 1990) to accommodate
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  54 SYSTEMATIC BIOLOGY VOL. 45
+problems associated with deviations from a strict 1:1 host-parasite relationship, including widespread taxa {ml), redundant distributions (l:n), and missing taxa (1:0) (the 0:1 relationship is impossible because parasites must have hosts and taxa must reside in areas). What constitutes a best estimate in Brooks parsimony analysis (BPA) is either the most-parsimonious optimization of parasite characters on an established host phylogeny or the most-parsimonious resolution of a host phylogeny using data derived from multiple parasite clades. Brooks (1988:243) argued that "standard goodness of fit measures, like the consistency index, F-ratio or D-measure, may be used to give a quantitative estimate of the relative proportion of association by descent and association by colonization for any host-parasite assemblage." Whatever the measure or the corrections made for biases introduced by the size of the data set (Archie, 1989; Klassen et al., 1991; Meier et al, 1991), all measures of goodness of fit are dependent on the observed number of steps required by the hypothesis. In BPA, as the number of steps increases (i.e., character distribution becomes less parsimonious) there is less implied coevolution as a result of the extra steps imposed by dispersal or local extinction. Thus, in estimating the relative randomness of a hypothesis, one need only calculate the number of steps as a test statistic. In the phylogenetic correlation probability (PCP) test, the null hypothesis is "the tree length for the observed associations is not significantly shorter than is expected by random association."
+For an approximate randomization test to be valid, the observed associations must be randomly reassociated in the context of the legitimate sample space reflected in the original data. That is, if redundant distributions, widespread taxa, and missing taxa are allowable outcomes in the real data (which we know them to be), then they must be possible in the randomized data sets, whether or not they were realized in the original data. The population consists of all possible permutations of that number of associations, of which the ob-
+served associations represent one possible outcome.
+A stepwise protocol is as follows.
+1. Following the methods of BPA (Brooks, 1990), using additive binary codes for parasite relationships and inclusive oring, construct the most-parsimonious solution for cospeciation.
+2. Calculate the number of steps for the observed correlation (So).
+3. Randomly reassociate parasites with hosts and repeat steps 1 and 2 to find the number of steps for a randomized data set (Sr).
+4. If Sr =s So, add 1 to a running tally, 7.
+5. Repeat steps 3 and 4 R times.
+6. Calculate PCP = (7 + 1)/(R + 1); 1 is
+added to both 7 and R (the number of iterations) because the observed hypothesis represents one of the possible outcomes.
+In practice, these calculations are facili-
+tated by software (DANRAN.EXE) that I have coded and compiled for an MS-DOS operating system environment (DANRAN.EXE is a subroutine of Random Cladistics 3.0, available at no cost from the author or via Internet file transfer protocol to zoo.toronto.edu and stored as a self-extracting compressed utility in pub/random.exe). Step 3 is accomplished by accepting an input file of a specified structure (see Appendix) containing two matrices, one representing the additive binary codes for parasites (or biogeographic associates) and the other representing the association of parasites and hosts (or taxa and areas). Elements of each column representing a parasite in the second matrix are randomly reallocated to taxa according to appropriate approximate randomization for any test of correlation. That is, if an associate is distributed across n hosts (or areas) in the original data, it will also be distributed across n hosts (or areas) in the randomized data sets, i.e., the number of associations is not altered. For each randomized set of associations, inclusive oring is applied to redundant distributions, and an additive binary code is applied to each of the hosts (or areas). Output is di-
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 SIDDALL—CONFIDENCE LIMITS ON BPA
+55
+rected to a file that contains all of the randomized data sets in a series, separated by a set of Hennig86 commands. If the associations are being compared with a defined host cladogram (type II BPA), these commands consist of a "tread" statement followed by a user-defined tree in parenthetical notation. If a host (or area) cladogram is unknown and the correlation under consideration involves one or more parasite clades (type I BPA), the commands consist of a user-defined tree calculating algorithm (e.g., "mhennig;bb;", "ie;", etc). In either case, these commands are automatically followed by "tchoose; xsteps;" to return one tree length value for each randomized data set in the series. The entire file of R randomized data sets plus the original "observed" BPA matrix is automatically run in batch mode through Hennig86 (which is not provided with Random Cladistics) as a daughter process. A logfile is automatically analyzed for the frequency distribution of tree lengths achieved by each randomized data set and the original "true" data set, and the PCP value is calculated.
+Below are examples of the application of the PCP test to questions of historical association. In the first, Hafner and Nadler's (1988, 1990) analysis of chewing lice and pocket gopher associations, the protocol and data matrices are detailed. The next four examples are representative of the differences in the various applications of BPA where an independent host (or area) cladogram may or may not be available (types II and I BPA, respectively), where more than one associate clade may or may not be available, where host-parasite or areaassociate relationships may be under consideration, and where associates may be missing from hosts (or areas).
+Pocket Gophers and Their Lice
+Interest in the coevolution of lice and their hosts originated with Kellogg's (1896a, 1896b) consideration of mallophagan ectoparasites on birds, wherein he considered extant distributions to be indicative of a "common history of genealogy" (Kellogg, 1913), although he concluded
+T.talpoides ••.•;• T.bottae ••••••••••.;• ;
+T. wardi
+(a)
+T.minor thomomyus G. actuosi 6. ewingi G. chapini G. panamensis 6. setzeri G.cherriei G. costaricensis
+G.bursarius
+0. hispidus O.cavator
+0. underwoodi O.cbemei •••"••••'•'• 0. hetarodus
+•.•.-.••••
+••.,
+'••
+S .
+ (b)
+.1
+(a) Host and parasite cladograms with
+FIGURE 6.
+the respective host-parasite associations indicated ( ) for pocket gophers (left) and lice (right) (redrawn from Hafner and Nadler, 1990). (b) Frequency histogram ( • = tail distribution) of steps for randomized associations and optimization onto host phylogeny (PCP = 0.080).
+that parasite divergence proceeded at a slower pace than host divergence (Kellogg, 1896a). Hafner and Nadler (1988,1990) examined the relationships of pocket gophers (Geomidae) and the chewing lice (Trichodectidae) found associated with them. The high level of congruence observed for host and parasite phylogenies was considered by these authors a prerequisite for their subsequent determination of whether or not cladogenesis for lice and gophers was contemporaneous or proceeded at disparate rates, an issue they investigated using genetic distance measures derived from electrophoretic data. Although the significance of support for correlated evolution was considered an important foundation for the exploration of the timing of cospeciation, Hafner and Nadler (1988,1990) relied on Nelson and Platnick's (1981) component-replication method.
+Hafner and Nadler's parasite phylogeny (Fig. 6a, right side) was converted into additive binary codes (Table 1) representative of the terminal branches and internodes
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+   56
+SYSTEMATIC BIOLOGY VOL. 45
+TABLE 1. Parasite
+Additive binary codes representing the chewing louse phylogeny in Figure 6. Codes
+Thomomydoecuszvardi 0000000001000100001 T.minor 0000000010000100001 Geomydoecusthomomyus 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 1 G.actuosi 0000001000001010011 G.ewingi 0000010000001010011 G.chapini 0000100000000000111 G.panamensis 0001000000010001111 G.setzeri 0010000000010001111 G.cherriei 0100000000100001111 G.costaricensis 1000000000100001111
+relevant to each parasite. The host-parasite associations were then converted into an association matrix (Table 2). The combined information of the matrices in Tables 1 and 2 allow creation of the BPA matrix (Table 3), in which additive binary codes (rows) for parasites (Table 1) are applied to their respective hosts (Table 2) and in which redundant distributions of more than one parasite on a host are accommodated by inclusive or-ing the combined codes for the parasites. Although the matrix in Table 3 is the classic BPA matrix outlined by Brooks (1981, 1990), to be meaningfully analyzed by numerical cladistic software such as Hennig86, the states in each column require polarization by the addition of a root taxon of all 0's (Table 4). The rationale for this requirement is that if a parasite (or ancestor) is plesiomorphically absent (0) from a host, no steps will be added to the hypothesis, yet if a parasite is apomorphically absent, a step will be added with the caveat that an apomorphic com-
+plete absence of parasites will not unrealistically cost multiple steps (see Brooks's [1990] use of missing data). The matrix in Table 4 was examined in relation to the independently derived phylogeny for the pocket gophers (Fig. 6a, left side) by optimizing the characters on the host topology (i.e., using "tread (0((l 2)((3(4 5))(6(7 8)))));" in Hennig86), providing a mostparsimonious length of 26 steps. This approach is typical of type II BPA, in which the phylogenetic data for the hosts are independent of data available for the parasites, i.e., host and parasite phylogenies are both "known." Of the 1,000 randomized association matrices (random shuffling of data in columns of Table 2), 47 of the resulting BPA matrices yielded the same number of steps and 32 were shorter (Fig. 6b), resulting in a PCP value of 0.080. Thus, Hafner and Nadler's premise for secondary determination of correlated timing appears to have had a reasonable basis.
+Host
+TABLE 2. Association matrix of pocket gopher hosts and chewing louse parasites.
+Parasites
+1 2 3 4 5 6 7 8 9 10
+Thomomystalpoides 1010000000 T.bottae 0101000000 Geomysbursarius 0000100000 Orthogeomyshispidus 0000010000 O.cavator 0000001000 O.underwoodi 0000000100 O.cherriei 0000000110 O.heterodus 0000000001
+' 1 = Thomomydoecus wardi; 2 = T. minor; 3 = Geomydoecus thomomyus; 4 = G. actuosi; 5 = G. ewingi; 6 = G. chapini; 7 = G. panamensis; 8 = G. setzeri; 9 = G. cherriei; 10 = G. costaricensis.
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 TABLE 3.
+Hosts
+SIDDALL—CONFIDENCE LIMITS ON BPA bV BPA matrix for cospeciation analysis of pocket gophers and chewing lice (as listed in Table 1)
+BPA codes
+Thomomystalpoides 000000010 0001 0011 T.bottae 0000001010001110011 Geotnysbursarius 00000100000010100 1 Orthogeomyshispidus 0000100000000000111 O.cauator 0001000000010001111 O.underwoodi 00100000000100011 1 O.cherriei 011000000011000 1 1 O.heterodus 1000000000100001111
+Primates and Pinworms
+Brooks and Glen (1982) noted that the phylogeny of parasitic nematodes in the genus Enterobius (i.e., pinworms) mirrored that of their primate hosts. Although they interpreted this association as support for coevolution, Simberloff (1987:191) criticized their work in that "they do not explicitly discuss just how improbable a match as close as the observed one would be if parasites colonized hosts independently rather than co-speciated with them." Addressing the relative probability that the host and parasite cladograms would match by chance, Simberloff (1987) applied the Markovian randomly generated trees approach and concluded that the probability of two ftve-taxon cladograms matching was 0.244, thus providing relatively little support for the hypothesis of coevolution. Glen and Brooks (1986) added to the complexity of this particular hostparasite system by factoring the phylogenetic relationships of hookworms (Oesaphagostum species) and their associations with primates into the equation. In this assessment of coevolution, congruence among
+independent parasite phylogenies is taken as support for cospeciation with their hosts. Cladograms for the phylogenetic relationships of the two nematode clades are numbered for cospeciation analysis in Figures 7a (hookworms) and 7b (pinworms). BPA yielded two equally parsimonious solutions for host phylogeny (Figs. 7c and 7d), each with 18 steps. The goodness of fit is indicated by a consistency index (CI) of 0.89. Matrices representing the parasites' relationships and their associations were input to DANRAN.EXE, and instead of including a topology for optimization, the "ie;" command was entered to assure that Hennig86 would find the most-parsimonious hypothesis of relationships of host taxa based on parasite characters. This approach is typical of type I BPA, in which there are no available host phylogenetic data and in which host phylogeny is being estimated on the basis of parasite phylogeny and association. The result from 1,000 random associations (Fig. 7e) was a PCP value of 0.333, indicating lack of support for a hypothesis of cospeciation.
+TABLE 4. Data file for Hennig86 analysis of BPA matrix (Table 3) for pocket gophers and chewing lice.
+xread
+19 9
+ROOT 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Ttal 0000000101000110011
+Tbot 0 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0 0 Gbur00000100000010100 Ohis 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 Ocav 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 Ound00100000000100011 Oche 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 1 1 Ohet 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1
+1 1 1 1 1 1 1 1 1 1
+1 1;
+  rH
+rH
+rH 1-H I-H
+1-H
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+t-H rH
+ 
+  58 SYSTEMATIC BIOLOGY 12345612131415 Xiphophorus
+VOL. 45
+VI I IX V X VIIVIII III 18 19202122232426
+(b)
+I VI IX X IV V VII
+(c)
+(b)
+(d)
+FIGURE 7.
+worm (b) parasites of primates (redrawn from Brooks and McLennan, 1991) and the two equally parsimonious solutions (c, d) for the host phylogeny based on parasite relationships. The phylogenies of these two parasite groups were found to not be significantly correlated (PCP = 0.333), as indicated in the tail distribution (•) (e).
+Rosen's Fishes
+(a)
+(c)
+  Cladograms for hookworm (a) and pin-
+FIGURE 8. (a) Phylogeny of Xiphophorus species (arabic numerals) with their associated areas superimposed (roman numerals), (b) Phylogeny of Heterandria species (arabic numerals) with their associated areas superimposed (roman numerals), (c) Strict consensus
+of 10 equally parsimonious solutions for the area relationships for Xiphophorus and Heterandria resulting from BPA. (d) Frequency histogram of steps found for random associations of taxa and areas in which the probability (PCP; • ) of random association in the observed hypothesis was 0.331.
+posed to random association). In Figures 8a and 8b, the cladograms for Xiphophorus and Heterandria, respectively, are numbered for cospeciation analysis, and the areas in which taxa occur are superimposed in roman numerals above each terminal. BPA resulted in 40 steps for 10 equally parsimonious trees. A strict consensus is given in Figure 4d. The PCP test applied in the same manner as for the primate/pin-
+The historical biogeography of poeciliid
+fishes of Middle America was the subject
+of the first attempt to quantify the proba-
+bilistic nature of a hypothesis of congruent
+cladograms (Rosen, 1978). With respect to
+a five-part taxon-area relationship in the
+reduced area cladogram, Rosen concluded
+(in relation to the "probability" that a par-
+ticular five-member cladogram would re-
+sult twice) that the coincidence of Heterworm data set (i.e., type I BPA) yielded a andria and Xiphophorus was expected to value of 0.331 for 1,000 random associa-
+occur randomly with a frequency of P = 0.01. Page (1988) reviewed this data set to compare the relative performance of component analysis applied to biogeography (i.e., assumptions 1 and 2). His results indicated that only assumption 2 yielded results that were significantly different from random evolution of the two clades (as op-
+tions with areas (Fig. 8d), far from an indication that the observed hypothesis differs significantly from what would be obtained by random association of poeciliid fishes to areas and rather different from the level of confidence previously suggested for this example (Rosen, 1978; Page, 1988).
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 SIDDALL—CONFIDENCE LIMITS ON BPA 59
+s&*///////
+(d)
+FIGURE 9.
+b, c) for area relationships of major South American river systems based on the phylogenetic relationships of helminth clades parasitizing freshwater stingrays in those areas (PCP = 0.503). (d) Composite historical hypothesis (redrawn from Brooks and McLennan, 1991); PCP = 0.016.
+Parasites of South American Freshwater Stingrays
+In an investigation of the historical biogeography of the major river systems of South America, Brooks et al. (1981) examined these area relationships in the context of the helminth fauna of endemic freshwater stingrays. Their results included a single area cladogram (Fig. 9a) with a CI of 0.80, from which they concluded that the faunal distribution was strongly suggestive of area relationships dominated by vicariant patterns consistent with the Cretaceous to mid-Miocene Andean orogeny. The data matrix used represents a departure from the standard application of type I BPA in that although the first 23 characters are representative of two clades of helminths and their phylogenetic histories, the last 10 characters represent an additional 10 parasites for which there was no phylogenetic information. These 10 characters were coded as presence/absence of parasites and might not, then, add strength to any hypothesis of covarying phylogeny. The effect of these 10 parasites on the hypothesis is seen in differences observed when they are included in or delet-
+ed from the BPA data matrix (see Appendix). Removal of these parasites from the analysis had no effect on the resulting biogeographic hypothesis. Both analyses (with or without these 10 parasites) produced three equally parsimonious area cladograms (Fig. 9), reflecting the three possible resolutions of the Orinoco/Maracaibo/Magdelena clade. Inclusion of these 10 parasites raised the CI from 0.79 to 0.80 but had the opposite effect on the PCP value, which was 0.503 for the two parasite clades alone and 0.683 when the additional 10 were included. Neither evaluation suggests a nonrandom association of parasites and areas.
+The macroevolutionary history of species assemblages in areas is not always so straightforward. Such assemblages can result from composite histories of clades in the same areas. Brooks (1990) addressed this issue by replicating areas a posteriori and subdividing associations to reflect this. The PCP test can be applied just as easily to these a posteriori interpretations of the data to determine if they are more or less compelling than the original unmodified hypothesis. When the secondary hypothesis of composite area relationships of South American river systems (Fig. 9d) was analyzed (see Appendix, "stingray paras—composite areas"), the results were highly significant (PCP = 0.016).
+Liolopids and Vertebrates
+Brooks and McLennan (1991) suggested that the digenean family Liolopidae was typical of what would be expected of numerical relicts (sensu Brooks and Bandoni, 1988). Contributing to this perception was the lack of diversity in liolopids, as compared with that of their sister group (the strigeoids), their overall congruence with their vertebrate hosts' phylogenies, and their obvious lack of associations with a variety of vertebrate clades. This last element has bearing on how the missing taxon problem is addressed by BPA. In its first form (Brooks, 1981), BPA treated situations in which members of an associate clade were completely missing from a host (or area) as all 0's (Table 5). Because the
+Three equally parsimonious solutions (a,
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  60
+SYSTEMATICBIOLOGY VOL. 45
+Hosts
+Brooks, 1981
+Brooks, 1990
+1000000001
+0100000011 0010000011
+0001000111
+0000101111 0000011111
+New method
+0
+0 1000000001 0 0100000011 0010000011 0 0001000111 0 0000101111 0000011111
+Crocodilia Rhynchocephalia Ophidia
+Sauria
+0001000111 0000000000 0000101111 0000011111
+TABLE 5.
+Alternative methods of coding liolopid data for missing associates in BPA.
+Sarcopterygii
+Anura
+Caudata
+Gymnophiona
+Mammalia
+Chelonia
+Aves 0000000000
+additive binary codes contributed unrealistic additional tree length (i.e., a single exclusionary event could cost multiple steps [see Cracraft, 1988]), Brooks (1990) later modified the protocol to represent this situation as all missing data (Table 5). Considering how BPA is employed in the PCP test, this approach would tend to under-
+estimate the number of steps. I propose a slight modification in which the ancestral node shared by all members of an associate clade is coded as 0 if there is no member of that particular clade in that particular host (Table 5). The rationale for this modification (Fig. 10) is that if the absence of members of that clade from that host is explained by the fact that the host clade was colonized subsequent to the divergence of that particular host (i.e., plesiomorphic absence) then no steps will be added (Fig. 10a), whereas only one step will be added (Fig. 10b) if, and only if, the absence of parasites is most parsimoniously explained as an exclusionary event (i.e., apomorphic absence). (DANRAN.EXE prompts the user to override this default option and calculate PCP according to Brooks's [1990] treatment of the missing taxon problem.) Reexamination of the associations between liolopids and vertebrates in which the parasite phylogenetic data were optimized onto the vertebrate phylogeny (i.e., type II BPA) yielded a PCP value of 0.057, indicating significantly nonrandom associations between hosts and parasites.
+DISCUSSION
+When the preceding five examples are considered in combination with the additional three summarized in Table 6 and detailed in the Appendix, a number of properties of the PCP test are apparent.
+1. As the amount of information contributing to the original observed hypoth-
+0000000000 0000000000 1000000001 0000000000 0100000011 0010000011
+Implications of a single plesiomorphic
+FIGURE 10.
+code for wholly missing associates (arrows), as indicated in Table 5. (a) If the associate is plesiomorphically absent, i.e., associations began subsequent to the divergence of the host, no steps will be added, (b) If the associate is apomorphically absent, i.e., by virtue of a sorting event, an extra step will result.
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 SIDDALL—CONFIDENCE LIMITS ON BPA 61
+TABLE 6. Summary of eight examples of cospeciation (BPA) analysis and their respective PCP values. BPA
+Reference
+Bandoni and Brooks, 1987a Brooks and McLennan, 1991 Brooks et al, 1981
+Glen and Brooks, 1986 Hafner and Nadler, 1988 Hoberg, 1986
+Klassen and Beverly-Burton, 1987 Rosen, 1978
+Hosts/areas
+fish/turtles vertebrates
+South America primates
+pocket gophers alcid seabirds ictalurid catfishes Central America
+Associates type
+amphilinids II liolopids II
+PCP
+0.261 0.057 0.016 0.333 0.080 0.034 0.722 0.331
+esis increases, the likelihood of rejecting the null hypothesis of random association seems to increase. For example, in the case of type II BPA in which there is more phylogenetic information (i.e., that of host phylogeny), three of five applications resulted in significant PCP values, whereas when host phylogenetic information is not independently available (type I BPA), only one application yielded a significant PCP value.
+2. As the amount of implied random dispersal (or host switching) enters into the observed hypothesis, the tendency is, as expected, toward nonsignificant PCP values. For example, Klassen and Beverly-Burton (1987) suggested that there was not evidence of cospeciation between catfish and their monogenean parasites; the PCP value for this association was not significant. Host switching in and of itself is not necessarily going to lead to poor fits in BPA, as has been emphasized with respect to associations of Alcataenia species with their avian hosts (Hoberg, 1986; Brooks and McLennan, 1991). In this particular case, the associations are explained in terms of sequential and nonrandom host switching.
+3. The significant PCP value demonstrates that this test is sensitive to any nonrandom influence on the relative correlation of host and parasite (or area and associate) phylogenies.
+4. The PCP test is sensitive ultimately to what is possible given the structure of the question. For example, although the associations of gyrocotylids and ratfish
+as presented by Bandoni and
+helminths nematodes mallophagans Alcataenia spp. Ligidaluridis spp. poeciliids
+I I II II II I
+Brooks (1987b) had a perfect fit (i.e., CI = 1.00), so would any other possible pattern of association (i.e., PCP = 1.000). Where one is invoking type I BPA (estimating host phylogeny from parasites) and there is only one associated clade in the analysis, the question is trivial and has
+no degrees of freedom.
+The nature of the PCP test, being an approximate randomization procedure as opposed to a Monte Carlo method, is that it precludes extending interpretation beyond the observable data. If the null hypothesis that the observed historical associations are not correlated is rejected, there is no expressed implication (although it may be likely) that a more inclusive hypothesis with more putative correlates (e.g., hosts and parasites) will also yield a significant PCP value.
+ACKNOWLEDGMENTS
+In the time this paper was in review, Joe Slowinski communicated to me that he had started developing a similar approach using randomized associations and BPA. My understanding is that Slowinski's method is confined to a 1:1 host: associate pattern in comparing pairs of trees and may be superior for those particular situations. I thank Dan Brooks, Sherwin Desser, Diana Lipscomb, Bob Murphy, and Kevin Doyle for their critical evaluations of the earliest drafts of this manuscript. The pointed comments of Rod Page and an anonymous reviewer contributed significantly to the final version. Brad Anholt and Nick Collins provided much of the encouragement to pursue a computer-intensive approach. Henry Spencer and Liz Seus enabled me to circumvent periodic difficulties encountered in software programing. The Department of Zoology at the University of Toronto has generously allowed the Random Cladistics package to remain on the zoo.toronto.edu ftp site indefinitely.
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ 1996 SIDDALL—CONFIDENCE LIMITS ON BPA 63
+ROHLF, F. J. 1982. Consensus indices for comparing classifications. Math. Biosci. 59:131-144.
+ROSEN, D. E. 1978. Vicariant patterns and historical explanation in biogeography. Syst. Zool. 27:159188.
+SAVAGE, H. M. 1983. The shape of evolution: Systematic tree topology. Biol. J. Linn. Soc. 20:225-244.
+SIMBERLOFF, D. 1987. Calculating probabilities that cladograms match: A method of biogeographical inference. Syst. Zool. 36:175-195.
+SIMBERLOFF, D., K. L. HECK, E. D. MCCOY, AND E. F. CONNOR. 1981. There have been no statistical tests of cladistic biogeographical hypotheses. Pages 4063 in Vicariance biogeography: A critique. (G. Nelson and D. E. Rosen, eds.). Columbia Univ. Press, New York.
+SLOWINSKI, J. B. 1990. Probabilities of n-trees under two models: A demonstration that asymmetrical interior nodes are not improbable. Syst. Zool. 39:8994.
+SLOWINSKI, J. B., AND C. GUYER. 1989. Testing null models in questions of evolutionary success. Syst. Zool. 38:189-191.
+SLOWINSKI, J. B., AND C. GUYER. 1993. Testing whether certain traits have caused amplified diversification: An improved method based on a model of random speciation and extinction. Am. Nat. 142:10191024.
+WILEY, E. Q 1988. Parsimony analysis and vicariance biogeography. Syst. Zool. 37:271-290.
+Received 12 December 1994; accepted 18 September 1995 Associate Editor: James Liebherr
+
+  64
+SYSTEMATIC
+on gophers'
+BIOLOGY VOL. 45 Phylogenetic Covariance Probability for:
+'Hafner and Nadler lice on gophers
+Using: tread (0((l 2)((3(4 5))(6(7 8))))); 7 at 35 steps
+25 at 34 steps
+60 at 33 steps
+'Hafner and Nadler lice 8 10 19
+Tward 0000000001000100001 Tmino 0000000010000100001 Gthom 0000000100000010011 Gactu 0000001000001010011 Gewin 0000010000001010011 Gchap 0000100000000000111 Gpana 0001000000010001111 Gsetz 0010000000010001111 Gcher 0100000000100001111 Gcost 1000000000100001111
+Ttal 1010000000 Tbot 0101000000 Gbur 0000100000 Ohis 0000010000 Ocav 0000001000 Ound 0000000100 Oche 0000000110 Ohet 0000000001
+120 at 32 steps 155 at 31 steps 168 at 30 steps 177 at 29 steps 134 at 28 steps 75 at 27 steps 47 at 26 steps 19 at 25 steps 9 at 24 steps 3 at 23 steps 1 at 22 steps 0 at 21 steps
+Your p-value is:
+< « « « OBSERVED LENGTH
+0.079920
+'Liolopids & Verts Brooks & McLennan1 11 6 10
+one 1000000001
+two 0100000011
+thr 0010000011 for 0001000111 fiv 0000101111 six 0000011111
+A 000000 B 000000 C 100000 D 000000 E 010000 F 001Q00 G 000000 H 000100 I 000000 J 000010 K 000001
+'stingray paras & areas 1st 23' 6 13 23
+one 1000111
+two 0100111
+Phylogenetic Covariance Probability for: 'Liolopids & Verts Brooks & McLennan
+Using: tread (0(l((2 3 4)(5 6 ((7 8) (9(10 11)))))));
+210 at 14 steps
+288 at 13 steps
+thr 0010011 fou 0001001 eig
+nin
+ten tht fot fit sit set eit
+10011 01011 00101
+OBSERVED LENGTH
+upar 0001000000100 mana 0000000000010 leti 0010001001000 orin 0100011010101 mara 1000001010000 magd 1000100100000
+10000000111 01000000111 00100000011 00010001001 00001011001 00000111001
+299 at 12 steps 147 at 11 steps 56 at 10 steps
+Your p-value is:
+< « « « OBSERVED LENGTH 0.056943
+Phylogenetic Covariance Probability for:
+'stingray paras
+Using: ie;
+6 at 33 steps 49 at 32 steps 173 at 31 steps 269 at 30 steps 251 at 29 steps 162 at 28 steps 65 at 27 steps 21 at 26 steps 4 at 25 steps 0 at 24 steps 0 at 23 steps
+Your p-value is:' 0.503497
+& areas 1st 23
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 SIDDALL—CONFIDENCE LIMITS ON BPA 65
+'stingray paras & areas all 33' 6 23 33
+Phylogenetic Covariance Probability for:
+one two thr fou eig nin ten tht fot fit sit set eit tfo tfi tsi tse tei tni tht tho thu tht
+1000111 0100111 0010011 0001001
+& areas all 33
+<««« OBSERVEDLENGTH
+0.683317
+10011 01011 00101
+upar 00010000001001100000011 mana 00000000000101100000000 leti 00100010010000011100000 orin 01000110101011100101100 mara 10000010100000000000000 magd 10001001000000000010000
+'stingray paras composite 10 23 33
+areas'
+Phylogenetic Covariance Probability for:
+one
+two
+thr
+fou
+eig
+nin
+ten
+tht
+fot
+fit
+sit
+set
+eit
+tfo
+tfi
+tsi
+tse
+tei
+tni
+tht
+tho
+thu
+tht
+upar 00010000001001100000011 mana 00000000000101100000000 leti 00100010010000011100000 orinl 01000110100000000001100 orin2 00000000001011100000000 orin3 00000010000000000100000 maral 00000010000000000000000 mara2 10000000000000000000000 mara3 00000000100000000000000 magd 10001001000000000010000
+composite areas
+< « « « OBSERVED LENGTH
+0.016983
+1000111 0100111 0010011 0001001
+10011 01011 00101
+10000000111 01000000111 00100000011 00010001001 00001011001 00000111001
+10000000111 01000000111 00100000011 00010001001 00001011001 00000111001
+1
+1 1
+1 1
+1 1—-
+1-11
+1 1
+1 1
+1 1
+1—1-11
+'stingray paras
+Using: ie;
+6 at 45 steps 26 at 44 steps 76 at 43 steps 209 at 42 steps 241 at 41 steps 218 at 40 steps 139 at 39 steps 62 at 38 steps 16 at 37 steps 7 at 36 steps 0 at 35 steps 0 at 34 steps 0 at 33 steps
+Your p-value is:
+'stingray paras
+Using: ie;
+3 at 47 steps 6 at 46 steps 30 at 45 steps 53 at 44 steps 140 at 43 steps 231 at 42 steps 205 at 41 steps 183 at 40 steps 89 at 39 steps 44 at 38 steps 14 at 37 steps 2 at 36 steps 0 at 35 steps 0 at 34 steps 0 at 33 steps
+Your p-value is:
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+66
+SYSTEMATIC
+BIOLOGY VOL. 45 Phylogenetic Covariance Probability for:
+'Brooks & Glen Worms on primates
+'Brooks & Glen Worms on 5 10 18
+worml 10000000001
+worm2 01000000011
+worm3 00100000111
+worm4 00010001111
+worm5 00001011111
+worm6 00000111111 worml2 1000001 worml3 0100011 worml4 0010111 worml5 0001111
+Hyalo 1110001000 Pongo 0010000100 Homo 0000101000 Pan 0000100010 Gorril 0000100001
+primates'
+Using: ie;
+78 at 21 steps 219 at 20 steps 371 at 19 steps 248 at 18 steps 79 at 17 steps 5 at 16 steps
+Your p-value is:
+< « « « OBSERVED LENGTH
+0.332667
+     Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 

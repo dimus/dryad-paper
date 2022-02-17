@@ -1,0 +1,233 @@
+   Molecular Ecology (2012) 21, 2341–2353 doi: 10.1111/j.1365-294X.2012.05534.x
+Community assembly, species richness and nestedness of arbuscular mycorrhizal fungi in agricultural soils
+ERIK VERBRUGGEN*, MARCEL G. A. VAN DER HEIJDEN*†‡, JAMES T. WEEDON*, GEORGE A. KOWALCHUK*§ and WILFRED F. M. RO ̈ LING–
+*Department of Ecological Science, Faculty of Earth of Life Sciences, VU University Amsterdam, the Netherlands, †Ecological Farming Systems, Research Station ART, Agroscope Reckenholz Ta ̈nikon, Zu ̈rich, Switzerland, ‡Plant–Microbe Interactions, Institute of Environmental Biology, Faculty of Science, Utrecht University, the Netherlands, §Netherlands Institute of Ecology (NIOO-KNAW), Department of Microbial Ecology, Wageningen, The Netherlands, –Molecular Cell Physiology, Faculty of Earth and Life Sciences, VU University Amsterdam, the Netherlands
+Abstract
+Understanding how communities assemble is a central goal of ecology. This is particularly relevant for communities of arbuscular mycorrhizal fungi (AMF), because the community composition of these beneficial plant symbionts influences important ecosystem processes. Moreover, AMF may be used as sensitive indicators of ecological soil quality if they respond to environmental variation in a predictable way. Here, we use a molecular profiling technique (T-RFLP of 25S rRNA gene fragments) to test which factors determine AM fungal community composition in 40 agricultural soils in the Netherlands. In particular, we test whether species richness, dominance structure and community nestedness are influenced by management type (in pairs of organically and conventionally farmed fields), and we examine the contribution of crop species (maize vs. potato), soil type (sand vs. clay-textured soils) and habitat (plant root vs. bulk soil) on AMF community characteristics. AMF richness varied from 1 to 11 taxa per field. Communities from species-poor fields were found to be subsets of those in richer fields, indicating nestedness and a progressive ‘loss’ from the species pool. AMF taxa richness and occurrence in soil and plant roots were highly correlated, and richness was related to management intensity (phosphate availability and grass-cropping history together explained 32% and 50% of richness in roots and soils). Soil type together with soil chemical parameters explained only 17% of variance in AMF community structure. We synthesize these results by discussing the potential contribution of a ‘bottleneck effect’ on AMF communities through increased stochastic effects under environmental stress.
+Keywords: community assembly, dominance, mycorrhizal fungi, nestedness, neutral model, richness
+Received 24 October 2011; revision received 16 January 2012; accepted 4 February 2012
+Introduction
+Mycorrhizal fungi are of high value for agricultural ecosystem functioning and sustainability (Den Herder et al. 2010; Sanders 2010; Verbruggen & Kiers 2010). The majority of agricultural crops have the potential to harbour arbuscular mycorrhizal fungi (AMF) as root symbionts, which can significantly enhance plant pro-
+Correspondence: Erik Verbruggen, Fax: +31205987123; E-mail: e.verbruggen@vu.nl
+ductivity (Lekberg & Koide 2005), soil structure (Piotrowski et al. 2004) and pathogen resistance (Sikes et al. 2009). AMF taxa differ in their provision of ecosystem services and life history strategies, and their diversity has been shown to be associated with an increase in aboveground productivity (Van der Heijden et al. 1998; Maherali & Klironomos 2007; Wagg et al. 2011). Given these potential effects of AMF taxa and diversity, there is a need to identify the major drivers of AMF community assembly in agricultural systems. Knowing which factors drive community assembly can direct
+Ó 2012 Blackwell Publishing Ltd
+
+2342 E. VERBRUGGEN ET AL.
+monitoring and conservation of biodiversity and ecosystem functions (Henle et al. 2004; Larsen et al. 2005; Fuhrman 2009; Rosindell et al. 2011).
+In general, community assembly theories seek to explain how the interplay of dispersal, environmental compatibility (ability of a given taxon to thrive in the habitat in question) and species interactions (Leibold et al. 2004; Myers & Harms 2009) determines the occurrence of species. The outcome of such interplay can be influenced by both deterministic and stochastic processes; dispersal is strongly influenced by chance, while physiological compatibility and species interactions are to a great extent deterministic. For instance, it has been shown that differences in AMF species distributions are caused by habitat preferences of taxa, for example differences in tolerance to high nutrient availability (Thomson et al. 1986; Egerton-Warburton et al. 2007; Porras-Alfaro et al. 2007), pH and soil type (Lekberg et al. 2007; Oehl et al. 2010), mechanical disturbance (Schnoor et al. 2011) or toxic compounds (Hassan et al. 2011). However, when taxa do not greatly differ in tolerances to the environment imposed (Lekberg et al. 2011), dispersal limitation (Lekberg et al. 2007; Van der Gast et al. 2011), order of establishment (Abbott & Robson 1984; Dumbrell et al. 2010a; Hausmann & Hawkes 2010) or initial relative abundance of taxa (Koch et al. 2011) will greatly determine community composition, and thus species distributions are to a greater extent shaped by chance events.
+Until now, most studies on AMF communities have been restricted to only a limited number of study sites, or to a single soil type, and typically only communities inside plant roots have been analysed. Therefore, it is not yet known to what extent structuring forces can be generalized across soil types and microhabitats. In particular, although there is strong evidence for increased species richness under organic management (e.g. Hijri et al. 2006; Oehl et al. 2010; Lumini et al. 2011), we do not yet know how these new communities developed: Are taxa in AMF communities after conversion to organic management increasingly replaced by taxa better-fitted for the new environmental conditions? Are these communities more diverse through, for example, a more hospitable environment in general, allowing more species to persist? Teasing apart these relationships between the environment and community composition is essential for our understanding of AMF diversity in agricultural systems.
+In this study, we examine the composition and richness of AMF communities of 40 agricultural fields in the Netherlands to better understand the factors that drive AMF community assembly. We analyse AMF communities inhabiting plant roots as well as those in soil, because both compartments are important for
+mycorrhizal functioning. There have been reports of differences in AMF communities occupying roots or soil (Clapp et al. 1995; Renker et al. 2005; Hempel et al. 2007); therefore, it is important to analyse both to find the true extent and generality of forces shaping these communities. In this study, we seek to address the following questions regarding community assembly: (i) Do AMF communities differ depending on soil type, management type or crop species? (ii) Can we predict how communities change from species-poor to species-rich communities with decreasing management intensity? And (iii) are community structure and richness related to environmental predictors via deterministic or stochastic processes?
+Materials and methods
+Study sites and sampling
+A total of 40 fields were sampled, distributed throughout the Netherlands (Fig. S1, Table S1, Supporting information). The sampling was explicitly designed to have organically and conventionally managed fields in close proximity (mostly less than a kilometre apart) sharing the same crop and the same soil type, to include the same climatic and geographic variation. This resulted in 20 field pairs: five sandy field pairs with potato as current crop, five sandy pairs growing maize, five clay-textured pairs with potato and another five clay-textured pairs with maize. A subset of the data set used for this study (root colonization in 20 fields included here on sandy soil) has already been used in another study where we tested whether organic farming enhances AMF richness in roots (see Verbruggen et al. 2010). In this study, we sampled an additional 20 fields containing soil with a different texture, also analysed soil communities for all samples and focussed specifically on AMF community assembly using AMF taxa relative abundance measures.
+The cropping season started in April 2007, and all fields were sampled between 16 July and 29 July 2007. All maize fields were additionally sampled in September 2007 for microscopic analysis (see Colonization Methods below). At each sampling location, root and associated bulk soil samples were taken from six plants within one hectare of a field using a core (length: 14.5 cm, width: 6.5 cm) and subsequently pooled and mixed to obtain one root and one soil sample per field. Root samples were taken ±5 cm from the base of the plant, and soil samples were taken 5 cm further from the plant, next to the root samples, from which roots were later removed. One kilogram of soil was stored at 4 °C and was subjected to chemical analysis within 1 week by BLGG (Bedrijfslaboratorium voor Gronden
+Ó 2012 Blackwell Publishing Ltd
+
+COMMUNITY ASSEMBLY OF MYCORRHIZAL FUNGI 2343
+Table 1 Soil chemical properties of fields for each sand ⁄ crop ⁄ management type combination (N = 5; SE = standard error). Concentrations of phosphate, nitrate and ammonium are presented as atomic weight fractions (i.e. P (phosphate), N (-nitrate) and N (-ammonium) in mg ⁄ kg). ‘S roots’ and ‘S soil’ indicate mean arbuscular mycorrhizal fungi richness (S) in roots and soil, respectively
+ Soil
+type Crop
+Sand Maize Potato Clay Maize Potato
+Management
+Organic Conventional Organic Conventional Organic Conventional Organic Conventional
+pH
+Mean SE
+5.1 0.3 4.8 0.3 4.9 0.2 4.6 0.2 7.0 0.1 7.0 0.1 7.2 0.1 7.2 0.2
+PO42)
+Mean SE
+7.5 1.6 9.4 2.3 6.1 3.3 6.3 1.8 2.4 0.8 2.4 0.6 5.4 2.7 2.7 0.5
+NO3) NH4+
+Mean SE Mean SE
+4.6 0.8 8.6 1.0
+5.5 0.5 9.7 1.6 10.7 2.9 9.3 0.9 5.3 1.9 8.0 1.2
+S roots
+Mean SE
+5.8 1.0 3.9 0.5 4.9 0.8 3.4 0.5 7.4 0.9 7.1 0.9 5.3 1.2 5.1 0.4
+S soil
+Mean SE
+5.4 0.9 3.0 0.8 5.3 0.6 3.6 0.8 6.0 0.8 5.9 0.7 5.1 0.8 3.6 0.4
+        Gewasonderzoek; Oosterbeek, The Netherlands; results are presented in Table 1). The rest of the soil (approximately 2 kg fresh weight) was dried in paper bags at 50 °C for 4–6 days (which does not strongly affect soil DNA yield; Harry et al. 2000), sieved using a mesh size of 0.5 mm and stored at )20 °C.
+Sample handling and measurements
+From carefully washed, freeze-dried and homogenized roots, approximately 50 mg was taken for DNA isolation using the DNeasy Plant Mini Kit (Qiagen, Hilden, Germany) performed in duplicate. Roots were pulverized in screw-cap tubes with a glass bead using the FP120 bead-beater (4.0 m ⁄ s, twice for 10 s; ThermoSavant, Holbrook, NY, USA). Nested PCR was performed on 10· diluted DNA isolates with primers LR1–FLR2 (Van Tuinen et al. 1998; Trouvelot et al. 1999) and FLR3–FLR4 (Gollotte et al. 2004), respectively, with a 500· dilution between the first and second PCR (30 cycles each; annealing temperature of 58 °C; fluorescent dyes: 6-FAM and VIC). These primers have been chosen because we wanted to use a single primer pair for AMF detection, as to minimize differences in detection sensitivity of different taxa. It is known that these primers have mismatches with representatives of orders other than Glomerales (Gamper et al. 2009), which may therefore not be detected. The primer pair FLR3–FLR4 does however produce a fragment suitable for T-RFLP analysis (300–370 bp) and has been proven AMF specific in various systems including Dutch agricultural soils (Mummey & Rillig 2007; Pivato et al. 2007; Verbruggen et al. 2010), which is the reason for using this primer pair.
+PCR products were cleaned up using shrimp alkaline phosphatase (SAP; USB, Cleveland, OH, USA), digested with restriction enzyme TaqI (Fermentas, Burlington, Canada) and loaded on an ABI 3100 automated sequen-
+cer (POP4 polymer and 36 cm capillaries). Soil DNA was isolated from a single well-mixed sample of 0.5 g dried soil with the Fast DNA Spin Kit for soil (MPbiomedicals, Irvine, CA, USA) following the standard protocol. Subsequent reactions and analysis were performed in duplicate and combined to represent the soil communities. T-RFLP of soil samples was carried out in the same manner as for roots, except that in the first-round PCR, 4· diluted DNA isolation was used as template and that the product of the first PCR was 200· diluted prior to the second PCR, which consisted of 35 cycles.
+Arbuscular mycorrhizal fungi colonization of roots was determined by staining with trypan blue and quantification with the magnified intersection method (McGonigle et al. 1990) using 100 intersections per sample (field). This was done for samples taken in July as well as September and averaged to get an estimate of field AMF abundance. However, colonization could only be assessed for maize roots because most potato roots had been infected by late blight (Phytophthora infestans), affecting sensitivity of the roots to mechanical manipulations and accuracy of the colonization estimation.
+Data analysis and statistics
+Arbuscular mycorrhizal fungi richness was approximated as the number of T-RFs (at 1% detection threshold) divided by two, as each sequence gives rise to a 5¢ as well as a 3¢ peak. A total of 71 T-RFs were recovered from the 76 samples analysed (39 roots and 37 soils), of which 57 occurred in roots and 48 in soils. One root sample and three soil samples failed to generate PCR products in the nested amplification approach and were therefore excluded from further analysis. The lack of product in these samples is likely to be caused by PCRinhibitory compounds, as repeated attempts at DNA isolation and PCR are occasionally needed to be
+Ó 2012 Blackwell Publishing Ltd
+10.9 2.8 14.9 5.0 16.4 3.6 14.2 6.3
+18.4 1.2 12.5 1.4 15.7 1.4 14.9 1.5
+ 
+2344 E. VERBRUGGEN ET AL.
+conducted to obtain profiles, but always failed in these samples. Also, the associated root or soil samples in each of the fields where PCR failed contained AMF when root colonization by AMF was analysed by microscopy. T-RFs were aligned using the program T-Rex (Culman et al. 2009), and manual adjustments were made to reflect approximately species-level discrimination, according to in silico restriction digestion of previously obtained sequences (Verbruggen et al. 2010).
+Relative peak area of T-RFs in individual fingerprints was used as a measure of taxa relative abundance, which has been shown to be an accurate measure of real template relative abundances (Lueders & Friedrich 2003) and is commonly used in microbial community analysis (Dumbrell et al. 2010b; Ofiteru et al. 2010). Relative abundances of individual taxa were analysed on a local (one agricultural field) as well as a meta-community (all fields combined) scale. We described communities by ‘richness’, that is, number of T-RFs found within a root or soil community divided by two, and ‘predominance’, that is, the averaged relative proportion of the single most abundant forward and reverse fragment. Mean abundance of non-dominant taxa (all taxa except the most dominant) was obtained by dividing their summed abundances by their number of T-RFs. AMF richness and predominance were compared between paired organic and conventional fields with a paired t-test. In case of missing values, we excluded the pair from analysis. To verify that results are not strongly influenced by the missing values, we repeated the analysis using interpolated values (based on the mean of all other fields within the same management ⁄ crop ⁄ soil type combination), which resulted in highly similar results (data not shown). We also tested the effect of our experimental factors and their interactions (management, crop and soil type) using three-way ANOVA on AMF richness in roots and soil. We assessed relationships between predominance and richness and soil chemical variables [pH (KCl), phosphate, nitrate, ammonium (CaCl2-extracted; plant available elements)] by calculating the Pearson’s correlation coefficients for each combination of variables. We also correlated a parameter for frequency of grass in crop rotation as follows: the number of years grass was grown (for the duration of a whole cropping season) in the previous 4 years divided by four, yielding a number between 0 (crop has been absent last 4 years) and 1 (repeated monoculture). After the main crops (maize and potato), these grass crops were the most frequent. For this variable, Spearman’s rank correlations were performed owing to its non-parametric nature. To estimate the combined variance of AMF richness explained by environmental predictors, we performed linear regression with forward selection.
+To test for significant relationships between AMF community structure and environmental variables, canonical correspondence analysis (CCA) was performed, as this data dimensionality–reducing ordination technique allows for a direct analysis of significant relationships between AMF community structure and environmental variables. We used CANOCO software with default settings and forward selection of variables using Monte Carlo test under full model with 499 permutations (ter Braak & Smilauer 2002). Nestedness of communities was analysed using the program BINMATNEST (Rodriguez-Girones & Santamaria 2006). This program calculates the ‘temperature’ of a presence ⁄ absence matrix, where a lower temperature indicates a higher degree of nestedness. A maximally ‘stacked’ matrix is produced by iteratively minimizing deviations of an isocline. The temperature of this matrix is then compared to 1000 stacked matrices that are produced by randomizing taxa occurrence. For the calculation of the significance level, we used null model 3 and input parameters as suggested in the study of RodriguezGirones & Santamaria 2006. This procedure assesses whether the experiment-derived matrix of presence and absence of T-RFs is more nested (poor fields are subsets of richer fields) than expected by chance. With the resulting maximally stacked matrix, we tested whether there is a tendency for conventionally managed fields to be nested within organically managed fields using a pairwise Wilcoxon’s signed-rank test. To compare AMF communities in roots with those in soil, we compared frequency of occurrence of T-RFs between roots and soil across fields using linear regression. Also, we have tested whether AMF communities in roots and soil are significantly related by performing a Mann-Whitney U test comparing Dice similarities of root and soil communities in the same field against those in all other soils.
+To assess the extent to which our data could be explained by neutral processes (Sloan et al. 2006), we fit the model described by Sloan et al. (2006; equation 14) to the mean relative abundance and occurrence frequency data of all taxa. By iteratively minimizing the sum of squares between model fit and observations, we obtained an estimate of the product Nt*m for each data set (root and soil communities). Nt represents local community size, m represents the chance that an individual is replaced by an immigrant from the meta-community, and together they represent an estimate of neutral ecological drift (which decreases with increasing community sizes and immigration). This model has previously been shown to successfully describe aspects of microbial meta-communities (Woodcock et al. 2007; Ofiteru et al. 2010; O ̈ stman et al. 2010).
+When abundance of taxa and their detection frequency are related as predicted by the model, this is an
+Ó 2012 Blackwell Publishing Ltd
+
+indication that taxa occurrence across fields can be caused by stochastic drift by extinctions from the species pool, that is, the meta-community. To confirm that sampling depth is sufficient to discriminate between random draws of identical underlying communities, we assessed expected occurrence frequency of taxa under a binomial distribution using equation 6 in the study of Sloan et al. (2007) with sampling size of 100 (detection threshold per dye in T-RFLP of 1%). This model saturated immediately (not shown), indicating that community profiles obtained at our detection level allow discrimination between random draws from the same community and truly (neutrally or otherwise) divergent communities. Fitting of models was executed in the R program version 2.11.1 (R Development Core Team 2008). For neutral model fitting and nestedness analysis, additional tests were performed to confirm that analysis using both forward and reverse signals of T-RFLP did not impact main findings (Appendix S1).
+Results
+Arbuscular mycorrhizal fungi richness and community structure
+Arbuscular mycorrhizal fungi richness varied from approximately one to 11 taxa among fields. Among the paired organically and conventionally managed fields, there was a trend towards a reduction in taxa richness in conventionally managed fields in roots and soils (Tables 1 and Table 2). However, richness differences were not pronounced for fields cropping maize on claytextured soils, and communities occupying potato roots on clay soils (Table 1). Three-way ANOVA showed a significant main effect of crop and soil type for roots (management: P = 0.105; crop: P = 0.022; soil: P = 0.006; all interaction terms; P > 0.10) and only a main effect of management for soil (management: P = 0.013; all interaction terms P > 0.10 except crop*soil: P = 0.096). Another characteristic of AMF communities, local pre-
+Table 2 Effect of management type (organic vs. conventional) on richness (number of taxa), predominance (relative abundance of within-field dominant taxon) and nestedness rank of arbuscular mycorrhizal fungi communities by pairwise t-tests (t) and Wilcoxon’s signed-rank test (z)
+dominance (abundance of the within-field most dominant taxa), also differed between paired organic and conventionally managed fields (Table 2) and showed a tendency to be higher in conventionally managed fields (Fig. 1a). In general, local predominance was strongly inversely correlated with AMF richness (Table 3), whereas the mean local relative abundance of the remaining taxa was not correlated with taxa richness (roots: r = )0.12; P = 0.46; soil: r = 0.08; P = 0.65). This indicates that a lower AMF richness is associated with an increased abundance of the dominant taxon but not the other taxa. AMF richness and predominance across fields were also correlated with environmental variation (Table 3), especially with ‘phosphate’ (negative correlation) and ‘grass crop frequency’ (positive correlation;
+Richness (S; t) Predominance (t) Nestedness (Z)
+2.27 0.036 )1.89 0.076 )2.05 0.040 N=38
+1.98 0.066 )2.80 0.013 )2.27 0.023 N=34
+Roots soil
+t⁄ZPt⁄ZP
+COMMUNITY ASSEMBLY OF MYCORRHIZAL FUNGI 2345
+100 80 60 40 20 0
+100 (b) 80
+60 40 20
+0
+Potato
+Maize
+Potato
+                Maize
+  Sand
+Clay
+  0.2
+0.4
+0.6 0.8
+1
+Frequency grass in rotation
+Fig. 1 (a) Relative abundance of the most dominant arbuscular mycorrhizal fungi (AMF) (predominance) within AMF communities in roots and soils for soil⁄crop⁄management combinations in roots (no pattern) and soil (dotted). Grey shading indicates organic fields, and white shading indicates conventional fields. Values represent mean ± SE. (b) Relationship between grass-cropping frequency and ‘predominance’ in soil communities for all fields. The two management types are shifted slightly to aid visibility. Incidence of grass (and grass– clover mixtures) cropping may represent a temporary cessation of disturbance, through a relatively long cropping season and low tillage and fertilization frequency.
+= Organic field
+= Conventional field
+  (a)
+                                          Ó 2012 Blackwell Publishing Ltd
+Average relative abundance Average relative abundance dominant AMF (%) dominant AMF (%)
+
+2346 E. VERBRUGGEN ET AL.
+Table 3 Correlations between biotic (arbuscular mycorrhizal fungi richness (S) and predominance in roots and in soil, frequency of grass cropping) and abiotic (phosphate (PO42)), pH, nitrate (NO3)) and ammonium (NH4+). Only significant correlations are presented (roots: N = 39, soil N = 37, *P < 0.05; **P < 0.01)
+ S roots 0.46**
+0.34*
+S soil 0.64**
+Predom. Predom. Root col. roots soil (%)†
+Grass (freq)‡
+0.34*
+0.65** )0.35* )0.59**
+PO42) pH NO3)
+NH4+
+0.58**
+0.66** 0.49**
+ S roots
+S soil
+Predom. roots
+Predom. soil
+Root col. (%)
+Grass (freq)
+PO42) )0.49**
+pH 0.40*
+NO3)
+NH4+ 0.58**
+0.40*
+0.69**
+)0.42**
+)0.71** )0.54** 0.60**
+)0.42* )0.77** 0.65** 0.65** )0.57**
+)0.58** )0.59** )0.35* )0.59**
+)0.71** )0.54** 0.60** )0.42* )0.77** 0.65** 0.47** )0.58** 0.47** )0.59**
+)0.49** )0.57** 0.44**
+0.41* )0.84**
+)0.42**
+0.44** 0.41* )0.84** 0.69**
+0.44**
+0.44**
+0.66** 0.49**
+ †Root colonization was only determined for maize, N = 20.
+‡For the variable ‘grass (grass-cropping frequency)’, nonparametric spearman’s correlation (in italics) was performed because of its categorical nature.
+Fig. 1b). Multiple linear regression with forward selection of environmental predictors (grass crop frequency, phosphate, pH, nitrate, and ammonium) revealed ‘phosphate’ and ‘grass crop frequency’ as significant explanatory factors for AMF richness in roots as well as in soil (roots: F2,35 = 9.8; P < 0.001; adj. R2 = 0.32, soil: F2,33 = 18.4; P < 0.001; adj. R2 = 0.50; see Table 3 for bivariate correlations). For both, ‘phosphate’ was first selected and ‘grass crop frequency’ second in the forward selection procedure. Richness and predominance, for both roots and soils, correlated positively with the degree of root colonization (only determined for maize fields, see Materials and Methods). This suggests that an increase in AMF abundance, as inferred from AMF density in roots, is associated with a higher number of taxa and lower relative abundance of the dominant taxa (Table 3).
+Arbuscular mycorrhizal fungi community assembly: environmental predictors using canonical correspondence analysis
+To explore whether also AMF community compositions were associated with physicochemical parameters, a CCA was performed using the parameters soil type (sand or clay), phosphate, pH, nitrate and ammonium. Together, these parameters were found to account for 16% of root community variance and 17% of soil community variance. When ‘grass crop frequency’ was added as an explanatory variable, these percentages increased to 21% and 20%, respectively. For root communities, soil type had the strongest effect and was the only significant variable in the forward selection procedure (5.5%; P < 0.01), next to ‘grass crop frequency’
+(additional variance explained: 4.7% P < 0.05). For soil communities, only pH had a significant effect in forward selection (5.0%; P < 0.05). Associations of communities with soil type and pH may be interpreted as relatively similar, as the two different soil types were characterized by clearly different pHs (Table 1). The different experimental factors, crop type and management type, in CCA, explained 2.0% (P = 0.81) and 2.6% (P = 0.51) of variance in root communities, respectively, and 2.9% (P = 0.42) and 3.4% (P = 0.16) of variance in soil communities. Thus, in contrast to soil type and pH, and to a lesser extent grass crop frequency, crop or management types are not significant predictors of AMF community composition.
+Arbuscular mycorrhizal fungi community assembly: nestedness
+We assessed how community compositions of fields were interrelated by estimating nestedness across the meta-community. We found that both root and soil meta-communities showed a significantly nested structure, indicated by a lower ‘temperature’ (T, see Methods for explanation) than expected by chance; for roots T = 12.65 (expected: T = 32.72; SD = 6.70; P < 0.001), and for soil T = 16.48 (expected: T = 34.34; SD = 8.30; P < 0.001). Therefore, poorer communities generally form subsets of richer communities, indicating a general trend of local taxa disappearance from the meta-community (‘potential taxa pool’). A graphical representation of the meta-community structure is given in Fig. 2 for soil communities (see Table S2 for T-RFs corresponding to rows, Supporting information). Highranked fields, that is, columns positioned further to the
+Ó 2012 Blackwell Publishing Ltd
+
+ 100
+80
+60
+40
+20
+0
+Organic Soil (x = clay)
+Crop (x = maize)
+COMMUNITY ASSEMBLY OF MYCORRHIZAL FUNGI 2347 Fig. 2 Maximally stacked matrix of soil
+Average relative abundance dominant AMF (%)
+xx xx
+xxxxx xxx xxxx xxx xxx x
+x x x xxxxxx x
+xxx xx x
+0
+10 20
+30 40
+right, are increasingly nested within low-ranked fields (i.e. positioned to the left). Pairwise (thus controlling for soil ⁄ crop and spatial effects) organic and conventional field combinations differ in position: organic fields are more positioned to the left than conventional fields in both soils and roots (Fig. 2, Table 2).
+Similar to AMF richness, the rank of nestedness was significantly correlated with predominance, for both roots (r = 0.63, P < 0.01) and soil (r = 0.70; P < 0.01), while no significant correlations were observed between nestedness and mean abundance of local non-dominant taxa. Together, these results indicate that AMF communities of conventional fields form subsets of communities of organic fields and that with increasing nestedness, there is a tendency for disappearing taxa to be ‘replaced’ by supposedly already dominant taxa, rather than by alternative subordinates.
+Arbuscular mycorrhizal fungi community assembly: communities in roots and soils, and neutral model fit
+All taxa were found in approximately the same number of fields in root and soil communities, varying from occurring in only one field to nearly all fields (Fig. 3a). This indicates that taxa that are often found in soils are also often found in roots and that taxa that rarely occur in soils also rarely occur in roots. Therefore, there is no indication that any of the AMF taxa detected here are exclusively present in only roots or soils. Furthermore, AMF community compositions found in roots and soils within a field were significantly more related compared to those in other soils (Dice similarity own soil: 0.65; other soils: 0.42; Z = )5.49; P < 0.00001).
+Given that environmental factors could only explain 21% of the variability in community profiles, and as a
+complementary visualization of the patterns we found in the nestedness analysis, we plotted the association between AMF relative abundances and their occurrence frequency as predicted by a neutral model. In Fig. 3b, the abundance of taxa in the ‘meta-community’ (mean relative abundance of taxa across all fields) and the frequency at which taxa were detected in local communities (occurrence of taxa) for root and soil communities are plotted. The lines correspond to fitted neutral models for root and soil communities separately. As such, they give an indication of the expected frequency–abundance relationship under the assumption that only neutral processes drive community assembly. See Discussion for further interpretation.
+Discussion
+Understanding how species assemble to form communities is central to ecology and can help identify the processes that govern species occurrences (Whittaker & Levin 1977). In this study, we show that at higher agricultural management intensity levels (as represented by conventional management practices), fields tended to contain a lower AMF taxa richness. Importantly, we found that taxa-poor communities are subsets of other, more taxarich agricultural communities, as indicated by meta-community-wide nestedness. Overall, AMF communities in conventionally managed fields differ from organically managed communities especially by a ‘loss’ of taxa and not so much by changes in species composition.
+Drivers of community nestedness
+Community nestedness can be caused by (i) environmental filtering, where environments differ in the range
+Ó 2012 Blackwell Publishing Ltd
+Average abundance (%)
+arbuscular mycorrhizal fungal communities from all fields to show their nestedness. Columns are fields, and rows are T-RFs (sequence-specific signals). On top of the matrix, the predominance is presented per field. On the right side, the average abundance of all taxa (TRFs) across all fields is shown. In the top rows, management, crop and soil type of each of the fields are indicated.
+
+ 2348 E. VERBRUGGEN ET AL.
+100
+ 80
+ 60
+ 40
+ 20
+  0
+100
+ 80
+ 60
+ 40
+ 20
+  0
+(a)
+0 20 40 60 80 100 Occurrence frequency in soil (%)
+(b)
+2011). Indeed, we observed relationships between AMF richness and predominance on the one hand and phosphate levels, grass rotation history and type of management (organic vs. intensive conventional management) on the other, indicating that varying tolerance levels of taxa for these—management related—factors may be responsible for the observed nestedness. Our analysis of associations between taxa and environmental predictors, however, revealed low predictability of taxa occurrence. One factor that could be responsible for this is dispersal limitation (Lekberg et al. 2007), which would cause niches to remain vacant and thereby obscure the expected species–environment associations under environmental filtering.
+Community size can cause nestedness by the general tendency that smaller communities are more likely to lose species owing to stochastic events (Orrock & Watling 2010). Evidence supporting this driver of nestedness is the observation that the relationship between taxa occurrence and their mean relative abundances (Fig. 3b) loosely follow a neutral model, where taxa distributions are largely dependent on community sizedependent stochastic extinctions (Sloan et al. 2006). Additionally, the correlation between AMF diversity and mean root colonization (which we have measured in all maize fields in July, at time of sampling and additionally in September) also supports a potential contribution of community size. The nestedness we observe may then be caused by recurrent events of lowered community sizes and subsequent local recruitment, imposing a ‘bottleneck’ that has been more severe in conventionally managed fields. The theoretical results of Dornelas (2010), which have been empirically confirmed for bacterial communities by Ager et al. (2010), show that disturbance will cause higher abundance of particularly the locally most dominant taxon, which we observed in our conventionally managed fields. If stress factors, such as high phosphorus availability (Kahiluoto et al. 2001) and low grass cropping, act by influencing community size as a whole (which has often been reported to be reduced under conventional agricultural management e.g. Gosling et al. 2010; Verbruggen et al. 2012), this may have been a strong driver of the variation in taxa richness across communities found in this study.
+As can be seen in Fig. 2, two organic fields (both on clay, one with maize and one with potato) are positioned much further to the right than most other organic fields and are thus more nested. One of these, the potato field, had a very high phosphate concentration (15 mg ⁄ kg; see Table 1 for comparison with other fields), potentially causing lower taxa richness, given the strong correlation between phosphate concentration and AMF richness in this study. The other one, the
+Occurrence frequency Occurrence frequency (%) in roots (%)
+0 10 20 30 40 50 60
+Average abundance (%)
+Fig. 3 Relationship between occurrence frequency (proportion of all fields where a particular taxa is found) of taxa in roots and in soil (y = 0.49 + 1.09x; adjusted R2 = 0.93) (a), and (b) occurrence frequency as a function of the average relative abundance of taxa (relative abundance in all fields) for roots (open circles; estimated Nt*m = 1.212) and soils (closed circles; estimated Nt*m = 0.722). Lines represent expected values under a neutral model dotted line, roots; solid line, soils.
+of species for which they provide a suitable habitat, or (ii) community size, where environments differ in sizes of communities they can sustain, in that larger communities can hold a higher number of species (e.g. Ricklefs & Lovette 1999). A third factor that can contribute to community nestedness is spatial isolation, for example see Butaye et al. 2001; however, we aimed to control for this factor through paired sampling when comparing organic and conventional management.
+If species differ in their tolerance to the environmental conditions imposed, sensitive species may disappear along a gradient of, for example, agricultural management intensity: this environmental filtering can cause community nestedness. Similar effects have been found to cause nestedness of communities in response to varying levels of environmental ‘harshness’ (e.g. pond communities in response to drought; Chase 2007; and floral composition in response to elevation; Alexander et al.
+Ó 2012 Blackwell Publishing Ltd
+
+maize field, did not have strongly deviating abiotic parameters but was one out of a total of two organically managed fields where a non-mycorrhizal crop (cabbage) was the previous crop. Potentially, this has caused the high nestedness and low AMF richness observed in this field.
+Communities in roots, soil and different crops
+Neither nestedness structure nor predominance differed markedly between communities inhabiting roots and soils across agricultural fields, and richness in roots and soil within each field was highly correlated. Moreover, taxa occurrence frequency across fields were very similar, indicating that taxa are not predominantly found in either roots or soils, as was suggested before in a grassland system (Hempel et al. 2007). This is important, as both compartments are important for a successful plant–AMF symbiosis to become established (Jakobsen et al. 1992; Powell et al. 2009). One possible explanation for the absence of a strong difference may be the system under study. As we are only comparing disturbed agricultural fields, it may be that all taxa we detect have been selected for similar growth strategies, thus negating strong differences in taxa occurrence in roots and soil that may be abound in more pristine habitat (O ̈ pik et al. 2006; Sykorova et al. 2007a). We also did not find a significant association between crop species (potato or maize) and community composition of AMF, although there was a significant effect on AMF richness in roots. Many previous studies suggest some AMF have specific preference towards host species or ecological types (Bever 2002; Sykorova et al. 2007b; Davison et al. 2011), although others report no effect of plant community composition on AMF communities (Santos et al. 2006; Urcelay et al. 2009; Dumbrell et al. 2010b).
+The approach taken in this study was aimed at studying large-scale trends in AMF communities. Therefore, our experimental design does not allow discerning finelevel preferences that may exist between crops and AMF communities within our fields over and above other structuring processes in roots and soil. Future research should employ manipulations of abundances of different AMF taxa and test for persistence under different agricultural settings and crop species, thus controlling for other processes that have shaped taxa presence and abundance. Using this approach, fine-level competitive dynamics of individual AMF taxa can be discerned that can complement the large-scale trends found in this study. Similar manipulative studies are needed to confirm whether community size is indeed a predominant factor in AMF community assembly and nestedness.
+Another highly relevant question is ‘What is the source of new taxa in case of an increase in richness?’
+One potential answer is that deeper soil layers may serve as an important source of colonization; it has been shown previously that potentially, many ‘inactive’ AM fungal species reside in deeper soil layers (Oehl et al. 2005). Another potential route is colonization from nearby landscapes, for example field margins and agricultural or non-agricultural soils beyond these margins. Potentially, a better understanding of this ‘matrix’ as a biological source is important for improving sustainability of landscapes (Tscharntke et al. 2005).
+The observed strong relationship of relative abundance of local dominant taxa (predominance) with characteristics of ‘high-intensity’ farming such as infrequent grass cropping and higher nutrient levels suggests that this parameter, next to richness, might be a good indicator of ecological stress in AMF communities. High predominance has been argued to be a typical feature of AMF communities (Dumbrell et al. 2010a). One of the reasons may be that being abundant can create a positive feedback, for instance, through an increased chance of encountering conspecifics with which hyphal fusion can occur, leading to a more-than-proportionate increase in abundance (Rosendahl 2008). This has been argued to be an intrinsically stochastic process (Dumbrell et al. 2011). Because such processes may lead to replacement of other taxa within the system, as our results indicate, AMF predominance may be a useful parameter in assessments of soil ecological quality.
+A potentially important limitation of our methodology is that the primers we used are not detecting all AMF taxa (Gamper et al. 2009). For instance, a main report on differences between AMF communities in roots and soil concerned species within the genus of Paraglomus (Hempel et al. 2007). Members of this genus were not detected with our methods, and thus, our results do not necessarily apply to several species outside the order of Glomerales such as Paraglomus. Apart from this, even though T-RFLP is an appropriate and widely applied technique for fungal community profiling (Anderson & Cairney 2004), it is possible that DNA fragments with different sequences give rise to similar T-RF sizes, which can happen especially with closely related taxa and cause an underestimation of diversity. However, these limitations should apply to all of the fields studied, so it should not have a strong influence on our general conclusions. Low abundant (<1%) taxa are not detected with our methods, and these may have been informative for assessing whether some taxa are really missing in some systems or are merely reduced. Therefore, larger coverage of AMF communities, for example through application of next-generation sequencing methods and development of primers providing suitable length amplicons for this approach, holds potential to further resolve this issue.
+Ó 2012 Blackwell Publishing Ltd
+COMMUNITY ASSEMBLY OF MYCORRHIZAL FUNGI 2349
+
+2350 E. VERBRUGGEN ET AL. Conclusions
+Communities from taxa-poor fields were found to be subsets of those in richer fields, indicating a progressive loss from the ‘species pool’. Loss of taxa was related to management intensity, and especially low abundant taxa were prone to disappearance. This disappearance is consistent with stochastic processes imposing a ‘bottleneck’ on AMF communities with lowered abundances, although other processes such as loss of habitat specialists can also explain this pattern. The dynamics of AMF community assembly in agricultural soils presented here have important implications for sustainable agricultural management. To enhance AMF biodiversity, it might be particularly fruitful to aim for management that (temporarily) increases community size as a whole, such as, for instance, reduced fertilization (Covacevich et al. 2007), reduced tillage (Gosling et al. 2006; Garcia et al. 2007) and, potentially, incorporation of grass or grass–clover mixtures in crop rotation (this study). As local taxa predominance was related to taxa richness and nestedness, this parameter may be a good indicator of soil ecological quality.
+Acknowledgements
+This research was funded by the Netherlands Organisation for Scientific Research (ERGO grant 838.06.021 awarded to MvdH). We want to thank the editor and three anonymous referees for their constructive suggestions and Bill Sloan for commenting on an earlier version of the manuscript. We would like to express thanks to BLGG, Oosterbeek, for carrying out soil chemical analyses. We are very grateful for the cooperativeness of all farmers who generously contributed information concerning field management practices and provided access to their fields. NIOO-KNAW publication number 5224.
+
+Supporting information
+COMMUNITY ASSEMBLY OF MYCORRHIZAL FUNGI 2353 Table S1 Coordinates (latitude, longitude) and soil properties
+Additional supporting information may be found in the online version of this article.
+Appendix S1. Tests for T-RF signals separately for nestedness and neutral model.
+Fig. S1 Location of sites (paired conventionally and organic managed fields) across the Netherlands.
+of each field.
+Table S2 T-RF lengths and locations as represented in the nestedness table (Fig. 2).
+Please note: Wiley-Blackwell are not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+Ó 2012 Blackwell Publishing Ltd

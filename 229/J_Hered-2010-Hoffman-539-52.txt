@@ -1,0 +1,610 @@
+ Journal of Heredity 2010:101(5):539–552 Ó The American Genetic Association. 2010. All rights reserved. doi:10.1093/jhered/esq046 For permissions, please email: journals.permissions@oxfordjournals.org. Advance Access publication May 9, 2010
+Exploring the Mechanisms Underlying
+a Heterozygosity–Fitness Correlation for Canine Size in the Antarctic Fur Seal Arctocephalus gazella
+JOSEPH I. HOFFMAN, JAUME FORCADA, AND WILLIAM AMOS
+From the Department of Zoology, University of Cambridge, Cambridge, CB2 3EJ, UK (Hoffman and Amos); and the British Antarctic Survey, Natural Environment Research Council, Cambridge, UK (Forcada).
+Address correspondence to Joseph I. Hoffman at the address above, or e-mail: jih24@cam.ac.uk.
+Abstract
+Although heterozygosity–fitness correlations (HFCs) are widely reported in the literature, most studies use too few markers to allow the proximate mechanisms to be convincingly resolved. Two competing hypotheses have been proposed: the general effect hypothesis, in which marker heterozygosity correlates with genome-wide heterozygosity and hence the inbreeding coefficient f, and the local effect hypothesis, in which one or more of the markers by chance exhibit associative overdominance. To explore the relative contributions of general and local effects in a free-ranging marine mammal population, we revisited a strong HFC found using 9 microsatellite loci for canine tooth size in 84 male Antarctic fur seals Arctocephalus gazella (Hoffman JI, Hanson N, Forcada J, Trathan PN, Amos W. 2010. Getting long in the tooth: a strong positive correlation between canine size and heterozygosity in the Antarctic fur seal Arctocephalus gazella. J Hered.). Increasing the number of markers to 76, we find that heterozygosity is uncorrelated across loci, indicating that inbred individuals are rare or absent. Similarly, while the HFC based on overall heterozygosity is lost, stochastic simulations indicate that when an HFC is due to inbreeding depression, increasing marker number invariably strengthens the HFC. Together these observations argue strongly that the original HFC was not due to inbreeding depression. In contrast, a subset of markers show individually significant effects, and these are nonrandomly distributed across the marker panel, being preferentially associated with markers cloned from other species. Using basic alignment search tool searches, we were able to locate 94% of loci to unique locations in the dog genome, but the local genes are functionally diverse, and the majority cannot be linked directly to growth. Our results suggest that inbreeding depression contributes little if at all to the relationship between heterozygosity and tooth size but that instead the primary mechanism involves associative overdominance. These findings contribute to a growing body of evidence suggesting that general effects are likely to be uncommon in natural populations.
+Key words: associative overdominance, cross-amplification, heterozygosity–fitness correlation, local effect, otariid, pinniped
+  Recent years have seen a wealth of papers describing heterozygosity–fitness correlations (HFCs) in which heterozygosity, usually measured at around 10 microsatellite markers, is shown to predict some aspect of an individual’s fitness. The direction of the relationship seems almost invariably to be in the direction of higher heterozygosity indicating higher quality, and the traits studied embrace almost all aspects of life, from birth weight (Coulson et al. 1999) and parasite resistance (Rijks et al. 2008) though recruitment and reproductive and success (Amos et al. 2001; Cohas et al. 2009) to plumage coloration (Foerster et al. 2003), song pitch (Araya-Ajoy et al. 2009), attractiveness
+(Hoffman, Forada, et al. 2007), dominance status (Tiira et al. 2006) and territory holding ability (Ho ̈glund et al. 2002). As such, HFCs appear to represent an important component of fitness in many or perhaps even most systems.
+Despite the number of studies reporting HFCs, the proximate mechanism or mechanisms remain open to debate (reviewed by Hansson and Westerberg 2002). Two main possibilities exist. First, heterozygosity could be a proxy for genome-wide heterozygosity, which in turn correlates with an individual’s inbreeding coefficient. If so, HFCs would be interpreted as reflecting inbreeding depression, with the more homozygous individuals being
+539
+Downloaded from http://jhered.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+ Journal of Heredity 2010:101(5)
+relatively inbred and of low quality. This is termed the general effect hypothesis. The alternative has been termed associative overdominance. Here, one or a few of the microsatellites used as markers by chance lie near genes experiencing some form of balancing selection, either through simple heterozygote advantage or perhaps through a more complicated model such as repulsion phase disequilibrium (Ohta 1971) where 2 linked genes are segregating for deleterious alleles that are in negative phase with each other. Under this scenario, linkage disequilibrium between the marker and genes tends to cause a correlation between heterozygosity at the nearby microsatellite and higher than average fitness. This is termed the local effect hypothesis.
+Both the general and the local effect hypotheses suffer from criticisms on theoretical grounds. In the general effect hypothesis, there is a requirement for heterozygosity at a few markers to correlate strongly with f, the inbreeding coefficient. Unfortunately, individuals with detectably nonzero inbreeding coefficients are generally thought to be rare in most real populations (Balloux et al. 2004; Slate et al. 2004). Only in very small populations where there are high levels of reproductive skew does it become likely that as few as 10 markers will be able to detect an HFC (Balloux et al. 2004). On the other hand, the local effect model is also not straightforward. Here, the requirement is for a randomly selected microsatellite to lie near enough to a gene experiencing balancing selection for heterozygosity at the marker to reflect heterozygosity at the gene. However, the genome is a big place and balancing selection is generally thought to be rather rare (Gemmell and Slate 2006), making it ostensibly unlikely that such a marker-gene linkage would occur by chance. Put another way, if most HFCs reflect a local effect, balancing selection would have to be far more common than is currently believed.
+Although it is true that a number of studies have attempted to distinguish between general and local effects, the problem is by no means easy, making firm conclusions hard to come by. As we ourselves found in our companion paper, the use of only around 10 markers affords rather little statistical power. On the one hand, it is difficult to demonstrate convincingly the correlation in heterozygosity across markers that would indicate a general effect. On the other hand, occasional single-locus associations, while suggestive of balancing selection, are also expected under the general effect model due to the background level of association that affects all markers in the presence of inbreeding; the most extreme of these potentially appearing as associations that remain significant even after correction for multiple tests. The most elegant approach to bypass these problems is perhaps to use individuals where f is known from deep pedigree data (Jensen et al. 2007) or to control for f by comparing heterozygosity and fitness among individuals which have the same f because they are full siblings (Hansson et al. 2001). Because these approaches are not open to most studies, a variety of other methods have been tried, including testing each locus individually, testing the effect of dropping each locus in turn, and
+using heterozygosity–heterozygosity (het–het) correlations (Balloux et al. 2004) to test for the presence of inbred individuals. The latter involves testing the prediction that, under the general effect model, heterozygosity should be correlated among markers and is based on repeatedly calculating the correlation across individuals of heterozygosity calculated on 2 random but equal subsets of markers. However, with only around 10 markers commonly deployed, these approaches tend to lack power. For het– het correlations, the marker subsets are very small, while single-locus tests suffer the problem that, if a general effect is present, all markers will tend to exhibit a weak effect, raising the chance that 1 or 2 markers individually show a significant effect above the level expected after correction for multiple tests.
+Perhaps the most generally applicable test of local versus general effects is to deploy a much larger number of markers (e.g., Slate and Pemberton 2002; Campbell et al. 2007). Although this represents more experimental effort, it offers the chance of unambiguously resolving the question. With general effects, the more markers that are used, the stronger should be the HFC detected because the use of more markers will reduce the error variance in estimation of genome-wide heterozygosity, that is, f. In contrast, the result of using more markers to resolve HFCs due to local effects is unclear. If only a single gene is involved across the whole genome, adding more markers should weaken the relationship between mean heterozygosity and fitness. However, if many genes are involved, adding more markers will pick up further associations, potentially strengthening the trend, though probably not as much as for a general effect. This is because, as long as the markers are mostly unlinked, individuals which are heterozygous at one locus will often be homozygous at another and vice versa, thereby to some extent canceling each other out.
+A long-term study of Antarctic fur seals, Arctocephalus gazella, provides an exceptional opportunity to explore the mechanisms underlying HFCs in a natural population, partly because HFCs have already been documented for several traits (Hoffman et al. 2004; Hoffman, Forada, et al. 2007) but also because both mechanisms have ample opportunity to operate. Local effects are likely to play at least a limited role, having previously been identified for both male reproductive success (Hoffman et al. 2004) and canine size (Hoffman et al. 2010). However, fur seals are highly polygynous (Hoffman et al. 2003) and show strong site fidelity (Hoffman et al. 2006), conditions that could potentially generate inbreeding and hence favor general effects. Against this, behavioral mechanisms including female choice (Hoffman, Forada, et al. 2007) appear to have evolved specifically to minimize inbreeding. A further issue is that our standard panel of microsatellite markers was derived by selecting the some of the most variable loci found in other species. This might conceivably bias them in favor of loci exhibiting associative overdominance because loci near genes under balancing selection should tend to show persistently high levels of polymorphism across species. Finally, heavy exploitation of fur seals during the
+540
+Downloaded from http://jhered.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+ C18th and C19th could also favor local effects because strong population bottlenecks tend to increase linkage disequilibrium, thereby increasing the distance over which an association can be detected between a marker and a gene.
+In this study, we take a relatively strong HFC based on male fur seal canine tooth size at death (see our companion paper for details, Hoffman et al. 2010) and raise the number of markers used from 9 to 76 in order to dissect the likely underlying mechanism(s).
+Materials and Methods
+The Microsatellite Data Set
+The methods used are essentially identical to those in our companion paper. To our previous data set, comprising 84 fur seal tissue samples genotyped at our standard panel of 9 microsatellite loci (Hoffman et al. 2010), we added a further 67 loci isolated from a variety of different pinniped species and one locus from the black bear (see Table 1 for details). Microsatellite genotypes were generated following Hoffman and Amos (2005) and we tested for deviations from Hardy–Weinberg equilibrium (HWE) and linkage disequilibrium using the program GENEPOP (Raymond and Rousset 1995; http://genepop.curtin.edu.au/). Null allele frequencies were calculated using the program MICRO-CHECKER (Van Oosterhout et al. 2004) following the equation of Chakraborty et al. (1992).
+Calculation of Individual Heterozygosity and Data Analyses
+Individual heterozygosity was calculated as internal relatedness (IR, Amos et al. 2001) for reasons described in our companion paper. Standardized heterozygosity (SH, Coltman et al. 1999) and heterozygosity weighted by locus (HL, Aparicio et al. 2006) were also calculated, but the 3 measures were strongly intercorrelated and generated virtually identical results (data not shown). Data analyses focused on canine length and mass, 2 measures of canine size that were found to be strongly correlated with IR when calculated at 9 loci. We did not analyze canine width because this was previously found to be only marginally significantly correlated with IR. Analyses were carried out using generalized linear models (GLMs) in R (R Development Team 2005), fitting either heterozygosity alone or including age at death and the age:heterozygosity interaction. Using standard deletion-testing procedures (Crawley 2002), each term was then dropped from models unless doing so significantly reduced the amount of deviance explained (deviance is analogous to sums of squares in standard regression analysis). The change in deviance between full and reduced models was distributed as v2 with degrees of freedom (df) equal to the difference in df between the models with and without the term in question.
+We also analyzed each locus using the randomization approach detailed by Amos and Acevedo-Whitehouse (2009) and used in our companion paper. In this analysis, data are arranged such that the association between genotype and phenotype is maximized; in our case, all
+genotypes with above average tooth length are placed in one group and all those with below average length in another, making 2 groups. The strength of the resulting association is recorded as a test statistic, here a t-test. To interpret this statistic, we then repeatedly scramble the relationship between genotype and phenotype, each time repeating the process of finding the strongest possible association. When a genuine association is present, the expectation is that the original t-value will be higher than those obtained from the randomized data. Significance was assessed nonparametrically, expressed as the proportion of times the randomized data yielded a test statistic as large, or larger, than the one obtained with the raw data.
+Controlling for Multiple Statistical Tests
+During this study, we conduct a large number of statistical tests of association such that formal control of Type I errors through either Bonferroni (Hochberg 1988) or false discovery rate (FDR) correction (Benjamini and Hochberg 1995) would be desirable. However, table-wide correction is inappropriate because both methods assume that all the tests are independent, whereas many of our tests show clear nonindependence. We therefore elected to control Type I errors per group of tests (i.e., each set of 72 or 76 tests for a given trait, the exact number of tests depending on whether X-linked markers were included in the analysis). P values were corrected using the FDR method implemented in the program Q-VALUE (http://genomics.princeton.edu /storeylab/qvalue/index.html; Storey and Tibshirani 2003).
+Locating Markers in the Dog Genome
+We conducted basic local alignment search tool (BLAST) searches (Altschul et al. 1990) to explore putative homology between microsatellite clone sequences, where available, and the dog genome (http://www.ncbi.nlm.nih.gov/genome /seq/BlastGen/BlastGen.cgi?taxid59615). BLAST searches with default match parameters were conducted using fulllength clone sequences downloaded from GenBank (www.ncbi.nih.gov). For the majority of resulting matches, the query sequence revealed significant similarity to a single genomic location in the dog. However, in the few cases where multiple matches were obtained, we recorded the topscoring match (e.g., the one with the lowest E-value). For the remaining loci, we assumed that local rearrangements at or near the microsatellite made alignment difficult. In such cases, we searched using BLASTN with the longest, least repetitive sequence from one side of the microsatellite, repeating with other subsequences where necessary. A match was judged to have been found if there was a single low E-value (typically 􏰌10􏰀10) and if visual inspection of the matching sequence revealed evidence both of the expected microsatellite and of homology with the other flanking sequence.
+Simulations
+To test the prediction that adding more loci should strengthen an HFC under the general effect hypothesis
+Hoffman et al. 􏰙 HFC Mechanism in Fur Seals
+541
+Downloaded from http://jhered.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+ Journal of Heredity 2010:101(5)
+   542
+Downloaded from http://jhered.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+Table 1
+Details of the 76 microsatellite loci employed in this study and their polymorphism characteristics in 84 dead adult male Antarctic
+fur seals
+Locus
+Isolated from species
+Reference
+HE
+0.737 0.798
+Aa4
+South American fur seal
+Gemmell et al. (1997)
+6
+0.229
+􏰀0.0428 0.0005
+Hg1.3 Hg6.3 Hg8.10 Lw10
+Arctocephalus australis Gray seal Halichoerus grypus Gray seal H. grypus
+Gray seal H. grypus Weddell seal Leptonychotes
+Gemmell et al. (1997) Allen et al. (1995) Allen et al. (1995) Davis et al. (2002)
+42 46 42 46
+46 48 46 48
+12 12 4 14
+0.849 0.843 0.861 0.893 0.444 0.440 0.867 0.869
+0.050 0.676 1.000 0.160
+􏰀0.0209 0.0009 􏰀0.0039
+M11a
+Southern elephant seal
+Hoelzel et al. (1999)
+46
+48
+18
+0.928 0.893
+0.781
+0.0162 0.0238
+Pv9 PvcA
+Mirounga leonina
+Gray seal H. grypus Western Atlantic harbor
+Allen et al. (1995) Coltman et al. (1996)
+48 46
+52 48
+10 8
+0.779 0.738 0.836 0.857
+0.148 0.403
+􏰀0.0155
+PvcE Ag1 (1)
+seal Phoca vitulina concolor Western Atlantic harbor seal
+Coltman et al. (1996) Hoffman et al. (2008)
+45 46
+50 48
+14 11 3
+0.856 0.843 0.872 0.905
+0.635
+0.0044
+Ag1 (2) Ag2 Ag3 Ag4 Ag6 Ag7 Ag8 Ag9 Ag10 Agaz1 Agaz2 Agaz3 Agaz4 Agaz5 Agaz6 Agaz7 Agaz8 Agaz9 Agaz10
+Arctocephalus gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella Antarctic fur seal A. gazella
+Hoffman et al. (2008) Hoffman et al. (2008) Hoffman et al. (2008) Hoffman et al. (2008) Hoffman et al. (2008) Hoffman et al. (2008) Hoffman et al. (2008) Hoffman et al. (2008) Hoffman et al. (2008) Hoffman (2009) Hoffman (2009) Hoffman (2009) Hoffman (2009) Hoffman (2009) Hoffman (2009) Hoffman (2009) Hoffman (2009) Hoffman (2009) Hoffman JI, unpublished data Hoffman JI, unpublished data Hoffman JI, unpublished data
+46
+48
+46
+46
+48
+46
+48
+48
+46
+50
+46
+46
+48
+48
+46
+46
+48
+60
+55
+48
+52
+48
+48
+52
+48
+52
+52
+48
+54
+48
+48
+52
+52
+48
+48
+52
+65
+60
+0.545 0.422 0.800 0.831 0.310 0.333 0.851 0.833 0.723 0.726 0.739 0.810 0.877 0.720 0.451 0.440 0.721 0.687 0.871 0.881 0.815 0.786 0.604 0.631 0.770 0.361 0.511 0.530 0.688 0.790 0.735 0.756 0.850 0.783 0.797 0.714 0.785 0.679
+0.009
+0.1245 􏰀0.0222 􏰀0.0389
+Agaz11 Agaz12
+Antarctic fur seal A. gazella Antarctic fur seal A. gazella
+55 55
+60 60
+10 7
+0.772 0.699 0.783 0.759
+0.093 0.679
+0.047 0.0124
+weddellii
+P. vitulina concolor
+Antarctic fur seal
+0.849
+􏰀0.0213
+T1 (°C) 46
+T2 (°C) 48
+Number of alleles
+HWE
+HO probability
+Null allele frequency
+ 2
+15
+ 8
+ 6
+16
+ 2
+ 7
+11
+ 9
+ 4
+ 6
+ 3
+ 4
+ 5
+14
+ 8
+ 9
+0.0075 􏰀0.005
+7
+0.723 0.724 0.202 0.558 0.727 0.028 1.000 0.163 0.524 0.256 0.451 <0.0001 0.652 0.230 0.315 0.237 0.601 0.001
+􏰀0.0483 0.0954 0.0088 0.0215 􏰀0.0085 0.0153 􏰀0.0249 0.3587 􏰀0.0212 􏰀0.0622 􏰀0.0232 0.0381 0.0515 0.0699
+
+ Hoffman et al. 􏰙 HFC Mechanism in Fur Seals
+   543
+Downloaded from http://jhered.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+Table 1
+Continued
+Locus
+Isolated from species
+Reference
+T1 (°C) 55
+T2 (°C) 60
+Number of alleles
+HE HO 0.842 0.714
+HWE probability
+Null allele frequency
+G1A Hg1.4a Hg4.2 Hg6.10 Hl4
+Black bear Ursus americanus Gray seal H. grypus
+Gray seal H. grypus
+Gray seal H. grypus Leopard seal Hydrurga
+Paetkau et al. (1995) Gemmell et al. (1997) Allen et al. (1995) Allen et al. (1995) Davis et al. (2002)
+12 7 19 12 5
+0.129
+0.079 1 0.284 0.0022
+Hl16 Lc5
+leptonyx
+Leopard seal H. leptonyx Crabeater seal Lobodon
+Davis et al. (2002) Davis et al. (2002)
+46 46
+48 48
+11 3
+0.843 0.750 0.308 0.310
+0.131 0.690
+􏰀0.006 0.0198
+Lc28 Lw8 Lw15(1) Lw15(2) Lw18a Ms15
+carcinophagus
+Crabeater seal L. carcinophagus Weddell seal L. weddellii Weddell seal L. weddellii Weddell seal L. weddellii Weddell seal L. weddellii Hawaiian monk seal
+Davis et al. (2002) Davis et al. (2002) Davis et al. (2002) Davis et al. (2002) Davis et al. (2002) Schultz et al. (2009)
+48
+42
+48
+48
+46
+48
+52
+46
+52
+52
+48
+52
+10 12 12 10
+0.858 0.819 0.909 0.929 0.877 0.805 0.855 0.889 0.179 0.000 0.789 0.793
+0.900 0.716 0.050 0.144 <0.0001 0.655
+􏰀0.0135 0.0398 􏰀0.0228
+Ms23
+Hawaiian monk seal
+Schultz et al. (2009)
+48
+52
+8
+0.832 0.586
+<0.0001
+0.203 􏰀0.0072 􏰀0.0598
+Ms265
+Hawaiian monk seal
+Schultz et al. (2009)
+54
+58
+5
+0.712 0.699
+0.090
+Ms647
+Hawaiian monk seal
+Schultz et al. (2009)
+55
+60
+15
+0.895 0.940
+0.916
+OrrFCB1
+M. schauinslandi Atlantic walrus Odobenus
+Buchanan et al. (1998)
+45
+50
+9
+0.833 0.802
+0.320
+0.0154 􏰀0.0077 0.0342 0.0171 0.0301 􏰀0.0388
+OrrFCB2
+rosmarus rosmarus Atlantic walrus O. rosmarus
+Buchanan et al. (1998)
+48
+52
+11
+0.873 0.881
+0.666
+OrrFCB3
+rosmarus
+Atlantic walrus O. rosmarus
+Buchanan et al. (1998)
+46
+48
+17
+0.745 0.691
+0.799
+OrrFCB7
+rosmarus
+Atlantic walrus O. rosmarus
+Buchanan et al. (1998)
+55
+60
+10
+0.855 0.821
+0.299
+OrrFCB8
+rosmarus
+Atlantic walrus O. rosmarus
+Buchanan et al. (1998)
+55
+60
+6
+0.789 0.738
+0.095
+OrrFCB16
+rosmarus
+Atlantic walrus O. rosmarus
+Buchanan et al. (1998)
+55
+60
+4
+0.598 0.643
+0.250
+SGPv17a
+rosmarus
+Ssl2x Ssl5x Ssl39 Ssl301 Ssl441
+P. vitulina vitulina
+Steller sea lion Eumetopias jubatus Steller sea lion E. jubatus
+Steller sea lion E. jubatus
+Steller sea lion E. jubatus
+Steller sea lion E. jubatus
+Huebinger et al. (2007) Huebinger et al. (2007) Bickham J, unpublished data Huebinger et al. (2007) Huebinger et al. (2007)
+46 46 48 46 48
+48 48 52 48 52
+7 11 7 14 5
+0.632 0.571 0.893 0.929 0.805 0.798 0.885 0.867 0.473 0.494
+0.231 0.529 0.801 0.803 0.856
+0.0477 􏰀0.0227 0.0016 0.0068 􏰀0.0244
+Monachus schauinslandi
+M. schauinslandi
+M. schauinslandi
+Eastern Atlantic harbour seal
+Goodman (1997)
+46
+48
+6
+0.748 0.000
+<0.0001
+1
+48 46 55 46
+52 48 60 48
+0.747 0.000 0.914 0.506 0.878 0.869 0.575 0.605
+<0.0001 <0.0001 0.449 0.223
+􏰀0.0287 0.0551
+4 7
+1 􏰀0.036
+
+ Journal of Heredity 2010:101(5)
+   544
+Downloaded from http://jhered.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+Table 1
+Continued
+Locus
+Isolated from species
+Reference
+T1 (°C) 46
+T2 (°C) 48
+Number of alleles
+HWE
+HE HO probability
+Null allele frequency
+Zcwa05 Zcwa12 Zcwb03a Zcwb07 Zcwb09 Zcwc01 Zcwe04 Zcwe12 Zcwf07 Zcwf09 Zcwg04 ZcwCgDh1.8 ZcwCgDh5.16 ZcwCgDh48 ZcwCgDh7tg ZcwCgDh4.7 ZcwCgDhB.14
+Galapagos sea lion Zalophus californianus wollebaeki
+Hoffman, Steinfartz, and Wolf (2007) Hoffman, Steinfartz, and Wolf (2007)
+15
+18
+ 7
+10
+12
+12
+11
+ 8
+ 8
+ 9
+14
+ 7
+ 6
+ 8
+18
+13
+ 6
+0.894 0.893 0.858 0.833 0.789 0.000 0.873 0.892 0.870 0.831 0.860 0.845 0.869 0.802 0.816 0.807 0.786 0.928 0.779 0.827 0.895 0.893 0.797 0.843 0.795 0.795 0.545 0.571 0.902 0.878 0.877 0.928 0.753 0.867
+0.657
+􏰀0.0026 0.0114
+Galapagos sea lion
+48
+48
+48
+46
+48
+46
+46
+46
+50
+46
+46
+46
+46
+46
+46
+46
+52
+52
+52
+48
+52
+48
+48
+48
+54
+48
+48
+48
+48
+48
+48
+48
+0.873
+Z. californianus wollebaeki
+Galapagos sea lion
+Hoffman, Steinfartz, and Wolf (2007) Hoffman, Steinfartz, and Wolf (2007)
+<0.0001 0.262 0.449 0.281 0.088 0.475 0.092 0.025 0.931 0.891 0.583 0.546 0.823 0.327 0.134
+1 􏰀0.0138
+Z. californianus wollebaeki
+Galapagos sea lion
+Z. californianus wollebaeki
+Galapagos sea lion
+Wolf et al. (2005)
+0.0196 0.0098 0.0369 0.0026
+Z. californianus wollebaeki
+Galapagos sea lion
+Hoffman, Steinfartz, and Wolf (2007) Hoffman, Steinfartz, and Wolf (2007)
+Z. californianus wollebaeki
+Galapagos sea lion
+Z. californianus wollebaeki
+Galapagos sea lion
+Hoffman, Steinfartz, and Wolf (2007) Hoffman, Steinfartz, and Wolf (2007)
+Z. californianus wollebaeki
+Galapagos sea lion
+􏰀0.0858 􏰀0.0026 􏰀0.0017 􏰀0.0312 􏰀0.0028 􏰀0.0263
+Z. californianus wollebaeki
+Galapagos sea lion
+Hoffman, Steinfartz, and Wolf (2007) Hoffman, Steinfartz, and Wolf (2007) Hernandez-Velazquez
+Z. californianus wollebaeki
+Galapagos sea lion
+Z. californianus wollebaeki
+California sea lion
+Z. californianus
+et al. (2005) Hernandez-Velazquez
+California sea lion
+Z. californianus
+et al. (2005) Hernandez-Velazquez
+California sea lion
+Z. californianus
+et al. (2005) Hernandez-Velazquez
+California sea lion
+0.0103 􏰀0.0313 􏰀0.0734
+Z. californianus
+et al. (2005) Hernandez-Velazquez
+California sea lion
+Z. californianus
+et al. (2005) Hernandez-Velazquez
+California sea lion
+Z. californianus
+et al. (2005)
+Our standard panel of 9 loci is shown at the top of the table, with the newly added markers being listed afterward in alphabetical order. Significant deviations from HWE without correction for multiple tests are
+highlighted in bold. T1 and T2 denote polymerase chain reaction annealing temperatures. HE, expected heterozygosity; HO observed heterozygosity. a These have allele frequencies consistent with X linkage.
+
+ but have a weaker or even negative impact under the local effect hypothesis, we ran a series of stochastic simulations, based on varying numbers of microsatellite loci, each with 4 alleles at population frequencies of 0.4, 0.3, 0.2, and 0.1. In each simulation, 100 individuals were generated, each with a multilocus genotype from which IR was calculated, and a fitness score drawn from a normal distribution and then modified according to the genotype–phenotype link in the model being tested. For both the general effect and the local effect models, a range of parameter values were used in order to generate a spread of HFC strengths. For the general effect model, the parameters varied were 1) frequency of inbred individuals (N individuals with f 5 0.25 [range of N explored 5 5–35 in steps of 5], plus an equal number of individuals with f 5 0.125, all other individuals have f 5 0); 2) impact of inbreeding on fitness [fit# 5 fit (1 􏰀 F)x, where fit# 5 adjusted fitness score, fit 5 original fitness score, and x 5 1, 2, 3, or 4]; 3) variance in fitness, determined as the sum of either 5 or 25 random numbers between zero and one, thus yielding Gaussian distributions with the former having approximately twice the variance of the latter. For the local effect model, parameters varied were 1) the impact of being homozygous [fit# 5 fit 􏰇 Z, where Z is the impact factor 5 0.25, 0.5, or 0.75]; 2) the frequency of loci contributing to the effect (one locus every x loci, x 5 3–10 inclusive]; 3) variance in fitness, determined as for the general effect model.
+Results
+To explore the likely mechanisms underlying an HFC for canine size in the Antarctic fur seal (Hoffman et al. 2010), we increased the numbers of markers genotyped from 9 to 76 (Table 1). The number of alleles at each locus varied between 2 and 19 and expected heterozygosity ranged from 0.18 to 0.93. Four loci were homozygous in every one of our male tooth samples, even though they are polymorphic in control samples from females, and hence were probably X linked. A further 7 loci exhibited significant deviations from HWE, mostly in the direction of homozygote excess and probably due to null alleles.
+Relationship between Canine Size and IR
+In our companion paper (Hoffman et al. 2010), strong relationships are documented between IR when calculated at 9 microsatellite loci and 2 measures of canine size, length, and mass. We extended this analysis by constructing GLMs of canine length and mass, this time fitting IR calculated using 72 loci (the 4 putatively X-linked loci were excluded from the analysis). IR was found to be no longer significant (canine length, v2 5 0.29, df 5 1, P 5 0.590; canine mass, v2 5 0.34, df 5 1, P 5 0.559). To compensate for any potential confounding effects of age, we also built GLMs of canine length and mass in which IR, age at death and the IR:age interaction were fitted as predictor variables. Again, IR was not retained as a significant predictor variable in
+either of these models. Finally, the 7 loci that deviated significantly from HWE were excluded and the analyses repeated, but again none of the regressions approached significance.
+Heterozygosity–Heterozygosity Correlations
+To test for the presence of inbred individuals, we repeatedly divided the 72 loci into 2 equal subsets, calculated IR separately for both and obtained correlation coefficients between the 2. The distribution of resulting het–het correlation coefficients was centered around 􏰀0.07 suggesting an absence of appreciably inbred individuals from the data set. Being somewhat puzzled by the negative correlation we investigated further, replacing all genotypes with randomly chosen alleles and finding the expected average correlation of zero. We next sequentially removed all 7 loci exhibiting significant deviations from HWE. As each was deleted the average correlation increased, reaching zero when the last one was removed. It thus seems that null alleles exert a disproportionate influence on the apparent level of correlation in heterozygosity across loci and account for the slightly negative overall correlation.
+Simulated General and Local Effects
+The results of our simulations are presented in Figure 2. For each set of parameter values, a single data point was generated, plotted as the HFC using 10 loci (x axis) and the equivalent value based on 70 loci expressed as a ratio relative to the first value (y axis). As expected, the general effect model tends to strengthen as more loci are added, the 70locus correlation tending toward being 3–4 times higher than the correlation obtained with 10 loci for all but the weakest HFCs. For the local effect model, the results were more variable, with the correlation sometimes strengthening (y values above one) and sometimes weakening (y values below one), depending on the input parameters. However, overall it is clear that general effects always lead to a strengthening of the correlation with increased numbers of loci and almost invariably the strengthening is greater than seen when the mechanism involves local effects. Since in our data the HFC initially observed for 9 loci disappeared when locus number was increased to 70, this provides strong support that our results are due to local effects.
+Associations between Individual Loci and Canine Size
+To attempt to identify which loci are involved in any local effects, we next constructed separate GLMs of canine length and mass, fitting heterozygosity at each of the loci as predictor variables, both alone and with age fitted as a covariate. We also applied the recently developed approach of Amos and Acevedo-Whitehouse (2009) as an alternative means of detecting genotype–phenotype associations. The results of these analyses are summarized in Table 2. A total of 16 loci (21.1%) yielded at least one significant test statistic. We previously noted that tooth length yielded a more significant HFC compared with tooth
+Hoffman et al. 􏰙 HFC Mechanism in Fur Seals
+545
+Downloaded from http://jhered.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+ Journal of Heredity 2010:101(5)
+       546
+Downloaded from http://jhered.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+Table 2
+Results of single-locus GLMs of canine size for 84 dead adult male Antarctic fur seals genotyped at 76 microsatellite loci
+Locus
+n Estimate v2 P
+Prand Estimate v2 0.057 0.42 0.37
+P Prand Estimate v2 0.540 0.170 0.71 2.32
+P Prand Estimate v2 P 0.128 0.078 0.19 0.25 0.615
+Prand
+Aa4 Hg1.3 Hg6.3 Hg8.10 Lw10 M11a Pv9 PvcA PvcE Ag1 (1) Ag1 (2) Ag2 Ag3 Ag4 Ag6 Ag7 Ag8 Ag9 Ag10 Agaz1 Agaz2 Agaz3 Agaz4 Agaz5 Agaz6 Agaz7 Agaz8 Agaz9 Agaz10 Agaz11 Agaz12 G1A Hg1.4 Hg4.2 Hg6.10 Hl4 Hl16 Lc5 Lc28 Lw8 Lw15(1)
+84 1.23 2.30 0.130 83 􏰀0.51 0.31 0.580 84 1.30 1.52 0.220 84 0.43 0.42 0.520 84 1.26 1.68 0.190 84 􏰀0.94 0.78 0.380 84 1.97 7.53 0.010 84 2.75 9.48 0.002 83 0.27 0.09 0.770 84 0.86 0.58 0.450 83 􏰀0.25 0.14 0.710 83 0.63 0.52 0.470 84 0.50 0.51 0.470 84 􏰀0.27 0.09 0.760 84 0.02 0.00 0.980 84 􏰀0.67 0.63 0.430 82 􏰀1.21 2.78 0.100 84 􏰀0.54 0.66 0.420 83 􏰀0.45 0.40 0.530 84 􏰀0.82 0.66 0.420 84 􏰀0.78 0.96 0.330 84 0.69 1.03 0.310 83 0.57 0.69 0.410 83 0.18 0.07 0.790 81 0.59 0.58 0.440 82 0.81 1.05 0.310 83 0.59 0.56 0.450 84 0.38 0.28 0.600 84 0.02 0.00 0.980 83 0.07 0.01 0.820 83 􏰀0.90 1.36 0.240 77 0.24 0.09 0.760 82 — 77 􏰀0.19 0.07 0.790 84 􏰀0.52 0.29 0.590 81 0.75 1.21 0.270 84 􏰀0.14 0.04 0.850 84 􏰀0.90 1.61 0.200 83 􏰀0.83 0.93 0.340 84 􏰀2.40 3.65 0.060 82 1.08 1.64 0.200
+0.960 0.570 􏰀0.18 0.12 0.170 0.496 0.53 0.74 0.260 0.480 0.29 0.56 0.100 0.591 0.61 1.20 0.690 0.686 􏰀0.20 0.10 0.010 0.186 0.86 4.18 0.010 0.018 1.16 4.77 0.910 0.252 􏰀0.04 0.01 0.300 0.138 0.20 0.09 0.800 0.269 􏰀0.17 0.19 0.330 0.752 0.19 0.14 0.530 0.681 􏰀0.11 0.08 0.490 0.742 􏰀0.41 0.65 0.400 0.557 􏰀0.19 0.20 0.240 0.367 0.13 0.07 0.330 0.379 􏰀0.41 0.95 0.870 0.720 􏰀0.56 2.17 0.690 0.669 􏰀0.30 0.51 0.250 0.494 􏰀0.61 1.08 0.260 0.501 􏰀0.23 0.25 0.820 0.140 0.32 0.66 0.200 0.613 0.45 1.27 0.810 0.896 􏰀0.07 0.04 0.260 0.079 􏰀0.19 0.17 0.340 0.421 0.54 1.41 0.230 0.295 􏰀0.10 0.04 0.460 0.891 0.35 0.68 0.610 0.986 􏰀0.14 0.12 0.340 0.592 􏰀0.18 0.19 0.100 0.472 􏰀0.25 0.31 0.590 0.158 0.32 0.52
+0.270 0.944 0.071 0.402 0.152 0.320 0.719 0.399 0.457 0.931 0.578 0.626 0.517 0.882 0.592 0.757 0.089 0.200 0.655 0.690 0.641 0.153 0.106 0.647 0.039 0.538 0.846 0.097 0.943 0.957 0.654 0.142 0.059 0.277 0.834 0.217 0.202 0.105 0.341 0.052 0.734
+Canine length
+Canine length (compensating for age) Canine mass
+Canine mass (compensating for age)
+0.075 􏰀0.04 0.00
+0.248 1.20 1.89
+0.765 0.61 1.25
+0.207 1.30 2.68
+0.738 􏰀0.36 0.16
+0.157 1.57 6.85
+0.049 2.05 7.31
+0.116 􏰀0.08 0.01
+0.176 0.96 1.07
+0.216 􏰀0.10 0.03
+0.352 􏰀0.74 0.95
+0.649 0.36 0.39
+0.672 0.52 0.49
+0.654 0.52 0.71
+0.182 􏰀0.81 1.37
+0.063 􏰀0.60 0.96
+0.459 􏰀0.09 0.03
+0.511 􏰀0.24 0.16
+0.679 􏰀0.97 1.35
+0.152 􏰀0.74 1.27
+0.611 0.13 0.05
+0.869 0.74 1.67
+0.998 0.13 0.06
+0.038 0.73 1.26
+0.627 0.63 0.91
+0.057 0.80 1.45
+0.980 0.45 0.55
+0.953 􏰀0.30 0.26
+0.857 0.57 0.91
+0.156 􏰀1.05 2.78
+0.113 0.35 0.29
+0.007 ——— 0.335 􏰀0.17 0.09 0.760 0.295 􏰀0.94 1.37 0.240 0.014 0.49 0.75 0.390 0.559 􏰀0.13 0.04 0.840 0.466 􏰀0.97 2.79 0.100 0.040 􏰀1.31 3.41 0.060 0.169 􏰀1.53 2.10 0.150 0.135 0.02 0.00 0.980
+0.730 0.421 0.12 0.09 0.766 0.390 0.033 0.46 0.94 0.333 0.454 0.741 0.41 1.88 0.170 0.273 0.090 0.65 2.22 0.136 0.748 0.745 0.18 0.14 0.707 0.041 0.633 0.60 3.27 0.710 0.029 0.677 0.69 2.66 0.103 0.941 0.538 􏰀0.27 0.42 0.517 0.759 0.202 0.26 0.28 0.600 0.666 0.531 􏰀0.07 0.06 0.814 0.713 0.516 􏰀0.72 3.11 0.078 0.778 0.819 􏰀0.20 0.42 0.517 0.419 0.541 0.09 0.05 0.823 0.656 0.474 0.13 0.15 0.701 0.791 0.431 0.04 0.01 0.922 0.331 0.209 􏰀0.01 0.00 0.985 0.141 0.115 􏰀0.27 0.83 0.362 0.477 0.268 􏰀0.16 0.24 0.628 0.298 0.893 􏰀0.70 2.43 0.119 0.615 0.493 􏰀0.21 0.33 0.564 0.418 0.454 􏰀0.04 0.02 0.887 0.259 0.952 0.55 3.31 0.069 0.850 0.924 􏰀0.10 0.12 0.730 0.683 0.113 􏰀0.09 0.06 0.808 0.235 0.784 0.42 1.44 0.230 0.834 0.437 0.04 0.01 0.912 0.410 0.620 0.39 1.42 0.233 0.734 0.734 􏰀0.35 1.20 0.274 0.664 0.991 0.14 0.20 0.653 0.578 0.077 􏰀0.34 0.98 0.321 0.471 0.102 0.39 1.41 0.236
+0.006 ——— 0.659 0.18 0.21 0.649 0.257 􏰀0.36 0.42 0.518 0.161 0.29 0.56 0.455 0.338 􏰀0.32 0.54 0.460 0.238 􏰀0.22 0.27 0.600 0.077 􏰀0.10 0.04 0.844 0.070 􏰀1.52 4.44 0.035 0.760 0.73 2.29 0.130
+0.029 ——— 0.088 0.19 0.38 0.539 0.768 􏰀0.64 2.14 0.144 0.033 0.12 0.17 0.683 0.302 􏰀0.31 0.84 0.359 0.472 􏰀0.26 0.67 0.412 0.021 􏰀0.40 1.06 0.302 0.296 􏰀0.96 2.84 0.092 0.139 0.06 0.02 0.878
+
+ Hoffman et al. 􏰙 HFC Mechanism in Fur Seals
+       547
+Downloaded from http://jhered.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+Table 2
+Continued
+Locus
+n Estimate v2 P Prand
+Estimate v2 P 􏰀0.93 1.08 0.300
+Prand
+Estimate v2 P Prand
+Estimate v2 P Prand
+Lw15(2)
+Lw18
+Ms15
+Ms23
+Ms265
+Ms647 OrrFCB1 OrrFCB2 OrrFCB3 OrrFCB7 OrrFCB8 OrrFCB16 SGPv17
+Ssl2x
+Ssl5x
+Ssl39
+Ssl301
+Ssl441
+Zcwa05 Zcwa12 Zcwb03 Zcwb07 Zcwb09 Zcwc01 Zcwe04 Zcwe12 Zcwf07 Zcwf09 Zcwg04 ZcwCgDh1.8 ZcwCgDh5.16 ZcwCgDh48 ZcwCgDh7tg ZcwCgDh4.7 ZcwCgDhB.14
+81 􏰀1.11 1.06 0.300 0.852 84 — 0.683 82 0.93 1.28 0.260 0.664 70 􏰀1.56 4.64 0.030 0.652 83 0.48 0.43 0.510 0.624 83 0.06 0.00 0.970 0.461 81 0.43 0.26 0.610 0.564 84 􏰀1.16 1.33 0.250 0.698 81 􏰀0.19 0.06 0.800 0.262 84 􏰀0.23 0.07 0.790 0.855 84 􏰀0.37 0.24 0.620 0.429 84 􏰀0.20 0.08 0.780 0.972 73 — 0.349 84 0.72 1.19 0.280 0.223 84 1.73 1.86 0.170 0.657 84 􏰀1.13 1.94 0.160 0.006 83 􏰀0.25 0.07 0.790 0.569 83 􏰀0.74 1.27 0.260 0.546 84 􏰀0.07 0.00 0.950 0.663 84 􏰀0.53 0.36 0.550 0.673 84 — 0.664 83 0.87 0.68 0.410 0.753 83 􏰀0.57 0.35 0.560 0.013 76 0.66 0.45 0.500 0.549 81 0.53 0.38 0.540 0.896 83 0.33 0.15 0.700 0.032 83 0.54 0.18 0.670 0.448 81 􏰀0.61 0.47 0.490 0.777 84 1.05 0.99 0.320 0.426 83 2.23 6.35 0.010 0.289 83 􏰀1.03 1.58 0.210 0.248 84 􏰀0.74 1.24 0.270 0.872 82 1.26 1.53 0.220 0.745 83 􏰀1.37 1.17 0.280 0.184 83 0.33 0.11 0.730 0.313
+——— 0.86 1.60 0.210 􏰀1.69 8.59 0.003 0.74 1.52 0.220 0.06 0.00 0.960 0.77 1.26 0.260 􏰀1.06 1.61 0.200 0.37 0.36 0.550 􏰀0.53 0.55 0.460 􏰀0.38 0.37 0.540 0.00 0.00 0.990
+0.206 0.920 0.904 0.227 0.334 0.252 0.276 0.637 0.545 0.591 0.360 0.429 0.604 0.523 0.116 0.032 0.365 0.789 0.387 0.979 0.193 0.766 0.005 0.508 0.903 0.513 0.315 0.092 0.751 0.633 0.110 0.198 0.992 0.034 0.017
+􏰀0.55 0.78 0.377 0.967 ———0.476 0.66 1.91 0.167 0.263 􏰀0.69 2.43 0.119 0.531 0.42 1.03 0.510 0.518 0.43 0.29 0.592 0.838 0.35 0.50 0.479 0.696 􏰀0.44 0.57 0.449 0.322 􏰀0.43 1.05 0.306 0.503 􏰀0.22 0.20 0.657 0.957 􏰀0.45 1.08 0.299 0.153 􏰀0.09 0.06 0.815 0.671 ———0.974 0.42 1.23 0.268 0.209 1.01 1.90 0.168 0.615 􏰀0.13 0.08 0.782 0.613 􏰀0.62 1.24 0.266 0.573 􏰀0.19 0.25 0.616 0.480 0.21 0.11 0.737 0.875 􏰀0.31 0.37 0.543 0.535 ———0.559 0.73 1.46 0.227 0.824 􏰀0.42 0.56 0.455 0.362 0.43 0.61 0.437 0.497 0.12 0.06 0.806 0.822 0.26 0.27 0.601 0.076 0.67 0.85 0.357 0.370 􏰀0.17 0.10 0.749 0.900 0.75 1.49 0.222 0.760 1.11 4.70 0.030 0.346 􏰀0.85 3.30 0.069 0.475 􏰀0.31 0.65 0.422 0.883 1.50 7.09 0.008 0.435 􏰀1.09 2.27 0.132 0.420 0.21 0.14 0.704 0.327
+􏰀0.43 0.80 0.370 0.685 — — — 0.827 0.61 2.78 0.095 0.456 -0.77 5.44 0.020 0.267 0.59 3.44 0.063 0.408 0.44 0.48 0.488 0.768 0.56 2.29 0.130 0.461 􏰀0.38 0.68 0.409 0.425 􏰀0.08 0.06 0.809 0.840 􏰀0.41 1.14 0.286 0.302 􏰀0.45 1.86 0.172 0.040 0.04 0.01 0.990 0.758 — — — 0.983 0.22 0.53 0.469 0.446 1.07 3.63 0.057 0.635 􏰀0.14 0.14 0.712 0.754 􏰀0.44 1.02 0.312 0.760 0.04 0.02 0.881 0.703 0.69 2.06 0.151 0.868 􏰀0.06 0.02 0.889 0.663 — — — 0.124 0.68 2.09 0.149 0.125 􏰀0.45 1.12 0.291 0.214 􏰀0.03 0.00 0.952 0.091 0.15 0.15 0.696 0.983 0.11 0.09 0.764 0.838 0.57 1.00 0.317 0.538 0.19 0.23 0.630 0.396 0.33 0.47 0.494 0.720 0.25 0.36 0.551 0.211 􏰀0.39 1.12 0.289 0.434 􏰀0.41 1.94 0.163 0.687 0.97 4.55 0.033 0.816 􏰀1.01 3.15 0.076 0.182 0.02 0.00 0.967 0.109
+Canine length
+Canine length (compensating for age)
+Canine mass
+Canine mass (compensating for age)
+——— 0.40 0.53 0.470 1.83 3.09 0.080
+􏰀1.14 2.90 0.090 0.04 0.00 0.960 􏰀0.38 0.48 0.490 0.67 0.56 0.450 􏰀0.13 0.03 0.850
+——— 0.79 0.81 0.370 􏰀0.63 0.62 0.430 􏰀0.09 0.01 0.910 0.57 0.69 0.410 0.11 0.02 0.880 0.40 0.14 0.710 􏰀0.05 0.01 0.940 0.41 0.21 0.650 0.95 1.44 0.230 􏰀0.32 0.21 0.650 􏰀0.90 2.74 0.100 0.38 0.20 0.660 􏰀1.24 1.36 0.240 0.03 0.00 0.970
+Analyses were conducted separately for canine length, canine mass, and for both of these measures after compensating for age (see Materials and Methods for details). For each GLM, the estimate (slope), v2 and P value, uncorrected for multiple tests, are given. The v2 values for each term represent the change in deviance after removing that term and all interactions involving that term from the model. GLMs could not be conducted for the 4 X-linked loci because these were homozygous for all individuals. P values derived using the approach of Amos and Acevedo-Whitehouse (2009) are also given for every locus. Significant P values are highlighted in bold, none of which remained significant following FDR correction (see Materials and Methods for details).
+
+ Journal of Heredity 2010:101(5)
+ Figure 1. Distribution of estimates (slopes) of GLMs of (a) canine length; (b) canine length with age fitted as a covariate; (c) canine mass; and (d) canine mass with age fitted as a covariate.
+mass (Hoffman et al. 2010). This trend continues, with almost twice as many significant tests at P , 0.05 for length (n 5 21) compared with mass (n 5 12). This imbalance is even more marked at P 􏰌 0.01, where length gives 10 tests and mass only one. Following FDR correction for multiple tests, significance is lost table wide. However, the significant excess of low P values for canine length over canine width provides weak support for local effects impacting on canine length. Moreover, although Type I errors alone should be distributed randomly across traits and markers, the low P values are also highly nonrandomly distributed across the markers (see below).
+Elsewhere, tests in this species for consistency of the direction of effect across loci have yielded contrasting results, with heterozygosity at 8/9 loci being positively associated (sign test, P 5 0.04) with both male reproductive success (Hoffman et al. 2004) and attractiveness (Hoffman, Forada, et al. 2007), but a less clear picture emerging for canine size, with 7 of the 9 loci showing the same tendency with tooth length and width (P 5 0.18) and only 6 loci with tooth mass (P 5 0.51, Hoffman et al. 2010). Consequently, we analyzed the distribution of the estimates (slopes) obtained from GLMs of canine length and mass for each of the 72 loci, fitting heterozygosity either alone or together with age (Figure 1). Canine length showed a slight but nonsignificant tendency toward an excess of positive slopes regardless of whether age was fitted as a covariate (fitted alone, 38 þve vs. 34 –ve, sign test, P 5 0.724; fitted with age, 39 þve vs. 33 –ve sign test, P 5 0.556). Canine width showed a nonsignificant excess of negative slopes when fitted alone (33 þve, 39 –ve sign test, P 5 0.556) but a slight
+excess of positive slopes when age was included as a covariate (39 þve vs. 33 –ve sign test, P 5 0.556). Thus, in none of the sets of models was a significant excess of positive slopes obtained, again suggesting that inbreeding depression is not involved.
+To explore factors influencing whether a given locus yielded a local effect, we constructed a final GLM. The strength of each local effect was expressed as the number of
+ 548
+Figure 2.
+Results of stochastic simulations (see Materials and Methods for details) exploring how the r2 value for an HFC measured using 10 loci changes as the number of loci is increased to 70 under the general (filled circles) and local effect models (open circles).
+Downloaded from http://jhered.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+ tests yielding a significant P value relative to the total number of tests conducted for that locus and was modeled using a binomial error structure. We fitted as predictor variables the number of alleles at each locus, chosen to reflect levels of variability, the source of the locus (as a factor with 1 5 isolated in the focal species and 0 5 derived from a different species), and the number of alleles:locus interaction. The only term retained in the final model was the source of the locus (v2 5 12.18, df 5 1, P 5 0.0005), with those developed in fur seals being significantly less likely to reveal evidence of a local effect. This trend remained statistically significant even using a far more conservative chi-squared test on the number of loci yielding at least one significant P value (v2 5 5.08, df 5 1, P 5 0.024).
+BLAST Search Results
+Finally, to attempt to shed light on the genomic distribution of the microsatellite loci used in this study and to identify nearby genes that could be candidates for local effects, we conducted BLAST searches of full-length clone sequences, wherever available (n 5 72), against the dog genome. Half of these sequences revealed highly significant similarity (75.0% of E-values were ,1􏰇 10􏰀20) to genomic regions within the dog (Supplementary Table 1). Assuming that local rearrangements, insertions or deletions may have compromised our ability to obtain matches for the remaining loci, we next carried out searches using the longest, least repetitive sequence from one side of the microsatellite, repeating with other subsequences where necessary. This recovered a further 32 matches to bring the total to 68/72 sequences matching (94.4%). These alignments also obtained strong statistical support, with 62.5% of E-values being less than 1 􏰇 10􏰀20 and all 4 putatively X-linked loci correctly assigned to the X chromosome. The loci were distributed across 33 different chromosomes in the dog, with a maximum of 5 locating to any one chromosome.
+Wherever BLAST matches were obtained, the algorithm returned either a gene within which the query sequence appears to be located (25/68, 37%) or the nearest genes in both downstream and upstream positions, all of which were within 2 Mb of the microsatellite locus. Previously, we identified 3 markers associated with canine size that all lay next to genes plausibly involved directly in promoting growth. In our larger data set, this trend does not appear to hold up: The microsatellites lie near to genes with a wide range of functions and loci showing a significant association with tooth size do not appear to lie preferentially close to genes that can be obviously linked to growth (Supplementary Table 1).
+Discussion
+We have revisited a strong HFC in which 9 loci revealed both an overall effect of heterozygosity and loci with significant individual effects (Hoffman et al. 2010). Adding a further 67 loci, we find that evidence of an overall effect is lost, being replaced by evidence that a small number of individual loci are important. Microsatellites showing
+individual effects appear to be a nonrandom subset, tending to have been originally characterized in other species. Thus, inbreeding depression seems to contribute little if at all to the relationship between heterozygosity and tooth size in adult male Antarctic fur seals.
+Several recent theoretical studies have concluded that local effects probably represent the dominant mechanism underlying HFCs (Balloux et al. 2004; Slate et al. 2004; DeWoody and DeWoody 2005). However, the interpretation of any individual study based on around 10 markers is often difficult. A key reason why the general effect model is seen as unlikely is the theoretical rarity of detectably inbred individuals in natural populations (Balloux et al. 2004). Although this statement may be true for an ‘‘average’’ population, 2 factors undermine its validity for many actual studies. First, study systems are often based either on small, isolated populations where a high proportion of individuals can be identified, or on highly polygynous species where questions revolve around determinants of male success. In both cases, the rate of inbreeding may be unusually high. Second, some studies compare cases with controls, for example diseased/dead with healthy individuals (e.g., Acevedo-Whitehouse et al. 2003). Here, the cases may be a small subset of all individuals and these may be highly enriched for those that are most inbred. All these scenarios potentially bypass the argument that inbred individuals are too rare to contribute to HFCs. In our current study, we do not compare cases with controls, but the species is polygynous and highly site faithful (Hoffman et al. 2003, 2006), so the presence of some inbred individuals cannot be ruled out.
+In our study, we find several lines of evidence that general effects are weak or nonexistent. First, the HFC based on overall heterozygosity which is strong when only 9 markers are used is lost when marker number is increased. This result parallels the findings of an earlier study on red deer, where increasing marker number from 9 to 71 resulted in the loss of the HFC for juvenile survival (Slate and Pemberton 2002). Our simulations indicate, across a wide range of scenarios, that when an HFC due to inbreeding depression explains around 10% of the variation in fitness using 9 markers, increasing to 70 markers invariably strengthens that correlation, on average raising the r2 value to around 0.3. In contrast, local effects have a more variable impact on the r2, sometimes increasing it but often reducing it. Second, we used het–het correlations to ask whether there was evidence that our data included any genuinely inbred individuals. We found no evidence that heterozygosity is correlated across markers, even when over 70 loci are deployed, indicating that inbred individuals are rare or absent in our sample of dead adult males.
+When testing for local effects, our results are perhaps not as clear-cut as one might hope. Nonetheless, we believe several strands of evidence point to our data including several markers lying near to genes that influence tooth size. The biggest problem is that, with 4 traits tested, each in 2 different ways and for over 70 different markers, the total number of tests conducted is large such that correction for
+Hoffman et al. 􏰙 HFC Mechanism in Fur Seals
+549
+Downloaded from http://jhered.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+ Journal of Heredity 2010:101(5)
+multiple tests, even using FDR, causes loss of significance. This is a well-known problem in disease association studies and was identified as a problem for HFCs by Slate and Pemberton (2002), who found that 2 individually significant loci lost significance following Bonferroni correction for 71 tests, despite these both being linked to quantitative trait loci previously identified for the same trait. However, if most of the significant tests were truly attributable to Type I errors, they should be distributed randomly, and in our study they are not. Thus, tests based on tooth length attract almost twice as many significant results compared with tooth mass and, among these, length achieves P 􏰌 0.01 ten times compared with tooth mass achieving this level just once. Nonrandomness is also seen in the way individually significant associations are preferentially associated with markers cloned from other species. This trend is important because it helps to explain why the first 9 loci, all cloned from other species, gave a highly significant HFC while the addition of more loci, many of which were cloned from fur seals, if anything weakens the net effect. Finally, in our original study, we obtained a strong result that we can now say with confidence was not due to a general effect. Put together therefore, our results suggest that single-locus associations are present, but that they are rather weak with current sample sizes, to the extent that they lie close to the limit of what can be detected given the number of tests being conducted. Clearly, future work should aim to increase sample sizes appreciably.
+Our study also allows an interesting comparison to be made between specific tests for a link between heterozygosity and fitness, and a more general test for an association between any genotypes and fitness (Amos and Acevedo-Whitehouse 2009). We find that although the more general test yields more significant results, suggesting greater power, there are several instances in which the direct test of an effect of heterozygosity is significant where the more general test is not. Such instances could be due to Type I errors, though it might be expected that a direct test should sometimes prove more powerful. Against this, it should be remembered that the association between heterozygosity at a microsatellite and heterozygosity at a neighboring gene is almost invariably imperfect and probably needs to be unusually strong for the direct test to prevail.
+With encouraging results from our initial study based on 9 loci (Hoffman et al. 2010), we attempted to go a step further and ask whether there was any obvious pattern in the genes found to lie next to putative BLAST matches to the dog genome. On the one hand, this was extraordinarily successful, in the sense that in only 4 instances did we fail to find a convincing single location in the dog genome, and the distribution across the genome was reassuringly even. This has positive implications for future studies. On the other hand, we did not find a clear excess of genes that could in some obvious way be linked directly to growth. Instead, the closest genes were found to be diverse, for instance, linked to cell adhesion (Ms23), protein folding (Agaz 6), cell osmoregulation (Ssl39), messenger RNA processing
+(ZcwCgDh7tg), transcriptional regulation (ZcwCgDh1.8), and photoreceptor function (Hg1.4). Having said this, locus Lc28 lies ,0.5 Mb away from Cbi-interacting protein Sts-1, which promotes the accumulation of activated target receptors (such as T-cell receptors) on the cell surface, and locus ZcwCgDhB.14 lies ,0.25 Mb from a gene encoding for a receptor for interleukin 17, a cytokine with numerous immune regulatory functions.
+There are several possible explanations for why our larger study reveals a diversity of genes, many of which cannot be intuitively linked directly to growth. First, growth is a diffuse concept and while some genes are obvious, under the right circumstances almost any gene should contribute to an animal’s ability to thrive, including elements of the immune system for fighting disease, sensory system for finding food, and most metabolic pathways. Second, although we believe several of our associations are genuine, we also inevitably include a number of Type I errors. A clearer picture might emerge if these could be reduced by increasing considerably our sample of teeth. Third, although we focus on the nearest gene, any association could easily involve any gene within 2 Mb, and possibly further given the fur seals’ breeding system and population history. To identify key genes, future studies need to consider both increasing sample sizes and adding further markers nearby putative hits. In the current study, we did attempt to finemap local effects for loci Pv9 and PvcA by identifying dinucleotide repeat sequences flanking these genes in the dog genome, designing primers and testing for amplification in seals. Unfortunately, none of the 30 primer pairs tested amplified an interpretable product.
+Finally, it is worth comparing our original study (Hoffman et al. 2010) with the current, much larger analysis. Our first study is typical of large numbers of studies across many species that use around 10 markers to explore HFCs in natural populations. We have deliberately left this study as it was originally written before expanding the marker database in order to provide an informative comparison between the sorts of conclusions one is likely to draw and those that are justified when large numbers of markers can be deployed. In our case, the original study suggested both a general effect and 2 or possibly 3 local effects. Although the general effect was lost after excluding the 2 strongest effect loci, such a pattern might have occurred if the genuine general effect had been present because eliminating the 2 strongest effects will always tend to weaken the overall P value. In the current study, we are able convincingly to reject the general effect model. By implication, the highly significant pattern seen in out initial study is indicative of 2 loci of large effect whose impact is heightened by the relatively small number of nonsignificant loci tested at the same time. In the larger study, local effects were hinted at rather than demonstrated unequivocally, and hence, it is only be taking the 2 studies together that a good case can be made that a small number of loci are linked to genes influencing aspects of growth in the Antarctic fur seal. In other words, loci employing small panels of markers lose power due to the small number of loci involved, whereas
+550
+Downloaded from http://jhered.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012

@@ -1,0 +1,473 @@
+         ORIGINAL ARTICLE
+GENETICS OF INCIPIENT SPECIATION IN DROSOPHILA MOJAVENSIS. III. LIFE-HISTORY DIVERGENCE IN ALLOPATRY AND REPRODUCTIVE ISOLATION
+William J. Etges,1,2 Cassia Cardoso de Oliveira,1 Mohamed A. F. Noor,3 and Michael G. Ritchie4 1Program in Ecology and Evolutionary Biology, Dept. of Biological Sciences, University of Arkansas, Fayetteville, Arizona 72701
+2E-mail: wetges@uark.edu
+3Biology Department, Duke University, Durham, North Carolina 27708
+4School of Biology, University of St. Andrews, St. Andrews, KY16 9TS, United Kingdom
+Received February 24, 2010 Accepted July 16, 2010
+We carried out a three-tiered genetic analysis of egg-to-adult development time and viability in ancestral and derived populations of cactophilic Drosophila mojavensis to test the hypothesis that evolution of these life-history characters has shaped premating reproductive isolation in this species. First, a common garden experiment with 11 populations from Baja California and mainland Mexico and Arizona reared on two host species revealed significant host plant X region and population interactions for viability and development time, evidence for host plant adaptation. Second, replicated line crosses with flies reared on both hosts revealed autosomal, X chromosome, cytoplasmic, and autosome X cactus influences on development time. Viability differences were influenced by host plants, autosomal dominance, and X chromosomal effects. Many of the F1, F2, and backcross generations showed evidence of heterosis for viability. Third, a QTL analysis of male courtship song and epicuticular hydrocarbon variation based on 1688 Baja × mainland F2 males also revealed eight QTL influencing development time differences. Mainland alleles at six of these loci were associated with longer development times, consistent with population-level differences. Eight G × E interactions were also detected caused by longer development times of mainland alleles expressed on a mainland host with smaller differences among Baja genotypes reared on the Baja host plant. Four QTL influenced both development time and epicuticular hydrocarbon differences associated with courtship success, and there was a significant QTL-based correlation between development time and cuticular hydrocarbon variation. Thus, the regional shifts in life histories that evolved once D. mojavensis invaded mainland Mexico from Baja California by shifting host plants were genetically correlated with variation in cuticular hydrocarbon-based mate preferences.
+KEY WORDS: Adaptation,life-historyevolution,quantitativegenetics,speciation.
+One of the most general scenarios invoked to describe the process of allopatric speciation is population divergence with subsequent adaptation to local ecological conditions and reduction in gene flow between populations over time. Early in this process, diverged populations evolve along independent trajectories
+bounded by common genetic backgrounds and gene flow, but at some point, divergence results in preor postmating reproductive isolation (Dobzhansky 1937; Muller 1942) and the boundaries are loosened. Specifically, the allopatric model stipulates the potential for correlated genetic shifts in mate recognition traits such as
+doi:10.1111/j.1558-5646.2010.01096.x
+ ⃝C 2010 The Author(s). Evolution ⃝C 2010 The Society for the Study of Evolution. 3 5 4 9 Evolution 64-12: 3549–3569
+
+         WILLIAM J. ETGES ET AL.
+courtship behavior due to sexual selection or shifts in mate preferences as consequences of adaptive divergence after population splitting. If genetic divergence in allopatry results in postmating genetic incompatibilities, that is, hybrid sterility or inviability (Coyne and Orr 2004), reinforcement may evolve to strengthen premating isolation (Dobzhansky 1951; Servedio and Noor 2003). The “strength” of these barriers to gene flow is commonly used to infer the species status of such diverged groups across a spectrum of partially reproductively isolated populations to fully differentiated species with some (Feder et al. 1988; Mallet 1995; Via 1999; Noor et al. 2001; Wu 2001) or no gene flow between them, consistent with the Biological Species Concept (Mayr 1942).
+If populations remain isolated with little or no gene flow, they may evolve differences in morphological, physiological, and behavioral traits such that local adaptation is strong enough that gene flow and colonization of alternate habitats are eliminated (Nosil et al. 2005), secondary contact is rare, and reproductively isolated forms result (Sobel et al. 2010). If secondary contact and perhaps a degree of sympatry occurs, further isolation may evolve, but this will be predicated on the types of shifts in mate recognition systems, mate preferences, etc. that evolved previously in allopatry. Thus, the genetic basis of traits that can be directly related to local adaptation in allopatric populations should reveal how the reproductive isolation evolves whether these populations become sympatric or not.
+Once differences in geography or ecology reduce gene exchange between populations, postmating and other barriers should be less consequential to reproductive isolation leading to speciation (Ramsey et al. 2003; Lowry et al. 2008; Sobel et al. 2010). Identifying the genetic architectures of traits evolved through this process causing reproductive isolation has been slow (Ritchie and Phillips 1998; Schluter and Conte 2009) despite progress in understanding the manifold effects of ecologically based causes of reproductive divergence (reviewed in Schluter 2001; Levin 2004; Rundle and Nosil 2005; Funk et al. 2006; Jiggins 2008; Hendry 2009; Nosil et al. 2009). However, a number of study systems have provided insights into the types of genes and gene interactions responsible for reproductive isolation due to divergent selection. For example, co-localization of QTL influencing habitat preference and performance in diverged populations of pea aphids (Hawthorne and Via 2001) suggests common genetic mechanisms for host-related divergence influenced by strong natural selection (Via and West 2008). A handful of QTL underlying floral traits and pollinator rewards are responsible for reproductive isolation between Mimulus species (Bradshaw et al. 1995, 1998; Bradshaw and Schemske 2003). Reproductive isolation in Darwin’s finches has resulted from differences in learned song differences and beak morphology in allopatry (reviewed in Grant and Grant 2008), the latter largely influenced by differential expression of bone morphogenetic protein 4 (Bmp4) and calmodulin (CaM) loci that
+determine beak width and depth (Abzhanov et al. 2006). Wing color pattern loci involved in mimicry and mate preferences in butterflies (Naisbit et al. 2003) have been clearly implicated with sexual isolation within and between species (Jiggins et al. 2001; Kronforst et al. 2006; Chamberlain et al. 2009). Divergent selection on opsin proteins in African cichlids is thought to have resulted in shifts in male body coloration involved in sexual selection (Terai et al. 2006). Similarly, sexual selection on sex-linked color patterns in guppies is thought to have resulted in a case of incipient speciation (Alexander and Breden 2004). Thus, direct genetic analysis of traits that have been molded by either natural or sexual selection can reveal the precise mechanisms of how reproductive isolation originates.
+ECOLOGY AND REPRODUCTIVE ISOLATION IN THE DESERT
+The biogeography and patterns of host plant use of cactophilic D. mojavensis populations have revealed insights into its ecological divergence and evolutionary history. Studies of chromosomal evolution indicate that this species originated in Baja California and invaded mainland Mexico by switching host plants (Heed 1982; Heed and Mangan 1986; Ruiz et al. 1990). Populations of D. mojavensis carry out their life cycles in the fermenting tissues of different host cacti across the species range including the ancestral host, agria cactus, Stenocereus gummosus, in Baja California, the islands in the Gulf of California, and in a small area in coastal Sonora. Throughout southern Arizona, Sonora, and northern Sinaloa, organ pipe cactus, S. thurberi, is used with occasional use of sina cactus, S. alamosensis. Mojave Desert populations in southern California and in the Grand Canyon, Arizona use barrel cactus, Ferocactus cylindraceous, and an isolated population on Santa Catalina Island near Los Angeles uses Opuntia spp for breeding. Thus, D. mojavensis is considered oligophagic, using different host cacti in different parts of its range, but rarely more than one host in any region.
+The Gulf of California is an isolating barrier that has allowed differentiation of derived mainland D. mojavensis populations by restricting gene flow from Baja California (Heed 1978). Mainland populations have undergone considerable allozyme and chromosome inversion frequency shifts (Zouros 1974; Etges et al. 1999), physiological adaptation (Starmer et al. 1977; Etges and Klassen 1989), and genetic differentiation in egg-to-adult viability, development time (DEVT), and thorax size, that is, host plant specific life-history evolution (Etges and Heed 1987; Etges 1989b, 1990, 1993; Etges et al. 1999). Further, Baja California and mainland Mexico and Arizona D. mojavensis exhibit low, but significant sexual isolation among populations with no postmating hybrid inviability/sterility. These rearing substrate shifts have also influenced sex-specific epicuticular hydrocarbon differences that mediate premating isolation, in addition to variation in courtship
+ 3550 EVOLUTION DECEMBER2010
+
+         songs (Stennett and Etges 1997; Etges and Ahrens 2001; Etges et al. 2006a),
+The present study involves genetic analysis of divergence in life-history characters and correlated shifts in sexual isolation among geographically isolated populations of D. mojavensis. We were motivated primarily by results of two previous studies: (1) significant bidirectional responses to artificial selection on egg-toadult DEVT in geographically isolated populations caused correlated responses in sexual isolation between populations, evidence of a genetic correlation between DEVT and premating isolation (Etges 1998), and (2) phenotypic differences in adult D. mojavensis with longer DEVT had significantly higher amounts of epicuticular hydrocarbons than adults that eclosed earlier when reared on natural substrates (W. J. Etges, unpubl. data). Observation (1) provided strong inference that DEVT and premating isolation are not independent traits because in both fast and slow replicate selection lines, sexual isolation between populations was significantly reduced after 12 generations of artificial selection on DEVT (see Etges 1998 for details).
+Observation (2) was based on a common garden experiment (see Materials and Methods below) in which eclosing adults from replicate cactus cultures were split into groups that emerged on the first two days of eclosion, “fast,” versus the rest, “slow.” Paired t-tests for all “fast” (n = 22) versus “slow” (n = 24) groups ignoring sex or substrate type revealed that amounts of 11 major cuticular hydrocarbons were significantly greater in the “slow” group than in the “fast” group (all P ≤ 0.02). Total hydrocarbons per fly were also in greater abundance in the “slow” group than in the “fast” group (t = 2.38, df = 44, P < 0.022). Therefore, flies that remained in larval/pupal stages longer produced more adult cuticular hydrocarbons as sexually mature adults than flies that eclosed earlier (all adults were virgins, aged to sexual maturity). Both studies suggested a causal link between genetic/phenotypic differences in DEVT and cuticular hydrocarbons, that is, contact pheromones, that influence sexual isolation between Baja California and mainland populations of D. mojavensis (Etges and Ahrens 2001).
+The current study was planned to assess the genetic basis of DEVT in more detail, as well as the correlation between eggto-adult DEVT and cuticular hydrocarbon amounts. We characterized both DEVT and viability (VIAB) among populations of D. mojavensis in a common garden experiment and assessed host plant specific expression of these characters in a biometrical analysis of population crosses, as well as a QTL analysis of F2 males from a cross between mainland and Baja California populations. Our hypothesis was that populations of D. mojavensis should show regional, host plant specific differentiation in life-history characters consistent with previous studies (cf. Etges 1990). We further hypothesized that the genetic basis of these traits within populations revealed by line cross and QTL analyses should be
+consistent with the larger scale population differences. In addition, we assessed the genetic correlation between DEVT variation and cuticular hydrocarbon profiles, contact pheromones that influence mating success (Etges et al. 2009). We show that there are four QTL (one near the candidate gene fruitless) that exhibited a significant positive genetic correlation between DEVT and variation in these groups of cuticular hydrocarbons establishing a genetic link between host plant adaptation in allopatry and cuticular hydrocarbon-based premating isolation.
+Materials and Methods
+ORIGIN OF STOCKS AND HUSBANDRY
+Eleven populations of D. mojavensis used for the population survey, the analysis of line crosses, and assessment of CHCs between adults grouped into “fast” and “slow” DEVTs described above were collected in 1996 by baiting, aspirating flies from cactus rots in nature, and by collecting adults emerged from field-collected rots that were returned to the laboratory. The origins, number of founding adult flies, and other collecting information are described in Etges and Ahrens (2001), and locations are shown in Figure 1. For the QTL study, a population of D. mojavensis originated from 544 wild-caught adults collected from San Quintin, Baja California in 2003, and a multifemale stock collected in 2002 from Organ Pipe Natl. Monument, Arizona (Fig. 1) were obtained from T. Markow. All flies were mass reared on banana food (Brazner and Etges 1993) in 8 dr vials at room temperature until the experiments began.
+All populations of D. mojavensis in each of the three experiments were reared on fermenting agria and organ pipe cactus (see below). The 11 populations used for life-history analysis were cultured on cactus—four to five generations after the flies were collected. The population crosses were initiated 36 months later in a replicated set of mass crosses between two Baja California and two mainland populations, that is, Santiago, Baja California Sur × El Fuerte, Sinaloa and Punta Prieta, Baja California × Rancho Diamante, Sonora (Fig. 1). All generations including P1 , P2 , reciprocal F1s, F2, and both F1 and F2 backcrosses were reared in replicate agria and organ pipe cactus cultures at the same time, but the preliminary crosses necessary to generate these cactus reared flies were reared beforehand on laboratory food in five-replicate 8 dr vials. Each culture vial was initiated with approximately 30 mature, virgin males and females that were allowed to mate and oviposit for two to three days before the adults were transferred to fresh food: three replicate vials were cultured before the adults were discarded. The reciprocal F1 adults were pooled to generate the F2 generation in each cross.
+To assess QTLs, parental populations from San Quintin and Organ Pipe National Monument (Fig. 1) were inbred by pair
+GENETICS OF DEVELOPMENT TIME AND REPRODUCTIVE ISOLATION
+ EVOLUTION DECEMBER2010 3551
+
+         WILLIAM J. ETGES ET AL.
+ Figure 1. Map of the Sonoran Desert and locations of the study populations of D. mojavensis. The populations connected by dashed lines were used in the line cross analyses, and the dotted line indicates the two populations used in the QTL cross.
+mating for five generations before the crosses began (Etges et al. 2007, 2009). The population from San Quintin, Baja California had been previously subjected to multiple pair matings to create multiple homokaryotypic lines. Both populations were homokaryotypic for the La Paz (q5) gene arrangement on chromosome II and the Standard gene arrangement on chromosome III (Ruiz et al. 1990). A series of mass reciprocal crosses were then performed to produce cactus-reared F2 adults for genotyping. Because the QTL study was designed primarily to assess the genetic basis of courtship songs and epicuticular hydrocarbons, only males were used.
+Cactus cultures for all three studies were set up in plugged half-pint bottles containing 75 g of aquarium gravel covered with a 5.5-cm-diameter piece of filter paper. Bottles were then autoclaved, and after 60 g of either agria or organ pipe tissues were in
+place, autoclaved again for 10 min. All cactus tissues originated from Punta Onah, Sonora. After cooling to room temperature, each culture was inoculated with 0.5 mL of a pectolytic bacterium, Erwinia cacticida (Alcorn et al. 1991) and 1.0 mL of a mixture of seven yeast species common in natural agria and organ pipe rots (Starmer 1982): Dipodascus starmeri, Candida sonorensis, Starmera amethionina, Candida valida, Pichia cactophila, Pichia mexicana and Sporopachydermia cereana. For each of the three experiments, eggs were collected from replicate sets of aged adults (usually 200–300) for 10 h and washed in deionized water, 70% ethanol, and again in sterile deionized water. Eggs were counted out in groups of 250 (200 for the QTL study), transferred to a 1 cm2 piece of sterilized filter paper, and placed on fermenting cactus in an incubator programmed at 27◦C during the day and 17◦C at night on a 14:10 LD cycle. All unhatched eggs were
+ 3552 EVOLUTION DECEMBER2010
+
+         counted to allow calculation of egg-to-adult viability. Eclosed adults from each replicate culture were counted daily allowing determination of egg-to-adult DEVT, separated by sex, and aged until sexually mature (12–14 days) on banana food in vials in the incubator described above (QTL study) or at room temperature. Male courtship songs and cuticular hydrocarbon profiles were then determined as described in Etges et al. (2007, 2009).
+DNA was extracted from each male using a Puregene DNA isolation kit (Gentra Systems, Inc., Minneapolis, MN) and frozen at −80◦C. DNA samples were genotyped for 21 microsatellite markers. Even after inbreeding, extensive allelic variation was apparent within the lines, and sometimes there were alleles shared between the two lines for some of the markers used. Thus we only scored those individuals that had alleles unambiguously derived from a particular parental line and some genotypes were unscoreable causing missing data at some loci. Of the 21 markers, 16 of the 90 microsatellites developed by Staten et al. (2004) were used, and another 15 were developed for this study (Table S1) but not all were useable. One was designed on the fifth chromosome (Dmoj5200b) near a previously described microsatellite (Dmoj5200; Staten et al. 2004), and four other markers were designed using the D. mojavensis genome assembly (Gilbert 2007) to be near candidate genes (all <15 kb away) affecting CHC profile or courtship song (Dmoj2_2868a is near slowpoke, Dmoj2_6540c is near fruitless, Dmoj2_1603a is near desat1 and desat2 (6781 bp apart), and Dmoj5_1232a is near croaker).
+PCR was performed in 10 μL reactions containing 0.5– 1.0 μL of fly DNA preparation, using the following touchdown cycling protocol: 1 min 95◦ C, 3 × (95◦ C-30 s, 56◦ C-30 s, 72◦ C30 s), 3 × (95◦C-30 s, 53◦C-30 s, 72◦C-30 s), 30 × (95◦C -30 s, 50◦ C-30 s, 72◦ C-30 s) (Palumbi 1996). Products were visualized on polyacrylamide gels using a LiCor DNA analyzer (Li-Cor Biosciences, Lincoln, NE). Genotypes were scored manually and entered into Microsoft Excel.
+Data analysis
+DEVT was measured in days, and viability was calculated as the number of eclosed adults divided by the number of counted eggs that hatched. Variation in DEVT and VIAB was assessed in nested analyses of variance (ANOVAs) based on culture bottle means with populations nested within regions using PROC GLM in SAS (SAS-Institute 2004). Viability data were arcsine-transformed and DEVT data were log10 transformed prior to analysis.
+DEVT and viability from each of the population crosses were fitted to a genetic model using linear mixed model ANOVAs (Schall 1991) to assess the significance of genetic and ecological components of the data in Genstat (Genstat5-Committee 1993). The models contained fixed terms representing the genetic effects
+from these crosses including the effect of cactus as well as all crossed effects (Table 1). VIAB was analyzed with a binomial model with the number of surviving adults as the response variable. Because male DEVT in D. mojavensis is longer than that of females (Etges 1993, and see Results), these data were analyzed separately for males and females.
+Crossover rates were very high (Staten et al. 2004), and as a result, only two loci (Dmoj2010 and Dmoj2030) were found to be linked in our QTL study, separated by 29.1 cM as revealed by MapMaker (Lander et al. 1987). Therefore, Interval Mapping and related methods implemented by QTL Cartographer (Basten et al. 1999) were not possible. We performed single marker regressions for egg-to-adult DEVT (SAS-Institute 2004) to detect significant QTL using the 21 microsatellite markers distributed over all five chromosomes. Additive models included locus as a covariate, cactus type, and their interaction, as well as all locus × locus interactions to detect epistasis after sequential Bonferroni correction for all single-locus models. It is possible that we overestimated the number of QTLs due to linkage between markers, but the fact that the markers segregated independently suggests this was not a major problem. Because a series of reciprocal crosses were cultured on both host cacti to produce adequate numbers of adult F2 flies, we also added “reciprocal cross” as a fixed effect in the model: this had no effect on detecting locus, cactus, or their interaction for any marker. We used Orr’s sign test for QTL effects on DEVT to determine whether we could reject genetic drift as an explanation for population differentiation in this phenotype based on the “direction” of allelic effects for all detected QTL (Orr 1998).
+Lastly, we assessed covariation in DEVT and CHC variation in the F2 males from the QTL study using ANOVA and regression analysis in SAS (SAS-Institute 2004). DEVTs of all flies in the QTL study were recorded (as described above for previous analyses), and we included adult males from each day of eclosion from the cactus cultures for courtship song recording, CHC analysis, and microsatellite genotyping (see above). We used CHC Principal Components as response variables in mixed model ANOVAs as in Etges et al. (2009) with cactus, reciprocal cross, and exposure to females as fixed effects and DEVT as a covariate. “Female exposure” was a direct comparison between virgin males reared together in small groups versus males that were used in mate choice tests and courtship song recording trials in which they were exposed to females (Etges et al. 2007, 2009). We tested the null hypothesis that there was no relationship between egg-toadult DEVT and adult CHC variation. We were also interested in explaining differences in CHC expression in flies of different DEVTs due to cactus and female exposure by assessing heterogeneities in slopes revealed by DEVT × cactus and DEVT × female exposure interaction terms.
+GENETICS OF DEVELOPMENT TIME AND REPRODUCTIVE ISOLATION
+ EVOLUTION DECEMBER2010 3553
+
+         WILLIAM J. ETGES ET AL.
+Table 1. Average genetic effects used in the mixed model ANOVAs for (A) egg-to-adult viability (sexes pooled) and (B) egg-to-adult development time (DEVT, sexes analyzed separately). For each cross, females are listed first.
+ Cross
+A.
+Autosomes X chromosome1
+1 1
+0 0 0.5 0.75 0.5 0.25 0.5 0.5 0.75 0.5 0.25 0.5 0.75 0.5 0.25 0.5
+1 1
+0 0 0.5 1 0.5 0 0.5 0.5 0.75 0.5 0.25 0.5 0.75 0.5 0.25 0.5
+Y chromosome
+1
+0
+0 1 0.5 1
+0 1 0
+12 02 02 12 0.52 12 02 12 02
+Autosomal dominance Cytoplasm
+0 1
+0 0
+1 1 1 0 0.5 0.5 0.5 1 0.5 1 0.5 1 0.5 1
+0 1
+0 0
+1 1
+1 0 0.5 0.5 0.5 1 0.5 1 0.5 1 0.5 1
+      B.
+B×B
+M×M B×MF1 M×BF1 Pooled F2 B×M F1×B B×M F1×M B×M F2×B B×M F2×M
+B×B
+M×M
+B×M F1 M×B F1 Pooled F2 B×M F1×B B×M F1×M B×M F2×B B×M F2×M
+      1X chromosome and autosomal effects for female DEVT are the same, so only male effects are listed. 2Not included in analysis of female DEVT.
+Results
+LIFE-HISTORY VARIATION
+Populations of D. mojavensis from Baja California expressed shorter egg-to-adult DEVTs (and smaller thorax sizes, see Etges and Ahrens 2001) than those from mainland Mexico, consistent with all previous studies (Etges 1989b, 1990, 1998). A total of 8583 adults from 88 cactus cultures were scored. Organ pipe cactus tissues caused increases in DEVT versus agria, particularly in some populations leading to a significant Cactus X Population interaction (Fig. 2A, Table 2). Males expressed longer DEVT than females, but this difference was larger in Baja California (15.48 > 15.08 days, P < 0.0001) than the mainland (16.73 > 16.52 days, P = 0.07) leading to a significant Sex X Region interaction (P = 0.018). A significant Cactus X Region interaction for VIAB resulted from relatively higher viabilities of mainland populations reared on organ pipe tissues and Baja populations reared on agria tissues (Fig. 2B), the hosts used in nature except in Punta Onah. These mainland flies use agria cactus because this area contains a dense concentration of agria cacti (Heed 1978) and these rots are preferred for feeding and oviposition (Downing 1985; Newby and Etges 1998). Despite using agria in Punta Onah, this population showed the highest VIAB on organ pipe cactus than any of the other populations (Fig. 2B). This Cactus X Region interac-
+tion term for VIAB is further evidence for host plant adaptation (Jaenike 1981), first proposed for a smaller number of populations (Etges 1990).
+GENETICAL ANALYSIS OF POPULATION CROSSES
+The nature of genetic differences for both DEVT and VIAB varied considerably between the two replicate population crosses (Tables 3 and 4), and both were strongly influenced by host cactus (Figs. 3A, B). A total of 11,717 cactus-reared adults were scored for DEVT and VIAB for both crosses. Inclusion of Y chromosome effects on male DEVT caused GenStat (Genstat5Committee 1993) to terminate due to matrix singularities, so this factor was deleted from the model. Female X chromosome effects were the same as those for autosomes (Table 1), so they could not be disentangled from additive autosomal effects. Organ pipe cactus and cytoplasm × cactus interactions caused significant increases in DEVT of one to three days (see effect sizes, Table 3). Shorter DEVT in Baja populations (Fig. 2A) was influenced by additive autosomal effects, but these were not significant in the PP × RD cross. Differences in DEVT between the parental populations were much greater between Santiago (SO) and El Fuerte (EF) than Punta Prieta (PP) and Rancho Diamante (RD), and were associated with significant autosomal × cactus interaction terms
+ 3554 EVOLUTION DECEMBER2010
+
+         GENETICS OF DEVELOPMENT TIME AND REPRODUCTIVE ISOLATION
+ Figure 2. (A) DEVT differences among the 11 populations in the common garden experiment expressed as deviations from the grand mean for all populations. AG = agria cactus, OP = organ pipe cactus. Abbreviated population labels (see Fig. 1) are: PP = Punta Prieta, SR = Santa Rosalia, BC = Bahia de Concepcion, SA = San Agustin, TS = Todos Santos, SO = Santiago, PO = Punta Onah, RD = Rancho Diamante, PA = Puerto Arturo, LB = Las Bocas, EF = El Fuerte. (B) Egg-to-adult viability differences in the populations from the common garden study expressed as deviations from the grand mean for all populations. Inset: means for all Baja and mainland populations on both host cacti showing the nature of the Region × Cactus interaction for viability.
+in the PP × RD cross (Fig. 3A), as well as X chromosome × cactus interaction terms (Table 3). Although there was not much apparent difference between male and female DEVT within each cross (Fig. 3A), several of the genetic, cytoplasmic, and crossed effects were sex specific (Table 3A). DEVT differences in the SO × EF cross were influenced by additive (autosomal), dominance, X chromosome, cytoplasmic (males only), autosomal × cactus (males only), and cytoplasm × cactus interactions. Thus, genetic, maternal, and environmental influences on DEVT differ-
+ences between the SO and EF populations were larger and more complex than those in the PP × RD cross suggesting that the more geographically isolated southern Baja California (SO) and Sinaloan (EF) populations of D. mojavensis may be more sensitive to rearing environment differences than PP and RD populations (Fig 1, Table 3).
+Organ pipe cactus also reduced egg-to-adult VIAB in both crosses (Table 4). Although VIAB of SO D. mojavensis was more sensitive to host cactus effects than EF D. mojavensis (Fig. 3B),
+ EVOLUTION DECEMBER2010 3555
+
+         WILLIAM J. ETGES ET AL.
+Ta b l e 2 . Nested ANOVA results for (A) egg-to-adult development time (DEVT) and (B) viability among the 11 populations of D. mojavensis cultured on agria and organ pipe cactus substrates in this study.
+ Source of variation df
+A. log10 (Egg-to-adult DEVT)
+1. Region 1 2. Pop (Region) 9 3. Cactus 1 4. Cactus×Region 1 5. Cactus×Pop (Region)2 9 6. Sex 1 7. Sex×Region 1 8. Sex×Cactus 1 9. Sex×Cactus×Region 1
+10. Sex×Pop (Region) 9 11. Error 53
+B. arcsine (Egg-to-adult viability)
+1. Region 1 2. Pop (Region)2 9 3. Cactus 1 4. Cactus×Region 1 5. Cactus×Pop (Region) 9 6. Error 22
+Type III SS
+0.0293 0.0033 0.0130 0.0001 0.0055 0.0016 0.0002 0.0000 0.0000 0.0002 0.0030
+0.0000 0.1864 0.0031 0.0978 0.0135 0.4430
+Mean square ratio1
+1/2 2/5 3/5 4/5 5/11 6/10 7/10 8/11 9/11 10/11
+1/2 2/5 3/5 4/5 5/6
+F value Pr>F 79.49 0.0001
+0.64 ns 21.47 0.0012
+0.17 ns 10.78 0.0001 69.10 0.0001
+8.40 0.018 0.00 ns 0.39 ns 0.41 ns
+0.00 ns 1.39 ns 0.23 ns 7.27 0.025 0.67 ns
+           1The mean square ratio used for calculating F ratios. Numbers refer to the listed sources of variation. 2Pop (Region) refers to populations nested within region.
+none of the interaction terms involving cactus in the SO × EF cross were significant (Table 4). However, higher VIAB was significantly influenced by autosomal dominance and X chromosome effects. All of the F1, F2, and backcross generations expressed X chromosome effects equivalent to the parental SO population indicating Baja X chromosomes increased VIAB in this cross (F = 9.51, P = 0.005; Fig. S1). In the PP × RD cross, VIAB was increased by cytoplasmic and autosomal × cactus effects, but significantly decreased by the X chromosome × cactus interaction (Table 4). The latter result was caused by the overall lower VIAB of the PP parental generation in relation to the other cross generations (Fig. 3B). Further, VIAB of most of the F1, F2, and backcross generations, particularly when cultured on agria cactus, was significantly higher than either parental population indicating environment-dependent overdominance for fitness in both crosses.
+QTL RESULTS
+We detected eight QTL distributed across all five chromosomes associated with population differences in male DEVT (Table 5). These population differences are consistent with the regional, Baja California-mainland shift in DEVT revealed across the range of D. mojavensis (Table 2, Fig. 2A). However, two of these QTL, near Dmoj4300 and Dmoj5_1232a, showed Baja California alleles were associated with longer male DEVT in contrast with
+the six other QTL and the regional differences. We could not reject neutrality to explain the consistent differences in six of eight QTL effects using Orr’s (1998) sign test, assuming exponential effects of all QTL and a range of values for heterozygous effects (if all eight QTL effects had been consistent in direction, the neutral model was rejected, P < 0.01). Thus, the majority of detected QTL showed genotypic differences consistent with the shorter Baja California versus longer mainland differences in DEVT ( Figs. 2A and 3A), but the probability that mainland alleles at all six QTL were associated with longer DEVT than Baja alleles for reasons other than random chance was not statistically significant as determined by this test. However, the mean phenotypic difference in male DEVT across these QTL was just 0.14 day versus a mean difference of 1.25 days based on the 11 populations in the common garden experiment (Fig. 2A). Thus, DEVT differences revealed in this QTL cross were not as large as the regional mainland versus Baja California differences in male DEVT.
+The main effect of host cactus across the genome was very uniform— organ pipe cactus caused longer male DEVT than agria for all QTL except DmojX030 (Table 5). Further, mainland alleles (MM, MB) were associated with relatively longer DEVT than Baja California alleles on organ pipe versus agria cactus leading to 8 G × E interactions (Table 5, Fig. 4). On agria cactus, differences in male DEVTs were equivalent or slightly increased for Baja
+ 3556 EVOLUTION DECEMBER2010
+
+         GENETICS OF DEVELOPMENT TIME AND REPRODUCTIVE ISOLATION
+Table 3. Results of the linear mixed model analysis of the fixed genetic and nongenetic effects influencing egg-to-adult development time (DEVT) in both population crosses of D. mojavensis.
+ A. Santiago×El Fuerte (Baja×Mainland)
+ Fixed term
+Females
+Males
+Effect size±1 SE
+2.935±0.06 −0.932±0.19 −0.967±0.09 −0.622±0.18 −0.577±0.14 −2.735±0.28 −0.223±0.26
+2.126±0.20 Males
+Effect size±1 SE 2.531±0.05
+−0.166±0.15 0.025±0.08 −0.858±0.15 0.363±0.14 0.171±0.22 2.011±0.28 0.072±0.21
+  Effect size1±1 SE Cactus 2.708±0.06
+F
+2122.32
+458.56
+106.33 –
+0.02
+0.15 –
+P
+<0.001 <0.001 <0.001
+– 0.876 0.697 –
+<0.001 (Baja×Mainland)
+P
+<0.001 0.135 <0.001
+– <0.001
+<0.001 –
+<0.001
+F
+2398.56
+417.77 110.14 11.52 21.76 11.78 0.71 114.75
+F
+2388.15
+0.11 0.01 0.60
+15.60 0.59 113.78 0.12
+P
+<0.001 <0.001 <0.001 <0.001 <0.001 <0.001
+0.339 <0.001
+P
+<0.001 0.740 0.922 0.438 <0.001 0.442 <0.001 0.730
+  Autosomes
+Dominance
+X chromosome2 Cytoplasm Autosomes×Cactus
+X chromosome×Cactus2 Cytoplasm×Cactus
+B.
+Fixed term Cactus
+−1.402±0.19 −0.927±0.10
+– −1.025±0.12 −2.183±0.29
+– 2.067±0.17
+   152.00 Punta Prieta×Rancho Diamante
+ Females
+Effect size1±1 SE
+F
+2099.41
+    Autosomes
+Dominance
+X chromosome2
+Cytoplasm
+Autosomes×Cactus 1.499±0.22
+X chromosome×Cactus2 – – Cytoplasm×Cactus 1.132±0.18
+Effect size±1 SE Cactus −0.597±0.19
+Autosomes 2.573±4.24 Dominance 1.811±0.35 X chromosome 0.177±2.34 Y chromosome −1.968±1.80 Cytoplasm 0.670±0.59 Autosomes×Cactus 0.002±1.18 X chromosome×Cactus 0.019±1.26 Cytoplasm×Cactus −1.105±0.66
+1All with 1/26 df. 2All with 1/25 df.
+F1 P 5.93 0.022
+3.75 0.064 27.48 <0.001 9.51 0.005 2.43 0.131 0.04 0.842 3.97 0.057 0.24 0.630 2.78 0.108
+Effect size±1 SE −1.294±0.27
+0.697±3.53
+0.272±0.32 −2.437±2.54 −0.624±1.38
+2.031±0.88
+3.612±1.60 −2.277±2.29 −0.794±1.06
+F2 P 20.37 <0.001
+1.02 0.323 0.21 0.654 1.07 0.310 0.79 0.384 8.88 0.006 5.13 0.032 5.79 0.024 0.56 0.461
+2.530±0.06 −1.125±0.15 −0.292±0.09
+ – −0.125±0.10
+2.24 14.92
+–
+29.40
+128.89 55.26
+   1Effect sizes for cactus are expressed as organ pipe relative to agria, that is, organ pipe cactus increased DEVTs, and for genetic effects, the Baja population relative to the mainland population.
+2 Because X chromosomes are inherited like autosomes in females, the additive “autosome” effects include the effects of the X chromosomes.
+Table 4. Results of the binomial linear mixed model analysis of the fixed genetic and nongenetic effects influencing egg-to-adult viability in both population crosses of D. mojavensis.
+ Fixed term
+Santiago×El Fuerte (Baja×Mainland)
+P. Prieta×R. Diamante (Baja×Mainland)
+         EVOLUTION DECEMBER2010 3557
+
+         WILLIAM J. ETGES ET AL.
+ Figure 3. (A) Line cross generation mean DEVT (±1 SE) for both crosses cultured on agria and organ pipe cactus. The dotted lines connect the parentals in each cross and their respective F2 generations. Arrows indicate F1 generations cultured on both cacti, and the F1 backcross generations are labeled for clarity. (B) Line cross generation mean egg-to-adult viability (±1 SE) for both crosses cultured on agria and organ pipe cactus.
+ 3558 EVOLUTION DECEMBER2010
+
+         GENETICS OF DEVELOPMENT TIME AND REPRODUCTIVE ISOLATION
+Table 5. Single locus ANOVA results for log10(egg-to-adult development) time showing the significance of the main effects of locus (as a covariate), cactus, and locus by cactus (G×E) interactions. Sample sizes, n, for each locus are indicated. Least square mean genotypic differences (M=mainland, B=Baja) are indicated for each locus. Significant effects after sequential Bonferroni correction are indicated in bold.
+ Locus
+DmojX010
+DmojX030
+DmojX090
+DmojX110
+Dmoj2010
+Dmoj2030
+Dmoj2200
+Dmoj2_2868a
+Dmoj2_1603a
+Dmoj2_6540c
+Dmoj3030
+Dmoj3100
+Dmoj3101
+Dmoj4010
+Dmoj4050
+Dmoj4300
+n
+1254
+836
+1190
+1471
+1399
+1337
+1085
+1328
+1396
+1278
+1218
+1166
+357
+1328
+217
+896
+Effect
+Locus
+Cactus
+Locus×Cactus
+Locus (M>B)
+Cactus
+Locus×Cactus
+Locus
+Cactus
+Locus×Cactus
+Locus
+Cactus
+Locus×Cactus
+Locus (MM>MB, BB) Cactus
+Locus×Cactus
+Locus
+Cactus
+Locus×Cactus
+Locus
+Cactus
+Locus×Cactus
+Locus
+Cactus
+Locus×Cactus
+Locus
+Cactus
+Locus×Cactus
+Locus (MM, MB>BB) Cactus
+Locus×Cactus
+Locus (MM>MB, BB) Cactus
+Locus×Cactus
+Locus
+Cactus
+Locus×Cactus
+Locus
+Cactus
+Locus×Cactus
+Locus
+Cactus
+Locus×Cactus
+Locus
+Cactus
+Locus×Cactus
+Locus (MM<MB<BB) Cactus
+Locus×Cactus
+Type III sums of squares
+0.0007
+0.0115 0.0423 0.0170 0.0030 0.0017 0.0034 0.0744 0.0007 0.0020 0.0710 0.0000 0.0077 0.0851 0.0033 0.0013 0.0221 0.0037 0.0000 0.0842 0.0059 0.0000 0.0916 0.0050 0.0001 0.0417 0.0043 0.0484 0.1136 0.0028 0.0132 0.1377 0.0239 0.0005 0.1309 0.0239 0.0001 0.0108 0.0003 0.0049 0.1432 0.0164 0.0040 0.0759 0.0000 0.0510 0.0494 0.0045
+F
+8.33 30.76 14.98
+2.64 1.47 2.61
+57.12 0.56 1.44 51.50 0.00 5.34 58.77 2.30 0.92 15.21 2.56 0.01 58.76 4.12 0.00 69.04 3.79 0.07 29.88 3.10 34.82 81.73 1.99 8.58 89.83 15.57 0.30 87.96 16.04 0.08 10.65 2.76 3.54 103.26 11.81 2.90 54.76 0.01 36.02 34.93 3.17
+P
+0.483
+0.004 <0.0001 <0.0001
+0.105 0.225 0.106
+<0.0001 0.453 0.230
+<0.0001 0.972 0.021
+<0.0001 0.129 0.337
+0.0001
+0.110
+0.943
+<0.0001 0.043 0.947
+<0.0001 0.052 0.795
+<0.0001 0.078 <0.0001
+<0.0001 0.159 0.004
+<0.0001 <0.0001 0.583 <0.0001 <0.0001
+0.781
+0.001
+0.097
+0.060
+<0.0001 0.0006
+0.090
+<0.0001 0.905 <0.0001
+<0.0001 0.076
+ 0.49
+                         Continued.
+ EVOLUTION DECEMBER 2010
+3559
+
+         WILLIAM J. ETGES ET AL.
+Ta b l e 5 . Continued. Locus
+n
+Effect
+Locus
+Cactus
+Locus×Cactus
+Locus
+Cactus
+Locus×Cactus
+Locus (MM<MB, BB) Cactus
+Locus×Cactus
+Locus (MM, MB>BB) Cactus
+Locus×Cactus
+Locus (MM>MB, BB) Cactus
+Locus×Cactus
+Type III sums of squares FP
+  Dmoj4301 863
+Dmoj4302 1046
+Dmoj5_1232a 1411
+Dmoj5100 945
+Dmoj5200b 979
+0.0046 2.89
+0.0404 25.25 0.0006 0.36 0.0004 0.22 0.1087 68.51 0.0204 12.83 0.0096 6.95 0.0629 45.32 0.0005 0.32 0.0157 11.12 0.1214 86.27 0.0241 17.13 0.0067 5.03 0.1011 76.25 0.0109 8.23
+0.090
+<0.0001 0.551 0.637
+<0.0001 0.0004 0.0085 <0.0001
+0.570
+0.0009 <0.0001 <0.0001
+0.0251 <0.0001 0.0042
+        genotypes consistent with most of the population-level differences (Fig. 2A). The exception was X linked DmojX010 in which Baja genotypes expressed longer DEVT on organ pipe cactus and relatively shorter DEVT on agria (Fig. 4). Only three of eight QTL that influenced DEVT variation also showed G × E interactions indicating that most DEVT QTL were insensitive to rearing substrates differences. These three G × E interactions involving Dmoj3030, Dmoj5100, and Dmoj5200b all showed mainland genotypes associated with longer male DEVT on organ pipe cactus with little genotypic variation on agria (Fig. 4). Thus, Baja genotypes tended to be more homeostatic than mainland genotypes, particularly on agria cactus consistent with previous population results (Etges 1989b). Three QTL near Dmoj3100, Domoj4010, and Dmoj4302 caused longer DEVT associated with Baja genotypes (BB) reared on agria revealing interlocus heterogeneity for DEVT in Baja California populations.
+We chose four of the most significant loci from the singlelocus regressions to test for additive locus × locus interactions, as well as multiple locus interactions with cactus in a full-factorial model. We included cytotype or cross effects as in the single-locus models because we employed reciprocal crosses throughout the experiment and many times this effect was significant, although it did not influence single marker QTL detection. Because of missing data, the number of genotypes in this model reduced sample sizes from n = 1688 to 299. Missing genotype values were estimated as the average for that locus to minimize bias (Etges et al. 2007). Using either the reduced (n = 299) or total data (n = 1688) set with cactus in a full-factorial ANOVA, epistasis was revealed by only one significant interaction term in both additive models— a four-way genotype interaction with cactus, i.e., DmojX030 × Dmoj2_6540c × Dmoj4300 × Dmoj5100 × cactus (F = 4.01, P=0.046,n=299;F=7.43,P=0.007,n=1688).The
+main effect of cactus was significant in the full model only (F = 5.51, P = 0.019) suggesting this effect was sample size dependent for these genomic regions. When cytotype was added to the model, only one interaction was significant in the reduced model, DmojX030 × Dmoj4300 × cactus × cytotype (F = 4.23, P = 0.041) and two interactions were significant in the full model, DmojX030 × Dmoj4300 × cytotype (F = 4.03, P = 0.045) and Dmoj4300 × Dmoj2_6540c × cactus × cytotype (F = 5.26, P = 0.022). Thus, significant multiple locus epistasis was detected as expected for a quantitative trait such as DEVT, but its significance was always dependent on cactus rearing substrates and/or maternal/cytotype effects, revealing a complex multilocus and environmentally sensitive architecture for this component of fitness.
+COVARIATION OF DEVT AND EPICUTICULAR HYDROCARBON PROFILES
+Egg-to-adult DEVT significantly influenced hydrocarbon amounts of the F2 males in the QTL study (Table 6, Fig. S2). The main effect of cactus was also significant, but not female cytotype or exposure to females. In an attempt to equalize sample sizes for each day of DEVT for statistical testing, day 14 adults (four) were pooled with day 15 adults and all adults that eclosed on day 21 or later (33 adults) were pooled with day 20 adults resulting in six groups of flies, day 15 to 20, for CHC analysis. Adult age when CHCs were extracted had no significant effect on CHC amounts (Etges et al. 2009). A significant DEVT × female exposure interaction demonstrated that DEVT influenced adult hydrocarbon amounts differently in virgin males versus those exposed to females (both F2 virgins and males exposed to females in mating trials and courtship song recording were genotyped in this QTL study—see Etges et al. 2007). Variation in CHCs across different DEVT in virgin males was often curvilinear (Fig. S2),
+ 3560 EVOLUTION DECEMBER2010
+
+         GENETICS OF DEVELOPMENT TIME AND REPRODUCTIVE ISOLATION
+ Figure 4. Genotypic least square means (+1 SE) for the eight QTL involved in G × E interactions for egg-to-adult DEVT. Letters above each bar indicate significant differences among means (P < 0.05). M and B refer to mainland and Baja alleles, respectively.
+so we performed both linear and quadratic regressions on each hydrocarbon components to investigate these differences in male CHCs. Regression analyses with cactus substrates segregated are available from the first author. For most of the individual CHCs, curvilinear regressions on DEVT for virgin males were significant, and most CHCs of exposed males were heterogeneous across
+DEVTs, but showed nonsignificant linear and/or quadratic regression slopes (Table S2 and Fig. S3). Many of the individual CHCs also showed significant DEVT × female exposure interactions (results not shown), indicating differences in CHC amounts influenced by DEVT were significantly different between virgin and exposed males. For most CHCs, this interaction was due to
+ EVOLUTION DECEMBER2010 3561
+
+         WILLIAM J. ETGES ET AL.
+Table 6. ANOVA results for total hydrocarbons/fly showing the influences of egg-to-adult development time (log10DEVT) as a covariate, cactus rearing substrates, reciprocal cross effects (cytotype), and exposure to females. See text for details.
+ Source df
+DEVT 5
+Cactus 1 Cytotype 1 Female exposure 1 Cactus×DEVT 5 Cactus×Cytotype 1 Cytotype×DEVT 5 Cytotype×Fem. exp. 1 Cactus×Fem. exp. 1 DEVT×Fem. exp. 5 DEVT×Cactus×Fem. exp. 5 DEVT×Cactus×Cyto×Fem. exp. 16
+Type III SS
+6409697.07
+4414356.05 221951.79 6985.81 3245598.41 32687.67 2486860.79 1158402.59 30555.17 5543887.20 3821799.75 14976560.50
+Mean square
+1,281,939.41
+4,414,356.05 221,951.79 6985.81 649,119.68 32,687.67 497,372.16 1,158,402.59 30,555.17 1,108,777.44 764,359.95 936,035.03
+F value 4.06
+13.99 0.70 0.02 2.06 0.10 1.58 3.67 0.10 3.51 2.42 2.97
+P
+0.001
+0.0002
+0.402 0.882 0.068 0.748 0.164 0.056 0.755 0.004 0.034
+<0.0001
+        increased CHC amounts in the first days of eclosion in exposed males versus virgin males (Fig. S2 and S3).
+Mixed model ANOVAs were performed with the first five CHC Principal Components identified in Etges et al. (2009) to relate these DEVT effects on CHCs to predictors of courtship success. The five PCs accounted for 61.54%, 8.58%, 5.06%, 3.41%, and 3.05% of the variance, respectively, and PC 2 and PC 4 scores were significantly associated with increased male mating success. All CHCs were positively associated with PC 1 (Table S3), and DEVT was the only significant source of variation in the model for PC 1 (Table 7) showing again that differences in DEVT were a significant source of variation in adult CHC amounts (see Table 6) consistent with the phenotypic differences in CHC amounts between adults separated into “fast” versus “slow” DEVT groups
+described previously (W. J. Etges, unpubl. data). Exposure to females was a significant source of variation for PC 2, 3, and 5 while PC 2 and 3 were both influenced by DEVT × female exposure interactions (Table 7). Both PC 4 and 5 were influenced by cactus as well as cactus × DEVT interactions. Thus, variation in male CHCs encompassed by both PC 2 and 4 that determined significant differences in mating success (Etges et al. 2009) was also influenced by egg-to-adult DEVT, as well as and cactus rearing substrates and exposure to females.
+CO-LOCALIZATION OF DEVT AND HYDROCARBON QTL
+Of the eight QTL influencing DEVT (Table 5), four of these QTL also influenced variation in epicuticular hydrocarbons associated
+Ta b l e 7 . Mixed model ANOVA results for the effects of egg-to-adult development time (log10 DEVT), host cactus, reciprocal cross (cytotype), and whether males were exposed to females or not on cuticular hydrocarbon variation summarized by the first five CHC principal components from Etges et al. (2009) in this study. Significant effects are indicated in bold.
+ Effect
+DEVT
+Cactus
+Cytotype
+Female exposure DEVT×Cactus Cactus×Cytotype DEVT×Cytotype Cytotype×Fem exp Cactus×Fem exp DEVT×Fem. exp. DEVT×Cactus×Fem. exp. DEVT×Cactus×
+Cyto×Fem. exp.
+df
+PC 1 PC 2 PC3
+F Pr F Pr F
+PC4 PC5
+Pr F Pr F Pr
+      1/1635 26.17 1/1635 1.88 1/1635 0.04 1/1635 1.73 1/1635 1.47 1/1635 0.35 1/1635 0.01 1/1635 1.36 1/1635 0.38 1/1635 1.55 1/1635 0.52 3/1635 0.56
+<0.0001 0.34 0.170 0.12 0.847 6.04 0.188 10.01 0.226 0.20 0.553 1.35 0.942 6.87 0.243 1.78 0.535 0.32 0.214 10.47 0.471 0.39 0.642 1.07
+0.557 1.71
+0.725 0.00 0.014 2.61 0.002 4.45 0.656 0.00 0.245 0.81 0.009 2.25 0.182 0.01 0.572 3.40 0.001 4.13 0.533 3.31 0.363 0.33
+0.191 11.96 0.959 20.11 0.107 0.62 0.035 0.46 0.949 20.13 0.368 0.13 0.134 0.84 0.903 0.04 0.066 5.74 0.042 1.23 0.069 6.15 0.801 1.70
+0.0006 0.01 <0.0001 20.80 0.431 1.71 0.497 8.31 <0.0001 21.37 0.720 0.36 0.358 1.84 0.845 2.68 0.017 9.25 0.267 6.75 0.013 8.68 0.165 3.43
+0.935
+<0.0001 0.191 0.004
+<0.0001 0.547 0.175 0.102 0.002 0.009 0.003 0.017
+       3562 EVOLUTION DECEMBER2010
+
+         with courtship success, that is, PC 2 and 4 (Fig. 5). These were Dmoj2_6540c (near fruitless), Dmoj2010, Dmoj3030, and Dmoj4300. Such QTL effects on multiple phenotypes cannot distinguish between the effects of pleiotropy or linked genes given the low resolution of our genetic map. The common effects of these genomic regions were evaluated by assessing the least square mean rankings of the genotypes (MM, MB, BB) for DEVT (see Table 5) and hydrocarbon PC differences (see Table 6 in Etges et al. 2009). Of these four QTL, the genotypic rankings for both DEVT and hydrocarbon PC differences were positively correlated (r = 0.588, P = 0.022, n = 15), with mainland alleles associated with longer DEVT and higher hydrocarbon PC 2 and 4 scores than Baja alleles, except for Dmoj4300 (Fig. 6). Dmoj2_6540c mainland alleles were dominant over B alleles for longer DEVT and higher hydrocarbon PC 2 and 4 scores, and Dmoj3030 M alleles were dominant to B alleles for higher hydrocarbon PC 4 scores, but not DEVT. Conversely, Dmoj2010 Baja alleles were dominant to M alleles for shorter DEVT and lower hydrocarbon PC 4 scores. Three other QTL influenced G × E interactions for DEVT and/or CHCs with cactus, that is, DmojX010, Dmoj2200, and Dmoj5200b (Fig. 5). Because some of these QTL also showed evidence of epistatic effects for DEVT (Dmoj6540c and Dmoj4300, see above), these manifold effects on CHC variation were also expressed in an epistatic background. Thus, there were multiple regions of the D. mojavensis genome that influenced variation in both male DEVT and correlated groups of CHCs (Fig. 6).
+Because of this significant positive genetic correlation, males with longer DEVT had higher CHC PC 2 and 4 scores that lead to higher mating success with mainland females (Etges et al. 2009). Although adjacent candidate genes cannot be definitively implicated as determinants of detected QTL effects such as those
+associated with Dmoj2_6540c, they will be useful for future study. For example, the genomic region marked by Dmoj2_1603a near CHC candidate genes desat1 and desat2 was significantly associated with CHC PC 2, 4, and 5 scores, and was the only QTL that directly influenced mating success (Etges et al. 2007), but this QTL did not influence DEVT (Fig. 5). We anticipate that these genomic regions will serve as excellent candidates for finer scale dissection of the genetic basis of the correlation between this lifehistory trait and CHC-mediated sexual isolation, and perhaps the correlated response to artificial selection on DEVT revealed in Etges (1998).
+Figure 6. The positive relationship between egg-to-adult DEVT and cuticular hydrocarbon (CHC) Principal Component (PC) scores based on genotypes of four significant QTL that influenced both traits. See text for details.
+GENETICS OF DEVELOPMENT TIME AND REPRODUCTIVE ISOLATION
+ Figure 5. QTL map showing co-localization of main and crossed effects for egg-to-adult DEVT and cuticular hydrocarbon (CHC) Principal Components (PC) using microsatellite marker placement from the D. mojavensis genome assembly (Gilbert 2007). Physical sizes of each chromosome are indicated in parentheses. Four markers were positioned near song and cuticular hydrocarbon candidate genes, that is, Dmoj2_2868a is near slowpoke, Dmoj2_6540c is near fruitless, Dmoj5_1232a is near croaker, and Dmoj2_1603a is near desat1 and desat2.
+  EVOLUTION DECEMBER2010 3563
+
+         WILLIAM J. ETGES ET AL.
+Discussion
+Differences in egg-to-adult DEVT were genetically correlated with variation in CHC profiles in male D. mojavensis, suggesting a previously neglected intrinsic determinant of pheromonemediated mate choice. As these DEVT differences have been implicated in adaptation to different host plants, the Baja to mainland Mexico transition from agria to organ pipe cacti suggests another example of possible ecological speciation. Life-history evolution, including DEVT and viability, was hypothesized to have resulted from larval versus adult environmental unpredictability differences in resource availability in populations that use agria versus organ pipe cactus (Etges 1989a, 1990). Although these partially reproductively isolated populations have started down independent paths toward speciation influenced by ecological diversification in allopatry, their evolutionary fate remains uncertain. Given the lack of postmating hybrid sterility in crosses between Baja and mainland populations (Etges 1990; Ruiz et al. 1990), these populations would likely fuse should they ever come into secondary contact.
+This is the first observation of a QTL-based genetic correlation between a life-history trait and adult CHCs responsible for sexual isolation between diverging populations. Genetic correlations based on common QTLs are known from a number of species (Gardner and Latta 2007) including phenotypic correlations among CHCs influenced by specific QTLs (Gleason et al. 2009). Although the number of detected QTL that influenced both DEVT and CHC variation is likely an underestimate (see Results), these results suggest genetic dissection of the four detected QTL (Fig. 6) will certainly reveal a much more complex basis of the genetic basis of the correlation between these traits. For example, a single pheromone QTL responsible for sexual isolation between two Heliothis moth species contained at least four odorant receptor genes (Gould et al. 2010). As Dmoj2_6540c was positioned near fruitless, further analysis of this gene region may be informative given the known effects of different fru alleles on male courtship behavior and volatile pheromone production (Greenspan and Ferveur 2000), although its effects on DEVT are not known in D. melanogaster, much less in D. mojavensis. Other linked genes in this region will also need to be identified. Nonetheless, further analysis of this genetic correlation should reveal an understanding of one of the central predictions of the allopatric speciation model, that is, how adaptive divergence in allopatry has caused premating reproductive isolation.
+DETERMINANTS OF CHC VARIATION
+Although environmental effects on adult CHCs due to different rearing substrates (Etges 1992; Brazner and Etges 1993; Stennett and Etges 1997; Etges et al. 2006b), temperature (Toolson and Kuper-Simbron 1989; Markow and Toolson 1990), and posteclo-
+sion “social” effects in which exposure to the opposite sex can cause rapid modulation in CHC profiles (Petfield et al. 2005; Kent et al. 2008; Krupp et al. 2008; Etges et al. 2009) have been documented, little is known of the precise mechanisms responsible for preadult influences on adult CHC expression (but see Kim et al. 2004; Etges et al. 2006b). As adult CHCs increase in abundance from eclosion to sexual maturity (Toolson et al. 1990), all CHC determination in D. mojavensis has been carried out with flies aged to maturity, usually 12–14 days, on laboratory food. Thus, preadult influences due to rearing substrates and DEVT differences are retained well past eclosion. Such ontogenetic influences of previous development stages on the next stage imply a causal link between larval/pupal experience and adult physiology and behavior expressed as a QTL-based genetic correlation, consistent with the correlated responses in sexual isolation to bidirectional artificial selection on DEVT (Etges 1998) and significant differences in CHC amounts between adults based on “fast” and “slow” DEVT (W. J. Etges, unpubl. data).
+It is often assumed that adult cuticular physiology and CHC modulation in response to different environmental factors are independent of preadult influences because after CHCs are manufactured from fatty acid precursors (de Renobales and Blomquist 1984; Pennanec’h et al. 1997), final deposition in the epicuticle depends on processing in oenocytes lining the interior of the abdomen (Wigglesworth 1988; Billeter et al. 2009; Shirangi et al. 2009; Wicker-Thomas et al. 2009). Although some larval lipids that could serve as adult CHC precursors persist through early adulthood in D. melanogaster, they are metabolized in a few days (Aguila et al. 2007). Other preadult influences on adult behavior include the genetic cascade involving the sex-determining genes transformer (tra), doublesex (dsx), and fruitless (fru) that have irreversible effects on sexual behavior after a critical period at the beginning of pupal formation (Arthur Jr. et al. 1998). Thus, how genetic differences in DEVT and other preadult environmental effects result in mating behavior and adult CHC differences need to be integrated with the known effects of these genetic programs on adult behavior.
+MERGING LEVELS OF GENE–ENVIRONMENT INTERACTIONS
+Our “top–down” approach to understanding ecologically mediated determinants of reproductive isolation has revealed multiple connections from population to genomic levels of variation, as well as how genetic variability is influenced by preadult conditions and interadult “social” interactions. Synthesizing a QTL approach to host plant adaptation and life-history evolution with CHC-based pheromone differences by integrating common garden experiment and biometrical genetic results of multiple populations of D. mojavensis has revealed the nature of genetic differences arising in the early stages of reproductive isolation. Thus,
+ 3564 EVOLUTION DECEMBER2010
+
+         these results have provided an integrated perspective into the genetics of allopatric speciation.
+First, genetic differences in life-history traits between Baja California and mainland Mexico populations of D. mojavensis were inferred to have resulted from host plant adaptation that enabled colonization of the mainland where organ pipe cactus is common, but agria is absent, except in the small coastal area including Punta Onah, Sonora (Heed 1978, 1981; Ruiz et al. 1990; Etges et al. 1999). Life-history traits including egg-to-adult DEVT and VIAB, adult thorax size, age at first reproduction, longevity, ovariole number, clutch size, and lifetime fecundity vary significantly between Baja California and mainland populations of D. mojavensis, and often in cactus-specific ways, that is, expressed as region or population × cactus interactions (Etges and Klassen 1989; Etges 1990; Etges and Heed 1992). Further, Etges (1990) reported positive associations between latitude and DEVT, as well as adult thorax size, for three mainland and four Baja populations, but these correlations were not always expressed in both rearing environments. Similarly for the 11 populations studied here, DEVT (males and females averaged) was positively correlated with latitude in agria-reared flies only (t = 2.55, P = 0.027), and VIAB showed a similar relationship in organ pipe-reared flies (t = 4.11. P = 0.003). Thus, latitudinal/climatic variation (see Etges et al. 1999) together with use of alternate host plants has shaped life histories across the species range as D. mojavensis colonized mainland Mexico.
+Second, the architecture of DEVT differences revealed in the line crosses between the two sets of Baja and mainland populations, as well as a portrait of the within-region population differences ( Figs. 2 and 3, Table 2) showed that most genetic effects in the Punta Prieta × Rancho Diamante cross were nonadditive for DEVT, with autosomal dominance for females and maternal (cytoplasmic) effects for both sexes being significant, as well as sexspecific interactions with cactus (Table 3). This was contrasted with significant autosomal (additive), and dominance effects for both sexes in the Santiago × El Fuerte cross, as well as an X chromosome effect for males. Cytoplasm × cactus interactions were significant for both sexes indicating that maternal effects on DEVT were also host cactus dependent suggesting considerable geographic variation in the genetic architecture of this component of fitness (Fig. 2). Baja X chromosomes significantly shortened male DEVT, but this effect was not significant in both crosses. The X chromosome × Cactus effect significantly increased DEVT in the PP × RD cross suggesting that Baja X chromosomes in this cross were responsible for longer DEVT when reared on organ pipe cactus. In both instances, the X chromosome had a significant effect on male DEVT differences between Baja and mainland populations, consistent with the effects of the X-linked QTL on DEVT (Table 5 and see below).
+Line cross effects for egg-to-adult VIAB differences were somewhat similar to those for DEVT, but nevertheless provided some insight into the genetic differences in VIAB between populations. In both crosses, the effect of cactus was to decrease VIAB when cultured on organ pipe, but VIAB was significantly higher due to Baja autosomal dominance and X chromosomes in the Santiago × El Fuerte cross (Table 4, Fig. S1). In contrast, Baja maternal effects increased VIAB as did the Autosome × Cactus interaction term in the Punta Prieta × Rancho Diamante cross, where agria cactus caused significantly higher VIAB than organ pipe in most of the cross generations (Fig. 3), suggesting that the genetic basis of Population × Cactus interactions from the common garden experiment (Fig. 2, Table 2) included additive, dominance, and additive X cactus effects. For both VIAB and DEVT, X chromosome influences were significant in both crosses as main or crossed effects suggesting a “large X effect” on shorter DEVT and higher VIAB of most populations when reared on agria cactus. Large X effects are likely to arise when advantageous genes show recessive effects, and dominance terms were often significant in our analyses (Tables 3 and 4).
+Third, the nature of the eight detected QTL and eight G × E interactions influencing male DEVT differences (Table 5, Fig. 5) was consistent with the common garden experiments, and to some extent, the line cross results. Three of the QTL involved in G × E interactions, that is, Dmoj3030, Dmoj5100, and Dmoj5200b also influenced DEVT directly, so there were 13 QTL across the genome associated with DEVT differences. However, the alignment of main QTL effects was not consistent enough to reject the null hypothesis of neutrality using Orr’s sign test (Orr 1998). This test will have low resolution due to the modest number of microsatellite markers used due to the difficulty in scoring mainland and Baja alleles (see Materials and Methods) limiting the number of detectable QTL, smaller QTL genotype differences in DEVT in the F2 males in this cross than the regional population differences (see Results), or experiment to experiment variation. Given the number of the G × E interactions for DEVT, assessing the consistency of just the main effects of DEVT QTL as a test for natural selection may limit the assessment of the adaptive nature of these DEVT differences.
+Most of the QTL G × E interactions involved mainland alleles causing longer DEVT than Baja alleles on organ pipe cactus, but less genotypic variation for DEVT expressed on agria (Fig. 4). Thus, these regions of the genome are potential targets for resolving the genetic factors responsible for the differences in DEVT that characterized the regional shifts in life histories in D. mojavensis. QTL-based G × E interactions consistent with the population-level results included DmojX010 (Fig. 4) where Baja alleles caused significantly shorter DEVT on agria cactus but longer DEVT on organ pipe consistent with the common
+GENETICS OF DEVELOPMENT TIME AND REPRODUCTIVE ISOLATION
+ EVOLUTION DECEMBER2010 3565
+
+         WILLIAM J. ETGES ET AL.
+garden experiment and significant X chromosome effects from the PP × RD line cross. Genetic heterogeneity of Baja genotypes in which three of eight QTL homozygotes caused longer DEVT on agria (Dmoj3100, Domoj4010, and Dmoj4302) was also consistent with regional variation in male DEVT associated and longer DEVT in more northerly populations as shown by a positive correlation with latitude.
+GENETICS AND ECOLOGY OF ALLOPATRIC DIVERGENCE
+From a speciation perspective, understanding the genetic basis of these region-wide shifts in life-history traits due to ecological divergence of derived, organ pipe populations in mainland Mexico will help to decipher the causes for sexual isolation between these independent lineages of D. mojavensis. Together with the positive QTL-based genetic correlation between DEVT and CHC variation, the selection experiment results (Etges 1998), and phenotypic differences in CHC amounts between “fast and “slow” emerging adults (W. J. Etges, unpubl. data), there are three independent observations of a significant correlation between DEVT and premating isolation in populations of D. mojavensis. Thus, region-wide variation in DEVT at the population level is a determinant of CHC-mediated mating success of mainland and Baja California populations, helping to explain the causes for the observed correlated responses in sexual isolation to artificial selection on DEVT observed in Etges (1998). Differences in adult CHC profiles between virgin and “exposed” males across the range of observed days of DEVT has not been observed before, and the reasons for this variation are currently unknown (Table 6, Table S1, Figs. S2 and S3). Certainly the causes of the curvilinear CHC variation across the range of DEVT in adults that emerged on the first one to two days versus those that emerged later will require further study.
+Studies of the evolution of reproductive isolation usually concentrate on analyses of postmating isolation or interactions between species following secondary contact. The re-emergence of interest in how the role of ecological adaptation may indirectly drive reproductive isolation has refocused approaches to understanding speciation (Feder et al. 2005; Funk et al. 2006; Tilmon 2008; Nosil et al. 2009). Cactophilic D. mojavensis provides a detailed example of how allopatric divergence due to host plant adaptation may give rise to selection on genetically correlated suites of traits that influence both life-history divergence and traits directly implicated in sexual isolation, and may constitute a further example of ecological speciation.
+ACKNOWLEDGMENTS
+We thank G. Almeida and A. Tripodi for excellent technical assistance, W. Starmer and P. Ganter for fresh yeast stocks, and J. Foster for a replacement E. cacticida culture. M. Armella, C. Babcock, C. Durando,
+G. Huckins (deceased), C. Istock, L. Jaureguy, F. Molina, J. Mutic, and H. Wistrand assisted with field collections of cactus and flies, and C. Lewis helped collect eclosing flies in the line cross experiment. A. Orr was kind enough to supply a current version of QTL sign test. We thank W. Starmer for identifying the cause of the matrix singularities in the line cross analyses and, along with C. Peichel and two anonymous reviewers, for comments on the manuscript. We also thank the Secretaria de Medio Ambiente y Recursos Naturales in Mexico City for issuing a CITES permit, and M. Armella for helping us obtain it. Funding was provided by National Science Foundation grants BSR-9509032, INT-9724790 and DEB-0211125 to WJE, DEB-0211007, 0509780, and 0549893 to MAFN, and by the National Environment Research Council, U.K., to MGR.
+ 3566 EVOLUTION DECEMBER2010
+
+         GENETICS OF DEVELOPMENT TIME AND REPRODUCTIVE ISOLATION
+ EVOLUTION DECEMBER2010 3569
+   Supporting Information
+The following supporting information is available for this article:
+Figure S1. Box plot showing the dominant Baja X chromosome effect on egg-to-adult viability in the SO × EF line cross. Figure S2. Least square means (+1 SE) of total cuticular hydrocarbons per fly for D. mojavensis based egg-to-adult DEVTs of virgin males and males exposed to females in mating tests and courtship song recordings in Etges et al. (2007, 2009).
+Figure S3. Least square means (+1 SE) of 16 representative cuticular hydrocarbons for D. mojavensis showing the nature of the DEVT differences between virgin males and males exposed to females for individual hydrocarbons.
+Table S1. Additional microsatellite primers developed for D. mojavensis in addition to the 90 microsatellites described in Staten et al. (2004).
+Table S2. Results of the regression analyses showing equations for each of the 31 epicuticular hydrocarbons in male D. mojavensis—most identified by GCMS; Etges and Jackson (2001), labeled by their equivalent chain lengths (ECL) based on relative retention times with known standards, regressed on egg-to-adult DEVT.
+Table S3. The 31 epicuticular hydrocarbon components in D. mojavensis included in this study—most identified by GCMS; Etges and Jackson (2001), their equivalent chain lengths (ECL) based on relative retention times with known standards, and the loadings of each hydrocarbon component on each of the five Principal Components based on all adult males in this study reared on both host cacti (n=1650).
+Supporting Information may be found in the online version of this article.
+Please note: Wiley-Blackwell is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+ 

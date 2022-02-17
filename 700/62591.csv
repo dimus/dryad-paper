@@ -1,0 +1,10 @@
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Euphorbiaceae,459,474,4.53,1,,,,Exact,0,Euphorbiaceae,Euphorbiaceae,9Y7,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Euphorbiaceae,
+1,,M. annua,10384,10392,4.61,2,,,,NoMatch,,,,,,,,
+2,,M. huetii,10397,10406,6.20,2,,,,NoMatch,,,,,,,,
+3,,M. huetii plus,14105,14119,6.08,3,,,,NoMatch,,,,,,,,
+4,,M. perennis,2662,2674,6.99,2,,,,NoMatch,,,,,,,,
+5,,Mercurialis huetii,18666,18684,12.01,2,,,,Exact,0,Mercurialis huetii Hanry,Mercurialis huetii,3ZTJN,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Euphorbiaceae|Mercurialis|Mercurialis huetii,
+6,,Mercurialis perennis,438,458,12.80,2,,,,Exact,0,Mercurialis perennis L.,Mercurialis perennis,3ZTK4,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Euphorbiaceae|Mercurialis|Mercurialis perennis,
+7,,Mercuriolis huetii,2617,2635,6.73,2,,,,Fuzzy,1,Mercurialis huetii Hanry,Mercurialis huetii,3ZTJN,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Euphorbiaceae|Mercurialis|Mercurialis huetii,
+8,,Populus euphratica,9075,9094,12.82,2,,,,Exact,0,Populus euphratica Olivier,Populus euphratica,4LVL6,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Salicaceae|Populus|Populus euphratica,

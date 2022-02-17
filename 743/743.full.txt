@@ -1,0 +1,454 @@
+    Molecular Ecology Resources (2011) 11, 842–853 doi: 10.1111/j.1755-0998.2011.03022.x
+Molecular profiling of diatom assemblages in tropical lake sediments using taxon-specific PCR and Denaturing High-Performance Liquid Chromatography (PCR-DHPLC)
+LAURA S. EPP,*‡ KATHLEEN R. STOOF-LEICHSENRING,* MARTIN H. TRAUTH†
+and RALPH TIEDEMANN*
+*Unit of Evolutionary Biology/Systematic Zoology, Institute of Biochemistry and Biology, University of Potsdam, Karl-Liebknecht-Strasse 24-25, Haus 26, D-14476 Potsdam, Germany, †Institute of Earth and Environmental Science, University of Potsdam, Karl-Liebknecht-Strasse 24-25, Haus 27, Potsdam, Germany, ‡National Centre for Biosystematics, Natural History Museum, University of Oslo, P.O.Box 1172 Blindern, NO-0318 Oslo, Norway
+Abstract
+Here we present a protocol to genetically detect diatoms in sediments of the Kenyan tropical Lake Naivasha, based on taxon-specific PCR amplification of short fragments (approximately 100 bp) of the small subunit ribosomal (SSU) gene and subsequent separation of species-specific PCR products by PCR-based denaturing high-performance liquid chromatography (DHPLC). An evaluation of amplicons differing in primer specificity to diatoms and length of the fragments amplified demonstrated that the number of different diatom sequence types detected after cloning of the PCR products critically depended on the specificity of the primers to diatoms and the length of the amplified fragments whereby shorter fragments yielded more species of diatoms. The DHPLC was able to discriminate between very short amplicons based on the sequence difference, even if the fragments were of identical length and if the amplicons differed only in a small number of nucleotides. Generally, the method identified the dominant sequence types from mixed amplifications. A comparison with microscopic analysis of the sediment samples revealed that the sequence types identified in the molecular assessment corresponded well with the most dominant species. In summary, the PCR-based DHPLC protocol offers a fast, reliable and cost-efficient possibility to study DNA from sediments and other environmental samples with unknown organismic content, even for very short DNA fragments.
+Keywords: diatoms,environmentalDNA,lakesediments,PCR-DHPLC Received 27 October 2010; revision received 16 March 2011; accepted 17 March 2011
+Introduction
+Biodiversity assessments using total DNA isolates of environmental samples are becoming an increasingly important tool in ecological studies (Valentini et al. 2009).
+Currently, we are witnessing the development of a number of diagnostic genetic markers and protocols (Taberlet et al. 2007; Ficetola et al. 2008; Soininen et al. 2009). The introduction of high-throughput parallel nextgeneration amplicon sequencing (Binladen et al. 2007; Deagle et al. 2009; Jumpponen et al. 2010) has greatly enhanced the possibilities of conducting large-scale experiments in this field. These techniques provide a very thorough insight into the composition of PCR products, and the experiments can be designed to process a large number of PCR products simultaneously. Retriev-
+Correpondence: Laura Epp, Fax: +47 22 85 18 35; E-mail: laura.epp@nhm.uio.no
+ing a huge number of different sequences is not always necessary for every experimental setting, though, and the large scale of these techniques is not always adequate for day-to-day molecular genetic screenings. More rapid alternatives that can present a valid estimate of the biotic composition of a sample are still desirable. Such protocols should be robust, reliable, highly sensitive, fast and cost effective at the same time.
+DNA from environmental samples may stem from both living and dead organisms (Valentini et al. 2009), and degradation of the DNA can be an important issue. Therefore, there is a specific need for techniques that can be used when only short DNA fragments are retrievable. Such short DNA fragments will often display only small sequence differences, complicating physical separation. In the present study, we explore the potential of denaturing high-performance liquid chromatography (DHPLC) to separate and extract very short PCR products (􏰁100 bp excluding primers) from mixed-template reactions.
+Ó 2011 Blackwell Publishing Ltd
+
+DHPLC offers a potentially very rapid possibility to separate different PCR products and prepare them for individual Sanger sequencing, or also to extract a number of different desired amplicons in preparation for nextgeneration amplicon sequencing. DHPLC protocols were originally developed for mutation analysis (Xiao & Oefner 2001) and used in human clinical medicine. PCRbased DHPLC can also be used to differentiate between a number of diverse amplicons, based on both sequence length and sequence difference. It has been employed to distinguish between PCR products of different bacterial strains and of different crustacean parasites on the basis of sequence difference of PCR products with an identical length (Barlaan et al. 2005; Goldenberg et al. 2007; Troedsson et al. 2008b).
+In PCR-based DHPLC, the PCR products are separated by differential elution of partially melted DNA molecules in an ion-pair reversed-phase chromatographic system. The negatively charged DNA molecule interacts between the ion pairing reagent, triethylammonium acetate (TEAA) and the cartridge matrix of the system. Retention time is dependent on the negative charge of the DNA molecule analysed. This negative charge is reduced, when the column temperature is increased and the double-stranded DNA molecule starts to partially melt. A mixture of different DNA fragments, such as PCR products from a mixed-template reaction, will display different melting behaviour owing to sequence differences. Defined temperature conditions and a given flow rate of gradient buffers (containing acetonitrile and TEAA) will allow separation of different DNA molecules. This separation can be either based on the fragment length or on the nucleotide composition, if the sequence length is equal. This should result in different elution times for different PCR products: each eluted compound is visible as a peak and can be collected separately. The size of the peak depends on the amount of the eluted compound (i.e. the amount of the specific PCR product). Here we explore this rapid high-throughput method for use with very short amplicons of diatoms obtained from lake surface sediments of Lake Naivasha in Kenya.
+Diatoms are important members of benthic and planktonic algal communities and occur in virtually any aquatic environment worldwide (Mann & Droop 1996). They are good indicators of salinity and pH (Birks et al. 1990; Fritz et al. 1991; Gasse et al. 1995) and are commonly used in ecological and paleoecological research. As their silica frustules are well identifiable by microscopic inspection, they are well suited to compare results obtained by microscopy to molecular genetic approaches and evaluate the potential of these techniques.
+To optimize the strategy to detect diatoms in total DNA isolates of environmental samples, we designed sets of primers, which differed in respect to specificity
+and to the length of the fragments amplified. Currently, for diatoms, the largest and taxonomically most diverse database exists for the small ribosomal subunit (SSU) gene. This gene is highly conserved, and while it does not enable optimal taxonomic resolution, it contains variable regions and has been used for detection and identification from environmental samples in other taxa, including diatoms (Coolen et al. 2004; Passmore et al. 2006). As a multicopy gene, it is well suited for work with degraded samples (Gugerli et al. 2005), and it contains conserved sequence stretches, in which group-specific primers can be placed (Valentini et al. 2009). Although the 5.8S+ITS2-region (Moniz & Kaczmarska 2009) has been proposed as the most reliable marker to discriminate between different diatom species, the SSU gene currently appears superior for environmental screenings, mainly because more diatom reference sequences are available. Primers for the SSU gene to screen for diatoms in ancient or otherwise degraded samples have previously been published, but they either produce relatively long amplicons (􏰁500 bp, Coolen et al. 2004) or lack specificity to diatoms (Passmore et al. 2006). In this study, we designed diatom-specific primers for amplicons of different lengths and a specific primer pair for stramenopiles (the larger phylogenetic group to which diatoms belong, Adl et al. 2005) to evaluate differences in the retrieval of diatoms with respect to amplicon length and primer specificity. We used these primers on total DNA isolates from tropical lake sediments, established a protocol for DHPLC to specifically separate very short PCR products, and compared the results obtained by the molecular genetic assessment to a microscopic screening.
+Materials and methods
+Primer design
+Sequences of the SSU gene for representatives of the major divisions of diatoms and of nontarget taxa were obtained from GenBank. The nontarget taxa sequences (i.e. those which the primers were designed not to amplify) were selected to obtain a large phylogenetic coverage, with special emphasis on three groups of organisms: (i) taxa with a close phylogenetic relationship to diatoms (i.e. nondiatom stramenopiles), (ii) other organisms likely to be present in sediments and soils (i.e. fungi and organisms with a fungal life mode), (iii) taxa detected in initial PCRs using eukaryote-specific primers. The sequences were aligned using ClustalW in BioEdit (Hall 1999) and searched for target-specific primer-binding regions that amplify a sufficiently variable fragment. Suitable primer sequences for five regions (fragments A–E, Table 1) were determined using the program OLIGOÒ (Rychlik & Rhoads 1989). For most priming
+Ó 2011 Blackwell Publishing Ltd
+MOLECULAR
+PROFILING OF LAKE SEDIMENTS BY DHPLC 843
+
+844 L. S. EPP ET AL.
+Table 1 SSU gene fragments and primers used in this study
+Fragment Primer Sequence 5¢–3¢
+A TTGTACACACCGCCCGT
+TGTACACACCGCCCGTC ACTTCACCTTCCTCTARATGATA TTCACCTTCCTCTARATGATAAG
+B GTCCCTGCCCTTTGTACAC CTGCCCTTTGTACACACCG
+GGAAACCTTGTTACGACTTCAC
+AAACCTTGTTACGACTTCACCT
+C ACCGTAGTAATTCTAGAGCTAAT
+CCGTAGTAATTCTAGAGCTAATA
+CTCATTCCAATTGCCAGACC
+D CAATAAATAACAATGCCGGG ATAAATAACAATGCCGGGCC
+TAAGTTTCAGCCTTGCGAC
+E GAAAGTTAGGGGATCGA AGAT AAGTTAGGGGATCGA AGATGA
+GC-clamps‡ gcggcccgccgcccccgccg gcccgccgcgccccgcgcccggcccgccgcccccgccccg
+Name
+A_1618F A_1619F* A_1725R A_1723R* A_1607F
+A_1611F*
+A_1741R A_1739R* A_144F
+A_145F*
+Dia-516R† A_457F A_459F*
+A_1106R A_964F A_966F* GC20§ GC40¶
+In combination with
+A_1725R A_1723R*
+A_1741R A_1739R*
+Dia516R Dia516R
+A_1106R A_1106R
+A_1725R A_1723R*
+Fragment size (bp)
+TA (°C) 56
+53
+56 53
+61 53
+63 53
+56 53
+Amplified in lab in addition to diatoms
+– –
+SAG 243.1, SAG 14.87 SAG 243.1, SAG 14.87
+SAG 14.87 at TA < 61°C SAG 14.87 at TA < 61°C
+–
+SAG 243.1 at
+TA < 62.8°C –
+–
+  107 104
+134 128
+341 340
+649 647
+761 757
+ Primers marked with an * were designed as nested primers. Ending on F: forward primer, ending on D and E were designed to be diatom stramenopiles. TA: annealing temperature. †Coolen et al. (2004), DHPLC, §courtesy of Transgenomics, ¶slightly modified from van Hannen et al. (1998).
+R: reverse primer. Amplicons A, C, ‡attached to 5¢ of A1619F for
+sites, internal primers for nested PCR were also developed. We included two sets of newly designed primers (A: A1618 ⁄ A1725 and A1619 ⁄ 1723; B: A1607 ⁄ A1741 and A1611 ⁄ A1739) amplifying a region previously described for diatom detection (Passmore et al. 2006). Note that primers A are diatom specific, while primers B generally amplify stramenopiles (including diatoms). A total of 18 different primers and their corresponding amplificates were analysed further (Table 1), including one reverse primer published by Coolen et al. (2004). For amplifications to be analysed by PCR-based DHPLC (only performed for fragment A), the primer A1619 was used with one of two GC clamps (20 and 40 bp, Table 1) added to its 5¢end.
+Samples
+To optimize the protocols, we used pure cultures of single diatom species obtained from the Culture Collection of Algae at the University of Goettingen (SAG). Subsequent testing of the protocols on environmental samples was carried out on integrated surface sediment samples from Lake Naivasha in the Kenyan Rift Valley (Table 2). Lake Naivasha is a slightly alkaline (pH 8.5), shallow
+(maximum depth 4–6 m; excluding Crescent Island Crater), but quite large (􏰁135 km2) lake located at 1885 m above sea level in the central valley of Kenya’s Eastern Rift Valley (Verschuren 2001). Sediment samples from within Lake Naivasha (NSA 14 and NSA 20) were taken from a boat using an Ekman-Birge grabber, subsampling the large Ekman-Birge sample with a clean spatula. Additionally, one sample from the lakeside above the shoreline (NSA 9) was taken with a tulip planter, subsampling again with a cleaned spatula. The samples were chosen according to the following rationale: samples NSA 14 and NSA 20 are below the water column and presumably contain diatom DNA that is more readily retrievable, while sample NSA 9 is above the present shoreline and presumably contains only little diatom DNA.
+The samples were stored in Queens Tissue Buffer (Seutin et al. 1991, 20% DMSO, 0.25 M EDTA, saturated with NaCl, pH 8.0) in sterile falcon tubes, kept in the dark and stored at 10 °C after arrival in the laboratory.
+DNA isolation
+DNA from single species was isolated using the Plant Spin Mini Kit (Invitek). Cultures were transferred to
+Ó 2011 Blackwell Publishing Ltd
+
+Table 2 DNA template information Sediment samples from Lake Naivasha Sample
+NSA 14
+NSA 20 NSA 9
+Single diatom species*
+Strain
+SAG 1020-1a SAG1020-1b SAG 122.79 SAG 49.91 SAG 40.96 SAG 48.91 SAG 80.94 SAG 1032-1 SAG 1050-3 SAG 1052-2 SAG 1052-3a
+Single nondiatom species* Strain
+SAG 243.1 SAG 14.87
+Mixed templates from single diatom species*
+Sampling location
+End of Oloidien Bay (0° 49¢ S; 36° 18¢ E)
+Hippo Point Bay (0° 47¢ S; 36° 19¢ E) Fisherman’s Camp (0° 49¢ S; 36° 20¢ E)
+Species
+Cyclotella meneghiniana Thalassiosira pseudonana Thalassiosira weisflogii Stephanodiscus minutulus Navicula salinicola Nitzschia curvilineata Pinnularia neomaior Gomphonema parvulum Navicula pelliculosa Nitzschia frustulum Nitzschia palea
+Species
+Monoraphidium minutum Nannochloris atomus
+Water depth
+40 cm
+300 cm
+Above shoreline
+MOLECULAR PROFILING OF LAKE SEDIMENTS BY DHPLC 845
+              Name
+Mix 3 Mix 4 Mix 5 Mix 6 Mix 7 Mix 8 Mix 9-1 Mix 9-2 Mix 10
+Included species (strain numbers)
+ SAG 40.96, SAG 122.79, SAG 1050-3
+SAG 40.96, SAG 122.79, SAG 1050-3, SAG 1020-1b
+SAG 40.96, SAG 122.79, SAG 1050-3, SAG 1020-1b, SAG 49.91
+SAG 40.96, SAG 122.79, SAG 1050-3, SAG 1020-1b, SAG 49.91, SAG 48.91 SAG 40.96, SAG 122.79, SAG 1050-3, SAG 1020-1b, SAG 49.91, SAG 48.91, SAG 40.96, SAG 122.79, SAG 1050-3, SAG 1020-1b, SAG 49.91, SAG 48.91, SAG 40.96, SAG 122.79, SAG 1050-3, SAG 1020-1b, SAG 49.91, SAG 48.91, SAG 40.96, SAG 122.79, SAG 1050-3, SAG 1020-1b, SAG 49.91, SAG 48.91, SAG 40.96, SAG 122.79, SAG 1050-3, SAG 1020-1b, SAG 49.91, SAG 48.91,
+SAG 1052-2
+SAG 1052-2, SAG 1052-3a
+SAG 1052-2, SAG 1052-3a, SAG 80.94
+SAG 1052-2, SAG 1052-3a, SAG 1032-1
+SAG 1052-2, SAG 1052-3a, SAG 1032-1, SAG 80.94
+ *From the Culture Collection of Algae at the University of Goettingen.
+the lysis buffer either directly from solid agar medium with a sterile pipette tip, or 1 mL of liquid culture was centrifuged, the culture medium discarded and lysis buffer added. Cell disruption was carried out with a Mini-BeadBeater (BioSpec ⁄ Glen Mills Inc., beating 4800 rpm for 50 s after adding approximately 15 0.5-mm glass beads that had been cleaned with HCl and ethanol) after transfer of the cells to the lysis buffer.
+DNA from sediment samples was isolated using the PowerSoilÔ DNA Isolation Kit (MoBio Laboratories, California). First, the PowerSoilÔ-bead solution was transferred from the bead solution tube to a sterile Eppendorf tube. The samples and buffer were mixed well just prior to isolation, and 500 lL of each sample ⁄ buffer-mixture was transferred to the empty-bead solution tube. The sample was centrifuged at 13 200 g for 10 min, and the supernatant was removed (remaining sediment weight
+Ó 2011 Blackwell Publishing Ltd
+
+846 L. S. EPP ET AL.
+Table 3 Gradient information for the conditions used to analyse PCR products from Lake Naivasha sediment samples on the WAVEÒ-DHPLC system
+results and annealing temperatures chosen for sediment samples are shown in Table 1.
+PCR products of the sediment DNA isolates were purified using the NucleoSpinÒExtractII-Kit (MachereyNagel), and 5 lL of the cleaned PCR product was subjected to a reconditioning PCR (Thompson et al. 2002) prior to cloning with the Topo TA cloning kit (Invitrogen). Of each cloning reaction, 48 clones were re-amplified. If possible, 24 positive clones were sequenced, otherwise as many as possible (cf. Table 4).
+PCR-based DHPLC analysis
+A PCR-based DHPLC analysis was performed for the amplificates retrieved with the primers A: A1619-A1723, using the Transgenomic WAVEÒ System with a DNASepÒ cartridge and an integrated FCW-200 fragment collector (Transgenomic, Omaha, NE). The analyses were performed using a two-eluant buffer system. Buffer A consisted of an aqueous solution of 0.1 M TEAA, pH 7.0 and buffer B consisted of an aqueous solution of 0.1 M TEAA, pH 7.0, with 25% (v ⁄ v) acetonitrile. Chromatograms were recorded at a wavelength of 260 nm. Forward primers with two different GC clamps (20 and 40 bp, cf. Table 1) added to the 5’end were tested to optimize separation efficiency. Products derived from mixed templates were subjected to a reconditioning PCR prior to the DHPLC run (Thompson et al. 2002), using 5 lL of PCR product for each reaction. All PCRs for DHPLC were either set up without BSA or the products were purified prior to analysis to avoid damage to the DNASepÒ cartridge.
+Before beginning the analyses, the optimal oven temperature for the DHPLC for 50% denaturing conditions was theoretically established for the sequence of Achnanthes bongranii (GenBank Accession no. AJ535150), using the software Navigator (Transgenomics Inc.). Starting from this (63.5 °C), in the empirical optimization, the temperature was changed in 0.5 °C intervals (both decreased and increased).
+Initial optimization of temperature and gradient conditions were carried out using amplificates of ten single diatom species. For these analyses, 5 lL of PCR product was loaded per run. Gradient conditions were varied within a range starting with 35-45% Buffer B and ending with 58% Buffer B, and gradient durations of 8–20 min, with a flowrate of 0.9 mL ⁄ min. After these initial tests with single species PCR products, the established conditions were tested on PCR products obtained from mixtures of single species DNA isolates (3–10 different species in each amplificate, Table 2), loading 20 lL of PCR product per run.
+Starting with the conditions established for the single species’ tests, we then established optimal conditions for
+ Gradient
+Loading
+Start gradient Stop gradient Start clean
+Stop clean
+Start equilibrate Stop equilibrate
+Time (min)
+0
+1 12
+12.1 13.1 13.2 15.2
+Buffer A (%)
+65 60 42
+0
+0 65 65
+Buffer B (%)
+35 40 58
+100 100 35 35
+  The programme was run at an oven temperature of 64.5 °C and a flow rate of 0.9 mL ⁄ min. Amplicons were generated with primers A1619 and A1723, with a GC-clamp (20 or 40 bp) at the 5¢ end of the forward primer.
+150–200 mg). The PowerSoilÔ-bead solution and the buffer C1 from the kit were then added, and the sample was vortexed briefly. Release of the DNA from the cells and ⁄ or sediment matrix was carried out by incubating the sample with Proteinase K (55 °C, 1 h), then heating it to 70 °C for 10 min and finally bead-beating with the Mini-BeadBeater for 50 s at 3600 rpm. Before continuing with the isolation procedure, 5 lL of RNA solution (1 lL ⁄ lg) was added to facilitate precipitation of nucleic acids. The remaining protocol was carried out according to the manufacturer’s instruction.
+The isolation was carried out in a dedicated DNA isolation laboratory after thorough cleaning of surfaces with DNA-ExitusPlus (AppliChem), with no samples except the ones isolated present at the time of isolation. The sediment samples were isolated on different days each.
+PCR, cloning and sequencing
+All PCRs were performed in a total volume of 37.5 lL, containing 1 mM Tris–HCl, pH 9.0, 5 mM KCl, 0.15 mM MgCl2, 0.2 mM of each dNTP, 0.13 lM of both forward and reverse primers, and 0.75 U Taq polymerase (Qbiogene). PCR buffers in the initial amplification experiments contained BSA. PCR tubes were transferred from ice to a thermocycler (Biometra T-Gradient or T3000) heated to 94 °C. The cycling profile was as follows: 94 °C for 2 min, 35 cycles of 94 °C for 30 s, the primer-specific annealing temperature (TA in Table 1) for 45 s, 72 °C for 2 min, and a final extension at 72 °C for 15 min.
+Specificity of the primer combinations was tested empirically at TA 53 °C using a set of diatom (10 algae cultures) and nondiatom (two algae cultures) templates (Table 2). If amplification of nondiatom DNA was observed, a temperature-gradient PCR was run, using the respective nondiatom templates and the diatom Cyclotella meneghiniana as a positive control. Specificity
+Ó 2011 Blackwell Publishing Ltd
+
+MOLECULAR PROFILING OF LAKE SEDIMENTS BY DHPLC 847 Table 4 Results of cloning and denaturing high-performance liquid chromatography (DHPLC) fragment collection
+ Sample and colour in DHPLC (Fig. 3)
+NSA 20 Orange ⁄ red
+NSA14 Green
+NSA9 Blue
+Fragment
+A (II) B
+C
+Number of clones (%)
+Fragment
+A (IV) B
+C
+D
+E
+A (IV)
+Number of clones (%)
+–
+–
+–
+–
+–
+–
+–
+5 (22%) –
+Number of Fragment clones (%)
+A 4 (20%) B 15 (68%) C 2 (15%) D –
+E 6 (33%) A 4 (18%) B 17 (74%) C 10 (43%) D –
+Number of authentic clones
+20 22 13 21 18 22 23 23 22 11 16
+I: Aulacoseira I
+Number
+of clones Fragment (%)
+A (I) 13 (65)
+B 7(32)
+II: Aulacoseira II
+III: Amphora
+Number
+of clones Fragment (%)
+Nondiatom or not IV: Sellaphora determined1
+         C
+D
+E
+A (I) B
+C
+D
+E
+A (I) B
+C D E
+6 (46) 19(91)D
+3 (15%)
+–
+5 (38%) 2(9%)D
+9 (50) 2 (9) –
+1 (4) –
+– – – – – –
+E
+A (II)
+B
+C
+D
+E
+A (II) B
+C D E
+3 (17%)
+6 (27%)
+3 (13%) 2 (9%) –
+1 (9%) 5 (31%) –
+E
+A (III)
+A (III) B
+C
+– – – – –
+10 (46%)
+B
+C
+D 22(100%)D
+8 (73%) E – A – B – C – D – E
+ E
+A (III) B
+C
+E 2 (18%) A 11 (69%)
+3 (13%) 5 (22%)
+B C
+ – 1(100%)D 1(10%)E
+16(94%)17 6(100%)6 – 1 9(90%)10
+(IV)
+–
+– 1(6%)B – C – D – E
+ Fragments generated with the following primers: (A) A1619-A1723 (length without primers: 104 bp), (B) A1611-A1739 (length: 128 bp), (C) A145-Dia516 (length: 340 bp), (D) A459-A1106 (length: 647 bp), (E) A966-1723 (length: 757 bp). Clones or sequence types that are highlighted were identified as peaks and fragment collected using DHPLC. Number of peak in Fig. 3 is given in parentheses after fragment A.
+1Sequences were considered ‘not determined’ if they were <90% identical to sequences in GenBank as found in a BLAST search.
+the separation of PCR products from the sediment samples. Twenty microlitres of PCR product was loaded per run. Optimal gradient conditions established for the analysis of the sediment samples are listed in Table 3. We tested the reproducibility in the DHPLC signals, performing runs with independent PCR amplifications of the same environmental samples.
+Using the FCW-200 fragment collector, we collected all pronounced peaks of the sediment sample PCR products. Collection intervals were defined manually (using the one-vial-mode in the Navigator Software) after a sample had been run once, and the collection run was carried out directly afterwards. Multiple PCR products of each sample were run (NSA 20: 4 runs, NSA 14: 3 runs, and NSA 9: 2 runs), including the PCR products that had been cloned. The sampled fragments were re-amplified using the same primers, and the products were rerun on the WAVEÒ. Products resulting in a single peak after re-amplification were sequenced. Additionally, the PCR product of peak IV (cf. Fig. 3) was cloned as described earlier, and 20 positive clones were sequenced.
+Postsequencing Analysis
+Sequences derived from clones and from the DHPLC fragment collection were aligned using ClustalW in BioEdit (Hall 1999). To exclude PCR artefacts known to
+appear in such cloning experiments, sequence differences between otherwise highly similar sequences (identity > 95%) were only considered authentic, if they were detected in three or more clones. The sequences retrieved with primers D (approximately 650 bp) and E (approximately 750 bp) were subjected (as complete alignments of all clones of a certain fragment) to chimera analyses using the program Bellerophon (Huber et al. 2004), and sequences identified as putative chimeras after an additional manual check were excluded from further analysis. BLAST searches on NCBI (http:// blast.ncbi.nlm.nih.gov) were performed for all sequences considered authentic.
+Microscopic analysis of diatoms in the sediments
+Permanent diatom slides were prepared for the samples NSA 14 and NSA 20 according to Battarbee et al. (2001), and the diatoms were checked according to the morphology of their silicon frustules. Diatom valves were counted in transects at 1000· using a light microscope (Leica DM 4000 B) with an oil immersion objective and identified with reference to Hustedt (1949), Gasse (1986) and Krammer & Lange-Bertalot (1986, 1988, 1991a,b). Percentages of diatoms were determined as the relative amount of each species compared to the total amount of diatoms counted.
+Ó 2011 Blackwell Publishing Ltd
+
+848 L. S. EPP ET AL.
+Results
+Success of PCR-based diatom detection
+Sequences were obtained from (i) a total of 261 positive clones from the three samples NSA 14, NSA20 and NSA9 and five different SSU-fragments, yielding 241 authentic clone sequences and (ii) direct sequencing of peaks collected from the DHPLC profiles of the amplificates obtained with primers A in all three samples (Table 4). A total of 18 sequence types were identified as diatoms (GenBank Accession nos FJ012322–FJ012347, Table 5), and they were inferred to represent four species (i.e. four inferred SSU contigs), as the PCR products of the different fragments A–E always revealed a similar or identical species composition (often referring to identical GenBank entries). The inferred contigs were named accordingly: (I) Aulacoseira 1, (II) Aulacoseira 2, (III) Amphora and (IV) Sellaphora (Table 5).
+Sequences of the inferred contig IV were found in the samples NSA 14 and NSA 9 with the fragments A, B and C, and identified as different species of Naviculales, either Sellaphora or closely related taxa (Navicula, Mayamaea). For reasons of clarity and parsimony, we include these different sequence types of Naviculales in one single inferred contig IV named Sellaphora (Table 5).
+The most diverse sample was NSA 14, which yielded all four different diatom sequence types, when screening
+the fragments A (by PCR-DHPLC fragment collection) and C (cloning). Sample NSA 20 consistently yielded the two different Aulacoseira sequence types, except for fragment B, which only yielded the otherwise more common Aulacoseira 1. NSA 9 yielded sequence type Aulacoseira 2 for fragments A, D and E, and the Sellaphora sequence type for fragment B.
+The diversity found within sample NSA 14 was highest in screens of the fragments A and C, and lowest for the fragment D. Fragment C failed to detect any diatom clones in sample NSA 9, though, and overall amplification and cloning success was substantially lower for fragment C than for fragment A. The sequences of fragment E displayed a high number of putative chimeras (overall: 34%, NSA 20: 25%, NSA 14: 50%, NSA 9: 17%). Fragment B, which was only slightly longer than fragment A but generated using less specific primers (cf. Table1), displayed the highest number of nondiatom clones overall and failed to detect the otherwise dominant Aulacoseira 2 in sample NSA 9. The number of nondiatom clones was lowest for fragment D.
+PCR-based DHPLC analysis
+The PCR products of the ten single diatom species eluted as a respective single peak at all conditions tested for DHPLC (cf. Troedsson et al. 2008a). Best separation of the
+Table 5 Identification of fragments by BLAST relying on best scores
+Accession numbers (accessions originating from this study in bold) and per cent identities of
+ Inferred Contig
+I
+Aulacoseira 1
+II Aulacoseira 2
+III Amphora
+IV Sellaphora
+Species identified in GenBank
+Aulacoseira nyannensis Aulacoseira ambigua
+Aulacoseira granulata v. angustissima
+Aulacoseira distans
+Amphora lybica Amphora pediculus Amphora sp.
+Sellaphora auldreekie Sellaphora pupula Sellaphora cf. minima Navicula pelliculosa Mayamaea atomus
+different fragments
+A
+FJ012322, FJ012324
+AJ535187 (100)* X85404 (100) FJ012323, FJ012325,
+FJ012328
+AY485493 (100) X85403 (100)
+FJ012326
+AM501959 (100) AM501960 (100) AM501957 (100) FJ012327 EF151965 (97)* AJ544652 (97)
+AJ544657 (97) AM501968 (97)
+B
+FJ012329
+AJ535187 (100)* X85404 (100) FJ012330
+AY485493 (100)
+FJ012331
+AM501959 (100) AM501960 (100) AM501957 (100) FJ012332 EF151965 (97)* AJ544652 (97)
+AJ544657 (97) AM501968 (97)
+C FJ012333,
+FJ012335
+AJ535187 (98) FJ012334,
+FJ012336
+AY485493 (100) X85403 (100)
+FJ012337
+AM501959 (99)
+FJ012338
+EF151966 (97)
+D
+FJ012339
+AJ535187 (99) AY569583 (99)* FJ012340,
+FJ012342
+AY485493 (99) X85403 (99)
+FJ012341
+AM501959 (100)
+E
+FJ012343
+AJ535187 (99) FJ012344,
+FJ012345,
+FJ012347
+AY485493 (99)
+FJ012346
+AM501959 (100)
+    *And other accessions of the same species.
+Ó 2011 Blackwell Publishing Ltd
+
+single species’ PCR products was achieved using a 40-bp GC clamp attached to the forward primer and a temperature of 65 °C: all tested species displayed separate peaks, except for Gomphonema parvulum (Peak 3; Fig. 1a), which was undistinguishable from Nitzschia palea (Peak 4; Fig. 1a). Pure culture PCR products with a 20-bp GC clamp were best separated at 64.5 °C, but overall distribution of peaks was not as continuous as with 65 °C and the 40-bp GC clamp (Fig. 1b). Separation potential could not be directly attributed to mere sequence divergence: For example, the sequences of Thalassiosira weisflogii (Acc. No. FJ012348) and Pinnularia neomaior (Acc. No. FJ012349) were identical at only 83.5% of the nucleotide positions, but resulted in a single peak at 64.5 °C in the DHPLC analysis (Fig. 1b). In turn, Navicula salinicola (Acc. No. FJ012350) and Navicula pelliculosa (Acc. No. FJ012351) shared 91.3% of identical sequence positions, but exhibited the largest difference in retention time (Fig. 1).
+When DNA isolates of single species were first mixed and then amplified and separated via DHPLC, resolution was also best at 65 °C with the 40-bp GC clamp (Fig. S1, Supporting information). Resolution of peaks was good when <5 species were amplified together (Fig. S2, Supporting information). When more species were amplified
+together, peaks seemingly blended and became wider, resulting in fewer peaks than species.
+In contrast to the single species’ PCR products, separation in the sediment sample PCR products was best at 64.5° for both clamps, as only with the latter temperature a separation between sequence types II and III was achieved (Fig. 2). While the resolution was very similar for both GC clamps, the overall amplification success was higher using a 20-bp GC clamp. Best separation conditions are listed in Table 3. Using these conditions, one run took just over 15 min to complete.
+The PCRs and resulting profiles were highly reproducible for each sediment sample. Fig. 3 shows the profiles of different samples, each represented by two different PCR products with nearly identical profiles. The profiles vary between samples, but the dominant peak in NSA 9 occurred at the same retention time as peak II in NSA 14. Overall, four peaks can be recognized, with the following mean retention time differences to peak I: to peak II 0.14 min, to peak III 0.25 min, and to peak IV 0.56 min.
+The peaks I-IV correspond to the diatom sequence types I-IV identified in the cloning experiment. They display the following pairwise identities with respect to the sequence of peak I: to peak II 0.98, to peak III 0.88, and to peak IV 0.90.
+The sequence types identified as separate peaks and retrieved by fragment collection with DHPLC are highlighted in grey in Table 4. The highest peak in each DHPLC profile always corresponded to the fragment most frequently detected in the clones: NSA 20 yielded only peak I, which contained the diatom sequence type
+MOLECULAR PROFILING OF LAKE SEDIMENTS BY DHPLC 849
+ (a)
+8mV
+76
+5 4 3 2 1
+(b)
+mV 9
+87
+6 5 4 3 2 1
+35 6 8910 1247
+6 7 8min
+  3
+1254 6
+5 6 7min
+Profiles of 10 diatom species’ PCR products. A: Amplicons with a 40-bp GC clamp attached to the 5¢ end of the forward primer, denaturing high-performance liquid chromatography (DHPLC) at 65 °C. Only sample 3 and 4 have an identical peak. B: Amplicons generated with a 20-bp GC clamp, DHPLC at 64.5 °C. The peaks of samples 3⁄4⁄5 and 6⁄7 cannot be discerned. Peaks correspond to the following species: (1) Navicula salinicola, (2) Nitzschia frustulum, (3) Gomphonema parvulum, (4) Nitzschia palea, (5) Thalassiosira pseudonana, (6) Thalassiosira weisflogii, (7) Pinnularia neomaior, (8) Stephanodiscus minutulus, (9) Nitzschia curvilineata and (10) Navicula pelliculosa.
+Fig. 1
+7 9810
+ 6mV
+5 4 3 2 1
+III
+ II
+65 °C 64.5 °C
+ Two runs of amplificates of the samples NSA14 and a forward primer including a 40-bp GC clamp at 65 and 64.5 °C. Even though the resolution of 40-bp GC clamp-amplificates was higher at 65 °C for single diatom species, in this case, the resolution is higher at 64.5 °C, and the peaks II and III can be separated.
+Fig. 2
+8
+min
+IV
+Ó 2011 Blackwell Publishing Ltd
+
+850 L. S. EPP ET AL.
+Table 6 Microscopic analysis of the samples NSA 14 and NSA 20
+ 9mV I 8
+7 6 5 4 3 2 1
+6
+Fig. 3 Denaturing high-performance liquid chromatography profiles of three Lake Naivasha sediment samples. Labelled peaks were sampled and sequenced directly. The sequences I, II and III were also detected in the clone sample set, the sequence IV was not. The sample NSA 20 also contained the sequence of peak II and the sample NSA 14 contained the sequence of peak I, but the profiles of the respective samples do not visibly display these peaks. The two profiles for each sample show the high degree of reproducibility between different PCR products and runs from the same location.
+    III II
+II
+NSA20 NSA14 NSA9
+IV
+  7 min
+    Aulacoseira 1 found in 65% of the clones in the respective cloning experiment. NSA 14 yielded two prominent peaks (II, III), representing sequence types II (Aulacoseira 2) and III (Amphora) found in 27% and 46%, respectively, of the corresponding clones of that sample. It also yielded the small peak IV (Sellaphora), which was not detected in the 22 sequenced clones. NSA9 yielded only peak II, corresponding to Aulacoseira 2, accounting for 31% of the clones of that sample.
+Microscopic investigation
+The microscopic screening revealed a total of 27 species, with 25 species in NSA 14 and 13 species in NSA 20 (Table 6). Most species were present in only very low numbers. Of all species identified, only 5 were present as more than 5% of total diatoms in either of the samples. The most abundant species were Aulacoseira ambigua (NSA 14: 34.31%; NSA 20: 39.44%) and Aulacoseira granulata (NSA 14: 25.74%; NSA 20: 44.41%). Other species with abundances over 5% in at least one of the samples were Amphora lybica (NSA 14: 5.64%; NSA 20: 3.42%), Nitzschia intermedia (NSA 14: 6.86%; NSA 20: 0.31%) and Synedra acus (NSA 14: 4.66%; NSA 20: 6.52%). Two species were present with abundances of nearly 4% in sample NSA 14: Gomphonema gracile (NSA 14: 3.92%; NSA 20: 0.62%) and Sellaphora pupula (NSA 14: 3.92%; NSA 20: 0%).
+Species
+Amphora lybica
+Anomoeoneis sphaerophora
+Aulacoseira granulata var angustissima Aulacoseira distans
+Cyclotella meneghiana
+Cyclotella stelligera
+Cymbella muelleri
+Cymbella ventricosa ⁄ turgida Epithemia adnata
+Eunotia pectinalis Gomphonema gracile Gomphonema parvulum Navicula pygmea
+Nitzschia linearis
+Nitzschia intermedia Nitzschia palea
+Nitzschia subacicularis Rhopalodia gibba
+Sellaphora pupula
+Surirella engleri
+Synedra acus
+Synedra acus var angusstissima Synedra rumpens
+Synedra ulna var ulna Thalassiosira faurii
+NSA 14 Number (%)
+23 (5.64) 1 (0.25)
+5 (1.23) 0 (0)
+1 (0.25) 0 (0)
+4 (0.98) 2 (0.49) 1 (0.25) 2 (0.49)
+16 (3.92) 7 (1.72) 2 (0.49)
+10 (2.45) 28 (6.86) 1 (0.25) 2 (0.49) 2 (0.49) 16 (3.92) 1 (0.25) 19 (4.66) 2 (0.49) 14 (3.43) 3 (0.74) 1 (0.25)
+NSA 20 Number (%)
+11 (3.42) 0 (0)
+0 (0)
+3 (0.93) 0 (0)
+1 (0.31) 0 (0)
+0 (0)
+2 (0.62) 0 (0)
+2 (0.62) 3 (0.93) 0 (0)
+0 (0)
+1 (0.31) 0 (0)
+0 (0)
+0 (0)
+0 (0)
+2 (0.62)
+21 (6.52) 2 (0.62) 4 (1.24) 0 (0)
+0 (0)
+Aulacoseira ambigua 140 (34.31) 127 (39.44) Aulacoseira granulata 105 (25.74) 143 (44.41)
+ Species shaded in grey very likely correspond to the most dominant genetic sequences detected. Species in bold are mentioned in the text.
+Discussion
+The analysis of molecular genetic data from environmental samples has the potential to provide rapid biodiversity assessments, but still faces methodological challenges. These include the development of taxon-specific markers and increasing the feasibility and speed of such screenings. To this end, we designed and evaluated a set of primers to retrieve genetic data of diatoms from sediments of a tropical, slightly alkaline lake, and we developed a protocol to separate short PCR products (􏰁100 bp without primers) in mixed-template reactions by using denaturing high-performance liquid chromatography (DHPLC). We compared the results retrieved from surface sediment samples employing these molecular genetic techniques to results from a microscopic investigation.
+The diversity revealed using the molecular genetic approach mirrored the most dominant taxa identified by microscopic inspection. Only taxa making up over
+Ó 2011 Blackwell Publishing Ltd
+
+approximately 5% of the total diatom numbers were detected by molecular genetic means.
+The most common species detected microscopically were two species of Aulacoseira, which is in accordance with finding two sequence types assigned to the genus Aulacoseira in the DNA sequence data. Contrary to this, the dominant sequence in the clones and the DHPLC profiles of the sample NSA 14 is identical with the sequence of a few Amphora species, while the Amphora species identified by microscopy, Amphora lybica, made up only 5.64% of the total diatoms counted. Possibly, the genetic data do not reflect the number of individuals counted, but rather their biomass or biovolume. Using quantitative PCR and group-specific primers, Godhe et al. (2008) have shown that there is a significant quantitative correlation between the number of ribosomal DNA copies (i.e. the amount of ribosomal DNA present) and the biovolume of diatom cells in seawater samples. This could lead to DNA from larger celled diatoms being more dominantly represented in the genetic data. Discrepancy between molecular and morphological determinations, even in surface sediments, might also arise from potential differences in DNA degradation between the different taxa (as suggested also by Coolen et al. 2006), or from the fact that any step of the genetic analysis potentially constitutes a filter, by which part of the environmental diversity may be lost. Furthermore, the Ekman-Birge sampler used here jointly samples diatoms from different sediment layers (i.e. of different age), and the older cells might contain less DNA. More accurate information could be therefore gained in future studies by analysing different sediment layers in a core.
+In our data set, all strictly diatom-specific primers found similar distributions of diatom sequence types for the samples NSA 20 and NSA 14. The primer set C failed to detect any diatom sequences in sample NSA 9, although it revealed maximum diatom diversity in sample NSA 14. Longer fragments amplified with diatomspecific primers still contained a high proportion of diatom sequences, but the diversity was substantially lower. The sequence types revealed were equivalent to the sequence types found most commonly with shorter fragments. The nondiatom-specific primer set amplified a high proportion of nondiatom DNA (68–94%). The diatom diversity revealed by these primers was low, even though the fragment amplified was very short (approximately 130 bp). The importance of primer specificity when searching for representatives of a specific taxon in composite environmental samples has been stressed in other studies (Coolen et al. 2004, 2006, 2007) as well. The use of longer fragments seemed to bias the results further towards the taxa most dominant in the molecular genetic assessment, thereby filtering the results.
+An additional complication observed in longer fragments was the occurrence of putative chimeric sequences. We found indication for the presence of chimeric amplicons in sequences of approximately 750 bp (fragment E) but not in those of about 100–650 bp (fragments A–D). It has been demonstrated that a high percentage of sequences deposited in GenBank may be compromised by the formation of chimers and other anomalies (Ashelford et al. 2005). The appearance of chimeric sequences in PCR products over 650 bp is very likely due to (partial) degradation or shearing of the template DNA over this length, leading to an increase of ‘jumping PCR’ (Pa ̈ a ̈ bo et al. 1990). We only analysed surface samples in this study, but our results are in accordance with previous studies addressing DNA degradation in sediments (Coolen & Overmann 1998; Coolen et al. 2006), which found DNA fragments in sediments to be rapidly degraded to a size of approximately 500 bp. Short marker sequences therefore are more reliable, both in recent and in historical environmental screenings.
+The results of the PCR-based DHPLC experiment for the shortest amplified fragment corresponded well to the results of the cloning experiment. In initial experiments using single species amplificates, we were able to separate 8 of 10 species at 65 °C using a 40-bp GC clamp, and six of ten single species at 64.5 °C. All in all, optimization of temperature and gradient conditions should be carried out using amplifications of the environmental samples to be analysed and not on amplifications of single species. Resolution in surface sediment samples proved difficult for rare fragments with very little difference in retention times and very little sequence difference to dominant fragments (i.e. peak I: AULACOSEIRA 1 and peak II: AULACOSEIRA 2 correspond to sequences of identical length and differing only at two positions). In these cases, the less abundant sequence type could be overlooked. At the same time, sequence type IV, Sellaphora, was not detected in the clones but was detected and collected by PCR-based DHPLC. This amplicon was presumably also infrequent in the PCR product, but had a substantial difference in retention times to the other peaks. The PCRbased DHPLC approach thus displayed a higher overall diversity in the three samples from Lake Naivasha than the cloning experiment.
+In short, PCR-based DHPLC analysis on the WAVEÒSystem proved particularly useful if a limited number of different sequence types were to be separated, and the most dominant sequences in environmental samples could be retrieved for sequencing. Less frequent taxa out of a species-rich group, such as diatoms, might however go undetected. In environmental samples, PCR-based DHPLC seems most suited for less diverse targets or if the retrieval of the most dominant biotic components is sufficient. Such potential applications could include the
+Ó 2011 Blackwell Publishing Ltd
+MOLECULAR
+PROFILING OF LAKE SEDIMENTS BY DHPLC 851
+
+852 L. S. EPP ET AL.
+analysis of smaller taxonomic groups containing less species or diet analyses from faeces to establish major dietary components.
+DHPLC in molecular genetic environmental biodiversity studies can be a rapid method to screen mixed-template amplicons for their major contents and it offers some distinct benefits. For one thing, as we have shown here, DHPLC has the potential to physically separate DNA fragments of very short lengths. Studies to date have typically analysed fragments of 200–500 bp (Barlaan et al. 2005; Goldenberg et al. 2007; Troedsson et al. 2008b), but environmental samples may well contain DNA that is degraded to fragments below this size (Valentini et al. 2009).
+A further benefit of DHPLC is the possibility to view the PCR product in a semi-quantitative manner by comparing peak heights and overall profiles. This is ideal for environmental monitoring, both on a spatial and on a temporal scale. In addition, this feature allows the researcher to monitor reproducibility and bias within and between samples. This can be especially helpful for mixed-template reactions relying on low DNA concentrations, as these are particularly prone to bias introduced because of stochastic processes in the PCR (Polz & Cavanaugh 1998). Finally, a huge advantage of DHPLC lies in the automation of the procedure, the short analysis time and the ease of fragment collection.
+Acknowledgements
+This project was carried out in the Graduate School GRK 1364 on ‘Shaping Earth’s Surface in a Variable Environment’ funded by the German Research Foundation (DFG), the State of Brandenburg and the University of Potsdam. The work also received financial support by several grants to M.T. by the German Research Foundation (DFG). We thank the Government of Kenya (Research Permits MOST13⁄001⁄30C 59⁄10, 59⁄18 and 59⁄22) and the University of Nairobi for research permits and support. We gratefully acknowledge technical support provided by Anja Schneider. Ursula Gaedke kindly provided algal cultures.
+References
+Adl SM, Simpson AGB, Farmer MA et al. (2005) The new higher level classification of eukaryotes with emphasis on the taxonomy of protists. Journal of Eukaryotic Microbiology, 52, 399–451.
+Ashelford KE, Chuzhanova NA, Fry JC, Jones AJ, Weightman AJ (2005) At least 1 in 20 16S rRNA sequence records currently held in public repositories is estimated to contain substantial anomalies. Applied and Environmental Microbiology, 71, 7724–7736.
+Barlaan EA, Sugimori M, Furukawa S, Takeuchi K (2005) Profiling and monitoring of microbial populations by denaturing high-performance liquid chromatography. Journal of Microbiological Methods, 61, 399– 412.
+Battarbee RV, Jones VJ, Flower RJ et al. (2001) Diatoms. In: Tracking Environmental Change Using Lake Sediments—Volume 3: Terrestrial, Algal, and
+prospects. New Phytologist, 166, 409–418.
+Hall TA (1999) BioEdit: a user-friendly biological sequence alignment edi-
+tor and analysis program for Windows 95 ⁄ 98 ⁄ NT. Nucleic Acids Sympo-
+sium Series, 41, 95–98.
+van Hannen EJ, van Agterveld MP, Gons HJ, Laanbroek HJ (1998) Reveal-
+ing genetic diversity of eukaryotic microorganisms in aquatic environments by denaturing gradient gel electrophoresis. Journal of Phycology, 34, 206–213.
+Huber T, Faulkner G, Hugenholtz P (2004) Bellerophon: a program to detect chimeric sequences in multiple sequence alignments. Bioinformatics, 20, 2317–2319.
+Hustedt F (1949) Su ̈ßwasserdiatomeen aus dem Albert-Nationalpark in Belgisch Kongo. In: Exploration du Parc National Albert (1935–1936) (ed. Damas H), pp. 117. Hayez, Bruxelles.
+Jumpponen A, Jones KL, Mattox D, Yaege C (2010) Massively parallel 454sequencing of fungal communities in Quercus spp. ectomycorrhizas indicates seasonal dynamics in urban and rural sites. Molecular Ecology, 19, 41–53.
+Krammer K, Lange-Bertalot H (1986) Bacillariophyceae—1. Teil: Naviculaceae. Gustav Fisher, Stuttgart.
+Krammer K, Lange-Bertalot H (1988) Bacillariophyceae – 2. Teil: Bacillariaceae, Epithemiaceae, Suriellaceae. Gustav Fisher, Stuttgart.
+Ó 2011 Blackwell Publishing Ltd

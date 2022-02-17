@@ -1,0 +1,342 @@
+   Molecular Ecology (2011) 20, 1888–1904 doi: 10.1111/j.1365-294X.2011.05067.x
+Evidence of neutral and adaptive genetic divergence between European trout populations sampled along altitudinal gradients
+I. KELLER,*† A. TAVERNA* and O. SEEHAUSEN*‡
+*Department of Fish Ecology and Evolution, EAWAG Swiss Federal Institute of Aquatic Science and Technology, Center of Ecology, Evolution and Biochemistry, Seestrasse 79, CH-6047 Kastanienbaum, Switzerland, †Department of Aquatic Ecology, EAWAG Swiss Federal Institute of Aquatic Science and Technology, U ̈ berlandstrasse 133, CH-8600 Du ̈ bendorf, Switzerland, ‡Department of Aquatic Ecology and Macroevolution, Institute of Ecology and Evolution, University of Bern, Baltzerstrasse 6, CH-3012 Bern, Switzerland
+Abstract
+Species with a wide geographical distribution are often composed of distinct subgroups which may be adapted to their local environment. European trout (Salmo trutta species complex) provide an example of such a complex consisting of several genetically and ecologically distinct forms. However, trout populations are strongly influenced by human activities, and it is unclear to what extent neutral and adaptive genetic differences have persisted. We sampled 30 Swiss trout populations from heterogeneous environments along replicated altitudinal gradients in three major European drainages. More than 850 individuals were genotyped at 18 microsatellite loci which included loci diagnostic for evolutionary lineages and candidate markers associated with temperature tolerance, reproductive timing and immune defence. We find that the phylogeographic structure of Swiss trout populations has not been completely erased by stocking. Distinct genetic clusters corresponding to the different drainages could be identified, although nonindigenous alleles were clearly present, especially in the two Mediterranean drainages. We also still detected neutral genetic differentiation within rivers which was often associated with the geographical distance between populations. Five loci showed evidence of divergent selection between populations with several drainagespecific patterns. Lineage-diagnostic markers, a marker linked to a quantitative trait locus for upper temperature tolerance in other salmonids and a marker linked to the major histocompatibility class I gene were implicated in local adaptation and some patterns were associated with altitude. In contrast, tentative evidence suggests a signal of balancing selection at a second immune relevant gene (TAP2). Our results confirm the persistence of both neutral and potentially adaptive genetic differences between trout populations in the face of massive human-mediated dispersal.
+Keywords: candidate loci, environmental gradient, genome scan, local adaptation, population structure, trout
+Received 24 June 2010; revision received 31 January 2011; accepted 9 February 2011
+Introduction
+Many species are geographically widespread and their genetic structure will be heavily influenced by land-
+Correspondence: Irene Keller, Fax: +41 44 823 5028; E-mail: irene.keller@eawag.ch
+scape features that act as barriers to dispersal. Even within continuous habitats, populations may face a range of biotic and abiotic conditions, and evolutionary ecology provides plenty of examples of local adaptation to such heterogeneous environments (Endler 1977; Hereford 2009). While local adaptation is perhaps most often demonstrated between allopatric populations, it
+Ó 2011 Blackwell Publishing Ltd
+
+can, under more restrictive conditions, arise in the absence of geographical isolation, i.e. in parapatry or sympatry (e.g. Schluter 2000). The genes underlying adaptation are unknown in most systems (for exceptions see e.g. Colosimo et al. 2005; Seehausen et al. 2008; Steiner et al. 2009; Bernatchez et al. 2010) but would be of great interest especially in cases where adaptive traits are not immediately phenotypically apparent. The spatial and ecological distribution of particular alleles could then be used to characterize adaptive diversity across natural populations at a resolution not amenable through experiments. To predict the response of natural populations to changing environments, it will be crucial to know which components of adaptive diversity are maintained between and which within populations and sites (Barrett & Schluter 2008).
+Although evidence of local adaptation has been reported from other salmonid fishes (e.g. Vasema ̈ gi et al. 2005; Dionne et al. 2008), the extent of divergent adaptation between populations of European trout (Salmo trutta species complex) is difficult to predict. On the one hand, trout are very widely distributed and harbour extensive genetic diversity which is expected to promote local adaptation. On the other hand, adaptive divergence between populations may be impeded by potentially high levels of gene flow owing to natural dispersal and, perhaps more importantly, human management practices.
+Based on mitochondrial sequence diversity, Bernatchez (2001) described five evolutionarily distinct European trout lineages which probably split in the Pleistocene some 0.5–2 Ma and are mostly considered separate species in a recent taxonomic reassessment (Kottelat & Freyhof 2007; S. trutta = Atlantic lineage of Bernatchez (2001); Salmo rhodanensis = Mediterranean; Salmo cenerinus = Adriatic; Salmo marmoratus = marmorata; Salmo labrax = Danubian). All five evolutionary lineages are expected in Switzerland and, historically, their distribution would have been largely allopatric with each major drainage system containing one native trout form. An exception were the rivers from the Po system where Adriatic and marble trout co-occurred (Giuffra et al. 1994, 1996; Meraner et al. 2007).
+Each year, Swiss rivers are stocked with several million captive-reared trout (Swiss Federal Office for the Environment). In the past, these measures often relied on hatchery fish from abroad (e.g. Denmark) and also included translocations across major drainage boundaries. In particular, Atlantic trout were introduced in large numbers into the Doubs (Rhone) and Po drainages, and previous allozyme-based studies suggest that they hybridized extensively with the native lineages (Largiade`r & Scholl 1995, 1996).
+In Switzerland, as elsewhere in Europe, trout are common along a very broad altitudinal gradient from the low-elevation midlands to alpine rivers. No other fish taxon in Europe occupies a similarly broad altitudinal niche. Water temperature is one obvious (but clearly not the only) abiotic factor that will differ markedly along altitudinal gradients and will have very direct effects on ectotherms (Angilletta 2009), influencing not only the rate of biochemical reactions but also processes at the level of the whole organism such as rates of locomotion, growth and development (Ohlberger et al. 2008; Kingsolver 2009). The biological interactions experienced by a population are also expected to vary strongly with altitude. The number of potentially competing fish species decreases rapidly with increasing elevation. Moreover, numerous studies have shown that both the distribution range and the virulence of parasites and pathogens may increase at higher temperatures (e.g. Marcogliese 2008). A specific example is that of proliferative kidney disease (PKD), a salmonid disease mediated by a myxozoan parasite, for which serious outbreaks are typically observed only above a certain temperature threshold (Hari et al. 2006; Wahli et al. 2007).
+The diverse nature of the environmental changes expected along altitudinal gradients implies that adaptive genetic differentiation probably involves a range of traits. Of particular importance may be the tolerance to high temperatures and the timing of reproduction, traits known to exhibit genetically based intraspecific variation in salmonids (Jackson et al. 1998; Hodgson & Quinn 2002; O’Malley et al. 2003; Somorjai et al. 2003; Carlson & Seamons 2008). An important role is also expected for traits related to immune defence.
+Central genes in the vertebrate immune system are those of the major histocompatibility complex (MHC), which code for molecules responsible for antigen presentation. While the often exceptional polymorphism of these genes is probably maintained by some form of balancing selection, the MHC has also been implicated in local adaptation in a range of species (reviewed e.g. in Klein 1986; Muirhead 2001; Bernatchez & Landry 2003; Garrigan & Hedrick 2003; Piertney & Oliver 2006; Wegner 2008; Spurgin & Richardson 2010), including several examples from salmonids (Landry & Bernatchez 2001; Vasema ̈gi et al. 2005; Aguilar & Garza 2006; Dionne et al. 2007; Hansen et al. 2007). A role for divergent adaptation can be envisaged if environments differ in parasite ⁄ pathogen communities and MHC alleles exhibit at least some specificity against particular challenges (Palti et al. 2001; Miller et al. 2004). Other non-MHC genes may contribute to immune defence (AcevedoWhitehouse & Cunningham 2006; Tonteri et al. 2010), including the Transporter associated with Antigen
+Ó 2011 Blackwell Publishing Ltd
+GENETIC DIVERSITY IN ALPINE TROUT 1889
+
+1890 I. KELLER, A. TAVERNA and O. SEEHAUSEN
+Processing (TAP2; Grimholt 1997; Grimholt et al. 2002) involved in the transport of foreign peptides into the endoplasmatic reticulum where they are loaded onto MHC I molecules (e.g. Abele & Tampe ́ 2006). Generally, little is known about TAP diversity in natural populations, but Jensen et al. (2008) report evidence of spatially divergent and temporally fluctuating selection in brown trout. This finding is in line with observations from genomic model organisms that several viruses are able to suppress TAP function (Abele & Tampe ́ 2006) which suggests the potential for strong pathogenmediated selection.
+In this study, we investigate the patterns of withinand between-population diversity in trout populations sampled along replicated altitudinal gradients on both sides of the Alps using microsatellite markers. Our marker panel includes two loci with alleles diagnostic for some of the major trout lineages (Estoup et al. 2000), microsatellites linked to salmonid quantitative trait loci (QTL) for reproductive timing and temperature tolerance and markers close to the MHC class I and II genes and both copies of the duplicated TAP2 gene. First, we describe the neutral genetic substructure between and within drainages, and then use outlier scan approaches (e.g. Beaumont & Balding 2004; Storz 2005) to identify loci showing unusually elevated or reduced population divergence consistent with the action of selection. Finally, we investigate whether the allele frequencies at MHC-linked loci are more even than expected at mutation-drift equilibrium, which could suggest some form of balancing selection.
+Materials and methods
+Sampling
+Trout (S. trutta species complex) samples were collected in 2007 and 2008 from 30 sites in the Rhine, Rhone and Po drainage systems in Switzerland and northern Italy (Fig. 1). A single stream, the Allaine, was studied in the Doubs sub-drainage of the Rhone system. We sampled several smaller rivers from the Rhine and two distinct sub-drainages from the Po, the Ticino and the Poschiavino, which were separated by a large waterway distance. Sampling sites were arranged along altitudinal transects replicated in different rivers and spanned a range of c. 300–1800 m above sea level (Fig. 1, Table S1, Supporting information). The maximum water temperatures at these sites differ by at least 10 °C (our own unpublished data). The animals were caught by electrofishing within a short river section of typically c. 100– 200 m. Tissue samples were taken from a fin and stored in absolute ethanol. We specifically targeted large fish to avoid sampling recently introduced hatchery fish but
+included smaller individuals if necessary. Sample size was at least 25 individuals in all but two sites (Table S1, Supporting information), resulting in a total of 853 individuals.
+Choice of molecular markers
+We genotyped all individuals at 18 microsatellite loci selected from the literature (Tables 1 and S2, Supporting information). Eight markers with no known functional association were selected from different linkage groups based on the trout linkage map (Gharbi et al. 2006). For two of them, one (Str85-reverse) or both (Str543) primers were newly designed based on the published sequence (accession nos AB001059 and AB001062) to change the length of the amplified fragment. Two diagnostic markers (Table 1) had previously been shown to have nonoverlapping allele size ranges in three of the Pleistocene trout lineages (Atlantic, Mediterranean and marble trout; Estoup et al. 2000) and can hence provide both an estimate of some of the historical genetic diversity present in a particular system and the phylogenetic affiliation of a population. Finally, nine candidate loci were genotyped (one only in a subset of individuals), five of which were microsatellites linked to quantitative trait loci (QTLs) for upper temperature tolerance or spawning time in other salmonids (Tables 1 and S2, Supporting information).
+The remaining four candidate loci were located in or near the MHC class I and class II regions. In contrast to other vertebrates, the two regions map to different chromosomes in teleost fishes and, hence, may respond independently to selection (Stet et al. 2003). In Atlantic salmon (Salmo salar), the class I region has been duplicated (locus IA and IB) but only the MHC gene within region IA is functional (Grimholt et al. 2002; Lukacs et al. 2007). Both regions seem to contain functional copies of the Transporter associated with Antigen Processing (TAP2a and TAP2b; Grimholt 1997; Grimholt et al. 2002).
+In region IA, we genotyped markers UBA (3¢ untranslated tail of MHC I gene) and TAP2a (intron 5 of TAP2a) which, in the closely related Atlantic salmon, are separated by 28kb (Genbank EF210363; BAC sequence from Lukacs et al. 2007). Marker TAP2b is in intron 5 of the second copy of TAP2 (MHC region IB) in a different linkage group (Grimholt et al. 2002). Note that we adhere to the nomenclature of Lukacs et al. (2007), with TAP2a corresponding to TAP2B and TAP2b to TAP2A of Grimholt et al. (2002). A microsatellite marker in very close physical proximity to the MHC class II region of Atlantic salmon (Ssa60; Gharbi et al. 2009) was genotyped in a subset of 461 individuals from 16 populations.
+Ó 2011 Blackwell Publishing Ltd
+
+GENETIC DIVERSITY IN ALPINE TROUT 1891
+       Allaine
+BU
+PR AL
+SC
+MI
+FR
+RU LB SB
+RO
+AN
+LU
+BO LO BI
+GO BL
+                   HE KI
+SE
+LP LA
+   S
+SA
+A
+                           Ticino
+MA
+PI SO
+CA BR
+ZA TI
+Poschiavino
+    Fig. 1 Sampling sites in Switzerland and Northern Italy (TI) along altitudinal transects replicated in different rivers in three major European drainage systems. Only one stream (Allaine) was studied in the Rhone drainage. Within the Po system, samples were collected from the Poschiavino and the Ticino subdrainages. Different symbols indicate different altitudinal zones: squares <500 m, circles = 500–1000 m, triangles >1000 m. The investigated altitudinal range was 381–486 m asl in the Allaine, 398–1776 m asl in the Rhine, 430–1336 m asl in the Poschiavino, and 277–1802 m asl in the Ticino. The site labels are abbreviations of the names of nearby villages. The full names together with the altitude and coordinates of each sampling location are given in Table S1 (Supporting information).
+Rhone
+Rhine
+Po
+ Molecular methods
+DNA was extracted on a robot with a BioSprint 96 DNA Blood Kit (Qiagen GmbH, Hilden, Germany) according to the instructions of the manufacturer and quantified on a NanoDrop ND-1000 (Thermo Fisher Scientific, Waltham, MA, USA). The markers were amplified in three multiplex PCRs in a final volume of 12.5 lL using a Techne TC412 thermal cycler (Witec AG). Each reaction contained 6.25 lL multiplex PCR mastermix (Qiagen), 1.25 lL primer mix with individual primer concentrations as indicated in Table S2 (Supporting information), and 50 ng of DNA. An initial denaturation step of 15 min at 95 °C was followed by 35 cycles of 30 s at 94 °C, 90 s at a multiplex specific
+annealing temperature, 60 s at 72 °C, and a final elongation step of 30 min at 60 °C. Annealing temperatures were 60 °C for multiplex 1, 54 °C for multiplex 2 and 52 °for multiplex 3. The PCR products were diluted 1:50 in water and resolved on a Beckman Coulter CEQ 8000 sequencer.
+Statistical analyses
+Input files for the different analysis programs were created with PGDSPIDER version 2.0.0.2 available from http://www.cmpg.unibe.ch/software/PGDSpider/. The frequency of null alleles was estimated for all loci in FREENA (Chapuis & Estoup 2007). We tested all loci in all populations for deviations from Hardy–Weinberg
+Ó 2011 Blackwell Publishing Ltd
+High Alps
+
+1892 I. KELLER, A. TAVERNA and O. SEEHAUSEN
+Table 1 Microsatellite markers used in this study. Loci are grouped as candidate, diagnostic or anonymous based on information from the literature. See Table S2 (Supporting information) for additional information
+ Type Anonymous
+Diagnostic Candidate
+Locus name
+SsoSL438 Ssa100NVH Str15INRA Str60INRA Strutta58 Str73INRA Str85INRA Str543INRA JMS1_M1 JMS2_M1 Ssa60NVH Ssa-UBA Ssa-TAP2a
+Ssa-TAP2b Omy325
+Ssa14 Ssa85DU Ots515NWFSC SsoSL417
+Putative function
+None
+None
+None
+None
+None
+None
+None
+None
+None; different allele size range in AT, MA and ME trout
+None; different allele size range in AT, MA and ME trout
+Antigen presentation (linked to MHC II, locus DAA, in Atlantic salmon) Antigen presentation (3¢ untranslated tail of MHC IA in Atlantic salmon) Antigen presentation (intron 5 of Transporter associated with Antigen
+Processing, region MHC IA, of Atlantic salmon)
+Antigen presentation (intron 5 of Transporter associated with Antigen
+Processing, region MHC IB, of Atlantic salmon)
+QTL for UTT and body size in rainbow trout, QTL for growth rate and
+body size in coho salmon
+QTL for UTT in rainbow trout and Arctic charr
+QTL for UTT and spawning date in rainbow trout and Arctic charr QTL for spawning date and body weight in rainbow trout
+QTL for spawning data in rainbow trout
+  AT, Atlantic; MA, marble; ME, Mediterranean lineage of Bernatchez (2001); QTL, quantitative trait locus; UTT, upper temperature tolerance; MHC, major histocompatibility complex.
+equilibrium (HWE) in ARLEQUIN version 3.1 (Excoffier et al. 2005) using 100 000 steps in the Markov chain and 1000 dememorisation steps. For each locus, various measures of genetic diversity (number of alleles, allele and genotype frequencies) were calculated in FSTAT version 2.9.3.2 (Goudet 2001). We tested for deviations from linkage equilibrium between the two physically linked loci, UBA and TAP2a, in ARLEQUIN 3.1. with 10 000 permutations and 10 initial conditions for the EM algorithm.
+Identification of loci potentially under selection. We used outlier scan approaches to identify loci showing exceptionally high or low genetic differentiation (measured as FST) compared to the genomic average. Analyses were performed for the global data set using an approach based on Beaumont & Nichols (1996) and implemented with an extension to hierarchically structured populations in ARLEQUIN v3.5 (Excoffier et al. 2009). If unaccounted for, hierarchical structure can lead to strongly elevated false-positive rates in outlier scans (Excoffier et al. 2009). The null distribution of FST as a function of heterozygosity was simulated under a finite island model with 100 islands, a stepwise mutation model (SMM) and using 20 000 realizations. The number of simulated groups was chosen to reflect the num-
+ber of main river systems in a data set. The two geographically disjunct regions sampled within the Po drainage (Poschiavino and Ticino) were treated as separate groups, a subdivision consistent not only with geography but also with the observed genetic substructure (see below). If the average FST was heavily influenced by strong outliers, simulations were repeated without these loci to evaluate the observed FST values for the remaining loci. Significance was assessed at the 1% level.
+Within individual drainages, analyses were performed in ARLEQUIN as described earlier but without hierarchical structure. Further, we used a Bayesian method implemented in BAYESCAN version 1.0, which directly estimates the posterior probability of a particular locus being under selection by comparing models with and without a selection term (Foll & Gaggiotti 2008). The analyses were run with the default settings and a locus was considered to be an outlier if log10 (Bayes factor) ‡ 2.
+Neutral population structure across drainages. For the analysis of neutral population structure, five loci showing evidence of selection in the global analysis or within individual drainages were excluded from the data set (two candidate loci: Ssa14, UBA; both diagnostic loci:
+Ó 2011 Blackwell Publishing Ltd
+
+Table 2 (a) Outlier loci detected in a global analysis accounting for hierarchical structure in ARLEQUIN. (b) Outlier loci detected within individual drainages using two different approaches implemented in BAYESCAN and ARLEQUIN. In all cases, FST was higher than average. Loci are grouped as candidate, diagnostic or anonymous based on information from the literature. A locus was considered a significant outlier if P < 0.01 (ARLEQUIN) or log Bayes factor > 2 (BAYESCAN)
+(a) Global analysis
+ARLEQUIN with hierarchical structure FSC (within regions)
+FCT (among regions)
+FST (among all populations)
+Candidate Diagnostic Anonymous Ssa14
+GENETIC DIVERSITY IN ALPINE TROUT 1893
+      Candidate
+Ssa14 UBA
+Diagnostic
+Anonymous
+Candidate Ssa14
+Anonymous
+Diagnostic JMS1M1
+ARLEQUIN Candidate Ssa14
+JMS2M1
+Anonymous
+Diagnostic
+JMS1M1
+ Str60 (b) Drainage-specific analyses
+  BAYESCAN
+Candidate Diagnostic Ssa14
+JMS2M1
+Ticino
+Poschiavino UBA*
+Str60
+*Evidence of selection reduced to substantial (logBF > 0.5) if allele frequencies are adjusted for null alleles.
+  Drainage
+Anonymous
+Str60
+ Allaine
+Rhine UBA
+JMS1M1, JMS2M1; one anonymous locus: Str60; Table 2). Note that in the following we use the term ‘neutral loci’ to refer to the 13 non-outlier loci included in the analysis of neutral population structure. The data were analysed in STRUCTURE v. 2.3.1 (Pritchard et al. 2000; Falush et al. 2003) assuming an admixture model and correlated allele frequencies with 10 000 burn-in steps and 100 000 MCMC (Markov chain Monte Carlo) steps. This chain length was found to be sufficient to reach convergence. We investigated the likelihood of various numbers of groups, K = 1–8, with five independent runs per K. The support for different values of K was assessed from the likelihood distribution (STRUCTURE output) and plots of DK (Evanno et al. 2005) produced by STRUCTURE HARVESTER (http://taylor0.biology.ucla.edu/ struct_harvest/).
+The spatial structure at the 13 neutral loci was also visually displayed in a principal coordinates plot. We used GENDIST version 3.69 in the PHYLIP package (Felsenstein 2005) to calculate the Cavalli-Sforza chord distance between all pairs of populations. We used a genotype file corrected for null alleles using the INA method (Chapuis & Estoup 2007) implemented in FREENA. Note that evidence of a high-frequency null allele was mainly
+apparent at the outlier locus UBA and not at the neutral markers (see Results). The null allele correction was included here only so that all principal coordinates analyses would be strictly comparable. The pairwise genetic distances were subjected to a principal coordinates analysis (PCoA) and the first two axes were plotted in GENALEX (Peakall & Smouse 2006).
+An analysis of molecular variance (AMOVA) was used to assess the proportion of genetic variance between major drainages. Again, the two geographically disjunct regions sampled within the Po drainage (Poschiavino and Ticino) were treated as separate groups. The AMOVA was computed in Arlequin v. 3.1, and the significance tests were based on 16 000 permutations.
+Neutral population structure within drainages. Putatively non-neutral loci were excluded if they were detected as significant outliers by BAYESCAN or ARLEQUIN within that particular drainage (Table 2b). Additionally, loci with null alleles at estimated frequencies above 10% in a particular drainage were omitted, leaving 15 loci in the Allaine (without UBA, Strutta58, Ssa14), 13 loci in the Poschiavino (without Str60, UBA, SL438, Ssa14, Omy325), 16 loci in the Ticino (without UBA, Str60)
+Ó 2011 Blackwell Publishing Ltd
+Str60
+ 
+1894 I. KELLER, A. TAVERNA and O. SEEHAUSEN
+and 16 loci in the Rhine (without UBA, JMS2M1). STRUCTURE analyses were carried out as described above except for the evaluated range of K which was limited to values meaningful in a particular drainage (K = 1–4 in Allaine, K = 1–5 in Ticino, K = 1–8 in Poschiavino and Rhine). Within the Rhine and the Poschiavino, the analyses were repeated with a model that utilized information about sampling locations (Hubisz et al. 2009) as no substructure could be detected with our default model.
+Within each drainage, the overall FST value at neutral loci was calculated in Arlequin v. 3.1 and the significance assessed based on 16 000 permutations. We tested for associations between pairwise genetic, geographical and altitudinal distances between populations using Mantel tests and partial Mantel tests in FSTAT v. 2.9.3.2 using 10 000 randomizations. Altitudinal distance was the absolute value of the elevational difference between two sites and geographical distance was measured along the course of rivers in ARCGIS 9.
+Spatial and altitudinal patterns at outlier loci. We investigated the role of altitude in shaping the genetic patterns observed at outlier loci by testing for associations between particular outlier alleles and altitude based on (i) the full data set and (ii) only the Rhine and Poschiavino drainages where at least eight sites had been sampled spaced out well across a wide altitudinal range. We considered 23 alleles with overall frequencies above 5% at the five loci detected as high outliers either in the global analysis or within individual drainages (Ssa14, UBA, JMS1M1, JMS2M1, Str60; Table 2). In each population, we recorded the number of individuals in which a particular allele was present (both heterozygotes and homozygotes) and the number in which it was absent. These data were then analysed using a generalized linear model with binomial errors in R v. 2.9.2 (R Development Core Team 2007). The full model included altitude as a covariate and drainage as a factor to allow for hierarchical structure. Terms were dropped from the model if their deletion did not cause a significant increase in deviance, starting with the interaction followed by the covariate. A Bonferroni corrected significance level of 0.0022 was used to account for the 23 performed analyses. The final model was checked for overdispersion of residual deviance and, if necessary, the analysis was repeated using quasibinomial errors and F-tests for model comparison (e.g. Crawley 2002).
+Further, we plotted the first two axes from a PCoA to visually compare the genetic structure at individual outlier loci with the neutral pattern at the geographical scale where outlier behaviour had been detected. The analyses were performed as described earlier for the neutral loci.
+Patterns of genetic diversity at MHCand TAP-linked loci. Balancing selection either through rare allele or heterozygote advantage is expected to lead to relatively even frequencies of the different alleles at a particular locus (e.g. Bernatchez & Landry 2003). As a consequence, the observed Hardy–Weinberg heterozygosity (He) should be elevated compared to the expectation at mutation drift equilibrium (Heq) for a given number of alleles (Watterson 1978). We investigated this prediction for all MHC-linked loci by comparing He to estimates of Heq obtained with the software BOTTLENECK v. 1.2.02 (Cornuet & Luikart 1996). Note that BOTTLENECK allows the estimation of Heq under mutation models other than the infinite alleles model underlying the classical Ewens–Watterson test (Ewens 1972; Watterson 1978). Here, the equilibrium heterozygosity was estimated under a SMM using 1000 iterations. As the distribution of allele frequencies can be strongly affected by demographic events, the results for the MHC-linked loci were compared to 11 neutral microsatellites (omitting all outliers and all MHC-linked loci).
+Results
+Genetic and genotypic diversity within populations
+All loci were polymorphic in the majority of samples with the number of alleles ranging between 3 and 49 (Table S2, Supporting information). Ssa14 and JMS1M1 were monomorphic in ten and six samples from the Rhine and Ticino drainages respectively, and a third locus (Ots515) in sample BU (Allaine). After sequential Bonferroni correction within populations (Rice 1989), four loci showed significant deviations from HWE, but in two cases this was limited to one (Ssa100) or two populations (SL438) only. The MHC I linked locus UBA, on the other hand, showed a highly significant heterozygote deficit in 24 of 30 population samples. Jensen et al. (2008) have previously reported null alleles for this locus in S. trutta, which also seem to be common in our populations at an estimated average frequency of 0.32 (Table S2, Supporting information). Locus Ssa14 showed highly significant deviations from HWE in all samples where it was polymorphic (frequency of minor allele ‡5%). The deficit of heterozygous genotypes was particularly pronounced in the four Allaine samples where only 1 of 116 individuals was heterozygous in spite of expected heterozygosities between 0.18 and 0.51. However, in contrast to the UBA locus, not a single missing genotype was observed in the full data set (N = 853) which rules out a highfrequency null allele at locus Ssa14.
+At the two diagnostic loci, the alleles typical of Atlantic trout dominated in the Rhine but were also found at
+Ó 2011 Blackwell Publishing Ltd
+
+high frequencies in all other drainages (>36% in all sites; Table S5, Supporting information). Pronounced allele frequency clines were observed in the Allaine, with the alleles specific to the Mediterranean (ME) lineage decreasing from average frequencies of 56% (JMS1M1) ⁄ 30% (JMS2M1) in the two downstream sites to 23%⁄14% in the two upstream sites (Table S5, Supporting information). The two rivers from the Po system (Ticino and Poschiavino) contained alleles typical of marble (MA) trout (population frequencies 0–26%) but also ME-like alleles (0–22%; Table S5, Supporting information). Note, however, that the usefulness of the markers is limited in this region where Adriatic and, in the Poschiavino, also introduced Danubian trout may occur for which the expected allele size range is unknown. MEand MA-like alleles were also observed in the Rhine but were generally very rare except in population SE.
+The two loci physically linked to MHC I, UBA and TAP2a showed significant deviations from linkage equilibrium in all but two populations (P < 0.05). The effect was particularly strong in SE, GO, BL, FR, MI and five of the eight Poschiavino samples where the deviation remained significant after sequential Bonferroni correction.
+Significant outliers across and within drainages
+In the global analysis, the diagnostic locus JMS1M1 and the temperature tolerance-candidate locus Ssa14 were detected as highly significant positive outliers both among populations (FST) and among regions (FCT; Table 2a). Within regions, UBA, Str60 and, again, Ssa14 showed elevated levels of genetic differentiation (FSC; Table 2a).
+A separate analysis was performed on a subset of 16 populations from three main river systems (without Allaine) where the MHCII linked marker Ssa60 had been genotyped. The only outlier was the candidate marker Ssa14, which showed evidence of divergent selection both among populations (FST) and among regions (FCT; not shown).
+The loci showing high outlier behaviour in individual drainages were mostly a subset of those significant in the global analysis: Ssa14 in the Allaine, UBA and, additionally, JMS2M1 in the Rhine and, again, UBA in the Poschiavino (Table 2b). The anonymous locus Str60 was identified as a high outlier in both rivers within the Po drainage, Ticino and Poschiavino.
+Locus UBA shows a high frequency of null alleles in our populations which could affect the results of the outlier scans. We used MICROCHECKER (Van Oosterhout et al. 2004) to recalculate allele frequencies at UBA assuming the presence of null alleles and repeated the
+BAYESCAN analysis for the two drainages where UBA was detected as a significant outlier. In the Rhine, the outlier status of UBA remained unchanged (log Bayesfactor >2), while in the Poschiavino, the signal of divergent selection was reduced from previously decisive to substantial (log Bayesfactor >0.5; see BAYESCAN manual).
+Some genetic differences between major drainages have persisted
+The most pronounced genetic subdivision coincided with major drainage boundaries, with a split between Allaine, Poschiavino and Rhine, and the Ticino populations intermediate between the latter two. This subdivision was supported both by the principal coordinates analysis (Fig. 2a) and the STRUCTURE analysis (Fig. 3)
+GENETIC DIVERSITY IN ALPINE TROUT 1895
+ (a)
+Neutral microsatellite markers
+ (b)
+MHC I linked microsatellite marker
+0.10 0.08 0.06 0.04 0.02 0.00
+SE
+–0.02
+MA
+AL MI
+BU PR
+0.02 0.04 0.06
+ –0.02 –0.04 –0.06 –0.08 –0.10
+TI
+0.10 0.08 0.06 0.04 0.02 0.00
+RU
+HE LU
+–0.02 0.00
+PI
+SO ZA
+CA LA
+–0.08
+–0.06 –0.04
+0.00
+0.08
+PC1 (44%)
+ –0.02 –0.04 –0.06 –0.08 –0.10
+–0.08
+SE TI
+–0.06 –0.04
+0.02 0.04 0.06
+0.08
+PC1 (40%)
+Fig. 2 Plots of the first two axes from a principal coordinates analysis of Cavalli-Sforza chord distances between pairs of populations based on (a) 13 neutral microsatellite markers (non-outliers) and (b) the major histocompatibility complex I linked marker UBA. Different symbols denote populations from different drainages. Labels are given for populations referred to in the text and correspond to Fig. 1.
+BR LP
+Allaine Poschiavino Rhein Ticino
+  Ó 2011 Blackwell Publishing Ltd
+PC2 (20%) PC2 (24%)
+
+ 1896 I. KELLER, A. TAVERNA and O. SEEHAUSEN Poschiavino (Po)
+Ticino (Po)
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+Fig. 3 Results of STRUCTURE analysis based on 13 neutral microsatellite markers and samples from 30 locations in three major European drainage systems (K = 3). Population labels correspond to Fig. 1 and Table S1 (Supporting information).
+TI ZA BR LA CA LP SO PI MA BI BO LO LU RU KI SC
+based on neutral loci. Some populations deviated from this general pattern: MA (Ticino) appeared genetically identical to most Rhine populations, while SE (Rhine) resembled the Ticino samples (PCoA: Fig. 2a; STRUCTURE: Fig. 3).
+Across all populations, the average FST estimated from the 13 neutral loci was 0.056 (P < 0.001). When populations were grouped based on the four main river systems (Allaine, Rhine, Poschiavino and Ticino), 3.5% of the variation was observed among groups compared with 2.1% between populations within groups (AMOVA).
+Geography explains much of the genetic structure within drainages
+Significant neutral structure was also observed within each of the four drainages with FST = 0.007 in the Poschiavino, FST = 0.025 in the Rhine, FST = 0.032 in the Ticino and FST = 0.034 in the Allaine (P < 0.001 in all cases; AMOVA). A pattern of isolation by distance was detected among the Rhine (R2 = 19.9%, P < 0.01; Mantel test) and the Ticino populations (R2 = 84.1%, P < 0.01) but not in the Allaine (P = 0.85) and the Poschiavino (P = 0.54). Within the Rhine, but not in the other three rivers, we observed a significant pattern of isolation by altitude after accounting for the effect of geographical distance (R2 = 32.1%, P(altitude) < 0.01; partial Mantel test). Note that in all other rivers only a single gradient had been sampled (Fig. 1) and, as a consequence, altitudinal and geographical distance were highly correlated. A table of pairwise FST values between all populations is provided in the electronic appendix (Table S3, Supporting information).
+In the Ticino, the STRUCTURE analysis revealed a very clear geographical and altitudinal signal with a split between the high (LU), middle (BO ⁄ LO ⁄ BI) and low
+elevation sites (MA; Fig. S1a, Supporting information). However, each population also contained a few individuals with genotypes more typical of a different region many of which looked like first-generation immigrants. In the Poschiavino and Rhine, substructure was generally weak and could only be resolved when information about the sampling locations was included. The clearest split in the Poschiavino was observed between the lowest site in Italy (TI) and the seven Swiss locations (Fig. S1b, Supporting information). In the Rhine, nearby populations tended to be similar, while the two isolated high elevation sites (SE, and to a lesser extent AN) were quite distinct (Fig. S1c, Supporting information). Finally, within the Allaine, STRUCTURE detected strong support for two genetic clusters (Fig. S1d, Supporting information). One cluster dominated at the two upstream sites (AL, MI), while both were observed at the two downstream sites (BU, PR). In fact, the presence of two genetic clusters was still strongly supported in an analysis based only on BU ⁄ PR, in which case the split was clearly not associated with geography (i.e. sampling location).
+Altitudinal and geographical patterns at outlier loci
+Significant associations between allele frequency and altitude were detected for three of 23 investigated alleles at outlier loci. Allele UBA-301 showed a concordant and highly significant positive correlation between allele frequency and altitude in both the Poschiavino and the Rhine (glm, P < 0.001; note that this allele is extremely rare or absent in the other two drainages; Fig. 4a), while a negative correlation was observed at a second allele, UBA-307 (glm, P < 0.001). This latter allele showed a concordant pattern in the Allaine but not in the Ticino (Fig. 4b) and, in the full analysis, the
+Rhine
+Allaine (Rhone)
+HE SA RO AN GO BL SE FR LB SB BU PR AL MI
+Ó 2011 Blackwell Publishing Ltd
+
+ 0.6 (a) 0.5
+0.4
+0.3
+0.2 0.1 0 –0.1
+0.6 (b) 0.5
+0.4
+0.3
+0.2
+0.1
+0
+–0.1
+Fig. 4 Association between altitude (m above sea level) and the frequency of particular alleles at the major histocompatibility complex I linked locus UBA in the four drainages. Solid trend lines are shown for Rhine and Poschiavino and dashed for Allaine and Ticino. Note the clumped altitudinal distribution of the four Allaine samples and four of the five Ticino samples. (a) allele 301, (b) allele 307.
+ 0 250 500 750 1000 1250 1500 1750 2000
+Altitude (m asl)
+ 0 250 500 750 1000 1250 1500 1750 2000
+Altitude (m asl)
+Poschiavino
+Rhein Ticino Allaine
+    effect of altitude was not significant (glm, P = 0.18). Finally, an allele at the diagnostic locus JMS1M1 (allele 146 specific to Mediterranean trout) showed a significant interaction between drainage and altitude in the analysis based on all samples (glm, P < 0.001). The allele decreased in frequency from downstream towards upstream along the course of the Allaine, while a (much weaker) trend in the opposite direction was observed in the Poschiavino (plot not shown; the allele was rare in the other drainages).
+The overall geographical pattern at the two global outliers, Ssa14 and JMS1M1, was consistent with that observed at non-outlier loci, but with, on average, larger differences between and, in some cases, also within drainages. The elevated differentiation detected at JMS2M1 and Str60 within individual drainages
+seemed to be driven largely by one or two populations which, at the respective locus, were genetically very different from the other populations.
+The spatial pattern at the repeated outlier locus UBA, however, differed markedly from that at neutral loci. Most prominently, the genetic distances between the Poschiavino populations were elevated at UBA (Fig. 2b). Further, we observed at least a weak association between the altitude of a site and its position along PC1 (Fig. 2b), with the lowest site (TI) to the left and the two highest sites (SO⁄PI) to the right of the Poschiavino cluster. Most of the remaining populations showed little divergence at UBA and, contrary to the neutral pattern, we observed no clear subdivision between Rhine, Ticino and Allaine (Fig. 2b). The only exceptions were three Rhine populations with distinct UBA genotypes (SE, RU and HE; Fig. 2b).
+Patterns of intra-population diversity at MHCand TAP-linked vs. neutral markers
+Across neutral loci, one population (RU) showed a significant heterozygosity excess, and five populations (SO, MA, BI, BO, LU) a significant heterozygosity deficit (Wilcoxon test; Table 3). Across populations, one sample t-tests performed for each locus separately found that the mean difference between He and Heq was significantly negative for four neutral and two MHClinked markers (TAP2b; Ssa60), and significantly positive for two neutral and one MHC-linked marker (TAP2a; Table S4, Supporting information). The observed Hardy–Weinberg heterozygosity was most strongly elevated at TAP2a with a 95% confidence interval for the mean He–Heq of 0.073–0.102. The next highest value was observed at the neutral locus SL438 (95% c.i. 0.029–0.064).
+Discussion
+Phylogeographic structure has not been completely erased by stocking
+In spite of large-scale anthropogenic movements of trouts between different drainages, some genetic differences between these major river systems have persisted. The populations from the Allaine, the Poschiavino and the Rhine form distinct genetic clusters, while the Ticino samples are intermediate between the latter two. Much of this divergence between drainages can probably be ascribed to differences in the contribution of distinct evolutionary trout lineages to the local gene pools. Microsatellite alleles diagnostic of Mediterranean trout are present in the Allaine (see also next section), and genetic variants typical of Adriatic and marble trout are
+Ó 2011 Blackwell Publishing Ltd
+GENETIC DIVERSITY IN ALPINE TROUT 1897
+Frequency of UBA-307
+Frequency of UBA-301
+
+1898 I. KELLER, A. TAVERNA and O. SEEHAUSEN
+Table 3 Comparison of observed Hardy–Weinberg heterozygosity (He) and the expectation at mutation-drift equilibrium (Heq) under a stepwise mutation model. For the neutral markers (non-outliers), the number of loci showing a heterozygosity excess (He > Heq) or deficit (He < Heq) is indicated (for full results see Table S4)
+   Drainage
+Poschiavino Poschiavino Poschiavino Poschiavino Poschiavino Poschiavino Poschiavino Poschiavino Ticino Ticino Ticino Ticino Ticino Rhine Rhine Rhine Rhine Rhine Rhine Rhine Rhine Rhine Rhine Rhine Rhine Rhine Allaine Allaine Allaine Allaine
+Neutral
+Site Excess Deficit P-value
+MHC linked
+UBA TAP2a
+0.029 0.075 )0.014 0.052 )0.008 0.083
+0.009 0.065
+0.016 0.079 )0.017 0.099 )0.026 0.202 )0.015 0.039 )0.009 0.093 )0.135 0.103 )0.073 0.100
+0.039 0.086 )0.058 0.100 0.061 0.070 )0.016 0.053 0.063 0.093 )0.064 0.120 0.008 0.106 )0.079 0.110 )0.005 0.136 0.014 0.096 0.005 0.100 )0.047 0.097 )0.019 0.106 )0.007 0.128 )0.063 0.041 0.011 0.025 0.009 )0.029 0.009 0.100 0.018 0.098
+TAP2b Ssa60 )0.014 )0.004
+)0.047 0.003 )0.008 NA
+0.020 )0.007 0.027 )0.018 0.025 NA 0.032 NA 0.014 0.001
+)0.053 )0.015 0.017 NA 0.009 NA
+)0.022 )0.018 0.003 NA
+)0.035 )0.048 )0.043 NA )0.020 0.004 )0.050 0.009 )0.080 )0.025 )0.068 )0.003
+0.024 NA )0.025 )0.023 )0.037 )0.017 )0.040 )0.011 )0.141 )0.008 )0.028 NA )0.102 NA )0.046 NA
+0.000 NA 0.045 NA 0.017 NA
+  TI 7 ZA 3 BR 4 LA 5 CA 8 LP 3 SO 4 PI 6 MA 2 BI 1 BO 2 LO 4 LU 3 RU 10 KI 4 SC 6 HE 7 SA 5 RO 5 AN 4 GO 7 BL 5 SE 4 FR 4 LB 3 SB 3 BU 6 PR 5 AL 6 MI 6
+4 0.577 8 0.083 7 0.175 6 0.240 3 0.831 8 0.206 7 0.021 5 0.638 9 0.002
+10 0.001 9 0.007 7 0.240 8 0.016 1 0.002 7 0.206 5 0.898 4 0.966 6 0.278 6 0.240 7 0.123 4 0.765 6 0.966 7 0.067 7 0.365 8 0.067 8 0.175 4 0.625 6 0.278 5 0.638 5 0.765
+ MHC, major histocompatibility complex.
+P-value = two-sided P-value for heterozygosity excess or deficit
+loci, He ) Heq is given. Values significantly different from zero (P < 0.05) are shown in bold.
+observed in the Poschiavino and, to a lesser extent, the Ticino (this study, Largiade`r & Scholl 1995).
+However, it is also evident that nonindigenous genotypes have persisted in all Swiss drainages since the ban of between-drainage translocations in 1991 (Bundesgesetz u ̈ber die Fischerei). Historically, large numbers of Atlantic trout were introduced throughout Switzerland and, on a more local scale, the Poschiavino was also stocked with fish of Danubian origin (Largiade`r & Scholl 1995). Such mostly asymmetric gene flow from the Rhine (i.e. Atlantic trout) into the different Mediterranean drainages (Allaine, Ticino, Poschiavino) is consistent with the molecular data which show that genetic variants typical of Atlantic trout occur in all Swiss drainages (Largiade`r & Scholl 1995, 1996; this study and our own unpublished data using other markers). An exception to
+this general pattern is provided by our population SE from the Rhine which appears genetically similar to the Ticino populations. Elevated frequencies (10%; Table S5, Supporting information) of non-Atlantic alleles at one of the diagnostic markers and the presence of mitochondrial haplotypes typical of Danubian and marble trouts (our own unpublished data) suggest that, in the past, the site was stocked with fish from more than one source outside the Rhine system.
+Genetic differentiation within drainages at neutral markers
+Within drainages, populations were often significantly differentiated and geographical proximity was generally a good predictor of genetic similarity at neutral
+from
+a Wilcoxon test based on all neutral loci. For the MHC-linked
+Ó 2011 Blackwell Publishing Ltd
+
+markers. These results suggest that, also within rivers, the expected natural population structure may not have been erased completely by the effects of artificial stocking. An exception may be the Poschiavino river where genetic differentiation is generally low in spite of significant physical barriers at least between some of our sampling locations. This is surprising because besides the Allaine, the Poschiavino harbours the largest phenotypic variation between and within populations.
+Overall, the patterns of genetic diversity at neutral markers suggest that the rates of gene flow in trout are probably high but still not high enough to completely homogenize allele frequencies along the river continuum.
+Indications for sympatric coexistence of two trout species in the Allaine
+The neutral microsatellite data suggest particularly intriguing genetic patterns in the river Allaine. This river is part of the Doubs subdrainage within the Rhone system and, historically, it would have contained trout of the Mediterranean lineage, which are considered a distinct species in the recent taxonomic reassessment of the European trout complex (S. rhodanensis; Kottelat & Freyhof 2007). S. rhodanensis have a very distinct phenotype and are also known as zebra trout because of four characteristic broad black bars on the flanks of adult fish (e.g. Mezzera et al. 1997). Like all Mediterranean drainages in Switzerland, the Doubs region was heavily stocked with hatchery fish of Atlantic origin in the past (e.g Largiade`r & Scholl 1996).
+Our molecular analyses, indeed, detected two genetic clusters within the Allaine whose relative frequency changed between the upstream and downstream section of the river. Within sites, we observed fairly nonadmixed genotypes of both groups but also some admixed individuals (Figs 3 and S1d, Supporting information). Together with observed allele frequency clines at both diagnostic loci (Table S5, Supporting information), this result suggests a decrease in the relative frequency of Mediterranean-like alleles and genotypes from the downstream towards the upstream populations. This interpretation is also in line with the phenotypic diversity observed in our samples. A subset of 43 individuals from all four sites could be grouped as Atlantic-like (79%) or Mediterranean-like (21%) based on their phenotypes, with all Mediterranean-like individuals restricted to the lower reaches of the Allaine (sites BU and PR). Individuals with a Mediterranean-like phenotype tended to be assigned almost exclusively to one of the clusters identified by STRUCTURE, while the admixture proportions in individuals with an Atlantic-like phenotype were more variable.
+A very striking pattern was observed at the outlier locus Ssa14, which showed not only elevated levels of genetic differentiation but also exceptionally strong deviations from HWE. The almost complete absence of heterozygous genotypes is almost certainly not caused by a high-frequency null allele as not a single missing genotype (i.e. null homozygote) was observed. Possible explanations for the observed pattern include perfect assortative mating between two lineages fixed for alternative alleles and ⁄ or very strong selection against heterozygotes. Lineage-specific differences at this locus are indeed suggested by the observation that Ssa14 is often fixed or nearly fixed in Atlantic populations (Table S5, Supporting information; see also supplementary data of Hansen et al. 2010), and polymorphic in populations with a more diverse ancestry (e.g. Allaine, Poschiavino; Table S5, Supporting information). Within the Allaine, the frequency of allele 140 that is otherwise typical of Atlantic (i.e. Rhine) populations declines from 58% in the two upstream sites to 18% in the two downstream sites, concordant with the decrease of AT-like genotypes.
+Together, our results indicate partial reproductive isolation between trout of Atlantic and Mediterranean origin, as suggested also by previous studies (Largiade`r & Scholl 1996; Mezzera & Largiade`r 2001). The extent of reproductive barriers between the two forms and the traits that confer such barriers will need to be further examined. Similar to our results, other authors have found large between-site variation in the proportion of Mediterranean-like genotypes in populations heavily stocked with fish of Atlantic origin and have hypothesized that these patterns could be caused by differences in local environments (Largiade`r & Scholl 1996; Poteaux et al. 1998; Berrebi et al. 2000). However, the ecological factors that permit or prevent coexistence will need to be further examined.
+Contrary to the Allaine, we do not observe similarly distinct groups of genotypes in the rivers draining into the Po where, historically, at least two trout forms would have co-occurred. However, we are cautious not to exclude the possibility that more subtle substructure may exist in these drainages. For further investigation, we are currently analysing the same samples at a larger number of random genomic loci.
+Potentially adaptive population differentiation
+The different outlier scans detected unusual levels of population differentiation at several loci from all three categories (candidate, diagnostic and anonymous). Between-drainage differentiation was elevated at two loci, for which we know (in the case of JMS1M1; Estoup et al. 2000) or suspect (Ssa14) that different alleles were
+Ó 2011 Blackwell Publishing Ltd
+GENETIC DIVERSITY IN ALPINE TROUT 1899
+
+1900 I. KELLER, A. TAVERNA and O. SEEHAUSEN
+originally associated with certain Pleistocene trout lineages. Such species-specificity of particular genetic variants may be a direct consequence of different selection pressures experienced by different evolutionary lineages (Minder & Widmer 2008). The fact that above-average levels of differentiation are maintained could suggest that these selection pressures are still operating between drainages today.
+It was not consistently the same loci which showed outlier behaviour in the different drainages. The power to detect outliers almost certainly varies between drainages but the loci showing the strongest evidence of outlier behaviour were clearly not always the same. Such a pattern could result from between-drainage differences in the amount and type of (adaptive) genetic variation available to selection. This could apply for instance to the divergence at Ssa14, a locus lacking variation in the Rhine and Ticino. Alternatively, or additionally, the relative intensity of divergent selection on particular traits may differ between regions.
+At this point, it is unclear which environmental differences could underlie population divergence at the detected outlier loci. Overall, altitudinal differences appear to play a limited role with the possible exception of the MHC I linked marker UBA.
+Conclusions about genome-wide patterns of adaptive divergence in these populations are clearly not possible based on the limited number of markers used in this study. However, this does not invalidate our conclusion that individual loci show levels of genetic differentiation considerably higher than the neutral average which may suggest the action of divergent selection. A methodological concern in smaller data sets may be that this average neutral differentiation is less accurately estimated and more strongly influenced by individual loci. Against this background, and to reduce the number of false positives, we used stringent significance thresholds in all analyses. Further, all outlier scans in ARLEQUIN were carried out in an iterative manner where average FST was recalculated after excluding outlier loci until no further outlier loci were found.
+Evidence of selection acting on immune loci
+The patterns of diversity at locus UBA suggest that, sometimes, different MHC I variants (or sets of variants) may be favoured in different populations as previously observed in a range of other species (see e.g. Muirhead 2001). In the Poschiavino, UBA showed consistently larger divergence between populations compared to neutral loci. In the Rhine, on the other hand, we observed three populations (RU, HE and SE) that were clearly distinct while all others grouped together and, surprisingly, even overlapped with the Allaine
+and Ticino samples. This suggests that, while some populations have very distinct UBA allele frequencies, others are more similar than predicted based on the neutral genetic structure. Consistent with this result, other studies have found that the type (i.e. balancing or directional) and intensity of selection acting on the MHC can be highly variable both in space and ⁄ or time (reviewed in Bernatchez & Landry 2003; Piertney & Oliver 2006). The correlation of some UBA alleles with altitude in several drainages may further point to replicated changes in the composition of local pathogen ⁄ parasite communities along these altitudinal gradients.
+Contrary to UBA, the pattern of genetic diversity at the second locus within the MHC region IA, TAP2a, appeared more consistent with the action of balancing selection. The overall level of genetic differentiation observed at TAP2a was relatively low (FST = 0.039), but none of the outlier scans found this to be inconsistent with the genomic average (average neutral FST = 0.059). What was remarkable, however, was the extremely even frequencies of the different TAP2a alleles, with exactly the same four alleles present in 29 of the 30 populations. In line with this result, the relative frequencies of the four alleles were remarkably even also within populations leading to systematically higher observed Hardy–Weinberg heterozygosities (He) than expected at mutation-drift equilibrium (Heq) as predicted under balancing selection (Maruyama & Nei 1981).
+Clearly, the evidence of balancing selection suggested by this analysis is tentative. The main concern is that estimates of equilibrium heterozygosity depend heavily on the mutation model, and that each locus probably deviates to a different extent from the assumed SMM. If, for example, TAP2a followed a strict SMM, while the neutral loci did not, the heterozygosity excess at TAP2a would no longer be outside the range observed at neutral loci. Such a scenario seems rather unlikely, however, given that TAP2a is an interrupted microsatellite and is, therefore, expected to deviate more from an SMM (Cornuet & Luikart 1996) than the neutral microsatellites which are mostly pure dinucleotide repeats (9 of 11 loci; Table S2, Supporting information).
+TAP2a was also investigated in brown trout from different Danish river systems and exhibited similar or lower levels of genetic differentiation between populations than neutral markers (Jensen et al. 2008; note that our locus TAP2a corresponds to TAP2B of Jensen et al.). The functional role of TAP2 polymorphism is poorly understood even in humans (McCluskey et al. 2004) but, in some species, strong linkage disequilibria (LD) between MHC I and TAP2 alleles have been observed
+Ó 2011 Blackwell Publishing Ltd
+
+(Ohta et al. 2003), which may suggest a selective advantage of particular allelic combinations. Despite some LD between UBA and TAP2a in our populations consistent with their close physical proximity (28 kb in the related Atlantic salmon; Lukacs et al. 2010), the two markers show clearly distinct patterns of genetic divergence which suggests recombination rates high enough for the two loci to respond, to a large extent, independently to selection.
+It is clear that differences in locus-specific mutation rates and recombination can lead to an imperfect association between microsatellite alleles and particular functional variants. Still, our results demonstrate that the analysis of microsatellite markers within the MHC region may be a rapid and cost-effective way to assess the promise of more detailed and time-consuming molecular analyses of functional polymorphisms, which would certainly be warranted in this system.
+Conclusions
+Our survey of different categories of microsatellite markers in Swiss trout populations revealed that considerable regional genetic differences have persisted in spite of massive artificial stocking, which, in the past, was performed without considering the geographical origin of the introduced fish. Further, we find evidence of adaptive genetic differences between populations which are often drainage specific. Our results tentatively implicate loci historically associated with particular evolutionary trout lineages as well as genes of the immune system in local adaptation.
+Acknowledgements
+We thank everyone who helped with fieldwork, in particular B. Almasi, C. Baumgartner, L. Costa, J.-M. Fierz, B. Germann, M. Gru ̈nenfelder, S. Haertel, J. Koegler, A. Lie`vre, A. Peter, B. Polli, C. Rau, E. Schager, J. Schuler, D. Senn, B. Tschirren, H. Walther, P. Warnier, and A. Westram. We are grateful to the fisheries authorities of Bern, Graubu ̈nden, Jura, Luzern, St. Gallen, Solothurn, Thurgau, Ticino, Uri and the province of Sondrio, Italy, for their support of this project. We further thank E. Bezault, L. Excoffier, M. Foll, S. Haertel, J. Hines, J. Jokela, K. Klappert, K. Kopp, S. Mwaiko, G. Pe ́riat and A. Peter for help with molecular work and ⁄ or helpful discussions. We are grateful to the subject editor and three anonymous reviewers for their detailed and constructive comments on an earlier version of this manuscript. This study was part of BioChange financed through ETH-CCES.
+References
+Ó 2011 Blackwell Publishing Ltd
+GENETIC DIVERSITY IN ALPINE TROUT 1901

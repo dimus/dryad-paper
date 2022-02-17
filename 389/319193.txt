@@ -1,0 +1,270 @@
+  The University of Chicago
+The Strength of Phenotypic Selection in Natural Populations.
+Author(s): J. G. Kingsolver, H. E. Hoekstra, J. M. Hoekstra, D. Berrigan, S. N. Vignieri, C. E. Hill, A. Hoang, P. Gibert, and P. Beerli
+Reviewed work(s):
+Source: The American Naturalist, Vol. 157, No. 3 (March 2001), pp. 245-261
+Published by: The University of Chicago Press for The American Society of Naturalists
+Stable URL: http://www.jstor.org/stable/10.1086/319193 .
+Accessed: 19/06/2012 15:40
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at . http://www.jstor.org/page/info/about/policies/terms.jsp
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+         http://www.jstor.org
+The University of Chicago Press, The American Society of Naturalists, The University of Chicago are collaborating with JSTOR to digitize, preserve and extend access to The American Naturalist.
+
+ vol. 157, no. 3
+the american naturalist
+march 2001
+ The Strength of Phenotypic Selection in Natural Populations
+J. G. Kingsolver,1,* H. E. Hoekstra,1 J. M. Hoekstra,1,† D. Berrigan,1,‡ S. N. Vignieri,1 C. E. Hill,1,§ A. Hoang,1 P. Gibert,1,k and P. Beerli2
+1. Department of Zoology, University of Washington, Seattle, Washington 98195;
+2. Department of Genetics, University of Washington, Seattle, Washington 98195
+Submitted June 9, 2000; Accepted October 31, 2000
+  How strong is phenotypic selection on quantitative traits in nature? Is strong directional selection rare? Is stabilizing or correlational selection common? Is selection more intense on life history than on morphological traits? What is the relative importance of direct versus indirect selection on correlated traits? The answers to these and similar questions are fundamental to understanding the role of selection in determining evolutionary changes and adaptation in current populations. In his influential book, Natural Selection in the Wild, Endler (1986) provided a comprehensive review of published field studies of selection through 1983. His synthesis documented the abundant evidence that selection on quantitative traits occurs frequently in natural populations. However, quantitative estimates of the strength of phenotypic selection on quantitative traits were largely lacking at that time (e.g., Endler’s review reports values of directional selection differentials from a total of 25 species).
+The early 1980s also saw the development and introduction of new methods for estimating the strength of selection on multiple quantitative traits (Lande 1979; Lande and Arnold 1983; Arnold and Wade 1984a, 1984b). These methods had two important advantages. First, they provided a means of distinguishing the direct and indirect components of selection on a set of correlated traits. This allowed researchers to use simple statistical methods (partial regression models) to estimate the strength of direct selection on a trait in terms of a common metric, the selection gradient, that represents the relationship of relative fitness to the variation in a quantitative trait measured in standard deviation units. Second, selection gradients were shown to be directly relevant to quantitative genetic models for the evolution of multiple, correlated traits (Lande 1979; Lande and Arnold 1983).
+   abstract: How strong is phenotypic selection on quantitative traits in the wild? We reviewed the literature from 1984 through 1997 for studies that estimated the strength of linear and quadratic selection in terms of standardized selection gradients or differentials on natural variation in quantitative traits for field populations. We tabulated 63 published studies of 62 species that reported over 2,500 estimates of linear or quadratic selection. More than 80% of the estimates were for morphological traits; there is very little data for behavioral or physiological traits. Most published selection studies were unreplicated and had sample sizes below 135 individuals, resulting in low statistical power to detect selection of the magnitude typically reported for natural populations. The absolute values of linear selection gradients FbF were exponentially distributed with an overall median of 0.16, suggesting that strong directional selection was uncommon. The values of FbF for selection on morphological and on life-history/ phenological traits were significantly different: on average, selection on morphology was stronger than selection on phenology/life history. Similarly, the values of FbF for selection via aspects of survival, fecundity, and mating success were significantly different: on average, selection on mating success was stronger than on survival. Comparisons of estimated linear selection gradients and differentials suggest that indirect components of phenotypic selection were usually modest relative to direct components. The absolute values of quadratic selection gradients FgF were exponentially distributed with an
+overall median of only 0.10, suggesting that quadratic selection is typically quite weak. The distribution of g values was symmetric about 0, providing no evidence that stabilizing selection is stronger or more common than disruptive selection in nature.
+Keywords: microevolution, natural populations, natural selection, phenotypic selection, sexual selection.
+ * Corresponding author. Present address: Department of Biology, University of North Carolina, Chapel Hill, North Carolina 27599-3280; e-mail: jgking@ bio.unc.edu.
+† Present address: Department of Ecology and Evolutionary Biology, University of Arizona, Tucson, Arizona 20892.
+‡ Present address: National Cancer Institute, Bethesda, Maryland 20892.
+§ Present address: Department of Biology, Coastal Carolina University, Conway, South Carolina 29528.
+k Present address: Laboratoire Populations, Genetique, et Evolution, Centre National de la Recherche Scientifique, 91198, Gif Sur Yvette Cedex, France.
+Am. Nat. 2001. Vol. 157, pp. 245–261. 􏱞 2001 by The University of Chicago. 0003-0147/2001/15703-0001$03.00. All rights reserved.
+
+ 246 The American Naturalist
+Table 1: Summary of the database of phenotypic
+selection studies (1984–1997)
+  ical Transactions of the Royal Society of London, Proceedings of the Royal Society of London, and Science. These represent the major peer-reviewed outlets for original scientific research on phenotypic selection. We did not include unpublished studies or studies published in book chapters or technical reports, for which it is more difficult to assess quality control.
+We used four main criteria for including studies in our analyses. First, the studies involved quantitative traits showing continuous phenotypic variation within the study population: studies of discrete and categorical traits were not considered. Second, the studies examined natural phenotypic variation within populations: studies involving genetically or phenotypically manipulated traits, highly inbred or experimental genetic lines, or domesticated species were not considered. Third, the studies were conducted in natural conditions in the field: studies in the lab, greenhouse, experimental plots, or other controlled environmental conditions were not considered.
+The fourth criterion concerns the metrics used to estimate selection. We included only those studies that reported one or more of the following metrics: standardized linear selection gradients (b), standardized quadratic selection gradients (g), standardized linear selection differentials (i), or standardized quadratic selection differentials (Lande and Arnold 1983; Arnold and Wade 1984a, 1984b). These metrics estimate selection on a trait in terms of the effects on relative fitness in units of (phenotypic) standard deviations of the trait, allowing direct comparisons among traits, fitness components, and study systems. Selection gradients estimate the selection directly on the trait of interest, whereas selection differentials estimate total selection on the trait acting both directly and indirectly via selection on other, correlated traits (Lande and Arnold 1983). Linear selection gradients and differentials estimate the strength of directional selection; quadratic selection gradients and differentials estimate the curvature of the selection function. Note that stabilizing selection on a trait implies that the quadratic selection gradient and differential are negative, and disruptive selection on a trait implies that the quadratic selection gradient and differential are positive. However, the converse is not true: a negative quadratic selection gradient or differential is not sufficient to demonstrate stabilizing selection (Mitchell-Olds and Shaw 1987).
+These criteria exclude many important and interesting studies of selection—we estimate that more than half of all studies of selection in our target journals were excluded by these criteria. However, this enables us to focus our analyses on the question, What are the patterns of phenotypic selection on natural variation in quantitative traits in natural populations in the wild?
+  Studies Records Species Genera Taxon type:
+Invertebrates (I) Plants (P) Vertebrates (V)
+Study type: Cross-sectional (C) Longitudinal (L)
+Number of items in the database
+63 1,582 62 51
+534 records 587 records 461 records
+(19 studies) (18 studies) (27 studies)
+14 studies 51 studies
+ These and other advances led to an explosion of field studies of selection on quantitative traits in a variety of systems during the ensuing 15 yr. These studies have been important for exploring the role of selection for evolution of particular traits in many specific model systems of interest. However, while aspects of these studies have been reviewed with respect to specific issues or taxa (Primack and Kang 1989; Travis 1989; Gontard-Danek and Møller 1999), no synthesis of this literature has emerged that examines the strength of selection in natural systems more generally.
+In this report, we describe such a synthesis. We have reviewed the published literature from 1984 through 1997 that reported standardized selection gradients and/or selection differentials on natural variation in quantitative traits within field populations. Using the resulting database, we explore how the strength of directional and quadratic selection varies across systems, traits, and fitness components and examine the power of these studies for detecting selection on quantitative traits.
+Methods
+General Considerations
+We started our literature review with 1984 because Endler’s monograph (1986) reviewed the literature on selection, including estimates of selection differentials, published by the end of 1983. We examined all studies published from 1984 through 1997 in 15 peer-reviewed journals: American Journal of Botany, American Naturalist, Annals of the Entomological Society of America, Biological Journal of the Linnean Society, Ecological Entomology, Ecology, Environmental Entomology, Evolution, Evolutionary Ecology, Genetics, Heredity, Journal of Evolutionary Biology, Nature, Philosoph-
+
+ Strength of Phenotypic Selection 247
+ Table 2: Summary of the studies of phenotypic selection
+included in
+Metric
+Sample size Total no. of Total no. of
+measures
+No. of temporal
+replicates No. of spatial replicates
+the database
+ Median Mode Range
+ traits fitness
+134 ...
+4 1 1–8
+1 1 1–8 1 1 1–10 1 1 1–12
+The Database
+10–8,088
+ Five kinds of data were recorded from each included study into a database (for details of fields and variables, see appendix): first, the study system, for example, species name and taxonomic grouping (see below), geographic location, and type of habitat; second, the study, for example, method of analysis (e.g., cross-sectional) and the number of temporal and spatial replicates; third, the traits, for example, number of traits in the study and trait class (e.g., morphological); fourth, fitness, for example, fitness component (e.g., survival) and number of fitness measures in the study; and, finally, selection estimates, for example, estimates of selection gradients and/or differentials, associated standard errors and P values, and sample size.
+Each record in the database contains the information
+ about linear and quadratic selection on a single trait for one selection episode within one replicate within a study. (Information about correlational selection, which involves a combination of traits, is coded as a separate record.) As a result, a single study may contribute more than one record to the database (see tables 1, 2).
+The process of assembling the database proceeded in four steps. First, an initial reviewer was assigned to part or all of each target journal; a total of 15 reviewers were involved. Each reviewer surveyed all the articles published in his/her assigned journal and identified those studies that met all the criteria for inclusion. The reviewer then coded the studies into the database. Second, an independent editor was assigned to a set of studies in the database; a total of nine editors (the authors of this article) were involved. We ensured that the reviewer and the editor were different individuals for each study. The editor independently coded each assigned study and corrected any errors in the database; ambiguities were discussed by the entire group of editors and resolved. Third, all the editors independently coded two studies in the database to assess variability among editors in codings. We used this information to exclude some fields from the database that were not coded consistently among the editors. Fourth, one author (J. G. Kingsolver) searched the assembled database to identify and to correct remaining errors and empty cells. We excluded one study that reported two extreme outlier estimates for linear selection gradients where b exceeded 5. While some errors and ambiguities in the database prob-
+ Table 3: Number of estimates of linear selection in the database as a function of taxon, trait type, and fitness component
+Taxon Trait Fitness component Estimates of linear selection gradientsa
+   Invertebrates 333 Plants 363 Vertebrates 297
+... ... ... ... ... ...
+Invertebrates 233 Plants 183 Vertebrates 337
+Morphology 815 Life history/phenology 128 Principal component 33 Behavior 14 Interaction NA Other 3
+Mating success 407 Survival 288 Fecundity 271 Total fitness 19 Net reproductive rate 3 Other 5
+ Estimates of linear selection differentialsb
+ Morphology 594 Life history/phenology 125 Principal component 21
+Mating success 267 Survival 293 Fecundity 142 Total fitness 34 Net reproductive rate 12 Other 5
+...... Behavior 10
+...... Interaction NA
+...... Other 3
+Note: NA p not applicable. a N p 993 total estimates.
+b N p 753 total estimates.
+ 
+ 248 The American Naturalist
+ Table 4: Number of estimates of quadratic selection in the database as a function of taxon, trait type, and fitness component
+Taxon Trait Fitness component Estimates of quadratic selection gradients, g /g a
+   Invertebrates 215/44 Plants 147/59 Vertebrates 103/6
+... ...
+... ...
+... ...
+Morphology 358 Life history/phenology 77 Principal component 9 Behavior 15 Interaction 109 Other 6
+ii ij
+Mating success 139/26 Survival 112/19 Fecundity 199/64 Total fitness 0/0 Net reproductive rate 0/0 Other 0/0
+ Invertebrates 56 Plants 69 Vertebrates 104
+... ...
+... ...
+... ...
+Morphology 183 Life history/phenology 28 Principal component 6 Behavior 3 Interaction NR Other 3
+Mating success 52 Survival 110 Fecundity 65 Total fitness 2 Net reproductive rate 0 Other 0
+Estimates of quadratic selection differentialsb
+  Note: NR p not recorded.
+a N p 465/109 total estimates. b N p 229 total estimates.
+ ably remain and another set of researchers might code these same studies somewhat differently, this process helped to ensure that our codings are internally consistent.
+Analysis
+The database includes a highly heterogeneous set of studies and study systems with disparate biological characteristics:
+  Figure 1: Linear selection gradient estimates (b) as a function of sample size (log10 scale; N p 993 estimates). The statistical significance (at the P p .05 level) of each estimate is given: filled circles indicate significantly different from 0; open circles indicate not significant; x’s indicate significance of the estimate not available.
+ the overall “average” strength of selection is unlikely to be very informative. We focus our analyses on the distributions of selection strengths and on how methodological (e.g., type of study, sample size) or biological (e.g., trait type, fitness component, taxon) characteristics may contribute to the heterogeneity of selection strengths. We explore these issues graphically. We did not conduct formal
+
+ Strength of Phenotypic Selection 249
+ Figure 2: Median value of the linear selection gradient estimates (FbF) as a function of sample size (log10 scale) for each replicate of each study. Data for both cross-sectional (filled circles, N p 32) and longitudinal (open squares, N p 85) are included.
+ meta-analyses (Hedges and Olkin 1985; Arnqvist and Wooster 1995) of these data for two reasons. First, most of the studies contributed multiple estimates of selection, often involving multiple traits and/or fitness measures estimated from a single experiment; as a result, the data are clearly not independent (Gurevitch and Hedges 1999). Second, because selection gradients represent partial regression coefficients, meta-analysis requires information about the entire phenotypic variance-covariance matrix for each study (L. Hedges, personal communication); this was not available for most studies. Meta-analysis of selection differentials only requires knowledge of variances (or the equivalent), but most studies did not report variances or standard errors for estimates of selection differentials. We recommend that studies of selection report this information so that valid meta-analyses of selection can be performed in the future.
+Results
+Summary of the Database and Studies
+We identified 63 studies of 62 species in 51 genera that met our criteria for inclusion (table 1). The majority of studies (81%) used longitudinal (cohort) methods of analysis for detecting selection. The resulting database had 1,582 total records, in which invertebrates, plants, and vertebrates were
+ all well represented. The studies were diverse in terms of numbers of traits, number of fitness measures, replication, and sample size (table 2); for example, sample sizes associated with the estimates ranged from 10 to 8,088. However, the majority of studies were not replicated and measured selection on one to four traits; the median sample size across studies was 134. This small sample size results in quite low power to detect selection. For example, consider a trait under directional selection such that b p 0.2. In a selection study of this trait using a sample size of 134, the probability that one could reject the null hypothesis of no selection (b p 0) at the 95% level is !50% (see “Discussion”).
+The database contained 993 estimates of linear selection gradients (b) and 753 estimates of standardized linear differentials (i; table 3). Note that many studies reported both gradients and differentials for the same traits (see fig. 6 below). Invertebrates, plants, and vertebrates were all well represented in these estimates. Over 80% of the estimates were for morphological traits, and 13%–17% were for lifehistory/phenological traits. Other types of traits were poorly represented. Estimates involving aspects of mating success, fecundity, and survival are all well represented; estimates for more comprehensive aspects of fitness, such as net reproduction rate or intrinsic rate of increase, are rare.
+There were 574 estimates of quadratic selection gradients (g) in the database (table 4); quadratic selection differentials
+
+ 250 The American Naturalist
+  Figure 3: Frequency distribution of the absolute values of the linear selection gradient estimates (FbF) binned at 0.05 value intervals (N p 993). The distributions are stacked according to the statistical significance (at the P p .05 level) of each individual estimates: black indicates significantly different from 0; grey indicates not significant; open indicates significance of the estimates not available.
+ the absolute value FbF as an estimate of the magnitude of selection.
+Because most studies report multiple estimates of selection, many of the estimates are not independent. To evaluate this, we plotted the median magnitude of selection FbF for each replicate of each study as a function of sample size (fig. 2). Again the median FbF is typically between 0.0 and 0.3 at all sample sizes; most values exceeding 0.3 occur at smaller sample sizes, as expected from sampling variance. Note that most studies using cross-sectional methods of analysis had sample sizes smaller than the overall median sample size (134), and all replicates with sample sizes !25 involved cross-sectional methods. This is of interest because cross-sectional methods generally require more stringent assumptions than longitudinal (cohort) methods (Endler 1986).
+The frequency distribution of the magnitude of linear selection (FbF) is approximately exponentially distributed, with a mean value of 0.22 (fig. 3). The exponential distribution implies that the magnitude of FbF is typically rather modest (median of 0.16) but with a long tail of larger values. For example, 13% of the estimates of FbF were 10.5, and 5% were 10.75. Note that only 25% of the individual estimates of FbF are significantly different from 0 at the 95% level; only for FbF greater than ∼0.3 are the majority of estimates significantly different from 0. This reflects the low
+ were less commonly reported (table 4). As for linear selection estimates, most estimates of quadratic selection were for morphological traits, with life-history/phenological traits also represented. There were 109 estimates of correlational selection recorded (off-diagonal elements of g: “Interaction” in table 4); 58% of these involved pairs of morphological traits, and 29% involved combinations of morphological with life-history/phenological traits.
+Strength of Linear (Directional) Selection
+Most estimates for the linear gradient (b) varied between 􏱛1 and 1 (fig. 1). Variation in b decreased with increasing sample size, as expected if sampling variance contributes substantially to the total variance in b (Light and Pillemer 1984; Palmer 1999). For sample sizes 11,000, most estimates cluster between 􏱛0.1 and 0.1. Note that, for very small sample sizes (!20), there are few estimates near 0; this may reflect a “file drawer” phenomenon, in which studies with small sample size that do not suggest strong selection are unlikely to be submitted and accepted for publication and are thus not represented in our database (Iyengar and Greenhouse 1988; Palmer 1999). For our purposes, the direction of selection (plus or minus) is not informative, and the distribution of b values is fairly symmetric about 0; thus, it is generally more useful to consider
+
+ Strength of Phenotypic Selection 251
+  Figure 4: Frequency distribution of the absolute values of the linear selection gradient estimates (FbF) binned at 0.05 value intervals, for morphological traits (solid line, N p 815) and life-history/phenological traits (dashed line, N p 128).
+statistical power of most studies to detect “typical” selection (see “Discussion”).
+For morphological and for life-history/phenological traits (table 3), there are enough estimates to compare the frequency distributions of the magnitude of linear selection (FbF; fig. 4). The values of FbF for morphological and lifehistory/phenological traits are significantly different (Wilcoxon rank sum test: Z p 4.25, P ! .001): the magnitude of selection on morphological traits (median FbF p 0.17) is typically greater than on life-history/phenological traits (median FbF p 0.08; fig. 4). This basic difference between morphological and life-history/phenological traits also holds within taxa (e.g., within vertebrates and within plants). It is interesting that 161% of the estimates of b for life-history/ phenological traits were for plants; few studies have reported estimates of selection strengths on life history in animals, particularly for invertebrates.
+The magnitudes of linear selection (FbF) are also significantly different (Kruskal-Wallis rank sum test: x2 p 49.22, df p 2, P ! .001) for selection via different components of fitness (fig. 5). In particular, values of FbF ! 0.10 are much more frequent for selection via survival (median FbF p 0.09) than via fecundity (median FbF p 0.16) or mating success (median FbF p 0.18). This basic difference between selection on survival and mating success holds for vertebrates and for plants but is less clear for selection within invertebrates; it also holds when only morphological traits are considered. This pattern suggests that sexual selection is stronger than viability selection.
+Our analyses thus far consider standardized selection
+  gradients (b), which estimate the strength of selection directly on the trait of interest (Lande and Arnold 1983). In contrast, standardized selection differentials (i) estimate the total strength of selection on a trait, resulting both from direct selection and from indirect effects of selection on correlated traits. Because many studies reported estimates of both b and i for the same traits, we can evaluate the relationship between direct and total components of linear selection (fig. 6). Similar values for b and i indicate that direct and total selection are similar, implying that indirect effects of selection on correlated traits are small. Figure 6 shows that most of the estimates for b and i do fall on or near the 1 : 1 line, suggesting that indirect selection is usually small relative to direct selection. In addition, there are only a handful of cases (upper left and lower right quadrants of fig. 6) where both selection gradients and differentials are individually significant and where the gradients and differentials are of opposite sign (i.e., where estimates of direct and total selection are in opposite directions).
+Strength of Quadratic Selection
+The quadratic selection gradient (g) estimates the curvature of the relative fitness surface about the mean trait value. Most estimates for the quadratic gradient (g) varied between 􏱛1 and 1 (fig. 7). Variation in g decreased with increasing sample size for sample sizes above 200–300, as expected if sampling variance contributes substantially to the total variance (Light and Pillemer 1984). As for the
+
+ 252 The American Naturalist
+  Figure 5: Frequency distribution of the absolute values of the linear selection gradient estimates (FbF) binned at 0.05 value intervals, for selection via three different components of fitness: fecundity (solid line, N p 271), mating success (short dashes, N p 407), and survival (long dashes, N p 288).
+ linear gradients, for sample sizes above 1,000, most estimates of g cluster between 􏱛0.1 and 0.1. Note that, for very small sample sizes (!30), there are few small or nonsignificant estimates of g reported, suggesting a strong file drawer effect in which studies with small sample sizes that do not suggest strong selection are unlikely to be submitted and accepted for publication (Iyengar and Greenhouse 1988; Palmer 1999). Indeed, some studies stated that estimates of g were initially computed but were not significant and were therefore not reported in the published paper.
+The quadratic selection gradients (g) represent the curvature of fitness with respect to the traits: stabilizing selection implies negative curvature (g ! 0), whereas disruptive selection implies positive curvature (g 1 0). The frequency distribution of g is approximately double exponential (fig. 8), with most values concentrated near 0. The magnitude of quadratic selection is typically small, with a median FgF of 0.10, and 84% of the individual estimates are not significantly different from 0. In addition, the distribution of gii is symmetrical about 0. These results suggest that quadratic selection is typically quite weak, and they provide no evidence that stabilizing selection is stronger or more common than disruptive selection. Although the data are much sparser (109 estimates), the frequency distribution of off-diagonal elements of g, representing correlational selection, is qualitatively similar to that for the diagonal elements.
+ The magnitudes of quadratic selection strengths also varied significantly among fitness components (fig. 9; Kruskal-Wallis rank sum test: x2 p 112.04, df p 2, P ! .001). As for linear selection, the magnitude of quadratic selection via survival is typically weaker (median FgF p 0.02) than quadratic selection via fecundity (median FgF p 0.14) or mating success (median FgF p 0.16). This pattern appears to hold within taxa, though the number of estimates available are rather small (table 4).
+Discussion: What Have We Learned about Selection?
+Limitations of the Studies, Database, and Analyses
+With over 2,500 published estimates of selection gradients and differentials, our information about the strength of phenotypic selection in natural populations has expanded by more than fivefold since the time of Endler’s (1986) review. In addition, these estimates are only a subset, perhaps a minority, of the published evidence on phenotypic selection, since we excluded many interesting published studies of selection in the field because they did not satisfy our criteria for inclusion (see “Methods”). The primary reasons for exclusion were the use of alternative methods for estimating or analyzing selection and the use of experimentally generated variation in phenotypes or in environmental conditions. What have we learned from this
+
+ Strength of Phenotypic Selection 253
+  bias in our data set, in which estimates of weak and nonsignificant selection in studies with small sample sizes are relatively underrepresented (see figs. 1, 7). Each of these biases will tend to inflate our estimation of the strength of selection for some “random” trait or study system.
+Another important feature of the studies taken collectively is their low statistical power (Gurevitch and Hedges 1999). Most of the studies were not replicated in either time or space. In addition, the sample size associated with estimates is quite low, with a median sample size across studies of only N p 134 for the estimates. The median sample size among estimates is even lower (N p 92), implying that studies with smaller sample sizes tended to report relatively more estimates of selection. As a result, standard errors associated with the estimates are quite large relative to the magnitude of selection, and most studies lacked the statistical power to detect selection of “average” magnitude. Thus, only 25% of the linear gradients and differentials and only 16% of the quadratic gradients and differentials were individually significant at the P p .05 level. Moreover, nearly all studies estimated multiple selection gradients or differentials in each experiment, and very few corrected for multiple significance tests (e.g., by adjusting the critical a to maintain an appropriate level of experiment-wide Type I error; Fairbairn and Reeve 2001). For example, a “typical” study (see table 2) that estimated linear and quadratic gradients on four traits from a single longitudinal experiment would generate 20 individual significance tests. As a result, the results reported here almost certainly overestimate the frequency of statistically significant selection and overestimate the power of these studies to detect selection of “average” magnitude (Fairbairn and Reeve 2001). It is sobering that, for sample sizes exceeding ∼103, most estimates of linear (fig. 1) and quadratic (fig. 7) selection gradients cluster between 􏱛0.1 and 0.1: our most powerful studies indicate that selection is weak or absent.
+Patterns of Directional Selection
+One consistent pattern that emerges from our analyses is that the distribution of selection strengths is approximately exponential (figs. 3–5, 8, 9). The median magnitude of linear selection gradients in our database was FbF p 0.16. There are two interesting consequences of this exponential distribution. First, there is a long “tail” of values indicating that very strong directional selection (FbF 1 0.5) may occur. Second, directional selection on most traits and in most systems is quite weak. Both of these patterns are detectable in Endler’s (1986) analysis of linear selection differentials based on a much smaller set of estimates (his fig. 7.2A), though Endler emphasized the first point more strongly. The theoretical reasons why the magnitude of
+ Figure 6: Linear selection differential (i, vertical axis) and linear selection gradients (b, horizontal axis) for traits where both are estimated (N p 200). The 1 : 1 line is indicated on the plot (dashed line). The statistical significance (at the P p .05 level) of each pair of estimates is given: black circles indicate that both i and b estimates for a trait are significantly different from 0; grey circles indicate one estimate is significantly different from 0; open circles indicate neither estimate is significantly different from 0; x’s indicate that the significance of the estimates is not available.
+large mass of new data about phenotypic selection on quantitative traits in the wild?
+One striking pattern is that 180% of the selection estimates are for morphological traits; phenological traits are also well represented, especially for plants. In contrast, there are very few data for selection on behavioral, physiological, or performance traits. In part, this may reflect the possibility that behavioral phenotypes are often measured as discrete rather than quantitative traits. While the selection estimates represent a diversity of aspects of fitness associated with survival, fecundity, or mating success, only a handful of studies consider more integrated measures of fitness, such as net reproductive rate or intrinsic rate of increase.
+It is important to recognize some of the major sources of biases in this database that will influence our interpretations about the strength of selection. Study systems and traits are not chosen “at random” for selection studies: they are often chosen at least in part because investigators suspect the possibility that selection may be operating. By considering only studies published in core peer-reviewed journals, we have tended to exclude more poorly designed studies and “negative” studies that failed to detect selection. Indeed, there is clear evidence of some publication
+
+ 254 The American Naturalist
+ Figure 7: Quadratic selection gradient estimates (g) as a function of sample size (log10 scale; N p 574 estimates). The statistical significance (at the P p .05 level) of each estimate is given: filled circles indicate significantly different from 0; open circles indicate not significant.
+ selection strengths might be distributed exponentially are unclear. For example, if most populations are near adaptive peaks or if variation in selection estimates is due largely to sampling error, one would expect a normal distribution of directional selection gradients centered about 0 rather than a double exponential distribution (J. Felsenstein, M. Kirkpatrick, and M. Lynch, personal communication).
+Our analyses also revealed several interesting sources of heterogeneity in the strengths of linear selection. For example, we found the magnitude of linear selection was on average twice as great for morphological traits than for lifehistory/phenological traits (fig. 4), a result that held qualitatively for both vertebrates and for plants (comparisons for invertebrates were precluded because of a lack of estimates for life-history/phenological traits). Because life history is often closely associated with fitness, one might expect a priori that selection on life history would be stronger than on morphological traits—the reverse of the observed pattern (Mousseau and Roff 1987). However, most of the lifehistory/phenological traits considered in our studies involved the timing of developmental events (e.g., date of germination, date of first flowering) rather than age-specific mortality or reproduction. One possible statistical explanation for the apparent differences in selection strength between morphological and life-history/phenological traits involves measurement error. In selection gradient (and other standard regression) analyses, measurement error in the
+ traits is assumed to be negligible: measurement error will reduce the estimated magnitude of the selection gradients. Because measurement error may be substantially greater for life-history and phenological traits than for morphological traits, this could generate an apparent difference in the estimated strength of selection.
+Our analyses also indicate that the average strength of selection varies among fitness components: in particular, selection via survival tends to be weaker than selection via fecundity or mating success (fig. 5; H. E. Hoekstra, J. M. Hoekstra, D. Berrigan, S. N. Vignieri, A. Hoang, C. E. Hill, P. Beerli, and J. G. Kingsolver, unpublished results). This result appears to hold for different kinds of traits and in different taxa. Endler (1986) found a similar difference between mortality and nonmortality components of selection for polymorphic (discrete) traits but not for quantitative traits based on the limited data then available. There are several possible interpretations of this interesting result (H. E. Hoekstra, J. M. Hoekstra, D. Berrigan, S. N. Vignieri, A. Hoang, C. E. Hill, P. Beerli, and J. G. Kingsolver, unpublished results). First, sexual selection (mating success) may in fact tend to be stronger than viability selection (survival). This interpretation is consistent with theoretical models suggesting that sexual selection and mate choice may be important to rapid adaptive divergence (Lande 1981; Kirkpatrick 1982). Second, researchers studying sexually selected traits may be better at identifying
+
+ Strength of Phenotypic Selection 255
+  Figure 8: Frequency distribution (in %) of the quadratic selection gradient estimates (g) binned at 0.10 value intervals (N p 465 estimates). The distributions are stacked according to the statistical significance (at the P p .05 level) of each individual estimates: black indicates significantly different from 0; grey indicates not significant.
+ study systems in which strong sexual selection is occurring. It is noteworthy that many traits important in mating success are sexually dimorphic, providing an important clue to researchers interested in selection. Third, because mating success can often be measured over short time periods compared with survival, this difference may reflect the effects of measurement timescale on the estimated strength of selection. H. Hoekstra and colleagues (unpublished results) found that the average magnitude of directional selection was significantly greater for selection episodes measured over shorter intervals (days) than those measured over long intervals (months or years). This result is consistent with analogous studies of effects of measurement scale on estimated rates of microevolution. However, this effect of timescale does not fully account for the differences in the magnitude of sexual and viability selection (H. E. Hoekstra, J. M. Hoekstra, D. Berrigan, S. N. Vignieri, A. Hoang, C. E. Hill, P. Beerli, and J. G. Kingsolver, unpublished results).
+Finally, estimates of selection via different fitness components may be biased statistically. For example, most selection studies measure mating success as a discrete count, assuming implicitly that fitness increases linearly with the number of mates. This approach can lead to overestimates of selection gradients (Brodie and Janzen 1996). However, this effect does not explain the apparent differences in mean selection strength between mating success and fecundity,
+ which is also typically measured as a discrete count. Conversely, most selection studies measure survival as a binomial variable (dead or alive) but use standard regression methods that assume normality for estimating selection gradients; this can produce incorrect estimates of b (Janzen and Stern 1998). However, despite its flaws, this approach does not consistently bias selection estimates toward smaller values (F. Janzen, personal communication).
+Our comparisons of linear selection gradients (which estimate only direct selection on a trait) and selection differentials (which include direct effects as well as indirect effects through correlated traits) provide insight into the contributions of indirect selection (fig. 6). Most estimates cluster within 􏱠0.1 of the 1 : 1 line in figure 6, indicating that direct and total selection on traits are usually similar—that is, that indirect selection is typically small in effect. For example, there are only a handful of cases where both selection gradients and differentials are individually significant and where the gradients and differentials are of opposite sign (i.e., where estimates of direct and total selection are in opposite directions). This does not necessarily imply that correlated traits and indirect selection are unimportant. For example, many researchers may choose traits in ways that reduce the degree of colinearity among traits, and some used principal components (which are by definition independent) as traits in their analyses (note that data for principal components were excluded from
+
+ 256 The American Naturalist
+  Figure 9: Frequency distribution (in %) of the quadratic selection gradient estimates (g) binned at 0.10 value intervals, for selection via three different components of fitness: fecundity (solid line, N p 199), mating success (short dashes, N p 139), and survival (long dashes, N p 112).
+ fig. 6). However, our results do not indicate that indirect effects of correlated traits frequently mask or reverse the direct effects of selection, within the precision of the selection estimates now available.
+Patterns of Quadratic Selection
+Estimates of quadratic selection provide information about the curvature of the fitness surface: stabilizing selection requires negative curvature (g ! 0), whereas disruptive selection requires positive curvature (g 1 0). Estimates of quadratic selection gradients vary widely between 􏱛2.5 and 2.5, but most values cluster between 􏱛0.1 and 0.1, particularly for studies with larger sample sizes (fig. 7). Only 16% of the individual estimates were significantly different from 0 at the 0.05 level (5% would be expected from Type I errors alone); and the median magnitude of quadratic selection FgF was only 0.10. Most notably, the distribution is symmetric about 0, with negative and positive curvatures similar in frequency and magnitude: this implies that stabilizing selection in no more common or intense than disruptive selection for quantitative traits in the field. This pattern is quite different from that described by Endler (1986), whose analysis of quadratic differentials indicated a strong preponderance of negative values (his fig. 7.4A).
+There are several interpretations of this striking result. First, quadratic selection may indeed be quite weak, and stabilizing selection may be uncommon. If true, this will require a major rethinking of the roles of stabilizing selection
+ in adaptation and adaptive landscapes, the maintenance of genetic variation in quantitative traits, and the rationale for optimization approaches to evolution. In addition, future studies will need sample sizes of 500–1,000 or more reliably to detect quadratic selection of this magnitude. Second, most study systems and traits were chosen with some expectation that directional selection might be operating: typically quadratic selection was not the primary motivation for the study. The failure to find substantial quadratic selection in systems and traits where none was anticipated may not be surprising. Third, patterns of environmental variation may alter phenotypic covariances in ways that obscure optimizing selection in nature (Price et al. 1988; Travis et al. 1999). In any case, there remains an urgent need for well-designed field studies of stabilizing selection in appropriate systems, for example, where optimizing selection might be expected (Travis 1989).
+Finally, only a handful of studies have studied the strength of correlational selection (the off-diagonal elements of g). As a result, we still know almost nothing about correlational selection in the field, despite abundant evidence that functional interactions among traits are important in determining organismal performance.
+Future Studies of Selection
+This review demonstrates that our information about the strength of phenotypic selection in natural populations has increased dramatically in the past 2 decades, but many
+
+ Strength of Phenotypic Selection 257
+ important issues about selection remain unresolved. Our analyses suggest some specific directions for future study. First, higher methodological standards are needed for future studies of selection (Gurevitch and Hedges 1999; Fairbairn and Reeve 2001). Most studies to date are unreplicated and have sample sizes too small to detect selection of typical magnitude. To reduce problems with Type I errors, significance testing of selection gradients and differentials should adjust for multiple tests within studies. Future studies should also report phenotypic variances and covariances among traits and standard errors on selection differentials
+so that appropriate meta-analyses can be conducted. Second, we have abundant information about directional selection on morphological traits. By contrast, selection on quantitative behavioral and physiological traits remains largely unknown and should be the focus of future
+studies.
+Third, to address the apparent differences in selection
+strength among fitness components, studies are needed that estimate the strength of both sexual and viability selection at similar timescales on the same traits. Only a handful of such studies are currently available.
+Fourth, much more effort is needed to estimate the strength of quadratic selection in systems and traits where optimizing or correlational selection is anticipated based on functional analyses (Travis 1989). Because the magnitude of quadratic selection may be relatively small, larger sample sizes than in past studies may be required.
+ Finally, our analyses and comparisons were only possible because selection data have been reported in a common metric—that is, in standardized selection differentials and gradients. However, in many cases estimation and visualization of fitness surfaces may be more informative for understanding selection in particular systems (Schluter and Nychka 1994; Brodie et al. 1995). We suggest that future studies report both standardized metrics (differentials or gradients) and fitness surfaces, so that both specific patterns of selection in particular systems and general patterns of selection across systems can be evaluated.
+Acknowledgments
+We thank S. A. Combes, G. W. Gilchrist, T. R. Hammon, C. M. Hess, K. M. Kay, J. Ramsey, M. C. Silva, E. K. Steinberg, K. L. Ward, and other members of the Selection Squad (Zoology 571, University of Washington, 1998) for their help in reviewing the literature. The thoughtful inputs of D. Schemske were critical to many stages of this project. S. Arnold, E. Brodie, S. Edwards, D. Fairbairn, N. Gotelli, R. Huey, S. Stearns, and J. Travis provided useful suggestions on points of analysis and interpretation. After publication, the database described in this article (appendix) will be posted at http://www.bio.unc.edu/faculty/kingsolver/ and on the American Naturalist Web site. Research supported in part by National Science Foundation grant IBN 9818431 to J.G.K.
+ APPENDIX
+Table A1: Fields included for each record included in the selection database for this study
+ Field Field name
+1 Species
+2 Taxon.group
+3 Studytype
+4 #tmp_reps
+5 #spc_reps
+6 Dur_rep
+7 RepID
+8 Traitclass
+9 Traitname
+10 Ttl#trait
+11 Fit.comp
+12 Ttl#meas
+13 Measure
+14 Grad.linear.value
+15 Grad.linear.StErr
+16 Grad.linear.p-value
+17 Grad.quad.value
+Description
+Genus and species Taxonomic group
+Type of study
+No. of temporal replicates No. of spatial replicates Duration of the replicate ID no. of the replicate Trait type
+Name of trait Total no. of traits Fitness component
+Total no. of fitness measures Name of fitness measure Linear gradient, b
+SE of b
+P value of b Quadratic gradient, g
+Values ...
+I p invertebrate, P p plant, V p vertebrate C p cross-sectional, L p longitudinal
+... ...
+In days
+...
+MO p morphology, LH p life history or phenology, BE p behavior, PC p principal component, I p interaction
+...
+...
+F p fecundity/fertility, M p mating success, S p survival, N p net reproductive rate, T p aggregate
+... ... ... ... ... ...
+ 
+ 258 The American Naturalist
+ Table A1 (Continued) Field Field name
+18 Grad.quad.StErr
+19 Grad.quad.p-value
+20 Diff.linear.value
+21 Diff.linear.StErr
+22 Diff.linear.p-value
+23 Diff.quad.value
+24 Diff.quad.StErr
+25 Diff.quad.p-value
+26 N
+27 Subset_popn
+28 Authors
+29 Year
+30 Journal
+31 Vol:p–p
+32 StudyID
+Description SE of g
+P value of g
+Linear differential, i
+SE of i
+P value of i
+Quadratic differential, j SE of j
+P value of j
+Sample size
+Subset of population Authors of study
+Year of publication Journal name
+Volume and page no. Study ID
+Values
+... ... ... ... ... ... ... ... ...
+E.g., M p males, F p females, J p juveniles, A p adults ...
+... ... ... ...
+   Note: See “Methods.” Values common to all fields: NA p not available or not applicable; O p other; NS p not significant.

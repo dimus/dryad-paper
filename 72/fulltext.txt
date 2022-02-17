@@ -1,0 +1,329 @@
+SYMBIOSIS (2009) 49, 163–180
+DOI 10.1007/s13199-009-0049-3 ©Springer Science+Business Media B.V. 2009 ISSN 0334-5114
+A microbiotic survey of lichen-associated bacteria reveals a new lineage from the Rhizobiales
+Brendan P. Hodkinson* and François Lutzoni
+Department of Biology, Duke University, Box 90338, Durham, NC 27708, USA, Tel. +1-443-340-0917, Fax. +1-919-660-7293, Email. bph8@duke.edu
+(Received June 10, 2008; Accepted November 5, 2009)
+Abstract
+This study uses a set of PCR-based methods to examine the putative microbiota associated with lichen thalli. In initial experiments, generalized oligonucleotide-primers for the 16S rRNA gene resulted in amplicon pools populated almost exclusively with fragments derived from lichen photobionts (i.e., Cyanobacteria or chloroplasts of algae). This effectively masked the presence of other lichen-associated prokaryotes. In order to facilitate the study of the lichen microbiota, 16S ribosomal oligonucleotide-primers were developed to target Bacteria, but exclude sequences derived from chloroplasts and Cyanobacteria. A preliminary microbiotic survey of lichen thalli using these new primers has revealed the identity of several bacterial associates, including representatives of the extremophilic Acidobacteria, bacteria in the families Acetobacteraceae and Brucellaceae, strains belonging to the genus Methylobacterium, and members of an undescribed lineage in the Rhizobiales. This new lineage was investigated and characterized through molecular cloning, and was found to be present in all examined lichens that are associated with green algae. There is evidence to suggest that members of this lineage may both account for a large proportion of the lichen-associated bacterial community and assist in providing the lichen thallus with crucial nutrients such as fixed nitrogen.
+Keywords: 16S, Alphaproteobacteria, backbone constraint, LAR1, lichens, maximum likelihood, Bayesian inference, Methylobacterium, microbiota, nitrogen fixation, non-photosynthetic bacteria, primers, Rhizobiales
+  1. Introduction
+Non-photobiont bacteria have never been accepted as an essential part of the lichen symbiosis. Yet lichens are known for being able to grow on extremely nutrient-poor substrates (Brodo, 1973), such as rock outcrops. Without access to sufficient amounts of nitrogen, it seems that lichens (especially when forming large thalli) would need to associate in some way with bacteria that are able to fix nitrogen (Liba et al., 2006). About 10% of lichen-forming fungi are associated with nitrogen-fixing Cyanobacteria (e.g., Peltigerales and Lichinomycetes); however, the remaining 90% of lichen-forming fungi are not known to be intimately associated with any bacteria (Richardson and Cameron, 2004). The absence of certain microorganisms could explain why algae and fungi in axenic culture seem to exhibit symbiotic interactions but will only rarely form a structure resembling a stratified lichen thallus (StockerWörgötter, 2001). When growth of stratified lichen thalli
+*The author to whom correspondence should be sent.
+has been successful in culture, the cultures have generally been derived from pieces of lichens that have had their symbiosis established in nature (Schuster et al., 1985). This evidence supports the notion that there may be microorganisms helping to establish and facilitate the lichen symbiosis.
+Previous studies have characterized lichen-associated bacterial communities through culture-based experiments (Cardinale et al., 2006; Cengia-Sambo, 1923, 1925; González et al., 2005; Grube et al., 2009; Henckel, 1938; Henckel and Plotnikova, 1973; Henckel and Yuzhakova, 1936; Hodkinson et al., 2006; Iskina, 1938; Krasil’nikov, 1949; Lambright and Kapustka, 1981; Liba et al., 2006; Zakharova, 1938; Zook, 1983). However, since the vast majority of microorganisms remain unculturable in the laboratory (Amann et al., 1995), this method can easily lead to false conclusions about the abundance and importance of certain bacteria in nature (for an example and discussion of the biases inherent in cultureversus PCR-based methods used in microbial diversity studies, see Arnold et al., 2007). Indeed, the pool of unculturable bacteria is most likely to include bacteria that are obligate symbionts or intrinsic to
+ 
+164 B.P. HODKINSON AND F. LUTZONI
+symbioses and, in this regard, the most interesting for studies focusing on the biological role of bacteria in symbiotic systems. As a result of this problem, culturebased experiments alone may not provide the data necessary for reliable extrapolation about biochemical activities and overall community composition.
+Culture-independent molecular methods for studying bacterial diversity have transformed the field of microbial ecology in recent decades (DeLong and Pace, 2001; Jensen et al., 1993; Rappe and Giovannoni, 2003). The first PCRbased studies of lichen-associated bacteria were conducted by Cardinale et al. (2006) and Hodkinson et al. (2006). The former authors showed that a great diversity of bacteria was present in each lichen thallus that they sampled; however, no clear trends were detectible (geographical, taxonomical, or otherwise) when comparing the bacterial community profiles. The latter authors demonstrated that some lichenassociated bacterial lineages have affinities to documented symbiotic bacteria. Subsequent in situ hybridization experiments by Cardinale et al. (2008) and Grube et al. (2009) have revealed that bacteria forming biofilm-like coatings on lichen surfaces are predominantly Alphaproteobacteria. Grube et al. (2009) additionally demonstrated through SSCP analyses that three very different lichen species with green algal photobionts each have specific bacterial communities. The preliminary results of Hodkinson and Lutzoni (2009; using PCO analyses of bacterial community 16S rRNA gene sequence data) corroborated this notion, but showed that these trends are not generally 'species-specific', and that photobiont-type can be strongly correlated with trends in bacterial community composition.
+Because the nucleotide sequence encoding the prokaryotic small subunit rRNA (SSU or 16S rRNA) is particularly useful for inferring phylogenetic relationships at the genus and higher taxonomic levels, it has become the standard for studies of bacterial diversity (Rosselló-Mora and Amann, 2001; Stackebrandt and Rainey, 1995; Woese, 1987). When PCR is performed on DNA derived directly from an environmental sample, the result is a pool of amplicons containing sequences from many different organisms that were in the original sample. To identify specific organisms from the sample, this pool of amplicons can be dissected using molecular cloning (De la Torre et al., 2003; Rondon et al., 1999; Zhiyong et al., 2007) or highthroughput metagenomic methods (Edwards et al., 2006; Ley et al., 2006; Liu et al., 2007; Margulies et al., 2005; Roesch et al., 2007; Turnbaugh et al., 2006, 2007). For this study, preliminary microbiotic data was collected using ribosomal heterogeneous amplicon pool sequence analysis with degeneracy ('RHAPSA-D') to test selective PCR primers and perform rapid microbiotic surveys on multiple samples characterized separately. Subsequently, molecular cloning of 16S rRNA gene sequences was conducted to identify specific members of the lichen-associated bacterial community and infer their phylogenetic relationships.
+2. Materials and Methods
+Primer design
+Degenerate 16S rDNA PCR primers that exclude cyanobacterial and/or chloroplast-derived DNA from amplification (Table 1) were designed using 16S sequences from plastids (of both algae and higher plants) and over one hundred sequences (see Table S1 in the supplemental material) representing a wide diversity of Bacteria from the Ribosomal Database Project-II (RDP-II; http://rdp.cme.msu.edu; Cole et al., 2005). Sequences were aligned by hand using MacClade v4.07 (Maddison and Maddison, 2002). Primer design involved identifying the relatively conserved sites across the eubacteria and targeting sites shared only by chloroplasts and Cyanobacteria for exclusion, leading to the development of three degenerate primers (895F, 902R, and 904R) to accommodate the remaining eubacterial diversity (Table 1). One primer (1185mR) was designed to target a diversity of Bacteria, but exclude 16S rRNA gene sequences derived only from plastids. A modified version of this primer (1185aR) was produced to target only lichen-associated Rhizobiales bacteria. Two additional primers (1381R and 1381bR; Table 1), were designed to target a wider array of 16S sequences, and are intended to exclude only sequences derived from Asterochloris sp., the primary algal partner in Cladonia sp. thalli (DePriest, 2004; Miadlikowska et al., 2006). Primers were named for the corresponding position of the 3’ end on the E. coli 16S rRNA molecule. RDP-II Probe Match (Cole et al., 2005) was used to determine the approximate percentage of bacteria with sequences matching each of the primers (Table 1).
+Specimen collection and storage
+The following ten specimens (representing eight different species) were collected in the AppomattoxBuckingham State Forest of Virginia: Cladonia cristatella (Hodkinson 5005, 5033), C. cryptochlorophaea (5018), C. cf. sobolescens (5015), C. peziziformis (5006), C. subtenuis (5026), Flavoparmelia caperata (5012), Parmotrema perforatum (5027, 5028), and Peltigera phyllidiosa (5025). A second collection site was located in the area of Hanging Rock State Park in North Carolina, at which two more specimens were collected for this study: Lasallia pensylvanica (5036) and Umbilicaria mammulata (5038). Specimens were stored at -20°C shortly after collection, and have been deposited at the Duke Cryptogamic Herbarium (DUKE). Detailed label data for all vouchers can be found in the DUKE Catalog of Lichens (http://www.biology.duke.edu/herbarium/lichendata.html).
+
+BACTERIA AND LICHENS Table 1. PCR primers for the 16S rRNA gene used in this study.
+165
+Lane et al. (1991) Weisburg et al. (1991)
+This study This study This study This study This study This study This study Lane et al. (1991)
+ Primer
+27F
+533F
+895F 902R 904R 1185mR 1185aR 1381R 1381bR 1492R
+Sequence (5’-3’)*
+AGAGTTTGA TCMTGGCTCAG GTGCCAGCAGCCGCGGTAA
+CRCCTGGGGAGTRCRG GTCAATTCITTTGAGTTTYARYC CCCCGTCAA TTCITTTGAGTTTY AR GAYTTGACGTCATCCM GAYTTGACGTCATCCA CGGTGTGTACAAGRCCYGRGA CGGGCGGTGTGTACAAGRCCYGRGA ACCTTGTTACGACTT
+Target group
+Bacteria (universal)
+Bacteria (universal)
+Bacteria exc. plastids & Cyanobacteria Bacteria exc. plastids & Cyanobacteria Bacteria exc. plastids & Cyanobacteria Bacteria exc. plastids Lichen-associated Rhizobiales Bacteria exc. Asterochloris sp. plastids Bacteria exc. Asterochloris sp. plastids Bacteria (universal)
+Probe Match Probe Match (SC)+ (SM)+
+80.59% 93.48% 96.18% 99.17%
+66.68% 91.07% 75.85% 92.64% 75.66% 94.68% 71.17% 95.73%
+2.49% 72.66% 90.19% 95.50% 89.74% 95.26% 95.54% 97.84%
+Reference
+  *For each degenerate primer, an equimolar mix of all of the constituent primers implied by the degenerate sequence is recommended, since machine mixes are generally not guaranteed to approximate equimolarity. +The results of RDP-II Probe Match analyses using either a strict consensus (SC) or allowing a single mismatch (SM) are shown with the percentage of matched sequences in the data set of all full 16S rRNA gene sequences found in the RDP-II database.
+Molecular methods
+DNA was isolated from small fragments (5–50 mg, dry weight) of freshly collected lichen thalli that had minimal contact with the substrate. For samples 5036 and 5038, the algal layer and upper cortex were removed before DNA extraction. DNA isolation was performed using a standard procedure (Zolan and Pukkila, 1986) modified by employing a 2% SDS lysis buffer. Isolated DNA was resuspended in sterile water and stored at -20°C.
+PCR amplification was performed using all 16S primer combinations that would result in the amplification of fragments 0.5–1.0 kb in length. All primers used for amplification are listed in Table 1; these primers can also be found on the internet at http://www.lutzonilab.net/primers/. To ensure equimolarity, each of the constituent primers was ordered separately and equimolar mixes were subsequently made by hand. Every experiment conducted on a given lichen thallus was performed using the same DNA extract so that results with different primer combinations would be directly comparable.
+Amplification reactions of 25 μl were performed following a modified Vilgalys and Hester (1990) procedure using 0.4 mg μl–1 of bovine serum albumin (Hillis et al., 1996), 1.5-3.0 mM MgCl2, 0.03 U μl–1 Red Hot® DNA Polymerase (ABgene Inc., Rochester, NY, USA), 0.2 mM of each dNTP, and a 0.5–1.0 μM concentration of each primer (dependent upon the degree of degeneracy). Touchdown PCR conditions consisted of initial denaturation for 3 min at 94°C, followed by 24 cycles (30 s at 94°C; 30 s at 55°C, decreasing by 0.4°C with each cycle; 72°C for 60 s, increasing by 2 s with each cycle) with a
+subsequent set of 12 cycles (30 s at 94°C; 30 s at 45°C; 72°C for 120 s, increasing by 3 s with each cycle), followed by 10 min of final extension at 72°C. Amplified PCR products were purified with the QIAquick PCR Purification Kit (QIAGEN, Valencia, CA, USA) prior to automated sequencing using Big Dye chemistry with a 3730xl DNA Analyzer (PE Applied Biosystems, Foster City, CA, USA).
+A TOPO TA Cloning® Kit (InvitrogenTM, life technologies, Carlsbad, CA, USA) was used to separate amplicons from cleaned PCR products amplified using the 533F/1185aR primer pair. Eight clones were selected from each plate for vector amplification using the T7 'sequencing' primer and the reverse M13 primer with thermocycler specifications provided in the TOPO TA Cloning® Kit manual. Purification and sequencing (performed with the T7 and M13R primers) were conducted as previously described.
+Sequences were assembled and edited using the software package SequencherTM v4.8 (Gene Codes Corporation, Ann Arbor, MI, USA). Nearest sequence matches were found through BLASTn searches of the nucleotide collection in GenBank (Altschul et al., 1997). If the top 100 BLASTn hits were predominantly from the 16S rRNA gene, taxon identifications were made using the RDP-II Sequence Match Analysis Tool (SeqMatch v9.42; http://rdp.cme.msu.edu/seqmatch/; for SeqMatch identifications of preliminary 'RHAPSA-D' survey data, see Table S2). Cloned 16S rRNA gene sequences were deposited in GenBank under the accession numbers GU191848–GU191872 (for individual accession numbers, see Table S3).
+
+166 B.P. HODKINSON AND F. LUTZONI
+Phylogenetic analyses
+Reference data set assembly and DNA sequence alignment. Reference 16S rRNA gene sequences representing cultured strains from the Rhizobiales were compiled from Gallego et al. (2005), Lee et al. (2005), and the RDP-II database (see Table S3). In order to be included in this set, sequences needed to contain nearly the fulllength of the 16S rRNA gene (this criterion was enforced so that a robust phylogeny could be inferred and used as a backbone constraint tree in subsequent analyses with the shorter partial 16S rRNA gene sequences generated as part of this study). Reference sequences were aligned using MacClade v4.08 (Maddison and Maddison, 2002) and were manually adjusted taking into consideration rRNA secondary structure (Kjer, 1995).
+Chimera detection. Cloned 16S rRNA gene sequences derived from amplicon pools produced using primer combination 533F/1185aR were aligned to one another in a separate file as previously described and checked for chimeras using Mallard (Ashelford et al., 2006). Once Deviation from Expectation (DE) values were calculated for each sequence (using the Pintail algorithm; Ashelford et al., 2005) and plotted against mean percentage difference values, outlier DE values were identified using a raw data quantile plot (derived from analyses of type strain sequences stored in the RDP-II database) correlated with a 75% cut-off value. This analysis yielded a list of likely anomalous sequences (Thornhill et al., 2007; Wang and Wang, 1997), and sequences classified as 'good' under these criteria were integrated (along with their closest GenBank matches obtained as previously described) into the larger alignment file of cultured reference strains and aligned with those sequences as previously described (all sequences in the final alignment are listed in Table S3).
+Building a backbone constraint tree. The first round of phylogenetic analyses was run excluding all sequences from uncultured bacterial strains (i.e., those generated as part of this study and their closest matches from GenBank). This data set, comprised only of nearly full-length 16S rRNA gene sequences from cultured reference strains, was analyzed using maximum parsimony (MP) as the optimality criterion in PAUP* v4.0b10 (Swofford, 2001). Constant sites and ambiguously-aligned sites were excluded from analyses. Ambiguously-aligned regions were recoded using INAASE v3.0 (Lutzoni et al., 2000), and were reintegrated as new characters as outlined by Reeb et al. (2004) and Gaya et al. (2008). Characters recoded using INAASE were subjected to specific step matrices generated using a transition:transversion:gap ratio of 1:1:1, and were adjusted based on hand-alignment of ambiguous regions. Unambiguously-aligned portions were subjected to symmetric step matrices computed in STMatrix v3.0 (available at http://www.lutzonilab.net/downloads/) as outlined by Gaya et al. (2003; 2008). For each data set, a
+first round of searches was performed with 1,000 randomaddition-sequence (RAS) replicates and tree bisectionreconnection (TBR) branch swapping. The MULTREES option was in effect and zero-length branches were collapsed. This revealed five equally most parsimonious trees that were hit in 43.5% of the RAS replicates. Branch support for MP trees was estimated through bootstrap analyses (Felsenstein, 1985) by performing 1,000 bootstrap replicates with 10 RAS per bootstrap replicate, with all other settings as above.
+The same data set (excluding sequences from uncultured organisms) was analyzed phylogenetically with maximum likelihood as the optimality criterion. MrModeltest (Nylander, 2004) was run using input files specifying likelihood scores generated by PAUP* v4.0b10 (derived from alignments with ambiguous regions excluded). The results, evaluated using AIC, indicated that a general time-reversible (GTR) model (+I+gamma) would be optimal. Maximum likelihood (ML) searches were conducted using RAxML-VI-HPC (Stamatakis, 2006) with the GTRMIX setting and 1,000 replicates. Ambiguouslyaligned regions were excluded and the job was distributed across 50 processors at the Duke Shared Cluster Resource (DSCR) center. ML bootstrap analyses were performed with 1,000 resamplings, and run as previously outlined for the ML topology search. ML and MP 70% majority-rule bootstrap consensus trees were calculated using PAUP* v4.0b10. The ML consensus tree was imported into MacClade v4.08 (Maddison and Maddison, 2002) and all nodes not supported by both MPand ML-BP (Bootstrap Proportion) values >70% were collapsed. The resulting tree (see Fig. S1) was used as a backbone constraint in subsequent analyses.
+Topological and support inferences. The full aligned sequence data set (i.e., the data set used to generate a backbone constraint tree and the 16S sequences from uncultured strains) was analyzed phylogenetically for both topology and BP support under the ML criterion as previously described (but restricted to the 533–1185 region; E. coli numbering). Each ML analysis was run both with and without the aforementioned backbone constraint tree (comprised of cultured reference strains represented by nearly full-length 16S rRNA gene sequences; Fig. S1) enforced. Bayesian analyses were run on this same smaller region of the data set with MrBayes v3.1.2 (Huelsenbeck and Ronquist, 2001). Model parameters for GTR+I+gamma were specified and a dirichlet (1,1,1,1) prior was set (as recommended by MrModeltest). Markov chain Monte Carlo parameters consisted of 10,000,000 generations, with four chains, and a tree sampled every 1,000 generations. The first 1,000 trees were discarded as burnin (in accordance with an analysis by Tracer v1.4; Rambaut and Drummond, 2007), and results were summarized in the form of a 50% majority-rule consensus tree using the 'sumt' option in MrBayes. The finalized NEXUS file with
+ 
+BACTERIA AND
+LICHENS 167
+ specifications for all described analyses is available at http://www.lutzonilab.net/publications/.
+3. Results
+PCR with new primers
+RDP-II Probe Match demonstrated that all of the primers (with the exception of 1185aR), in a strict consensus (SC) analysis, match >66% of full 16S sequences found in the RDP-II database (a data set that includes Cyanobacteria and Chloroplast sequences), and that the primers match >91% of the same set of sequences if a single mismatch (SM) is allowed (Table 1). When preliminary experiments were run with lichen thalli using universal 16S primers (533F/1492R), eight of the ten samples from which the photobiont layer was not removed had a population of amplicons dominated by sequences derived from algal plastids or Cyanobacteria (sequences derived from samples 5027 and 5028 were identifiable only as Alphaproteobacteria; Table S2). The results of preliminary 'RHAPSAD' experiments on these eight samples were used to evaluate the effectiveness of the primers in avoiding plastid and Nostoc genomes. For each of the primer pairs, there is a clear difference from the control that is in accordance with the design of each new primer (Table S2).
+Lichen-associated non-photobiont bacteria
+A preliminary survey of lichen-associated bacterial diversity revealed the presence of organisms that were assigned to the following taxonomic groups: Acetobacteraceae, Acidobacteriaceae, Alphaproteobacteria, Bacteria, Brucellaceae, Gammaproteobacteria, Methylobacterium, Proteobacteria, Rhizobiales, and Rhodospirillales (Table S2). One clear overall trend is the difference in the results obtained for the one cyanolichen, Peltigera phyllidiosa (sample 5025). With nearly every pair of primers used in the preliminary 'RHAPSA-D' screening experiment, different bacteria were detected in association with the cyanolichen P. phyllidiosa than with each of the other lichens sampled (each of which has a green-algal photobiont instead of Nostoc; Table S2). In a separate set of experiments, microscopy revealed numerous bacterial cells on the lower cortices of lichens, including aggregates of cells that are covered by a polysaccharide-like substance, and which seem to be in close association with the lichen thallus (Fig. 1).
+Phylogenetic relationships
+An undescribed lineage in the Rhizobiales (LichenAssociated Rhizobiales-1 or LAR1; Fig. 2) was detected with high support in all analyses. This lineage contains
+Figure 1. Scanning electron micrograph of the lower cortex of a foliose lichen (Punctelia rudecta) with numerous bacteria present. Some of these bacteria form cell aggregates that are sometimes covered with what appears to be a polysaccharide. These results are consistent with the small colonies of bacterial cells previously reported in a biofilm-like layer in the inner chamber of a fruticose lichen, Cladonia arbuscula, and the underside of an umbilicate lichen, Umbilicaria cylindrica (Cardinale et al., 2008; Grube et al. 2009).
+sequences cloned from all green-algal lichen thalli tested. While LAR1 was well-supported as a monophyletic group, its position within the Rhizobiales remains uncertain, though backbone-constrained ML and Bayesian analyses both show a weakly-supported affinity to Beijerinckiaceae. Within the group of cloned sequences from the Rhizobiales, the one cyanolichen, Peltigera phyllidiosa, was found to have only sequences representing Methylobacterium, a genus also found occasionally in other lichens (Fig. 2). The backbone tree (Fig. S1) used to constrain the ML search (resulting in the topology displayed in Fig. 2) contained a total of 27 nodes that were well-supported by both MP and ML-BP analyses. Of the various topology searches performed as part of this study on the 533–1185 (E. coli numbering) portion of the data set (backbone-constrained ML: Fig. 2; unconstrained ML: Fig. S2; Bayesian: Fig. S3), the results of the backbone-constrained ML analysis were the most similar to previously-published phylogenetic analyses (e.g., Lee et al., 2005, which displays a tree inferred from an ML analysis of nearly full 16S rRNA gene sequences derived from cultured strains of Alphaproteobacteria). The Bayesian 50% majority-rule tree (Fig. S3) also showed a significant degree of similarity to the constrained ML tree (Fig. 2) and previous studies. However, certain nodes in the Bayesian tree do not exist in the constrained ML topology (Bayesian posterior probability (B-PP) values in brackets in Fig. S3), even though two of these nodes are highly-supported (B-PP =
+
+168 B.P. HODKINSON AND F. LUTZONI
+ Figure 2. See legend on next page.
+
+99%). These highly-supported nodes not found in the constrained ML topology are also in conflict with the phylogeny presented by Lee et al. (2005).
+4. Discussion
+A previously undescribed lineage
+All phylogenetic analyses revealed high support for a clade of bacteria that is almost exclusively associated with lichen thalli (LAR1 in Fig. 2). Given that these bacteria can be found in a diverse array of lichen thalli, and that previous studies of environmental samples have isolated so few members of this lineage in clone libraries, it remains quite possible that these organisms are specifically adapted to certain conditions in the thalli of lichens (more specifically, lichens with a green alga as the primary photobiont, but this level of specificity needs to be confirmed with data from more cyanolichens). It is also worth mentioning that recent in situ analyses have shown that the great majority of bacteria associated with lichens belong to the Alphaproteobacteria (Cardinale et al., 2008), and bacteria from this previously undescribed lineage may well account for a large proportion of these lichen associates.
+Symbiosis
+Some bacteria found in this study are closely related to organisms that have already been documented to form symbioses with diverse multicellular eukaryotes, such as plant-associated root-nodulating bacteria (e.g., Acetobacteraceae, Brucellaceae and Methylobacterium; Table S2; Ngom et al., 2004; Saravanan et al., 2008; Sy et al., 2001). Many of the lichen-associated bacteria found in this survey may associate with a wide range of hosts, and perhaps carry some of the well-known 'symbiosis genes' (e.g., nod, fix, exo; Niner and Hirsch, 1998). Some of these organisms may even represent bacteria that have been closely associated with lichenized fungi for a long period of evolutionary time, and have had certain lineages switch hosts or substrate to become closely associated with other eukaryotes (for a discussion of lichens as cradles of microbial diversification, see Arnold et al., 2009). LAR1 (Fig.2) supports the
+hypothesis that some lineages of bacteria may be specific to the lichen thallus, similar to certain green-algal and cyanobacterial lineages (Helms et al., 2001; Miadlikowska et al., 2006; Lücking et al., 2009).
+Diazotrophy
+A great number of 16S rRNA gene sequences found in this study belong to taxonomic groups that contain nitrogen-fixing members (e.g., Acetobacteraceae, Brucellaceae, Methylobacterium, Rhizobiales; Table S2; Hunter et al., 2006; Ngom et al., 2004; Sy et al., 2001; Young, 1992). Diverse nitrogen-fixers have previously been reported in association with lichens (Cengia-Sambo, 1923, 1925; Grube et al., 2009; Henckel, 1938; Henckel and Plotnikova, 1973; Henckel and Yuzhakova, 1936; Hodkinson et al., 2006; Iskina, 1938; Lambright and Kapustka, 1981; Liba et al., 2006; Zakharova, 1938), and there is good circumstantial evidence that members of LAR1 may fix nitrogen as well. The sequence encoding a nifH gene (the gene for dinitrogenase reductase, used in nitrogen fixation) has been directly amplified from the Umbilicaria mammulata sample analyzed in this study (Hodkinson and Lutzoni, 2009; Acc. #GU176620). Both this sequence and one amplified from Cladonia arbuscula (Grube et al., 2009) have affinities toward Beijerinckia, but each sequence remains <90% similar to any of the sequences stored in GenBank. This evidence from a second locus supports the notion that the new lineage (which shares phylogenetic affinities with Beijerinckia, yet is quite distinct) may actually fix nitrogen. Since lichens are notorious for growing on extremely nutrient-poor substrates, it is likely that some of these bacteria are able to provide crucial fixed nitrogen that would otherwise not be available to the lichenized fungi and algae. Some lichens are able to overcome a severe limitation of fixed nitrogen by developing a symbiotic relationship with heterocystous cyanobacteria (Raven, 2002); this same principle may well apply to other nitrogen-fixing bacteria in association with lichens. Symbiotic nitrogen-fixing bacteria could potentially form multiple aggregates in microscopic pockets on the lower cortex of a green-algal lichen (Fig. 1) under dry conditions, but grow to form large populations on the lower surface of lichens when wet conditions are persistent (and the lichen thallus is physiologically most active).
+BACTERIA AND LICHENS 169
+ Figure 2. Maximum likelihood (ML) phylogenetic tree showing inferred relationships among 16S rRNA gene sequences obtained from lichen-associated bacteria (in bold), with the most similar GenBank sequences and sequences from cultured reference strains representing the order Rhizobiales. The topology search was conducted using a backbone constraint (Fig. S1; see Materials and Methods for details). ML bootstrap proportions >50% are written above each node (constrained/unconstrained) and Bayesian posterior probabilities are written below each node. Thicker internodes indicate bootstrap support >70% in both constrained and unconstrained ML analyses. Several bacterial sequences amplified from lichens with green-algal photobionts fall within a distinct undescribed lineage that is well-supported in all analyses ('LAR1' shaded in grey). Members of this lineage were found in association with specimens from both collection sites and all green-algal lichen samples from which 16S sequences were cloned. In contrast to the bacterial sequences from green-algal lichens, those amplified from the one cyanolichen (Peltigera phyllidiosa, 5025) all fit well within the bacterial genus Methylobacterium; representatives of this genus were also found in lichens with green algae.
+  
+170 B.P. HODKINSON AND F. LUTZONI
+Potential effects of acidic secondary compounds
+Many lichens produce copious amounts of acidic secondary compounds, such as depsides and depsidones (Culberson et al., 1984). Some of these compounds have antibiotic properties (Huneck and Yoshimura, 1996; Ingolfsdottir et al., 1985; Lawrey, 1989; Müller, 2001; Vartia, 1950). Interestingly, cyanolichens (such as species from the order Peltigerales) usually do not produce the characteristic depsides and depsidones that are typical of most members of the Lecanoromycetidae (Culberson et al., 1984; Miadlikowska et al., 2006). While it may be true that these compounds serve to keep parts of the lichen thallus free of certain harmful bacteria, it seems likely that some bacteria, such as certain members of Acidobacteriaceae, would be able to withstand or thrive in such environments (Barns et al., 1999). The secondary compound composition of lichens might even preferentially select for beneficial bacteria (e.g., nitrogen fixers) and effectively dictate which bacteria could survive and where they could reside in the lichen thallus.
+The lichen thallus as a complex microbial community
+The results of this study corroborate the notion that lichen thalli commonly host a number of bacterial lineages (e.g., Acidobacteriaceae and Rhizobiales, Table S2). Preliminary analyses reveal the presence of diverse lineages in each sample, indicating that the lichen-associated microbiome may prove to be an excellent microcosm for studying community ecology in environmental microbial systems. Lichen symbioses with the cyanobacterium Nostoc, which is concentrated (nearly restricted) to the lichen-forming Peltigerales (Miadlikowska et al., 2006), have previously been suggested as a key innovation in the evolution of lichenized ascomycetes (Miadlikowska and Lutzoni, 2004). Similarly, symbiosis with a certain type of non-photosynthetic bacterium may have been a key innovation that has led to extensive evolutionary radiation in certain groups of lichen-forming fungi (e.g., Parmeliaceae and Umbilicariaceae). Notably, the results obtained from the one cyanolichen in this study were quite different from those obtained from the green-algal lichens, implying that there may be a fundamentally different type of bacterial community in these lichens. Through further research, specific patterns of association between bacteria and lichens should come into better focus. What seems clear at this point is that many lichens exhibit complex interactions (see also Arnold et al., 2009) that are not reflected in the simple 'fungus and alga' model that is widely accepted today.
+Acknowledgements
+We thank Jolanta Miadlikowska and Frank Kauff for
+their help in conducting phylogenetic analyses and Chicita Culberson for assistance with thin-layer chromatography to identify lichen samples analyzed as part of this study. FL is very thankful to Norman Pace for introducing him, in 1996, to the idea that prokaryotes (other than Cyanobacteria) might be an integral part of the lichen symbiosis and for elaborating a preliminary experiment that led to the SEM picture presented here (Fig. 1). We would also like to thank Lisa Bukovnik for technical assistance with sequencing, Emily Fraker for providing training, Jonathan Olson and Heath O’Brien for valuable comments on this manuscript, and Bernie Ball, Ester Gaya, Tim James, Rytas Vilgalys, Michelle Hersh, Bernadette O’Reilly, Greg Bonito, Suzanne Joneson, and Tami McDonald, all of whom have provided important research assistance. We also gratefully acknowledge Erik McDonald for his translation of crucial background research published in Russian, and Sarah Hodkinson for her assistance with field collection, resource retrieval, and documentation of sources. This work was supported in part by a Graduate Research Fellowship from NSF, a James B. Duke Fellowship, Duke Biology Grantsin-Aid from the Keever Endowment, and a Mycological Society of America Graduate Fellowship, all of which provided funding to BPH. Duke University provided internal funding to FL, which was used in part to finance this project.
+REFERENCES
+
+BACTERIA AND
+LICHENS
+Table S1. Continued. Organism
+Actinomyces georgiae
+Actinomyces naeslundii
+Actinomyces oricola
+Actinomyces sp. oral strain Hal-1083 Agrobacterium tumefaciens
+Bacillus licheniformis
+Bacillus subtilis
+Bacterium Ellin337
+Bacterium Ellin342
+Bacterium Ellin345
+Bacterium Ellin347
+Bacterium Ellin351
+Bacterium Ellin5227
+Bacteroidetes bacterium SM26
+Beijerinckia derxii
+Beijerinckia derxii subsp. derxii
+Beijerinckia indica
+Bradyrhizobium elkanii
+Bradyrhizobium genosp. O
+Burkholderia caledonica
+Burkholderia caribensis
+Burkholderia fungorum
+Burkholderia gladioli
+Burkholderia vietnamiensis
+Candidatus Nitrospira defluvii
+Caulobacter vibrioides
+Clostridium acetobutylicum
+Clostridium botulinum
+Clostridium perfringens
+Clostridium sp. MD3
+Cryptobacterium curtum
+Curtobacterium flaccumfaciens pv. flaccumfaciens Desulfobacter postgatei
+Enterococcus faecalis Entomoplasma somnilux Escherichia coli Fibrobacter intestinalis Fibrobacter succinogenes Flavobacterium mizutaii Frankia sp.
+Frankia sp. M16464
+Frankia sp. Sn4-3
+Geothermobacterium ferrireducens Gluconacetobacter diazotrophicus Gluconacetobacter hansenii
+Gluconacetobacter hansenii
+Helicobacter pylori
+Helicobacter pylori
+Lactobacillus johnsonii
+Legionella jamestowniensis
+Luteimonas mephitis
+Methylobacillus sp. 12S
+Methylobacter sp. BB5.1
+Methylobacterium podarium
+Mycobacterium coloregonium
+Mycobacterium tuberculosis
+Mycobacterium tuberculosis H37Rv
+Mycoplasma capricolum subsp. capripneumoniae Mycoplasma gallisepticum
+173
+GenBank Accession #
+X80413 AJ234045 AJ507295 AF385522 AJ389904 AF516177 AJ276351 AF498719 AF498724 AF498727 AF498729 AF498733 AY234578 DQ195837 AB119198 AJ563933 AB119197 AB072423 Z94823 AF215704 Y17009 AF215706 AB021384 U96929 DQ059545 AJ227754 X68182 X68171 AB045290 AY321657 AB019260 AF348973 M26633 Y18293 AY157871 X80727 M62690 M62688 D14024 L40610 AJ408871 AJ408874 AF411013 AY230808 AB166735 X75620 AY364440 Z25742 AJ002515 X73409 AJ012228 AB027139 AF016981 AY468364 AY624367 X52917 BX842576 AF009831 M22441
+  Supplemental Material
+Table S1. Sequences of the 16S rRNA gene used in primer design; accession numbers in bold represent sequences generated as part of this study.
+ Organism
+Acetobacter aceti
+Acetobacter indonesiensis
+Acetobacter pasteurianus Acetobacterium halotolerans Acetobacterium sp. TM20-2 Acidimicrobium sp. Y0018 Acidiphilium sp. NO-14
+Acidobacteria bacterium Ellin7137 Acidobacteriaceae bacterium Ellin6076 Acidobacteriaceae bacterium PK35 Acidobacteriaceae bacterium TAA43 Acidobacteriaceae bacterium TAA48 Acidobacteriaceae isolate WJ7 Acidomonas methanolica Actinobacterium #59 white
+GenBank Accession #
+AJ419840 AB052715 AJ419834 AY744449 AB086092 AY140240 AF376023 AY673303 AY234728 AY765993 AY587228 AY587229 AY096034 AB110707 AF423076
+   
+174
+Table S1. Continued. Organism
+Myxococcus xanthus
+Neisseria lactamica
+Neisseria perflava
+Nitrosomonas communis
+Nitrospira cf. moscoviensis SBR2016 Nitrospira moscoviensis
+Nitrospira sp.
+Nostoc sp. Lobaria cyanobiont 34
+Nostoc sp. Lobaria pulmonaria cyanobiont 36 Nostoc sp. Muscicolous cyanobiont 21
+Nostoc sp. Nephroma helveticum cyanobiont 33 Nostoc sp. Nephroma helveticum cyanobiont 37 Nostoc sp. Nephroma parile cyanobiont 27 Nostoc sp. Parmeliella triptophylla cyanobiont 29 Nostoc sp. Peltigera collina cyanobiont 20 Nostoc sp. Peltigera pruinosa cyanobiont 14 Oxalobacter formigenes
+Paenibacillus apiarius
+Paenibacillus naphthalenovorans
+Paenibacillus sp. L32
+Parvularcula bermudensis Phascolarctobacterium faecium
+Plastid of Arabidopsis thaliana
+Plastid of Asterochloris sp.
+from Cladonia cristatella Hodkinson 5005 Plastid of Oryza sativa
+Plastid of Trebouxia sp.
+from Flavoparmelia caperata Hodkinson 5012 Plastid of Zea mays
+Pseudomonas chlororaphis
+Pseudomonas sp. IrT-R9M1-191
+Rhizobium leguminosarum Rhizobium sp. WSM746
+Rhizobium undicola
+Rickettsia sibirica
+Rubrobacter taiwanensis Sphingobacterium spiritivorum Sphingomonas echinoides Sphingomonas pruni
+Sphingomonas sp. K101
+Spirochaeta africana
+Staphylococcus succinus Stenotrophomonas maltophilia Stenotrophomonas-like sp. V4.BP.15 Streptococcus uberis
+Streptomyces griseoruber Streptomyces lavendulae Streptomyces sp.
+Streptomyces thermosacchari Thermodesulfobacterium commune Thermodesulfobacterium commune Uncultured Acetobacterium sp. Uncultured Acetobacterium sp. Uncultured Acidisphaera sp. Uncultured Acidobacteria bacterium Uncultured Acidobacteria bacterium Uncultured Acidobacteria bacterium Uncultured Acidobacteria bacterium Uncultured Acidobacterium UA1
+B.P. HODKINSON AND F. LUTZONI Table S1. Continued.
+  GenBank Accession #
+AY724798 AJ239284 AJ239295 AJ298732 AF155154 X82558 Y14644 AF506259 AF506261 AF506246 AF506258 AF506262 AF506252 AF506254 AF506245 AF506239 U49753 AJ320492 AF353703 DQ196465 AF544015 X72866 NC_000932
+GU191846
+NC_001320
+GU191847
+NC_001666 Z76673 AJ291844 AF533683 AF325771 ATCC19358 D38628 AF479791 D14021 AB033944 Y09637 AJ009706 X93928 AJ320272 AJ131914 AJ244720 AB023576 AY999723 D85111 AJ002084 AF306658 AF418169 L10662 AY185318 AY185325 AY882809 AY395421 AY214899 AJ582043 AF465656 AF200696
+Organism
+Uncultured bacterium
+Uncultured bacterium
+Uncultured bacterium
+Uncultured bacterium
+Uncultured bacterium
+Uncultured Cryptobacterium Uncultured Cytophaga sp.
+Uncultured delta proteobacterium Uncultured eubacterium WD243 Uncultured Fibrobacteres bacterium Uncultured forest soil bacterium Uncultured Geothermobacterium sp. Uncultured Green Bay ferromanganous
+micronodule bacterium MNC2
+Uncultured Holophaga sp.
+Uncultured Mycobacterium sp.
+Uncultured Thermodesulfobacteriaceae bacterium Uncultured Thermodesulfobacterium sp.
+Vibrio fischeri
+Xanthomonas axonopodis pv. citri str. 306 Xanthomonas campestris
+Xanthomonas hortorum
+GenBank Accession #
+AF523898 AY850302 AY328760 DQ058675 AJ576372 AB189698 AB015550 AJ567598 AJ292579 AB192086 AY913273 AY882738
+AF293010 AJ519373 AY911428 AY082369 AY862037 X74702 AE012039 X99297 Y10759
+    
+BACTERIA AND LICHENS 175
+   Table S2. Preliminary 'RHAPSA-D' screening for all samples and primer combinations. Primer combination
+Lichen host*
+Cladonia cristatella 5005†
+533F/1492R (control)
+895F/1492R
+27F/902R
+27F/904R
+533F/1185mR
+533F/1185aR
+533F/1381R
+533F/1381bR
+Cladonia peziziformis 5006† Flavoparmelia caperata 5012† Cladonia cf. sobolescens 5015† Cladonia cryptochlorophaea 5018† Peltigera phyllidiosa 5025† Cladonia subtenuis 5026† Parmotrema perforatum 5027 Parmotrema perforatum 5028 Cladonia cristatella 5033†
+Chloroplast Chloroplast Chloroplast Chloroplast Chloroplast
+Nostoc sp. Chloroplast Alphaproteobacteria Alphaproteobacteria Chloroplast Acidobacteriaceae Acetobacteraceae
+Bacteria
+Gp1 (Acidobacteriaceae) Gp1 (Acidobacteriaceae) Gp1 (Acidobacteriaceae) Proteobacteria Gammaproteobacteria Bacteria
+Bacteria
+Bacteria
+Bacteria Acidobacteriaceae Acidobacteriaceae
+Acetobacteraceae
+Gp1 (Acidobacteriaceae) Gp1 (Acidobacteriaceae) Gp1 (Acidobacteriaceae) Gp1 (Acidobacteriaceae) Brucellaceae Rhodospirillales Acetobacteraceae Alphaproteobacteria Alphaproteobacteria Gp3 (Acidobacteriaceae) Gp1 (Acidobacteriaceae)
+Alphaproteobacteria Bacteria Alphaproteobacteria Bacteria
+Acetobacteraceae
+Gp1 (Acidobacteriaceae) Alphaproteobacteria Alphaproteobacteria Alphaproteobacteria Nostoc sp.
+Bacteria
+Bacteria Alphaproteobacteria Acetobacteraceae Bacteria
+Bacteria
+Rhizobiales Rhizobiales Rhizobiales Rhizobiales Rhizobiales Methylobacterium sp. Rhizobiales Rhizobiales Rhizobiales Rhizobiales Rhizobiales Rhizobiales
+Acetobacteraceae Bacteria Chloroplast Alphaproteobacteria Bacteria
+Alphaproteobacteria Bacteria Chloroplast Bacteria
+Lasallia pensylvanica 5036‡ Umbilicaria mammulata 5038‡
+Bacteria Brucellaceae Alphaproteobacteria Bacteria
+Bacteria Alphaproteobacteria Bacteria Alphaproteobacteria
+Bacteria
+Bacteria
+Bacteria
+Bacteria
+Bacteria
+Bacteria Alphaproteobacteria
+Bacteria Bacteria Bacteria Bacteria Bacteria Bacteria Bacteria Bacteria
+*For each lichen sample, species name is followed by the primary author’s collection number.
+†Denotes samples that demonstrate the effectiveness of the newly designed primers. PCR reactions with DNA extracted from these eight samples produced amplicon pools with a clear overabundance of plastid or cyanobacterial sequences in the control experiment, but reactions with new primers did not produce a detectable amount of the plastid or cyanobacterial amplicons targeted for exclusion in primer design.
+‡Denotes samples for which the algal layer was mechanically removed prior to DNA extraction (5036 and 5038).
+
+176 B.P. HODKINSON AND F. LUTZONI
+Table S3. Sequences of the 16S rRNA gene from members of the order Rhizobiales used in phylogenetic analyses; accession numbers are given for sequences generated as part of this study, while GenInfo Identifier (GI) numbers are given for all others.
+ Organism
+5005c2 from Cladonia cristatella Hodkinson 5005
+5005c4 from Cladonia cristatella Hodkinson 5005
+5005c5 from Cladonia cristatella Hodkinson 5005
+5006c11 from Cladonia peziziformis Hodkinson 5006 5006c12 from Cladonia peziziformis Hodkinson 5006 5012c18 from Flavoparmelia caperata Hodkinson 5012 5012c19 from Flavoparmelia caperata Hodkinson 5012 5012c24 from Flavoparmelia caperata Hodkinson 5012 5015c31 from Cladonia cf. sobolescens Hodkinson 5015 5018c33 from Cladonia cryptochlorophaea Hodkinson 5018 5018c35 from Cladonia cryptochlorophaea Hodkinson 5018 5018c37 from Cladonia cryptochlorophaea Hodkinson 5018 5018c39 from Cladonia cryptochlorophaea Hodkinson 5018 5025c41 from Peltigera phyllidiosa Hodkinson 5025 5025c43 from Peltigera phyllidiosa Hodkinson 5025 5025c44 from Peltigera phyllidiosa Hodkinson 5025 5026c52 from Cladonia subtenuis Hodkinson 5026
+5027c58 from Parmotrema perforatum Hodkinson 5027 5027c61 from Parmotrema perforatum Hodkinson 5027 5028c69 from Parmotrema perforatum Hodkinson 5028 5028c71 from Parmotrema perforatum Hodkinson 5028 5033c76 from Cladonia cristatella Hodkinson 5033 5036c84 from Lasallia pensylvanica Hodkinson 5036 5038c90 from Umbilicaria mammulata Hodkinson 5038 5038c94 from Umbilicaria mammulata Hodkinson 5038 Afipia broomeae
+Afipia felis
+Ancylobacter aquaticus
+Angulomicrobium tetraedale
+Azorhizobium caulinodans ORS 571
+Bartonella bacilliformis
+Beijerinckia derxii
+Beijerinckia indica
+Blastobacter denitrificans
+Blastochloris sulfoviridis DSM 729
+Blastochloris viridis DSM 133
+Bosea thiooxidans
+Bradyrhizobium elkanii
+Bradyrhizobium japonicum
+Bradyrhizobium lupini
+Brucella melitensis 16M
+Chelatococcus asaccharovorans
+Hyphomicrobium facile subsp. tolerans IFAM I-551 Hyphomicrobium hollandicum IFAM KB-677 Hyphomicrobium zavarzinii IFAM ZV-622 Mesorhizobium amorphae
+Methylobacterium adhaesivum DSM 17169 Methylobacterium aminovorans
+Methylobacterium aquaticum
+Methylobacterium chloromethanicum CM4 Methylobacterium extorquens
+Methylobacterium fujisawaense DSM 5686 Methylobacterium hispanicum
+Methylobacterium komagatae 002-079 Methylobacterium lusitanum
+Methylobacterium mesophilicum
+Methylobacterium nodulans ORS 2060 Methylobacterium organophilum
+Methylobacterium persicinum 002-165
+GenBank Accession/GenInfo Identifier #
+GU191848 GU191849 GU191850 GU191851 GU191852 GU191853 GU191854 GU191855 GU191856 GU191857 GU191858 GU191859 GU191860 GU191861 GU191862 GU191863 GU191864 GU191865 GU191866 GU191867 GU191868 GU191869 GU191870 GU191871 GU191872 2290233* 28436388* 173723* 40241924* 464201* 39345* 49532707* 173853* 257965* 1483161* 3549120* 6273424* 28436387* 1165003* 1165004* 17986284* 9886695* 3646013* 3646003* 3646314* 2801558* 157073830* 59668401* 51997099* 18026765* 514403* 6273567* 51997100* 157073772* 11245771* 514404* 12239376* 514405* 157073773*
+  
+Table S3. Continued. Organism
+Methylobacterium podarium strain FM3 Methylobacterium populi BJ001 Methylobacterium radiotolerans JCM 2831 Methylobacterium rhodesianum Methylobacterium rhodinum Methylobacterium suomiense Methylobacterium thiocyanatum Methylobacterium variabile Methylobacterium zatmanii
+Methylocapsa acidiphila B2 Methylocella palustris Methylocystis echinoides Methylocystis parvus Methylosinus acidophilus Methylosinus sporium Methylosinus trichosporium Mycoplana dimorpha IAM 13154 Nitrobacter alkalicus
+Nitrobacter hamburgensis
+Nitrobacter winogradskyi
+Ochrobactrum anthropi IAM 14119 Oligotropha carboxidovorans
+Pedomicrobium australicum IFAM ST1306 Phyllobacterium myrsinacearum Prosthecomicrobium pneumaticum MBIC3489 Pseudomonas carboxydohydrogena
+Rhizobium leguminosarum Rhodoblastus acidophilus Rhodomicrobium vannielii EY33 Rhodoplanes elegans Rhodoplanes roseus Rhodopseudomonas palustris Sinorhizobium meliloti 1021 Starkeya novella
+Uncultured alpha proteobacterium BPU225 Uncultured alpha proteobacterium SOL7_1 Uncultured bacterium clone 3
+Uncultured bacterium clone 5C231311 Uncultured bacterium clone nbu176h08c1 Uncultured bacterium clone Sed3 Uncultured bacterium FD01A08 Uncultured bacterium FD02D06 Uncultured bacterium FD04E06 Uncultured bacterium nbw397h09c1 Uncultured Methylobacteriaceae 10-3Ba06 Xanthobacter agilis
+Xanthobacter autotrophicus Xanthobacter tagetidis
+GenBank Accession/GenInfo Identifier #
+40716503* 134133397* 514406* 514407* 514408* 16554668* 3241964* 59668402* 388906* 15072624* 3805791* 21685003* 7529616* 67942373* 7529617* 175489* 303639* 6650226* 530890* 402722* 303715* 27597202* 1314051* 303752* 4126812* 4165399* 22324902* 175822* 175865* 529092* 435464* 529086* 15963753* 514989* 29893282† 54610222† 62868621† 190708627† 238404679† 125660699† 215269506† 215269590† 215270126† 238333997† 38195106† 1314197* 1314199* 2108340*
+BACTERIA AND LICHENS
+177
+   *Sequence used in phylogenetic backbone construction (Fig. S1). †Top BLASTn hit for at least one cloned sequence generated as part of this study (not present in the phylogenetic backbone used in constrained ML analyses).
+
+178 B.P. HODKINSON AND F. LUTZONI
+ Figure S1. Topology representing the constraint tree enforced on backbone-constrained ML analyses performed as part of this study. The sequences used to generate this tree were all nearly full-length 16S rRNA gene sequences, and the nodes that exist in the tree are supported by BP >70 in both MP and ML analyses.
+ 
+BACTERIA AND LICHENS 179
+ Figure S2. Unconstrained ML phylogenetic tree showing inferred relationships among 16S rRNA gene sequences obtained from lichenassociated bacteria (in bold), with the most similar GenBank sequences and sequences from cultured reference strains representing the order Rhizobiales. ML bootstrap proportions >50% are written above each node, with brackets around those that could not be mapped to the backbone-constrained ML topology (Fig. 2). The 'LAR1' lineage is highlighted in grey.
+ 
+180 B.P. HODKINSON AND F. LUTZONI
+ Figure S3. A 50% majority-rule Bayesian phylogenetic tree showing inferred relationships among 16S rRNA gene sequences obtained from lichen-associated bacteria (in bold), with the most similar GenBank sequences and sequences from cultured reference strains representing the order Rhizobiales. Bayesian posterior probability (B-PP) values >50% are written above each node, with brackets around those that could not be mapped to the backbone-constrained ML topology (Fig. 2). The 'LAR1' lineage is highlighted in grey.
+ 

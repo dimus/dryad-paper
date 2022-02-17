@@ -1,0 +1,354 @@
+    Genetic divergence in morphology–performance mapping between Misty Lake and inlet stickleback
+A. P. HENDRY* , K. HUDSON*, J. A. WALKERà, K. RA ̈ SA ̈ NEN§ & L. J. CHAPMAN –
+*Redpath Museum, McGill University, 859 Sherbrooke St. West, Montre ́al, QC, Canada Department of Biology, McGill University, 1205 Ave. Dr Penfield, Montre ́al, QC, Canada
+àDepartment of Biology, University of Southern Maine, ME, USA
+§Institute of Integrative Biology, ETH-Zurich, Zurich, Switzerland, and Department of Aquatic Ecology, Deberlandstrasse 133, CH-8600, Duebendorf, Switzerland
+–Wildlife Conservation Society, Bronx, NY, USA
+Keywords:
+adaptive radiation;
+burst swimming speed; critical swimming speed; ecological speciation; functional morphology; geometric morphometrics; natural selection; performance.
+Abstract
+Different environments should select for different aspects of organismal performance, which should lead to correlated divergence in morphological traits that influence performance. The result should be genetic divergence in aspects of performance, morphology and associations (‘maps’) between morphology and performance. Testing this hypothesis requires quantifying performance and morphology in multiple populations after controlling for environmental differences, but this is rarely attempted. We used a commongarden experiment to examine morphology and several aspects of swimming performance within and between the lake and inlet populations of threespine stickleback (Gasterosteus aculeatus) from the Misty system, Vancouver Island, Canada. Controlling for body size, lake stickleback had shallower bodies, larger caudal fins and smaller pelvic girdles. With or without morphological covariates, lake stickleback showed greater performance in both sustained and burst swimming. In contrast, inlet stickleback showed greater manoeuverability than did lake stickleback in some analyses. Morphology– performance relationships were decoupled when considering variation within vs. between populations. Moreover, morphology–performance mapping differed between the two populations. Based on these observations, we advance a hypothesis for why populations adapting to different environments should show adaptive genetic divergence in morphology–performance mapping.
+Introduction
+Organismal fitness is influenced by a complex array of interacting and correlated traits that can be conceptualized as a causal sequence (Arnold, 1983; Walker, 2007; Langerhans, 2009c; Walker, 2010). Most closely related to fitness are aspects of performance, such as sprint speed, bite force, locomotor endurance, song production or foraging ability (Arnold, 1983; Koehl, 1996; Ghalambor et al., 2003; Walker, 2007; Irschick et al., 2008; Langerhans, 2009b). These aspects of performance are then influenced by a variety of interacting and
+Correspondence: Andrew Hendry, Department of Biology, McGill University, 859 Sherbrooke St. West, Montreal, QC H3A 2K6, Canada. Tel.: +880 514 398 4086; fax: +880 514 398 3185;
+e-mail: andrew.hendry@mcgill.ca
+correlated physical traits, including behaviour, physiology and morphology. Divergent selection between environments should lead to divergent selection on different aspects of performance, such as speed vs. endurance, with a by-product being divergence in the physical traits that influence performance. Most studies of adaptive divergence typically focus on these physical traits, most often morphology, but an increasing number are also examining adaptive divergence in aspects of performance (Ghalambor et al., 2003; Irschick et al., 2008; Langerhans, 2009b,c).
+It is possible to consider adaptive divergence in an integrated fashion by comparing morphology–performance ‘mapping’ between populations from different environments. To be precise, the relationships between morphology and performance can be visualized as a
+a 2010 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 23–35
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY 23
+doi: 10.1111/j.1420-9101.2010.02155.x
+
+24 A. P. HENDRY ET AL.
+surface with a multidimensional topology that reflects causal relationships (Koehl, 1996). Given the resulting complexity, the mapping between morphology and performance will likely change as populations diverge in morphological trait space (Emerson et al., 1990; Koehl, 1996), and the main cause of such divergence is expected to be differences in selection. The goals of this study are therefore to compare morphology, performance and morphology–performance mapping between conspecific populations adapting to different environments.
+Comparisons of morphology–performance mapping between populations can be complicated by several factors. For instance, recent studies have shown that this mapping can differ between the sexes (McGuigan et al., 2003; Calsbeek, 2008; Herrel et al., 2008; Van Damme etal., 2008) and vary plastically between seasons (Irschick et al., 2006; Irschick & Meyers, 2007). Moreover, even within a given sex and season, variation among individuals in resource acquisition might cause traits and performance to show positive associations that do not have a genetic basis (van Noordwijk & de Jong, 1986). Studies of divergence in morphology–performance mapping would therefore benefit from controlling for such factors (e.g. sex) and from reducing the potential effects of plasticity. This last task can be accomplished by testing morphology–performance associations among individuals that have been reared for their entire lives in a common environment. Such analyses are rarely performed – but they make an important contribution to our understanding of adaptive divergence (Langerhans & Reznick, 2009; Langerhans, 2009b).
+Our study employed a common-garden experiment to test for putative genetic divergence between two ecotypes (lake and stream) of threespine stickleback (Gasterosteus aculeatus) in morphology, performance and morphology–performance mapping for males and females. We focused on morphological traits and performance measures related to swimming, foraging and predation risk in the two environments. These are key targets of selection in fishes, and they can diverge between fish with different life styles and from different environments (Beamish, 1978; Webb, 1982, 1984; Domenici & Blake, 1997; Walker, 1997; Blake, 2004; Langerhans & Reznick, 2009; Langerhans, 2009a,b,c).
+Stickleback, performance and morphology
+Our work focused on stickleback populations in the inlet stream and lake of the Misty watershed on northern Vancouver Island (British Columbia, Canada). These two populations show very restricted gene flow (Thompson et al., 1997; Hendry et al., 2002; Moore et al., 2007) and strong divergence in several aspects of their morphology (Lavin & McPhail, 1993; Hendry et al., 2002; Moore et al., 2007), colour (Lavin & McPhail, 1993) and behaviour (Delcourt et al., 2008; Raeymaekers et al., 2009). Many of these differences are known to have a genetic basis, as
+revealed through common-garden rearing experiments (Lavin & McPhail, 1993; Hendry et al., 2002; Delcourt et al., 2008; Sharpe et al., 2009). No study, however, has yet examined differences between the two populations in performance, nor quantified how the divergent morphological traits relate to that performance.
+One important aspect of performance in fish is the ability to swim for extended periods of time, variously called sustained (the term we will use), prolonged, endurance, steady or aerobic swimming ability (Beamish, 1978; Plaut, 2001; Blake, 2004). Adaptive divergence in sustained swimming ability is seen particularly clearly between populations that do or do not swim long distances (e.g. migration) or that do or do not hold their position in flowing water (Langerhans, 2009a). In stickleback, sustained swimming ability is greater in anadromous (migratory) populations than in resident freshwater populations (Taylor & McPhail, 1986; Tudorache et al., 2007; but see Schaarschmidt & Ju ̈ rss, 2003) and is greater in limnetic than in benthic populations (Blake et al., 2005). For the Misty system, we expect greater sustained swimming ability in lake stickleback – because they are thought to swim long distances while searching for zooplankton in open water (Berner et al., 2008, 2009). Inlet stream stickleback, by contrast, range over shorter distances and avoid high-flow areas (J.S. Moore & A.P. Hendry, unpubl. data).
+A second important aspect of performance in fish is the ability to rapidly accelerate, variously called burst (the term we will use), fast-start or C-start performance (Domenici & Blake, 1997; Blake, 2004; Walker et al., 2005). Adaptive divergence in burst swimming ability is seen particularly clearly between populations with or without exposure to predatory fishes (Langerhans et al., 2004; Ghalambor et al., 2004; Langerhans, 2009b,c). In stickleback, burst swimming ability is greater in freshwater resident populations than in anadromous populations (Taylor & McPhail, 1986), but does not differ between limnetic and benthic populations (Law & Blake, 1996). For the Misty system, we expect lake stickleback to be better burst swimmers, because fish predation rates are likely higher in the lake than in the inlet. Indirect evidence for this supposition is that Misty lake stickleback have longer spines than Misty inlet stickleback (Hendry et al., 2002), and longer spines generally indicate higher predation by fish (Hagen & Gilbertson, 1972; Gross, 1978; Reimchen, 1994).
+A third important aspect of swimming performance in fish is the ability to turn at sharp angles. This ‘manoeuverability’ should be particularly important in complex environments, whether to avoid predators or to obtain prey or mates (Domenici & Blake, 1997; Domenici, 2003; Walker, 1997, 2004). Here, we estimate manoeuverability from the tightness of the turning radius when fish perform ‘C-starts’ during burst swimming trials. C-starts in stickleback are of the double-bend type (Law & Blake, 1996), involving the formation of a ‘C’ shape at the end
+a 2010 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 23–35 JOURNAL OF EVOLUTIONARY BIOLOGY a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+of the first contraction of the lateral musculature, followed by a contralateral bend in the opposite direction (Domenici & Blake, 1997). No studies have formally examined manoeuverability in stickleback, but we expect it to be greater for inlet stickleback than for lake stickleback – owing to the greater habitat complexity in streams.
+These expected performance differences might be influenced by several of the measured morphological traits (the assertions below are based on Webb, 1982, 1984; Domenici & Blake, 1997; Walker, 1997; Blake, 2004; Langerhans & Reznick, 2009; Langerhans, 2009a,b,c). First, sustained swimming ability should be greater for fish with shallower bodies (i.e. ‘fineness’ or ‘streamlining’) and larger pectoral fins, which are used for sustained swimming in stickleback (Taylor & McPhail, 1986; Law & Blake, 1996; Walker, 2004). Second, burst swimming ability should be greater for fish with deeper caudal regions and larger caudal fins. Third, manoeuverability should be greater for fish with deeper bodies towards their centre and for fish with fewer lateral plates. These associations were considered between the lake and inlet populations (based on population means) and among individuals within the populations.
+Methods
+Unbaited minnow traps were used to collect mature stickleback from Misty Lake and its inlet stream (lake site 1 and inlet site 4 as shown in Moore & Hendry, 2005). With these fish, standard artificial crossing methods (Hatfield & Schluter, 1996) were used to generate eight full sibling families for the lake and four for the inlet. (The smaller number of inlet families was because of limited availability of mature females during the collection period). The fertilized eggs were shipped to our laboratory at McGill University (Montre ́ al, Canada), where each family was reared separately at similar densities (approximately 25 fish per 100 L). (How family effects were considered is discussed later.) Juveniles were fed brine shrimp nauplii for the first month and then were switched to a mixture of brine shrimp nauplii and frozen bloodworms.
+The stickleback were maintained under ‘summer’ conditions (17 °C; 16 : 8 h light : dark) for 8 months, after which they were switched to ‘winter’ conditions (12 °C; 8 : 16 h light : dark) for 6 months. They were then switched back to summer conditions, and their diets were supplemented with live ‘black’ worms. This study took place 1–3 months after this last switch. This laboratory cohort of stickleback was the same as that studied by Sharpe et al. (2008) for morphological traits and Delcourt et al. (2008) for male courtship.
+The stickleback were not fed for 24 h prior to a swimming trial, and the two types of trial (sustained and burst) were spaced by 24–48 h for a given stickleback. Morphology was measured after both types of swimming
+trial were complete. The fish were then dissected to determine their sex and reproductive stage. In subsequent analyses, we found that seven females that were gravid or who had completed spawning differed in several parameters from other females (results not shown). These seven females were therefore excluded from all analyses reported in the present paper. This exclusion left a total of 56 stickleback: 11 females and 18 males for the inlet and 12 females and 15 males for the lake.
+Morphology
+Each stickleback was euthanized with an overdose of buffered MS-222, placed on its right-hand side on a standard grid and photographed with a digital camera (Nikon Coolpix 5400, Tokyo, Japan). Photographs were also taken of the pelvic and caudal fins, both spread out to their maximum extent. Each stickleback was weighed and preserved in 70% ethanol.
+Motic software version 2.0 (Xiamen, China) was used to take several univariate trait measurements from the digital photographs. Standard length was the distance from the anterior-most point of the closed jaw to the posterior end of the caudal peduncle. Body depth was the distance from the anterior insertion of the first dorsal spine to the bottom of the pelvic girdle (perpendicular to the lateral line). Lateral plate number was the number of plates on the left side of the fish. Also measured on the left side of the fish were total body area (excluding fins), pectoral fin area and caudal fin area. Finally, calipers were used to measure pelvic girdle width at its widest point on the ventral surface of the fish.
+Multivariate body shape was quantified by using geometric morphometrics. TPS software (http://life.bio. sunysb.edu/morph/) was used to place the landmarks and semilandmarks (Fig. 1). It was also used to compute partial warps and uniform components and to combine these variables into principal component axes of body shape (‘relative warps (RW)’, Bookstein, 1991). We here report results for the first two RWs (RW1 and RW2), because these explained much more of the variation than did the others.
+Statistical analysis of morphological variables was univariate – because they had different functional interpretations (see Introduction). All traits were log10 transformed except for lateral plates and the RWs. We first fit general linear models (GLMs) that considered effects of population (fixed), sex (fixed), body size (covariate) and all possible interactions. The covariate was centroid size for the RWs and body length for the other variables. The three-way interaction never approached significance (meaning P > 0.10 throughout this paper), and so it was removed to examine two-way interactions involving body size. None of these approached significance, and so they too were removed to examine the two-way interaction between population and sex. Apart from lateral plates, this final interaction did not approach
+a 2010 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 23–35
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Genetic divergence in morphology–performance mapping 25
+
+26 A. P. HENDRY ET AL.
+  3
+1
+4
+2
+6
+8 7
+22
+12
+13
+14
+10 9
+11
+5 21 24
+23
+17
+15
+16
+Fig. 1 Landmarks include (1) anterior tip of lower jaw, (2) posterior edge of caudal peduncle, (3) anterior tip of upper jaw, (4) posterior edge of angular, (5) posterior edge of nostril, (6) intersection of dorsal outline with anterior edge of eye orbit along a line perpendicular to that between landmarks 1 and 2, (7 and 12) intersection of dorsal and ventral head outlines with posterior edge of eye orbit along a line perpendicular to that between landmarks 1 and 2, (10) anterior insertion of first dorsal spine, (15) intersection of ventral outline with insertion of first dorsal spine along a line perpendicular to that between landmarks 1 and 2, (11) anterior insertion of second dorsal spine, (16) intersection of ventral outline with the insertion of the second dorsal spine along a line perpendicular to that between landmarks 1 and 2, (17 and 18) posterior insertions of first and fifth fin rays of the anal fin and (23 and 24) posterior insertions of sixth and first fin rays of
+the dorsal fin. Semilandmarks are positioned 1 ⁄ 3 and 2 ⁄ 3 of the distance from the posterior edge of the eye orbit to the first dorsal spine insertion and are located on the dorsal (8 and 9) and ventral (13 and 14) outlines of the fish. Semilandmarks are also positioned at 1 ⁄ 2 and 3 ⁄ 4 of the distance between landmark 24 and landmark 2 on the dorsal (21 and 22) and ventral (19 and 20) outline of the fish.
+20 19
+18
+significance, and so was removed to examine the main effects of population, sex and body size.
+Sustained swimming
+A variety of different methods have been used to assess the ability of fish to swim for extended periods of time (Brett, 1964; Beamish, 1978; Blake, 2004). From among these, we chose UCRIT, the maximum velocity that a fish can maintain for a precise period of time. This particular assay was preferred because it (1) is not excessively time-consuming – thus allowing larger sample sizes, (2) does not harm the fish – thus allowing subsequent burst swimming assays and (3) has been used extensively in other studies on small fish (e.g. Plaut, 2000a,b, 2001; Billerbeck et al., 2001; Walker & Westneat, 2002; McGuigan et al., 2003; Schaarschmidt & Ju ̈ rss, 2003; Tudorache et al., 2007). UCRIT was measured in a clear Plexi-glass swimming chamber similar to the one described in Plaut (2000a). The working section of the chamber was 42.6 cm in length (delimited by mesh barriers) and 7.0 cm in diameter, yielding a cross-sectional area of 154 cm2. The middle of the working section of the chamber was covered with black plastic mesh to create a ‘refuge’ area where the stickleback might experience less stress. Water temperature was maintained at 17 ± 0.5 °C throughout the experiment.
+Prior to a trial, a stickleback was acclimated for 2 h at a low current speed of approximately 5 cm s)1. The speed was then increased to 10 cm s)1, at which time the trial commenced. Velocity was subsequently increased in 5 cm s)1 increments every 10 min. When the stickleback made contact with the mesh at the end of the tunnel
+and ‘rested’ against it, it was urged to move forward by nudging the mesh with the end of a large plastic syringe. If the stickleback did not return to the middle of the tube after three such nudges, it was considered to be fatigued. At this time, the flow velocity was gradually decreased to 0 cm s)1, and the stickleback was allowed to recover. UCRIT was then calculated following Brett (1964): UCRIT = Ui + [Uii(Ti ⁄ Tii)], where Ui is the greatest velocity maintained for an entire 10-min interval (cm s)1), Uii is the velocity increment (5 cm s)1), Ti is the time elapsed at fatigue velocity, Tii is the interval between the incremental change in velocity (10 min).
+For UCRIT (not log10 transformed), we first fit a GLM with population (fixed), sex (fixed), the population by sex interaction and all covariates. These covariates were body length, centroid size, mass, RW1, RW2, body depth, pelvic girdle width, pectoral fin area, caudal fin area and lateral plate number (all log10 transformed except the RWs). In this full model, no interactions were fit with covariates owing to limited degrees of freedom. (These interactions were never significant in models that considered each covariate individually – results not shown. The only exception was pelvic girdle width, which correlated negatively with UCRIT for lake but not inlet stickleback: interaction term, F1,50 = 8.68, P = 0.005.) We then reduced the full model by sequentially removing the least important covariates and then re-fitting the model. This was carried out until all covariates at P > 0.10 were removed from the model. We then evaluated the population by sex interaction, which did not approach significance and so was also removed. Finally, we fit a model without any covariates but with population, sex and the interaction – to test for differences when not controlling for covariates.
+a 2010 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 23–35 JOURNAL OF EVOLUTIONARY BIOLOGY a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Burst swimming and manoeuverability
+These tests were conducted in a 49 cm long · 25 cm wide · 28 cm tall aquarium, with dividers corralling the stickleback to within the camera’s viewing field (26.5 · 23.5 cm). The sides of the tank were covered to shield the stickleback from external stimuli, and a transparent 1-cm2 reference grid was affixed to the bottom of the tank. Water depth was set at 5 cm to minimize vertical displacement of the stickleback. For a given trial, a stickleback was placed within the viewing field and allowed to acclimate for 15 min. Three trials were then performed for each stickleback, with successive trials separated by a 15-min recovery period.
+To initiate the burst response, the handle of a dip net was moved in the water in the corner of the tank, outside the corral containing the stickleback. A mirror angled at 45° under the tank allowed for a bottom view of the stickleback, thus avoiding error from ripple effects on the surface. Filming was at 250 Hz with a RedLake Motionscope high speed digital camera. A white panel above the tanks was illuminated from below to provide adequate contrast between the fish and the background. All tests were conducted between 16.5 and 17.5 °C, so as to standardize for temperature effects. These methods are generally appropriate for minimizing error (Harper & Blake, 1988). We quality-controlled the films by culling trials in which any part of the stickleback came within 2 cm of the divider walls during the burst response. This culling was blind with respect to sex and population and was carried out before calculating swimming parameters. We were left with 73 high quality trials for 42 individuals: 15 inlet males, six inlet females, 12 lake males and nine lake females.
+Burst swimming ability was estimated as DNET (net distance travelled through time t) and manoeuverability as WBAR (average rate of turn through time t). Both were calculated by digitizing the stickleback’s centre of mass in each frame (following Walker et al., 2005). The start of the burst response was defined as the last frame in which the stickleback was at rest. DNET and WBAR were then calculated for three different times (t) after the start of the response: F6 (frame 6) = 24 ms; F9 (frame 9) = 36 ms and F12 (frame 12) = 48 ms. These times are close to the average end of stage I, the mid-point of stage II and the end of stage II of the stickleback burst response. For details on these stages and their biological relevance see Domenici & Blake (1997) and Walker et al. (2005). DNET was regressed on the angle turned through time t, and the residuals (DNET*) were used for subsequent analysis. This adjustment was necessary because the distance travelled decreases with increasing turn angle. We used the maximum value (across the trials for a given individual) of WBAR and DNET* for all subsequent analyses, as is typical (Domenici & Blake, 1997; Walker et al., 2005). Statistical analysis of DNET* and WBAR proceeded as described for UCRIT, except that we here
+used repeated measures GLMs: i.e. DNET* or WBAR at the three times (F6, F9 and F12). This was carried out because these variables might be relevant to predation avoidance (Walker et al., 2005) or prey capture at any of these time intervals.
+Path analysis integrating morphology and performance
+The above analyses were intended to explore differences in morphology and performance between the populations. Covariates were included, but the goal in doing so was simply to see if their inclusion altered morphology or performance differences. These models were not very useful for exploring morphology–performance maps, however, because they did not consider multiple morphology and performance measures together. Moreover, the inclusion of all stickleback in the same model might mean that differences between populations would obscure effects within each, and sample sizes were too small to effectively explore all population-by-trait interactions.
+Our solution was to use path models (AMOS 5.0.1, SPSS, IBM Corporation, New York, USA) to summarize relationships between morphological traits and performance measures within each population (e.g. Langerhans, 2009b,c). Owing to the modest sample size for stickleback with all types of data (N = 21 for each population), we focused on a subset of the traits expected to be most important (see Introduction) and least redundant (e.g. not RW1 and body depth). These variables were log10 transformed or not as described earlier. Sex was assumed to potentially influence body length. Sex and body length were assumed to potentially influence body depth, pectoral fin size, caudal fin size, pelvic girdle width and lateral plate number (Kitano et al., 2007). All of these variables were then assumed to potentially influence both sustained swimming (UCRIT) and burst swimming. To produce one integrative estimate of burst swimming for the path analysis, PC1 scores were calculated within each population based on DNET* at F6, F9 and F12). Sustained and burst swimming were also assumed to potentially influence each other (Blake, 2004; Langerhans, 2009c). We did not analyse manoeuverability (WBAR) with path models because they would not converge. Fortunately, most previous studies and existing hypotheses are related to sustained and burst swimming, rather than manoeuverability, facilitating comparisons to previous work (see Introduction).
+Family effects
+The consideration of family effects (variation among families within a population) was not a goal of our study, and so our data were not well suited to address this question. For instance, the number of replicates per family was low for a given sex, and the incorporation
+a 2010 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 23–35
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Genetic divergence in morphology–performance mapping 27
+
+28 A. P. HENDRY ET AL.
+Table 1 Statistical results for general linear models examining variation in univariate morphological traits (lateral plate results are in the text) and the first two relative warps (RW).
+Table 2 Statistical results for general linear models examining variation in each measure of swimming performance.
+ RW1 Population Sex Centroid Population
+RW2 Population Sex Centroid Population
+WBAR – males, no covariates
+Population 6.24 1,25
+WBAR – females, no covariates
+Population 0.01 1,13
+0.20
+· sex
+<
+0.08 0.01 0.06
+· sex
+· sex
+< 0.01
+0.47 0.49 0.16
+‘Final model’ refers to the model with only significant (or near significant) covariates and interactions. ‘No covariates’ refers to models that included the population by sex interaction but excluded all covariates even if they were significant in the final model. In this no covariate case, results for the population by sex interaction are from the full model, whereas results for the other terms are after removing the interaction. For WBAR, analyses are also performed for each sex – see text for rationale.
+RW, relative warp.
+environment – and so any differences are likely to be genetic. Second, where relevant (i.e. not for lateral plates) analyses included body size as a covariate – and so the variables are standardized for body size.
+Morphology
+Relative to lake stickleback, inlet stickleback had deeper bodies, similar pectoral fin sizes, smaller caudal fins and larger pelvic girdles (Table 1; Fig. 2). Relative to females, males had (slightly) deeper bodies, smaller pectoral fin sizes, similar caudal fin sizes and similar pelvic girdle widths (Table 1; Fig. 2). For lateral plates, and in contrast to the other traits, the sex by population interaction was important (F1,51 = 9.11, P = 0.004, g2 = 0.15), but body size was not (F1,51 = 0.10; P = 0.751, g2 < 0.01). In sexspecific analyses without the body size covariate, inlet stickleback had more lateral plates for females (F1,21 = 8.36, P = 0.009, g2 = 0.29), but no difference was seen for males (F1,31 = 1.13, P = 0.297, g2 = 0.04).
+Model and factor
+UCRIT – final model Population
+Sex
+Caudal fin
+RW2
+UCRIT – no covariates
+Population
+Sex
+Population · sex
+DNET* – final model Population
+Sex
+Plate number
+DNET* – no covariates Population
+Sex
+Population · sex
+WBAR – final model Population
+Sex
+Population · sex
+F
+d.f. P
+Partial g2 0.20
+0.23 0.08 0.06
+0.17 0.23 0.03
+0.21 0.01 0.12
+0.20
+ Model and factor
+Body depth Population
+Sex
+Length Population · sex
+Pectoral fin size Population
+Sex
+Length Population · sex
+Caudal fin size Population
+Sex
+Length Population · sex
+Pelvic girdle width Population
+Sex
+Length Population
+F d.f. P
+47.89 1,52 < 0.001 6.12 1,52 0.017 78.71 1,52 < 0.001 1.40 1,51 0.243
+1.89 1,52 0.175 10.97 1,52 0.002 22.21 1,52 < 0.001
+0.53 1,51 0.469
+4.53 1,52 0.038
+0.38 1,52 0.540 30.60 1,52 < 0.001 1.41 1,51 0.241
+23.77 1,52 < 0.001 3.11 1,52 0.084 36.05 1,52 < 0.001 < 0.01 1,51 0.948
+20.92 1,52 < 0.001 58.71 1,52 < 0.001 21.41 1,52 < 0.001
+0.44 1,51 0.512
+45.24 1,52 < 0.001 49.08 1,52 < 0.001 9.61 1,52 0.003
+Partial g2 0.48
+0.11 0.60 0.03
+0.04 0.17 0.30 0.01
+0.08 0.01 0.37 0.02
+0.31 0.06 0.41 0.01
+0.29 0.53 0.29
+12.45 1,51 0.001 15.15 1,51 < 0.001 4.12 1,51 0.048 3.44 1,51 0.069
+10.88 1,53 0.002 15.91 1,53 < 0.001 1.48 1,52 0.230
+10.13 1,38 0.003 0.17 1,38 0.680 5.02 1,38 0.031
+9.70 1,39 0.003 0.93 1,39 0.340
+  0.12 1,38
+3.47 1,39 0.57 1,39 2.37 1,38
+0.02 0.733 < 0.01
+0.070 0.456 0.132
+0.019
+0.911 < 0.01
+ 0.05 1,51
+0.829 < 0.01
+ Results for the population by sex interaction are from the full model, whereas results for the other terms are after removing the interaction.
+of family effects considerably reduced degrees of freedom (by about 20%). Given our modest sample sizes per sex and family and the fact that samples from nature might include some unknown siblings anyway, we chose to concentrate our analyses on models that did not incorporate family effects. Nevertheless, we did also consider whether family effects were present and whether their incorporation into analyses substantially altered our conclusions. We did so by adding family effects as a random factor nested within population in supplementary analyses of morphological traits (those shown in Table 1), and in the ‘final’ and ‘no covariates’ models for swimming performance variables (those shown in Table 2).
+Results
+When interpreting the following results, two points should be remembered. First, all stickleback were raised for their entire lives in a common-garden laboratory
+a 2010 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 23–35 JOURNAL OF EVOLUTIONARY BIOLOGY a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Genetic divergence in morphology–performance mapping 29
+1.8 1.7 1.6 1.5 1.4 1.3
+0.9 0.8 0.7 0.6 0.5
+1.2 1.1 1 0.9 0.8
+1 0.9 0.8 0.7 0.6
+8 7 6 5
+Male Male Female
+inlet lake inlet lake
+             Female
+       Male Male Female
+inlet lake inlet lake
+Female
+         Male Male inlet lake
+Male Male inlet lake
+Male Male inlet lake
+Female
+inlet lake
+Female
+          Female
+inlet lake
+Female
+      Fig. 2 Differences in morphological traits between the sexes and populations. Shown are the estimated marginal means and 95% confidence intervals from general linear models that included sex, population, the sex by population interaction and body size (covariate). Values shown here are antilogged from analyses of log10 transformed data, except for lateral plates where log transformation was not needed.
+Female
+inlet lake
+Female
+              RW1
+Fig. 3 Variation in RW1 and RW2 between the sexes and populations (lake and inlet). Similar distinctions are present when centroid size is added as a covariate to general linear models (Table 1).
+The fish outlines are extremes of the observed variation as shown by thin plate splines in TPSRelw. RW, relative warp.
+RW1 explained 56.3% of the variation and mainly reflected ‘fineness’: body depth in relation to body length. Stickleback with higher values for RW1 had deeper bodies along their entire body length (Fig. 3). RW2 explained 13.6% of the variation and mainly characterized the relative depth of the head vs. the body, as well as the degree of abdomen distension. Stickleback with high values for RW2 had relatively deeper bodies in relation to the head and had greater abdomen distension (Fig. 3). Relative to lake stickleback, inlet stickleback had deeper bodies along their entire length (RW1) and also bodies that were relatively deep in relation to the head (RW2) (Table 1; Fig. 3). Relative to females, males had deeper bodies along their entire length (RW1), but also bodies that were relatively shallow in relation to the head (RW2).
+Swimming
+UCRIT: Among the potential covariates, the only significant effect was that stickleback with smaller caudal fins had a greater UCRIT (Table 2). The only other covariate that approached significance was RW2 (P = 0.058), with stickleback having deeper bodies in relation to their head potentially having a greater UCRIT. Regardless of whether or not covariates were included in the model, the interaction between population and sex was not significant (Table 2). Regardless of whether or not covariates and the population by sex interaction were in the model, UCRIT was greater for lake stickleback than for inlet stickleback and greater for males than for females (Fig. 4).
+a 2010 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 23–35
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+       Lateral plates Pelvic girdle (cm) Caudal fin (cm2) Pectoral fin (cm2)
+Body depth (cm)
+RW2
+
+30 A. P. HENDRY ET AL.
+analyses where body length was the only covariate (results not shown). We then examined other studies of stickleback, finding that these have either not found or not reported positive associations between body length and measures of prolonged swimming (Taylor & McPhail, 1986; Blake et al., 2005; Schaarschmidt & Ju ̈ rss, 2003; Tudorache et al., 2007).
+DNET*: Among the potential covariates, the only significant effect was that stickleback with fewer lateral plates had a greater DNET* (Table 2). Regardless of whether or not lateral plate number was included as a covariate, the interaction term between population and sex was not significant (Table 2). Regardless of whether or not covariates and the population by sex interaction were in the model, DNET* was greater for lake stickleback than for inlet stickleback and did not differ between males and females (Fig. 4).
+WBAR: None of the potential covariates had a significant effect on WBAR, nor were population, sex or their interaction significant – although the main effect of population approached significance (P = 0.07, Table 2). Unlike the other traits, however, visual inspection of the data suggested that WBAR might be influenced by a population by sex interaction (Fig. 4) – despite the nonsignificance of this term (Table 2). We therefore also analysed males and females separately. For males, no covariates were significant and their removal revealed that inlet males had a faster rate of turn (greater WBAR) than did lake males (Table 2). For females, many covariates were significant or nearly so: body length (F1,7 = 6.10, P = 0.043, g2 = 0.47), lateral plate number
+45
+40
+35
+30
+0.5 0.3 0.1
+–0.1 –0.3 –0.5
+3500 3000 2500 2000 1500 1000
+Male Male inlet lake
+Female Female inlet lake
+                   Male Male inlet lake
+Female
+inlet lake
+        Male Male inlet lake
+Female Female inlet lake
+Fig. 4 Differences in sustained swimming performance (UCRIT), burst swimming performance (DNET*) and manoeuverability (WBAR) between the sexes and populations (lake and inlet).
+Each figure shows estimated marginal means and 95% confidence intervals from general linear models. All models included sex, population and the sex by population interaction. Additional morphological trait covariates were included as shown in
+Table 2, although main effects did not change with the inclusion or exclusion of covariates.
+Female
+         As an aside, it might seem surprising that UCRIT was not positively associated with body size – as this is often the case in other fishes. We therefore first confirmed the lack of this association through population-specific
+(F = 16.07, P = 0.005, g2 = 0.70), RW2 (F =
+P = 0.078, g2 = 0.38), pelvic girdle width (F =
+P = 0.055, g2 = 0.43), pectoral fin size (F1,7 =
+P = 0.018, g2 = 0.57) and caudal fin size (F1,7 =
+P = 0.027, g2 = 0.53). When these covariates included in the model, inlet females had a faster rate of turn than did lake females (F = 15.62, P = 0.006, g2 = 0.69). When covariates were removed, no difference between populations was evident for females (Table 2).
+Path analysis integrating morphology and performance
+Path analysis revealed several morphology–performance links within each population, and these links were usually different between the populations (Fig. 5). In lake stickleback, sustained swimming ability (UCRIT) was influenced significantly (P < 0.05) by pelvic girdle width (smaller was better) and marginally (0.05 < P < 0.10) by pectoral fin size (bigger was better). In inlet stickleback, by contrast, sustained swimming was influenced significantly by caudal fin size (smaller was better) and marginally by body depth (deeper was better). In lake stickleback, burst swimming ability (PC1 of DNET*) was influenced significantly by body depth (deeper was
+a 2010 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 23–35 JOURNAL OF EVOLUTIONARY BIOLOGY a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+4.27, 5.28, 9.34, 7.84, were
+WBAR DNET* UCRIT (cm s–1)
+
+  Sex
+—0.51
+0.95
+0.13
+0.24
+0.44 (lake)
+0.08 0.18
+—0.23
+Caudal fin
+—0.30
+Body length
+ 0.36* (inlet)
+     —0.07
+0.32*
+0.22
+0.42
+—0.16
+0.36*
+  0.56
+0.66
+ 0.02
+—0.10
+—0.70
+0.35*
+—0.65
+0.26
+  Pelvic girdle
+—0.39
+0.73
+0.18
+  0.66
+—0.27
+0.13
+0.44
+ 0.22
+Plate number
+—0.32*
+—0.12
+—0.62
+  —0.14
+—0.40
+0.17
+       —0.23
+—0.65*
+Sustained swimming
+0.38
+—0.14
+—0.08 —0.11
+Body depth
+Pectoral fin
+0.27 —0.32
+—0.60
+0.85 0.69
+0.50
+  0.62* —0.03
+ Burst swimming
+0.46
+0.59
+       Fig. 5 Path model summary of the morphology–performance map in lake fish (coefficients above lines) and inlet fish (coefficients below lines). All coefficients are standardized regression coefficients from the full model as calculated separately for each population. Statistical significance for coefficients is indicated by large bold
+font (P < 0.05) or an asterisk (P < 0.10). Different line types (solid or broken) do not have any particular meaning and are used simply to aid visualization.
+          better) and marginally by plate number (fewer was better). In inlet stickleback, burst swimming was influenced significantly by body size (smaller was better), pelvic girdle width (wider was better) and plate number (fewer was better) and marginally by caudal fin size (larger was better). The lack of strong concordance between these morphology–performance maps was evident in the absence of a noteworthy correlation between populations in the standardized path model coefficients for factors potentially influencing either aspect of swimming performance (16 coefficients, Pearson’s r = 0.380, P = 0.146). In fact, the only relationships that were reasonably strong and consistent between the two populations (although never significant in both) were that more plates reduced burst swimming
+ability and that larger body size decreased burst swimming ability.
+Family effects
+In brief (detailed statistics not shown), significant (P < 0.05) family effects were found for caudal fin size, pelvic girdle width, RW2, lateral plates and UCRIT (in the no covariate model). Incorporation of family as a random variable into all of the models shown in Tables 1 and 2 altered only a few results. First, sex effects on body depth became marginally nonsignificant (P = 0.054), population effects on caudal fin size became nonsignificant (P = 0.197), population effects on UCRIT became marginally nonsignificant (P = 0.057 in the final model and P = 0.082 in the no covariates model) and covariates were no longer significant in the UCRIT final model. Considering our hypotheses of interest (see Introduction), very few of our conclusions were altered by these changes and the ones of interest (sex and population) went from significant to marginally nonsignificant, as was expected given the decrease in degrees of freedom. For these reasons, we conclude that the above inferences from the models without family effects are generally valid – except perhaps for caudal fin size.
+Discussion
+Given our study design, it is important to remember several points regarding the nature of interpretations that can be drawn reliably. First, we studied only one lakestream pair, and so our inferences are specific to that pair, not necessarily generalizing to other lake-stream situations. Second, we raised fish in only a single commongarden environment, and so it is possible that a different environment would yield different results (i.e. a genotype by environment interaction). Third, we did not measure a variety of other traits that likely influence performance, and these traits might well influence the observed associations. Fourth, our sample size was relatively small for comparative studies and, although a reasonable number of effects were documented, larger sample sizes would probably uncover more effects, such as other important covariates. For these reasons, our results represent only a hypothesis for genetic differences between the populations.
+Morphology and performance
+Previous common-garden experiments with Misty Lake and inlet stream stickleback documented genetic differences in a number of phenotypic traits (Lavin & McPhail, 1993; Hendry et al., 2002; Delcourt et al., 2008; Sharpe et al., 2009; Raeymaekers et al., 2009). This study parallels that previous work in that inlet stickleback had genetically deeper bodies (linear measurements and geometric morphometrics) and, for females, more lateral
+Genetic divergence in morphology–performance mapping 31
+              a 2010 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 23–35
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+32 A. P. HENDRY ET AL.
+plates (Table 1; Fig. 2). By adding some new traits, we here further show that lake stickleback might have genetically larger caudal fins and also have narrower pelvic girdles (Table 1; Fig. 2). In short, lake and inlet stickleback differ genetically in many of the measured morphological traits.
+The morphological differences between Misty lake and inlet stickleback are commonly interpreted as adaptive responses to different selective pressures (see the abovecited papers). This interpretation is certainly reasonable, but it remains indirect. That is, no study has formally tested whether the specific morphological differences improve fitness in local habitats. Instead, indirect inferences come from the intersection of two observations: each type at least sometimes grows best in its home environment (Hendry et al., 2002), and the trait differences make sense from a functional perspective (see the above-mentioned papers). This study improves adaptive interpretations by adding measures of swimming performance, which should be closely related to fitness and should be influenced by the morphological traits (Arnold, 1983; Koehl, 1996; Irschick et al., 2008; Langerhans, 2009b). Here, we found that lake stickleback are better sustained (UCRIT) and burst (DNET*) swimmers than are inlet stickleback, whereas inlet stickleback are more manoeuverable (WBAR) than lake stickleback in some analyses (Fig. 3).
+The most obvious adaptive interpretations for sustained swimming and manoeuverability in nonmigratory stickleback relate to foraging mode (Blake et al., 2005). Lake stickleback, at least those with limnetic or intermediate (generalist) morphologies, are thought to swim extended distances in the open water while foraging on limnetic prey, whereas stream stickleback are thought to occupy more complex environments and to range shorter distances while foraging on benthos (Berner et al., 2008, 2009; J.S. Moore & A.P. Hendry, unpubl. data). These differences should generate stronger selection for sustained swimming ability in lake stickleback, but stronger selection for manoeuverability in inlet stickleback (see Introduction). Although these interpretations are reasonable, no studies in the wild have formally tested whether sustained swimming and manoeuverability are under divergent selection between lakes and streams. Note also that the above-mentioned results and explanations deviate from the usual expectation that fish in flowing water will be under stronger selection for sustained swimming (Langerhans, 2009a).
+The most obvious adaptive interpretation for greater burst swimming ability in lake stickleback relates to predatory fishes. Although trout and charr are routinely captured in minnow traps in both the lake and inlet, no attempts have been made to formally quantify differential predation risk. As noted in the Introduction, greater pelvic spine lengths in the lake fish suggest the possibility of higher fish predation, which could explain the evolution of improved burst swimming ability. This
+would fit the typical finding that exposure to predatory fishes selects for improvements in this aspect of swimming performance (Law & Blake, 1996; Ghalambor et al., 2003; Langerhans et al., 2004; Walker et al., 2005; Langerhans & Reznick, 2009; Langerhans, 2009b,c).
+Contrary to the common expectation (Blake, 2004; Langerhans, 2009c), we found no evidence for a trade-off in burst vs. sustained swimming ability between populations: lake stickleback were better at both. We also found little evidence of such a trade-off within populations (Fig. 5). In stickleback, the musculoskeletal systems powering sustained and burst swimming are largely decoupled – sustained swimming involves the pectoral fins while the body remains rigid (Walker, 2004), whereas burst swimming involves the caudal body and tail sweeping through a large arc (Law & Blake, 1996) – and so we might expect little or no trade-offs between these aspects of performance. On the other hand, we would expect the morphologies that stiffen the body to simultaneously increase sustained swimming performance at the cost of burst swimming performance. Our results suggest that, in practice, performance trade-offs are difficult to predict from limited functional knowledge because of the large array of morphological and physiological traits interacting to influence multiple performance variables (Walker, 2010).
+Morphology–performance maps
+Very few studies (an exception is Langerhans, 2009c) have compared morphology–performance maps between populations while also controlling for environmental effects by rearing individuals in a common environment. For this reason, little information currently exists on how consistent morphology–performance maps are at the genetic level. Our study found very little consistency in these maps between lake and stream stickleback from a single system, as we will now explain, qualify and interpret.
+One striking pattern was that some expected associations between morphology and swimming performance (see Introduction) were evident between the populations but not within them. One expected association is that fish with shallower bodies (more ‘fine’ or ‘streamlined’) should be better sustained swimmers. Fitting this expectation at the between-population level, lake stickleback were more streamlined and also better sustained swimmers than were inlet stickleback (Figs 2–4). At the within-population level, however, the expected negative association between body depth and sustained swimming ability was not observed (Fig. 5). Another expected association is that fish with larger caudal fins should have better burst swimming ability. Again, this was true at the between-population level (lake stickleback had larger caudal fins and were better burst swimmers: Figs 2 and 4) but not at the within-population level (Fig. 5).
+a 2010 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 23–35 JOURNAL OF EVOLUTIONARY BIOLOGY a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+We can see several possible explanations for the apparent decoupling of morphology–performance relationships between vs. within populations. First, the range of trait variation is less within than between populations, potentially decreasing statistical power in the former analyses. And yet, visual inspection of the data (not shown) clearly reveals an abrupt transition in swimming performance between the populations despite considerable overlap in their morphological trait values. Second, our experimental protocols might have been insufficient for reliably quantifying morphology–performance maps – but this seems unlikely given that we did find some very strong associations between traits and performance measures (Fig. 5). Third, the current cause of performance differences between the populations might not have been the specific morphological traits that we measured. This last explanation seems quite reasonable because (1) the performance differences between populations held regardless of whether or not trait covariates were added to the models and (2) many traits we did not measure could contribute to swimming performance, such as vertebral number, pectoral fin muscles, enzymatic activity and energy stores (Swain, 1992; Garenc et al., 1999; Andraso, 1997; Bergstrom, 2002; Schaarschmidt & Ju ̈ rss, 2003; Tudorache et al., 2007). This unmeasured variation is, of course, a general difficulty when using the comparative method to infer causation (Walker, 2002).
+Another striking pattern was that morphology–performance relationships were quite different between lake and inlet stickleback (Fig. 5). Thus, genetic divergence has occurred not only in morphology and performance, but also in at least some aspects of the morphology– performance map. The generality of this last result is hard to assess because so few studies have formally compared morphology–performance maps between populations. Those that have done so sometimes report broad correspondence between populations (Langerhans et al., 2004), whereas others fail to find at least some of the expected morphology–performance relationships (McGuigan et al., 2003; Warner & Shine, 2006; Calsbeek, 2008). Moreover, none of these studies examined individuals raised in a common-garden environment – so genetic similarity in trait-performance maps is entirely unknown.
+A hypothesis and what to do with it
+We here provide a hypothesis that leads to the prediction that morphology–performance maps will often be quite divergent between populations adapting to different environments. This hypothesis starts with the realization that fitness will be determined by many interacting aspects of performance and that each aspect of performance will be influenced by many interacting traits. Within any given environment, the associations between traits and performance measures will therefore evolve in
+a way that maximizes fitness within the necessary constraints (Arnold, 1983; Koehl, 1996; Ghalambor et al., 2003; Walker, 2007, 2010). Different environments, however, will impose divergent selection on only some of the traits and performance measures, and the constraints are likely to be different. As a result, new associations between traits and performance measures will maximize fitness in the new environment, as expected given complex topology of these relationships (Koehl, 1996). In short, the expected outcome of divergent environments should be divergent morphology– performance maps.
+To address the aforementioned hypothesis, more studies are needed that examine relationships between morphology and performance for individuals from different environments, including those reared in (ideally multiple) common environment(s). Only then can we carefully consider genetic divergence in trait-performance maps. Such studies would ideally examine many morphological traits, more types of traits (e.g. physiology) and multiple aspects of performance – allowing formal tests for whether performance variation is driven by different traits in different environments.
+Acknowledgments
+This research was funded by Natural Sciences and Engineering Research Council of Canada Discovery Grants to APH and LJC. APH thanks the Hendry Ranch, Napa, CA, for providing the accommodation, office space and fine wine that proved so important in the preparation of this manuscript. So read the acknowledgements of the first submitted version of this MS. The deciding editor then noted: ‘The acknowledgements recognize the contribution of wine to the work. In a light hearted jibe, I’d like to suggest that perhaps there was too much wine consumed during the writing as I find the introduction to be lacking in certain respects’. In response, we offered ‘Well, the lead author did drink a lot of wine during the preparation of this MS, and so it is possible that his faculties were occasionally compromised. Consumption decreased somewhat during the preparation of this revision, and so perhaps clarity will be improved. He will return to drinking heavily again immediately after this paper is accepted’.
+References
+a 2010 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 23–35
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Genetic divergence in morphology–performance mapping 33

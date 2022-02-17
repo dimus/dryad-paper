@@ -1,0 +1,920 @@
+  Syst. Biol. 45(l):l-26, 1996
+CRAYFISH MOLECULAR SYSTEMATICS: USING A COMBINATION OF PROCEDURES TO ESTIMATE PHYLOGENY
+132 KEITH A. CRANDALL ' AND J. F. FITZPATRICK, JR.
+department of Biobgy, Washington University, St. Louis, Missouri 63130-4899, USA department of Biological Sciences, University of South Alabama, Mobile, Alabama 36688, USA
+Abstract.—The use of comparative methods to test evolutionary hypotheses has become more common at both the macroand microevolutionary levels. The application of such techniques is especially troublesome at the interface of these levels because phylogenetic relationships are often difficult to estimate. The use of a technique developed to estimate intraspecific cladograms combined with more traditional methods of phylogenetic estimation can improve the estimate in data
+sets containing a range of diversity when the lower bound of the range approaches 0% divergence.
+For nucleotide sequence data from the 16S region of the mitochondrial DNA from 72 individuals representing 37 species, this combined-procedures approach improved the estimate of phylogenetic relationships using maximum-parsimony, maximum-likelihood, and neighbor-joining methods. The estimated trees were used to examine systematic hypotheses relating to the crayfish genus Orconectes and species relationships within the subgenus Procericambarus. The monophyly of Procericambarus is not supported by the mitochondrial data, and the hypotheses of unique origins of various morphological features previously used in determining crayfish relationships is unsupported. [Crayfish; mitochondrial DNA; molecular systematics; parsimony; phylogeny reconstruction; Orconectes.]
+Estimated phylogenies have become instrumental in determining systematic relationships and classifications (de Queiroz and Gauthier, 1990) and in testing systematic hypotheses and exploring evolutionary trends (Harvey and Pagel, 1991). As the phylogenetic approach to studying various aspects of evolutionary biology becomes more widespread, the accuracy of these phylogenetic hypotheses becomes more important. Templeton et al. (1992) developed a new method for reconstructing evolutionary relationships based on a population genetic model of molecular evolution. Crandall (1994) showed that this method is more accurate than more traditional methods (e.g., maximum parsimony) for inferring evolutionary relationships when few characters are available. Templeton et al. (1992) suggested that a combination of traditional methods and this new method can be a powerful approach to estimating phylogenies when the range of nucleotide sequence variation within a data set is great and the lower bound ap-
+3
+Present address: Department of Zoology, Brigham Young University, Provo, Utah 84602, USA. E-mail: crandall@acdl.byu.edu.
+proaches 0% divergence. Here, we demonstrate this approach to phylogeny reconstruction, which combines techniques designed for different levels of variation. These procedures allow us to estimate phylogenetic relationships based on a nucleotide sequence data set from the 16S region of the mitochondrial DNA (mtDNA) of the crayfish subgenus Procericambarus and related species.
+The Cambaridae is the most species rich of the three crayfish families, containing over 70% of the 540+ described species (Hobbs, 1989). This family is distributed over eastern North America (including Mexico) and parts of Asia. The cambarids also represent the greatest ecological diversity within the crayfishes, occurring as obligate cavernicoles (troglobites), primary burrowers, and stream, pond, lake, and swamp dwellers, with two species that have even penetrated partially saline environments (Procambarus clarkii and P. zonangulus).
+The cambarid genus Orconectes contains 71 species and was divided into 10 subgenera by Fitzpatrick (1987) (Table 1). This genus is distributed across the United States, mainly east of the continental di-
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+TABLE 1. The subgenera of the crayfish genus Orconectes (from Fitzpatrick, 1987) and the number of species and subspecies currently recognized in each subgenus.
+Subgenus
+Billecambarus Fitzpatrick, 1987
+Buannulifictus Fitzpatrick, 1987
+Crockerinus Fitzpatrick, 1987
+Faxonins Ortmann, 1905
+Gremicambarus Fitzpatrick, 1987
+Hespericambarus Fitzpatrick, 1987
+Orconectes Cope, 1872
+Procericambarus Fitzpatrick, 1987
+Rhoadesius Fitzpatrick, 1987
+Tragulicambarus Fitzpatrick, 1987 1 0
+• From Hobbs, 1989.
+vide. Fitzpatrick (1987) put forth a phylogenetic hypothesis for the subgenera within Orconectes (see Fig. 6), yet hypotheses for species relationships within subgenera have not been proposed because of the paucity of cladistic characters. In our study, we examined the relationships within the subgenus Procericambarus. This subgenus contains 24 described species distributed mainly in the Ozark Plateau, Ouachita Province, and Cumberland Plateau (Fig. 1). These species are ecologically diverse, inhabiting lakes, ponds, and different areas within streams. They are also morphologically diverse; Orconectes macrus
+(the Neosho midget crayfish) adults range from 2.3 to 5.1 cm in length, and O. longidigitus (the long-pincered crayfish) obtain lengths of 20 cm or more. The distributional areas of many of these species are well known, based on the work of Williams (1954b) and Pflieger (1987). Variation in distributional area ranges from extremely localized, e.g., O. saxatilis, which is known only from Pigeon Creek in LeFlore County, Oklahoma, to widespread, e.g., O. rusticus, which is distributed throughout much of the range of the subgenus itself (see Fig.
+1).
+With its diversity in ecology, morpholo-
+gy, and distribution, this group provides an excellent opportunity to explore the association of this diversity with cladogenic events. To utilize this wealth of diversity in evolutionary studies, however, the phylogenetic relationships of the species must first be ascertained (Felsenstein, 1985). In this study, we estimated the phylogenetic relationships of the species within the subgenus using nucleotide sequence data from the 16S region of the mtDNA. We examined the monophyly of taxonomic species and species groups. When deviations from species monophyly were apparent, we explored possible explanations for these deviations. We then tested the phylogenetic hypothesis put forth by Fitzpatrick (1987)
+SYSTEMATIC
+BIOLOGY VOL. 4 5
+No. No. sub33
+species species
+1 0
+3 3 14 1 3 0 13 0 6 0 4 2 24 1 20
+FIGURE 1. Distributional areas of the crayfish subgenus Procericambarus (Fitzpatrick, 1987). Arrows represent probable or actual introductions where large populations have been established.
+     Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 CRANDALL AND FITZPATRICK—CRAYFISH MOLECULAR SYSTEMATICS
+on the relationships of the subgenera of the crayfish genus Orconectes. In the context of the phylogenetic relationships established by the nucleotide sequence data, we examined the evolution of various secondary sexual morphologies, which have played a predominate role in crayfish taxonomy and systematics.
+MATERIALS AND METHODS
+Crayfish Samples
+straight; in the genus Cambarus, the terminal elements are strongly curved (>45°), and in the genus Procambarus, the terminal elements are short and four in number (Fig. 2). Every effort was made to obtain a form I male as a voucher specimen for each population sampled. In a few cases, form I males were not available and identifications were made from form II males and females. Voucher specimens were deposited in the Decapod Crustacean Collection at the University of Alabama.
+The crayfish used in this study (Table 2)
+were collected by hand, dip net, or seine
+during the years 1989-1992. At least one
+representative population was sampled for
+each of the 24 species in the subgenus Pro-
+cericambarus. In most cases, species are rep-ml H2O, 10.6 ml 1 M Tris [pH 7.6], 4.2 ml resented by samples from multiple popu-
+lations. In addition to these 24 species, representatives of other subgenera within Orconectes and two other genera, Procambarus and Cambarus, were collected to serve as outgroups and provide an adequate framework for testing the monophyly of the subgenus Procericambarus. Specimens were collected predominately from the type locality as described by Hobbs (1989).
+0.5 M EDTA, 21.2 ml 20% Sarkosyl, 2.1 ml |3-mercaptoethanol) and incubated for 1 hr at room temperature. Following incubation, the solution was extracted twice with equal volumes of phenol: chloroform: isoamyl alcohol (24:24:1) and twice with equal volumes of chloroform: isoamyl alcohol (24:1). The DNA was precipitated with a 2/3 volume of isopropanol and resuspended in 50 |xl of Tris-EDTA buffer.
+Upon capture, the abdomen and gill tis-
+sues were dissected from the crayfish, put
+into cryotubes, and frozen immediately in
+liquid nitrogen. The tissues were then
+brought to the lab and stored at — 80°C priDNA from the 16S ribosomal subunit was or to DNA extraction. For most species, at
+least one form I male and one female were
+put directly into 70% EtOH for preserva-
+tion as voucher specimens. Male crayfish
+within the family Cambaridae are cyclical-
+ly sexually dimorphic, with the form I
+male being sexually active. The first pleo-
+pod (=gonopod) of the form I male is
+sclerotized and amber colored, with
+lengthened terminal elements. In form II
+males (the nonbreeding form), the termi-
+nal elements of the first pleopod are not as
+well differentiated and are never corneous.
+The gonopod of the form I male has been
+traditionally used to distinguish among
+crayfish species within the family Cam-
+baridae. For example, all members of the
+genus Orconectes possess two terminal elH2O. DNA was denatured initially at 95°C ements that are relatively long and for 3 min, then 30 cycles of amplification
+Abdomen and gill tissue were ground to a powder in liquid nitrogen. Approximately 100 mg of tissue was added to 450 JJLI of guanidinium isothiocyanate solution (100 g guanidinium isothiocyanate [Kodak], 75
+Two microliters of the extracted DNA (about 0.1 mg) was used as template for polymerase chain reaction (PCR) amplification (Saiki et al., 1988). Mitochondrial
+amplified using primers 1471 (5'CCTGTTTANCAAAAACAT-3') and 1472 (5'-AGATAGAAACCAACCTGG-3'). We constructed these primers by aligning 16S mtDNA from various invertebrate sequences found in GenBank and identifying conserved regions that flanked more variable regions. The 5' end of primer 1471 corresponds to nucleotide position 667 of the large ribosomal RNA in Drosophila melanogaster (Kobayashi and Okada, 1990). PCR was carried out in 50-|xl reactions consisting of 2 |xl of template DNA, 5 |xl (30 pmol) of primers, 5 |xl of 10 X reaction buffer (Stratagene), 1 |xl of Pfu DNA polymerase (Stratagene), 5 |xl of deoxynucleoside triphosphates (8 mM), and 32 |xl of
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  SYSTEMATIC BIOLOGY VOL. 45 TABLE 2. Crayfish specimens utilized in this study. Species are listed alphabetically within each subgenus.
+Representatives of the genera Cambarus and Procambarus were used as outgroups.
+. Species
+Orconectes (Procericambarus) acares 0. (P.) barrenensis
+O. (P) forceps
+O. (P) hylas
+O. (P.) leptogonopodus O. (P.) longtdigitus
+O. (P) luteus
+O. (P) macrus
+O. (P) medius
+O. (P.) menae
+O. (P.) mirus
+O. (P.) nana
+O. (P) neglectus chaenodactylus O. (P) neglectus neglectus
+O. (£) ozarkae
+0. (P.) peruncus
+0. (P) placidus
+O. (P.) punctimanus
+O. (P.) putnami
+O. (P.) quadruncus O. (P.) rusticus
+O. (P.) saxatilis O. (P) spinosus
+O. (P) transfuga
+0. (P.) wililamsi
+O. (Billecambarus) harrisoni O. (Buannulifictus) meeki
+3
+acar 421 acar 441
+barr 409 barr 410 fore 345 fore 364 hyal 103 hyla 105 lept 603 long 212 long 213 lute 13 lute 23 lute 96 lute 112 macr 218 macr 234 medi 77 medi 151 mena 451 mena 452 mini 385 miru 348 nana 192 nana 193 negl 132 negl 181 negl 240 ozar 127 ozar 170 ozar 172 peru 137 peru 138 plac 288 plac 484 punc 114 punc 119 punc 160 punc 164 putn 298 putn 314 putn 399
+quad 185 quad 186 rust 306 rust 307 saxa 460 saxa 463 spin 324 spin 336 spin 375 spin 395 tran 177 tran 178 tran 602 will 227 harr 139 meek 205 meek 230
+County, state
+Garland, AR Polk, AR Monroe, KY Monroe, KY
+Major drianage
+Ouachita River Red River Barren River Barren River Tennessee River Tennessee River Black River Black River Red River White River White River Meramec River Meramec River Meramec River Big Piney River Elk River Spring River Meramec River Meramec River Red River
+Red River Tennessee River Tennessee River White River White River
+North Fork
+Little North Fork Spring River Spring River Spring River North Fork
+St. Francis River St. Francis River Cumberland River Ohio River
+Big Piney River Eleven Point River Little Piney River Big Piney River Green River
+Red Bird River Barren River
+St. Francis River St. Francis River Ohio River
+Ohio River
+Red River
+Red River
+Red Bird River Etowah River Tennessee River Tennessee River Rogue River Rogue River Rogue River White River
+Big River
+White River White River
+Label
+Madison, Madison,
+Iron, MO
+Iron, MO
+Polk, AR Madison, Madison, Crawford, MO Crawford, MO Crawford, MO Texas, MO McDonald, MO Lawrence, MO Crawford, MO Crawford, MO Polk, AR
+Polk, AR
+Giles, TN Madison, AL Benton, AR Benton, AR Ozark, MO Ozark, MO Lawrence, MO Oregon, MO Fulton, AR Ozark, MO Wayne, MO Wayne, MO Caldwell, KY Hardin, IL Texas, MO Oregon, MO Phelps, MO Texas, MO
+Ohio, KY
+Clay, KY
+Barren, KY Madison, MO • Madison, MO Clark, KY
+Clark, KY LeFlore, OK LeFlore, OK Leslie, KY Bartow, GA Lawrence, TN Giles, TN Jackson, OR Jackson, OR Jackson, OR Barry, MO Washington, MO Madison, AR Washington, AR
+AL AL
+AR AR
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 CRANDALL AND FITZPATRICK—CRAYFISH MOLECULAR SYSTEMATICS
+Species
+O. (B.) palmeri longimanus O. (Crockerinus) eupunctus O. (Faxonius) indianensis
+O. (Gremicatnbarus) causeyi O. (G.) validus
+O. (G.) virilis
+O. (Orconectes) australis australis O. (Rhoadesius) kentuckiensis
+0. (Tragulicambarus) lancifer
+Cambarus (Erebicambarus) hubbsi C. (E.) maculatus
+Procambarus (Orttnannicus) acutus
+T ABLE 2.
+Label'
+palm 457 eupu 120 indi 507 caus 109 vali 355 viri 95 viri 143 aust 398 kent 494 lane 513
+hubb 122 macu 63 acut 102
+Continued.
+County, state
+LeFlore, OK Oregon, MO
+Hardin, IL
+San Miguel, NM Madison, AL Crawford, MO MO
+Overton, TN Hardin, IL Alexander, IL
+Oregon, MO Crawford, MO St. Charles, MO
+Major drianage
+Cedar Lake Eleven Point River
+Ohio River Canadian River Tennessee River Meramec River Niangua River Cumberland River Ohio River Horseshoe Lake,
+Mississippi River Eleven Point River Meramec River Mississippi River
+1
+Unique numerical identification label for each individual represented in the tissue collections.
+Fossa
+Postannular sclerite
+ANNULUS VENTRALIS
+were carried out under the following conditions: 95°C denaturation for 1 min, 42°C annealing for 1 min, and 72°C extension for 1.5 min.
+Two microliters of the resulting PCR product was electrophoresed on an agarose gel and visualized with ethidium bromide staining to verify product band size. The remaining product was then purified from primers (Magic PCR preps, Promega) following the manufacturer's instructions.
+Cycle sequencing was carried out using the
+m
+fmol sequencing kit (Promega). Approxi-
+mately 1 mg of the purified PCR product was combined with 3 pmol of primer, radioactive label, reaction buffer, Taq sequencing grade DNA polymerase, and termination buffer. The cycle sequencing utilized the same reaction conditions as the PCR except for an annealing temperature of 50°C. The cycle sequencing product was then run out on a 6% polyacrylamide gel.
+Sequence Alignment and Phybgeny Reconstruction
+DNA sequences were aligned using the program CLUSTAL V (Higgins et al, 1992), with multiple alignment parameters of fixed and floating gap penalty equal to 10 and pairwise parameters of gap penalty equal to 3 and fc-tuple equal to 1. The alignment of positions 275-277, 318-322, and 341-345 resulting from the CLUSTAL
+Central Projection Length
+\
+Mesial Process Length
+Terminal Elements
+GONOPOD
+Morphological features associated with
+FIGURE 2.
+the female annulus ventralis and the male form I gonopod in cambarid crayfish.
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  V program were then adjusted by eye. Insertion and deletion gaps were coded as missing characters and recoded as single events for phylogenetic analysis using parsimony (as suggested by Swofford, 1993). In maximum-likelihood and distance analyses, gaps were treated as missing data. The resulting data matrix for the 16S gene region is given in the Appendix. Parsimony analyses also were run with the insertion/deletion events deleted from the data matrix to determine their effects on phylogeny estimation.
+Phylogenetic signal within the data set was assessed using the ga statistic of the random tree distribution (Hillis and Huelsenbeck, 1992). Phylogeny reconstruction was carried out using three alternative methods and combinations of these methods with the method of Templeton et al. (1992). Parsimony analyses were performed using the heuristic search option in PAUP with random addition of taxa (Swofford, 1993). To check for the possibility of multiple tree islands (Hendy et al., 1988; Maddison, 1991), at least 100 random addition searches were made for each alternative weighting scheme. A step matrix weighting transversions to transitions by 2:1 was used for the 16S data set because these data showed a significant bias towards transitional substitutions. The ratio of —2:1 was obtained by calculating the probability of change according to the model of Hasegawa et al. (1985). These probabilities were converted to weights using Felsenstein's (1981b) conversion. This bias is typical of the 16S region (Moritz et
+al., 1987). The neighbor-joining method (Saitou and Nei, 1987) was used as implemented in ME—TREE (Rzhetsky and Nei, 1992) using the Jukes and Cantor (1969) and Kimura (1980) models of nucleotide substitution. The maximum-likelihood technique was implemented by the DNAML program in PHYLIP (Felsenstein, 1981a, 1991) .
+These traditional methods were also used in conjunction with the method of Templeton et al. (1992). When sequences differ by few characters, this method is statistically powerful, which is not the case
+with traditional methods. This power is obtained by conditioning the probability of a parsimonious connection between operational taxonomic units (OTUs) by the number of nucleotides shared between OTUs. Thus, for a pair of OTUs that differ by few nucleotides and share many, the probability of a parsimonious connection is greater than that between a pair of OTUs that differ by many nucleotides and share few. By combining the method of Templeton et al. with traditional methods and through the use of topological constraints on relationships established by the Templeton et al. method, one capitalizes on the statistical power of each method. The method of Templeton et al. indicated that parsimonious connections between pairs of OTUs were statistically justified for pairs separated by a maximum of 10 nucleotide substitutions (i.e., Templeton et al.,
+1992: eq. 8; the probability of parsimony fell below 0.95 with 11 mutational steps). Therefore, for the combined analyses with each of the methods listed above, primary relationships were established with the method of Templeton et al. for those pairs of OTUs that differed by <10 characters, and these primary relationships were used as constraints for estimating the remaining tree structure. In most cases, the resulting networks were pairs of OTUs and were easily connected to the main tree. Those networks with more than two OTUs were connected to the main tree using arguments from coalescent theory. Donnelly and Tavare (1986) suggested that older alleles in a population are represented in higher frequency and with greater numbers of mutational connections than are younger alleles. This prediction was supported empirically (Crandall and Templeton, 1993) and through computer simulation studies (Castelloe and Templeton, 1994).
+Confidence in the resulting relationships was assessed using the bootstrap procedure (Felsenstein, 1985, 1988; Felsenstein and Kishino, 1993; Hillis and Bull, 1993) for all methods except the Templeton et al. (1992) method. Here, probabilities were assigned using equation 8 of Templeton et al.
+SYSTEMATIC BIOLOGY VOL. 45
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 CRANDALL AND FITZPATRICK—CRAYFISH MOLECULAR SYSTEMATICS
+(1992). Minimum, maximum, and average search with random sequence addition character changes along a branch were caland tree-bisection-reconnection branch culated using MacClade (Maddison and swapping resulted in four alternative
+Maddison, 1992). We used the nonparametric sign test to test for significant differences between two alternative topologies (Prager and Wilson, 1988; Crandall and Fitzpatrick, 1996). This test counts the number of mutational changes supporting topology A versus those supporting topology B and compares the relative levels of support against a binomial distribution with the null hypothesis of p = 0.50, i.e., equal support for either topology. Unlike Prager and Wilson (1988), we use a twotailed test as a more conservative test of compatible tree topology. When the total number of characters differentiating two topologies was >25, the large sample approximation was used to test alternatives. This test statistic has an asymptotic N(0,1) distribution (Hollander and Wolfe, 1973: 39-45) and is an unweighted version of the Wilcoxon signed rank test presented by Templeton (1983a, 1983b). The number of mutational changes supporting one topology relative to another were calculated using the "compare two trees" option in MacClade (Maddison and Maddison,
+1992).
+RESUL TS
+Using the sequence alignment given in the Appendix, a random tree distribution was generated using the "random tree" option in PAUP (Swofford, 1993). Using the significance levels established by Hillis and Huelsenbeck (1992: table 3) for large data sets, we concluded that with gx =
+—0.506, these data are significantly skewed at P < 0.01. We then restricted the data set to include only those taxa that differed by >10 nucleotide substitutions. Those taxa that differed by ^10 nucleotide substitutions were connected using the procedure described by Templeton et al. (1992) and justified using their probability of parsimony calculation. The gx score for the remaining taxa was -0.563, once again indicating significant phylogenetic signal (P < 0.01) and an increase in phylogenetic signal over the entire data set. A heuristic
+most-parsimonious trees. There was no evidence of multiple tree islands within the data set. Figure 3 shows one of the four most-parsimonious trees that was selected to perform comparisons with other trees. The four most-parsimonious trees differed in two ways. First, the Orconectes rusticus (rust 306, rust 307) + Q harrisoni (harr 139) clade was supported in one tree and unsupported in another. The second ambiguity was in the placement of O. mirus (miru 348) as either a member of the Procambarus acutus (acut 102) clade or the O. palmeri (palm 457) clade. The differences in the four most-parsimonious trees do not affect the conclusions. When insertion/deletion events were eliminated from the analysis, the same trees were derived using parsimony. The taxa deleted from the original search were added according to the relationships derived from the procedure of Templeton et al. (1992). Using this combined-procedures approach, the search for a most-parsimonious tree resulted in four alternatives. When the total data set was used, the MAXTREE limit of 11,300
+(on a 4-Mb RAM Mac Ilci) was reached. Obviously, this combined-procedures approach has great utility in narrowing the options of a parsimony search.
+The confidence in the parsimony tree was assessed by 200 bootstrap replications and should be taken only as a heuristic guide to the confidence in a particular node (Hillis and Bull, 1993). Resulting bootstrap percentile (BP) values of ^50 are shown on the phylogeny (Fig. 3), as are those nodes supported by the Templeton et al. (1992) procedure. Figure 4 shows the same tree with the branch lengths proportional to the number of changes on each branch. The minimum, average, and maximum numbers of characters that change on each branch are shown in boxes.
+Using the same data set (Appendix), phylogenies were estimated using both the neighbor-joining and maximum-likelihood methods. Weighting assigned by the Jukes and Cantor (1969) and Kimura (1980)
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  SYSTEMATIC BIOLOGY
+VOL. 45
+FIGURE 3.
+of maximum parsimony with the Templeton et al. (1992) method of phylogeny reconstruction. Majority-rule bootstrap percentile values are shown on branches supported by ^50%. An asterisk indicates those connections supported at the P a 0.95 level using the method in Templeton et al. (1992). The number following a species name indicates a unique population sampled, e.g., four different populations were sampled for the species Orconectes luteus (1-4). Samples without numbers but from the same species are from the same location.
+One of four most-parsimonious trees (length = 838) for crayfish resulting from a combined usage
+luteus1 (Iute96)
+luteus 2 (Iute23) /utei/s3(lute13[ /uteus4(lute112) medius2 (medi151) medius~\ (medi77) neglectus2 (neglf81) neglectus 1 (negl132) transfuga (tran1/7) transfuga (tran602) leptogonopodus (lept603) quadruncus (quadi 85) ozarkae 3 (ozari 72) punctimanus 2 (pund 19) punctimanus 3 (pund 60} punctimanus 4 (pund 64) vipfis 2 (viri 143)
+virilis 1 j[viri95) causey/ (caus 109)
+punctimanus 1 (pund 14) longidigitus 2 (Iong213) longidigitus 1 (Iong212) saxatins (saxa460) saxatilis (saxa463) peruncus (perui 38) peruncus (perui 37j quadruncus (quadi 86) /?y/as(hyla103) /7y/as(hyla1O5)
+neglectus 3 (negl240) ozarkae 2 (ozarl 70) ozarkae 1 (ozarl 27) forceps 2 (Torc364) placidus 1 (plac484) placidus 2 (plac288) transfuga (trani 78) spinosus 4 (spjn395)
+P. spinosus 3 (spin375) R) kentuckiensis (kent494) " putnami'\ (putn298)
+indianensis (indi507) putnami 2 (putn314) spinosus 2 (spin324) forceps 1 (forc345) barrenensis (barr410)
+r. barrenensis (barr409) C) ei/pt/ncfus(eupu120) P.) rusticus (rust307)
+P.J rusticus (rust306)
+SH.) /7arr/son/(harr139)
+P.) n7/ms 2 (miru385) Euan.) meew 2 (meek205) Buan.) meeki 1 (meek230) " nana (nana192)
+nana(nana193) macrus 2 (macr234) macrus 1 jmacr218j spinosus 1 (spin336) acares1 (acar441) acares 2 (acar421)
+Buan.) palmeri (palm457) P.) putnami 3 (putn399) T.) lancifer(Ianc513)
+G.) va//yi/s(vali355)
+P.) mirus 1 (miru348) acutus {acuu 02)
+'P.) menae (mena452) P.) menae (mena451) P.) w/7//ams/(will227) O.) australis (aust398) ?u/?bs/(hubb122)
+maculaius (macu63)
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 CRANDALL AND FITZPATRICK—CRAYFISH MOLECULAR SYSTEMATICS
+—
+— « a O. (P.) forceps 1 (forc345)
+a O. (P.) barrenensis (barr410) O. (P.) barrenensis (barr409)
+O. (C.) ei/puncfus(eupu120) O. (P.) rusticus (rust307)
+O. (P.) rusticus (rust306)
+O. (Bil.) /jamson/(harr139) • O. (P.) minis 2 (miru385)
+O. (Buan.) meeki2 (meek205) O. {Buan.) meeki 1 (meek230) — • O. (P.) nana (nana192)
+O. (P.) nana (nana193)
+= • O. (P.) macrus 2 (macr234) =—• O. (P.)macrus 1(macr218)
+O. (G.) validus (vali355) O. (P.) minis 1 (miru348) P. acutus (acuti 02)
+r I
+O.(P.)luteus1 Iute96) O.(P.)luteus2 Iute23) O.{P.)luteus3 Iute13) O.[PSluteus4 Iute112)
+O.(P.)medius2 (medi151) O. (P.) medius 1 (medi77y
+O.IP.)neglectus2(negl181) O. (P) neglectus 1 (neglT32)
+^O. (P.) transfuga (tranT77)
+Jp O. (P.) transfuga (tran602)
+1« O. (P.) leptogonopodus (lept603) *O. (P.) quadruncus (quad185)
+O.(P.) ozarkae 3 (ozari 72)
+O. (P.) punctimanus 2 (pund 19)
+O. (P.) punctimanus 3 (pund60)
+O. (P.) punctimanus 4 (pund 64) O.Jd.) virilis2 viri143)
+Q (G.) w/7//s 1 (viri95)
+O. (G.) causeyi (causi 09)
+O. (P.) punctimanus 1 (pund 14)
+_ i 0. (P.) longidigitus2 (Iong213) , ~ i O. P.) longidigitus 1 (Iong212
+0. (P.) saxaft//s (saxa460)
+O. (P.) saxatilis (saxa463)
+• O. (P.) peruncus (peru138) O. (P.) pemncus (peru137)
+• O. (P.) quadruncus (quad186) O.(P .)/7y/as(hyla103)
+0. (P.) /7y/as(hyla1O5)
+I — " O. (P.) neglectus 3 (negl240)
+O. (P.) ozarkae 2 (ozar170) Q (P.) ozarkae 1 fpzar127)
+— O.(P.)forceps2(Iforc364) O. (P.) placidus 1 (plac484J
+—»D. (P.) placidus 2 (plac288)
+»O. (P) transfuga (tran178) O. (P.) spinosus4 (spjn395) O. (P.) spinosus 3 (spin375)
+O. (P..) kentuckiensis (kent494) J. (P.) putnami 1 (putn298)
+O. (F.) indianensis (indi507)
+O. (P.) putnami2 (putn314) O. (P.) spinosus 2 (spin324)
+xO. (P.) menae (mena452)
+T
+O.(P.) menae (mena451) O. (P.)williamsi(w\\\227)
+•" O. (P.) spinosus 1 (spin336) O. (P.) acares 1 (acar441)
+O. (P.) acares 2 (acar421)
+O. (Buan.) palmen (palm457)
+«a O. (P.) putnami 3 (putn399) O.(T.)lancifer{\as\c5^3)
+O. (O.) australis (aust398) C. /7ubte/(hubb122)
+C. maculatus (macu63)
+I 1 1 1 1 1 1 1 1—
+0 10 20 30 40 50 60 70 80
+FIGURE 4. The same tree as shown in Figure 3 but with branch lengths proportional to the number of changes on each branch. The minimum (open box), average (vertical bar), and maximum (shaded box) number of characters that change on each branch are shown (see Maddison and Maddison [1992:349-351] for a description of this feature). The scale indicates the amount of character evolution along the tree.
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  10 SYSTEMATIC BIOLOGY VOL. 4 5
+TABLE 3. Comparisons of different phylogeny estimation procedures.
+dence suggest that we have obtained an improved estimate. First, we were able to significantly decrease the number of mostparsimonious trees from > 11,300 down to 4. Although the reduction in the number of most-parsimonious trees in itself does not necessarily indicate a more accurate estimate of phylogenetic relationships, it does provide a smaller alternative tree space from which to test subsequent hypotheses based on the phylogeny. The reduction in the most-parsimonious tree space allows for a more thorough search of this space, resulting in a complete set of most-parsimonious trees. Moreover, the four most-parsimonious trees from the combined-procedures analysis are five steps shorter than the 11,300 most-parsimonious trees produced using only maximum parsimony. Tree-length calculations were for the entire data set with equal weights for all characters over both sets of trees and are therefore appropriate comparisons. Thus, using parsimony as an optimality criterion, the shorter and fewer trees found using the combined-procedures approach are clearly an improved estimate. Maddison et al. (1992) discussed the importance of search strategy when performing heuristic searches on large data sets. The combined-procedures approach is a theoretically sound way to reduce the parsimony tree search space, thus allowing for more efficient searches. Because the method of Templeton et al. (1992) uses a local parsimony criterion to establish relationships, the overall tree length of a combined-procedures tree will not necessarily be equivalent to the tree length of the set of maximum-parsimony
+trees. In this case, results from known phylogenies suggest that the method of Templeton et al. will provide more accurate estimates of relationships than will global parsimony (Crandall, 1994).
+The second indication of an improved estimate is the increase in phylogenetic signal, as indicated by the skewness of the random tree distribution. When the relationships established by the method of Templeton et al. (1992) are constrained, the resulting gx = —0.563, whereas the uncon-
+Comparison"
+MP-ML MP-NJ NJ-ML
+Treesb 1 2
+26 21 0.729 22 17 0.801 18 21 0.480
+pd Bf P* 0.2327 0.6981
+0.2119 0.6357 0.3156 0.9468
+a
+NJ = neighbor joining.
+b
+Trees 1 and 2 refer to the trees estimated by the first and second methods, respectively, in the comparison. The values indicate the number of characters for which that tree has fewer steps than the other.
+c d
+MP = maximum parsimony; ML = maximum likelihood;
+Large-sample approximation for the sign test.
+Two-sided from a normal distribution (Hollander and Wolfe, 1973:258).
+e
+al., 1985:582-584).
+Bonferroni correction for multiple comparisons (Neter et
+models of nucleotide substitution resulted in identical topologies for the neighborjoining analysis. The neighbor-joining and maximum-likelihood trees are not significantly different from the parsimony tree or each other as indicated by the sign test. The resulting P values for each comparison are given in Table 3, as are the Bonferronicorrected P values for multiple comparisons (Neter et al., 1985:582-584).
+Because of the nonmonophyly of various species and the potential for stochastic assortment of gene lineages, the most-parsimonious tree was also estimated with the constraint that each species form a monophyletic group (Fig. 5). This tree represents the assumption that the species are monophyletic and the nonmonophyly of the mtDNA is a result of stochastic assortment. Hypotheses can be tested with this tree under the monophyly assumption and with the maximum parsimony tree (Fig. 3) under the assumption that the gene tree is equivalent to the species tree and populations are nonmonophyletic due to hybridization, cryptic speciation, or short divergence times.
+DISCUSSION
+Combined-Procedures Approach to the Estimation of Phylogenies
+With the combination of procedures for estimating phylogenetic relationships among the crayfishes, three lines of evi-
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996
+CRANDALL AND FITZPATRICK—CRAYFISH MOLECULAR SYSTEMATICS 11
+FIGURE 5.
+are constrained to form monophyletic groups. The length of the most-parsimonious trees was 1,044 steps, compared with 838 steps for the most-parsimonious trees without the species monophyly constraint. All resolved nodes are found in 100% of the set of most-parsimonious trees except those indicated at only 63%.
+The majority-rule consensus tree of the 480 most-parsimonious trees found when crayfish species
+luteus 1 (Iute96)
+luteus 2 (Iute23) /uteus3(lute13) /t/teus4(lute112) medius 2 (medii 51) medius 1 (medi77) neglectus 3 (negl240) neglectus 2 (negh 81) neglectus 1 (negl132) punctimanus 2 (pund 19 punctimanus 3 (pund 60 punctimanus 4 (pund 64 punctimanus 1 (pund 14 causeyi (causi 09)
+ozarkae 2 (ozari 70) ozarkae 1 (ozar127) frans/ugra (Iran 177 transfuga (tran602 transfuga (trani 78 leptogpnopodus (lept603) longidigitus 2 (Iong213) longidigitus 1 (Iong212) saxatins (saxa460) saxatilis (saxa463) /7y/as(hyla103 /7y/as(hyla1O5)
+peruncus (peru138) peruncus (peru137j quadruncus (quad! 86) quadruncus quad185) spinosus 4 spin395 spinosus 3 spin375 spinosus 2 spjn324 spinosus 1 spin336 putnami2 putn314 putnamiZ putn399) putnami 1 putn298) forceps 1 (orc345) forceps 2 (forc364) barrenensis (barr409) barrenensis (barr410) eupunctus (eupu120)
+. rusticus(rust307) '.) rusticus (rust306)
+P.) placidus 1 (plac484)
+P .jp/ac/di/s2(plac288)
+Bit) /7arr/son/(riarr139)
+Pi.) kentuckiensis (kent494) F.) indianensis (indi507) Buan.) meeki2 (meek205) Buan.) meeki 1 (meek230) nana (nanai92)
+nana (nanai93) macrus 2 (macr234) macrus~\ (macr218) acares\ (acar441) acares 2 (acar421) /a/7c/fer(lanc513J minis 1 (mjru34o) mirus 2 (miru385)
+validus (vali355)
+P. williamsi(will227) P. menae (mena452) P. me/7ae(mena451)
+acufus (acut'102)
+(O.) australis (aust398)
+() maculatus (macu63)
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+   12 SYSTEMATIC BIOLOGY VOL. 45
+strained g^ = —0.506, both measures indicating skewness in the random tree distribution. Skewness has been established as a good indicator of phylogenetic signal (Hillis, 1991; Huelsenbeck, 1991; Hillis and Huelsenbeck, 1992). The addition of constraints to the phylogeny typically decreases the amount of phylogenetic signal in a data set (see Hillis, 1991, for examples). However, constraining relationships decreases the number of effective OTUs, thus tending to reduce the g1 statistic. Therefore, ga scores may not be directly comparable.
+A test of the accuracy of the Templeton et al. (1992) method relative to maximum parsimony indicated that when few characters are available for analysis, the method of Templeton et al. greatly outperforms maximum parsimony in terms of making accurate connections between OTUs (Crandall, 1994). There is no way to prove that the combined-procedures approach has resulted in a more accurate estimate of the crayfish phylogeny because the true phylogeny is unknown. However, these three lines of evidence all indicate that the combined-procedures approach does result in a better estimate of phylogenetic relationships.
+By combining the method of Templeton et al. (1992) with the maximum-likelihood approach, we were able to obtain a maximum-likelihood estimate. The entire unconstrained data set was too large for the maximum-likelihood algorithm. Clearly, the ability to obtain an estimate is a great improvement over no estimate at all. In combination with the neighbor-joining algorithm, the resulting tree had greater resolution at more basal nodes than did the tree estimated by neighbor joining alone, perhaps because of the increase in phylogenetic signal indicated above. Thus, the combined use of the method of Templeton et al. with the three major algorithms for estimating phylogenetic relationships improved the resulting estimate in each case, although in different ways. Huelsenbeck and Hillis (1993: fig. 7, analyses I, III) demonstrated that distance methods and parsimony methods tend to perform poorly when few characters are available for anal-
+ysis. Using the method of Templeton et al. for clades that contain OTUs differing by few characters combined with a more traditional approach for those clades or taxa differing by more characters allows for an improved estimate of phylogenetic relationships. These estimated relationships were used to test systematic hypotheses relating to the crayfishes.
+Testing Systematic Hypotheses
+Monophyly of taxa.—Monophyletic groupings are important in a classification of organisms based on phylogeny (de Queiroz and Donoghue, 1990; de Queiroz, 1992) and in some species concepts (Cracraft, 1983, 1989). Therefore, it is important to explore the monophyly of taxonomic groups in a systematic study. Monophylet-
+ic groupings were tested statistically by constraining the parsimony search to form monophyletic groups of the taxa being tested. The resulting tree was then compared with the most-parsimonious tree lacking the enforced constraint (i.e., that tree given in Fig. 3). Nonmonophyly was observed in 9 of the 24 species for which more than one sample was obtained. Of these nine cases of nonmonophyly, five were shown to be statistically significant, that is, the alternative constrained tree had significantly more character change associated with it than did the most-parsimonious tree (Table 4).
+One explanation for the nonmonophyly of mtDNA haplotypes within a species is the problem of gene trees reflecting species (or population) trees (Pamilo and Nei, 1988). Watterson (1985) studied the problem of genetic divergence in two populations and effects of mutation and genetic drift on the probability that the samples form a monophyletic group. Padmadisastra (1987) extended those results to the three-population case and included the effects of population bottlenecks. These studies assumed complete isolation between populations at the time of divergence. Many models of speciation stipulate limited gene flow between ancestral and derived populations during the divergence of the two populations. Takahata and Slat-
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996
+CRANDALL AND FITZPATRICK—CRAYFISH MOLECULAR SYSTEMATICS
+13
+Species group
+virilis quadruncus putnami spinosus saxatilis neglectus ozarkae punctimanus transfuga
+15
+BfP*
+n.s. <0.0036** <0.0036** <0.0036**
+0.5634
+n.s. <0.0036**
+0.2808 <0.0036**
+a b
+Number of characters for which the maximum-parsimony tree has fewer steps.
+TABLE 4. Statistical tests for crayfish species monophyly.
+Maximum
+parsimony" Constrained
+1 1 38 0 36 0 61 4
+5 0 10 6 17 0
+6 0 26 5
+6.164 6.000 7.070
+4.123
+3.772
+0.7500 <0.0004** <0.0004** <0.0004**
+0.0626*
+0.4544 <0.0004** 0.0312* <0.0004**
+Number of characters for which the alternative tree, with the taxonomic group constrained to form a monophyletic group, has fewer steps.
+d e
+c
+the value under maximum parsimony.
+The large-sample approximation. Where the B* value (from Table 3) is missing, the B statistic was used, which is simply Two-sided from a binomial distribution with p = 0.5 (Hollander and Wolfe, 1973:263).
+Bonferroni correction for multiple comparisons (Neter et al., 1985:582-584).
+kin (1990) explored the effects of this limited gene flow on the probability of monophyly. Their results indicate that for some time after the divergence of two or more populations, there is a high probability that these populations will show a nonmonophyletic gene genealogy; therefore, the gene genealogy will not accurately reflect the population divergence. Neigel and Avise (1986) and Takahata and Slatkin (1990) have shown that the expected progression of gene genealogy following divergence is polyphyletic —> paraphyletic —» monophyletic. Many empirical examples of this phenomenon have recently been reported (Powell, 1991; Patton and Smith, 1994). The probability of monophyly is significantly reduced by the presence of gene flow (Takahata and Slatkin, 1990), increases with smaller population size (Padmadisastra, 1987; Pamilo and Nei, 1988), and is affected by the geographic distribution of the populations (Neigel and Avise, 1986). Given these results and the apparent recent divergence of the crayfish populations in this study (as indicated by the relative lack of genetic divergence among individuals), patterns of nonmonophyly may merely reflect this recent divergence and the discordance between 16S mtDNA genealogy and the species phylogeny. Wu
+(1991) suggested that with the addition of more loci (a minimum of five independent loci), the population tree can be discerned
+from the gene tree. However, Takahata and Slatkin (1990) warned that in the case of polyphyly, it is impossible to estimate simultaneously the divergence time of populations and the extent of migration, even with the aid of additional loci. Given this explanation for the nonmonophyly of species haplotypes, we can explore alternative explanations.
+In only two cases, Orconectes virilis and O. neglectus, do we fail to reject the null hypothesis of species monophyly in favor
+of the most-parsimonious alternative. In addition, the paraphyly of O. punctimanus and O. saxatilis may be questioned because the rejection of the null hypothesis of monophyly was not highly significant; it was nonsignificant after the Bonferroni correction. The monophyly of the remaining species is rejected with high significance. Although the monophyly of O. neglectus cannot be rejected, the two populations of this species that appear in different areas
+of the phylogeny represent two subspecies from isolated drainages: O. neglectus neglectus (negl 240) is from the Spring River drainage in western Missouri and eastern Kansas, and O. neglectus chaenodactylus (negl 132, negl 181) is from the North R>rk
+of the White River drainage. Their placement as two independent lineages in the phylogeny suggests the possibility of distinct species (see Williams [1954a] for a distributional history of this species).
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  14 SYSTEMATIC BIOLOGY
+VOL. 45
+Similarly, the two populations of O. ozarkae are from two isolated drainages, with ozar 127 and ozar 170 from the Spring River drainage in Arkansas (different from the Spring River in Missouri-Kansas) and ozar 172 from the North Fork of the White River. These two populations have distinct morphologies (Pflieger, pers. comm.) and are genetically differentiated (P < 0.0004, Table 4). Furthermore, this same geographic separation and degree of genetic isolation has been observed in the hellbender salamander, Cryptobranchus alleganiensis (Routman, 1993; Routman et al., 1994), adding support to a hypothesis of biogeographic isolation of populations. Pflieger (1989) and Matthews et al. (1992) have described these drainages as being ecologically distinct from one another. Their classification systems are based primarily upon the distribution of native fish fauna from these areas. Our data suggest ecological divergence as well, but detailed studies are needed to confirm ecological divergence for these two populations of crayfish.
+Subgeneric relationships.—Fitzpatrick (1987) subdivided the genus Orconectes into 10 subgenera. These subgeneric designations were based mainly on the characters associated with the gonopods of the first form males and the annulus ventralis in females (Fig. 2). Fitzpatrick (1987) used the degree of curvature and the relative proportions of the terminal elements with respect to each other as characters to assign groupings to different subgenera. He also used the degree of sculpture of the annulus ventralis in females to determine groupings. Using these characters, Fitzpatrick (1987) offered the phylogenetic hypothesis given in Figure 6. A specific data matrix of cladistic characters was not associated with this phylogeny. However, Fitzpatrick's (1987) phylogenetic hypothesis can be tested for compatibility with the mtDNA tree and with the tree in which species were constrained to be monophyletic.
+To test Fitzpatrick's proposed "phylogenetic" relationships (Fig. 6) relative to the mtDNA phylogeny (Fig. 3) and the
+Procambarid ancestor
+FIGURE 6.
+the subgenera of the crayfish genus Orconectes as described by Fitzpatrick (1987). Group designations have been added to test the support for each group relative to the mtDNA phylogenies (see Table 5 for statistical test results).
+species constraint tree (Fig. 5), we used the sign test to determine whether his hypothesis was significantly different from those phylogenies generated by the molecular data. Fitzpatrick's complete hypothesis is incompatible with the mtDNA data, with the rejection of the monophyly of Procericambarus (Table 5). We then tested the more general groupings of the three major clades while allowing Procericambarus to be nonmonophyletic with respect to the subgenera Crockerinus and Faxonius. Fitzpatrick's groups II and III (Fig. 6) are rejected
+at P < 0.0024 for both the most-parsimonious tree and the species-monophyly tree. Likewise, group I is rejected on both trees but with a decreased level of significance (Table 5). The explicit group I hypothesis being tested is for the troglobitic species Orconectes australis (aust 398) to be the first Orconectes to branch off with both Procambarus and Cambarus species ancestral to O. australis. Given this data set, this is essen-
+Proposed phylogenetic relationships of
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996 CRANDALL AND FITZPATRICK—CRAYFISH MOLECULAR SYSTEMATICS 15
+TABLE 5. Tests of Fitzpatrick's (1987) phylogenetic hypotheses for crayfish subgeneric relationships. The subgeneric groups (I, II, III) refer to the phylogenetic hypotheses put forth by Fitzpatrick (1987) (see Fig. 6). Tests were performed by calculating the number of characters for which the mtDNA tree (either the mostparsimonious tree or the species monophyly constraint tree [SPM]) was shorter than the grouping proposed by Fitzpatrick and visa versa. The significance of the differences was compared with a binomial distribution using the sign test.
+Taxonomic group
+Procericambarus 66
+Procericambarns SPM 34 Group I 26 Group I SPM 19 Group II 63 Group II SPM 29 Group III 55 Group III SPM 35
+" Large-sample approximation for the sign test.
+b
+mtDNA
+Fitzpatrick
+3 7.58 10 3.62 9 2.87
+3
+3 8.12 7 3.67 3 6.83 2 5.43
+BfF>
+<0.0024** <0.0024** 0.0252*
+0.0048** <0.0024** <0.0024** <0.0024** <0.0024**
+Bonferroni correction for multiple comparisons (Neter et al., 1985:582-584).
+tially a test of the monophyly of the genus era Hobbseus and Cambarus. Hobbs (1969) Orconectes with the additional stipulation also noted convergence in the terminal elthat O. australis must be the sister to the ements between the genera Fallicambarus rest of the genus. Because only one indi-
+vidual of O. australis was examined for this study, statistical power to reject the group is low. To test the group I hypothesis, additional collections of the remaining four taxa within the subgenus Orconectes should be made.
+The above analyses demonstrate that the phylogenetic hypotheses put forth by Fitzpatrick (1987) are incompatible with the mtDNA data set. This incompatibility could simply be an artifact of the mtDNA tree not representing the species tree. However, the fact that the hypotheses are also incompatible with the species monophyly constraint tree suggests that the relationships proposed by Fitzpatrick do not reflect phylogenetic relationships. Furthermore, analyses from sequence data on an independent gene region (Crandall, 1993) and many allozyme loci (Fetzner, 1993) rejected the monophyly of the subgenus and each of the three groups. The incongruence of the nucleotide and allozyme data sets with the groupings based on morphology suggests that convergent or parallel evolution has occurred among these morphological features. Convergent evolution in various morphologies is not without precedent in crayfish. Fitzpatrick and Payne (1968) noted convergence in the curvature of the terminal elements between the gen-
+and Cambarus. Hobbs (1974) listed a number of convergences in other morphological characters and proposed reasons for these convergences based on habitat similarities.
+SUMMARY
+A combination of methods for phylogenetic inference were used to estimate phylogenetic relationships among various crayfish species. The method of Templeton et al. (1992) was designed for intraspecifk divergences and has its greatest statistical power when there are many similarities and few differences in a data set of restriction sites or nucleotide sequences. More traditional methods of phylogeny reconstruction have their greatest statistical power when the number of differences are great and similarities are few (Huelsenbeck and Hillis, 1993). This analysis demonstrates the effectiveness of sequentially combining these strengths to estimate relationships among taxa that span this diversity of variation. When combined with maximum parsimony, the method of Templeton et al. greatly reduces the number of most-parsimonious trees and finds trees of shorter overall length, increases the amount of phylogenetic signal within the data set, and therefore provides a better estimate of phylogenetic relationships. When combined with maximum likelihood, this
+<0.0004** <0.0004** 0.0042** 0.0008** <0.0004** <0.0004** <0.0004** <0.0004**
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996
+CRANDALL AND FITZPATRICK—CRAYFISH MOLECULAR SYSTEMATICS 19
+10 20 30 40 50 60 70] TGAGAGGTATATAAAGTCTGACCTGCCCGTTGGAGAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74 ]
+[
+lute_96
+lute_23 TGAGAGGTATATAAAGTCTGACCTGCCCGTTGGAGAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] lute_13 TGAGAGGTATATAAAGTCTGACCTGCCCGTTGGAGAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] lute_112 TGAGAGGTATATAAAGTCTGACCTGCCCGTTGGAGAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] medi_77 TGAGAGGTATATAAAGTCTGACCTGCCCGTTGGAGAACTGAAAGGCCGCGGTATTGTGACCGTTGCAAAGGTAGC [75]
+medi_151 TGAGAGGTATATAAAGTCTGACCTGCCCGTTGGAGAACTGAAAGGCCGCGGTATTGTGACCGT-GCAAAGGTAGC [74] peru_l37 TGAGAGGTTTATAAAGTCTGACCTGCCCACTGGGAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] peru_138 TGAGAGGTTTATAAAGTCTGACCTGCCCACTGGGAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] ozar_127 TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAAACTGAATGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] ozar_170 TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAAACTGAATGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] ozar_172 TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] punc_114 TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] punc_119 TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] punc_160 TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74]
+TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTATATAAAGTCTGACCTGCCCACTGGGAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTATATAAAGTCTGACCTGCCCACTGGGAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTCTGACCTGCCCACTGGGAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTCTGACCTGCCCGTTGGAAAACTGAAAGGCCGCGGTATTGTGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTCTGACCTGCCCGTTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTTTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTTTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTTTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTCTRACCTGCCCATTGGAAA-CTAAAAGGCCGCGGTATTATGACCGT-GCTAAGGTAGC [73] TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTCTAACCTGCCCGTTGGAAA-CTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [73] TGAGAGGTTTATAAAGTCTAACCTGCCCGTTGGAAA-CTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [73] TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGGTAACTAAAAGGCCGCGGTATTATGACCGT-GCTAAGGTAGC [74] TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGGTAACTAAAAGGCCGCGGTATTATGACCGT-GCTAAGGTAGC [74] TGAGAGATTTATAAAGTCTGACCTGCCCATTGGGAAACTAAAAGGCCGCGGTATTATGACCGT-GCTAAGGTAGC [74] TGAGAGATTTATAAAGTCTGACCTGCCCATTGGGAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTCTAACCTGCCCGTTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTAATAAAGTCTAACCTGCCCATTGGAAAACTAAAAGGCTGCGGTATTATGACCGT-GCCAAGGTAGC [74] TGAGAGGTATACAAAGTTTGACCTGCCCGTTGGGAA-CTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [73] TGAGAGGTTTATAAAGTTTGACCTGCCCATTGGGAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTTTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGATTTATAAAGTCTAACCTGCCCATTGGGGA-CTAAAAGGCCGCGGTACTATGACCGT-GCAAAGGTAGC [73]
+punc_164
+hyla_105
+hyla_103
+quad_185
+quad_186
+negl_132
+neg1_181
+negl_240
+tran_177
+tran_178
+tran_602
+spin_33 6
+spin_324
+spin_375
+spin_395
+acar_441
+acar_421
+meek_23 0
+meek_205
+putn_298
+putn_314
+putn_399
+forc_345
+forc_364
+lept_603
+miru_348
+miru_385
+barr_409 TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAA-CTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [73] barr_410 TGAGAGGTGTATACAGTCTGACCTGCCCATTGGAAA-CTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [73]
+TGAGAGGTTTATAAAGTCTAACCTGCCCATTGGGAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74]
+TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAACCTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGATATATAAAGTCTGACCTGCCCATTGGAAAACTAAAAGGCCGCGGTATTATGACCGT-GCGAAGGTAGC [74] TGAGAGATATATAAAGTCTGACCTGCCCATTGGAAAACTAAAAGGCCGCGGTATTATGACCGT-GCGAAGGTAGC [74] TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGGAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74]
+saxa_460
+saxa_463
+rust_3 0 6
+rust_3 07
+mena_451
+mena_452 TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGGAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74]
+TGAGAGGTTTATAAAGTCTGACCTGCCCGTTGGATA-CTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [73] TGAGAGGTTTATAAAGTCTGACCTGCCCGTTGGATA-CTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [73] TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAACCTGAAAG-CCGCGGTATTATGACCGT-GCAAAGGTAGC [73] TGAGAGGTTTATAAAGTCTGACCTGCCCATTGGAAACCTGAAAG-CCGCGGTATTATGACCGT-GCAAAGGTAGC [73] TGAGAGGTTTATAAAGTCTAACCTGCCCATTGGAAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTCTAACCTGCCCATTGGAAAGCTAAAAGGCCGTGGTATTATGACCGT-GCAAAGGTAGC [74]
+plac_484
+plac_288
+long_212
+long_213
+nana_193
+nana_l9 2
+macr_218 TGAGAGGTCTCTAAAGTCTGGCCTGCCCATTGGGAAGCTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74]
+macr_23 4 eupu_120 harr_13 9 viri_95 viri_143 caus_l0 9 kent_4 9 4 lanc_513 aust_398 indi_507 vali_355 wi11_227 palm_457 macu_63 hubb_122 acut_102
+TGAGAGGTCTCTAAAGTCTGGCCTGCCCATTGGGAAGCTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGNNTATAAAGTNTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGNNTATAAAGTCTGACCTGCCCATTGGAAAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGATTTATAAAGTCTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGATTTATAAAGTCTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGATTTATAAAGTCTGACCTGCCCATTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74]
+TGAGAGGTTTATAAAGTATGACCTGCCCGTTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATATAGTCTGACCTGCCCATTGGAAAACTAAAAGGCCGTGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGTTTATAAAGTTTGACCTGCCCATTGGGAA-CTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [73] TGAGAGGTTTATAAAGTCTNACCTGCCCGTTGGAAAACTGAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGATTTATAAAGTCTAACCTGCCCATTGGGGA-CTAAAAGGCCGCGGTACTATGACCGT-GCAAAGGTAGC [73] TGAGAGGNNTATAAAGTCTGACCTGCCCATTGGGAGACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGATTTATAAAGTCTAACCTGCCCATTGGAAAACTAAA-GGCTGCGGTATTATGACCGT-GCAAAGGTAGC [73] TGAGAGATTTATAAGGTCTGACCTGCCCATTGGAGAACTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [74] TGAGAGGNNTATAAGGTCTGACCTGCCCATTGGGGA-CTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [73] TGAGAGGNNTATAAAGTCTAACCAGCCCATTGGGAA-CTAAAAGGCCGCGGTATTATGACCGT-GCAAAGGTAGC [73]
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  20
+SYSTEMATIC BIOLOGY VOL. 45
+80 90 100 110 120 130 140 150]
+[
+lute_9 6
+lute_23
+lute_13
+lute_112
+medi_77 ATAAGTCATTAGTCTTTT-AATTGAAGGCTAGGATG-AATGGTCGGACAAGAAATAATCTGTCTTAAATTAA-TA
+[145]
+[145]
+[145]
+[145]
+[147]
+[145]
+[145]
+[145]
+[145]
+[145]
+[145]
+[145]
+[145]
+[145]
+[145]
+[145]
+[145]
+[145]
+[145]
+[145]
+[146]
+[145]
+[145]
+[145]
+[145]
+[144]
+[145]
+[144]
+ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAACTAA-TA
+ATAA-TCATTAGTCTTTT-AATTGAAGGCTAGGATG-AATGGTCGGACAAGAAATAATCTGTCTTAAATTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTCGGACAAGAAATAATCTGTCTTAAATAAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTCGGACAAGAAATAATCTGTCTTAAATAAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AACGGTTGGACAAGAAATAATCTGTCTTAAATTAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AACGGTTGGACAAGAAATAATCTGTCTTAAATTAA-GA ATAA-TCATTAGCTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-TA ATAA-TCATTAGCTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTCGGACAAGAAATAATCTGTCTTAAATAAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTCGGACAAGAAATAATCTGTCTTAAATAAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAACTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTCGGACAAGAAATAATCTGTCTTAAATAAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-CA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAGTTAAATA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAACTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAAAAATAATCTGTCTTAAATTAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAACTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AACGGTTGGACAAGAAATAATCTGTCTC-GATTAAATA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-GA
+medi_151
+peru_137
+peru_13 8
+ozar_127
+o zar_l7 0
+ozar_172
+punc_114
+punc_l19
+punc_l6 0
+punc_164
+hyla_105
+hyla_103
+quad_185
+qu»d_l8 6
+negl_13 2
+neg1_181
+negl_240
+tran_177
+tran_178
+tran_602
+spin_3 3 6
+spin_3 2 4
+spin_375 ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-GA spin_395 ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-GA [144]
+acar_4 41 ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AACGGTTGGACAAGAAATAATCTGTCTC-GATTAAATA acar_421 ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AACGGTTGGACAAGAAATAATCTGTCTC-GATTAAAGA
+[145] [145] [145 ] [145] [145]
+[145 ] [146] [144]
+meek_23 0
+meek_205
+putn_298
+putn_314
+putn_399
+forc_345
+forc_3 64
+lept_603
+miru_348
+miru_385
+barr_409
+barr_410
+saxa_460
+saxa_463
+rust_306 ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-GA [145]
+ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAGGCTGTCTTAAATTAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAGGCTGTCTTAAATTAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAATTTAA-AA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-GA ATAA-TCATTAGTTTTGT-AATTGAAGGCTAGAAGG-AATGGTTGGACAACAAATAATCTGTCTTAAATTAGAGA ATAA-TAATTAGTTTTTT-AATTGGAGGCTAGAATG-AATGGTCGGACAAGAGATAAACTGTCTCAGATTAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTCGGACAAGAAATAATCTGTCTTAAATTAA-AA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAACTAA-TA AAAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAAGCTGTCTTAA-TTAAAGA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAATTAAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-GA ATAA-TAATTAGTTTTTT-AATTGAAGGCTGGAATG-AATGGTCGGACAAGAGATAGACTGTCTCAGATTAA-AA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAG-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-G-
+[145 ] [145 ] [144] [145 ] [144 ] [144] [145] [144]
+rust_3 07
+mena_451
+mena_4 52
+plac_484
+plac_288
+long_212
+long_213
+nana_193
+nana_192
+macr_218
+macr_234
+eupu_120
+harr_139
+viri_95
+viri_143
+caus_109
+kent_494
+lanc_513
+aust_398
+indi_507
+vali_355
+will_227
+palm_457
+macu_63 ATAA-TCATTAGTTTTTT-AATTGAGGGCTAGAATG-AATGGTTGGACAAGAGATAGGCTGTCTTAGATTAA-GA [145] hubb_122 ATAA-TCATTAGTTTTTT-AATTGGAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAGTTAA-CA [144 ] acut_102 ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAA-ATTAATA [144 ]
+ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-GA ATAA-TCATTAGCTTTTT-AATTGAAGGCTGGAATG-AATGGTTGGACAAGAAATAATCTGTCTCAA-TTAAATA ATAA-TCATTAGCTTTTT-AATTGAAGGCTGGAATG-AATGGTTGGACAAGAAATAATCTGTCTCAA-TTAAATA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAAAAATAATCTGTCTTAAATTAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTCTCTTAAATTAA-AA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAG-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAG-TA ATAA-TCATTAGTTTTTT-AATTGAAGG-TAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-GA AAAA-TCATTAGTTTTTT-AATTGAAGGCTAGTATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAAA-A AATA-TCATTAGTTTTTT-AATTGAAGGCTAGTATG-AATGGTTGGACAAGAAATAATCTGTCTCAAATTAAA-A ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AACGGTTGGACAAGAAATAATCTGTCTCAAATTAAA-A AAAA-TCATTAGTCTTTT-AATTGAAGGCTAGAATGCAAGGGTCGCACAAGAAATAATCTGTCTTAAATTAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTTGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-GA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-TA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-AA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAGTCTGTCTTAAAT-AAAGA ATAA-TCATTAGTTTTTT-AATTGGAGGCTAGAATG-AATGGTCGGACAAGAAATAATCTGTCTTAGGTTAA-TA ATAA-TCATTAGTTTTTT-AATTAAAGGCTAGAATG-AATGGTTGGACAAGAAATAATCTGTCTTAAATTAA-AA AAAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAAGCTGTCTTAA-TTAAAGA ATAA-TCATTAGTTTTTT-AATTGAAGGCTAGAATG-AATGGTTGGACAAGAAATAGTCTGTCTTAA-TTAAATA ATAA-TCATTAGTTTTTTTAATTGAAGGCTAGAATG-AATGGTTGGACATGAAATAATCTGTCTTAG-TTAAAGA
+[145] [145 ] [145]
+[144]
+[144]
+[144]
+[144]
+[144 ]
+[145 ] [145] [145 ] [146] [145] [145]
+[145 ] [145] [145] [145]
+[144 ]
+[145 ] [144] [145 ]
+[145 ]
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996
+CRANDALL AND FITZPATRICK—CRAYFISH MOLECULAR SYSTEMATICS
+21
+eupu_l20 harr_13 9 viri_95 viri_143 caus_109 kent_494 lanc_513 aust_398 indi_507 vali_355 will_227 palm_457 macu_6 3 hubb_122 acut_l02
+TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTGAGGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATAATCTGATGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATAATCTGGAGG GACG TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATAATCTGGAGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATAATCTGATGG GACG TATTGAATTTAACGTTTCAGTGAAAAGGCTTAAATAATCTGAAGGCCCTATAAGGCCTTATATAATTATATATAA [220]
+160 170 180 190 200 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG
+210
+220 ]
+ATAA [198] ATAA. [198] ATAA [198] ATAA [198] ATAA [200] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198]
+[
+lute_96
+lute_23
+lute_13
+lute_112 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG medi_77 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG
+medi_l51 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG
+peru_13 7
+peru_138
+ozar_127
+ozar_170
+ozar_172
+punc_l 14
+punc_l 19
+punc_l 6 0
+punc_164 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG hyla_105 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAGGGG GAAG hyla_103 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAGGGG GAAG quad_l85 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATTTAAGGG GACG quad_186 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GAAG negl_132 TATTGAATTTAACTTTTGAGTGAAAAGGCTTAAATGATCTAAGGG GACG negl_l81 TATTGAATTTAACTTTTGAGTGAGAAGGCTCAAATGATCTAAGGG GACG neg 1_2 4 0 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG tran_177 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATTTAAGGG GACG tran_178 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG tran_602 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATTTAAGGG GACG spin_33 6 AATTGAATTTAACTTTTGAGTGAAAAGGCTTAGATGATCTGGTGG GACG spin_324 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTATTGG GACG spin_375 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG spin_395 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG acar_441 AATTGAATTTAACTTTTGAGTGAAAAGGCTTAGATGATCTGGTGG GACG acar_421 TATTGAATTTAACTTTTTAGTGAAAAGGCTTAAATGATCTGGTGG GACG meek_230 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAATGG GACG meek_2 0 5 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAATGG GACG putn_298 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG putn_314 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTATTGG GACG putn_3 9 9 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATATTCTGAAGG GACG forc_345 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG forc_3 64 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATAATCTAAAGG GACG
+lept_603 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATTTAAGGG GACG miru_348 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATAATCTGGAGG GACG miru_385 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATAATCTGAAGG GACG barr_409 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTATTGG GACG barr_410 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG saxa_460 TATTGAATTTAACTTTTAAGTGAAAAGGCTTGAATAATCTAAGGG GACG saxa_463 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATAATCTAAGGG GACG rust_306 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG rust_307 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG mena_451 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTGATGG GACG mena_452 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTGATGG GACG plac_484 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG plac_288 TATTGAATTTAACTTTAAAGTGAAAAGGCTTTAATGATCTAATGG GACG long_212 TATTGAATTTAACTTTTAAGTGAAAAGGCTTGAATAATCTAAGGG GACG long_213 TATTGAATTTAACTTTTAAGTGAAAAGGCTTGAATAATCTAAGGG GACG nana_l 9 3 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAATGG GACG nana_l 9 2 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAATGG GACG macr_218 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGACCTAAAGG GACG macr_234 TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAAGG GACG
+TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GAAG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GAAG CATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAGAGG GACG CATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAGAGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATGATCTAAGGG GACG
+TATTGAATTTAACTTTTGAGTGAAAAGGCTTAAATAATCTGAAGG GTCG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATAATCTGAAGG GACG TATTGAATTTAACTTTTAAGTGAAAAGGCTTAAATAATCTGAAGG GACG
+ATAA [198] ATAA [197] ATAA [197]
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA
+ATAA [197] ATAA [198] ATAA [ 197 ] ATAA [197] ATAA [198] ATAA [197] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [197] ATAA [197] ATAA [197] ATAA [197] ATAA [197] ATAA [198] ATAA [198] ATAA [198] ATAA [199] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [198] ATAA [197] ATAA [198] ATAA [197] ATAA [198]
+[199] [198] [198] [198]
+[ 198] [197] [198] [197] [197] [198] [198] [198]
+[198] [198] [198] [199] [197] [198] [198]
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  22
+SYSTEMATIC BIOLOGY
+VOL. 45
+[ lute_96 lute_23 lute_13 lute_l12 medi_77 medi_151 peru_137 peru_138 ozar_127 ozar_17 0 ozar_172 punc_114 punc_119 punc_l6 0 punc_l6 4 hyla_105 hyla_103 quad_185 quad_186 negl_132 negl_181 negl_240 tran_177 tran_178 tran_602 spin_3 3 6 spin_324 spin_3 7 5 spin_395 acar_441 acar_421 meek_23 0 meek_205 putn_298 putn_314 putn_399 forc_345 forc_364 lept_603
+300] [269]
+230 240 250 260 270 280 290 GACCCTATAAAACTTTATATTT-TAAGATGGAGATCAATTTTATTTTAAG-GTTACT-ATTTTAAATTG-TTTTG GACCCTATAAAACTTTATATTT-TAAGATGGAGATCAATTTTATTTTAAG-GTTACT-ATTTTAAATTG-TTTTG GACCCTATAAAACTTTATATTT-TAAGATGGAGATCAATTTTATTTTAAG-GTTACT-ATTTTAAATTG-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAGACTAATTTTATTTTAAG-GTTACT-ATTTTAAATTG-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAATTAATTTTATTTTAAG-ATTACT-ATTTTAAATTG-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAATTAATTTTATTTTAAG-ATTACT-ATTTTAAATTG-TTTTG GACCCTATAAAACTTTACATTT-TAAGGTTGAAATTAATTTTGTTTTGGGT-CTGCT-ATTTTAGAATG-TTTTG GACCCTATAAAACTTTACATTT-TAAGGTTGAAATTAATTTTGTTTTGGGT-CTGCT-ATTTTAGAATG-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTAGAAATTAATTTTATTTTGG-TATTATT-ATTTTAAAGTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTAGAAATTAATTTTATTTTGG-TATTATT-ATTTTAAAGTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAACTAATTTTATTTTGAA-ATTACT-ATTTTAAACTA-TTTTG GACCCTATAAAACTTTATATTT-AAAGGTGGAAAATAATTTTATTTTCAA-ATTACT-ATTTTAAATTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAACTAATTTTATTTTGAA-ATTACT-ATTTTAAACTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAACTAATTTTATTTTGAA-ATTACT-ATTTTAAACTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAACTAATTTTATTTTGAA-ATTACT-ATTTTAAACTA-TTTTG GACCCTATAAAACTTTACATTT-TAAGGTTGAAATTAATTTTGTTTTGAGT-CTACT-ATTTTAGAATG-TTTTG GACCCTATAAAACTTTACATTT-TAAGGTTGAAATTAATTTTGTTTTGAGT-CTACT-ATTTTAGAATG-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAATTAATTTTATTTTAAG-GCTCCC-ATTTTAAATTA-TTTTG GACCCTATAAAACTTTACATTT-TAAGGTTGAAATTAATTTTCTTTTGGGT-CTGCT-ATTTTAGAATG-TTTTG GACCCTATAAAACTTTACATTT-TAAGGTGGAGATTAATTTTATTTTAAG-GTTACT-ATTTTAAATTG-TTTTG GACCCTATAAAACTTTACATTT-TAAGGTGGGGATTAATTTTATTTTAAG-GTTACT-ATTTTAAATTG-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAATTAATTTTATTTTGAGGATTACT-ATTTTAAAATG-TTTCG GACCCTATAAAACTTTATATTT-TAAGGTGGAAATTAATTTTATTTTAAG-GCTCCC-ATTTTAAATTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAATTAATTTTATTTTAAAG-TTACT-ATTTTAAAGTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAATTAATTTTATTTTAAG-GCTCCC-ATTTTAAATTA-TTTTG GACCCTATAAAACTTTATATTT-TAGGGTAGTAGT-AAGTTTTATTTTAAGATTACT-ATTAAAAAGTA-TTTTA GACCCTATAAAACTTTATATTT-TAAGGTAGAAATTAATTTTATTTTAAGG-TTACT-ATTTTAAAATA-TTTTG GACCCTATAAAACTTTATATTT-TAACGTAGAAATTAATTTTATTTTAAGG-TTATT-ATTTTAAAATG-TTTTG GACCCTATAAAACTTTATATTT-TAACGTAGAAATTAATTTTATTTTAAGG-TTATT-ATTTTAAAATG-TTTTG GACCCTATAAAACTTTATATTT-TAGGGTAGTAGT-AAGTTTTATTTTAAGATTACT-ATTAAAAAGTAGTTTTA GACCCTATAAAACTTTATATTT-TAGGGTAGAAATCAAGTTTCATTTTAAGATTACT-ATTTAAAAGTAGTTTTA GACCCTATAAAACTTTATATTT-AAAGGTAGAAATTAATTTTATTTAAA-TATTACT-ATTTTAAAATA-TTTTG GACCCTATAAAACTTTATATTT-AAAGGTAGAGATTAATTTTATTTAGA-TATTACT-ATTTTAAAATA-TTTTG GACCCTATAAAACTTTATATTT-CAAGGTAGAAATTAATTTTATTTTAAGG-TTACT-ATTTTAAAATG-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTAGAAATTAATTTTATTTTAAGG-TTACT-ATTTTAAAATG-TTTTG GTTCCTATAAAACTTTATATTT-AAAAGTAGAAATTAGTTTTACTT-AAAAGTTACT--CTTTAAAATG-TTTAG GACCCTATAAAACTTTATATTT-TAAGGTAGAAATTAATTTTATTTTAAA-GTTATT-ATTTTAAAATG-TTTTG GACCCTATAAAACTTTATATTT-TGAGGTAGAAATTAATTTTATTTCAT-GATCACT-ATTTTAAAGTA-TTTCG GACCCTATAAAACTTTATATTT-TAAGGTGGAAATTAATTTTATTTTAAG-GCTCCC-ATTTTAAATTA-TTTTG GACCCTATAAAACTTTATATTT-AAAAGTAGAAGTTAATTTTATTT-AAATATTACT-ATTT-AAAATA-TTTGG GACCCTATAAAACTTTATATTT-AAAAGTAGAAATTAGTTTTATTTTAAGG-TTACT-ATTTTAAAATG-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTAGAAATTAATTTTATTTTAAG-GTTACT-ATTTTAAAATG-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTAGAAATTAATTTTATTTTAAA-GTTATT-ATTTTAAAATG-TTTTG [268] GACCCTATAAAACTTTATATTT-TAAAGTGGAAGTTAATTTTATTTTAAG-ATTACT-ATTTTAAATTA-TTTTG [269] GACCCTATAAAACTTTATATTT-TAAAGTAGAAGTTAGTTTTATTT-AAAGATTACT-ATTTAAAATTA-TTTTG [268]
+miru_348
+miru_385
+barr_4 0 9
+barr_410
+saxa_460
+saxa_463
+rust_3 0 6
+rust_3 07
+mena_4 51
+mena_452
+plac_484
+plac_288
+long_212
+long_213
+nana_l9 3
+nana_192
+macr_218
+macr_2 3 4
+eupu_12 0
+harr_139
+viri_95
+viri_143
+caus_109
+kent_494
+lanc_513
+aust_398
+indi_507
+vali_355
+wi11_227 GACCCTATAAAACTTTATATTT-TAAGGTAGAAGTTAGTTTTATTT-AAGGATTGCT-ATTTAAAAGTA-TTTTG
+[269 ] [269] [269] [271] [269] [269] [269] [269] [269] [269 ] [269 ] [269] [269] [269] [269 ] [269] [269] [269 ] [269] [270] [270] [269] [269] [269 ] [268] [269] [268] [268] [270] [271] [269] [269 ] [269] [269] [269 ] [268] [269 ] [269] [267] [269]
+palm_457 macu_63 hubb_122 acut_l02
+GACCCTATAAAACTTTATATTT-AAAAGTAGAAATTAGTTTTATTT-AAAGGTTGCT-ATTCAAAAATG-TTTGG GACCCTATAAAACTTTATATTGAGAGGTGAGAGGT-AATTTTGTTTAAAAG-TTATT-GCTTTAAAGTA-TTTGG GACCCTATAAAACTTTATATTAGGAAGTGATAAGTATATTTTGTTTAAAGAATTATT-ACTTTAAAGTA-TTTGG GACCCTATAAAACTTTATATTTATAAGATAGTAGCTAGTTTTATTT-AAA-AGTATT-ATTTTGGAGTA-TTTGG
+GACCCTATAAAACTTTATATTT-TAATGTAGAAGTTAATTTTATTTTAAGT-TCACT-ATTTTAAAATT-TTTTG GACCCTATAAAACTTTATATTT-TAATGTAGAAGTTAATTTTATTTTAAGT-TCACT-ATTTTAAAATT-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTAGTAGTTAATTTTATTT-TAAAATTATT-ATTTAAAAGTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTAGTAGTTAATTTTATTT-TAAAATTATT-ATTTAAAAGTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAATTAATTTTATTTTAAAG-TTACT-ATTTTAAAGTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAATTAATTTTATTTTAAAG-TTATT-ATTTTAAAGTA-TTTTG GACCCTATAAAACTTTATATTT-TAAAGTGGAAGTTAATTTTATTTTAAG-ATTACT-ATTTTAAATTA-TTTTG GACCCTATAAAACTTTATATTT-TAAAGTGGAAGTTAATTTTATTTTAAG-ATTACT-ATTTTAAATTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTAGAAATTAGTTTTATTT-AAAGGTTATT-ATTTTAAAATA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTAGGAATTAGTTTTATTT-AAAGGTTATT-ATTTTAAAATA-TTTTG GACCCTATAAAACTTTATATTTTAAGGCTAGGAATTAGTTTTATTTAGAGGGTTATT-GTTTTAAAATA-TTCTG
+GACCCTATAAAACTTTATATTTTAAGGCAAGGAATTAGTTTTATTTAGAGGGTCATT-ATTTTAAAATA-TTCTG GACCCTATAAAACTTTATATTT-TAAGGTTGAAATTAATTTCATTTAAAG-ATTACT-ATTTTAAAATG-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTAGAAATTAATTTTATTTTAAGG-TTACT-ATTTTAAAATG-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAAATAATTTTATTTTAAA-ATTACT-ATTTTAAATTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAGATAATTTTATTTTAAA-ATTACT-ATTTTAAATTA-TTTTG GACCCTATAAAACTTTATATTT-TAAGGTGGAAAATAATTTTATTTTAAA-ATTACT-ATTTTAAATTA-TTTTG GACCCTATAAAACTTTATATTT-CAAGGTAGAAATTAATTTTATTTTAAGG-TTACT-ATTTTAAAATG-TTTTG GACCCTATAAAACTTTATATTT-AAGAGCGGAAATTAATTTTATTT-AAAAGTTACTGAGTTTGAAATA-TTTTG GACCCTATAAAACTTTATATTAAAAAGTGATAGGTATGTTTTGTTTAAGGG-TTATT-ATTTTAAAGTA-TTTGG GACCCTATAAAACTTTATATTT-CAAGGTAGAAATTAATTTTATTTTAAGG-TTACT-ATTTTAAAATA-TTTTG GACCCTATAAAACTTTATATTT-AAAAGTAGAAGTTAATTTTATTT-AAATATTACT-ATTT-AAAATA-TTTGG
+[269] [269] [269] [269 ] [268] [268] [268] [268] [268] [269] [271] [271] [270] [269] [269] [269] [269] [269] [270] [269] [269] [267 ] [269] [291] [269] [270 ] [268]
+[268]
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996
+CRANDALL AND FITZPATRICK—CRAYFISH MOLECULAR SYSTEMATICS
+23
+310 320 330 340 350 360 370 ] TTGGGGCGACAAGGATATAAGGAAAAGATAACTGTCTTTTGTTCTT--ACAATAATATTTGAATTAT--TGATCC TTGGGGCGACAAGGATATAAGGAAAAGATAACTGTCTTTTGTTCTT--ACAATAATATTTGAATTAT--TGATCC TTGGGGCGACAAGGATATAAGGAAAAGATAACTGTCTTTTGTTCTT--ACAATAATATTTGAATTAT--TGATCC TTGGGGCGACAAGGATGCAAAGAAAGGGTAACTGTCTTTTGTTCTT--ACAATAATATTTGAGTTAT--TGATCC TTGGGGCGACAAAGATATAA-GAAAGGGTAACTGTCTTTTATTTTT--ACAATAATGGTTGAATGAT--TGATCC TTGGGGCGACAAAGATACAA-GAAAGGGTAACTGTCTTTTATTTTT--ACAATAATGGTTGAATGAT--TGATCC TTGGGGCGACAAGGACACAA-GAACGTATAACTGTCTTTAGGTTTT--ACAATAATCTTTGGGTTAT--TGATCC TTGGGGCGACAAGGACACAA-GAACGTATAACTGTCTTTAGGTTTT--ACAATAATCTTTGGGTTAT--TGATCC TTGGGGCGACAAGGATACAA-TAAGGGGTAACTGTCTTATGGTTTT--ACAATAATGTTTGGTTTAT--TGATCC TTGGGGCGACAAGGATACAA-TAAGGGATAACTGTCTTATGGTTTT--ACAATAATGTTTGGTTTAT--TGATCC TTGGGGCGACAAGGATATAA-CAAAGGGTAACTGTCTTTTATTTTT--ACAATAATATCTGAATCAC--TGATCC TTGGGGCGACAAGGATATAA-GAAAGGGTAACTGTCTTTTATTTTT--ACAATAATATTTGAATTGT--TGATCC TTGGGGCGACAAGGATATAA-GAAAGGGTAACTGTCTTTTATTTTT--ACAATAATATTTGAATCAC--TGATCC TTGGGGCGACAAGIGATATAA-GAAAGGGTAACTGTCTTTTATTTTT--ACAATAATATTTGAATCAC--TGATCC TTGGGGCGACAAGGATATAA-GAAAGGGTAACTGTCTTTTATTTTT--ACAATAATATTTGAATCAC--TGATCC TTGGGGTGACAAGGACATAA-GAAAGGGTAACTGTCTTTAGATTTT--ACAATAATATTTGGTTTGT--TGATCC TTGGGGTGACAAGGACATAA-GAAAGGGTAACTGTCTTTAGATTTT--ACAATAATATTTGGTTTGT--TGATCC TTGGGGCGACAAGGATGCAA-GAAAGGGTAACTGTCTTTTGTTTTT--ACAATAATATTTGAATTAT--TGATCC TTGGGGCGACAAGGACACAA-GAACGTATAACTGTCTTTAGGTTTT--ACAATAATCTTTGGGTTAT--TGATCC TTGGGGCGACAGGGGTATAA-GAAAGGGTAACTGTCTTTTGGTTTT--ACAATAATATTTGAATCAC--TGATCC TTGGGGCGACAGGGATACAA-GAAAGAGTAACTGTCTTTTGGTTTT--ACAATAATATTTGAATCAT--TGATCC TTGGGGCGACAAGGATATAA-GAAAG«3GTAACTGTCTTTTGGTTTA--ACAGTAATATTTGGTTTGT--TGATCC TTGGGGCGACAAGGATGCAA-GAAAGGGTAACTGTCTTTTGTTTTT--ACAATAATATTTGAATTAT--TGATCC TTGGGGCGACAAGGATATAA-TAAAAGGTAACTGTCTTTTATTCTT--ACAATAATATTTGGTTTAT--TGATCC
+[
+lute_9 6
+lute_23
+lute_13
+lute_112
+medi_77
+medi_l51
+peru_13 7
+peru_l3 8
+ozar_127
+ozar_17 0
+ozar_172
+punc_l14
+punc_l19
+punc_l6 0
+punc_l6 4
+hyla_l0 5
+hyla_l0 3
+quad_185
+quad_l8 6
+negl_13 2
+negl_181
+negl_240
+tran_177
+tran_17 8
+tran_602 TTGGGGCGACAAGGATGCAA-GAAAGGGTAACTGTCTTTTGTTTTT--ACAATAATATTTGAATTAT--TGATCC spin_336 TTGGGGCGATAGGGATATAA-TAGCAGATAACTGTTCTTT--TTTTTTACAATAATGTTTGGTAAAAAATGATCC
+spin_324 TTGGGGCGACAAGGATATAA-GAAATAATAACTGTCTTTTATTTTT--ACAACAATATTTGATTTAT--TGATCC [339] spin_375 TTGGGGCGACAAGGATATAA-GAAAAGGTAACTGTCTTTCGTTTTT--ACAATGATATTTGGTTTAT--TGATCC [338]
+spin_3 9 5
+acar_441
+acar_421
+meek_230
+meek_205 TTGGGGTGACAAGGATACAA-TAACAGATAACTGTCTTATATTTTT--ACAATAATATTTGATTTAT--TGATCC [339] putn_298 TTGGGGCGACAAGGGTATAA-GAAATGATAACTGTCTTTTATTTTT--ACAATAATATTTGATTTAT--TGATCC [339]
+putn_314 putn_3 9 9 forc_345 forc_3 64 lept_603 miru_3 4 8 miru_385 barr_4 0 9 barr_410 saxa_460 saxa_463 rust_306 rust_3 07 mena_451 mena_452 plac_484 plac_288 long_212 long_213 nana_l93 nana_l92 macr_218 macr_234 eupu_12 0 harr_13 9 viri_95 viri_143 caus_l0 9 kent_494 lanc_513 aust_3 9 8 indi_5 07 vali_355 will_227 palm_457 macu_63 hubb_122 acut_102
+TTGGGGCGACAAGGATATAA-GAAATAATAACTGTCTTTTATTTTT--ACAATA-TATTTGATTTAT--TGATCC [338] TTGGGGCGACAAGGATATAA-GATTAGGCAACTGATCTTT--TTTTTTACAATAATGTTTGGTTTAA--TGATCC [339] TTGGGGCGACAAGGATACAA-GAAAAAATAACTGTCTTATA-TTTTTAACAATAATATTTGGCTTAC--TGATCC [339] TTGGGGCGACAAGGATACAA-GAAAAGGTAACTGTCTTTTGTTTTT--ACAAAAATATTTGGTTTGT--TGATCC [339] TTGGGGCGACAAGGATGCAA-GAAAGGGTAACTGTCTTTTGTTTTT--ACAATAATATTTGAATTAT--TGATCC [339] TTGGGGCGACAAGGATA-AAAGGTTAAATAACTGTCTTTT--TTTTTTACAATAGTATTTGGTTTAA--TGATCC [337] TTGGGGCGACAAGGATATAA-GAAATAATAACTGTCTTTTATTTTT--ACAATAATATTTGATTTAT--TGATCC [339] TTGGGGTGACGAGGATACAA-GAAAAAGTAACTGTCTTTTA-TTTTTTACAATGATATTTGGGTTAT--TGACCC [339] TTGGGGTGACGAGGATACAA-GAAAAAGTAACTGTCTTTTA-TTTTTTACAATGATATTTGGGTTAT--TGACCC [339] TTGGGGCGACAAAAATATAA-GAAAGGGTAACTGTCTTTTA--TTTTTACAATA-TATTTGATTTAT--TGATCC [338] TTGGGGCGACAAGGATACAA-GAAAGGGTAACT-TCTTTT TCTTACAATATTGTTTGATTTAT—TGATCC [335] TTGGGGCGACAAGGATATAA-AAAATGATAACTATCTTTTATTTTT—ACAATAATATTTGATTTAT--TGATCC [339]
+TTGGGGCGACAAGGATATAA-GAAAAGGTAACTGTCTTTCGTTTTT--ACAATGATATTTGGTTTAT--TGATCC [338] TTGGGGCGATAGGGATATAA-TAGCAGATAACTGTTCTTT--TTTTTTACAATAATGTTTGGTAAAAAATGATCC [342] TTGGGGCGCTAGGGATATAA-TAGGAGATAACTGTTCTTT--TTTTTTACAATAATATTTGGTTTAAAATGATCC [343] TTGGGGCGACAAGGATACAA-TAATGGGTAACTGTCTTTTATTTTA--ACAATAATATTTGATTTGT--TGATCC [339]
+TTGGGGCGACAAGGATATAA-AAAATGATAACTATCTTTTATTTTT--ACAATAATATTTGATTTAT--TGATCC TTGGGGCGACAAGGATA-AAATAACAAATAACTGTCTTTT--GGTTTTACAATAATGTTTGATAAAA--TGATCC TTGGGGCGACAAGGATA-AAATAACAAATAACTGTCTTTT--GGTTTTACAATAATGTTTGATAAAA--TGATCC TTGGGGCGACAAGGATATAA-TAAAAGGTAACTGTCTTTTA--TTCTTACAATAATATTTGGTTTAT--TGATCC TTGGGGCGACAAGGATATAA-TGAAAGGTAACTGTCTTTTA—TTCTTACAATAATATTTGGTTCAT—TGATCC TTGGGGCGACAAAAATATAA-GAAAGGGTAACTGTTTTTTA—TTTTTACAATAATATTTGAATTAT--TGATCC TTGGGGCGACAAAAATATAA-GAAAGGGTAACTGTTTTTTA--TTTTTACAATAATATTTGAATTAT--TGATCC TTGGGGCGACAGGGATATAA-TAACGGATAACTGTCTTTTA--TTTTTACAATAATATTTGATTTGT--TGATCC TTGGGGCGACAAAGATATAAA-AACGGATAACTGTCTTTCA--TTTTTACAATAATGTTTGGTTAGT--TGATCC TTGGGGC-ACAAGGATATAAA-ATCGGATAACTGTCTTTTA—TTTTTACAATAATGTTTGGTTGAT—TGATCC TTGGGGCGACAAGGATATAAA-ATTGGATAACTGTCTTTTA--TTTTTACAATAATATTTGGTTGGT--TGATCC TTGGK^CGACAAGGACATAA-GAAATAGTAACTGTCTTTTA-TTTCTTACAATAATATTTGATTTAT--TGAGCC TTGGGGCGACAAGGATATAA-GAAGTGATAACTGTCTTTTATTTTT--ACAATAATATTTGATTTAT--TGATCC TTGGGGCGACAAGGATATAA-GAAAGGGTAACTGTCTTTTATTTTT--ACAATAATATTTGAATTAT--TGATCC TTGGGGCGACAAGGATATAA-GAAAGGGTAACTGTCTTTTATTTTT--ACAATAATATTTGAATCAT--TGATCC TTGGGGCGACAAGGATATAA-GAAAGGGTAACTGTCTTTTATTTTT--ACAATAATATTTGAATTGT--TGATCC TTGGGGCGACAAGGGTATAA-GAAATGATAACTGTCTTTTATTTTTTTACAATAATATTTGATTTAT--TGTACC TTGGGGCGACAAGGATAGAA-TATTAAGTAACTG-CCTTT--TTTTTTACAGTAATATTTGGTTTAA--TAATCC TTGGGGCGACAAAAATAGAAGGGAAAG-TAACTGTTTTTT--TTTATTACAATAATGTTTGAGTGGA--TGATCC TTGGGGCGACAAGGGTATAA-GAAAAGATAACTGTCTTTTATTTTT--ACAATAATATTTGATTTAT--TGATCC TTGGGGCGACAAGGATA-AAAGGTTAAATAACTGTCTTTT—TTTTTTACAATAGTATTTGGTTTAA—TGATCC TTGGGGCGACAAGGATA-AAAAAACAAATAACTGCCTTTT--TTGTATACAATAATATTTGGTTTAG--TGACCC TTGGGGCGACAAGGATA-GAAGATTAGGTAACTGTCTTTT--TTTTTTACAATAATATTTGGTTTAA--TGATCC TTGGGGCGACAAGGATACAAGGTAAAG-TAACTGTTTTTT--TTTTCTACAATAATGTTTGAGTGAA--TGATCC TTGGGGTGACAAAAATA-AAAAAAAAG-TAACTGTTTTTT--TTTTTAACAATAATGTTTGGGTTAG--TGATCC TTGGGGTGACAAGGATA-AAATATAAAATAACTGTCTTTT--TTTTTTACAGTAATGTTTGGTTTAA--TGATCC
+[339] [339] [339] [338] [338] [338] [338] [338] [339] [340] [341] [341] [339] [339] [339] [339] [341] [339] [339] [339] [337] [339] [361] [339] [339] [338]
+[340] [340] [340] [340] [341] [339] [339] [339] [339] [339] [339] [339] [339] [339] [339] [339] [339] [339] [339] [339] [340] [340] [339] [339] [339] [340]
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  24
+SYSTEMATIC BIOLOGY
+VOL. 45
+380 390 400 410 420 430 440 TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAG TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAG TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAG TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAG TAAGAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAGAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAATGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAATGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAATGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAATGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAfiG'rTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-GAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAACGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAACGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAAGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAG TAAAATGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGGTT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAAAGAA TAAAAAGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTGATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAAGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAG TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTAAGAGTTCTTATCGACAA-GAA TAAAAAGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAG TAGAAGGGATT-GAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTCCTTATCGACA-GGAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TTAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA
+450]
+[413 ]
+[413] [413] [413] [414] [412] [412] [412] [412] [412] [412 ] [412] [412] [412] [412] [412] [412] [412 ] [412] [412] [414] [413] [412] [412 ] [412 ] [413] [412] [411] [411] [415] [416] [412] [412] [412] [411] [412 ] [412] [412] [412] [410] [412] [412] [412] [411] [408] [412] [412] [412] [412] [411] [411] [411] [411] [412] [413] [414] [414] [414] [412] [412 ] [412] [412] [414] [412] [412] [412] [410] [412] [434] [413] [412] [411]
+[
+lute_96
+lut e_23
+lute_13
+lute_112
+medi_77
+medi_l51
+peru_137
+peru_138
+ozar_127
+ozar_17 0
+ozar_172
+punc_114
+punc_l19
+punc_l6 0
+punc_164
+hyla_105
+hyla_l0 3
+quad_185
+quad_l8 6
+negl_132
+neg1_181
+negl_2 4 0
+tran_177
+tran_178
+tran_602
+spin_336
+spin_324
+spin_3 7 5
+spin_395 TTAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA
+acar_441
+acar_421
+meek_23 0
+meek_2 0 5
+putn_2 9 8
+putn_314
+putn_399
+forc_345 TAAAATGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTTATTTTCTTTGAGAGTTCCTATCGACAA-GAA forc_3 64 TTAAATGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA lept_603 TAAAAAGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAG
+TAGAAGGGATT-GAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTCCTTATCGACA-GGAA TAGAAGGGATT-GAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACA-GGAG TAAAAAGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTTTTTGAGAGTTCTTATCGACAA-GAA TAAAAAGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTTTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAAGGATT-AAAGATTAAGTTACTTTAGGAATAACAGCGTAATATTCTTTTAGAGTTCTTATCGACA-GGAA
+miru_3 48
+miru_3 85
+barr_4 0 9
+barr_410
+saxa_4 6 0
+saxa_463
+rust_306
+rust_307
+mena_451
+mena_452
+plac_484
+plac_288 TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTAAGAGTTCTTATCGACAA-GAA
+TAAAAGGGATTTA-AGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTTATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTTATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAATAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-TAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAGAGGGGTA-AGAGATTAAGTTACTTTAGGGATAACAGCGTGATTTTCTTTGAGAGTTCTTATCGACGA-GAA TAAGAGGGGTA-AGAGATTAAGTTACTTTAGGGATAACAGCGTGATTTTCTTTGAGAGTTCTTATCGACGA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTAAGAGTTCTTATCGACAA-GAA
+long_212
+long_213
+nana_193
+nana_l9 2
+macr_218
+macr_23 4
+eupu_12 0
+harr_13 9
+viri_95
+viri_143
+caus_l09
+kent_494 TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GTA lanc_513 TAGAAGGGAAT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTTTTTGAGAGTTCTTATCGACA-GGAA aust_398 TAAAGTGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGATAA-GAA indi_507 TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA vali_3 5 5 TAAAAGGGATTTA-AGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GGA wi11_227 TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTTATTTTCTTTGAGAGTTCCTATCGACAA-GAA palm_457 TAAAAAGGATTTAC-GATTAAGTTACTTTAGGGATAACAGCATAATTTTCTTTGAGAGTTCTTATCGACA-GGAG macu_63 TAAGATGGATTAAAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTAAGAGTTCTTATCGACAA-GAA hubb_122 TAAAATGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGATAA-GAA acut_l0 2 TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTAAGAGTTCTTATCGACAA-GAA
+TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTTTTTTAGAGTTCCCATCGACAA-AAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTTTTTTAGAGTTCCCATCGACAA-AAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAAGAGA TGTAAGGGATT-GAAGATTAAGTTACTTTAGGGATAGCAGCGTAATTTTCTTTAAGAGTTCTTATCGACAAGAAA TGGAAAGGATTTAGAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TTGAAAGGATTTA-AGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TGAAAGGGCTC-AGAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA TAAAAGGGATT-AAAGATTAAGTTACTTTAGGGATAACAGCGTAATTTTCTTTGAGAGTTCTTATCGACAA-GAA
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1996
+CRANDALL AND FITZPATRICK—CRAYFISH MOLECULAR SYSTEMATICS
+25
+460 470 480 490 500 510 520 AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA
+AGTTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTGTTTATGGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATGGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA
+AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA
+AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA AGCTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGTCTATAAAAGAAG-TCTGTTCGACCTTTA AGCTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGTCTATAAAAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGGCTATAAGAGAAGGTCTGTTCGACCTATA AGCTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGTCTATAAAAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGACTATAAGAGAAG-TCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAGAGAGGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAAAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAAATTCTTTATAGAGTAGAAGCTATAATGGAAGGTCTGTTCGACCTTTA
+AGTTTGCGACCTCGATGTTGAATTAAAAATTCTTTATAGAGTAGAAGCTATAATGGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAAGCTATAATAGAAGGTCTGTTCGACCTTTA
+AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAAAGAAGGTCTGTTCGACCTTTA
+AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAATGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA AGCTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGCAGAGACTATAATAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAAAGAAGGTCTGTTCGACCTTTA AGCTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAAAGAAGGTCTGTTCGACCTTTA AGCTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAAAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAAAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAATAGAAG-TCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGACTATAATAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGACTATAATAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAATAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAATAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAAAGAAGGTCTGTTCGACCTTTA
+AGTTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGACTATAAAAGAAGGTCTGTTCGACCTTTA AGTTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGACTATAAAAGAAGGTCTGTTCGACCTTTA GCTTGGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGGCTATAAAAGAAGGTCTGTTCGACCTTTA GCTTGGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGTCTATAAAAGAAGGTCTGTTCGACCTTTA AGCTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGTCTATAAAAGAGGGTCTGTTCGACCTTTA AGCTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGTCTATAAAAGAAGGTCTGTTCGACCTTTA
+AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA
+AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAAAGAAGGTCTGTTCGACCTTTA
+AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAATAGAAGGTCTGATCTACCTTTA
+lute_96 lute_23 lute_13 lute_112 medi_77 medi_151 peru_137 peru_138 ozar_127 ozar_170 ozar_172 punc_114 punc_119 punc_160 punc_164 hyla_105 hyla_103 quad_185 quad_186 negl_132 negl_181 negl_240 tran_177 tran_178 tran_602 spin_336 spin_324 spin_375 spin_395 acar_441 acar_421 meek_23 0 meek_205 putn_298 putn_314 putn_399 forc_345 forc_3 64 lept_603 miru_348 miru_3 85 barr_409 barr_410 saxa_460 saxa_463 rust_3 0 6 rust_3 07 mena_451 mena_452 plac_484 plac_288 long_212 long_213 nana_193 nana_192 macr_218 macr_234 eupu_120 harr_139 viri_95 viri_143 caus_109 kent_494 lanc_513 aust_398
+indi_507
+vali_3 55
+will_227 AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATGGAGTAGAGACTATAATGGAAGGTCTGTTCGACCTTTA palm_457 AGCTTGCGACCTCGATGTCGAATTAAAGATTCTTTATAGAGAAGAGACTATAATAGAAGGTCTGTTTGACCTTTA macu_63 AGTTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATGGAGTAGAGACTATAAGAGAAGGTCTGTTCGACCTTTA hubb_122 AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATGGAGTAGAGACTATAAGAGAAAGTCTGTTCGACTTTTA acut 102 AGTTTGCGACCTCGATGTTGAATTAAAAGTTCTTTATAGAGTAGAGACTATAACAGAAGGTCTGTTCGACCTTTA
+[488] [488] [488] [489] [487] [487] [487] [487] [487] [487] [487] [487] [487] [487] [486] [487] [487] [487] [487] [488] [488] [487] [487] [487] [488] [487] [486] [486] [490] [491] [487] [487] [487] [486] [487] [487] [487] [487] [485] [487] [487] [487] [486] [482] [487] [487] [487] [487] [486] [486] [486] [486] [487] [488] [489] [489] [489] [487] [487] [487] [487] [489] [487] [487] [486] [485] [487] [509] [488] [487] [486]
+AGTTTGCGACCTCGATGTTGAATTAAAGGTTCTTTATAGAGTAGAGACTATAAAAGAAG-TCTGTTCGACCTTTA
+]
+[488]
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  26 SYSTEMATIC BIOLOGY [ 530 540 550 ]
+lute_13 AAGTTTTACATGATTTGAGTTCAGACCGG lute_112 AAGTTTTACATGATTTGAGTTCAGACCGG
+VOL. 45
+AAGTTTTACATGATTTGAGTTCAGACCGG [517]
+lute_9 6
+lute_23 AAGTTTTACATGATTTGAGTTCAGACCGG [517]
+med i_7 7
+medi_151
+peru_13 7
+peru_138
+ozar_127
+ozar_170 AAGTTTTACATGATTTGAGTTCAGACCGG
+[517] [517] [518] [516] [516] [516] [516] [516] [516] [516] [516] [516] [516] [515] [516] [516] [516] [516] [517]
+AAGTTTTACATGATTTGAGTTCAGACCGG AAGTTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATCATTTGAGTTCAGACCGG AAGTTTTACATGATTTGAGTTCAGACCGG
+AAGTTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAGTTTTACATGATTTGAGTTCAGACCGG AAGTTTTACATGATTTGAGTTCAGACCGG AAGTTTTACATGATTTGAGTTCAGACCGG AAGTTTTACATGATTTGAGTTCAGACCGG AAGTTTTACATGATTTGAGTTCAGACCGG AAGTTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAGTTTTACATGATTTGAGTTCAGACCGG AAGTTTTACATGATTTGAGTTCAGACCGG
+ozar_172
+punc_l14
+punc_l19
+punc_l6 0
+punc_164
+hyla_l0 5
+hyla_l0 3
+quad_l8 5
+quad_l8 6
+negl_132
+negl_181
+negl_240 AAGTTTTACATGATTTGAGTTCAGACCGG [517]
+AAGTTTTACWTGATTTCAGTTCACACCGG [516] AAATTTTACATGATTTCAGTTCACACCGG [516] AAGTTTTACTTGATTTCAGTTCACACCGG [516]
+tran_177
+tran_17 8
+tran_602
+spin_336 AAATTTTACATGATTTGAGTTCAGACCGG [517]
+AAGTTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AATTTTTACATGATTTGAGTTCAGACCGG AAGTTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAGTTTTACATGATTTGAGTTCAGACCGG AAGTTTTACATGATTTTAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG
+[516] [515] [515] [519] [520] [516] [516] [516] [515] [516] [516] [516] [516] [514] [516] [516] [516]
+spin_324
+spin_375
+spin_395
+acar_441
+acar_421
+meek_23 0
+meek_205
+putn_298
+putn_314
+putn_399
+forc_345
+forc_364
+lept_603
+miru_348
+miru_385
+barr_409
+barr_410
+saxa_460 AAGTTTTACATGATTTGAGTTCAGACCGG [515] saxa_463 AAATTTTACATGATTTGAGTTCAGACCGG [511] rust_306 AAATTTTACATGATTTGAGTTCAGACCGG [516]
+AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGGGCAGACCGG AAATTTTACATGATTTGAGGGCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTCAGTTCAGACCGG AAATTTTACATGATTTCAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG AAATTTTACATGATTTGAGTTCAGACCGG
+[516] [516] [516] [515] [515] [515] [515] [516] [517] [518] [518] [518] [516] [516] [516] [516]
+rust_3 07
+mena_451
+mena_452
+plac_484
+plac_288
+long_212
+long_213
+nana_193
+nana_192
+macr_218
+macr_234
+eupu_120
+harr_13 9
+viri_95
+viri_l43 AAATTTTACATGATTTGAGTTCAGACCGG
+caus_109 AAATTTTACATGATTTGAGTTCAGACCGG kent_494 AATTTTTACATSATTTGAGTTCAGACCGG [518]
+lanc_513 AAATTTTATATCATTTGAGTTCAGACCGG [516] aust_398 AAACTTTACATCATTTGAGTTCAGACCGG [516] indi_507 AATTTTTACATGATTTGAGTTCAGACCGG [515] vali_3 55 AAATTTTACATGATTTGAGTTCAGACCGG [514] wi11_227 AAATTTTACATGATTTGAGTTCAGACCGG [516] palm_457 AAATTTTACATGATTTGAGTTCAGACCGG [538]
+macu_63 hubb_122 acut_l0 2
+AAATTTTACATGATTTGAGTTCAGACCGG [517] AAACTTTACATGATTTGAGTTCAGACCGG [516] AAATTTTACATGATTTGAGTTCAGACCGG [515]
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 

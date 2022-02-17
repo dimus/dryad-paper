@@ -1,0 +1,570 @@
+   Molecular Phylogenetics and Evolution 45 (2007) 193–210
+Bridging the Rubicon: Phylogenetic analysis reveals repeated colonizations of marine and fresh waters by thalassiosiroid diatoms
+Andrew J. Alverson a,*, Robert K. Jansen b,c, Edward C. Theriot b,d
+a Plant Biology Graduate Program, The University of Texas at Austin, 1 University Station (A6700), Austin, TX 78712, USA
+b Section of Integrative Biology, The University of Texas at Austin, 1 University Station (A6700), Austin, TX 78712, USA
+c Institute of Cellular and Molecular Biology, The University of Texas at Austin, 1 University Station (A6700), Austin, TX 78712, USA d The Texas Natural Science Center, The University of Texas at Austin, 1 University Station (D1500), Austin, TX 78712, USA
+Received 28 November 2006; revised 16 March 2007; accepted 29 March 2007 Available online 22 April 2007
+Abstract
+Salinity imposes a significant barrier to the distribution of many organisms, including diatoms. Diatoms are ancestrally marine, and the number of times they have independently colonized fresh waters and the physiological adaptations that facilitated these transitions remain outstanding questions in diatom evolution. The colonization of fresh waters by diatoms has been compared to ‘‘crossing the Rubicon,’’ implying that successful colonization events are rare, irreversible, and lead to substantial species diversification. To test these hypotheses, we reconstructed the phylogeny of Thalassiosirales, a diatom lineage with high diversity in both marine and fresh waters. We collected 􏰁5.3 kb of DNA sequence data from the nuclear (SSU and partial LSU rDNA) and chloroplast genomes (psbC and rbcL) and reconstructed the phylogeny using parsimony and Bayesian methods. Alternative topology tests strongly reject all previous colonization hypotheses, including monophyly of the predominantly freshwater Stephanodiscaceae. Results showed at least three independent colonizations of fresh waters, and whereas previous accounts of freshwater-to-marine transitions have been discounted, these results provide compelling evidence for as many as three independent re-colonizations of the marine habitat, two of which led to speciation events. This study adds valuable phylogenetic context to previous debate about the nature of the salinity barrier in diatoms and provides compelling evidence that, at least for Thalassiosirales, the salinity barrier might be less formidable than previously thought.
+Ó 2007 Elsevier Inc. All rights reserved.
+Keywords: Diatoms; Freshwater; Marine; Phylogeny; Salinity; Stephanodiscaceae; Thalassiosiraceae; Thalassiosirales
+www.elsevier.com/locate/ympev
+  1. Introduction
+Diatoms are a lineage of unicellular photoautotrophs within heterokont algae, known most notably for their intricately ornamented cell walls of opaline silica, called ‘‘frustules’’ (Andersen, 2004; Round et al., 1990). Given sufficient moisture and sunlight, diatoms can thrive in virtually any habitat, though they are principally found in association with submerged surfaces (benthic) or sus-
+* Corresponding author. Present address: Department of Biology, Indiana University, 142 Jordan Hall, 1001 East Third Street, Bloomington, IN 47405, USA. Fax: +1 812 855 6705.
+E-mail address: alversoa@indiana.edu (A.J. Alverson).
+1055-7903/$ see front matter Ó 2007 Elsevier Inc. All rights reserved. doi:10.1016/j.ympev.2007.03.024
+pended in the water column of rivers, lakes, and oceans (planktonic). The importance of marine planktonic diatoms in the biogeochemical cycling of many elements, particularly carbon and silica, cannot be overstated. As a whole, marine phytoplankton account for >46% of global net primary production, despite representing <1% of global primary producer biomass (Behrenfeld and Falkowski, 1997; Falkowski et al., 1998; Field et al., 1998). Diatoms alone account for P40% of marine primary production, which translates to roughly one-quarter of global net primary production (Nelson et al., 1995; Werner, 1977). Silica comprises 􏰁25% (by weight) of the earth’s crust (Iler, 1979), and diatoms are the primary biological mediators of the silica cycle in oceans, where the element is relatively
+ 
+194 A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210
+scarce and has been since the marked diversification and ecological expansion of diatoms throughout the Cenozoic (Katz et al., 2004; Martin-Jezequel et al., 2000; Nelson et al., 1995; Treguer et al., 1995).
+Salinity imposes a significant barrier to the distribution of many organisms, including diatoms (Mann, 1999; Round and Sims, 1980). Unlike marine diatoms, freshwater diatoms must manage the steep difference in water potential between the inside of the cell and the surrounding medium, which presumably requires substantial energy expenditure. Reports of contractile vacuoles in diatoms are sparse and unsubstantiated (Fritsch, 1935), so it is unclear how they overcome this osmotic stress. Evidence from the fossil record and phylogenetic studies suggest that diatoms are ancestrally marine, so the number of times diatoms independently have colonized fresh waters and the physiological adaptations that facilitated these transitions remain outstanding questions in diatom evolution (Mann, 1999; Round and Sims, 1980; Sims et al., 2006). Previous efforts to understand the number and directions of marine–freshwater transitions did not fully incorporate phylogeny, relying more on patterns inferred from an explicitly phenetic classification system (Mann, 1999; Round et al., 1990; Round and Sims, 1980). For example, one generally held hypothesis is that diatoms are naturally split along marine–freshwater lines, based on the observation that most genera are restricted to either marine or fresh waters, with few genera having representatives in both habitats (Round and Sims, 1980). The colonization of fresh waters by diatoms has been compared to ‘‘crossing the Rubicon,’’ implying that successful colonization events are—in addition to their historic proportion—rare and irreversible (Mann, 1999). Examples of ‘‘leakage’’ (sensu Round and Sims, 1980) of marine taxa into fresh waters are common and indisputable (e.g., Edlund et al., 2000; Weber, 1970), whereas accounts of freshwater taxa colonizing marine waters are sometimes dismissed outright (Round and Sims, 1980). Thus, the salinity barrier in diatoms is thought to be crossed from one direction only (Mann, 1999; Round and Sims, 1980). Resolving the exact number and directions of marine–freshwater transitions will require a large-scale reconstruction of the diatom phylogeny with dense sampling of marine and freshwater taxa. An alternative, more tractable approach is to focus on a single lineage with high diversity in each habitat. Among these, the thalassiosiroid lineage provides an excellent opportunity to study the origin and evolution of diatoms in fresh waters.
+The family Thalassiosiraceae originally was described by Lebour (1930) and later emended by Hasle (1973) to include all diatoms that possess a fultoportula (strutted process), a feature now recognized as a synapomorphy for the lineage (Theriot and Serieyssol, 1994). The strutted process consists of a central tube surrounded by 2–6 pores (satellite pores) inwardly, and its outward structure varies from a simple pore to long, elaborate extensions that connect sibling cells. Strutted processes are the site of b-chitin synthesis (Herth, 1978, 1979; Herth and Barthlott, 1979), which among diatoms, is unique to thalassiosiroids. b-Chitin threads extruded
+through strutted processes on the valve face facilitate chain formation, whereas threads extruded through strutted processes on the valve margin are thought to enhance buoyancy in the water column (Walsby and Xypolyta, 1977). Thalassiosiroid diatoms are common in the plankton of large rivers and reservoirs, freshwater lakes, brackish and estuarine waters, coastal marine and open ocean habitats (Hasle and Syvertsen, 1997; Stoermer and Julius, 2003). Citing this distribution, Thalassiosiraceae was raised to ordinal status (Thalassiosirales) and genera were classified into marine Thalassiosiraceae or freshwater Stephanodiscaceae (Glezer and Makarova, 1986). Thalassiosirales dates probably to the late Cretaceous (Hasle and Syvertsen, 1985; Medlin et al., 1996), and whereas the marine Thalassiosiraceae appears to be paraphyletic (Glezer and Makarova, 1986; Medlin et al., 1996), evidence from the lacustrine fossil record and morphology suggests that Stephanodiscaceae is monophyletic, tracing to a single, successful colonization of fresh waters in the middle Miocene (Glezer and Makarova, 1986; Krebs, 1990; Krebs and Bradbury, 1982; Krebs et al., 1987; Theriot and Serieyssol, 1994).
+Thalassiosirales is a large and phylogenetically diverse lineage within the paraphyletic ‘‘centric’’ diatoms (Alverson and Theriot, 2005). It is nominally diverse, with more than 1000 names at the rank of species and below (according to the computerized database of verified diatom names at the California Academy of Sciences, E. Fourtanier and J.P. Kociolek, pers. comm.). The nominal diversity undoubtedly exceeds species diversity (Spamer and Theriot, 1997), so 500 fossil and living species is probably a conservative estimate of the total species diversity. Species are distributed among roughly 30 genera, of which 􏰁10 are monotypic and 􏰁10 contain fewer than 10 species. The generic classification is largely phenetic, so most genera are not easily distinguished from one another, or particularly, from the larger genera Cyclotella and Thalassiosira. No single character or combination of characters can be considered derived and therefore indicative of monophyly for either genus. Illustrative of this, considerable effort has been made to document the range of morphological diversity in both Cyclotella (Loginova, 1990; Lowe, 1975; Serieyssol, 1980) and Thalassiosira (Fryxell and Hasle, 1977; Fryxell and Hasle, 1979a; Fryxell and Hasle, 1979b; Hasle, 1968; Hasle, 1978a,b; Tanimura, 1996), and to identify phenetic clusters of species within them. Several of these phenetic groups have been split into new genera (e.g., Discostella, Houk and Klee, 2004).
+The primary goal of this research was to reconstruct the phylogeny of extant Thalassiosirales with broad sampling across the entire lineage and to use the phylogeny to understand the historical pattern of freshwater colonization. We expanded the taxonomic and character sampling of previous studies to include 78 accessions, representing 10 genera from marine Thalassiosiraceae and freshwater Stephanodiscaceae. Two nuclear and two chloroplast DNA markers were used to reconstruct the phylogeny. Datasets from the two genetic compartments were analyzed individually and
+
+A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210 195
+in combination using parsimony and Bayesian methods. Phylogenetic hypotheses were used to determine the number and direction of freshwater colonization events and to test previous hypotheses about the relationship between marine and freshwater taxa. This study adds valuable phylogenetic context to previous debate about the nature of the salinity barrier in diatoms and provides compelling evidence that, at least for Thalassiosirales, the salinity barrier is less formidable than previously thought.
+2. Materials and methods
+2.1. Taxon sampling
+Two nuclear (SSU rDNA and partial LSU rDNA) and two chloroplast (rbcL and partial psbC) markers were sequenced for 82 accessions, including 78 Thalassiosirales and four outgroup taxa (Table 1). Every effort was made to sample the range of extant morphological diversity evenly and adequately, using monographs and previous phylogenetic studies as guides. Forty-four taxa representing seven genera were sampled from the predominantly marine Thalassiosiraceae, including at least one representative from each of the major subgroups within Thalassiosira (Fryxell and Hasle, 1977; Fryxell and Hasle, 1979b; Hasle, 1968; Hasle, 1978b; Hasle and Fryxell, 1977; Hasle and Lange, 1989). A previous phylogenetic analysis of Stephanodiscaceae based on morphology found extant species distributed among six crown clades (Julius, 2000), and our analyses include at least one representative from each of these six clades. The four outgroup taxa were chosen because they consistently comprise the sister clade to Thalassiosirales in SSU rDNA phylogenies of diatoms (Alverson and Theriot, 2005 for review). Three sequences are missing from the final matrix: Cyclotella stylorum SSU rDNA, Thalassiosira mediterranea SSU rDNA, and Helicotheca tamesis LSU rDNA. SSU rDNA sequences downloaded from GenBank were used for Helicotheca tamesis and Ditylum brightwellii (Table 1).
+2.2. Cell culture and DNA methods
+Cells were grown in batch culture at 14 °C on a 12:12 light: dark cycle. Marine species were grown in f/2 medium (Guillard, 1975; Guillard and Ryther, 1962), and freshwater species were grown in COMBO medium (Kilham et al., 1998). Cells were harvested early in stationary phase by concentrating them into a pellet through a series of centrifugations. Cell pellets were stored at 􏰀80 °C until DNA extraction commenced. Frozen cells were broken with stainless steel beads as tubes were shaken for two minutes at 30 Hz in a Brinkman Retsch Mixer Mill MM300 (Westbury, NY, USA). Total nucleic acids were extracted with the DNeasyÒ Plant Mini Kit (Qiagen, Hilden, Germany). Cyclotella distinguenda did not survive in culture, so total DNA was extracted from an environmental sample where Cy. distinguenda represented >95% relative abundance
+and where no other thalassiosiroid species were observed; gene fragments were subsequently PCR amplified and cloned from this environmental DNA preparation. Partial fragments of SSU rDNA (􏰁1750 nt), partial LSU rDNA (􏰁600 nt), rbcL (􏰁1470 nt), and psbC (􏰁1100 nt) were amplified by PCR (see Table 2 for primer sequences). The volume of each PCR was 50 lL: 1.0 lL (􏰁20 ng) purified DNA template; 5 lL 10· buffer; 2.5 mM MgCl2 (5 lL of 25 mM stock); 0.2 mM each dATP, dCTP, dGTP, dTTP (1 lL each of 10 mM stocks); 0.1 lM each primer (0.25 lL each of 20 lM stocks); 0.2 U Taq polymerase; and ddH2O to a final volume of 50 lL. PCR conditions for SSU followed Alverson and Kolnick (2005). PCR conditions for LSU d1–d2 and partial rbcL (primers nd6+ and dp7) were as follows: 94 °C for 3:30, 35 cycles of (94 °C for 50 s, 53 °C for 50 s, 72 °C for 60 s), and final extension at 72 °C for 7 m. PCR conditions for psbC and partial rbcL (primers rbcL66+ and rbcL1255􏰀) were the same but with 1:10 m extension time. When necessary, PCR products were cloned as described in Alverson and Kolnick (2005). PCR products were purified with QIAquickÒ PCR Purification columns (QIAGEN, Hilden, Germany). Forward and reverse strands were cycle sequenced with BigDye (Applied Biosystems, Foster City, CA, USA) using a combination of nested primers (Table 2). Sequences were resolved with an MJ Research BaseStation DNA Fragment Analyzer (MJ Research, Inc., San Francisco, CA, USA) or ABI 3700 DNA Analyzer (Applied Biosystems, Foster City, CA, USA). Sequence chromatograms were edited and assembled into contigs with Sequencher (ver. 3.0—Gene Codes Corporation, Ann Arbor, MI, USA).
+2.3. Multiple sequence alignment
+Sequences for the protein coding genes psbC and rbcL lacked indels and were aligned manually with MacClade (ver. 4.08—Maddison and Maddison, 2003). SSU rDNA sequences were aligned to maximize the juxtapositioning of similar primary and secondary structure of the 18S rRNA molecule, using a template of 181 aligned diatom SSU rDNA sequences (Alverson et al., 2006a). This alignment allowed us to distinguish between paired and unpaired sites in the 18S rRNA molecule for phylogenetic analyses. Partial LSU rDNA sequences initially were aligned with Clustal X using the default settings for gapopening and gap-extension. Highly variable regions were re-aligned with Clustal X using a variety of gap-opening and gap-extension penalties, followed by manual adjustments to minimize the number of variable sites.
+2.4. Phylogeny estimation
+2.4.1. Parsimony analyses
+Maximum parsimony analyses of the chloroplast encoded psbC and rbcL datasets were run individually and in combination. Tree searches were done with the ‘‘new technology’’ search algorithm implemented in TNT
+
+196 A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210
+Table 1
+Taxon, culture strain, locality, family classification, and GenBank accessions of chloroplast and nuclear markers for species examined in this study
+ Species
+Bacterosira bathyomphala (Cleve) Syvertsen & Hasle
+Bacterosira sp.
+Detonula pumila (Castracane) Gran
+Lauderia annulata Cleve
+Minidiscus trioculatus (F.J.R. Taylor) Hasle
+Porosira glacialis (Grunow) Jørgensen
+Porosira pseudodelicatula (Hustedt) Jouse ́
+Shionodiscus oestrupii var. venrickae
+(G. Fryxell & Hasle) Alverson, Kang & Theriot
+Shionodiscus ritscheri (Hustedt) Alverson, Kang & Theriot
+Skeletonema grethae Zingone & Sarno Skeletonema grethae Zingone & Sarno
+Skeletonema japonicum Zingone & Sarno
+Skeletonema menzellii Guillard
+Skeletonema pseudocostatum Medlin
+Skeletonema subsalsum (Cleve-Euler) Bethge
+Thalassiosira aestivalis Gran & Angst
+Thalassiosira angulata (Gregory) Hasle
+Thalassiosira anguste-lineata (A. Schmidt) G. Fryxell & Hasle Thalassiosira antarctica Comber
+Thalassiosira cf. pacifica Thalassiosira eccentrica (Ehrenberg)
+Cleve emend G. Fryxell & Hasle Thalassiosira gessneri (Grunow) G.
+Fryxell & Hasle Thalassiosira guillardii Hasle
+Thalassiosira guillardii Hasle Thalassiosira mediterranea (Schroder)
+Hasle
+Thalassiosira minima Gaarder emend
+Hasle
+Thalassiosira minuscula Krasske
+Thalassiosira minuscula Krasske
+Thalassiosira nodulolineata (Hendey) Hasle & G. Fryxell
+Thalassiosira nordenskioeldii Cleve Thalassiosira oceanica Hasle
+Culture strain
+NB04-B6 CCMP991 NB48
+CS30 CCMP495 CCMP1099 CCMP1433 CC03-15
+LC01-12
+CCAP1077/ 3 CCAP1077/ 4
+NB02-45 CCMP787
+CCAP1077/ 7 CCAP1077/ 8 CCMP976
+BEN02-35
+BEN02-30
+CCMP982 FB02-35
+BER02-9
+AN02-08
+CC03-04
+CCMP988 CS16
+CCMP990 CCMP1093 FB02-31 BEN02-33 FB02-19 CCMP1001
+Locality
+Narragansett Bay, RI, USA
+Chase Creek, MA, USA
+Narragansett Bay, RI, USA
+Pacific Ocean, La Jolla, CA, USA Gulf of Maine, ME, USA
+Southern Ocean, Antarctica McMurdo Sound, Antarctica
+Clam Creek, GA, USA
+Drake Passage, Southern Ocean Narragansett Bay, RI, USA
+Strait of Georgia, British Columbia, Canada
+Narragansett Bay,
+RI, USA
+Sargasso Sea, Atlantic Ocean
+Mediterranean Sea, Alexandria, Egypt Lower Lough Erne, Ireland
+Vancouver, British Columbia, Canada San Joaquin River, Benicia, CA, USA San Joaquin River, Benicia, CA, USA Oslo Fjord, Norway San Francisco Bay, CA, USA
+San Francisco Bay, CA, USA
+San Joaquin River, Antioch, CA, USA Clam Creek, GA, USA
+North Atlantic Ocean Port Phillip Bay, Australia
+unknown
+Pacific Ocean, La Jolla, CA, USA San Francisco Bay, CA, USA
+San Joaquin River, Benicia, CA, USA San Francisco Bay, CA, USA
+North Atlantic Ocean
+Family
+Thalassiosiraceae Thalassiosiraceae Thalassiosiraceae Thalassiosiraceae Thalassiosiraceae Thalassiosiraceae Thalassiosiraceae Thalassiosiraceae
+Thalassiosiraceae Thalassiosiraceae Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae Thalassiosiraceae
+Thalassiosiraceae Thalassiosiraceae Thalassiosiraceae Thalassiosiraceae Thalassiosiraceae Thalassiosiraceae
+psbC DQ514734
+DQ514716 DQ514732 DQ514687 DQ514711 DQ514685 DQ514686 DQ514709
+DQ514731 DQ514735 DQ514736
+DQ514740
+DQ514739
+DQ514737
+DQ514738
+DQ514712
+DQ514706
+DQ514704
+DQ514713 DQ514728
+DQ514707
+DQ514703
+DQ514708
+DQ514714 DQ514724
+DQ514715 DQ514721 DQ514727 DQ514705 DQ514726 DQ514717
+rbcL DQ514816
+DQ514798 DQ514814 DQ514769 DQ514793 DQ514767 DQ514768 DQ514791
+DQ514813 DQ514817 DQ514818
+DQ514822
+DQ514821
+DQ514819
+DQ514820
+DQ514794
+DQ514788
+DQ514786
+DQ514795 DQ514810
+DQ514789
+DQ514785
+DQ514790
+DQ514796 DQ514806
+DQ514797 DQ514803 DQ514809 DQ514787 DQ514808 DQ514799
+SSU
+DQ514894 DQ514877 DQ514892 DQ514849 DQ514872 DQ514847 DQ514848 DQ514870
+DQ514891 AY684941 AY684942
+AY684968
+DQ011161
+AY684952
+AY684962
+DQ514873
+DQ514867
+DQ514865
+DQ514874 DQ514888
+DQ514868
+DQ514864
+DQ514869
+DQ514875 Missing data DQ514876
+DQ514882 DQ514887 DQ514866 DQ514886
+DQ514878
+LSU
+DQ512444 DQ512426 DQ512442 DQ512397 DQ512421 DQ512395 DQ512396 DQ512419
+DQ512441 DQ512445 DQ512446
+DQ512450
+DQ512449
+DQ512447
+DQ512448
+DQ512422
+DQ512416
+DQ512414
+DQ512423 DQ512438
+DQ512417
+DQ512413
+DQ512418
+DQ512424 DQ512434
+DQ512425 DQ512431 DQ512437 DQ512415 DQ512436
+DQ512427
+  (continued on next page)
+
+Table 1 (continued) Species
+Thalassiosira pseudonana Hasle & Heimdal
+Thalassiosira pseudonana Hasle & Heimdal
+Thalassiosira pseudonana Hasle & Heimdal
+Thalassiosira punctigera
+(Castracane) Hasle
+Thalassiosira punctigera
+(Castracane) Hasle Thalassiosira rotula Meunier
+Thalassiosira sp. Thalassiosira sp.
+Thalassiosira tumida (Janisch) Hasle in Hasle, Heimdal & G. Fryxell
+Thalassiosira tumida (Janisch) Hasle in Hasle, Heimdal & G. Fryxell
+Thalassiosira weissflogii (Grunow) G. Fryxell & Hasle
+Thalassiosira weissflogii (Grunow) G. Fryxell & Hasle
+Cyclostephanos invisitatus
+(Hohn & Hellerman) Theriot,
+Stoermer & Ha ̊kansson Cyclostephanos sp.
+Cyclostephanos sp.
+Cyclostephanos tholiformis E.F. Stoermer, Ha ̊kansson & E.C. Theriot
+Cyclotella atomus Hustedt Cyclotella bodanica Grunow
+Cyclotella cryptica Reimann, Lewin & Guillard
+Cyclotella distinguenda Hustedt Cyclotella gamma Sovereign Cyclotella cf. cryptica
+Cyclotella meneghiniana Ku ̈tzing Cyclotella meneghiniana Ku ̈tzing Cyclotella meneghiniana Ku ̈tzing Cyclotella ocellata Pantocsek Cyclotella cf. meneghiniana Cyclotella sp.
+Cyclotella sp.
+Cyclotella striata (Ku ̈tzing)
+Grunow in Cleve & Grunow Cyclotella stylorum Brightwell
+Discostella cf. pseudostelligera
+Discostella pseudostelligera
+(Hustedt) V. Houk & R. Klee Discostella stelligera (Cleve &
+Grunow) V. Houk & R. Klee
+Culture Locality strain
+ETC1 Lake Erie, MI, USA NEPC709 Hood Canal, WA, USA CCMP1057 Dabob Bay, Washington,
+USA
+FB02-06 San Francisco Bay, CA,
+USA
+NB02-22 Narragansett Bay, RI,
+USA
+CCMP1812 East Sound, Orcas Island,
+Washington, USA CCMP1065 Baffin Bay, Arctic Ocean
+CCMP353 Narragansett Bay, RI, USA
+CCMP1469 McMurdo Sound, Southern Ocean
+LA09-20 Drake Passage, Southern Ocean
+CCMP1010 Gulf Stream, Atlantic Ocean
+L1296 unknown
+FHTC26 Fairport Harbor, Lake Erie, OH, USA
+WTC16 West Lake Okoboji, IA, USA
+WTC18 West Lake Okoboji, IA, USA
+FHTC15 Fairport Harbor, Lake Erie, OH, USA
+ROR01-4 Raccourci Old River, LA, USA
+J98-1 Jackson Lake, WY, USA CCMP331 unknown
+none Tiplady Bog, MI, USA Cygamma Lake Itasca, MN, USA WC03-1 Waller Creek, TX, USA TI1 Lake Titicaca, Peru LS03-1 Lake Superior, MI, USA F8 Fugleso Lake, Denmark LB8 Lake Buchanan, TX, USA L1263 Stump Lake, ND, USA MC01 Mango Creek, Belize L1844 Salton Sea, Imperial
+County, CA, USA CCMP1586 Jakarta Harbor, Indonesia
+DA04-06 Golfo de Nicoya, Don ̃ a Ana, Costa Rica
+L435 Montezuma Well National Monument, Yavapai Co.,
+AZ, USA
+ROR01-1 Raccourci Old River, LA,
+USA
+L1360 Big Pond, Cedar Hill, TX,
+USA
+Family
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae
+Thalassiosiraceae Thalassiosiraceae Stephanodiscaceae
+Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae
+Stephanodiscaceae
+Stephanodiscaceae Stephanodiscaceae
+Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae
+Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae
+Stephanodiscaceae Stephanodiscaceae
+psbC DQ514701
+DQ514702
+DQ514719
+DQ514725
+DQ514733
+DQ514723
+DQ514720 DQ514710
+DQ514722
+DQ514730
+DQ514718 DQ514729 DQ514745
+DQ514758 DQ514759 DQ514744
+DQ514697
+DQ514747 DQ514688
+DQ514698 DQ514690 DQ514700 DQ514699 DQ514695 DQ514692 DQ514750 DQ514693 DQ514696 DQ514694
+DQ514689 DQ514691 DQ514748
+DQ514751 DQ514749
+rbcL DQ514783
+DQ514784
+DQ514801
+DQ514807
+DQ514815
+DQ514805
+DQ514802 DQ514792
+DQ514804
+DQ514812
+DQ514800 DQ514811 DQ514827
+DQ514840 DQ514841 DQ514826
+DQ514779
+DQ514829 DQ514770
+DQ514780 DQ514772 DQ514782 DQ514781 DQ514777 DQ514774 DQ514832 DQ514775 DQ514778 DQ514776
+DQ514771 DQ514773 DQ514830
+DQ514833 DQ514831
+SSU
+DQ514862
+DQ514863
+DQ514880
+DQ514885
+DQ514893
+DQ514884
+DQ514881 DQ514871
+DQ514883
+DQ514890
+DQ514879 DQ514889 DQ514899
+DQ514912 DQ514913 DQ514898
+DQ514858
+DQ514901 DQ514850
+DQ514859 DQ514852 DQ514861 DQ514860 DQ514856 DQ514853 DQ514904 DQ514854 DQ514857 DQ514855
+DQ514851
+Missing data DQ514902
+DQ514905 DQ514903
+LSU
+DQ512411
+DQ512412
+DQ512429
+DQ512435
+DQ512443
+DQ512433
+DQ512430 DQ512420
+DQ512432
+DQ512440
+DQ512428 DQ512439 DQ512455
+DQ512468 DQ512469 DQ512454
+DQ512407
+DQ512457 DQ512398
+DQ512408 DQ512400 DQ512410 DQ512409 DQ512405 DQ512402 DQ512460 DQ512403 DQ512406 DQ512404
+DQ512399 DQ512401 DQ512458
+DQ512461
+A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210
+197
+  DQ512459 (continued on next page)
+
+198
+A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210
+Table 1 (continued) Species
+Stephanodiscus agassizensis
+H. Ha ̊kansson & H. Kling Stephanodiscus binderanus (Ku ̈tzing)
+Krieger
+Stephanodiscus hantzschii f. tenuis
+(Hustedt) Ha ̊kansson & Stoermer
+Culture strain
+CHTC1 ESB2 WTC21 J95-21 WTC1 FHTC11 Y95-6 Y98-1 Sneo4 J95-16 OKA-A WLO11
+Y7 CCMP143 CCMP1810 CCMP1760 CCMP1806
+Locality
+Cleveland Harbor, Lake Erie, OH, USA Lake Erie, MI, USA
+West Lake Okoboji, IA, USA
+Jackson Lake, WY, USA
+West Lake Okoboji, IA, USA
+Fairport Harbor, Lake Erie, OH, USA Yellowstone Lake, WY, USA Yellowstone Lake, WY, USA
+Grober Mu ̈ggelsee, Berlin, Germany Jackson Lake, WY, USA
+Okamanpeedan Lake, MN, USA
+West Lake Okoboji, IA, USA Yellowstone Lake, WY, USA
+North Pacific Ocean, Muroran, Japan Willapa Bay, Washington USA Darien, Panama, near Samba River
+Family
+Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae Stephanodiscaceae outgroup outgroup outgroup outgroup
+psbC DQ514741
+DQ514742 DQ514760 DQ514746 DQ514757 DQ514743 DQ514761 DQ514762 DQ514752 DQ514753 DQ514754 DQ514755 DQ514756 DQ514681 DQ514684 DQ514682 DQ514683
+rbcL DQ514823
+DQ514824 DQ514842 DQ514828 DQ514839 DQ514825 DQ514843 DQ514844 DQ514834 DQ514835 DQ514836 DQ514837 DQ514838 DQ514763 DQ514766 DQ514764 DQ514765
+SSU
+DQ514895 DQ514896 DQ514914 DQ514900 DQ514911 DQ514897 DQ514915 DQ514916 DQ514906 DQ514907 DQ514908 DQ514909 DQ514910 DQ514845 X85386 X85385 DQ514683
+LSU
+DQ512451
+DQ512452
+DQ512470
+DQ512456
+DQ512467
+DQ512453
+DQ512471
+DQ512472
+DQ512462
+DQ512463
+DQ512464
+DQ512465
+DQ512466
+DQ512392
+DQ512394
+Missing data DQ514846
+  Stephanodiscus minutulus
+Cleve & Mo ̈ller
+Stephanodiscus minutulus
+Cleve & Mo ̈ller
+Stephanodiscus minutulus
+Cleve & Mo ̈ller
+Stephanodiscus minutulus
+Cleve & Mo ̈ller
+Stephanodiscus minutulus
+(Ku ̈ tzing) (Ku ̈ tzing) (Ku ̈ tzing) (Ku ̈ tzing) (Ku ̈ tzing)
+Cleve & Mo ̈ller Stephanodiscus neoastraea H.
+Ha ̊kansson & B. Hickel Stephanodiscus niagarae Ehrenberg
+Stephanodiscus niagarae Ehrenberg Stephanodiscus reimerii Theriot Stephanodiscus yellowstonensis Theriot
+Bellerochea malleus (Brightwell) Van Heurck
+Ditylum brightwellii (T. West) Grunow
+Helicotheca tamesis (Shrubsole) M.
+Ricard
+Lithodesmium undulatum Ehrenberg
+ Table 2
+Oligonucleotide primers used to amplify and sequence SSU rDNA, partial LSU rDNA, psbC, and
+rbcL fragments from Thalassiosirales Original reference
+Medlin et al. (1988)
+ Name Marker SSU1a SSU
+Sequence (50 to 30)
+AAC CTG GTT GAT CCT GCC AGT
+TGA TCC TGC CAG TAG TCA TAC GCT ATC ATT CAA GTT TCT GCC C
+TGG AAT GAG AAC AAT TTA A
+CGA AGA TGA TTA GAT ACC ATC G TGT GAT GCC CTT AGA TGT CCT GG CCT TGT TAC GAC TTC ACC TTC C AGT TTC AGC CTT GCG ACC ATA C CAG ACT TGC CCT CCA ATT GA
+ACC CGC TGA ATT TAA GCA TA CCT TGG TCC GTG TTT CAA GA CAC GAC CWG AAT GCC ACC AAT ACG CAT TGT TTC ACC ACC
+ACG TGC CCA AGA GAA TGG TTT TG ACA GGM TTY GCT TGG TGG AGT GG ATC TTG TTG GTG GTC ATA TTT GG CTT TGG TTA TGA CTG GCG TG
+TTA AGG AGA AAT AAA TGT CTC AAT CTG AAA ACA TTC CAA GGT CCT GCT
+TTG GTG CAT TTG ACC ACA GT
+GTC TAA ACC ACC TTT TAA MCC TTC
+GTA AAT GGA TGC GTA TG
+AAA SHD CCT TGT GTW AGT YTC
+ SSU11+ SSU SSU301+ SSU SSU515+ SSU SSU1004+ SSU SSU1451+ SSU ITS1DRb SSU SSU1147– SSU SSU568– SSU D1Ra LSU D2Cb LSU psbC+a psbC psbC221+ psbC psbC499+ psbC psbC–b psbC psbC587– psbC psbC857– psbC rbcL66+a rbcL rbcL527+ rbcL rbcL1255–b rbcL rbcL587– rbcL nd6+a rbcL dp7b rbcL
+d1–d2 d1–d2
+This study
+This study
+This study
+This study
+This study
+Edgar and Theriot (2004) This study
+This study
+Scholin et al. (1994) Scholin et al. (1994) This study
+This study
+This study
+This study
+This study
+This study
+This study
+This study
+This study
+This study
+Daugbjerg and Andersen (1997) Daugbjerg and Andersen (1997)
+ a Forward PCR amplification primer. b Reverse PCR amplification primer.
+
+A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210 199
+(Goloboff et al., 2004). Five hundred random addition sequence replicates were performed, with all cycles, rounds, and repetitions increased by an order of magnitude beyond default values. Nonparametric bootstrap analyses (10,000 pseudoreplicates) were done to assess branch support. The ‘‘traditional’’ search algorithm in TNT was used for each pseudoreplicate of the bootstrap analysis. These analyses were repeated for the nuclear encoded LSU and SSU rDNA datasets, run individually and in combination, as well as the total (chloroplast + nuclear) combined dataset.
+2.4.2. Bayesian analyses
+MrModeltest (Nylander, 2004) was used to determine the most appropriate model of DNA sequence evolution for each gene partition. The posterior probability distribution was estimated using Metropolis-Coupled Markov Chain Monte Carlo (MCMC) as implemented in MrBayes (ver. 3.1—Ronquist and Huelsenbeck, 2003). Default priors were used for all analyses. Each run used four chains, one cold and three heated, with temperature and proposal parameters adjusted as necessary to facilitate convergence and mixing of the chains. We assessed stationarity by tracking posterior probabilities of tree splits using the cump and slide commands in AWTY (Wilgenbusch et al., 2004). Results of sliding window analyses (slide) were generally more erratic than point estimates of cumulative split posterior probabilities (cump), so stationarity was assumed when all splits appeared to have stabilized by one (cump) or both of these measures. We performed at least two independent runs per dataset and confirmed that the independent runs had sampled the same posterior distribution by comparing split posterior probabilities with the compare command in AWTY before pooling samples from the stationary phase of independent runs. The posterior distributions of tree topologies and branch lengths were summarized with the sumt command in MrBayes. Further details for specific analyses are summarized in Table 3.
+The Akaike Information Criterion favored the GTR + G + I model of sequence evolution for all gene partitions, and all genes were run individually under this model (not shown). Several model partitioning strategies were then applied to the individual and combined datasets (Table 3). Three model schemes were applied to the chloroplast dataset. We first applied the GTR + G + I to the combined chloroplast dataset, essentially treating the two genes as a single gene partition. We then partitioned the chloroplast dataset by gene, applying separate GTR + G + I models to the psbC and rbcL gene partitions. Site-specific rate models that consider codon position often provide a better fit to protein coding datasets than do standard nucleotide models (Shapiro et al., 2006), so we also applied a single GTR + G + I to combined first and second codon positions and a single GTR + G + I model to third positions (‘‘CP112’’ sensu Shapiro et al., 2006). For the nuclear SSU rDNA dataset, we first applied a single GTR + G + I to all positions. One strategy to overcome nonindependence of nucleotide substitutions in rRNA
+    Table 3
+Data partitions, models of DNA sequence evolution, and results of Bayesian analyses, including Bayes factor comparisons of alternative models
+Model ID
+Data partition
+Rate matrix
+Rate heterogeneity
+Total runs (runs used)
+Generations (burnin)
+Model likelihood
+SSU1 SSU2 NUC1 NUC2 CP1 CPgene CPcodon Total
+SSU
+SSU stems/SSU loops
+SSU + LSU
+SSU stems/SSU loops/LSU Chloroplasta
+Chloroplasta · gene (psbC/rbcL) Chloroplasta · codon
+SSU stems/SSU loops/LSU/ chloroplasta · codon
+GTR
+Doublet/GTR
+GTR Doublet/GTR/GTR GTR
+GTR/GTR
+GTR11􏰀 + GTR􏰀􏰀2 Doublet/GTR/GTR/ GTR11􏰀 + GTR􏰀2
+G+I
+G+I/G+I
+G+I
+G+I/G+I/G+I
+G+I
+G+I/G+I
+(G+I)11􏰀 + (G+I)􏰀􏰀2 G+I/G+I/G+I/ (G+I)11􏰀 + (G+I)􏰀2
+2 (2) 2 (2) 2 (2) 2 (2) 4 (2) 2 (2) 2 (2) 4 (3)
+30 (15) 10 (4) 20 (10) 10 (5) 80 (64) 40 (12) 40 (20) 40 (16)
+􏰀10,150 􏰀9307 􏰀16,875 􏰀16,536 􏰀24,057 􏰀23,892 􏰀22,965 􏰀39,327
+combined
+a ‘‘Chloroplast’’ refers to combined psbC + rbcL.
+
+200 A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210
+helices is use of ‘‘doublet’’ models that consider pairs of sites rather than considering them individually (Schoniger and Von Haeseler, 1994), so a second SSU rDNA model applied Doublet + G + I to paired sites and GTR + G + I to unpaired sites. For the combined nuclear (SSU + LSU rDNA) dataset, we first applied a single GTR + G + I model, treating the two genes as a single gene partition. A second model applied Doublet + G + I to paired SSU rDNA sites, GTR + G + I to unpaired SSU rDNA sites, and GTR + G + I to the LSU rDNA sites. The harmonic mean of the likelihood values sampled during the MCMC analysis was calculated for each partitioning scheme with the sump command in MrBayes, and relative support for the different models was assessed using Bayes factor comparisons (Kass and Raftery, 1995; Nylander et al., 2004 for phylogenetic applications). Model choice for the combined chloroplast + nuclear analysis was based on results of these Bayes factor comparisons.
+Chloroplast encoded psbC and rbcL datasets were combined because conflicts between the two datasets were unsupported in one or both of the parsimony strict consensus trees (not shown). Similarly, these criteria were used to combine the nuclear encoded SSU and LSU rDNA into a single dataset (not shown); also, these two genes are part of the same rDNA cistron and therefore are likely to reflect similar evolutionary histories. In the end, the overall topological congruence among trees derived from individual genes and genetic compartments compelled us to combine the chloroplast, nuclear, and ultimately the chloroplast + nuclear datasets. The ability to specify partitionspecific stochastic models that account for differences in the evolutionary histories of the partitions further justified simultaneous analysis of the combined dataset (Nylander et al., 2004).
+2.5. Hypothesis testing
+Two hypotheses were tested, the first of which constrained Stephanodiscaceae to be monophyletic, consistent with the hypothesis of a single, primary colonization of fresh waters (Fig. 1a, Krebs, 1990; Krebs et al., 1987; Theriot and Serieyssol, 1994). Two variations of this hypothesis were tested, one of which included T. pseudonana (synonym=Cyclotella nana Hustedt) in Stephanodiscaceae and one of which did not. The second hypothesis enforced reciprocal monophyly of Thalassiosiraceae and Stephanodiscaceae (+T. pseudonana), consistent with the relationship proposed by Round and Sims (1980) and Glezer and Makarova (1986) (Fig. 1b). Hypothesis testing was carried out on the combined chloroplast, combined nuclear, and total combined (chloroplast + nuclear) datasets. For Bayesian hypothesis testing, we constructed a 95% credible set of trees from the MCMC analyses. If tree topologies compatible with a particular freshwater colonization hypothesis were absent from this set of trees, the hypothesis was rejected, and if present, the cumulative posterior probability of that topology was calculated (Buckley,
+2002; Reeder, 2003). Second, we used the SOWH parametric bootstrap test (Goldman et al., 2000; Hillis et al., 1996; Huelsenbeck et al., 1996), with 1000 data matrices simulated on the constrained (null) tree topology according to a single null model (GTR + G + I in all cases) and parameter values estimated from the original dataset. The SOWH test suffers from high Type I error rate when the simulation model deviates too strongly from the true underlying model (Buckley, 2002; Huelsenbeck et al., 1996). Although no formal correction for this error exists, use of the parsimony criterion to generate the test statistic and null distribution might offset the high Type I error rate by decoupling the inference model (parsimony) from the simulation model (likelihood-based GTR + G + I model) (Buckley, 2002), so all parametric bootstrap tests were based on the parsimony criterion. Data simulations and analysis of results were done using the ‘‘Batch Architect’’ feature in the Mesquite software package (Maddison and Maddison, 2006).
+2.6. Reconstructing the history of freshwater colonization
+All taxa were coded as marine (0) or freshwater (1), and ancestral states were estimated using maximum parsimony and maximum likelihood. Maximum likelihood reconstructions (Pagel, 1999; Schluter et al., 1997) were based on the Asymmetrical Markov k-state two parameter model, which
+ a Single freshwater origin (Krebs, 1990; Theriot and Serieyssol, 1994) Thalassiosiraceae Stephanodiscaceae
+ b Reciprocal monophyly (Round and Sims, 1980) Thalassiosiraceae Stephanodiscaceae
+   Fig. 1. Tree topologies representing alternative hypotheses about the relationship between marine Thalassiosiraceae and freshwater Stephanodiscaceae.
+
+A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210 201
+allows for different forward (0 fi 1) and backward (1 fi 0) rates, representing the rates of freshwater and marine colonization events, respectively. All model parameters were estimated from the data, and the ancestral reconstruction at any given node was considered significantly better than the alternative if its likelihood score exceeded the alternative reconstruction by two log-likelihood units (Pagel, 1999). Maximum likelihood reconstruction was carried out using the combined Bayesian topology and branch lengths but with 18 taxa on zero or near-zero branches pruned from the tree. All ancestral state reconstructions were done using the Mesquite software package (Maddison and Maddison, 2006).
+3. Results
+The combined chloroplast (psbC + rbcL) dataset contained 2725 columns, of which 1252 columns were psbC and 1473 were rbcL. Of the 704 parsimony informative sites in the chloroplast dataset, 358 of these were in the psbC gene and 346 in the rbcL gene. The combined nuclear (SSU + LSU rDNA) dataset contained 2615 columns, of which 2034 columns were SSU rDNA and 581 were LSU rDNA. Of the 598 parsimony informative sites in the nuclear dataset, 372 of these were in the SSU rDNA gene and 226 in the partial LSU rDNA gene. Twenty-seven columns from the 50 and 30 ends of the psbC fragments were excluded from phylogenetic analyses, reflecting differences in the total sequence length recovered from different taxa, not natural length variation. Ninety-nine columns from the SSU rDNA alignment were excluded from phylogenetic analyses, most of which were empty and kept only to maintain the base pairings identified in a larger diatom SSU rDNA alignment (Alverson et al., 2006a). Finally, 30 ambiguously aligned columns from the LSU rDNA alignment also were excluded from phylogenetic analyses.
+3.1. Bayesian analyses and model choice
+Bayesian MCMC analyses were run for 10–80 million generations, until independent runs had converged onto the same posterior distribution as determined by comparisons of bipartition posterior probability (BPP) values across independent runs (Table 3). Comparisons of BPP values across runs indicated that, for the combined chloroplast (single GTR + G + I model) and the total combined analyses, one or more of four independent runs had not reached stationarity after 80 and 40 million generations, respectively, and so were discarded (Table 3).
+The protein-coding chloroplast genes psbC and rbcL were combined and analyzed with three different models (Table 3). Bayes factor comparisons strongly favored the codon-based model, which improved the fit over the single GTR + G + I model and the gene-partition model by 1092 and 165 log-likelihood units, respectively (Table 4). The nuclear SSU rDNA gene was analyzed with a single GTR + G + I model and a partitioned model that applied
+Table 4
+Bayes factor comparisons of alternative model partitioning strategies
+ Model comparison   Model likelihood
+M0/M1
+Bayes factor
+  SSU1/SSU2
+NUC1/NUC2
+CP1/CPgene
+CP1/CPcodon
+CPgene/CPcodon
+Model descriptions are listed in Table 3.
+M0 M1 􏰀10,150 􏰀9307
+ln B10 843a
+339a
+165a 1092a 927a
+2ln B10 1686a
+678a
+330a 2184a 1854a
+ 􏰀16,875 􏰀16,536 􏰀24,057 􏰀23,892 􏰀24,057 􏰀22,965 􏰀23,892 􏰀22,965
+ a Bayes factor comparison favors the alternative, more complex model, based on Kass and Raftery (1995).
+a Doublet + G + I model to paired sites in stems and a standard nucleotide GTR + G + I model to unpaired sites in loops and bulges. The partitioned model improved the fit by 843 log-likelihood units and was strongly favored by the Bayes factor comparison (Table 4). The combined nuclear dataset (SSU + LSU rDNA) was analyzed with the favored SSU model and a standard GTR + G + I nucleotide model for the LSU partition; this partitioned model provided an improvement of 339 log-likelihood units over a single GTR + G + I model and was also strongly favored by the Bayes factor comparison (Table 4). Based on these results, the total combined (nuclear + chloroplast) dataset was analyzed with the codon-based model applied to the chloroplast partition, Doublet + G + I to SSU rRNA stems, GTR+G+I to SSU rRNA loops and bulges, and GTR+G+I to the LSU rDNA region (Tables 3 and 4).
+3.2. Phylogenetic results
+Results from the Bayesian analysis of the combined chloroplast data were similar to parsimony results, with topological conflicts lacking strong statistical support in one or both analyses (Fig. 2, Appendix A). Parsimony analysis of the combined chloroplast dataset recovered nine most parsimonious trees of 4130 steps, and although relationships at the tips of the tree were strongly supported, many of the deeper nodes were weakly supported and collapsed in the strict consensus (Appendix A). Chloroplast data support monophyly of Bacterosira, Shionodiscus, Skeletonema, Cyclostephanos, Discostella, and Stephanodiscus. Porosira was non-monophyletic, and multiple, sometimes distantly related, Thalassiosira lineages were recovered. The basal position of Clade A (Lauderia + Porosira) was well supported in each of the chloroplast analyses, and Stephanodiscaceae was divided into two distinct, well-supported clades, B and C (Fig. 2).
+Unlike the chloroplast dataset, the combined nuclear dataset showed more divergence and better support for deeper nodes than for tips of the tree (Fig. 3, Appendix B). Parsimony analysis resulted in 26 most parsimonious trees of 2621 steps (Appendix B). Parsimony and Bayesian topologies were nearly identical, with minor conflicts either
+
+ 202 A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210
+Fig. 2. Majority-rule consensus tree from Bayesian analysis of the combined chloroplast (psbC + rbcL) dataset. See Table 4 for model details. Bayesian posterior probability values greater than 0.95 are shown with an asterisk (*). Terminal taxa are identified as either marine (black) or freshwater (blue), and the history of marine–freshwater transitions was reconstructed with maximum parsimony (7 steps). Three clades (A–C) are highlighted to facilitate discussion in the text. Generic abbreviations are: Bacterosira (B.), Bellerochea (Be.), Cyclostephanos (Cs.), Cyclotella (Cy.), Detonula (D.), Discostella (Di.), Ditylum (Dt.), Helicotheca (H.), Lauderia (La.), Lithodesmium (Li.), Minidiscus (M.), Porosira (P.), Shionodiscus (Sh.), Skeletonema (Sk.), Stephanodiscus (S.), Thalassiosira (T.). (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+ A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210 203
+Fig. 3. Majority-rule consensus tree from Bayesian analysis of the combined nuclear (SSU + partial LSU rDNA) dataset. See Table 4 for model details. Bayesian posterior probability values greater than 0.95 are shown with an asterisk (*). Terminal taxa are identified as either marine (black) or freshwater (blue), and the history of marine–freshwater transitions was reconstructed with maximum parsimony (7 steps). Three clades (A–C) are highlighted to facilitate discussion in the text. Generic abbreviations are: Bacterosira (B.), Bellerochea (Be.), Cyclostephanos (Cs.), Cyclotella (Cy.), Detonula (D.), Discostella (Di.), Ditylum (Dt.), Helicotheca (H.), Lauderia (La.), Lithodesmium (Li.), Minidiscus (M.), Porosira (P.), Shionodiscus (Sh.), Skeletonema (Sk.), Stephanodiscus (S.), Thalassiosira (T.). (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+204 A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210
+lacking support in one or both of the trees or collapsing in the parsimony strict consensus tree (Fig. 3, Appendix B). Use of a doublet model for paired sites in the SSU rDNA dataset effectively reduced the number of characters by nearly 500, which might account for the lower overall divergence observed in the Bayesian tree. Both analyses of the combined nuclear dataset supported monophyly of Bacterosira, Shionodiscus, Skeletonema, Cyclostephanos, Discostella, and Stephanodiscus. In addition, nuclear data strongly supported a basal position for Clade A and separation of Stephanodicaceae into two distinct, distantly related clades, B and C (Fig. 3).
+Chloroplast and nuclear data were complementary in their resolution and support for different parts of the tree, with chloroplast data resolving closer, species-level relationships and nuclear data resolving more of the overall backbone of the tree (Figs. 2 and 3). The two datasets were combined for parsimony and Bayesian analysis, and as expected, resolution and support for deeper nodes reflected the nuclear topologies, whereas shallower nodes tended toward chloroplast topologies (Fig. 4, Appendix C). Parsimony and Bayesian analyses of the combined data resulted in similar topologies, with identical bipartitions tending to have higher BPP than bootstrap support (Fig. 4, Appendix C). The only notable conflicts between parsimony and Bayesian trees concerned placement of Thalassiosira sp. (CCMP1065), T. angulata, and Bacterosira, the positions of which were unsupported in one or both analyses (Fig. 4, Appendix C). The remaining discussion will focus solely on the Bayesian topology (Fig. 4). The combined data support monophyly of Bacterosira, Shionodiscus, Skeletonema, Cyclostephanos, Discostella, and Stephanodiscus (BPP P 0.95). Clade A was sister to the remaining Thalassiosirales (BPP P 0.95), and Stephanodiscaceae again consisted of two well-supported clades (Clades B and C, each BPP P 0.95) separated by nine bipartitions, seven of which had BPP P 0.95 (Fig. 4). Clade B includes the type species of Cyclotella, Cy. distinguenda, and an assemblage of taxa informally referred to as the ‘‘Cy. meneghiniana complex’’ (Beszteri et al., 2005). The morphologically simple, nondescript species, T. pseudonana (synonym = Cyclotella nana) is sister to Clade B (BPP P 0.95), a relationship supported by at least two strutted process characters (not shown). The type species of Thalassiosira, T. nordenskioeldii, is more closely related to Detonula and Minidiscus than to most other species of Thalassiosira included in these analyses (Fig. 4). Finally, Sh. oestrupii var. venrickae is on a long branch, and most aspects of its morphology—areolar structure, internal and external strutted process ultrastructure, and position of the labiate process—indicate that this species is also highly derived morphologically (Fig. 4) (Alverson et al., 2006b; Fryxell and Hasle, 1980).
+3.3. Hypothesis testing and habitat mapping
+Tree topologies consistent with a priori freshwater colonization hypotheses (Fig. 1) were absent from all 95% cred-
+ible sets of trees and so were rejected. Likewise, SOWH parametric bootstrap tests rejected all a priori freshwater colonization hypotheses (p < 0.001).
+Parsimony mapping required seven steps to reconcile the distribution of marine and freshwater taxa on each of the parsimony and Bayesian tree topologies (Figs. 2–4, Appendices A–C). In all cases, the most recent common ancestor of Thalassiosirales was unequivocally marine, followed by at least four independent colonizations of fresh waters, two of which resulted in substantial diversification (Clades B and C). Parsimony mapping was generally equivocal about the habitat type of the most recent common ancestor of Clade B, whereas the ancestral state for Clade C was unequivocally freshwater (Figs. 2–4). Parsimony mapping showed unequivocal evidence for marine-to-freshwater transitions, as well as evidence within Clade B for recolonization of the marine habitat by freshwater taxa (Figs. 2–4).
+Habitat also was mapped onto the combined Bayesian tree with maximum likelihood, using a model that allowed for different rates of forward (marine fi freshwater) and backward (freshwater fi marine) transitions (Fig. 5). Likelihood reconstructions indicated that the ancestral habitat type of Thalassiosirales was marine (Fig. 5) and provided greater resolution over parsimony about the number and directions of marine–freshwater transitions. Likelihood mapping favored a total of three independent colonizations of fresh waters in the lineages leading to T. gessneri, Clade B + T. pseudonana, and Clade C (Fig. 5). In addition, likelihood favored three independent re-colonizations of the marine habitat from freshwater ancestors, two of which were statistically significant and led to subsequent speciation events (Fig. 5; [Cy. striata + Cy. stylorum], [Cyclotella sp. L1844 + Cyclotella sp. MC01]).
+4. Discussion
+4.1. Phylogeny of Thalassiosirales
+The character and taxonomic sampling underlying these phylogenies greatly expanded upon previous investigations of Thalassiosirales phylogeny based on single genes or focused solely on relationships within Thalassiosiraceae or Stephanodiscaceae (Julius, 2000; Kaczmarska et al., 2006; Medlin et al., 1996), neither of which was monophyletic in our analyses (Figs. 2–4). Nearly every phylogenetic analysis of diatoms to date is based on a single nuclear rDNA marker (typically SSU or partial LSU rDNA—see Alverson and Theriot, 2005 for review). Together, these two nuclear rDNA markers provided resolution and support for deeper nodes in our trees but were less informative at lower levels (Fig. 3), whereas the chloroplast data— rarely used in diatom studies—were more useful in resolving lower, species-level relationships (Fig. 2). Topological conflicts between nuclear and chloroplast phylogenies were generally minor and unsupported in one or both of the competing trees. Analysis of the combined
+
+ A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210 205
+Fig. 4. Majority-rule consensus tree from Bayesian analysis of the total combined (nuclear + chloroplast) dataset. See Table 4 for model details. Bayesian posterior probability values greater than 0.95 are shown with an asterisk (*). Terminal taxa are identified as either marine (black) or freshwater (blue), and the history of marine–freshwater transitions was reconstructed with maximum parsimony (7 steps). Three clades (A–C) are highlighted to facilitate discussion in the text. Generic abbreviations are: Bacterosira (Ba.), Bellerochea (Be.), Cyclostephanos (Cs.), Cyclotella (Cy.), Detonula (D.), Discostella (Di.), Ditylum (Dt.), Helicotheca (H.), Lauderia (La.), Lithodesmium (Li.), Minidiscus (M.), Porosira (P.), Shionodiscus (Sh.), Skeletonema (Sk.), Stephanodiscus (S.), Thalassiosira (T.). Scanning electron micrographs of the cell exterior (left) and interior strutted process ultrastructure (right) are shown for seven exemplar taxa. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+ 206 A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210
+Fig. 5. Maximum likelihood (ML) character mapping and ancestral state reconstruction of habitat type in Thalassiosirales. This analysis used the combined Bayesian topology and branch lengths (Fig. 4), with several taxa on zero or near-zero length branches pruned from the tree. Pie graphs at internal nodes show the relative ML support for marine (white) and freshwater (black) ancestral states. Asterisks (*) indicate that the more strongly supported ancestral state is significantly better than the alternative state. Generic abbreviations are: Bacterosira (B.), Cyclostephanos (Cs.), Cyclotella (Cy.), Detonula (D.), Discostella (Di.), Lauderia (La.), Minidiscus (M.), Porosira (P.), Shionodiscus (Sh.), Skeletonema (Sk.), Stephanodiscus (S.), Thalassiosira (T.).
+
+A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210 207
+(nuclear + chloroplast) dataset resulted in a fully resolved and strongly supported phylogeny, with higherand lower-level relationships resembling the nuclear and chloroplast results, respectively (Fig. 4).
+Although these analyses included a representative crosssection of the total extant morphological diversity in Thalassiosirales (Hasle and Syvertsen, 1997; Julius, 2000; Theriot and Serieyssol, 1994), sampling was limited for some groups, such as Thalassiosira species with a tangentially undulated valve face (Hasle and Lange, 1989; Julius and Tanimura, 2001) or linear areolar array (Hasle and Fryxell, 1977). In addition, these analyses did not consider the many extinct genera in Thalassiosirales (e.g., Mesodictyon Theriot & Bradbury, Tertiarius H. Ha ̊kannson & G.C. Khursevich). Ongoing efforts to reconstruct Thalassiosirales phylogeny from both morphological and DNA sequence data can better accommodate this diversity, and in doing so, provide a more complete representation of the phylogeny. These more inclusive phylogenetic hypotheses will more adequately address the numerous taxonomic uncertainties documented in Thalassiosirales literature and underscored by our phylogenetic results. Our results, for example, offer little toward resolving the taxonomic uncertainty surrounding the large and vaguely defined genus, Thalassiosira. In contrast, the most important taxonomic implication from this study concerned the strongly supported phylogenetic position of Cy. distinguenda, the type species for Cyclotella, which now allows for clear delineation of the taxonomic scope and content of this genus (Fig. 4; Clade B). Finally, alternative topology tests strongly rejected the higher-level Thalassiosiraceae–Stephanodiscaceae classification, which was based heavily on habitat preference (Glezer and Makarova, 1986).
+4.2. The colonization of fresh waters
+Salinity is thought to be a significant barrier to the distribution of diatoms, though the exact nature of the salinity barrier is uncertain because the problem has not been approached, nor have existing hypotheses been tested, in a phylogenetic, hypothesis-driven framework. Rather, previous inferences were based on patterns inferred from a diatom classification system that is largely phenetic (Mann, 1999; Round et al., 1990; Round and Sims, 1980). The initial hypothesis of Round and Sims (1980) posited a seemingly unlikely evolutionary scenario in which all major diatom lineages would be naturally split along marine– freshwater lines (Fig. 1a), and whereas numerous examples of secondary ‘‘leakage’’ of freshwater species into the marine habitat were indisputable, the possibility of movement in the opposite direction was dismissed outright (Round and Sims, 1980). The concept of a uni-directional salinity barrier is implicit in the analogy that likens the colonization of fresh waters to Julius Caesar’s ‘‘crossing the Rubicon’’ (Mann, 1999). The analogy is a useful one because it makes several testable predictions about the nature of the salinity barrier in diatoms. Foremost, the analogy predicts
+that salinity is a uni-directional barrier, with the most probable colonization events proceeding from marine to fresh waters (Mann, 1999; Round and Sims, 1980). Second, marine–freshwater transitions are major, landmark events in the evolution of diatoms, and as such, successful colonization events should result in substantial species diversification. Third, as major historical events, successful transitions between marine and fresh waters are rare. Finally, colonization events are irreversible, meaning that descendants of a derived, freshwater ancestor are not expected to re-colonize the marine environment.
+Thalassiosirales is one of the predominant diatom lineages, in both cell abundance and species diversity, in the plankton of marine and fresh waters and so provides an excellent opportunity to test these hypotheses. With at least six transitions between marine and fresh waters, our results showed evidence for considerably more movement between the two habitats than expected (Fig. 5). One freshwater colonization involved T. gessneri, the sole representative of a presumably larger clade of marine, brackish, and freshwater Thalassiosira species with a tangentially undulated valve face (Hasle and Lange, 1989; Julius and Tanimura, 2001; Tanimura, 1996). We also found surprisingly strong evidence that the predominantly freshwater Stephanodiscaceae is polyphyletic, consisting of two distantly related lineages that represent independent colonizations of fresh waters (Fig. 5; Clades B and C). Together, these two lineages comprise the vast majority of freshwater diversity in Thalassiosirales. One Stephanodiscaceae lineage (Fig. 5; Clade B) includes obligate marine (e.g., Cy. stylorum), obligate freshwater (e.g., Cy. distinguenda), and ‘‘euryhaline’’ species with populations found in one or both, as well as intermediate habitats (e.g., Cy. meneghiniana) (Mann, 1999; Round and Sims, 1980). The second Stephanodiscaceae lineage (Fig. 5; Clade C) is more restricted to fresh waters, since Discostella, Cyclostephanos, Stephanodiscus, and the remaining Cyclotella have few if any representatives in brackish or marine waters. As implied by their classification, Stephanodiscaceae is traditionally regarded as monophyletic, based on the freshwater stratigraphic sequence (e.g., Krebs, 1990; Krebs et al., 1987) and several shared morphological characters (Theriot and Serieyssol, 1994), which our analyses suggest are convergent. The morphological characters are compelling and need to be formally coded and included in phylogenetic analyses, whereas the absence of Clade B species from the fossil record prior to the Miocene is negative evidence that does conflict directly with our findings.
+Colonizations of the marine habitat by freshwater taxa are thought to be rare (Mann, 1999), if not physiologically impossible (Round and Sims, 1980). Mann (1999) classified Cyclotella as ‘‘euryhaline’’ and predicted that it might represent one of the few exceptions to this rule. We found compelling evidence for three independent re-colonizations of the marine habitat, two of which involved Cyclotella (Fig. 5). Each of two marine re-colonizations within Cyclotella was statistically significant, and each led to
+
+208 A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210
+subsequent, albeit limited, species diversification (Fig. 5). Fully one-half of the habitat shifts uncovered by our analyses were freshwater-to-marine, thus providing the first evidence for a plausible, if not frequent, freshwater-to-marine colonization route by diatoms.
+These analyses did not include many of the Thalassiosira species known to have secondarily colonized fresh waters (Edlund et al., 2000), so although our results captured the two colonization events that led to the greatest species diversification (Figs. 2–5; Clades B and C), the actual number of ‘‘leakages’’ between the two habitats is probably much greater than the few we uncovered. We fully expect that these minor transitions far outnumber those that lead to substantial, if any, species diversification. In fact, these small-scale transitions probably account for the vast majority of marine–freshwater transitions in Thalassiosirales and across diatoms as a whole. Thus, these cases present an excellent opportunity for comparative studies aimed at understanding the physiological basis of salinity tolerance in diatoms. Our treatment of habitat as a binary variable, though qualitatively representative of their natural distribution, was arguably oversimplified. A comparative assessment of salinity optima and salinity tolerance might provide further insights into the nature of the salinity barrier in diatoms. For example, the physiological differences, as well as the underlying genetic basis for the differences, between euryhaline species and strictly marine or strictly freshwater species are unclear. Ease of culture and the availability of a well-supported phylogeny make Thalassiosirales an excellent system for pursuing these types of questions.
+These results uncovered substantially more marine– freshwater transitions than expected, particularly in our finding of two distinct freshwater lineages within Stephanodiscaceae. We also found compelling evidence for a freshwater-to-marine colonization route by diatoms. These findings therefore reject many of the predictions made by the Rubicon hypothesis. Nevertheless, marine and freshwater species were not distributed randomly across the phylogeny, which indicates that salinity does present a barrier to the spatial distribution of some diatoms and lends support for other aspects of the Rubicon hypothesis. Results of this study underscore that the pattern and sequence of habitat shifts in Thalassiosirales—inferred from a densely sampled species phylogeny—could not have been gleaned from any level of the classification system, which offers little, if anything, to evolutionary studies of diatoms. For example, phylogenetic analysis showed that one genus, Cyclotella, is polyphyletic and thus devoid of any biologically meaningful information. Dense taxon sampling of marine and freshwater species within Cyclotella revealed the strongest evidence for a freshwater-to-marine colonization pathway, which was found in just one of the three Cyclotella lineages (including Discostella, which was split from Cyclotella). This finding also illustrates that sparse and/or biased taxon sampling limits inferences, as in Kaczmarska et al. (2006), which included only one species
+of Cyclotella. Like salinity, pH constitutes a significant barrier to the distribution of freshwater diatoms, particularly freshwater pennates. A phylogenetic approach like the one taken here will provide the context necessary to understand the distribution of diatoms along pH gradients (Pither and Aarssen, 2005; Telford et al., 2006) and other important environmental variables.
+Acknowledgments
+We thank Greta Fryxell and Matt Julius for insights about Thalassiosirales taxonomy and phylogeny. We thank David Czarnecki, Mark Edlund, Matt Julius, Sung-Ho Kang, James Nienow, Jan Rines, Elizabeth Ruck, and many others for sharing collecting localities or directly providing water samples or cultures. This paper is dedicated to David Czarnecki, who, until his recent death, maintained the world’s largest culture collection of freshwater diatoms and who was of great help to us in establishing our own diatom culture collection. This research was supported by an NSF PEET Grant (DEB-0118883) to E.C.T. and R.K.J. and an NSF Dissertation Improvement Grant (DEB-0407815) to A.J.A. and E.C.T.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in the online version, at doi:10.1016/ j.ympev.2007.03.024.
+
+210 A.J. Alverson et al. / Molecular Phylogenetics and Evolution 45 (2007) 193–210

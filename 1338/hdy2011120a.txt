@@ -1,0 +1,287 @@
+  Heredity (2012) 108, 537–546
+& 2012 Macmillan Publishers Limited All rights reserved 0018-067X/12
+www.nature.com/hdy
+ORIGINAL ARTICLE
+Exploring neutral and adaptive processes in expanding populations of gilthead sea bream, Sparus aurata L., in the North-East Atlantic
+I Coscia1,4, E Vogiatzi2,3, G Kotoulas2, CS Tsigenopoulos2,5 and S Mariani1,5
+Recent studies in empirical population genetics have highlighted the importance of taking into account both neutral and adaptive genetic variation in characterizing microevolutionary dynamics. Here, we explore the genetic population structure and the footprints of selection in four populations of the warm-temperate coastal fish, the gilthead sea bream (Sparus aurata), whose recent northward expansion has been linked to climate change. Samples were collected at four Atlantic locations, including Spain, Portugal, France and the South of Ireland, and genetically assayed using a suite of species-specific markers, including 15 putatively neutral microsatellites and 23 expressed sequence tag-linked markers, as well as a portion of the mitochondrial DNA (mtDNA) control region. Two of the putatively neutral markers, Bld-10 and Ad-10, bore signatures of strong directional selection, particularly in the newly established Irish population, although the potential ‘surfing effect’ of rare alleles at the edge of the expansion front was also considered. Analyses after the removal of these loci suggest low but significant population structure likely affected by some degree of gene flow counteracting random genetic drift. No signal of historic divergence was detected at mtDNA. BLAST searches conducted with all 38 markers used failed to identify specific genomic regions associated to adaptive functions. However, the availability of genomic resources for this commercially valuable species is rapidly increasing, bringing us closer to the understanding of the interplay between selective and neutral evolutionary forces, shaping population divergence of an expanding species in a heterogeneous milieu.
+Heredity (2012) 108, 537–546; doi:10.1038/hdy.2011.120; published online 30 November 2011
+Keywords: natural selection; ESTs; microsatellites; mitochondrial DNA; population structure; marine fish
+  INTRODUCTION
+In the marine environment, climate warming chiefly acts through the increase in sea surface temperature, which has profound impacts on marine habitats, populations and communities (Minchin, 1993; Corten and vandeKamp, 1996; Easterling et al., 2000; O’Brien et al., 2000; Attrill and Power, 2002; Walther et al., 2002; Hawkins et al., 2003; Stillman, 2003; Genner et al., 2004; Blanchard et al., 2005; Perry et al., 2005). However, a more subtle, yet pivotal effect of environmental change is that exerted at the individual and genetic level: environmental variability is likely to cause or intensify directional selection on phenotypic traits that are important for fitness (Gienapp et al., 2008). Under environmental pressure, a species is expected to react not only through dispersal, but also through phenotypic plasticity or genetic adaptation (Visser and Both, 2005).
+Natural populations are constantly exposed to a dynamic balance between local selective forces and the homogenizing effect of gene flow. These contrasting mechanisms can produce significantly discordant signatures in different parts of the genome (Reed and Frankham, 2001; Ra ̈sa ̈nen and Hendry, 2008). Recent advances in the field of population genetics and genomics have made it possible to avail of methodologies designed to investigate both neutral and
+adaptive variation in a common framework (Bonin et al., 2006; Bouck and Vision, 2007; Nielsen et al., 2009b; Seeb et al., 2011) allowing a more thorough understanding of the mechanisms driving demographic and ecological divergence. Fish, in particular, are having a crucial role in advancing the field of marine population genomics (Nielsen et al., 2009a); this is largely due to their diversity, their ecological and life-history variation, and the considerable economic importance of many wide-ranging species, which provide countless opportunities for the assessment of demographic and adaptive responses to environmental changes over large scales. In fact, several recent studies of marine fish populations have provided indication of adaptive genetic divergence (Hemmer-Hansen et al., 2007; Larmuseau et al., 2009), often coupled with low or absent divergence at neutral markers (Gaggiotti et al., 2009; Nielsen et al., 2009b).
+The study of neutral and adaptive microevolutionary processes in a species that is undergoing distributional range shifts is relevant to fisheries management and, in general, fundamental to conservation biology. The gilthead sea bream Sparus aurata L. is one of the most high-profile marine cyclic migrants in European warm-temperate waters (Lasserre, 1974; Mariani et al., 2002; Tancioni et al., 2003; Mariani, 2006), representing one of the most sought-after commercial
+ 1School of Biology and Environmental Science, Science Centre West, University College Dublin, Dublin, Ireland; 2Hellenic Centre for Marine Research (HCMR), Institute of Marine Biology and Genetics (IMBG), Crete, Greece and 3Department of Molecular Biology and Genetics, Democritian University of Thrace, Alexandroupolis, Greece
+4Current address: Institute of Biological, Environmental and Rural Sciences (IBERS) Edward Llwyd Building, Aberystwyth University, Aberystwyth Ceredigion, SY23 3DA, UK. 5These authors contributed equally to this work.
+Correspondence: Dr S Mariani. Current address: School of Environment and Life Sciences, The University of Salford, Greater Manchester, M5 4WT, UK. E-mail: s.mariani@salford.ac.uk
+Received 20 July 2011; revised 17 October 2011; accepted 27 October 2011; published online 30 November 2011
+
+  538
+Neutral and adaptive processes in gilthead sea bream
+I Coscia et al
+Figure 1 Map showing the sampling locations. Inset refers to samples from Ireland: black area refers to the juveniles; grey area covers the area from which adults were caught by hook and line.
+coastal species and the largest contributor to Mediterranean finfish aquaculture (Barazi-Yeroulanos, 2010). In North-East Atlantic waters, this species is still considered a rare, highly prized angling trophy, as colder waters limit its distribution to the English Channel and the Celtic Sea (Whitehead et al., 1986); yet, recent capture records in England (Davis, 1988) and Ireland (IRE) (Fahy et al., 2005) have increased, leading to the hypothesis that a self-sustaining population may exist in this area, particularly off the coasts of Wexford and Cork (Fahy et al., 2005; Craig et al., 2008) (Figure 1).
+The few population genetic studies on gilthead sea bream have focused on the Mediterranean Sea (Funkenstein et al., 1990; Magoulas et al., 1995; Alarco ́ n et al., 2004; De Innocentiis et al., 2004; Rossi et al., 2006; Chaoui et al., 2009; Karaiskou et al., 2009), and have not addressed the genetics of adaptation. The aim of this study was to investigate for the first time neutral and adaptive genetic variation in a putatively ‘new’ S. aurata population at the northern edge of its distribution. We used a suite of 38 nuclear loci (23 expressed sequence tag-linked short sequence repeats (SSRs), ‘EST-SSRs’, and 15 putatively neutral microsatellites, simply ‘SSRs’) and the mitochondrial DNA (mtDNA) control region (CR), whose collective variation would allow testing neutral hypotheses on gene flow, random drift, effective population size, as well as exploring signatures of natural selection. We compared gilthead sea bream specimens from southern Irish coasts with samples belonging to stocks further south (that is, in the Bay of Biscay and west of the Iberian Peninsula). The results highlight the importance of both neutral and potentially adaptive processes in shaping population divergence in peripheral coastal populations.
+ MATERIALS AND METHODS
+Sampling, genotyping and sequencing
+Samples of gilthead sea bream were collected during a recent survey in 2007, by seine-netting in Wexford, South-Eastern Ireland (Craig et al., 2008), while adults were obtained from sea-anglers along an extensive stretch of the SouthEastern Irish coast. Additional samples were obtained from three locations along the North-Western European continental coast (Figure 1). A total of 151 specimens were collected in Cadiz (Spain), Aveiro (Portugal), Ile d’Oleron (France) and South-Eastern Ireland (Table 1). Details about sampling, tissue samples preservation and DNA extraction of the Spanish, Portuguese and French populations can be found in Alarco ́ n et al. (2004). In all cases, fin-clip samples were stored in absolute ethanol and DNA extracted using a salting-out procedure (Miller et al., 1988).
+We used a recently published linkage map for S. aurata (Franch et al., 2006; Sarropoulou et al., 2007) as a platform for the choice of markers and selected a suite of 38 markers: 23 EST-SSRs and 15 putatively neutral microsatellites (SSRs), which were multiplexed in six different reactions (Table 1, Supplementary Material). All the markers employed were from Franch et al. (2006) and Vogiatzi et al. (2011), apart from SauD182, SauE82 and SauI47 (Launey et al., 2003). PCR amplifications were carried out in a final volume of 10–12 ml containing: 20 ng of genomic DNA; 1􏰇reaction buffer (10mM Tris-HCl, 1mM MgCl2, 50mM KCl); 1U of Taq DNA Polymerase and dNTPs and Mg2+ according to conditions described in Supplementary Table S1, Supplementary Material. Amplification was performed in a Bio-Rad Thermocycler (Bio-Rad Laboratories, Inc., Hertfordshire, UK). PCR reaction conditions were 95 1C for 3 min, followed by 30 cycles of 45–60 s at 94 1C, 45–60 s at a specific annealing temperature, 45–60 s at 721C. A final extension step at 721C for 10min ended the reactions. Reverse primers were labelled with 6-FAM, NED, PET and VIC (Applied Biosystems, Carlsbad, CA, USA), ensuring that overlapping PCR products were labelled with different dyes. These were run—alongside a GS-500 LIZ size standard—on an ABI 3700 Genetic Analyzer capillary sequencer (Applied Biosystems) and alleles were scored using STRAND 2.3.48 (http://www.vgl.ucdavis.edu/informatics/ strand.php).
+A 504-bp long fragment at the 5¢ end of the CR was amplified using the primers tRNA-Pro-L and H16498 (Meyer et al., 1990). In total, 76 individuals were sequenced, 20 each for France (FRA), Portugal (POR) and Spain (SPA), and 16 for IRE. DNA amplification was carried out in a final volume of 25 ml containing 22 ml of MegaMix Blue (Microzone Ltd, Haywards Heath, UK), 1ml of each primer (final concentration 0.4 mM) and 25 ng ml–1 genomic DNA. PCR conditions were as follows: 941C for 5min, 35 cycles of 45s at 941C, 45s at 551C, 45s at 721C and a final extension step of 10 min at 72 1C. Purification of 20 ml of PCR product was performed adding 5 ml of Exo-SAP mix, prepared by mixing 1 U of Exonuclease I (USB, High Wycombe, UK) and 1U of Shrimp Alkaline Phosphatase (Roche Diagnostic Corporation, Indianapolis, IN, USA) in a final volume of 10 ml. The thermocycling conditions for the Exo-SAP purification were 15 min at 37 1C, followed by 15 min at 80 1C. Sequencing was carried out by Macrogen Inc. (Seoul, South Korea) Sequences were assembled in Sequencher 4.7 (GeneCodes, Ann Arbor, MI, USA) and manually aligned in MEGA 5 (Tamura et al., 2011).
+Analysis of population structure
+MICRO-CHECKER 2.2.3 (Van Oosterhout et al., 2004) was employed using default settings to check for the presence of null alleles, large allele drop-out and scoring errors. Estimates of genetic diversity were calculated separately for SSRs and EST-SSRs. Expected unbiased (He) (Nei, 1978) and observed (Ho) heterozygosities were calculated using the program GENALEX 6 (Peakall and Smouse, 2006).
+FSTAT 2.9.3 (Goudet, 1995) was employed to calculate allelic richness (AR), using the rarefaction method (El Mousadik and Petit, 1996), and FIS, to determine deviations from Hardy–Weinberg equilibrium. Overall and pairwise FST (y-statistics, (Weir and Cockerham, 1984)) and relative confidence intervals were calculated by 1000 bootstraps over loci using GENETIX 4.05 (Belkhir et al., 1996–2004).
+The software BOTTLENECK 1.2 (Cornuet and Luikart, 1996; Piry et al., 1999) was employed to test if the gene diversity of the studied populations bore the signature of a recent expansion after a population reduction using only putatively neutral markers. The program tests for an excess of heterozygosity
+ Heredity
+
+ Neutral and adaptive processes in gilthead sea bream
+I Coscia et al
+Table 1 Genetic diversity parameters calculated for each sample, for SSRs and EST-SSRs separately
+539
+  Location
+Cadiz, Spain Aveiro, Portugal
+Ile d’Oleron, France Southern Ireland
+ID N
+SPA 34 POR 50 FRA 40 IRE 27
+Age SSRs EST-SSRs
+He Ho NA AR FIS Ne^ He Ho NA AR FIS
+   Adult
+Adult
+Adult Juvenile and adult
+0.718 0.709 0.707 0.736 0.703 0.706 0.675 0.644
+7.87 6.83 9.13 7.29 7.73 6.72 7.93 7.04
+0.013 N 0.646 􏰀0.041 N 0.663 􏰀0.004 N 0.650
+0.048 40.3 0.634
+0.588 8.27 6.52 0.629 9.57 6.69 0.570 8.57 6.47 0.561 7.00 5.99
+0.091a 0.052a 0.125a 0.119a
+ Abbreviations: AR, allelic richness; EST, expressed sequence tag-linked; FDR, false discovery rate; FIS, coefficient of inbreeding; He, expected heterozygosity; Ho, observed heterozygosity; N, samples size; NA, mean number of alleles; Ne^, estimate of effective population size.
+aSignificant after FDR correction.
+(He4Heq), based on the assumption that, following a bottleneck, the number of alleles in a population (from which the heterozygosity expected at equilibrium Heq is inferred) will be reduced faster than expected heterozygosity, He (Cornuet and Luikart, 1996). The program was run with 5000 iterations assuming a two-phase mutation model, the proportion of mutations that follow the stepwise mutation model was set at 80% and the variance at 12 as in Barker et al. (2009). In each population, the significance of heterozygosity excess against the heterozygosity expected at equilibrium (Cornuet and Luikart, 1996) over all loci, was assessed with a Wilcoxon sign-rank test and the graphical test to detect shifts from the L-shaped distribution of allele frequencies expected at equilibrium (Luikart et al., 1998). The M-ratio between the number of alleles (k) and the overall range in allele size (r) (Garza and Williamson, 2001) was also employed to test if the samples underwent a recent reduction in population size. One of the effects of a bottleneck on genetic diversity is the loss of alleles; in general, this would reduce k, but only the loss of the largest alleles will reduce r. Thus, k is expected to decrease faster than r, meaning that M will be smaller in populations that have undergone a reduction compared with more stable ones (Garza and Williamson, 2001). We used the approach described in Faulks et al. (2010): M was calculated in ARLEQUIN 3.5 (modified GW index (Excoffier et al., 2005)), and values below 0.68 were considered as a sign of recent bottleneck (Garza and Williamson, 2001).
+In order to explore the presence of population sub-structuring within and between samples, the Bayesian assignment method implemented in STRUCTURE 2.3 (Pritchard et al., 2000; Falush et al., 2003) was also run using the default settings over five independent runs for each K (1–5) using 200 000 iterations and a burn-in period of 40 000.
+Finally, the effective population size (Ne) was estimated for each collection using the gametic disequilibrium method implemented in LDNe 3.1 (Waples and Do, 2008): the lowest allele frequency allowed was 0.02 as recommended by the authors. SPAGEDI 1.2 (Hardy and Vekemans, 2002) was used to estimate the kinship coefficient within the Irish population and test the hypothesis of nonrandom sampling; as suggested by Vekemans and Hardy (2004), the kinship coefficient Fij (Loiselle et al., 1995) was chosen as a pairwise estimator of genetic relatedness, as it is a relatively unbiased estimator with low sample sizes.
+Testing for selection
+A direct comparison of the levels of genetic divergence (as inferred from FST-based approaches) at putatively neutral and non-neutral markers was employed as an empirical test of selection (Jensen et al., 2008). Data were also analyzed after standardization of genetic differentiation, following Hedrick’s method (Hedrick, 2005): this approach is particularly suitable when comparing loci with different mutation rates, and is generally recommended when the causes of sub-structuring are unknown (Jost, 2008). The software RECODEDATA (Meirmans, 2006) was used to recode the data set so that each population had unique alleles, and thus estimating the maximum values of genetic differentiation, FST(max). The standardized values of genetic differentiation, F’ST, were then obtained by dividing each FST by the correspondent FST(max) (Hedrick, 2005).
+Outlier tests for identifying loci under possible selection were also carried out. These statistical approaches are sub-divided into those based on the levels of inter-population differentiation, and those based on diversity levels within populations (Storz, 2005). We applied three tests, the first two belonging
+to the former category. The first is an extension of the Bayesian simulationbased method described by Beaumont and Balding (2004) and implemented in the computer program BAYESCAN 1.0 (Foll and Gaggiotti, 2008). The software uses logistic regression to decompose FST into a b component (shared by all loci) and a locus-specific a component (shared by all the populations). Departure from neutrality at a given locus is assumed when the locus-specific component is necessary to explain the observed pattern of diversity (a significantly different from zero). If a40 there is indication of diversifying selection, if ao0 balancing selection is invoked. This leads to two alternative models: one that includes selection and a neutral one. Posterior probabilities associated to the two models across loci and populations are calculated. A Bayes Factor (BF), the ratio between the two probabilities, is estimated, which represents a scale of evidence in favor of one of the two models (Foll and Gaggiotti, 2008); a Log10(BF)42 is a ‘decisive’ evidence of selection under Jeffrey’s scale (Jeffreys, 1961), and was chosen for this study as a threshold. An advantage of this method is that it allows for different effective sizes and migration rates, hence favoring realistic ecological scenarios (Beaumont and Balding, 2004). BAYESCAN was run with the following settings: 10 pilot runs of 5000 iterations each, followed by 100 000 iterations. Furthermore, in order to reduce the false positive discovery rate caused by allele frequency correlation, the analysis was run across populations, including only eight randomly chosen individuals per population (Excoffier et al., 2009b; Nielsen et al., 2009b).
+The second approach, implemented in ARLEQUIN 3.5 (Excoffier and Lischer, 2010), overcomes possible false positives in the presence of strong hierarchical population structure (Excoffier et al., 2009b) by performing a hierarchical analysis of genetic differentiation. Sample populations were screened twice, first split into three groups based on FST analysis inferred by SSRs (see results: SPA and POR, not significantly different, are grouped together) and then not assuming any structure. This test is based on the FST-outlier method, originally described by Beaumont and Nichols (1996), which builds the expected neutral distribution of FST (across populations) as a function of He through coalescent simulations, to which the observed distribution of FST can be compared. The ‘outlier’ loci will show increased levels of population differentiation if they are under diversifying selection or linked to a locus that is (‘genetic hitch-hiking’). In both analyses, the program was run with default settings (100 demes per 10 groups), and 50000 permutations. Results corrected for false discovery rate (FDR) after Benjamini and Yekutieli (2001) and sequential Bonferroni correction (Rice 1989) are both reported as suggested by Narum (2006).
+The third method is an empirical approach called LnRH statistic, specifically designed for microsatellites. The method assumes that microsatellite loci linked to a gene of adaptive importance will show reduced levels of diversity within the population (Kauer et al., 2003). LnRH compares genetic diversity between two populations expressed as the natural logarithm (Ln) ratio of [(1/(1􏰀He))2􏰀1], inferred for each population. Under neutrality, this statistic has a normal distribution (Schlo ̈tterer, 2002; Kauer et al., 2003) and therefore following standardization (mean1⁄40, s.d.1⁄41) 99% of neutral loci are expected to have values between 􏰀2.58 and +2.58, between ±2.87 after false discovery rate correction (Benjamini and Yekutieli, 2001) and ±3.61 after Bonferroni correction (Rice, 1989). In the case of monomorphic loci, a single different allele was added in order to avoid He being zero (Vasemagi et al., 2005).
+ Heredity
+
+ 540
+Neutral and adaptive processes in gilthead sea bream
+I Coscia et al
+     MtDNA sequence analysis
+CR haplotype diversity (Hd) and nucleotide diversity (p) were calculated in DNASP (Rozas et al., 2003). A median-joining network was calculated in NETWORK 4.6 (Bandelt et al., 1999, Fluxus-Engineering, Sudbury, UK). ARLEQUIN 3.5 was employed to carry out the mismatch analysis and calculate pairwise FST among locations. Samples were tested for both sudden demographic and spatial expansion (Rogers and Harpending, 1992) using tests of goodness-of-fit, generated using parametric bootstrapping with 1000 replicates. Time since expansion was calculated from the mismatch distribution parameter t, using the formula t1⁄42ut, assuming a divergence rate of 0.11/site/million years (Bargelloni et al., 2003) and a generation time of 2.4 years (www.fishbase.org). The hypothesis of expansion was further investigated by carrying out Tajima’s D and Fu’s Fs tests of neutrality as implemented in ARLEQUIN 3.5, as significant negative values are expected in populations that underwent a sudden expansion (Tajima, 1989a, b; Fu, 1997).
+RESULTS
+Genetic variation
+No evidence of null alleles, large allele drop-out or scoring errors was found across populations. FIS values calculated from SSRs indicated no significant departure from Hardy–Weinberg equilibrium, but a significant departure was detected at EST-SSRs (FIS1⁄40.085; 99% confidence interval (CI): 0.022–0.148). Expected heterozygosity He was on average slightly lower for EST-SSRs than for SSRs. In both cases, the lowest values were recorded in IRE (0.675 for SSRs and 0.634 for EST-SSRs), whereas the highest ones corresponded to SPA for SSRs (0.718) and POR for EST-SSRs (0.663). POR registered the highest number of alleles and allelic richness at both SSRs and EST-SSRs. Full details on genetic variability measures are reported in Table 1.
+Overall, FST was higher for SSRs (0.068; 95% CI: 0.012–0.14) than for EST-SSRs (0.016; 95% CI: 0.005–0.033). The same pattern, but with stronger divergence level, was found using the standardized measure F’ST (Table 2). The two sets of markers showed discordant patterns of structuring. SSR markers highlighted a stark separation between IRE and all other populations (FRA, POR and SPA) (Figure 2a), with values up to an order of magnitude larger than the others, ranging between 0.141 and 0.156 (Table 2). EST-SSR loci instead showed a lower, yet significant, level of population structuring and a more even pattern of structuring, with FRA being more divergent than IRE (Figure 2b). STRUCTURE found that k1⁄42 was the most likely groupings among samples (Supplementary Figure S2, Supplementary Material).
+The Wilcoxon sign-rank test implemented in BOTTLENECK 1.2 found that none of the populations examined went through a recent bottleneck event, under the assumed mutation model (PFRA1⁄40.68; PPOR1⁄40.99; PSPA1⁄40.78 and PIRE1⁄40.98), and no shifts from the L-shaped distribution were detected. The M ratio values were all below the threshold indicating signature of bottleneck (MFRA1⁄40.54, MPOR1⁄40.64, MSPA1⁄40.57and MIRE1⁄40.55).
+The only population with a finite and considerably small effective population size was IRE (Ne^1⁄440.3, 95% CI: 28.5–63.7) (Table 1).
+Neutrality tests
+Contrary to expectations, two SSRs were consistently identified as outliers (Bld-10 and Ad-10) by BAYESCAN, thus deviating from the neutrality hypothesis (Log10(BF)42). No locus was identified as being under balancing selection.
+The analysis performed in ARLEQUIN 3.5 consistently identified the same two SSR loci (Ad-10 and Bld-10) as candidates for divergent selection, after Bonferroni correction. Furthermore, the test indicated that three other loci could be candidates for balancing selection (Po0.01): two EST-SSRs, cDN03P0005K21 and cDN11P0002G23 (P1⁄40.009), and one more SSR, Ed02 (P1⁄40.006).
+   Heredity
+Table 2 FST (lower diagonal) and F’ST (upper) pairwise comparisons among locations and relative 95% confidence intervals calculated after 1000 bootstrap replicates over loci
+SPA
+0.014 (􏰀0.004 to 0.04)
+0.025
+0.47
+0.02
+0.071
+0.033
+0.0212 (􏰀0.08 to 0.06)
+0.0359
+0.054
+POR
+0.004 (􏰀0.001 to 0.013) 0.007 (0.0005 to 0.017) 0.143 (0.013 to 0.293)
+0.007
+0.005 (􏰀0.002 to 0.014)
+FRA
+0.012
+0.5
+0.017
+0.07
+0.083
+0.0129
+IRE
+0.141
+0.156
+0.0098
+0.027
+0.0167
+0.009
+0.013
+SPA
+POR
+FRA
+IRE
+SPA
+POR
+FRA
+IRE
+SPA
+POR
+FRA
+IRE
+(0.001 to 0.02)
+(0.058 to 1.04)
+(0.002 to 0.04)
+(0.028 to 0.191)
+(0.002 to 0.017)
+(0.004 to 0.022)
+(0.079 to 0.281)
+(0.018 to 0.323)
+(0.001 to 0.02)
+(0.01 to 0.068)
+(0.003 to 0.03)
+(0.003 to 0.015)
+(0.0008 to 0.02)
+FST and F’ST (‘all SSRs’)
+FST and F’ST (‘EST-SSRs’)
+FST and F’ST (‘neutral SSRs’)
+(0.001 to 0.06) 0.04
+(0.043 to 0.97) 0.46
+(0.004 to 0.046)
+(0.014 to 0.142) 0.05
+(0.003 to 0.06) 0.03
+(0.005 to 0.04) 0.054 (0.01 to 0.07)
+(0.007 to 0.08) 0.0385 (0.005 to 0.06) 0.0687 (0.008 to 0.12)
+(0.01 to 0.06)
+(0.025 to 0.917)
+(0.0016 to 0.016) 0.025 (0.005 to 0.05) 0.0119 (0.001 to 0.022)
+(0.005 to 0.116)
+(0.003 to 0.57)
+Abbreviations: EST, expressed sequence tag-linked; FRA, France; IRE, Ireland; POR, Portugal; SPA, Spain. Significant values are in bold.
+
+ Neutral and adaptive processes in gilthead sea bream
+I Coscia et al
+a-0.6-0.4-0.2 0 0.2 0.4 0.6 0.8 1 1.2 b -0.6-0.4-0.2 0 0.2 0.4 0.6 0.8 1 1.2 c -0.3 -0.2 -0.1 0 0.1 0.2 0.3 0.4 0.5
+541
+ 0.05 0.04 0.03 0.02 0.01
+FRA
+0.4
+0.3
+0.2
+0.1
+IRE
+0.3 0.2 0.1
+FRA POR
+IRE
+   SPA
+POR
+-0.01 -0.02 -0.03 -0.04 -0.05
+after performing the neutrality tests (c).
+5.16 2.58
+-2.58 -5.16
+5.16 2.58
+-2.58 -5.16
+5.16 2.58
+-2.58 -5.16
+-0.1 -0.2 -0.3 -0.4
+France/Portugal
+POR
+SPA
+-0.1
+-0.2
+FRA
+IRE
+000
+EST-SSRs-FST
+Figure 2 Multi-dimensional scaling plots based on the matrices of FST pairwise comparisons calculated from SSRs (a), EST-SSRs (b) and ‘neutral’ SSRs,
+SSRs-FST
+-0.3
+France/Ireland
+Portugal/Ireland
+cDN08P0004J06
+Spain/Ireland
+‘neutral, SSRs-FST
+5.16
+SPA
+  2.58 00
+Ad-10
+Ad-10
+Ad-10
+cDN03P0005K21
+France/Spain
+-2.58 -5.16
+5.16
+  2.58 00
+Portugal/Spain
+-2.58 -5.16
+5.16
+  2.58 00
+cDN08P0004J06
+C77b
+-2.58 -5.16
+Figure 3 Plots of standardized LnRH values calculated for each locus for each population pair. White bullets are the EST-SSRs and the black ones are the SSRs. The lines at ±2.58 represent the 99% confidence interval; the grey area represents the false discovery rate (FDR) correction, whereas the dashed lines enclose the significance area after Bonferroni correction.
+In the LnRH test (Figure 3), after Bonferroni correction, only Ad-10 showed significant deviation from neutral expectation in all comparisons involving IRE, whereas the EST-SSR cDN08P0004J06 shifted from neutrality in the comparisons of POR–SPA (after false discovery rate correction) and POR–IRE (Po0.01). Between POR and FRA, this locus also showed a similar trend (Po0.05). In addition, the EST-SSR cDN03P0005K21 in POR–FRA and the SSR C77b in POR–SPA fell outside the 99% CI limits.
+On the basis of the results, the SSR loci Ad-10 and Bld-10 showed consistent departure from neutrality expectations in at least two out of three methods and were thus deemed to be possibly influenced by directional selection.
+BLASTX in the NCBI protein database (http://blast.ncbi.nlm.nih. gov) was used to query for similarity of all locus sequences used, with
+a cut-off E-value of o10􏰀06 and a bit score 440. Overall, only nine EST-SSRs and two SSRs showed significant similarity with predicted proteins from other organisms (Supplementary Table S2, Supplementary Material); from the loci identified above as outliers, only locus cDN08P0004J06 (an EST-SSR in the LnRH analysis) had a known annotation and all others had no specific function and were not similar to any gene.
+Genetic variation at ‘neutral’ loci
+In order to contrast the truly neutral nature of SSRs against EST-linked markers, analyses for genetic differentiation were repeated using the 13 remaining loci, after removing the two outliers (Ad-10 and Bld-10). Most general variability measures did not change significantly: FIS values confirmed no significant departure from
+ Heredity
+
+  542
+Neutral and adaptive processes in gilthead sea bream
+I Coscia et al
+Hardy–Weinberg equilibrium and estimates of expected and observed heterozygosity (He, Ho), number of alleles (NA) and allelic richness (AR), were on average higher than those calculated previously at 15 SSRs. Details of recalculated indices are reported in Supplementary Table S3 of the Supplementary Material.
+Overall FST based on 13 SSRs decreased virtually by one order of magnitude, down to 0.011 (95% CI: 0.0033–0.014). In the pairwise comparisons involving IRE, FST values decreased remarkably, erasing the previously detected stark separation of this population from the rest. SPA was the only sample that did not significantly diverge from the others (see Table 2 and Figure 2c). No significant population structure was detected repeating the clustering analysis with STRUCTURE (see above for settings used) solely on ‘neutral’ SSRs (Figure 2, Supplementary Information).
+Estimates of effective population size remained essentially unchanged, with IRE still yielding the only finite (and small) value (Ne^1⁄432.6; 95% CI: 24–49.2). BOTTLENECK results were instead significantly affected by the removal of the two loci: all samples this time showed significant heterozygosity excess (PFRA1⁄40.0008; PPOR1⁄40.0008; PSPA1⁄40.005 and PIRE1⁄40.02), indicating that all the populations examined may have undergone a recent expansion following a population reduction. The graphical method instead detected a mode-shift in the distribution of allele frequencies only for FRA. Similarly, the M-ratio recalculated at neutral loci increased (MFRA1⁄40.67, MPOR1⁄40.77, MSPA1⁄40.71 and MIRE1⁄40.65), indicating that only IRE and FRA might have undergone a bottleneck event.
+The direct comparison between pairwise FST values revealed that major discrepancies between SSRs (before removing the outlier loci) and EST-SSRs are present in all comparisons involving IRE (Supplementary Figure S1a and S1b) and mostly disappear when FST is recalculated after removing the two outlying loci (Supplementary Figures S1c and S1d). This result not only confirms that Bld-10 and Ad-10 are responsible for the signal of divergent selection detected in the data set, but also that the Irish sample is responsible for that signal.
+The kinship coefficients Fij (Loiselle et al., 1995) confirmed that the sampled populations constituted a random sample and hence results obtained are not a consequence of a sampling bias (FijFRA1⁄40.003, FijPOR1⁄40.000, FijSPA1⁄40.006 and FijIRE1⁄40.01).
+Mitochondrial DNA
+The final length of the mtDNA fragment analyzed after alignment was 494 bp. The analysis of the 76 sequences across four Atlantic locations resulted in overall haplotype diversity (Hd) and nucleotide diversity (p) of 0.7196 and 0.0022, respectively. When calculated for each population, the highest values of Hd (0.8) and p (0.0026) were recorded for IRE. The lowest ones were instead recorded for SPA (Hd1⁄40.647 and p1⁄40.00176). The network revealed that the Atlantic populations of gilthead sea bream are grouped in one single star-like lineage (Figure 4). A total of 15 haplotypes was found (GenBank accession numbers JN801239–JN801253), most of which are represented by a low number of individuals. Two of them were instead found at high frequencies throughout the four locations, respectively in 47.3% and 23.7% of the samples.
+On the basis of the FST pairwise comparisons among locations (Table 3), SPA was the only population significantly different (Po0.05).
+Given the above results, mismatch distribution analysis was carried out on the totality of samples. It confirmed that the sampled Atlantic gilthead sea bream conformed to both the sudden demographic and spatial expansion model (Pdem1⁄40.179, Pspao0.097). The values of t inferred from the two models of expansion were equivalent
+ Figure 4 Median-joining network of haplotypes detected in Atlantic populations of S. aurata.
+Table 3 Diversity indices and UST values inferred from mitochondrial DNA
+   N
+SPA 20 POR 20 FRA 20 IRE 16
+Diversity indices n Hd
+p
+FST
+SPA POR FRA IRE
+ 8 0.647 4 0.668 7 0.742 5 0.8
+0.00176 —
+0.00181 0.118* —
+0.0024 0.087* 􏰀0.02 —
+0.0026 0.091* 0.021 􏰀0.02 —
+ Abbreviations: FRA, France; IRE, Ireland; N, number of individual sequenced; n, number of haplotypes in each population; Hd, haplotype diversity; POR, Portugal; SPA, Spain; p, nucleotide diversity.
+Statistically significant FST values (*Po0.05) are in bold.
+(tdem1⁄41.201, 99% CI: 0.67–1.947; tspa1⁄41.2, 99% CI: 0.359–1.780) suggesting that the Atlantic gilthead started expanding both demographically and spatially about 22000 years ago (95% CI: 14 800–44 800).
+Tajima’s D and Fu’s Fs were both negative and significant (D1⁄4􏰀1.525, P1⁄40.039; Fs1⁄4􏰀10.81, Po0.00) further confirming the previous findings.
+DISCUSSION
+It is increasingly apparent that climatic changes cause shifts in marine communities and populations (Perry et al., 2005; Brander, 2007; Brierley and Kingsford, 2009; Johnson and Welch, 2010). These not only include physical movements and changes in distributions, but also changes in functional genetic traits, the magnitude of which is hitherto largely unexplored (Visser and Both, 2005). Adaptation to new habitats at the edges of a species’ distribution has a crucial role in the evolution of species expansion (Kawecki, 2008); however, selection acts concurrently with neutral forces (Bridle and Vines, 2007). Here, we provide insight into the microevolutionary processes that underlie
+ Heredity
+
+ the establishment of marginal populations and highlight the powers and pitfalls of currently available markers for population genetic analysis.
+Neutral processes
+When screened at 15 putatively neutral miscrosatellites, gilthead sea bream appeared to have highly structured populations, with IRE extremely separated from the southern stocks. However, this stark distinctiveness was mainly driven by two loci, SSRs Ad-10 and Bld-10, which appeared to have atypical levels of differentiation based on outlier detection tests. After the removal of these two outliers, results based on 13 neutral microsatellites showed a lower, (but still significant) genetic structuring (overall FST1⁄40.0086), with SPA showing no differentiation, and IRE and FRA being the most differentiated samples (Table 2; Figure 2c). These values are closer to those previously described using four microsatellites (De Innocentiis et al., 2004) for Mediterranean and one Atlantic populations (FST1⁄40.010), but considerably lower than those in Alarco ́ n et al. (2004), who found overall FST levels above 0.03, although only using three loci.
+Our results, combined with recent trends in distributional data and life-history traits of this species, suggest the existence of some connectivity among some of the Atlantic populations. The extent of movements of adult S. aurata is poorly understood (Sola et al., 2007), but the long-lived pelagic larval stage (up to 50 days at 17–18 1C) is likely to contribute to migrant exchange among populations. Estimates of effective population size recorded at FRA, POR and SPA suggest the existence of large breeding populations, which contrasts with IRE, for which Ne^ was finite and very small (32.6). Reduced effective population size can affect population structure by increasing the speed of random genetic drift, although very strong signals of genetic drift are typically rare in marine fish (Chopelet et al., 2009). Given the low, yet significant, FST level detected, it would seem that genetic drift in the Irish population is nearly balanced out by significant immigration rate from southern locations (Davis, 1988; Fahy et al., 2005); otherwise, with Neo100, FST values greater than 0.01 would build up after a couple of generations (Hedrick, 2000).
+Genetic drift can also be intensified by bottleneck events. Three tests were employed to verify this hypothesis, the Wilcoxon sign-rank test (Cornuet and Luikart, 1996), the graphical method described in Luikart et al. (1998) and the M-ratio (Garza and Williamson, 2001). These three methods employed together represent a powerful toolkit to detect reduction in population sizes (Garza and Williamson, 2001). The first method can detect bottlenecks that have occurred within the last 4Ne–2Ne generations, depending on several factors, including mutation rate and the severity of the event (Piry et al., 1999). All four populations screened here showed significant heterozygosity excess suggesting a bottleneck event during the time frame described above (the last century for IRE, some thousands of years ago for the other three populations). However, this method is susceptible to a high false positive discovery rate when dealing with populations that are subject to immigration (which is likely to be the case in Atlantic S. aurata) or population sub-structuring (Piry et al., 1999). Comparing the Wilcoxon sign-rank test with the graphical method described by Luikart et al. (1998), the picture obtained is slightly different: only FRA appears to have allele frequencies shifted from the expected L-shape (typical of populations at equilibrium). The latter test is unlikely to give false positives when 30 or more individuals per populations are sampled, and might fail in detecting a bottleneck only when it is not recent enough (Luikart et al., 1998). The M ratio is thought to retain a memory of past reductions for longer than the Cornuet and Luikart’s (1996) method, hence the two methods may
+Neutral and adaptive processes in gilthead sea bream
+I Coscia et al
+deliver slightly different results (Barker et al., 2009), as in this study. In principle, it would seem unlikely that all populations of gilthead sea bream, and especially the well-established southern stocks in SPA and POR, have all undergone bottlenecks; however, some signal of expansion could still correspond to events that started thousands of years ago (as corroborated by mtDNA data). Overall, considering also the results from the M-ratio analysis, robust evidence for relatively recent population expansion exists only for IRE and FRA.
+Mitochondrial DNA results indicate that the demographic processes observed in these populations are relatively recent, as all fish belong to the same phylogeographic unit, characterized by a star-burst pattern (Figure 4). The absence of unique Irish haplotypes, for example, confirms that the most northern population of gilthead is of relatively recent origin, and the slightly higher haplotype and nucleotide diversity here could reflect the signatures of several ‘waves’ of colonizers from several southern locations in recent times. Higher frequency of rare, private haplotypes in SPA results in this population being significantly divergent from the other three, which is in contrast with microsatellite data (Table 2, Figure 2). Such discrepancy cannot be explained by traditionally invoked mechanisms of sex-biased dispersal, as this species is a sequential hermaphrodite, with each individual first functioning as a male and later in life as a female. Thus, discrepancies between mtDNA and microsatellites are likely to depend on the different timescales probed by the two sets of markers (Sala-Bozano et al., 2009). Although microsatellite differentiation between the more peripheral (for example, IRE, FRA) populations likely reflects relatively recent demographic processes, the upper part of the network in Figure 4—predominantly represented by the more northern locations—could be the trace of the northward expansion of contingents that originally ‘surfed’ toward newly available peripheral habitats at the end of the last glaciations.
+Seeking footprints of selection
+As a result of the statistical constraints they present, results from outlier tests must always be interpreted with caution. One of the most critical limits is the deviation from the assumed demographic models (Excoffier et al., 2009b). Applying multiple statistical approaches with different assumptions can overcome this statistical conundrum (Vasemagi et al., 2005; Makinen et al., 2008). In particular, the use of BAYESCAN and the geographical hierarchical structure model implemented in ARLEQUIN 3.5 should compensate for asymmetrical gene flow and presence of sub-structuring among populations. ARLEQUIN was also tested without employing the hierarchical structure option, thus in effect equalling the method originally described by Beaumont and Nichols (1996), delivering the same results. Two of the putatively neutral SSRs (Ad-10 and Bld-10) were potentially influenced by directional selection. The analysis of these two loci separately yields a pattern of extreme divergence between IRE and all other populations, which is not only different from what obtained with genomic microsatellites, but also bears no similarity with EST-based results.
+Another potential cause for the strong selection signal detected at these two loci is the phenomenon of the so-called ‘surfing mutations’. Among the several genetic consequences of range expansion described in Excoffier et al. (2009a), the surfing of rare variants on the front of the expansion wave can mimic divergent selection, generating strong FST values only at few loci (Travis et al., 2007, 2010; Excoffier and Ray, 2008; Hallatschek and Nelson, 2008). BLAST results failed to provide any tangible evidence of functional genes associated with Ad-10 and/or Bld-10. Interestingly, none of the loci so far mapped onto the same linkage groups as these two markers (Tsigenopoulos et al., in preparation) shows evidence of selection, which points out the need of
+543
+  Heredity
+
+  544
+Neutral and adaptive processes in gilthead sea bream
+I Coscia et al
+further, more intense genome scan and/or mapping efforts to identify ‘genes under selection’ close to these genomic regions (Loukovitis et al., 2011). However, genomic resources in S. aurata are still relatively limited, and without further investigation of both hypotheses it is premature to lean too heavily on either interpretation.
+None of the EST-SSRs gave a strong significant signal of neither balancing nor divergent selection. cDN08P0004J06 was identified as an outlier only under the ‘very strong’ criterion of Jeffreys’ scale of evidence (Jeffreys, 1961) and again in the LnRH comparisons involving POR, while cDN03P0005K21 shifted from neutrality (falling outside the 99% CI) in the LnRH comparisons between POR/FRA and POR/SPA. Thus, our operational framework does not support their status as outliers. Yet, the pattern of differentiation detected at EST-linked markers still shows some interesting aspects: FST values were on average higher than those inferred from SSRs in the comparisons involving FRA, indicating that divergent selection may be acting to some extent on expressed-linked markers in this part of Europe.
+It has been argued already how selection may shape population structure even in a context of high gene flow (Nielsen et al., 2009b). Thus, further investigation on the patterns of adult and larval dispersal along the North-East Atlantic coast in relation to the observed variation at adaptive vs neutral markers, could be very informative in resolving the mechanisms involved in the northward expansion of this species. Increased sampling from SPA and FRA, detailed data on surface ocean currents intersecting this zone and the reproductive biology and life cycle of this species in the North Atlantic, will be required to fully address this question.
+In conclusion, the task of teasing apart neutral from adaptive markers is destined to become a routine procedure in empirical population genetic studies. Although recent meta-analyses show that microsatellite data available in the literature largely conform to neutral expectations (McCusker and Bentzen, 2010), the sheer amount of genomic and post-genomic resources that will be generated in the forthcoming years warrant a very cautious approach. The risk of misinterpretation is high and its impact on weighty conservation and management issues potentially dramatic.
+DATA ARCHIVING
+Data have been deposited at Dryad: doi:10.5061/dryad. n722g4d3.
+CONFLICT OF INTEREST
+The authors declare no conflict of interest.
+ACKNOWLEDGEMENTS
+We thank Willie Roche, Gareth Craig and many sea anglers, who contributed with sampling provisions. We are indebted to Allan McDevitt, Byron Weckworth and four anonymous reviewers for providing critical comments on paper drafts. The project was sponsored by the Irish Research Council for Science, Engineering and Technology (IRCSET), through a doctoral ‘EMBARK’ award to IC and SM. Additional financial support was also provided by the Marine Institute Travelling and Networking initiative and an Excellence Grant to the IMBG (Service Plan 2006–2008) from the Hellenic General Secretariat for Research and Technology (GSRT).
+Heredity

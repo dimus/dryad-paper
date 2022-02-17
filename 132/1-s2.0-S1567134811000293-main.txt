@@ -1,0 +1,318 @@
+ARTICLE INFO
+Article history:
+Received 16 June 2010
+Received in revised form 4 February 2011 Accepted 7 February 2011
+Available online 13 February 2011
+Keywords:
+Stomoxys flies Phylogenetic relationship Molecular dating
+ABSTRACT
+The genus Stomoxys Geoffroy (Diptera; Muscidae) contains species of parasitic flies that are of medical and economic importance. We conducted a phylogenetic analysis including 10 representative species of the genus including multiple exemplars, together with the closely related genera Prostomoxys Zumpt, Haematobosca Bezzi, and Haematobia Lepeletier & Serville. Phylogenetic relationships were inferred using maximum likelihood and Bayesian methods from DNA fragments from the cytochrome c oxidase subunit I (COI, 753 bp) and cytochrome b (CytB, 587 bp) mitochondrial genes, and the nuclear ribosomal internal transcribed spacer 2 (ITS2, 426 bp). The combination of mitochondrial and nuclear data strongly supports the paraphyly of the genus Stomoxys because of the inclusion of Prostomoxys saegerae Zumpt. This unexpected result suggests that Prostomoxys should be renamed into Stomoxys. Also, the deep molecular divergence observed between the subspecies Stomoxys niger niger Macquart and S. niger bilineatus Gru ̈nbreg led us to propose that they should rather be considered as distinct species, in agreement with ecological data. Bayesian phylogenetic analyses support three distinct lineages within the genus Stomoxys with a strong biogeographical component. The first lineage consists solely of the divergent Asian species S. indicus Picard which appears as the sister-group to all remaining Stomoxys species. The second clade groups the strictly African species Stomoxys inornatus Gru ̈nbreg, Stomoxys transvittatus Villeneuve, Stomoxys omega Newstead, and Stomoxys pallidus Roubaud. Finally, the third clade includes both African occurring and more widespread species such as the livestock pest Stomoxys calcitrans Linnaeus. Divergence time estimates indicate that the genus Stomoxys originated in the late Oligocene around 30 million years ago, with the major lineages diversifying in the Early Miocene between 20 and 15 million years ago at a time when temperate forests developed in the Northern Hemisphere.
+Infection, Genetics and Evolution 11 (2011) 663–670
+    Contents lists available at ScienceDirect Infection, Genetics and Evolution
+journal homepage: www.elsevier.com/locate/meegid
+ Phylogenetic analyses of mitochondrial and nuclear data in haematophagous flies support the paraphyly of the genus Stomoxys (Diptera: Muscidae)
+Najla Dsouli a,*, Fre ́ de ́ ric Delsuc b, Johan Michaux c, Eric De Stordeur a, Arnaud Couloux d, Michel Veuille e, Ge ́ rard Duvallet a
+a Centre d’Ecologie fonctionnelle et e ́volutive UMR 5175 CEFE, Universite ́ Montpellier 3, Route de Mende, 34199 Montpellier Cedex 5, France b Institut des Sciences de l’Evolution, UMR 5554-CNRS, Universite ́ Montpellier 2, Montpellier, France
+c Centre de Biologie et de Gestion des Populations, Montpellier, France
+d Centre National de Se ́quenc ̧age, Evry Cedex, France
+e Biologie Inte ́grative des Populations, Muse ́um National d’Histoire Naturelle, Paris, France
+      1. Introduction
+Stomoxys flies are principally haematophagous, and are associated with livestock and wildlife throughout the world. The most studied species, Stomoxys calcitrans, is an economically important pest of cattle and several studies have attempted to estimate its impact on cattle production (Miller et al., 1973; Campbell et al., 1977, 2001). These flies represent a serious nuisance not only because of their painful bites and blood predation, but also because they are involved in the mechanical transmission of several pathogens, such as the Capripoxvirus
+* Corresponding author. Tel.: +33 0467142315. E-mail address: dsouli2005@yahoo.fr (N. Dsouli).
+1567-1348/$ – see front matter ß 2011 Elsevier B.V. All rights reserved. doi:10.1016/j.meegid.2011.02.004
+ß 2011 Elsevier B.V. All rights reserved.
+causing a cattle disease (Lumpy skin disease), Anaplasma marginale the causative agent of severe bovine anaplosmosis, and Dermatophilus congolensis the causative agent of dermotophilosis (Zumpt, 1973; D’Amico et al., 1996; Foil and Gorham, 2000).
+The genus Stomoxys belongs to the tribe Stomoxyini in the subfamily Muscinae (De Carvalho, 1989; Couri and De Carvalho, 2003). This subfamily is part of the large family Muscidae comprising about 4500 described species classified in 180 genera (De Carvalho et al., 2005). Within Muscidae, phylogenetic analyses have been conducted at several taxonomic levels to assess the relationships among constitutive species (Couri and Pont, 2000; Couri and De Carvalho, 2003; Schuhli and De Carvalho, 2005; De Carvalho and Pont, 2006; Schuhli et al., 2007). Recently, Nihei and De Carvalho (2007) carried out a cladistic analysis to assess the monophyly of the Muscini tribe. However, since the monograph of
+ 
+664 N. Dsouli et al. / Infection, Genetics and Evolution 11 (2011) 663–670
+Table 1
+Stomoxys species distributions as mentioned by Zumpt (1973).
+the African continent, four on the Asian continent, and one species, Stomoxys sitiens Rondani, has been reported in both Africa and Asia (Zumpt, 1973) (Table 1).
+In this study, we address the phylogenetic relationships of the Stomoxys genus using mitochondrial (COI, CytB) and nuclear ribosomal (ITS2) nucleotide sequences. Mitochondrial DNA (mtDNA) has been widely used in systematic and many universal PCR primers are available for genes like COI and CytB (Avise, 2004). The ITS2 region is easy to amplify and have been used in previous phylogenetic studies of Diptera (Hwang, 2007; Thanwisai et al., 2006). This work explores congruence and information content within the different molecular datasets analysed using probabilistic methods of phylogenetic reconstruction. Phylogenetic results are discussed and taken into consideration to propose a taxonomic revision of the group. Also, we propose estimations of divergence times for major clades within Stomoxyini based on a relaxed molecular clock approach. This allowed discussing the evolutionary history of Stomoxys species in its biogeographical context.
+2. Materials and methods
+2.1. Taxon sampling
+The material used in this study belongs to the Laboratoire de Zooge ́ ographie of the Universite ́ Paul-Vale ́ ry in Montpellier (France), and to the Department of Entomology of the Natural History Museum in London (United-Kingdom). For Stomoxys we sampled 11 representative species or subspecies. As outgroups, we incorporated Prostomoxys saegerae, the unique representative species of Prostomoxys, and Haematobosca croceicornis, a newly described species from Gabon (Pont and Dsouli, 2008). For this study, we also included sequences of Haematobia irritans and M. domestica (Muscidae), as well as species belonging to the more distantly related Drosophilidae, Syrphidae and Dolichopodidae families in order to provide calibration points for molecular dating analyses (Wiegmann et al., 2003). Geographical origins of studied specimens and sequences accession numbers are listed in Table 2. Specimens are available upon request from the corresponding
+ Species
+S. bengalensis Picard
+S. boueti Roubaud
+S. calcitrans (Linnaeus) S. indicus Picard
+S. inornatus Gru ̈nberg S. luteolus Villeneuve S. niger Macquart
+S. niger niger
+S. niger bilineatus
+S. ochrosoma Speiser
+S. omega Newstead S. pallidus Roubaud S. pullus Austen
+S. sitiens Rondani
+S. stigma Van Emden
+S. taeniatus Bigot
+S. transvittatus Villeneuve S. uruma Shinonaga & Kano S. varipes Bezzi
+S. xanthomelas Roubaud
+Distribution
+India to Java
+Benin (ex-Dahomey), Congo Cosmopolitan
+Oriental region and neighbouring Paleartic territories
+Tropical Africa
+Central and East Africa
+Ethiopian and Madagascan regions Ethiopian and Madagascan regions Central and East Africa
+Ethiopian Region
+Tropical Africa
+India
+Ethiopian and Oriental regions,
+in Egypt it reaches the Palearctic region Uganda–Congo
+Ethiopian region
+Southern and Central Africa
+Oriental region
+East and Central Africa southward to Rhodesia Congo–Tanzania–Uganda
+  Zumpt (1973) who proposed the monophyly of Stomoxyini on the basis of morphological characters, and despite the medical and economic importance of these parasitic flies, no phylogenetic analysis has been carried out to assess the relationships within Stomoxyini. The flies of this tribe are easily recognized by their typical piercing/sucking mouthparts which differentiate them from the common housefly (Musca domestica) and relatives from the Muscini tribe. The Stomoxyini tribe consists of 10 genera and about 39 species reviewed by Zumpt (1973), the most medically and economically important species are members of the genera Haematobosca, Haematobia and Stomoxys.
+The genus Stomoxys, which originated from the Old World, includes 18 species (Zumpt, 1973). Among these species, only S. calcitrans has a worldwide distribution and is a synanthropic fly. All other species are exclusively tropical, 12 of which are located on
+Table 2
+Species sampling, source localities, and GenBank accession numbers.
+ Species
+Stomoxys calcitrans
+Stomoxys indicus Stomoxys sitiens
+Stomoxys bengalensis Stomoxys niger niger Stomoxys niger bilineatus Stomoxys varipes Stomoxys transvittatus Stomoxys inornatus Stomoxys omega
+Stomoxys pallidus Prostomoxys saegerae Haematobosca croceicornis Haematobia irritans
+Musca domestica Drosophila yakuba Drosophila melanogaster Drosophila virilis Cheilosia naruska Cheilosia longula Simosyrphus grandicornis Dolichopus nubilus Dolichopus excisus
+Origin
+India Thailand Cameroun Thailand Thailand Burkina Faso Thailand Gabon Gabon Ethiopia Gabon Gabon Gabon Gabon Gabon Gabon
+– – – – – – – – – –
+COI
+EU836073–EU836074 EU836075–EU836082 EU836070 EU836083–EU836092 EU836131–EU836138 FJ386382 EU836060–EU836068 EU836110–EU836115 EU836101–EU836108 EU836147–EU836148 EU836139–EU836145 EU836093–EU836100 EU836116–EU836121 EU836122–EU836130 EU836055–EU836059 EU836053–EU836054 AY526195* AF104622* NC_001322* NC_001709* DQ471577* DQ417498* FJ158631* NC_008754* AY958244* AY958245*
+CytB
+EU851301 EU851303–EU851308 EU851302 EU851309–EU851318 EU851357–EU851364 FJ386381 EU851281–EU851288 EU851327–EU851338 EU851289–EU851295 EU851372–EU851374 EU851365–EU851370 EU851319–EU851326 EU851339–EU851346 EU851347–EU851356 EU851275–EU851280 EU851273–EU851274 DQ029097* DQ657064* NC_001322* NC_001709* AY646771*
+NA
+NA
+NC_008754* AY958244* AY958245*
+ITS2
+NA EU851200–EU851208 EU851199 EU851209–EU851218 EU851251–EU851257 NA EU851191–EU851198 EU851228–EU851237 EU851219–EU851227 EU851189–EU851190 EU851258–EU851265 EU851179–EU851188 EU851238–EU851244 EU851245–EU851250 EU851266–EU851270 EU851271–EU851272 DQ437515*
+Z28417*
+Z28416*
+EU306667*
+Z28415*
+FJ028661*
+FJ158631*
+NA
+NA
+NA
+  The sequences marked with an asterisk (*) were obtained from GenBank; NA: no available data.
+
+Table 3
+COI, CytB and ITS2 primers used for amplifications and sequencing.
+Table 4
+Statistical tests of topological congruence among the three genes using crossed SH tests (Shimodaira and Hasegawa, 1999).
+N. Dsouli et al. / Infection, Genetics and Evolution 11 (2011) 663–670 665
+ Primers C1-J-2813 (direct)
+TL2-N-3014 (reverse) CB-J10933 (direct)
+CB-N11526 (reverse) ITS2A (direct)
+ITS2B (reverse)
+Sequences (50 –>30 ) CAACATTTATTTTGATTTTTTGG
+TCCATTGCACTAATCTGCCATATTA GTTTTACCTTGAGGACAAATATC
+TTCAACTGGTCGAGCTCCAATTCA TGTGAACTGCAGGACACAT
+TATGCTTAAATTCAGGGGGT
+Reference
+Simon et al. (1994, 2006)
+Simon et al. (1994)
+Sharpe et al. (2000)
+Topologies
+CO1
+CYTB
+ITS2 Concatenation
+Datasets
+CO1
+5207.93
+145.87* 162.32*
+12.89ns
+CYTB 42.75*
+4174.34
+200.42* 23.69ns
+ITS2
+72.91* 144.34*
+2452.65
+3.86ns
+Concatenation
+70.32ns 297.63* 323.39*
+12265.83
+      author and are stored in the Laboratoire de Zooge ́ographie of the Universite ́ Paul-Vale ́ry in Montpellier (France).
+2.2. DNA extraction, amplification and sequencing
+Genomic DNA was extracted using the DNAeasy tissue Kit (QIAGEN) to a final volume of 180 ml. Amplifications by PCR, using the specific primer pairs described in Table 3, led to amplicons of different lengths for the COI (753 bp), CytB (587 bp) and ITS2 (􏰁430 bp) regions. All PCR amplifications were performed in a 30 ml reaction volume containing, at final concentrations, 200 mM dNTPs (diNucleotide Tri Phosphate), 10􏰇 buffer, 25 mM of each primers and 0.5 ml of Taq polymerase (Eurogentec Red GoldStar1), and 3 ml of purified DNA. Thermal cycling conditions for PCR were as followed: initial denaturation at 94 8C for 4 min, 35 cycles of denaturation at 94 8C for 40 s, annealing at 48–50 8C for COI, 57– 58 8C for CytB, and 60–62 8C for ITS2, and extension at 72 8C for 1 min. A final elongation step at 72 8C for 10 min completed the DNA amplification process. Ten specimens for each species were sequenced using Sanger sequencing on an ABI 3730 automatic sequencer at the Centre National de Se ́ quenc ̧age (Ge ́ noscope) in Evry (France).
+2.3. Phylogenetic analyses
+The nucleotide sequences from COI, CytB, and ITS2 were automatically aligned using the multiple alignment program ClustalW 1.4 (Thompson et al., 1994) using default parameters. Multiple sequence alignments were then adjusted by visual inspection, taking the sequences of S. calcitrans available in GenBank as a reference for each gene portion. Alignments were cleaned from problematic alignment blocks using Gblocks 0.91 (Castresana, 2000) using the following parameters: minimum number of sequences for a conserved position = 38; minimum number of sequences for a flanking position = 38; maximum number of contiguous nonconserved positions = 8; minimum length of a block = 5; allowed gap positions = with half.
+Probabilistic analyses were carried out on each individual datasets (COI, CytB, and ITS2). Maximum likelihood (ML) reconstruction was conducted using PAUP* 4.0b10 (Swofford, 2002). The best-fitting models of sequence evolution for different partitions were determined based on the Akaike Information Criterion (AIC) as implemented in jModelTest (Posada, 2008) using PHYML (Guindon and Gascuel, 2003) for calculating likelihood scores. ML heuristic searches were conducted with PAUP* using Tree Bisection Reconnection (TBR) branch-swapping on a Neighbor-Joining (NJ) starting tree using the best-fitting model and associated parameters selected by jModelTest. ML bootstrap proportions were obtained by repeating the same ML heuristic search on 100 pseudo-replicated datasets in order to evaluate the confidence for each node of the tree topology.
+Crossed statistical SH tests (Shimodaira and Hasegawa, 1999) of congruence between the three genes were performed in PAUP* by
+Log-likelihood values of ML topologies inferred from each individual gene (CO1, CYTB and ITS2) and from their concatenation were computed using each of the four data matrices and then compared with the corresponding highest log-likelihood value (in bold). The difference in log-likelihood values derived from these crossed comparisons are indicated. An asterisk (*) signifies that the tested topology is significantly worse at the 5% level than the best ML topology inferred from the corresponding dataset. ns means that this difference is not statistically significant.
+testing the best ML topology obtained from each gene against the topology inferred from their concatenation. These tests were run using each individual gene dataset and the concatenated dataset (see Table 4 for details).
+Bayesian phylogenetic inference was conducted using MrBayes 3.1.2 (Ronquist and Huelsenbeck, 2003). Three a priori partition schemes were tested for analyzing the concatenation of the three genes (COI, CytB, and ITS2): one single partition, a 3 gene partition, and a 7 partition scheme distinguishing 6 partitions for each codon position of the two coding genes (COI and CytB) plus a single partition for ITS2. For each partition, we used the best-fitting model selected by jModelTest. Bayesian inference under each partition scheme was conducted with two independent runs of four incrementally heated Metropolis Coupled Markov Chain Monte Carlo (MCMCMC) starting from a random tree. MCMCMC were run for 3,000,000 generations with trees and associated model parameters being sampled every 300 generations. The initial 2000 trees in each run were discarded as burn-in samples and the harmonic mean of the likelihood was calculated by combining the two independent runs. The harmonic means were then used to compute the Bayes factor for the three possible partition comparisons (no partition versus 3 partitions by gene, no partition versus 7 partitions by codon and gene, and 3 partitions by gene versus 7 partitions by codon and gene). The best partition strategy was then determined by the 2ln Bayes factor criterion as recommended by Brandley et al. (2005). The 50% majority-rule consensus tree was then computed from the 16,000 trees sampled in the two independent runs under the best model. Posterior probabilities greater than or equal to 95% are generally regarded as strong support for a clade (Wilcox et al., 2002), but the correspondence with bootstrap support values is not exact (Douady et al., 2003).
+2.4. Molecular datings
+Bayesian estimation of divergence times under relaxed-clock models was conducted using the Multidivtime package (Thorne and Kishino, 2002). We used the previously estimated Bayesian topology as the best hypothesis for Stomoxys phylogeny onto which divergence dates were estimated. The inclusion of species belonging to Drosophilidae (Drosophila virilis, Drosophila melanogaster and Drosophila yakuba), Syrphidae (Simosyrphus grandicornis, Cheilosia longula and Cheilosia naruska) and Dolichopodidae (Dolichopus longula and Dolichopus nubilus), which represent other brachyceran groups, allowed calibrating the tree. Indeed, based on a previously established timescale for brachyceran flies from Bayesian analyses of 28S rRNA data (Wiegmann et al., 2003), our tree was calibrated by using (1) the occurrence of Schizophora 87 million years ago (Mya) as the a priori expected number of time
+
+666 N. Dsouli et al. / Infection, Genetics and Evolution 11 (2011) 663–670
+units between tip and root, and (2) the estimated date of the Drosophila/Musca split between 48 and 51 Mya as the calibration constraint. This previous molecular estimate was used in the absence of any relevant fossil calibration for Stomoxyini.
+First, the program Baseml of the PAML package version 4.2b (Yang, 2007) was used to estimate the nucleotide frequencies, transition/transversion ratio, and rate heterogeneity among sites for the concatenated dataset. These values parameterize the F84 + G nucleotide substitution model. Second, we calculated the branch lengths of the constrained topology and the associated variance–covariance matrix under this model using with the program Estbranches. Finally, the program Multidivtime was used to run a Markov chain Monte Carlo (MCMC) for estimating mean posterior divergence times on nodes with associated standard deviations and 95% credibility intervals (95% CredI) from the variance–covariance matrix produced by Estbranches. The MCMC was sampled 10,000 times every 100 cycles after a burn-in stage of 100,000 cycles. The prior for the expected number of time units between tip and root was set at 87 Mya (SD = 43 Mya). The estimated branch lengths obtained by Estbranches were used to estimate the median amount of evolution between the root and all the tips of the ingroup. Other priors for gamma distribution of the rate at root node (rtrate and rtratesd) and the Brownian motion constant describing the rate variation (brownmean and brownsd) were derived from the median branch length of the phylogram. The highest possible number of time units between tip and root (Bigtime) was set to 119 Mya which corresponds to the upper bound of the 95% CredI for Schizophora as estimated by Wiegmann et al. (2003). The age of the node Musca/Drosophila was constrained using an upper bound of 51 Mya and a lower bound of 48 Mya (Wiegmann et al., 2003).
+3. Results
+3.1. Sequence characteristics
+Alignment statistics and models selected for phylogenetic analyses for each data partitions are summarized in Table 5. Alignment of the mitochondrial genes was straightforward, as no indels were introduced. The alignment of COI sequences resulted in 753 nucleotide sites of which 228 (30.3%) are variable, and 198 (26.3%) are parsimony informative. jModelTest identified the GTR+G+I model as the best-fitting model for the COI gene (ln L = 􏰀3610.24) based on the AIC. The gamma distribution shape parameter (alpha) was estimated to 0.2 which reveals strong among-site rate heterogeneity in this barcoding gene. The CytB alignment contained 587 sites of which 204 (34.8%) are variable and 161 (27.4%) are informative. jModelTest also identified the GTR + G + I model as the best-fitting nucleotide substitution model for the CytB gene (ln L = 􏰀3121.46) with an estimated alpha of 0.62. Finally, the initial alignment of ITS2 sequences totalized 426
+Table 5
+Best fitting models and associated maximum likelihood parameters obtained for the gene partitions used in this study.
+sites including indels. 131 sites corresponding to ambiguously aligned hypervariable regions were excluded from subsequent analyses by applying Gblocks. The remaining 295 sites contain 168 (57%) variable sites of which 147 (50%) are parsimony informative which makes this marker the most variable of our study. jModelTest identified the HKY + G model as the best-fitting model for the ITS2 marker (ln L = 􏰀2454.70). The gamma distribution shape parameter alpha was estimated to 0.43 in this ribosomal internal transcribed spacer.
+3.2. Phylogenetic relationships
+We evaluated topological congruence among the individual genes by computing crossed SH tests in which the highestlikelihood topologies obtained with each individual datasets and their concatenation were compared against each other (Table 4). While there is apparent incongruence among the individual markers, none of the three individual datasets in fact significantly rejects the ML topology supported by their concatenation (see last line of Table 4). This indicates that combining the three individual gene datasets leads to a phylogenetic estimate that is compatible with the signal contributed by each individual gene. We therefore decided to concatenate the three datasets in order to maximize the number of characters analysed and to enhance the phylogenetic signal as advocated by Delsuc et al. (2002).
+The total number of nucleotide positions in the concatenation was 1635. Bayes factor comparisons showed that the best-fitting model for the whole concatenation was the use of a single GTR + G model. Indeed, the 2ln Bayes factor criterion (Brandley et al., 2005) was always in favour of H0 in the three partition scheme comparisons (2lnBF < 0.03) indicating that it was not worth partitioning in our case. The phylogenies obtained from ML and Bayesian methods under a single GTR + G were identical, but the Bayesian analysis provided higher support values for most of the nodes (Fig. 1). Our results support the monophyly of Haematobia and Haematobosca (PP = 1.0; BPML = 71), and this clade appears as the sister-group to the remaining Stomoxyini. The genus Stomoxys is rendered paraphyletic with strong support (PP = 1.0; BPML = 90) due to the inclusion of P. saegerae within it, as a sister-group to Stomoxys varipes (Fig. 1). Strong support is obtained (PP = 1.00; BPML = 97) for S. indicus as representing the sister-group to all remaining species within the Stomoxys group (Fig. 1). Three major clades can be distinguished according to the Bayesian consensus tree within Stomoxyini. The first clade (clade A) is represented by S. indicus alone which is an Asian species. The second clade (clade B) is well supported (PP = 0.99 and BPML = 63) and groups species from African origin (Stomoxys pallidus, Stomoxys omega, Stomoxys transvittatus, and Stomoxys inornatus). Finally, the third clade (clade C), only supported by the Bayesian analysis (PP = 0.92), regroups all the remaining species containing cosmopolitan, African, and Asian species. This clade can be further divided into three subclades. The first subclade associates the two subspecies Stomoxys niger niger and S. niger bilineatus (PP = 0.98), the second subclade associates P. saegerae and S. varipes (PP = 0.89), and the third subclade composed of S. calcitrans, S. sitiens, and Stomoxys bengalensis (PP = 1.0; BPML = 56) with S. sitiens and S. bengalensis being sister-groups (PP = 1.0; BPML = 91) (Fig. 1).
+3.3. Estimation of divergence times
+The divergence time estimates are presented as a chronogram where branching nodes correspond to the mean age estimated from the posterior distribution and its associated 95% CredI (Fig. 2). The divergence time between the Stomoxys genus and its Haematobia + Haematobosca sister-clade is estimated around 30.8 Mya (95% CredI: 40.3–22.3). The age estimate for the early
+ Dataset
+COI
+First pos. Second pos. Third pos.
+CytB
+First pos. Second pos. Third pos.
+ITS2 Concatenation
+Sites A
+753 0.31 251 0.46 251 0.29 251 0.21 587 0.32 196 0.30 196 0.20 195 0.45 295 0.36
+1635 0.33
+T C G
+0.41 0.14 0.14 0.49 0.04 0.01 0.32 0.12 0.27
+0.41 0.24 0.14
+0.42 0.14 0.12
+0.32 0.16 0.21 0.46 0.29 0.11 0.48 0.06 0.01 0.37 0.10 0.17 0.11 0.12 0.44
+Best model
+GTR+I+G TrN+G GTR+G HKY+I GTR+I+G TIM+G HKY+I HKY+G HKY+G GTR+I+G
+Alpha Pinv
+0.2 0.01 0.45 – 0.16 –
+– 0.80 0.62 0.35 0.24 –
+– 0.68 0.77 – 0.43 – 0.95 0.44
+  
+N. Dsouli et al. / Infection, Genetics and Evolution 11 (2011) 663–670
+667
+ Dolichopus excisus Dolichopus nubilus
+Dolichopodidae
+                1.0 / 97
+Muscidae Stomoxyini
+0.94 / 58
+Simosyrphus grandicornis Cheilosia longula
+Cheilosia naruska Drosophila virilis
+Drosophila melanogaster Drosophila yakuba
+Musca domestica
+Haematobia irritans
+Syrphidae
+Drosophilidae
+      1.0 / 99
+  1.0 / 71
+1.0 / 90
+Haematobosca croceicornis 1 Heamatobosca croceicornis 2
+        A
+B
+0.96 / 67
+0.99 / 63
+S. indicus 1 S. indicus 2
+S. inornatus 1 S. inornatus 2
+S. transvittatus 1 S. transvittatus 2
+S. omega 1 S. omega 2
+S. pallidus 1 S. pallidus 2
+S. niger bilineatus 1 S. niger bilineatus 2 S. niger niger 1
+                   Stomoxys
+        1.0 / 97
+    0.98 / -
+C
+S. niger niger 2
+Prostomoxys saegerae 1
+Prostomoxys saegerae 2 S. varipes 1
+                          PP = 1.0 / BPML = 100
+0.05 substitution / site
+0.92 / -
+0.89 / -
+0.88 / -
+0.95 / 67 1.0 / 56
+S. varipes 2
+S. calcitrans Africa
+S. calcitrans India S. calcitrans Thailand 1 S. calcitrans Thailand 2
+S. bengalensis 1 S. bengalensis 2
+S. sitiens Burkina Faso S. sitiens Thailand 1
+S. sitiens Thailand 2
+Stomoxys
+      1.0 / 91
+        Fig. 1. Phylogenetic relationships among 33 dipteran species inferred from the concatenation of COI, CytB and ITS2 (1635 nucleotide sites). This phylogram is the 50% majority rule consensus tree obtained with Bayesian inference under the GTR + G model. Numbers at nodes indicate posterior probabilities (PP)/maximum likelihood bootstrap proportions (BPML). Black circles indicate nodes receiving maximum values of PP and BP and dashes mark nodes above the 50% level. The three main lineages identified within the Stomoxys group are labeled A, B, and C.
+emergence of S. indicus (clade A) within the genus Stomoxys is estimated at about 27 Mya (36.6–18.9). The divergence between clade B and clade C occurred around 20.8 Mya (29.6–13.6). According to this inferred timescale, the major lineages within the genus Stomoxys were present by the late Oligocene, while the greatest amount of cladogenesis occurred during the Early Miocene. The two subspecies of S. niger (S. niger niger and S. niger bilineatus) separated around 16.3 Mya (24.2–10.3), a divergence time almost exactly similar to the one inferred for the separation between the species S. inornatus and S. transvittatus estimated at 16.4 Mya (24.6–10.0). Finally, the divergence between P. saegerae and S. varipes is estimated to have occurred 14.2 Mya (21.6–8.5) concomitantly with the separation of S. calcitrans from its S. bengalensis/S. sitiens sister-clade at 14.1 Mya (21.5–8.5).
+4. Discussion
+4.1. Phylogenetic relationships and taxonomy of the Stomoxys group
+The phylogenetic analyses performed in the present study allowed reconstructing a phylogenetic framework for the major constitutive species of the genus Stomoxys and closely related genera. Our analyses strongly support the monophyly of Stomoxyini including a monophyletic group consisting of Haematobia and Haematobosca as a sister-clade to all remaining Stomoxyini. However, according to our results the genus Stomoxys sensu
+stricto is found to be paraphyletic due to the unexpected position of P. saegerae which appears to be well nested within the Stomoxys group as a sister-group to S. varipes (Fig. 1). Zumpt (1973) created the genus Prostomoxys for the sole species P. saegerae. According to Zumpt’s identification key for Stomoxyini, Prostomoxys is characterized by maxillary palps that are as long as the proboscis, whereas Stomoxys is characterized by palps that are shorter than half the length of the proboscis. This key includes no other diagnostic character for the distinction of this genus from Stomoxys. Zumpt (1973) mentioned that the plesiomorphic form of the Stomoxyini mouthparts can be accepted as the maxillary palps being about as long as the proboscis. Based on our phylogenetic study there appears to be no reason to incorporate this species in a separate genus as P. saegerae is in fact closely related to Stomoxys species. Prostomoxys should thus be synonymised with Stomoxys, and the species P. saegerae must be renamed into Stomoxys saegerae. The long palp characters would be better considered as mere specific traits, since they are likely to be plesiomorphic.
+Within Stomoxys lato sensu (including P. saegerae), our phylogenetic analyses strongly support the placement of S. indicus as the sister-group to the remaining Stomoxys species. Taxonomically, S. indicus is considered to be highly variable, with a number of synonyms used in the entomological literature. As mentioned by Zumpt (1973): ‘‘it is possible that a numerical taxonomic study based on great numbers of specimens from various populations
+
+ 668
+N. Dsouli et al. / Infection, Genetics and Evolution 11 (2011) 663–670
+60.0
+39.8
+31.3
+30.8
+15.0
+16.2
+A 16.4
+16.3
+16.6
+Simosyrphus grandicornis Cheilosia longula
+Cheilosia naruska
+Drosophila virilis
+Drosophila melanogaster Drosophila yakuba
+Musca domestica Haematobia irritans Haematobosca croceicornis 1 Heamatobosca croceicornis 2 S. indicus 1
+S. indicus 2
+S. inornatus 1
+S. inornatus 2
+S. transvittatus 1
+S. transvittatus 2
+S. omega 1
+S. omega 2
+S. pallidus 1
+S. pallidus 2
+S. niger bilineatus 1
+S. niger bilineatus 2
+S. niger niger 1
+S. niger niger 2 Prostomoxys saegerae 1 Prostomoxys saegerae 2 S. varipes 1
+S. varipes 2
+S. calcitrans Cameroun S. calcitrans India
+S. calcitrans Thailand 1 S. calcitrans Thailand 2 S. bengalensis 1
+S. bengalensis 2
+S. sitiens Burkina Faso S. sitiens Thailand 1
+S. sitiens Thailand 2
+Drosophila / Musca [51-48]
+Muscidae Stomoxyini
+1.1 1.3 1.5
+34.9
+3.9
+24.9
+B 19.1
+20.8
+C 18.3
+Paleocene
+60 50 40 30 20 10 0
+Fig. 2. Chronogram resulting from the relaxed molecular clock Bayesian analysis of the concatenation of COI, CytB and ITS2 (1635 nucleotide sites). Mean divergence times are indicated at nodes and node bars represent 95% credibility intervals. Scale is in millions of years before present. Species names belonging to the genus Stomoxys have been abbreviated (S). The Drosophila/Musca calibration constraint is shown in black. Tertiary epochs are indicated following the geologic timescale 2004 of the Geological Society of America (Gradstein et al., 2004). Plio.: pliocene; Pleist.: pleistocene.
+Eocene
+Oligocene
+Miocene
+Plio. Pleist.
+may reveal that several subspecies may be retained in the future’’. This species is described as the most common Stomoxys species in the Oriental region after S. calcitrans and has been recorded from India to the Pacific islands of Fiji and Samoa, including China and Japan. Its geographic range also reaches the Palaearctic region on the occidental side. Moreover, it has also been recorded in a number of South-East Asian countries such as Thailand (Masmeatathip et al., 2006), Malaysia, Viet Nam, Taiwan, Borneo, Sumatra, and Java (Zumpt, 1973). Since both of our samples are from Thailand origin, they provide no information on the genetic diversity among populations of the species, but they reveal its evolutionary distinctiveness from other members of the genus Stomoxys.
+The remaining Stomoxys species included in our study can be divided in two main clades. Clade B contains only African species and clade C groups both African and more geographically widespread species (Fig. 1). Clade B regroups S. inornatus, S. transvitattus, S. omega and S. pallidus sampled from different parts of the Ethiopian region. These species are ubiquitous and are restricted mainly to forest ecotones where they feed especially on wildlife fauna (Mavoungou et al., 2008). This large clade appears to be divided in two main subclades associating S. inornatus and S. transvittatus on one side, and S. omega and S. pallidus, on the other side. S. inornatus and S. transvittatus have a diurnal activity whereas S. omega and S. pallidus have a crepuscular activity (Duvallet, unpublished data). These observations would fit well with the proposed phylogeny. However, the information content of ecological data for phylogeny is probably limited since activity
+levels in Stomoxys have been shown to be highly dependent upon geographical origin (primary forest, secondary forest and humanmodified area) (Mavoungou et al., 2008), climate (temperature, humidity, and solar radiation level) (Kangwagye, 1974; Charlwood and Lopes, 1980), trapping method, and physiological state of individuals (Simmons, 1944; La Breque et al., 1975).
+The third clade C can be divided into three subclades, two of them being exclusively African, and one being more geographically widespread. The first subclade groups S. niger niger and S. niger bilineatus, considered as two subspecies of S. niger according to Zumpt (1973), whereas the second subclade associates P. saegerae and S. varipes. Solving species boundaries between closely related species is notoriously difficult in these parasitic flies. Based on the tree topology, S. niger niger and S. niger bilineatus sequences form distinct phylogenetic clusters. The pairwise distance between S. niger niger and S. niger bilineatus based on COI sequences is 8.2%. The use of DNA sequences for species delimitation has been widely criticized (Tautz et al., 2002; DeSalle et al., 2005; Meier et al., 2006). The wide overlap between intraspecific and interspecific variability observed in Diptera COI sequences (0–15.5%) (Meier et al., 2006) is especially problematic here, since the pairwise distance for these subspecies falls into this overlapping area. However, the genetic distance between S. niger niger and S. niger bilineatus based on the nuclear ITS2 is also quite large with 14.3%. Moreover, our molecular dating analysis estimates the separation between the two subspecies around 16.3 Mya (Fig. 2). This is almost as old as the separation between S. inornatus and S. transvittatus (c.a. 16.4 Mya) and is comparable with the divergence observed between D.
+27.0
+12.4
+14.1
+11.0
+0.8
+0.7
+1.3 1.2
+0.7 0.6 0.7 0.7
+0.3
+0.3
+14.2
+6.5
+2.3
+
+melanogaster and D. yakuba (c.a. 16.2 Mya). It is also more ancient than the divergence between S. omega and S. pallidus (c.a. 12.4 Mya), and even more ancient than the split between S. varipes and P. saegerae (c.a. 14.2 Mya) (Fig. 2).
+Morphologically, S. niger niger and S. niger bilineatus are distinguished only by the colour of their tibiae and tarsi. Mavoungou et al. (2008) described S. niger bilineatus and S. niger niger as sympatric species, the former being abundant in savannas with abundant wild fauna, while the latter is more associated with anthropized area. Mihok et al. (1996) also pointed out differences in habitat affinities, sex ratio and activity patterns between these species. Given morphological observations, ecological isolation and molecular data, it appears very likely that S. niger niger and S. niger bilineatus belong to different species. Consequently, we suggest raising them to full specific status and to use S. niger and S. bilineatus as species names.
+Finally, the third subclade within clade C associates S. calcitrans, S. sitiens and S. bengalensis Picard. S. bengalensis occurs only in Asia, S. sitiens is found in both the African and Asian continents, while the livestock pest S. calcitrans has a worldwide distribution. S. calcitrans and S. sitiens appeared to be strictly human commensals since they have invariably been found in association with human activity, including inside buildings.
+4.2. Molecular timescale and biogeography of the Stomoxys group
+Our molecular estimate of the separation between Stomoxyini and Muscini falls into the Late Eocene epoch (c.a. 34.9 Mya) (Fig. 2). This divergence time is compatible with the record of the oldest Muscidae fossils in the Eocene and the Lower Miocene, 50–20 Mya (Evenhuis, 1994). The oldest Muscini fossil (about 20–15 Mya) was described from Dominican amber (Pont and De Carvalho, 1997), whereas no Stomoxyini fossil has been reported yet. The results presented here show that the radiation of the major Stomoxyini groups largely overlaps with the hypothetical time span (midOligocene to mid-Miocene) during which temperate forests developed in the Northern Hemisphere (Guo et al., 2002).
+The genus Stomoxys appears to diverge from other Stomoxyini genera in the Oligocene (c.a. 30 Mya). An Oriental origin of the Stomoxys genus lato sensu is tentatively suggested, owing to the strong support obtained for the basal branching of S. indicus (clade A) and its absence from Africa. Under such a scenario, the common ancestor of the remaining Stomoxys members would have then split into two groups in the Early Miocene (c.a. 21 Mya), with one group being distributed in the Ethiopian region (clade B), while the other colonized Asia (clade C). The collision between Eurasia and the Arabo-African plate was initiated by the Oligocene, but the Early Miocene period seems to have been key for the establishment of intercontinental pathways permitting faunal exchanges between the Afro-Arabian and Asia plates (Bernor et al., 1987). This biogeographical event fits well with our estimates of the split between clades B and C occurring within this period. Continental exchanges through migration events continued until the Late Miocene and could explained the occurrence of S. calcitrans and S. sitiens in both the African and Asian continents. Migration until the Late Miocene may have been facilitated by a forest connection that existed between the African and Oriental regions at this epoch (Moreau, 1963).
+Our study is a first step into the molecular phylogenetic analysis of the Stomoxys genus. Yet, our results point to the need for a taxonomic revision of the Stomoxyini tribe. Since very few data on the biology and ecology of this group are currently available it would be necessary to advance the knowledge in these basic research areas. This is a prerequisite for better understanding how these species originated and diversified in a biogeographical context.
+Acknowledgements
+We thank Jacques-Franc ̧ois Mavoungou (Gabon), Roundthip Masmeatathip (Thailand), Alekaw Sinshaw Tegegne (Ethiopia) and the British Museum for providing some Stomoxys samples. We extend our thanks to Gwenae ̈lle Mondor (CBGP) for technical assistance. We also thank two anonymous reviewers for constructive comments. This study was partially supported by Agence Nationale de la Recherche through the ANR-Biodiv grant IFORA (Iles Forestie` res Africaines) and by the CNS-Genoscope ‘‘Barcoding insects for identification’’ sequencing grant to Michel Veuille. During the course of this research, N.D.-A. was partially supported by a grant from Socie ́ te ́ Entomologique de France. This is contribution ISEM 2011-014 of the Institut des Sciences de l’Evolution (UMR 5554-CNRS).
+References
+N. Dsouli et al. / Infection, Genetics and Evolution 11 (2011) 663–670 669

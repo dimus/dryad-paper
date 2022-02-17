@@ -1,0 +1,192 @@
+   Multielement Stoichiometry in Aquatic Invertebrates: When Growth Dilution Matters. Author(s): Roxanne Karimi, Nicholas S. Fisher, and Carol L. Folt
+Reviewed work(s):
+Source: The American Naturalist, Vol. 176, No. 6 (December 2010), pp. 699-709 Published by: The University of Chicago Press for The American Society of Naturalists Stable URL: http://www.jstor.org/stable/10.1086/657046 .
+Accessed: 08/06/2012 09:24
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at . http://www.jstor.org/page/info/about/policies/terms.jsp
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+        http://www.jstor.org
+The University of Chicago Press and The American Society of Naturalists are collaborating with JSTOR to digitize, preserve and extend access to The American Naturalist.
+
+ vol. 176, no. 6 the american naturalist december 2010 􏺣
+ Multielement Stoichiometry in Aquatic Invertebrates: When Growth Dilution Matters
+Roxanne Karimi,1,* Nicholas S. Fisher,1 and Carol L. Folt2
+1. School of Marine and Atmospheric Sciences, Stony Brook University, Stony Brook, New York 11794;
+Dartmouth College, Hanover, New Hampshire 03755
+Submitted March 9, 2010; Accepted August 18, 2010; Electronically published October 25, 2010 Online enhancements: appendix tables. Dryad data: http://dx.doi.org/10.5061/dryad.1858.
+2. Department of Biology,
+ abstract: Element concentrations in organisms can be variable, often causing deviations from otherwise consistent, taxon-specific multielement stoichiometries. Such variation can have considerable ecological consequences, yet physiological mechanisms remain unclear. We tested the influence of somatic growth dilution (SGD) on multiple element concentrations under different bioenergetic conditions. SGD occurs when rapid individual growth causes a disproportional gain in biomass relative to gain of a specific element. SGD can strongly affect elements in various organisms, but we lack a general framework to unify results across studies and assess its overall importance. We derived the general conditions that trigger SGD from an element accumulation model. We parameterized the model with bioenergetic and element-specific rates summarized from the literature to compare SGD effects on 15 elements (nonessential metals, essential trace elements, macronutrients) in three aquatic invertebrate taxa. For all taxa, we found that SGD (1) occurs to some degree for all 15 elements over realistic ranges of growth and ingestion rates and (2) has the greatest effect on elements with low efflux (excretion) rates, including certain nonessential metals (e.g., MeHg, Po), essential trace elements, and macronutrients (e.g., N, Fe). Thus, SGD can strongly affect concentrations of a spectrum of elements under natural conditions. These results provide a framework for predicting variation in the elemental composition of animals.
+Keywords: trace element, heavy metal, bioaccumulation, ecological stoichiometry, trophic transfer, Daphnia.
+.
+ and Knauer 1973; Morel and Hudson 1985; Ho et al. 2003; Karimi and Folt 2006). However, closer scrutiny shows that elemental signatures often vary in situ. Certain elements are consistently more variable than others (Andersen and Hessen 1991; Downing 1997; Chen et al. 2000; Twining et al. 2004; Karimi and Folt 2006), and concentrations of many elements vary with body size and/or growth status (Langston and Spence 1995; Villar-Argaiz et al. 2002). Using data on element uptake and loss kinetics from 65 published studies of aquatic invertebrates, we evaluated the influence of growth on body concentrations of 15 elements with different physiological functions. Our overall aim is to provide the basis for developing a framework for explaining the influence of physiological processes such as growth and metabolism on variation in multielement signatures in animals.
+Our central hypothesis is that somatic growth dilution (SGD; Karimi et al. 2007) plays a pronounced yet largely overlooked role in modifying the multielement stoichiometry of organisms. SGD is a reduction in the somatic concentration of an element during rapid growth. In general, SGD of an ingested element occurs when total biomass gain outpaces element gain from food, thereby diluting mass-specific element concentration in the body. Element concentration does not change when the ratio of biomass gain to element gain remains constant with growth but will change if the new growth effectively dilutes the whole-body concentration of the element. If key factors such as high food quality or low metabolic rate cause growth efficiency (i.e., the ability to convert food into tissue) to outpace element incorporation into tissue, SGD will occur. Since natural populations experience a wide range of growth efficiencies (Straile 1997; Morgan et al. 2001), it is likely that SGD could strongly influence multiple element concentrations.
+Support for the importance of SGD in affecting stoichiometric signatures of aquatic organisms comes from many studies documenting correlations between rapid growth and reduced concentrations of (1) mercury and
+ The chemical composition, or stoichiometry, of organisms has well-known implications for the nutritional value of resources (Sterner and Hessen 1994; Elser et al. 2000; Cross et al. 2003; Schade et al. 2003), element trophic transfer, and cycling (Elser and Urabe 1999; Vanni 2002). Organisms typically have consistent stoichiometric signatures that are unique to their taxonomic group (Andersen and Hessen 1991; Elser et al. 2000; Frost et al. 2003) and include trace elements as well as macronutrients (Martin
+   * Corresponding author; e-mail: rkarimi@notes.cc.sunysb.edu.
+Am. Nat. 2010. Vol. 176, pp. 699–709. 􏱞 2010 by The University of Chicago. 0003-0147/2010/17606-51982$15.00. All rights reserved.
+DOI: 10.1086/657046
+ 
+ 700 The American Naturalist
+ other nonessential metals in fast-growing consumers (Schindler et al. 1995; Stafford and Haines 2001; Essington and Houser 2003; Simoneau et al. 2005; Trudel and Rasmussen 2006; Ward et al. 2010a, 2010b); (2) macronutrients (e.g., N, P) in bacteria (Chrzanowski and Grover 2008); and (3) essential trace elements (e.g., Zn, Se) and nonessential metals in a diverse range of organisms, including periphyton (Hill and Larsen 2005), bivalves (Amiard et al. 1986; Amiard and Berthet 1996; Geffard et al. 2002), and fish (Ciardullo et al. 2008; Ward et al. 2010b). However, the relative sensitivity of specific elements to SGD is unknown, and results are inconsistent across studies (e.g., see Dutton 1997; Stafford and Haines 2001; Ward et al. 2010a). Also, exceptions have been noted for nutrients strongly coupled to growth. For example, P content typically increases with growth rate as a result of an increasing allocation to P-rich rRNA (Elser et al. 1996, 2003). Thus, the influence of SGD on the overall chemical composition of organisms remains unclear.
+Element accumulation models provide a theoretical basis for the probable effect of rapid growth on stoichiometry of certain elements. These models predict that rapid growth is most effective at diluting concentrations of elements with low efflux rates (metabolic loss rates after assimilation from the gut into the body; Reinfelder et al. 1998). Elements with low efflux rates tend to remain in the body long after exposure, so their concentrations are most likely to become diluted and uncoupled from element intake when there are rapid increases in weight gain. This prediction is consistent with results of a previous experimental study showing SGD of methylmercury (a well-known low-efflux molecule) in Daphnia pulex (Karimi et al. 2007). However, studies have not adequately assessed the overall importance of SGD by identifying and comparing growth-sensitive elements in multiple taxa.
+Our study examines somatic growth dilution as a driver of variation in element concentration under reasonable bioenergetic conditions across multiple elements with a broad range of biological functions, including nonessential, potentially toxic elements and essential elements in three aquatic invertebrate taxa. Our specific goals were to (1) define the range of ingestion, growth, and efflux rates that trigger SGD; (2) use that information to identify elements for which SGD will have the strongest influence; and (3) compare the influence of SGD on particular elements among taxa. We expected that efflux rates would be low for any element retained in the body. Specifically, we expected that efflux would be lower for nonessential metals known to bioaccumulate (e.g., MeHg, Po, Cd) than for essential metals and macronutrients that can be stored in the body to a lesser extent.
+ Element Accumulation Model
+We derived the general physiological conditions that trigger SGD of dietary elements from an element accumulation model and parameterized the model with bioenergetic and element-specific kinetic rates summarized from the literature. The kinetic model of element accumulation (Reinfelder et al. 1998; Wang and Fisher 1999) describes the steady state element concentration in tissues (Css; mg g􏱛1) resulting from dietary intake as
+AICf
+Css pKe􏱘g, (1)
+where A is element assimilation efficiency (proportion of ingested element that crosses the gut lining; %), I is specific ingestion rate (g g􏱛1 day􏱛1), Cf is element concentration in food (mg g􏱛1), Ke is efflux rate (loss of assimilated element; day􏱛1), and g is specific growth rate of the animal (g g􏱛1 day􏱛1).
+Aquatic animals obtain macronutrients from their diet and trace elements from food and water (Wang and Fisher 1999). For certain trace elements, the relative importance of food and water sources can vary. However, for aquatic animals, diet generally is the primary source of many of the trace elements in this study (Luoma et al. 1992; Fisher and Reinfelder 1995; Wang et al. 1999; Roditi et al. 2000; Griscom et al. 2002; Mathews and Fisher 2009). Thus, for simplicity, this model focuses on the effects of SGD on elements acquired through diet.
+Predictions of Css of numerous elements using this model and laboratory-derived kinetic rate constants have closely matched independent field measurements for a variety of organisms and ecosystems (Fisher et al. 2000; Roditi et al. 2000; Luoma and Rainbow 2005). This match suggests that this approach accounts for the major factors governing element concentrations in aquatic animals in natural waters and that the lab-derived parameters are applicable to natural ecosystems.
+Model Sensitivity Analysis
+SGD of food-borne elements depends on growth efficiency or the relative rates of growth and ingestion. Therefore, we derived a sensitivity inflection line for each element, indicating the threshold between conditions under which Css is driven by growth or ingestion. We defined the sensitivity inflection line by calculating partial derivatives of Css relative to g and I and setting them equal to each other. The sensitivity of Css to ingestion (dCss/dI) is defined as
+􏵀Css ACf
+􏵀I pK 􏱘g. (2)
+   e
+ 
+ Growth Dilution Effects on Stoichiometry 701
+ The sensitivity of Css to growth rate dCss/dg is defined as 􏵀 C s s 􏱛A I C f
+􏵀g p(Ke􏱘g)2. (3)
+  The sensitivity inflection line occurs when the absolute value of equation (2) is equivalent to the absolute value of equation (3), or when
+I p Ke 􏱘 g. (4) Similarly, solving for when Css is more sensitive to ingestion
+than growth, or dCss /dI 1 dCss /dg, yields the equation
+I ! Ke 􏱘 g. (5)
+Hence, a greater sensitivity of Css to ingestion can occur only at relatively high Ke, since as Ke approaches 0, growth alone would have to exceed ingestion (growth efficiency 11). Similarly, Css is more sensitive to growth when dCss /dg 1 dCss /dI, or
+I 1 Ke 􏱘 g. (6) Thus, Css is more likely to be sensitive to growth when Ke
+is relatively low.
+Empirical Data Sources
+To compare effects of SGD among elements in aquatic invertebrates, we estimated mass-specific element concentrations by parameterizing the element accumulation model with growth, ingestion, element assimilation, and efflux rates from published studies of Daphnia, marine copepods (primarily Acartia tonsa), and marine mytilid mussels (primarily Mytilus edulis; see tables 1, 2, A1–A6 [in the online edition of the American Naturalist]). Each taxa is ubiquitous and plays an important ecological role. Daphnia and copepods are important zooplankton prey for fish in freshwater and marine food webs, respectively. Mytilid mussels filter large amounts of organic matter in coastal waters, are harvested for human consumption, and are commonly used as bioindicators for coastal pollution
+ (Goldberg et al. 1978). These taxa also play major roles in element fluxes through the production of egested and excreted waste (Fowler and Knauer 1986). We included macronutrients (e.g., N, P), essential trace elements (e.g., Zn, Se; potentially toxic at high doses), and nonessential metals (e.g., Hg, Pb; no known biological benefit and toxic at elevated concentrations).
+For each element, we calculated Css for each ingestiongrowth scenario and generated the Css response surface and sensitivity inflection line position using MATLAB (MathWorks, Natick, MA). We allowed growth and ingestion rates to range from 0 to the maximum value found from the survey of published studies for each animal (tables 1, A1–A3). We constrained the analysis to include only scenarios for which growth rate ≤ ingestion rate (i.e., growth efficiency ≤1). For each element, assimilation efficiency, efflux rate (tables 2, A4–A6), and element concentration in food were held constant. Assimilation and efflux values used in the analysis were the mean of average values from each published study. Efflux rate constants were capped at 1 day􏱛1 in all model analyses (table 2). For each element, values of element concentration in food were within the range found in phytoplankton in the environment (Martin and Knauer 1973; Watras et al. 1998; Chen et al. 2000).
+Growth rates, assimilation efficiencies, and efflux rate constants were estimated from digitized figures when values were not reported. For Daphnia, we included published values for congeners (Daphnia pulex, Daphnia magna, Daphnia rosea, Daphnia obtusa) and Daphnia-dominated zooplankton assemblages. For mussels, we primarily included studies on M. edulis and three studies on the related species Mytilus galloprovincialis (Fisher et al. 1996), Perna viridis (Wang et al. 2004), and Musculista senhousia (Magni et al. 2000). Copepod data primarily included studies on A. tonsa and other marine calanoid species.
+Element-specific assimilation and efflux values were taken primarily from experimental studies that used a pulse-chase method in which animals were fed phytoplankton uniformly labeled with a radioisotope and allowed to depurate while feeding on unlabeled food and purging their guts of unassimilated radioactive material.
+ Table 1: Summary of reported ingestion and growth rates from the literature
+    Daphnia
+Marine copepods Mytilids
+Ingestion rate (g g􏱛1 day􏱛1) mean (min, max)
+1.9 (.7, 3.1) .43 (.05, 1.2) .16 (.02, .6)
+Growth rate (g g􏱛1 day􏱛1) mean (min, max)
+.3 (.01, .6)
+.3 (.02, 1.0) .05 (.004, .12)
+  Note: Mean rates were calculated from reported mean values across studies. Minimum and maximum values are from the entire range of values reported from all studies. See tables A1–A3 in the online edition of the American Naturalist for complete database and references.
+ 
+ 702 The American Naturalist
+ Table 2: Summary of assimilation efficiencies (A) and efflux rate constants (Ke) from published studies
+         Daphnia
+Ke (day􏱛1)
+A (%) mean mean
+Element (min, max) (min, max) N
+Copepods
+Ke (day􏱛1)
+Mussels
+Ke (day􏱛1) mean
+(min, max) N
+   A (%) mean (min, max)
+mean
+(min, max) N
+A (%) mean (min, max)
+         Ag
+Am
+Cd
+Cob
+Cr-III
+Cr-VI
+Cu
+Fe
+Hg-II 21 (9.1, 47)
+MeHg 89 (64.2,
+Mn ND
+N ND
+P 73.5 (34,
+Pb ND
+Po ND
+Pu ND
+S ND
+Se 36 (15.6,
+Zn 15 (1.4, 66.5)
+1 13.7 (2.8, 21.9) ND 3.3 (.4, 9)
+3 53.7 (13.2, 96) ND 25.8 (14.2, 48)
+1 ND
+ND ND
+ND 40.3 (29.9, 61.1) ND 15.4 (5, 35)
+2 18.3 (12, 39.7)
+3 62
+ND 14.5 (3, 30)
+5 56.4 (13.6, 99.1)
+7 64.8 (19.3, 99.2) ND ND
+ND 37.4 (19.6, 55.1) ND .8 (.6, 1.2) ND 56.9 (49.4, 64.3)
+3 70.2 (7.3, 98.7) 3 48.8 (7.2, 80)
+.55 (.34, 1) 5 .85 (.77, .93) 4 .59a (.31, 1.28) 10 .74 (.38, .95) 2
+ND ND
+ND ND .07 (.06, .08) 2 .06 (.04, .08) 3 ND 4 ND 1 ND 2 .13 (.05, .43) 5 .25 (.06, .48) 4
+ND ND .03 (.01, .07) 1 ND1 ND1
+15.3 (1.8, 50) 4.3 (.6, 12.8)
+34.3 (8, 96) 28.1 (8, 68.3)
+.9 (.2, 1.3) 5.8 (1.1, 10.4)
+ND
+ND 42.5 (41,44)
+85.5 (84, 87) ND
+60.9 (27.8, 84.4) 61.4 (37.2, 84.2) 60 (56, 64)
+ND
+ND
+76.5 (75.5, 79.8)
+.24 (.025, .72) 7 .22 (.011, .52) 8 .05 (.0008, .22) 8 .22 (.01, .46) 8 .21 (.15, .26) 2 .26 (.22, .29) 1
+ND ND
+ND ND .19 (.15, .24) 1 .03 (.02, .04) 1
+ND ND .08 (.06, .13) 1 .45 (.32, .68) 1 .026 (.025, .028) 1
+ND
+ND
+.0145 (.009, .02) 1
+.04 (.02, .07) 7 .07 (.005, .19) 9
+31.8 (1, 62.6) .51 (.26, .75) ND ND
+36 (8.8, 76.7) .32a (.07, ND ND 26 (8.3, 43.7) 1.22a (.12, ND ND ND ND ND ND
+1.13) 2.32)
+97.4) 98)
+ND .88a (.07, .78a (.08,
+ND ND ND ND
+3.22) 3.42)
+64.6)
+.45 (.16, .82) .77a (.3, 1.45)
+.58a (.08, 1.5) 7 62.6 (13.7, 86)
+1.31a (.55, .095 (0, .22)
+2.28)
+.51a (.21, 1.26) 11
+30.9 (6.2, 62)
+         Note: Mean A and Ke values were calculated from mean values across studies. When mean values were not reported, mean Ke and A values were calculated from the minimum and maximum values reported. Minimum and maximum values shown are from the entire range of values reported from all studies. Efflux rate constants were capped at 1.0 day􏱛1 in all analyses. N p number of studies. ND p no data. See tables tables A4–A6 in the online edition of the American Naturalist for complete database and references.
+a Mean Ke (day􏱛1) used in model analyses for Daphnia: Cd p 0.30, Cr p 0.56, Hg-II p 0.82, N p 0.49, P p 0.50, and Zn p 0.68; for copepods: Cd p 0.56, Se p 0.52, and Zn p 0.48.
+b Studies used inorganic cobalt.
+ Studies that exposed animals to multiple pulse-chase feeding regimes before measuring depuration were excluded because values from these studies indicate efflux from long-term storage pools within the animal rather than efflux from a recently assimilated element. Studies that exposed organisms simultaneously to metals dissolved in water and in food or in water only also were excluded. Experimental feeding periods were generally less than the gut passage time for the animals in most studies, with a few exceptions (Fisher and Teyssie 1986; Fisher et al. 1996; Chang and Reinfelder 2000, 2002; Liu et al. 2006).
+Assimilation efficiency of the ingested element was calculated as the y-intercept and efflux as the slope of the regression between the percent element concentration retained in the whole animal and the time of depuration for the slowly exchanging pool (i.e., after all of the label had been assimilated from the gut), assuming a log-linear function (Wang and Fisher 1999). When not reported, we calculated efflux values from digitized data using only data collected after complete digestion of the radiolabeled food, as observed by the authors or as clearly visible as a second compartmental loss during depuration. Element efflux was calculated from whole live organisms. Ingested elements
+ that are associated with mussel shells or chitinous exoskeletons typically represent a small fraction of the body burden in the whole animal (Wang et al. 1995). Thus, studies that estimated element retention and loss from soft tissues were included.
+For published studies on macronutrient (N and P) assimilation and efflux in Daphnia and mussels that did not use the pulse-chase radiotracer method, we calculated efflux rates from excretion rates of dissolved N and P. Excretion rates are comparable to efflux loss rates, as they both include only loss of an assimilated element. To convert N and P excretion rate constants for Daphnia (e.g., mg N mg Daphnia􏱛1 day􏱛1) to efflux rate constants (day􏱛1), we assumed that Daphnia are 50% C, 9% N, and 1.4% P by weight (Andersen and Hessen 1991). We found no study that reported N assimilation efficiencies for Daphnia. Therefore, we used N assimilation efficiencies of freshwater copepods (tables 2, A5) in our analyses. To convert macronutrient excretion rates for mussels, we assumed that mussels are 36.6% C, 7.8% N, and 0.5% P (Smaal and Vonck 1997). Macronutrient composition of natural invertebrate populations can vary (Karimi and Folt 2006), but this variation has a negligible effect on our calculated
+ 
+ Growth Dilution Effects on Stoichiometry 703
+ efflux values when compared with the broad range of excretion values we found across studies (table 2) and does not affect our results.
+Results
+Our model results show that rapid, efficient growth reduces tissue concentrations (Css) of all elements included in our study. However, SGD most strongly reduces Css when element efflux rate is low (fig. 1). At low efflux rates, the highest growth efficiency results in the lowest Css. The position of the sensitivity inflection line indicates that when element efflux rate is low, SGD occurs over a broader range of ingestion and growth rates for all three animals and thus is more likely to occur in situ (fig. 2). Of particular interest is that for the lowest efflux elements (MeHg in Daphnia; Po, Fe, Cu, and N in copepods; and S, MeHg, and Pb in mussels), there are few points below the inflection line, indicating that these elements are usually highly sensitive to growth (fig. 2A). In contrast, some metals (Am, Ag, inorganic Hg) have relatively high efflux rates (fig. 2B), indicating that bioaccumulation of these elements is unlikely in these organisms.
+Finally, consistent patterns in element efflux and assimilation efficiencies among taxa emerged, despite basic biological differences and the variability in efflux rates and assimilation efficiencies within taxa (tables 2, A4–A6). Specifically, efflux, growth, and ingestion rates are generally higher for zooplankton than mussels, as might be expected given their relative sizes (tables 1, 2). Finally, MeHg assimilation efficiency was among the highest and efflux rate among the lowest in both Daphnia and mussels (no MeHg efflux data were available for copepods).
+Discussion
+Our findings show that SGD has the potential to significantly influence concentrations of many elements with low efflux rates, including macronutrients, essential trace elements, and nonessential metals under environmentally relevant conditions. No matter the conditions under which low efflux rates occur or their physiological impact (e.g., sequestration of nutrients or bioaccumulation of nonessential metals), rapid growth can reduce the mass-specific concentration of low-efflux elements and alter the overall elemental composition of organisms.
+Of the nonessential metals included in our study, MeHg, Po, and Pb had the lowest efflux rates, consistent with studies that empirically have shown SGD for MeHg (Karimi et al. 2007) and Pb (Ward et al. 2010b). SGD may explain why Po concentrations in marine zooplankton are higher in oligotrophic waters that have fewer nutrients to support growth (Jeffree et al. 1997). We lack sufficient data
+ Figure 1: Element concentration response to growth efficiency and efflux. Steady state element concentrations in Daphnia (A), marine copepods (B), and mytilid mussels (C) over a range of growth efficiencies and efflux rates.
+ on efflux rates to assess the universality of a strong SGD influence on these elements across taxa. However, there is strong evidence that MeHg has consistently low efflux rates for the organisms included in our study, as well as for humans (ATSDR 1999) and fish (Pickhardt et al. 2006; Mathews and Fisher 2008). Low MeHg efflux is associated with its observed propensity to persist in the body and biomagnify in aquatic food chains (Mason et al. 1996; Watras et al. 1998). In contrast, other nonessential metals (Ag, Am) have higher efflux rates and are not known to biomagnify. Because of its relatively invariant, low efflux
+ 
+ Figure 2: A, Steady state element concentration in response to growth and ingestion rates. Sensitivity inflection lines (I p Ke 􏱘 g ) indicate where element concentration is equally sensitive to growth and ingestion. Element concentration is more sensitive to ingestion above the line (I ! Ke 􏱘 g) and more sensitive to growth below the line (I 1 Ke 􏱘 g). Nonessential metals with the lowest efflux rates (MeHg in Daphnia, Po in copepods, and Pb in mussels) are shown for comparison. For each animal, the same qualitative relationships were observed for all elements, while the position of the inflection line varied. B, Sensitivity inflection lines for each element. For each element, steady state element concentration is relatively sensitive to growth to the right of the line and relatively sensitive to ingestion to the left of the line. The x-intercept of each inflection line is equivalent to element efflux rate (day􏱛1), increasing from left to right.
+
+ Growth Dilution Effects on Stoichiometry 705
+ rate compared with that of other elements, MeHg is likely an endmember representing the greatest sensitivity to SGD in diverse organisms. SGD likely reduces concentrations of other organic biomagnifying contaminants with low efflux rates, including PCBs (Fisk et al. 1998) and DDT (Wang and Wang 2005). Overall, SGD may be an effective means for reducing concentrations of biomagnifying nonessential metals and preventing toxicity, particularly when efflux and storage detoxification mechanisms are limited.
+SGD also appears capable of reducing concentrations of essential trace elements and macronutrients; N, Cu, and Fe in marine copepods and S in marine mussels had relatively low efflux rates and were highly sensitive to SGD. Studies have found that marine copepod egg production can be limited by N (Kiorboe 1989) and Fe (X. Chen, S. B. Baines, and N. S. Fisher, unpublished manuscript). Low efflux may enable copepods to sequester N and Fe and avoid nutrient deficiencies. While N storage has not been well documented, copepods contain ferritin in diapausing stages (Tarrant et al. 2008), suggesting the ability to store iron. Similarly, Cu can be stored in metallothionein (Kagi and Kojima 1987). In general, most organisms can store many different metals in metallothionein, which is thought to play a critical role in modulating metabolism involving metal-containing enzymes and in preventing metal toxicity (Karin 1985; Roesijadi 1996). Efflux rates for elements that are bound in these long-term storage pools generally are lower than short-term efflux rates, with few exceptions (Wang et al. 1996; Wang and Fisher 1997; Yu and Wang 2002, 2004; Tsui and Wang 2004b) and thus are more sensitive to growth dilution. Finally, bivalves may have low S efflux because, in addition to its presence in proteins, S is an important component of the shell (Rosenberg and Hughes 1991) and byssal threads (Swann et al. 1998), which may have low, tissue-specific rates of S loss.
+Our finding that essential nutrients can undergo SGD is consistent with central tenets of stoichiometric theory, provided the element in question is not limiting growth at the same time. For example, the growth rate hypothesis states that rapid growth is known to be strongly, positively correlated with increasing P content as a result of a greater demand for P-rich rRNA for protein synthesis (Elser et al. 1996). We would not expect SGD of P whenever an increase in P concentration is necessary for growth to occur. However, the growth rate–P coupling has been shown to weaken when P is not limiting, such as during food scarcity (Elser et al. 2003; Makino and Cotner 2004). Similarly, threshold element ratio (TER) models demonstrate that when food abundance is low and carbon limits growth, carbon gain (termed gross growth efficiency of C) outpaces gains of other nutrients (gross growth efficiency of P or N; Urabe and Watanabe 1992; Sterner 1997; Sterner and Elser 2002). Once a nutrient is diluted to a threshold,
+ limiting concentration, we expect growth to decrease, preventing further dilution. Thus, there is likely a negative feedback between growth rate and the concentration of essential elements that are tightly coupled to growth. TER models assume that the stoichiometric composition of animals is homeostatic. However, growth limitation is imposed by different essential elements under different conditions, and differences among elements in their allocation to new growth depend on what is limiting for a specific physiological state (Sterner 1997). Collectively, then, stoichiometry theory and SGD suggest that homeostatic elemental ratios are flexible and should reflect differences in physiological state as well as factors such as body size.
+One major implication of our study is that the strength of SGD may ontogenetically vary and may help explain allometric relationships observed in growth-sensitive elements. Relationships between body size and element concentration are variable (Brix and Lyngby 1985) and cannot be described by a single allometric constant for the same element, even among conspecifics (Wang and Fisher 1997). Previous studies suggest that growth and ingestion rates are important drivers of metal allometry (Wang and Fisher 1997; Pan and Wang 2008). A strong SGD effect may explain observed decreases in metal concentrations at larger body sizes when all else is equal (e.g., age, ingestion rate; Karimi et al. 2007; Ward et al. 2010b). However, even when element concentrations increase with body size, SGD could result in younger fast-growing organisms having concentrations lower than those of slower-growing organisms of the same size. Moreover, SGD effects may be particularly strong at smaller body sizes when growth rate (Von Bertalanffy 1957) and growth efficiency (Jorgensen 1976) are high. This hypothesis is consistent with studies that have directly attributed high growth to enhanced reduction of metal concentrations within juveniles compared to other life stages in molluscs (Ringwood 1991; Leung et al. 2001; Geffard et al. 2002) and marine fish (Zhang and Wang 2007). Finally, metal allometry may be explained partly by observed relationships between body size and element assimilation or efflux, depending on the element (Wang and Fisher 1997; Zhang and Wang 2007). The combined effects of each of these factors throughout development are difficult to predict but ultimately determine changes in element content in a growing organism.
+Ultimately, the overall effect of SGD on stoichiometry depends on element efflux rates and growth efficiency (growth relative to ingestion). A host of factors can influence these processes and SGD. For example, food quality (e.g., digestibility), food availability, activity level, and temperature influence ingestion and growth in predictable ways. In contrast, effects of these factors on element biokinetics often are element specific and difficult to generalize. For example, increasing temperature has no effect
+ 
+ 706 The American Naturalist
+ on MeHg efflux but lowers inorganic Hg efflux rate in Daphnia (Tsui and Wang 2004a). In contrast, higher temperatures significantly increase Cd and Co efflux in blue mussels (Baines et al. 2005), likely reducing the sensitivity of these elements to SGD.
+To take this argument to a deeper mechanistic level requires understanding the factors that drive element efflux. Yet, little is known about the regulation of efflux, even as one of the most fundamental processes regulating internal element concentrations (Mertz 1981). Efflux and assimilation can vary within the same species (tables 2, A4–A6). For instance, P efflux rates in Daphnia range 10fold (Lehman 1980; Urabe 1993; DeMott et al. 1998) and can be as low as MeHg efflux rates (table 2). Whether P and other nutrients have low efflux rates under nonlimiting conditions determines their sensitivity to SGD. The weight of evidence suggests that P efflux is low under Plimited conditions in Daphnia (DeMott et al. 1998; He and Wang 2007). However, other studies suggest that P can be stored in the body under nonlimiting conditions (Sterner and Schwalbach 2001; Frost and Elser 2002; Woods et al. 2002; Becker and Boersma 2005; Lee et al. 2006). Macronutrient storage and efflux under nonlimiting conditions are less well documented compared to metals. Finally, individual tissues often have distinct biological half-lives for a given element (Fisher et al. 1996), thereby further complicating our general understanding of efflux patterns among elements and species.
+Last, SGD appears likely to occur frequently under natural conditions, which has important ecological implications. SGD-driven changes in stoichiometry provide a basis for predicting variation in the nutritional value of prey and effects on element trophic transfer and cycling under different growth conditions. For example, SGD has the largest influence on low-efflux elements that, when assimilated, tend to be bound to tissue and cycled through food webs. During periods of rapid growth, SGD should decrease somatic concentrations and the trophic transfer of these growth-sensitive elements. In contrast, SGD has minor effects on elements that are either unassimilated and egested as fecal pellets or assimilated and rapidly effluxed in dissolved forms. The geochemical fates of elements lost in these two forms clearly differ, with unassimilated element transport via fecal pellets leading to shorter residence times in the water column than elements released into the dissolved phase and biologically recycled (Fisher and Reinfelder 1995). Overall, efflux and growth are fundamental, complementary processes by which organisms modify element concentrations. Our findings provide an initial framework with which to examine the influence of growth and efflux on elements in other organisms and with alternative exposure routes.
+ Acknowledgments
+We thank N. A. Friedenberg for assistance with the model analysis and C. Y. Chen, K. Cottingham, O. J. Schmitz, R. G. Shaw, D. M. Ward, and anonymous reviewers for helpful comments. We also thank W. X. Wang for mussel mercury data. This research was supported by National Institutes of Health grant P42 ESO7373-7 to C.L.F. and C. Y. Chen through the National Institute of Environmental Health Sciences and by Strategic Environmental Research and Development Program grant W912HQ06C0014 to N.S.F.
+Literature Cited
+ 
+ Growth Dilution Effects on Stoichiometry 709
+ Acanthocheir armata, from “The Mammoth Cave and Its Inhabitants” by A. S. Packard Jr. (American Naturalist, 1871, 5:739–761).
+ 

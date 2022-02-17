@@ -1,0 +1,9 @@
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,A. mellifera carnica,8222,8243,13.50,3,,,,NoMatch,,,,,,,,
+1,,Andreas,3304,3311,1.98,1,,,,Exact,0,Andreas,Andreas,3576012,168,ION,,
+2,,Apis mellifera,3531,3545,10.80,2,,,,Exact,0,"Apis mellifera Linnaeus, 1758",Apis mellifera,FN46,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Apinae|Apini|Apis|Apis mellifera,
+3,,Apis mellifera carnica,199,223,16.66,3,,,,Exact,0,"Apis mellifera carnica Pollmann, 1879",Apis mellifera carnica,5FQ3T,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Apinae|Apini|Apis|Apis mellifera,
+4,,Varroa,1346,1352,3.06,1,,,,Exact,0,"Varroa Oudemans, 1904",Varroa,7Q66S,1,Catalogue of Life,Biota|Animalia|Arthropoda|Arachnida|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa,
+5,,Varroa compared,4227,4242,2.64,2,,,,PartialExact,0,"Varroa Oudemans, 1904",Varroa,7Q66S,1,Catalogue of Life,Biota|Animalia|Arthropoda|Arachnida|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa,
+6,,Varroa destructor,701,719,5.52,2,,,,Exact,0,"Varroa destructor Anderson & Trueman, 2000",Varroa destructor,7X76D,1,Catalogue of Life,Biota|Animalia|Arthropoda|Arachnida|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa|Varroa destructor,
+7,,Varroa mite,881,892,2.19,2,,,,PartialExact,0,"Varroa Oudemans, 1904",Varroa,7Q66S,1,Catalogue of Life,Biota|Animalia|Arthropoda|Arachnida|Parasitiformes|Mesostigmata|Monogynaspida|Gamasina|Dermanyssoidea|Varroidae|Varroa,

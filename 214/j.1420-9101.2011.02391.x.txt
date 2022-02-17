@@ -1,0 +1,574 @@
+    Coral reefs as drivers of cladogenesis: expanding coral reefs, cryptic extinction events, and the development of biodiversity hotspots
+P. F. COWMAN & D. R. BELLWOOD
+School of Marine and Tropical Biology, and Australian Research Council Centre of Excellence for Coral Reef Studies, James Cook University, Townsville, QLD, Australia
+Keywords:
+age estimation;
+centre of survival;
+coral reef fishes;
+coral triangle; Indo-Australian Archipelago; lineage diversification; refuge.
+Abstract
+Diversification rates within four conspicuous coral reef fish families (Labridae, Chaetodontidae, Pomacentridae and Apogonidae) were estimated using Bayesian inference. Lineage through time plots revealed a possible late Eocene ⁄ early Oligocene cryptic extinction event coinciding with the collapse of the ancestral Tethyan ⁄ Arabian hotspot. Rates of diversification analysis revealed elevated cladogenesis in all families in the Oligocene ⁄ Miocene. Throughout the Miocene, lineages with a high percentage of coral reef– associated taxa display significantly higher net diversification rates than expected. The development of a complex mosaic of reef habitats in the IndoAustralian Archipelago (IAA) during the Oligocene ⁄ Miocene appears to have been a significant driver of cladogenesis. Patterns of diversification suggest that coral reefs acted as a refuge from high extinction, as reef taxa are able to sustain diversification at high extinction rates. The IAA appears to support both cladogenesis and survival in associated lineages, laying the foundation for the recent IAA marine biodiversity hotspot.
+Introduction
+Identifying the drivers of evolutionary change is an important goal of modern evolutionary studies. It is particularly important in our understanding of biodiversity hotspots and the factors that have shaped the evolution of multiple groups in these areas. In the marine realm, this goal has been at the forefront of studies of coral reef systems and their diverse ichthyological faunas (Bellwood & Wainwright, 2002; Connolly et al., 2003; Renema et al., 2008; Rocha & Bowen, 2008; Kiessling et al., 2010). Several of the most abundant and conspicuous taxa of coral reef–associated teleost fishes have been examined with molecular tools to elucidate their genericand species-level relationships (Bellwood et al., 2004; Bernardi et al., 2004; Barber & Bellwood, 2005; Bowen et al., 2006; Mabuchi et al., 2006; Rocha et al., 2008; Alfaro et al., 2009a; Cooper et al., 2009;
+Correspondence: Peter F. Cowman, School of Marine and Tropical Biology, James Cook University, Townsville, QLD 4811, Australia.
+Tel.: +61 7 4781 5729; fax: +61 7 4725 1570;
+e-mail: peter.cowman@jcu.edu.au
+Kazancioglu et al., 2009; Price et al., 2010). Such studies have yielded considerable information on the temporal origin of lineages within these coral reef fish groups. Although consensus is difficult, with a range of methods and approaches, several studies have pointed to the central role of the coral reef association in underpinning diversification within major marine groups (Alfaro et al., 2007; Renema et al., 2008; Bellwood et al., 2010).
+There is strong agreement between both fossil and molecular evidence to show that scleractinian corals and early representatives of modern reef fish groups were in place by the early Eocene (Wallace & Rosen, 2006; Renema et al., 2008). The Mesozoic faunal transition (Patterson, 1993), culminating in the mass extinction event at the K ⁄ T boundary (65 MY), appears to have underpinned a major radiation of reef fish lineages (Alfaro et al., 2007; Cowman et al., 2009). This is marked in the fossil record, with representatives of several modern reef fish groups first appearing in the Eocene strata (50 MY) of Monte Bolca, Italy (Bellwood, 1996). There are representatives of recent teleost forms present prior to the Eocene, but none are recognized as characteristic reef-dwelling taxa (Bellwood, 1996; Goatley et al.,
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY 2543
+doi: 10.1111/j.1420-9101.2011.02391.x
+
+2544 P. F. COWMAN AND D. R. BELLWOOD
+2010). The fossil record of Acropora corals, synonymous with modern reefs, is both geographically and temporally concordant with the first record of most major Acropora lineages in the early Eocene of western Europe (Wallace & Rosen, 2006). This time period (65–50 MY) has been identified as an important phase in the evolution of fishes associated with coral reefs (Bellwood & Wainwright, 2002; Goatley et al., 2010), exemplified by the appearance of piscine herbivory, which is now understood to play a major role in reef resilience (Bellwood, 2003). Nevertheless, it is not until later in the Neogene (23–1.6 MY) that we see the greatest expansion of coral reef forms.
+The expansion of coral reefs in the Neogene is associated with an eastward shift in biodiversity from the West Tethys to the current biodiversity hotspot in the Indo-Australian Archipelago (IAA) (Renema et al., 2008). Tectonic activity, global cooling and changing ocean circulation have all been invoked as evolutionary drivers in both marine (Williams & Duda, 2008) and terrestrial groups (Crisp & Cook, 2009). The extent to which these processes impacted the rate of speciation within coral reef fish lineages, however, remains unclear. An important step in understanding the evolutionary history of coral systems is the ability to quantify changes in diversity through time in order to explore the extent to which such periods of climatic upheaval and tectonic activity may have affected reef-associated fish lineages.
+With the recent increase in chronograms, we are now, for the first time, able to bring together well-supported chronologies, ecological data and advanced methodologies for diversification analyses to assess congruent patterns of cladogenesis among diverse reef fish lineages. These methodologies will allow us to identify periods in the history of each reef fish family where elevated rates of diversification resulted in significantly higher biodiversity than expected. Congruence in patterns of diversification among multiple families will enable us to identify periods of exceptional diversification and explore underlying evolutionary forces driving cladogenesis within these groups. This will provide a clear assessment of the evolutionary impacts of coral reefs on marine taxa and their role in shaping biodiversity hotspots. The two key questions are as follows: (i) Is there evidence of temporal concordance in the evolutionary origins of diverse reef fish lineages and (ii) Does reef use increase the rate of diversification in reef fishes?
+The four families chosen for this study are the Labridae (wrasses), the Chaetodontidae (butterflyfishes), the Pomacentridae (damselfishes) and the Apogonidae (cardinalfishes). These taxa rank among the eight most species-rich teleost families on coral reefs (Bellwood & Wainwright, 2002). They each display varying degrees of ecological, morphological and trophic disparity (Fraser & Lachner, 1985; Elliott et al.,1999; Wainwright et al., 2004; Mabuchi et al., 2006; Fessler & Westneat, 2007; Cooper & Westneat, 2009; Kazancioglu et al., 2009;
+Bellwood et al., 2010). Chronograms for both the Labridae and Chaetodontidae have been previously published (Cowman et al., 2009; Bellwood et al., 2010), which identify the crown origin of each family to be in different epochs (Labridae in the Palaeocene and Chaetodontidae in the Oligocene). Chronograms for the Pomacentridae and Apogonidae have yet to be constructed in a Bayesian framework. However, there are extensive molecular sequence data available for both of these families (Elliott et al., 1999; McCafferty et al., 2002; Quenouille et al., 2004; Mabuchi et al., 2006; Santini & Polacco, 2006; Thacker & Roje, 2009). By investigating patterns in the cladogenic history of lineages within these four temporally and ecologically distinct reef fish families, we may identify underlying forces driving species richness in reef habitats.
+This study therefore builds on and extends chronograms previously published for the Labridae (Cowman et al., 2009) and the Chaetodontidae (Bellwood et al., 2010) and provides newly constructed chronograms for the Pomacentridae and Apogonidae using concatenated supermatrix methods. An array of diversification statistics is then used to evaluate the histories of these families. Specifically, we will:
+1 Identify congruent periods of elevated diversification
+among the four families and evaluate their links to the
+biogeographic history of coral reef systems and
+2 Assess the relationship between the rate of diversification of a lineage and the percentage of reef occupancy of its extant members (do reefs enhance cladogenesis?) and examine the ability of taxa to sustain significant diversification at increasing extinction rates (do reefs
+act as a refuge?).
+Finally, we will compare the patterns of diversification within these fish families with published data for other reef groups.
+Materials and methods
+A range of published and unpublished sequence data for the families Labridae, Chaetodontidae, Pomacentridae and Apogonidae (Table S1, Appendix 1) were obtained from GenBank. Gene data sets were constructed for each family and were concatenated into supermatrices for phylogenetic analyses. The completeness of sequence information of each super matrix ranged from a maximum of 􏰀70% (Chaetodontidae) to a minimum of 48% (Apogonidae). Each gene region also had well over the 6-taxon overlap recommended by Thomson & Shaffer (2010).
+All gene regions were aligned using Clustal W (default settings), within GE N E I O U S v4.8.5 (Drummond et al., 2009). Unalignable ambiguous loop regions were identified in similar positions across all families in the 12S and 16S genes and were removed. Each gene alignment underwent model selection in jModelTest (Guindon & Gascuel, 2003; Posada, 2008) using Akaike Information Criterion (AIC) and maximum-likelihood (ML) optimized
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562 JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+guide trees for model assessment. Individual genes were reconstructed using ML analysis in Garli v1.0 (Zwickl, 2006) for topographic comparison. Gene alignments were concatenated into a supermatrix using Phyutility (Smith & Dunn, 2008). Supermatrices were then analysed using ML in Garli. The tree with the best likelihood score was then used as the starting tree for simultaneous estimation of topology, branch lengths and ages under a Bayesian framework in B E A S T 1.6.1 (Drummond & Rambaut, 2007). Utilizing fossil data, and historical biogeography events, informative parametric priors were placed on particular nodes of the tree to reflect the palaeontological history of the lineage (Table 1).
+Data sets
+The data set for the family Labridae consisted of four mitochondrial gene regions (12s, 16s, COI and Cyt B) and
+three nuclear markers (RAG2, TMO4c4 and S7 II) (Table S2, Appendix 1). A total of 276 labrid taxa were included (􏰀45% of nominal species) with representatives from all major labrid tribes and minor lineages (> 90% of nominal genera); 23 outgroup taxa included representatives of the Cichlidae, Pomacentridae, Embiotocidae and other perciform groups.
+The chaetodontid data set consisted of four mitochondrial gene regions (12s, 16s, ND3 and CytB) and four nuclear markers (RAG2, TMO4c4, S7 II and ETS2) (Table 2). The 97 chaetodontid species (􏰀75% of nominal species) included representatives from all nominal genera. Fourteen outgroup taxa included the members of the Pomacanthidae, Ephippidae, Kyphosidae, Scatophagidae, Zanclidae and Drepaneidae.
+The data set for the Pomacentridae consisted of 176 species (􏰀46% of nominal species, all genera represented), with six mitochondrial genes (12S, 16S, ATP6,
+Table 1 Fossil and biogeographic age constraints used for age estimation in BEAST for the families Labridae, Chaetodontidae, Pomacentridae and Apogonidae. Parametric prior distributions were placed on the MRCA of lineages reflecting calibration information.
+Family ⁄ MRCA
+Labridae
+Root (crown Labridae) Hypsigenyines
+Labridae (-hypsigenyines)
+Pseudodax ⁄ Achoerodus Calotomus ⁄ Sparisoma Bolbometopon ⁄ Cetoscarus Halichoeres dispilus ⁄ pictus
+Chaetodontidae
+Root (Scat ⁄ Chaetodontidae-Pomacanthidae) Crown Chaetodontidae
+Crown Chaetodon
+Pomacentridae
+Root (crown Pomacentridae)
+Abudefduf concolor ⁄ taurus
+A. troshelli ⁄ saxatitlis Apogonidae
+Root (Gobiidae ⁄ Apogonidae) Gobiidae (outgroup) Apogonidae
+Fossil ⁄ biogeography K ⁄ T boundary
+Phyllopharyngodon longipinnis Eocoris bloti
+Bellwoodilabrus landinii Trigondon jugleri
+Calotomus preisli Bolbometopon sp. Isthmus of Panama
+Eoscatophagus frontalis Chaetodon tholichthys larva Chaetodon ficheuri
+Palaeopomacentrus orphae Lorenzichthys olihan Isthmus of Panama Isthmus of Panama
+K ⁄ T boundary
+Legacy calibration Eosphaeramia margaritae
+Age (MY)
+65* 50 50 50 14 14 5 3.1à
+50 30.1 7
+50 50 3.1à 3.1à
+65* 40–52à 50
+Distribution
+Normal Lognormal Lognormal Lognormal Lognormal Lognormal Lognormal Normal
+Lognormal Lognormal Normal
+Lognormal Lognormal Normal Normal
+Uniform Lognormal Lognormal
+Prior (5–95%)
+54.5–105.5 51.5–63.1 51.5–63.1 51.5–63.1 15.1–44.0 15.1–44.0 6.1–11.1 3.5–10.5
+51.5–105.5 31.5–45.4 7.7–32.0
+51.5–105.5 51.5–105.5 3.5–10.5 3.5–10.5
+50–105 40–57 51.5–105.5
+Source publication
+Bellwood & Wainwright (2002) Bellwood (1990)
+Bannikov & Sorbini (1990) Bannikov & Carnevale (2010) Schultz & Bellwood (2004) Bellwood & Schultz (1991) Bellwood & Schultz (1991) Barber & Bellwood (2005)
+Tyler & Sorbini (1999) Micklick et al. (2009) Carnevale (2006)
+Bellwood & Sorbini (1996) Bellwood (1999)
+Lessios (2008)
+Lessios (2008)
+Bellwood & Wainwright (2002) Santini et al. (2009)
+Sorbini (1983)
+Cladogenesis on coral reefs 2545
+   MRCA, most recent common ancestor.
+*Crown group calibration based on K ⁄ T boundary extinction event. No full fossil specimens representing these modern percomorph lineages have been found before K ⁄ T boundary at 65 MY. Age estimates were permitted before and after the K ⁄ T boundary to assess its role in initial divergences within these groups. Upper 95% bound at 105 MY reflects age estimate of the crown Percomorpha from Santini et al. (2009). For the Gobiidae ⁄ Apogonidae split, a uniform distribution was used to reflect the lack of palaeontological data.
+Minimum fossil age. Labrid fossils from Monte Bolca place both hypsigenyines and nonhypsigenyine labrid lineages in place by 50 MY (see text). Miocene labrid fossils calibrations use minimum fossil age and wide upper bounds to allow possible older ages. For Pomacentridae, only two fossils from the Eocene of Monte Bolca can be placed within the family (Bellwood, 1999). A lognormal calibration reflects the probability of the crown age before youngest fossil age and a decreasing probability before the K ⁄ T boundary to the upper bound of the crown origin of Percomorpha. For the Chaetodontidae, the root node calibration is the split between Scatophagidae and Chaetodontidae ⁄ Pomacanthidae calibrated using a minimum fossil age and declining probability prior to the K ⁄ T boundary.
+àBiogeographic and legacy calibrations. Isthmus of Panama (IOP) calibrations reflect estimate of final closure (3.1) with upper bounds allowing divergences predating the IOP (Lessios, 2008). Legacy calibration of the Gobiidae as an outgroup calibration for the Apogonidae family reflects the 95% interval estimate of Santini et al. (2009).
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+2546 P. F. COWMAN AND D. R. BELLWOOD
+Table 2 Gamma statistic values from CR test and MCCR-adjusted P-values for each family.
+Information Criterion (BIC) implemented in jModelTest with ML optimized guide trees (Table S2, Appendix 1). Fossil specimens that could be accurately placed in an extant lineage using well-resolved morphological characters were used to place informative parametric priors at nodes representing the most recent common ancestor (MRCA) for that lineage (Table 1). The K ⁄ T boundary mass extinction and several fossils from the Eocene strata of Monte Bolca (Blot, 1969; Sorbini, 1983; Bellwood, 1990; Bellwood & Sorbini, 1996; Tyler & Sorbini, 1999) were used to calibrate the root of each family tree and early diverging lineages (Table 1). Parametric calibrations at root nodes included the age of the K⁄T boundary (65 MY), but permitted estimated ages to extend either side the event, to investigate the role of the K ⁄ T boundary in the early evolution of these families. A 95% upper bound was placed at 􏰀105 MY on the root calibrations for each of the phylogenies, reflecting the published age estimate for the crown divergence of the Percomorpha (Santini et al., 2009), which encompass our focal families and all putative outgroups.
+Both the Labridae and Pomacentridae have fossil lineages at 50 MY (Monte Bolca). Both used these fossils to calibrate lower bounds of crown lineages. In labrids, there are three fossils that date two lineages to 50 MY (Table 1). In pomacentrids, only two fossils exist to date the crown lineage to 50 MY, but with no separate lineages identified. For both the Labridae and Pomacentridae, the K ⁄ T boundary is used as a best estimate of the root crown age; however, this extends as a parametric distribution of decreasing probability back to 105 MY, the origins of the Percomorpha (Santini et al., 2009). A normal distribution across the K ⁄ T was used for labrids as we have multiple lineages identified within the family after the K ⁄ T. For pomacentrids, a lognormal is used as we have no evidence of post-K ⁄ T diversification in the crown group.
+In the chaetodontids, the lower bound of the crown group is defined by a tholichthys stage larva in the Oligocene (30.1 MY; Micklich et al., 2009). The stem lineage is dated from the split between the Chaetodontidae ⁄ Pomacanthidae from the Scatophagidae (based on Eoscatophagus frontalis at 50 MY; Tyler & Sorbini, 1999). We also have an immediate sister group to those lineages in the ephippid Eoplatax papilio at 50 MY (Tyler & Sorbini, 1999). However, pre-K ⁄ T origination is still possible, and therefore, a lognormal distribution from the fossil lower bound across the K ⁄ T boundary to a soft upper bound of 105 MY was used.
+Finally for the Apogonidae, the lower bound of the crown group is dated by a 50 MY fossil (Eosphaeramia margaritae; Sorbini, 1983). The stem age is calibrated using the K ⁄ T boundary, but because of few outgroup fossils, a uniform prior of 50–105 MY was used to set the initial divergence from the Gobiidae.
+Although other younger fossils of Oligocene and Miocene age could be used to calibrate younger lineages
+ Family
+Labridae Chaetodontidae Pomacentridae Apogonidae
+Species (sampled)
+608 (276) 127 (95) 384 (176) 345 (77)
+CR gamma
+)2.4863 3.3403 )0.5125 )3.4694
+MCCR-adjusted P-value
+0.8811 1.0 0.3041 0.2939
+  CR, constant rates; MCCR, Monte Carlo CR.
+The null hypothesis is that there is no slowdown in rates of cladogenesis from the root to the tips of the tree (i.e. that nodes are not distributed closer to the root of the tree. Total species for each family and numbers sampled in this study are shown.
+ATP8, cytochrome b and ND3) and three nuclear genes (BMP-4, RAG1 and RAG2) (Table S2, Appendix 1). Ten outgroup taxa included species from the Cichlidae, Embiotocidae, Labridae, Pomacanthidae and Pseudochromidae.
+The complete data set for the Apogonidae included five mitochondrial genes (12S, 16S, COI, ND1 and ND2) (Table S2, Appendix 1) for 77 species (􏰀22% of all nominal species). The 17 outgroup species were from the Gobiidae, Leiognathidae and Kurtidae. The outgroups selected for all four families included putative sister taxa indicated by Smith & Wheeler (2006).
+Phylogenetic and temporal analyses
+Maximum likelihood
+The complete supermatrices of each of the four families were exposed to ten individual ML runs in Garli, with two search replicates. The best trees from each run for each family were compared using likelihood scores and the SH test implemented in PAUP* (Swofford, 2000). This approach helped to fully explore tree space, and avoid retaining a suboptimal tree from the ML search. An ML bootstrap analysis was also run for 500 pseudoreplicates in Garli to identify highly supported clades. Bootstrap support values were mapped onto the best ML tree identified by the SH test. The best ML tree for each family was then used as a starting tree for full Bayesian estimation of topology, branch lengths and node ages using MCMC analysis in BEAST. The best phylogeny for each family was first converted to an ultrametric tree using the penalized likelihood option in r8s 1.71 (Sanderson, 2003). Phylogentically distant outgroup taxa were removed from all four trees to ensure a strict bifurcating topology.
+Bayesian inference
+The ultrametric trees were used as a starting tree for three independent MCMC runs in BEAST under both a concatenated model and a partitioned by gene model. Individual gene models were selected under Bayesian
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562 JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+of the Labridae (Bolbometopon, Calotomus and Pseudodax) and Chaetodontidae (Chaetodon ficheuri; Table 1), there are no fossil pomacentrid or apogonid taxa that can be accurately placed in an extant lineage from these time periods (Bellwood & Sorbini, 1996). In the case of the Pomacentridae, the closure of the Isthmus of Panama was also used to place calibrations on geminate species pairs of the tribe Abudefdufinae (Table 1).
+Concatenated runs and partitioned runs were compared using Bayes factors and effective sample size (ESS) scores. Individual runs were compared and assessed for convergence and stationarity in Tracer (Rambaut & Drummond, 2007) and AWTY (Wilgenbusch et al., 2004). Post-burnin tree files were combined in LO G CO M B I N E R v1.6.1 (Drummond & Rambaut, 2007) and compiled into a maximum clade credibility tree in TR E E AN N O T A T O R 1.6.1 (Drummond & Rambaut, 2007). The resulting chronograms displayed mean node ages and 95% highest posterior density (HPD) intervals at sampled nodes. These chronograms were used for diversification analyses. Phylograms displaying Bayesian posterior probability clade support were also constructed to compare with the ML bootstrap tree for each family.
+Diversification statistics
+The reconstructed chronograms for each of the four families were imported into R (http://www.R-project. org; R Development Core Team 2010) and examined using several diversification statistics. All statistics were carried out using functions written for GEIGER (Harmon et al., 2008), LASER (Rabosky, 2006), APE (Paradis, 2004a) and associated packages.
+The constant rates test (CR; Pybus & Harvey, 2000) was used to test for CR of cladogenesis through time for each family. This test estimated the gamma statistic of a set of branching times from the BEAST-generated chronograms. Significantly negative values (< )1.645, onetailed test) indicated that internal nodes of the tree are distributed closer to the root than would be expected under a Yule (pure birth) process, suggesting a slowdown in the rate of cladogenesis. A Monte Carlo CR (MCCR) test (Pybus & Harvey, 2000) was used to account for incomplete taxon sampling (which increases Type 1 error of the CR test; Pybus & Harvey, 2000). This compares the observed gamma to that of the null distribution created from 5000 randomly subsampled, simulated (full) topologies under a Yule process and calculates the adjusted P-value.
+To identify the lineages with a significantly faster or slower rate of cladogenesis, the relative cladogenesis statistic (RC; Nee et al., 1992) was used. This statistic uses the BEAST-generated chronogram and calculates the probability that the n total taxa descending from an internal node are partitioned into subclades of size r and s using a broken-stick distribution as the null hypothesis (Nee et al., 1994). The limitations of the RC test have
+been noted in the literature (Moore et al., 2004), with a primary concern being susceptible to Type 2 Error from incomplete sampling. The RC test is also based on net cladogenesis over time in a molecular tree. It cannot account for, or estimate rates of extinction through time. Estimating extinction rates from molecular phylogenies can be difficult (Paradis, 2004b). In the light of this, we also used the MEDUSA function in GEIGER to test diversification models using stepwise AIC (Alfaro et al., 2009b). MEDUSA utilizes phylogenetic and taxonomic data to estimate rate shifts on a chronogram with incomplete taxon sampling. It estimates the rates of speciation and extinction under birth ⁄ death models of increasing complexity. A rate shift is retained on the chronology when it results in a significant improvement in AIC score (cut-off = 4; Burnham & Anderson, 2003). All four chronograms were pruned to have one taxon representing well-supported clades, to which extant species richness could be accurately assigned using published sources (Allen, 1991; Randall, 1998, 2005; Bellwood et al., 2010) supplemented by Fish Base (http:// www.fishbase.org). MEDUSA makes an approximate estimate of the extinction rate under each rate shift model. However, estimates of extinction rates from the birth ⁄ death models may be biased when not constrained with fossil data (Paradis, 2004a,b; Quental & Marshall, 2009). As a complete fossil record for these groups is lacking, supported clades were examined on a gradient of increasing extinction rates to assess whether any lineage has the potential to remain significantly more diverse than expected at increasing rates of extinction.
+To determine whether lineages exhibited greater than expected species richness, given the global diversification rate for each family, a method-of-moments estimator (Magallon & Sanderson, 2001) was used based on the functions implemented in the package GEIGER. This estimator does not estimate extinction rate but allows speciation rates conditional on a priori constrained extinction rates to be examined. For each of the four families, the probability of observing extant species richness, given lineage age and the global rate of diversification (rG), was calculated across increased increments of extinction (􏰇 = 0.1–0.9). Stem ages were used for lineages with one taxon represented in the tree or where there was very low taxon sampling. This approach allowed significantly more diverse clades to be identified, even under high, assumed extinction rates. Lineages with significantly greater species richness were overlaid on lineage through time (LTT) plots of each family constructed in APE. Diversification rates for major lineages were also calculated using crown ages and extant species richness in GEIGER. These methods and others implemented in the GEIGER package have been used in recent publications to explore the rates of diversification in diverse clades of the reef fish order Tetraodontiformes (Alfaro et al., 2007) and in the three marine gastropod genera Turbo, Echinolittorina and Conus
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Cladogenesis on coral reefs 2547
+
+2548 P. F. COWMAN AND D. R. BELLWOOD
+(Williams & Duda, 2008). For comparative purposes, the methods-of-moments estimators were re-estimated using GEIGER, with the original age estimates and species richness taken from these publications. For the family Pomacanthidae, the previously unexplored data of Bellwood et al. (2004) were used.
+To determine whether LTT curves before and after the Eocene ⁄ Oligocene boundary show differences in diversification patterns, we explore the form of LTT curves in one-, twoand three-rate models, fitting models to three separate time periods (approximately 65–55, 55–33 and 33 to 􏰀10 MY). A preference for a two model fit separated at 33 MY would indicate a rate shift at this time. By exploring the trajectory of the LTT curve for each group, the contribution of speciation rate and extinction rate can be discriminated independent of the fossil record (Nee et al., 1994; Rabosky, 2006; Hickerson & Meyer, 2008; Crisp & Cook, 2009; but see Rabosky, 2009). Congruent patterns in the fluctuating LTT curves of these reef fish groups may help elucidate the underlying factors driving diversification in these taxa and in reef systems in general. While LTT plots are susceptible to Type 2 error from incomplete taxon sampling, all major lineages and the majority of genera are present for each family, indicating that any bias from incomplete taxon sampling at the species level would deflate diversification rates towards the tips of the tree. To account for this, following the procedure of Nee (2001), model fitting was restricted to the first 70% of the evolutionary history for Labridae, Pomacentridae and Apogonidae. As the Chaetodontidae had the least missing taxa of all four data sets (32 ⁄ 127), model fitting was applied to the first 90% of the family’s history. Constant rate PB, birth ⁄ death (BD) and rate variable density-dependant logistic (DDL) ⁄ exponential (DDX), twoand three-rate diversification models were examined in the package LASER. Models were compared using AIC. AIC scores of diversification models fit to whole histories (i.e. from origination to present minus 10–30% to allow for taxon sampling bias) were also compared to those of the sum of models fit to the three time periods within the history of each group. PB, birth ⁄ death and density-dependant models were fit to the Palaeo-Eocene portion of the families’ lineage histories and to the Oligo-Miocene portions using functions in LASER. Delta-AIC (DAIC) scores and AIC weights were then calculated from the combined log likelihoods of these models and compared to whole history models.
+Linear regression analysis was used to identify the relationship between the percentage of species that live on coral reefs (in the four focal families and those of the order Tetraodoniformes) and the global rate of diversification for each family at low and high rates of extinction. Species were designated as coral reef associated based on species descriptions from Fish Base and several published taxonomic guides (Randall et al., 1990; Allen, 1991; Randall, 1998, 2005; Bellwood et al., 2010), where coral reef was explicitly mentioned even if one of a number of
+potential habitats occupied. Furthermore, to investigate the possible role of reefs as a refuge from increased extinction, linear regression analysis was also used to identify the relationship between the per cent of species in a lineage that live on reefs (in significantly more diverse lineages within the four focal families) and the extinction level at which they remain significantly more diverse, i.e. can coral-dwelling lineages maintain high rates of diversification at high extinction rates?
+Results
+Both ML and Bayesian inference methods return tree topologies that were congruent with previously published trees for each family (Table S3, Appendix 1; Figs S1–S8, Appendix 2). There was also strong agreement between ML bootstrap values and Bayesian posterior probabilities for highly supported clades in all four families (see Supplemental Results section Appendix 1; Figs S1–S8, Appendix 2).
+Age estimation
+Chronologies for all four families (Figs S2, S4, S6, S8, Appendix 2) were reconstructed using uncorrelated lognormal distribution with both an unpartitioned GTR+I+G substitution model and a partitioned model with genespecific models. Three independent runs between 30 and 50 million generations were run for each data set under both partitioning schemes. All unpartitioned BEAST runs reached convergence between independent runs, and stationarity of split values. While partitioned model analyses outperformed unpartitioned model analyses under Bayes factors, only the partitioned analyses for the Chaetodontidae and the Pomacentridae reached convergence and stationarity. Partitioned analysis for the Labridae and Apogonidae failed to converge even after 50 million generations. ESS scores for parameter values from these runs were also very low. In the light of this, maximum clade credibility chronograms were compiled from combined post-burnin trees from unpartitioned analyses for the Labridae and Apogonidae, whereas partitioned runs were used to reconstruct the chronogram for the Chaetodontidae and Pomacentridae. When comparing topologies and age estimates between unpartitioned and partitioned analyses (Table S3), identical topologies were retained and mean age estimates and 95% HPD intervals for lineages found under a partition analyses lay with the 95% HPD of the unpartitioned trees (Table S3). Also comparisons with recently published chronograms for the families show similar age estimates, but increased taxon sampling and partitioned analyses appear to have resulted in narrower 95% HPD intervals (Table S3).
+The chronologic reconstruction identified concordant origins of the initial radiation of major lineages within the Labridae, Pomacentridae, and Apogonidae. Whereas
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562 JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+the stem lineages of the Labridae, Pomacentridae and Apogonidae all appear to lie in the Late Cretaceous, the crown age and initial major lineages arise following the K ⁄ T boundary (Table S3, Figs 1 and 2), with all major lineages in place by the middle Eocene (􏰀40 MY). Further diversification within lineages of these three families occurs within the Oligocene ⁄ Miocene and coincides with the origins of the Chaetodontidae and extensive radiation of the genus Chaetodon.
+Diversification analyses
+The CR test with MCCR-adjusted P-values showed no evidence of a slowdown in rates of cladogenesis for any of the families (Table 2). Global rates of diversification were similar for all four families ranging from 􏰀0.12 (Chaetodontidae) to 􏰀0.08 (Apogonidae) under PB to 􏰀0.08 (Chaetodontidae) to 􏰀0.05 (Apogonidae) under high extinction (􏰇 = 0.9, Table 3). The RC statistic identified significant increases in rates of diversification at nodes of the BEAST-calibrated chronograms for each of the four families (Figs 1 and 2). All nodes identified as having a significant shift in the rate of cladogenesis had origins in the Oligocene and Miocene epochs. MEDUSA analyses identified nodes and subclades of the four families where the tempo of evolution changed. Lineages subtending from nodes that were identified by both the RC test and MEDUSA as potential rate shift points were also identified as having significantly higher species richness than expected given the global diversification rates for each family using the moments estimator method (Table 3). Patterns within each family will be examined separately below.
+Labridae
+The RC test identified the nodes leading to reef-associated parrotfishes and also to the Julidine lineage as displaying significant rate shifts (P < 0.05). A ‘trickle-down’ effect (sensu Moore et al., 2004) was noticed from these nodes leading to the Chlorurus ⁄ Scarus lineages and major lineages within the julidines, corresponding to paraphyletic Halichoeres ⁄ Coris lineages and close sister lineages (Fig. 1a). The MEDUSA analysis identified four possible periods in the history of the Labridae where the tempo of evolution changed (Fig. 1a, Table 4). The global rate for the Labridae was estimated as 􏰀0.1, similar to the rate estimated by moment estimator (r = 0.095). The stem Scarus ⁄ Chlorurus lineage was identified as having experienced a two-fold increase in its rate of diversification (r = 0.21, DAIC = 91.7) and an increase in extinction (􏰇 = 0.55). Both the Lachnolaimus lineage and the Cheilio ⁄ Malapterus lineage were identified as having undergone a rate decrease (r < 0.0001, DAIC > 4).
+Several labrid crown lineages were also shown to be significantly more diverse than expected given the global rate of diversification. The crown julidine group and the reef parrotfish clade (scarines; MRCA Scarus ⁄ Cetoscarus;
+Fig. 1a) showed significantly higher diversity at up to 50% extinction (􏰇 = 0.5; Table 3). The pattern of high diversity within the julidines extends to paraphyletic Halichoeres lineages, and associated sister groups, as well as Thalassoma ⁄ Gomphosus (Fig. 1a), which remained significantly more diverse up to 50% extinction (􏰇 = 0.5, P < 0.05). In the parrotfishes, this pattern of significantly higher diversity only extended to Scarus and Chlorurus, both remaining significantly more diverse than expected above 80% extinction. Significantly more diverse radiations were also found in the hypsigenyine crown lineage of Bodianus et al. (􏰇 = 0.7) and the pseudolabrine lineage (􏰇 = 0.4).
+Chaetodontidae
+In the Chaetodontidae, the placement of a rate shift at the lineage containing the crown Chaetodon was recorded by the RC statistic (Fig. 1b, P < 0.05). A trickle-down effect was observed to the node containing Chaetodon clades 2, 3 and 4 (P < 0.05). A rate shift at this node was also identified by MEDUSA and was supported over a single rate model (DAIC = 4.1; Table 4; Fig. 1b). Moment’s estimation found the crown group Chaetodon to be significantly more diverse than expected at high extinction (􏰇 = 0.9; Table 3). The pattern of significantly higher diversity within Chaetodon extended down to the younger subtending lineages of Chaetodon clades 2 and 4. Both of these lineages remained significantly more diverse than expected at high extinction levels (􏰇 = 0.7, P < 0.05). The Prognathoides lineage was also significantly more diverse under a PB model (􏰇 = 0.0, P < 0.05).
+Pomacentridae
+Within the damselfish family, both an Amphiprion clade and the clade containing the genus Pomacentrus were identified by the RC test as having undergone a change in the rate of diversification (P < 0.005, P < 0.05; Fig. 2b). The MEDUSA analysis agreed with the RC test in placing a potential rate increase at the stem lineage of the Amphiprion clade (r = 0.14; DAIC = 6.2, Table 4). In addition, MEDUSA placed a rate decrease on the Lepidozygus lineage (r < 0.00001; DAIC = 4.03). Damselfish lineages identified as being significantly more diverse than expected by moment’s estimation were the Amphiprion lineage (at 􏰇 = 0.9), the crown Pomacentrus lineage (at 􏰇 = 0.6) and the crown lineage of the Chrominae tribe (at 􏰇 = 0.2).
+Apogonidae
+Whereas some of the major branches within the crown Apogonidae were not highly supported (Fig. S2, Appendix 2), several crown ages for major clades were supported and diversities were assigned (Fig. 2a; Table S3). The RC test identified a significant shift in the rate of diversification at the lineage encompassing members of the genera Apogon, Archamia, Zoramia, Ostorhinchus, Cheilodpterus and Gossamia (P < 0.05, Fig. 2a). This clade
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Cladogenesis on coral reefs 2549
+
+2550 P. F. COWMAN AND D. R. BELLWOOD
+     Halichoeres IP (26/50)
+Macropharygodon (9/11) Halichoeres II (3/3)
+Leptojulis (1/4)
+Halichoeres hartzfeldii
+Halichoeres NW (14/27) Halichoeres semicinctus
+Oxyjulis (1/1)
+Pseudojuloides (2/11)
+Anampses (6/13)
+Thalassoma & Gomphosus (28/30) Halichoeres maculipinna Ophthalmolepis
+Hemigymnus (2/3) Labrichthyines (7/14) Coris (6/19)
+Coris & Pseudocoris (4/10) Hologymnus (2/2) Stethojulis (4/10) Pseudolabrines (14/24) Suezichthys (1/10) Novaculines (8/38) Malapterus
+Cheilio
+Cirrhilabrus et al. (7/47) Pseudocheilinus et al. (4/8) Paracheilinus (2/17) Pteragogus (2/7)
+Scarus (26/52)
+Chlorurus (7/17) Hipposcarus (1/3) Bolbometopon (1/1) Cetoscarus (1/1) Sparisoma (12/14) Nicholsina (2/3) Cryptotomus (1/1) Calotomus (2/5) Leptoscarus
+Cheilines (11/39)
+Labrines (22/23) Choerodon et al. (9/26) Odacines (7/12)
+Bodianus et al. (12/53) Pseudodax
+Achoerodus (1/2) Lachnolaimus
+Amphichaetodon (2/2) Chelmon (3) Chelmonops (2/2) Coradion (3/3) Heniochus (7/8) Johnrandallia (1/1) Hemitaurichthys (3/4) Forcipiger (2/2) Chaetodon I (2/3) Chaetodon II (24/38) Chaetodon III (18/22) Chaetodon IV (25/31) Prognathodes (3/10) Pomacanthidae Scatophagidae
+Recent 70.0 60.0 50.0 40.0 30.0 20.0 10.0 0.0
+Fig. 1 Chronograms reconstructed from three independent BEAST MCMC analyses illustrating major lineages for (a) the Labridae and
+(b) the Chaetodontidae. Numbers in brackets indicate sample species compared to overall extant species richness of the lineage. Lineages with a white triangle are significantly more diverse than expected up to 50% extinction (􏰇 £ 0.5), and black triangles are significantly more diverse up to 90% extinction (0.5 < 􏰇 £ 0.9). White stars represent lineages found to have a significantly higher rate of cladogenesis by the relative cladogenesis test (P < 0.05). Circles represent placement of rate shifts identified by MEDUSA; numbers correspond to Table 4.
+      (a) Labridae
+                                    3
+          1
+                   2
+   (b) Chaetodontidae
+          1
+               Cr
+Paleo.
+Eocene
+Oligo. Miocene
+Pl.
+                                                                            was also recorded by MEDUSA analysis as experiencing an increased rate of diversification at the stem lineage with a significant increase in AIC score (DAIC = 18.9; Table 4; Fig. 2b). Within this apogonid subgroup, signif-
+icantly higher diversity than expected was identified in the lineages of Apogon⁄Archamia, Ostorinchus clade 2 (barred) and Ostorhinchus clade 3 (striped), even constrained at high levels of extinction (􏰇 = 0.8, Table 3). At
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562 JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Cladogenesis on coral reefs 2551
+  (a) Apogonidae
+Phaeoptyx et al. (9*)
+Apogon & Archamia (7/56)
+Zoramia & Ostorhinchus 1 (5/7)
+Ostorhinchus 3 (striped)(18/79) Ostorhinchus 2 (barred)(7/41) Cheilodipterus & Glossamia (4/32) Apogon norfolcensis
+Pristiapogon (2/6) Pristicon (3/3)
+Apogon taeniatus Fowleria (4/10) Sphaeramia (2/2) Gymnapogon et al. (4/10) Rhabdamia et al. (3/10) Siphamia (2/10) Pseudamia (1/12)
+Amphiprion crown group (19/24)
+Amphiprion latezonatus (1/1) Premnas & Amphiprion (3/3) Neopomacentrus et al (8/19) Pristotis obtusirostris (1/2) Teixeirichthys jordani (1/1) Pomacentrus (27/72) Chrysiptera Clade III et al. (5/5) Neoglyphidodon (5/8) Acanthochromis (1/1) Amblyglyphidodon (3/9) Hemiglyphidodon (1/1) Chrysiptera Clade II (8/26) Cheiloprion (1/1)
+Chrysiptera Clade I et al. (6/6) Dischistodus (5/7)
+Abudefduf IP/IOP (14/16) Abudefduf EP/WA (3/3) Dascyllus (9/10)
+                         (b) Pomacentridae
+1
+                     Chromis IP Clade 4 (7/*)
+Chromis EP/WA (4/*)
+Chromis IP Clade 3 (5/*)
+Chromis EA (3/*)
+Chromis EP (2/*)
+Chromis IP Clade 2 (5/*)
+Chromis IP Clade 1 (3/*)
+Lepidozygus (1/1)
+‘Abudefduf’ luridus
+Similiparma hermani
+Hypsypops rubicundus
+Micropathodon (2/4)
+Stegastes et al. IP (7/*)
+Stegastes Atl. (7/*)
+Stegastes IP & Plectroglyphidodon (3/*) Parma oligolepis (1/9)
+Mecaenichthys & Parma (2/2)
+70.0 60.0 50.0 40.0 30.0 20.0 10.0 0.0
+Fig. 2 Chronograms reconstructed from three independent BEAST MCMC analyses illustrating major lineages for (a) the Apogonidae and (b) the Pomacentridae. See Fig. 1 for detailed legend. ^The Chrominae lineage is highlighted to identify that at the crown age of this lineage, it was found to be significantly more diverse than expected under the global rate of diversification for the family.
+ Chrominae^ (40/109)
+      2
+            Cr.
+Paleo. Eocene Oli
+go.
+Miocene
+Pl.
+                    1
+                                                   moderate levels of extinction (􏰇 = 0.5, Table 3), the clade containing Cheilodipterus ⁄ Glossamia was also significantly more diverse than expected.
+Lineage accumulation through time
+The LTT plots identified the initial radiation of the labrids, pomacentrids and apogonids in the early Palaeocene (63–59 MY, Fig. 3). The chaetodontids did not diversify until the beginning of the Oligocene (􏰀33 MY). The
+Labridae and Pomacentridae have a similar initial concave lineage curve reaching a plateau in the midto late Eocene (􏰀40 MY). The apogonids exhibit a more constant rate of lineage accumulation throughout the Palaeocene and Eocene epochs. However, all three families show a synchronous upturn in the slope of lineage accumulation in the Oligocene. This upturn in the Oligocene results in the LTT plot of the Labridae and the Pomacentridae becoming slightly antisigmoidal in shape, whereas the apogonids appear to have undergone
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+2552 P. F. COWMAN AND D. R. BELLWOOD
+Table 3 Departure of lineages from the global rate of diversification for each family estimated using method-of-moments estimator (Magallon & Sanderson, 2001).
+ Rate estimate
+􏰇=0 􏰇=0.9
+0.095 0.068 0.073 0.043 0.172 0.093 0.116 0.054 0.104 0.047 0.086 0.039 0.134 0.080 0.167 0.095 0.368 0.155 0.311 0.168 0.085 0.049 0.108 0.055 0.123 0.081 0.167 0.077 0.183 0.069 0.146 0.078 0.172 0.081 0.171 0.083
+0.130 0.080 0.098 0.045 0.000 0.000 0.130 0.038 0.000 0.000 0.128 0.037 0.198 0.068 0.301 0.088 0.000 0.000 0.234 0.138 0.057 0.016 0.263 0.132 0.185 0.082 0.260 0.126 0.247 0.145 0.223 0.120 0.162 0.061
+0.093 0.064 0.075 0.042 0.119 0.077 0.121 0.073 0.036 0.011 0.091 0.039 0.170 0.097 0.080 0.035 0.039 0.012 0.099 0.046 0.060 0.020 0.175 0.084 0.388 0.178
+rG = 0.081 0.170 0.093 0.000 0.141 0.069 0.008 0.061 0.022 0.719 0.084 0.031 0.408 0.071 0.023 0.564
+Moment estimator
+  Tribe ⁄ lineage Labridae
+Hypsigenyines
+Bodianus et al. Choerodon et al. Labrines Cheilines Scarines
+Reef clade scarines
+Chlorurus
+Scarus
+Pseudocheilines Novaculines
+Julidines
+Pseudolabrines Pseudojuloides Halichoeres IP
+Halichoeres NW Thalassoma & Gomphosus
+Chaetodontidae Bannerfish Amphichaetodon Chelmon Chelmonops Coradion Heniochus Hemitaurichthys Forcipiger Chaetodon crown Clade 1*
+Clade 2 Clade 3 Clade 4 C2C3C4 C3C4 Prognathodes
+Pomacentridae Stegastinae Pomacentrinae Chrominae Chyrsiptera 1 Abudefdufinae Pomacentrus Neopomancentrus Chyrsiptera 3 Chyrsiptera 2 Dischistodus Amphiprionae Amphiprion ‘crown’
+Apogonidae
+Apogon + Archamia Cheilodipterus et al. Fowleria et al. Gymnapogon et al. Ostorhinchus 1 + Zoramia
+Total Age
+608 59.9 95 53.07 53 19.08 26 22.12 23 23.41 39 22.94 97 29.04 73 21.6 17 5.82 52 10.47 78 42.93 38 27.34
+247 39.2 24 14.84 11 9.32 50 21.9 27 15.12 30 15.85
+127 32.11 25 25.83 2 4.81 3 3.13 2 2.09 3 3.18 8 7.0 4 2.3 2 5.38 91 16.32 3 7.14
+36 11
+21 12.69 31 10.55 88 15.3 52 14.6 11 7.11
+384 55.3 67 47.1 187 38.2
+109 33
+6 30.5 19 24.8 72 21.1 19 28.1 5 23.6 26 21.5
+7 21 29 15.3 24 6.4
+345 63.21 56 19.59 32 19.61 10 26.43 11 20.4
+7 17.64
+% Reef
+63.16 46.3 49.1 65.4 0 96.4 87.6
+100 100 100
+76.9 15.8 65.6 29.2 45.5 65.6 55 76.7
+81.1 26.1 0
+0
+0
+66.66 62.5 50
+100 85.7
+100 72.22
+100 90
+85.22 94.23 45.45
+68.14 49.25 84.49 65.14
+100.00 73.68 88.89 78.95 60.00 84.62 85.71
+100.00 100.00
+52.46 58.93 43.75 70.00 54.55 71.43
+􏰇=0
+rG = 0.095
+0.880
+0.001
+0.176 0.301 0.178 0.015 0.001 0.000 0.000 0.633 0.233 0.019 0.014 0.040 0.01 0.008 0.007
+rG = 0.130 0.793 1.000 0.555 1.000 0.561 0.154 0.165 1.000 0.000 0.364 0.001 0.079 0.002 0.000 0.002 0.047
+rG = 0.093 0.806 0.031 0.039 0.970 0.459 0.000 0.622 0.937 0.133 0.799 0.005 0.000
+􏰇 = 0.3
+rG = 0.094
+0.791
+0.006
+0.223 0.330 0.224 0.036 0.004 0.000 0.000 0.580 0.271 0.041 0.035 0.075 0.03 0.024 0.021
+rG = 0.127 0.709 0.872 0.546 0.884 0.550 0.201 0.211 0.876 0.001 0.459 0.004 0.121 0.007 0.000 0.009 0.083
+rG = 0.092 0.720 0.059 0.06 0.902 0.453 0.002 0.577 0.852 0.180 0.719 0.016 0.000
+rG = 0.080 0.001 0.023 0.654 0.417 0.537
+􏰇 = 0.5
+rG = 0.091
+0.768
+0.017
+0.263 0.362 0.264 0.060 0.011 0.001 0.000 0.572 0.305 0.061 0.063 0.113 0.05 0.047 0.042
+rG = 0.121 0.688 0.818 0.536 0.804 0.539 0.238 0.247 0.827 0.003 0.536 0.011 0.157 0.017 0.002 0.020 0.118
+rG = 0.088 0.698 0.081 0.098 0.890 0.469 0.007 0.578 0.838 0.220 0.709 0.033 0.000
+rG = 0.077 0.003 0.044 0.649 0.439 0.544
+􏰇 = 0.7
+rG = 0.084
+0.764
+0.045
+0.335 0.428 0.335 0.103 0.032 0.007 0.001 0.591 0.368 0.092 0.120 0.181 0.1 0.096 0.089
+rG = 0.109 0.690 0.801 0.539 0.737 0.542 0.299 0.295 0.816 0.010 0.635 0.029 0.214 0.040 0.006 0.042 0.177
+rG = 0.081 0.697 0.111 0.13 0.896 0.518 0.022 0.613 0.852 0.287 0.736 0.072 0.001
+rG = 0.071 0.012 0.089 0.682 0.497 0.590
+􏰇 = 0.8
+rG = 0.078
+0.768 0.081 0.400 0.489 0.399 0.145 0.060 0.021 0.004 0.615 0.426 0.119 0.179 0.248 0.15 0.151 0.141
+rG = 0.099 0.700 0.814 0.561 0.721 0.565 0.356 0.334 0.830 0.020 0.700 0.052 0.265 0.068 0.014 0.067 0.231
+rG = 0.075 0.706 0.137 0.175 0.907 0.567 0.042 0.651 0.870 0.348 0.769 0.117 0.004
+rG = 0.065 0.028 0.137 0.719 0.554 0.640
+􏰇=0.9
+rG = 0.068
+0.780 0.173 0.517 0.594 0.515 0.235 0.137 0.074 0.029 0.660 0.529 0.176 0.306 0.383 0.26 0.272 0.259
+rG = 0.080 0.722 0.850 0.624 0.739 0.628 0.461 0.409 0.865 0.046 0.783 0.110 0.361 0.135 0.036 0.123 0.336
+rG = 0.064 0.724 0.188 0.247 0.926 0.651 0.101 0.717 0.901 0.460 0.824 0.221 0.026
+rG = 0.056 0.080 0.243 0.781 0.652 0.726
+  0.081 0.056
+ a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562 JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Table 3 (Continued)
+Tribe ⁄ lineage Ostorhinchus 2 (barred)
+Ostorhinchus 3 (striped) Phaeoptyx et al. Pristiapogon
+Pristicon
+Total
+Age % Reef
+16.85 56.10 23.89 68.35 31 77.78 24.55 66.67 10.93 100.00 26.17 80.00 53.16 59.09 30.94 50.00
+Rate estimate
+􏰇=0 􏰇=0.9
+0.179 0.092 0.154 0.089 0.049 0.017 0.045 0.014 0.037 0.011 0.061 0.022 0.058 0.021 0.022 0.003
+Moment estimator
+􏰇=0 􏰇=0.3
+0.000 0.001 0.000 0.001 0.870 0.783 0.862 0.774 0.832 0.740 0.710 0.647 0.757 0.810 0.920 0.940
+􏰇=0.5 􏰇 = 0.7 0.004 0.017
+0.003 0.013
+0.770 0.789 0.761 0.782 0.712 0.726 0.643 0.677 0.837 0.862 0.952 0.964
+􏰇=0.8 0.037
+0.028
+0.812 0.810 0.758 0.715 0.876 0.971
+􏰇=0.9 0.100
+0.076 0.851 0.855 0.819 0.778 0.891 0.979
+Cladogenesis on coral reefs
+2553
+     41 79 9 6 3 10 22 Sphaeramia 2
+Rhabdamia et al. Siphamia
+ Bold, italicized P-values highlight significantly higher species richness in subtending clades than expected under the global rate of cladogenesis. 􏰇 is the extinction rate, and rG is the estimated global speciation rate conditional on the extinction rate for each family. Clade names and ages are taken from the tip labels and mean node heights of Figs 1 and 2. Lineages with ‘et al.’ contain multiple genera.
+*Indicates probabilities calculated using clade stem age.
+Indicates extinction levels at which stem ages were also significantly more diverse.
+Table 4 MEDUSA results ranking rate shift models based on DAIC score for the families Labridae, Chaetodontidae, Pomacentridae and Apogonidae. Bold values indicate single rate family models to which each shift model is compared.
+ Shift No.
+0
+1 2 3 0 1 0 1 2 0 1
+Family ⁄ lineage Age (MY) R Epsilon (􏰇) AIC Labridae 59.9 0.1 <0.00001 1035.7822
+Scarus ⁄ Chlorurus 12.8 0.21 0.55 944.0367 Lachnolaimus* 53 <0.0001 – 939.3477 Cheilo ⁄ Malapterus 43.8 0.0125 < 0.00001 935.2281 Chaetodontidae 32.1 0.1 0.00001 143.2024 C2C3C4 16.3 0.2 <0.00001 138.8612 Pomacentridae 55.3 0.093 0 269.428 Crown Amphiprion 11.4 0.14 0.8 263.1591 Lepidozygus* 54.8 <0.00001 – 259.1282 Apogonidae 63.25 0.05 0.00002 222.6659 ‘Crown’ Apogon 34.1 0.15 < 0.00001 203.7021
+DAIC –
+91.7455 4.689 4.1196 – 4.3412 – 6.2689 4.0309 – 18.9638
+  AIC, Akaike Information Criterion.
+Rates of diversification under each shift model are indicated with extinction fraction (􏰇). *Indicates stem lineage where extinction cannot be estimated (see Rabosky et al., 2007).
+an increase in lineage accumulation during the Oligocene, which gradually decreases in the Miocene. The relative timing of this shift in lineage accumulation at the beginning of the Oligocene also coincides with the initial chaetodontid radiation (Fig. 3). The butterflyfish display a delayed shift in accumulation rate, which occurs in the early to mid-Miocene.
+When the ages of lineages that were found to be significantly more diverse than expected (Fig. 3) are overlayed on the LTT plot, a clear pattern emerges; the majority of significant cladogenesis events occur in the Miocene. The temporal concentration of diverse radiations within the Miocene is supported by data from previous studies (Fig. 3). Several lineages within two other reef fish groups (Tetraodoniformes and Pomacanthidae), two reef-affiliated marine gastropod genera (Turbo and Conus) and one coastal marine gastropod genus (Echinolittorina) all showed significantly higher rates of diversification within the Miocene.
+After exploring the shape of LTT plots of each family (Fig. 4), models of diversifications were compared over the whole history of each family and between individual epochs or time periods reflecting patterns of lineage accumulation (Fig. 4). For the Labridae and Pomacentridae, a fast ⁄ slow ⁄ fast model (reflecting rate variation in the Palaeocene ⁄ Eocene ⁄ Oilgo-Miocene) and a densitydependant ⁄ PB rate model (reflecting the antisigmodal pattern) were compared to ascertain whether the antisigmodal nature of the LTT plot for these two families occurred from a multiple rate shift model or from a transition from a density-dependant model to a constant rate PB model. AIC weights show greatest support for the model of density-dependant (DDL; R1 = 0.14, k = 18.9, Table 5) lineage accumulation in the PalaeoEocene, followed by a PB model (PB; R2 = 0.1, Table 5) in the Oligo-Miocene for both the Labridae and Pomacentridae (Table 5). For the Labridae, the point of upturn ⁄ change from the DDL model to the PB was
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+2554 P. F. COWMAN AND D. R. BELLWOOD
+       (a)
+Labridae Pomacentridae
+Chaetodontidae Apogonidae
+Diverse Lineages 10–50% extinction
+≥ 50% extinction
+MEDUSA rate increase
+     200 100 50
+20 10 5
+2 1
+                                                                 (b)
+400 200 0
+   –200
+   –400
+   –600
+(c)
+Tetraodontiformes Pomacanthidae Turbo Echinolittorina Conus
+                                Cr
+Paleo.
+Eocene
+Oligo.
+Miocene
+       70 60 50 40 30 20 10 0
+Time before present (MY)
+Fig. 3 (a) Lineage through time plot for each of the four families. Circles indicate the age of origin of significantly more diverse lineages. Arrows indicate potential rate increases identified by MEDUSA analyses (Table 4). (b) Variation over time in the numbers of fossil marine organisms, taken from detrended data of Rohde & Muller (2005). Shaded areas indicate periods of rapid decline in fossil numbers associated with extinction events. (c) Line graph showing origins (vertical bar) of other reef and coastal groups with circles representing significantly more diverse lineages [as in (a) above]. Data are taken from Table S4 Appendix 1.
+Pl.
+                               􏰀33MY, whereas for the Pomacentridae was at 􏰀40 MY.
+For the Apogonidae, AIC weights show greatest support for a slow ⁄ fast ⁄ slow model, where the PalaeoEocene had a slower rate of diversification (R1 = 0.05), followed by a rate increase during the Oligocene (R2 = 0.11) and then a rate decrease in the Miocene (R3 = 0.09, Table 5). For the Chaetodontidae, two PB models fitted to the period before (R1 = 0.08) and after the origin of Chaetodon (R2 = 0.18) were supported over a PB model for the whole tree; however, there was little difference between this two-rate model and a constant rate birth ⁄ death model in an AIC framework (Table 5).
+Coral reef associations
+In the four focal reef fish families, every clade that showed significantly higher rates of diversification at
+moderate to high levels of extinction (􏰇 = 0.5–0.9) had over 50% of their taxa associated with coral reefs. The Tetraodontiformes also had four significantly more diverse lineages in the late Oligocene ⁄ Miocene (Balistidae, Monocanthidae, Ostraciidae and Diodontidae), all with > 50% reef association, and just one in the Eocene (Tetraodontidae) which had < 30% reef association (Table S4, S5, Appendix 1). Marine gastropod lineages associated with coral reefs within the genera Turbo and Conus also had significant radiations within the Miocene (Fig. 3; Table S4, Appendix 1). The gastropod genus Echinolittorina likewise had a significantly more diverse lineage within the Miocene, and although Echinolittorina is not strictly reef associated, the lineage is widely distributed throughout the tropical IAA.
+Scatter plots of percentage coral reef association in the four focal families and the tetraodontiform families versus diversification rate at the family level display a
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562 JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+# Marine fossils Log # Lineages
+
+                 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 Proportion of family history
+Fig. 4 Independent lineage through time (LTT) plots for the first 70% of evolutionary history (from the root node) for the Labridae, Pomacentridae and Apogonidae, and the first 90% for the Chaetodontidae. X-axis displays the proportion of family history from the root node. LTT curves are coloured according to the rate models with greatest support from Table 5. Rate parameters are also indicated (Table 5). Dashed line represents predicted lineage accumulation under a pure birth model for each family (Nee, 2001).
+   Chaetodontidae
+r1 = 0.18
+r1 = 0.08
+                          Pomacentridae
+r2 = 0.08
+r1 = 0.4 (6.3)
+                       Apogonidae
+r1 = 0.05
+r3 = 0.09 r2 = 0.11
+                       Labridae
+r1 = 0.14 (18.9)
+r2 = 0.10
+       weak but statistically significantly positive correlation at low extinction (􏰇 = 0; r2 = 0.366; P = 0.048; Fig. 5a). This correlation becomes stronger and highly significant at high a priori constrained extinction rates (􏰇 = 0.9; r2 = 0.48; P = 0.01; Fig. 5a). The four focal families by
+themselves also display a linear relationship between diversification rates and per cent coral reef occupancy (r2 > 0.8); however, this only borders on significant (P = 0.05), probably due to low sample size. Thus, at both high and low constrained extinction rates, living on a coral reef results in significantly higher levels of cladogenesis.
+However, reefs also appear to function as a refuge, as there is a significant relationship between percentage reef occupancy and the extinction level at which lineages within all families remain significantly more diverse than expected (r2 = 0.43; P = 0.0061; Fig. 5b). Regression results for individual families indicate that the Labridae and the Chaetodontidae display a significant correlation (P < 0.05; r2 > 0.5) whereas the Pomacentridae and Apogonidae do not (P > 0.1), probably due to low sample sizes. Overall, the higher the percentage of reef-associated taxa, the greater the rate of extinction a lineage can withstand while still remaining significantly more diverse than expected.
+Discussion
+Here, for the first time, we examine the temporal concordance in elevated cladogenesis of four distantly related but biologically diverse groups of coral reef fishes. The patterns identified herein were also found in a re-analysis of other reef-affiliated groups. Although the initial establishment of major lineages of wrasses, damselfishes and cardinalfishes was a feature of the Palaeocene and Eocene, it is not until the Oligocene ⁄ Miocene that a dramatic increase in the rate of lineage accumulation occurs, following a possible cryptic extinction event. The Oligocene ⁄ Miocene was also marked by the initial diversification of the butterflyfishes, which may have experienced a delayed increase in diversification rates in the early Miocene. Elevated cladogenesis following a possible late Eocene⁄ early Oligocene extinction event resulted in significantly more species than expected in several lineages. At the family level, a strong correlation was found between the proportion of coral reef–associated taxa in a family and the rates of diversification: the families with more coraldwelling species have higher rates of diversification.
+Among lineages with significant species richness, there is also a link between coral reef association and the ability to remain significantly more diverse with increased extinction rates. Every significantly diverse lineage (at 􏰇 ‡ 0.5) has over 50% of extant taxa affiliated with coral reef systems. There are several instances where lineages with over 75% reef affinity were still significantly diverse at up to 90% extinction (crown julidines, Scarus, Amphiprion). This prevalence of high percentage of reef occupancy with high diversity, despite probable low survival rates, strongly suggests that reef systems provided a safe haven for a number of groups during periods of increased extinction. Coral reefs therefore appear to have provided both a habitat that supports rapid
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Cladogenesis on coral reefs 2555
+Log # Lineages
+1.0 1.5 2.0 2.5 3.0 3.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 1.0 1.5 2.0 2.5 3.0 3.5 1.0 2.0 3.0 4.0
+
+2556 P. F. COWMAN AND D. R. BELLWOOD
+Table 5 Ranking of diversification models fit to branching time from BEAST-generated chronograms using DAIC and AIC weight. Bold values indicate best diversification model fit for each family.
+ Family Labridae
+Pomacentridae
+Apogonidae
+Chaetodontidae
+Model
+PB
+2 rate DDL⁄PB 3 rate
+PB
+2 rate DDL⁄PB 3 rate
+PB
+2 rate 3 rate
+PB BD
+2 rate
+Time period Whole (70%)
+Palaeo-Eo ⁄ Oligo-Mio Palaeo-Eo ⁄ Oligo-Mio Palaeo ⁄ Eo ⁄ Oligo-Mio
+Whole (70%)
+Palaeo-Eo ⁄ Oligo-Mio Palaeo-40 ⁄ 40-Oligo-Mio Palaeo ⁄ Eo ⁄ Oligo-Mio
+Whole (70%) Palaeo-Eo ⁄ Oligo-Mio Palaeo-Eo ⁄ Oligo ⁄ Mio
+Whole (90%)
+Whole (90%)
+Pre ⁄ Post Chaetodon
+R1⁄k⁄􏰇 0.09
+0.07 0.14 0.12
+0.07 0.09 0.4 ⁄ 6.3 0.12
+0.09 0.05 0.05
+0.17
+0.087 ⁄ 0.67 0.08
+R2 R3 DAIC –– 1.44
+0.09 – 1.89 0.10 – 0.00 0.06 0.10 2.67
+– – 1.84 0.07 – 2.37 0.08 – 0.00 0.08 0.07 4.17
+– – 1.91 0.10 – 2.98 0.11 0.09 0.00
+– – 2.38 – – 0.16 0.18 – 0.00
+AIC weight
+0.23 0.18 0.47 0.12
+0.22 0.17 0.55 0.07
+0.24 0.14 0.62
+0.14 0.41 0.45
+ PB, pure birth model; AIC, Akaike Information Criterion; DDL, density-dependant logistic; LTT, lineage through time.
+Models were fit to the first 70% of the evolutionary history of the Labridae, Pomacentridae and Apogonidae and to the first 90% of the Chaetodontidae. Models were also fit to specific time periods (Palaeocene, Eocene, Oligocene and Miocene) in each of the families where rates of diversification were observed to vary in LTT plots. Likelihood scores from each time period were combined for each family and were compared to the best-fitting whole tree model using AIC. R 1, 2, 3 are the rates observed under each model for each time period. In the case of the density-dependant model (DDL), the carrying capacity parameter ‘K’ is given, and in the birth ⁄ death model (BD), the extinction fraction is given.
+diversification, and a refuge in the aftermath of a prolonged extinction event.
+The origin of lineages and changes in evolutionary tempo
+The estimated ages of labrid lineages are consistent with previous studies (Cowman et al., 2009; Table S3), although the ages of major labrid lineages are slightly older than those reported by Kazancioglu et al. (2009) and Alfaro et al. (2009a). This difference is most likely due to the use of additional fossil evidence (Table 1) and increased taxon sampling. The recent description of a new labrid fossil genus from the Eocene of Monte Bolca supports the presence of at least three labrid lineages (Bellwoodilabrus, Eocoris and Phyllopharygodon) during the upper part of the Ypresian (􏰀50 MY; cf. Bannikov & Carnevale, 2010). These slight calibration differences notwithstanding, the topology and chronology in the present study are highly congruent with all previous studies. Similarly, the chronology of the Chaetodontidae strongly reflects the topologies reported by both Bellwood etal. (2010) and Fessler & Westneat (2007) (Table S3). However, the phylogenetic reconstructions shown here for the Labridae and Chaetodontidae are the largest taxonomic reconstructions for both families to date (Fig. 1; Figs S1 and S2, Appendix 2).
+The pomacentrid chronogram (Fig. 2; Fig. S6, Appendix 2) also marks the largest phylogenetic reconstruction for the family to date and presents the first ages of
+divergences for the family, estimated under Bayesian inference. The topology closely reflects the most recent published phylogeny for the family (Cooper etal., 2009) with high posterior probabilities (Fig. S5, Appendix 2). Although the stem lineage of the Pomacentridae (or at least the molecular stem lineage) may have origins dating to the Cretaceous (Santini et al., 2009), the initial divergence and tempo of subsequent cladogenesis is congruent with that of the Labridae and Apogonidae (Fig. 3), i.e. with crown group and major lineages arising after the K ⁄ T boundary event and significantly more diverse lineages originating in the Miocene.
+The apogonid phylogeny is likewise the largest phylogenetic reconstruction to date (Fig. 2; Figs S7–S8, Appendix 2), and it is the first time that Bayesian inference methods have been used for age estimation in this family. The family Apogonidae is plagued by misidentification of species and multiple morphological classification guides exist (Fraser & Lachner, 1985; Fraser, 1998; Kuiter & Kozawa, 1999; Gon & Randall, 2003). However, the major lineages discussed here all received high Bayesian support and are consistent with previous molecular studies (Mabuchi et al., 2006; Thacker & Roje, 2009). Pseudamia and Siphamia are placed as monophyletic groups outside the crown Apogonidinae. The ages reflect those estimated under penalized likelihood methods from Mabuchi et al. (2006) for the genera Apogon, Pristicon, Pristiapogon and Ostorhinchus clades (Table S3, Appendix 1). As with the Labridae and Pomacentridae,
+⁄ 18.9
+ a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562 JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+ 100 80 60 40 20 0
+0.00
+100 80 60 40 20 0
+ε = 0.0
+0.05 0.10
+ε = 0.9
+0.15 0.20 0.25
+                     Rate of diversification
+                          0.0
+0.2 0.4 0.6
+Extinction level (ε)
+0.8 1.0
+Fig. 5 (a) Relationship between coral reef association and diversification rate among families. Linear regression analysis shows the significant relationship at no extinction (􏰇 = 0; r2 = 0.366;
+P = 0.048) and the stronger relationship at high extinction (􏰇 = 0.9; r2 = 0.48; P = 0.01). Each dot represents a single family (four focal families of this study and eight families of the Tetraodontiformes; see Table S5, Appendix 1). (b) Relationship between lineages with a significantly higher diversity at a given rate of extinction and extent of coral reef association (% taxa living on reefs). The higher the proportion of reef association within a lineage, the higher the extinction rate at which the lineage can retain its significantly higher diversity (r2 = 0.43; P = 0.0061).
+Apogonidae
+Chaetodontidae
+Labridae Pomacentridae
+ Extinction = 0.9
+Extinction = 0.0
+       the origins of the Apogonidae may date back to the Cretaceous (Fig. S8, Appendix 2). The robust chronologies of these three families all highlight the influence of a period of lineage loss in the late Eocene ⁄ early Oligocene, followed by multiple originations of diverse lineages in the Miocene, many with close links to the expanding Acropora-dominated coral reefs in the IAA (Wilson & Rosen, 1998; Renema et al., 2008).
+Evidence for a cryptic extinction event in the late eocene ⁄ early oligocene?
+The net diversification rate for each of the four families (Table S5) is higher than that estimated for the entire Percomorpha (􏰀0.081; Santini et al., 2009). Despite the relatively high diversification rates, all four families share a temporally concordant pattern of lineage accumulation,
+in which lineage birth and death appear to have been influenced by global climatic change and tectonic upheaval. The initial radiation of major lineages within the Labridae, Pomacentridae and Apogonidae is synchronous with the aftermath of the K ⁄ T boundary extinction event. However, the congruent antisigmoidal pattern of lineage accumulation across the Labridae and Pomacentridae and the rate increase seen in Apogonidae point to another significant change in the Oligocene, one that resulted in the rejuvenation of cladogensis, which continued into the Miocene (Fig. 3). The prevalence of older Stegastinae lineages in the Pomacentridae results in a less-exaggerated antisigmoidal curve than that seen in the Labridae, and a possible earlier rate change (􏰀40 MY, Fig. 3). However, there is still evidence of an upswing in cladogensis in the Oligocene. This upswing also marks the initial divergence in the butterflyfishes, the Chaetodontidae.
+The concave LTT shape seen in the early to middle Palaeogene period is often attributed to an adaptive radiation (Sepkoski, 1984; Benton & Emerson, 2007), which reaches a plateau from continually decreasing speciation as niche space is occupied. This decreasing speciation rate during the Eocene is supported in part by the MEDUSA analyses, which suggests that lineages of Eocene origin in both the Labridae (Lachnolaimus and Malapterus ⁄ Cheilio) and Pomacentridae (Lepidozygus) may have undergone a decrease in diversification rates. Also, a model where the Palaeocene ⁄ Eocene experienced decreasing net diversification rates, with an upturn to a constant PB model with high rates of diversification, had highest support both in the Labridae and in the Pomcentridae (Table 5). This pattern may also be attributed to increasing extinction rates (Rabosky & Lovette, 2008). Estimating extinction rates directly from molecular phylogenies of extant species in the absence of the fossil record may be inaccurate and possibly unjustified (Rabosky, 2009; but see Quental & Marshall, 2009); however, the plateau observed here in the Eocene may have been caused by the loss of now-extinct lineages (Harvey et al., 1994; Crisp & Cook, 2009). Simulated data have shown that the sharp drop in cumulative fossil diversity produced by a mass extinction event may be marked by the upswing of an antisigmoidal curve in an LTT plot (Fig. 6; Crisp & Cook, 2009). The congruent antisigmoidal curves seen here, and in other studies of reef fishes (Klanten et al., 2004; Alfaro et al., 2007) and terrestrial groups (Harmon et al., 2003; Crisp & Cook, 2009), strongly suggest that these patterns are a result of a late Eocene⁄early Oligocene extinction event. An extinction event of similar timing has previously been reported in predatory mammals (Van Valkenburgh, 1994) and plants (Crisp & Cook, 2009).
+Cyclical patterns have been identified in the fossil generic diversity of an extensive range of marine organisms (Rohde & Muller, 2005). Although the five great extinction events (Raup & Sepkoski, 1982) may be a dominant feature of these cycles, the drop in fossil
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Cladogenesis on coral reefs 2557
+% Coral reef associated % Coral reef occupancy
+
+2558 P. F. COWMAN AND D. R. BELLWOOD
+      Tethys/Arabian
+IAA
+      Extintion event
+Fossil
+Phylogeny
+Eo/Oligo (33MY) Time before Present (MY)
+ Fig. 6 Schematic diagram representing the relationship between fossil diversity and lineage through time plot of an ultrametric phylogeny (cf. Crisp & Cook, 2009). The transition between hotspots is indicated on the upper margin.
+diversity during the late Eocene ⁄ early Oligocene (Fig. 3; cf. Rohde & Muller, 2005) is anomalous. Although the loss of taxa seen at the K ⁄ T boundary (Fig. 3) is more extreme, this cryptic late Eocene event occurs over a relatively protracted time period. Interestingly, this period is marked by extensive tectonic, eustatic, climatic, oceanographic and geomorphological processes and events that largely reshaped the tropical world (Renema et al., 2008; Williams & Duda, 2008). These events underpinned the reduction of habitat in the Arabian biodiversity hotspot and the establishment of a dynamic mosaic of reef habitats in the IAA. The apparent extinction observed in three of the four families and the subsequent rapid diversification seen in all four may stem from the ‘hopping hotspot’ phenomenon described by Renema et al. (2008). The expansion of surviving lineages in the emerging IAA hotspot resulted in one of the world’s most extensive biodiversity hotspots.
+Temporal congruence in cladogenesis?
+Following this possible period of high extinction, the evolutionary trajectory for the Labridae, Pomacentridae and Apogonidae changed between 33 and 40MY (Table 5). While the Palaeocene ⁄ Eocene can be characterized by decreasing or lower net diversification rates in these three families, there is notable congruence among all four families that the Oligocene ⁄ Miocene marked an upswing in diversification and an important time period in the evolution of present-day biodiversity. Several distinct lineages across all four families experienced a significant ‘leap’ in the rate of cladogenesis during this time period (Table 3; Fig. 3), resulting in significantly higher species richness. Although all
+four families differ in diversity, morphology and ecology, the lineages, which arose in the Oligocene⁄ Miocene, underpin much of the diversity in these fishes on present-day reefs.
+Three separate methods were used to identify high rates of cladogenesis. One looked for exceptionally diverse lineages (moment estimator), whereas the other two examined nodes in the chronogram where a possible shift in the rate of cladogenesis occurred (MEDUSA, RC test). Several lineages were identified by moment estimation as being significantly more diverse than expected. This included lineages within the crown julidine tribe, the Scarus⁄Chlorurus lineage, and a lineage within the hypsigenyine clade (Bodianus et al.) in the Labridae, the crown Chaetodon group and (to a lesser extent) the Prognathodes lineage of the Chaetodontidae, the Pomacentrus lineage, the crown Chrominae, and lineages within the Amphiprionae tribe of the Pomacentridae and several lineages in a crown group of the Apogonidae. With the exception of Prognathodes (Chaetodontidae), the crown Chrominae and Pomacentrus clade (Pomacentridae), all these lineages originate from nodes that were identified by MEDUSA and⁄or by the RC test as marking possible shifts in the rate of cladogenesis (Figs 1 and 2). The crown julidine lineages, Scarus ⁄ Chorurus and Chaetodon lineages have all previously been reported as being significantly more diverse than expected (Alfaro et al., 2009a; Bellwood et al., 2010; Price et al., 2010). For the other lineages, this is the first time they have been identified as having statistically significantly higher diversity than other lineages within their family. These lineages all originate within the Oligocene ⁄ Miocene time period. Interestingly, no lineage is older than 33 MY.
+Further support of the elevation of cladogenesis in the Oligocene ⁄ Miocene was revealed by published age estimates and extant diversities of other reef-affiliated groups (Bellwood et al., 2004; Alfaro et al., 2007; Williams & Duda, 2008). Multiple lineages within two other reef fish groups (Tetraodontiformes and Pomacanthidae) and three marine gastropod groups (Turbo, Echinolittorina and Conus) were found to be significantly more diverse than expected (Fig. 3c; Table S1, Appendix 1). This is concordant with earlier findings (Bellwood et al., 2004; Alfaro et al., 2007; Williams & Duda, 2008); however, using a common analytical approach, the full extent of congruence is apparent. These lineages (excluding the temperate radiation of the Tetraodontidae in the Eocene) were, again, all of Oligocene ⁄ Miocene origin. Thus, in multiple groups, with several different tests, the Oligocene ⁄ Miocene stands out as a period of exceptional diversification, especially on coral reefs.
+The role of coral reefs in fish evolution
+Expanding coral reefs in the Miocene provided a complex and geographically widespread habitat for lineages
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562 JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Fossil diversity
+Lineages
+
+surviving the collapse of the Tethys and Arabian hotspots (Renema et al., 2008). Coral reefs appear to provide not only a location for extensive diversification but also a refuge in a time of climatic upheaval. A significant positive correlation between reef association and rates of diversification was found among the four families examined in the present study (at both high and low rates of extinction), reflecting similar associations previously reported in the Tetraodontiformes (Alfaro et al., 2007). We also found that the higher the percentage of reef-associated taxa in a lineage, the greater the rate of extinction that can be withstood while still remaining significantly more diverse than expected (this may not be the case in some gastropods; Williams & Duda, 2008). The clear correlation between a reefdwelling habitat and diversification rates in the present study strongly supports earlier suggestions of a role of coral reefs in underpinning species diversity. However, unlike previous studies that suggest that this is a result of higher diversification rates (e.g. Alfaro etal., 2007; Bellwood et al., 2010), our data suggest that reefs support both increased rates of diversification and a reduced vulnerability to extinction.
+This is the first time that the empirical evidence has highlighted the potential role of reefs in the IAA as a refuge from higher rates of extinction. Originally proposed by Heck & McCoy (1978), the role of the IAA as a refuge has been largely overshadowed by arguments that it was a centre of accumulation, i.e. that taxa arose outside the IAA (following Ladd, 1960). Our analysis provides support for the suggestion of Heck & McCoy (1978), and later, of Barber & Bellwood (2005), that one of the key roles of the IAA is in supporting taxa as a refuge or ‘centre of survival’ regardless of the location of origin. The various traditional explanations for the high biodiversity in the IAA have revolved around three hypotheses: that species arose in the IAA (a centre of origin), that ranges of species overlap (a centre of overlap) or that species accumulate there (as a centre of accumulation or survival) (reviewed by Bellwood etal., in press). Our data provide evidence that is consistent with both the origin and accumulation ⁄ survival hypotheses. In this respect, it offers support for the observations of Rosen (1984), Palumbi (1997) and Bellwood & Wainwright (2002) that there is no single explanation and that the IAA may act both as a source of new species and as a refuge.
+Coral reefs offer both a range of habitats and, in an archipelago, a range of potential vicariance events. However, reefs may also have played a more direct role with the expansion of coral reefs laying the foundations for the extensive trophic diversity seen in the Labridae (Cowman et al., 2009; Price et al., 2010) and the Chaetodontidae (Bellwood et al., 2010). In both families, this includes corallivory (a dietary switch associated with significant expansion in Chaetodon). While apogonid morphology has changed little since the Eocene
+(Goatley et al., 2010), significant expansion during the Oligocene occurs primarily in coral-dwelling forms. The apogonids retained their nocturnal behaviour; however, the origins and diversification of striped ⁄ barred patterns within this lineage appear to be closely linked to selective niche partitioning and a close association with the open Acropora colonies in which they shelter. This may have allowed them to diversify within an extremely competitive environment (Mabuchi et al., 2006). The decrease in the rate of diversification observed in the Miocene for the apogonids may be the result of niche filling (but see Supplemental Discussion, Appendix 1). Although such coral-associated links are not as clear in the Pomacentridae, the largest tribe, the Chrominae, are predominantly coral-dwellers, with a strong dependency on coral cover (Pratchett etal., 2008). They represent the diurnal counterpart to the apogonids. Coral reefs thus appear to represent an important evolutionary driver in all four reef fish families, with the timing of the expansion of Acroporadominated habitats in the IAA corresponding with significant diversification in reef fishes. The new lineages originating on reefs of this time are ecologically linked to coral reefs. Overall, it appears that the development of a dynamic and geographically complex archipelago, with an extensive and expanding coraldominated reef ecosystem, laid the foundation for the development of a biodiversity hotspot, acting as a centre of origination, accumulation and survival.
+Conclusions
+This study identifies highly congruent patterns in the evolution of four key coral reef fish families (Labridae, Chaetodontidae, Pomacentridae and Apogonidae), with support from analyses of published data for two other coral reef fish families (Tetraodontiformes and Pomacanthidae) and three marine gastropod groups (Turbo, Conus and Echinolittorina). The initial radiation of the Labridae, Apogonidae and Pomacentridae follows the K ⁄ T mass extinction event. Speciation rates slowed during the Eocene for the Labridae and Pomacentridae and were low for the Apogonidae. A synchronous inflection in the Oligocene points to a loss of lineages, possibly through a period of high extinction, a cryptic extinction event. This extinction appears to be strongly linked to the collapse of the Tethys ⁄ Arabian hotspots and the establishment of the IAA. In the aftermath of this extinction event, the three families experience a rapid increase in lineage origination coinciding with the origins of major lineages in the Chaetodontidae. Accelerated cladogenesis continues throughout the Miocene for all four families. The expansion of new coral reef habitats in the Miocene provides an opportunity for coral reef–associated lineages and is reflected in the significantly higher origination rates in coral-associated lineages. Higher reef affinity also appears to provide
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Cladogenesis on coral reefs 2559
+
+2560 P. F. COWMAN AND D. R. BELLWOOD
+some protection when faced with extremely high extinction rates. Together, these associations helped lay the foundations for the diversity seen on reefs today. The diversity of reef organisms in the IAA hotspot appears to be a product of an Oligocene extinction event and a burgeoning Miocene radiation based on the expanding coral habitat of the IAA, the world’s largest coral reef archipelago.
+Acknowledgments
+We would like to thank L. van Herwerden, M. Laurin and an anonymous reviewer for valuable comments on earlier drafts; C. Goatley, A. Hoey and J. Tanner for helpful discussions; W. Mallett and the High Performance Computers support team at JCU Townsville for their computing assistance; the members of the BEAST user support and discussion group for their help and comments on age estimation analyses implemented in BEAST; and L. Harmon for help with the GEIGER package in R. This work was supported by The Australian Research Council (DRB).
+References
+a 2011 THE AUTHORS. J. EVOL. BIOL. 24 (2011) 2543–2562 JOURNAL OF EVOLUTIONARY BIOLOGY a 2011 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY

@@ -1,0 +1,521 @@
+    Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 doi: 10.1111/j.1755-0998.2010.02973.x
+SNP GENOTYPING AND APPLICATIONS
+Sperm whale population structure in the eastern and central North Pacific inferred by the use of single-nucleotide polymorphisms, microsatellites and mitochondrial DNA
+SARAH L. MESNICK,*† BARBARA L. TAYLOR,* FREDERICK I. ARCHER,* KAREN K. MARTIEN,* SERGIO ESCORZA TREVIN ̃ O,‡ BRITTANY L. HANCOCK-HANSER,* SANDRA CAROLINA MORENO MEDINA,§ VICTORIA L. PEASE,* KELLY M. ROBERTSON,* JANICE M. STRALEY,¶ ROBIN W. BAIRD,** JOHN CALAMBOKIDIS,** GREGORY S. SCHORR,** PAUL WADE,†† VLADIMIR BURKANOV,††‡‡ CHRIS R. LUNSFORD,§§ LUKE RENDELL¶¶ and PHILLIP A. MORIN*†
+*Southwest Fisheries Science Center, National Marine Fisheries Service, National Oceanic and Atmospheric Administration, 3333 North Torrey Pines Court, La Jolla, CA 92037, USA, †Scripps Institution of Oceanography, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093, USA, ‡Department of Biological Sciences, California State University Los Angeles, 5151 State University Drive, Los Angeles, CA 90032, USA, §Laboratorio de Ecolog ́ıa Molecular, Universidad Auto ́noma de Baja California, Km 103 Carretera Tijuana-Ensenada, Ensenada, Baja California 22800, Me ́xico, ¶University of Alaska Southeast, Sitka Campus, 1332 Seaward Avenue, Sitka, AK 99835, USA, **Cascadia Research Collective, 218 1 ⁄ 2 W 4th Ave., Olympia, WA 98501, USA, ††National Marine Mammal Laboratory, Alaska Fisheries Science Center, National Marine Fisheries Service, National Oceanic and Atmospheric Administration, 7600 Sand Point Way NE, Building 4, Seattle, WA 98115, USA, ‡‡Kamchatka Branch of the Pacific Geophysical Institute, FEB, RAS, 6 Partizankaya Street, Petropavlovsk-Kamchatsky, Russia, §§Auke Bay Laboratory, Alaska Fisheries Science Center, National Marine Fisheries Service, National Oceanic and Atmospheric Administration, 11305 Glacier Highway, Juneau, AK 99801, USA, ¶¶School of Biology, Bute Medical Building, Queen‘s Terrace, St. Andrews, Fife, KY16 9TS, UK
+Abstract
+We use mitochondrial DNA (mtDNA) (400 bp), six microsatellites and 36 single-nucleotide polymorphisms (SNPs), 20 of which were linked, to investigate population structure of sperm whales (Physeter macrocephalus) in the eastern and central North Pacific. SNP markers, reproducible across technologies and laboratories, are ideal for long-term studies of globally distributed species such as sperm whales, a species of conservation concern because of both historical and contemporary impacts. We estimate genetic differentiation among three strata in the temperate to tropical waters where females are found: California Current, Hawai`i and the eastern tropical Pacific. We then consider how males on sub-Arctic foraging grounds assign to these strata. The California Current stratum was differentiated from both the other strata (P < 0.05) for mtDNA, microsatellites and SNPs, suggesting that the region supports a demographically independent population and providing the first indication that males may exhibit reproductive philopatry. Comparisons between the Hawai`i stratum and the eastern tropical Pacific stratum are not conclusive at this time. Comparisons with Alaska males were statistically significant, or nearly so, from all three strata and individuals showed mixed assignment to, and few exclusions from, the three potential source strata, suggesting widespread origin of males on sub-Arctic feeding grounds. We show that SNPs have sufficient power to detect population structure even when genetic differentiation is low. There is a need for better analytical methods for SNPs, especially when linked SNPs are used, but SNPs appear to be a valuable marker for longterm studies of globally dispersed and highly mobile species.
+Keywords: conservation,Physetermacrocephalus,populationstructure,single-nucleotidepolymorphism,spermwhale Received 15 August 2010; revision received 17 November 2010; accepted 18 November 2010
+Introduction
+Molecular markers are one of our best tools for investigating population structure in globally dispersed and
+Correspondence: Sarah L. Mesnick, Fax: +1 (858) 546 7003; E-mail: sarah.mesnick@noaa.gov
+highly mobile marine mammal species. However, the vast and often remote distribution of such species means that sample accumulation is typically slow and laboratory analyses are therefore likely to extend across many years and often many laboratories. The long time span of such studies poses a problem for projects employing
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+
+microsatellite markers. Although the sequencing of mitochondrial DNA (mtDNA) has remained relatively stable over the past two decades, the method of genotyping microsatellites (electrophoresis with allele size inference) makes allele-length estimates dependent on technologies that change over time. These evolving technologies not only impact studies carried out over time in a single laboratory but also impact potential collaborations among laboratories where different technologies may be employed. Single-nucleotide polymorphisms (SNPs), on the other hand, represent a more stable nuclear marker type for use when data sets need to be combined across time and technologies. SNP genotypes are less technology dependent because they represent sequence differences (G, A, T, C), not estimated allele sizes. SNPs also provide the ability to genotype degraded and poor-quality samples (Morin & McCarthy 2007), enabling data sets to be expanded through the use of historical samples. In addition, highly multiplexed pre-amplification of SNP loci prior to genotyping (Morin & McCarthy 2007) has reduced the need to repeatedly use genomic DNA from extremely limited samples, thus preserving these valuable samples for future studies and new technologies. Although the genetic power of individual SNPs is lower than that of individual microsatellites because they are bi-allelic (Chakraborty et al. 1999; Krawczak 1999), their high abundance in most genomes, highly efficient and accurate genotyping methods, and sufficient statistical power with a twoto fourfold increase in the number of markers and the use of linked loci are advantages that make them a good marker choice (Kuhner et al. 2000; Turakulov & Easteal 2003; Aitken et al. 2004; Morin et al. 2004, 2007, 2009c; Seddon et al. 2005; Anderson & Garza 2006; Morin & McCarthy 2007; Smith & Seeb 2008). Lastly, a lower mutation rate and simple mutation model enable the use of traditional divergence-based statistics such as FST without concern for impacts of within-group polymorphism or incorrect mutation model (Meirmans & Hedrick 2010).
+Sperm whales (Physeter macropcephalus) are an example of a species of conservation concern where the slow accumulation of samples means that laboratory analyses have extended over decades. Sperm whales are a continuously distributed species, found in all deep oceans of the world from the equator to the edge of the pack ice and are well known for long-distance movements (Rice 1998). Discovery marks (metal tags shot into the whales during the industrial whaling period and recovered from carcasses during processing) show extensive movements of males and females both north to south and east to west within the North Pacific (Kasuya & Miyashita 1988). Recently, two adult males satellite-tagged off Southeast Alaska moved rapidly through the waters along the west coast of North America, one travelling into the Gulf of
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+California and the other along the coast of southern Mexico, linking these tropical areas with females to Alaskan feeding grounds (Andrews et al. 2010; Straley, J.M., Andrews, R.D., Schorr, G.S., Thode, A.M., Calambokidis, J., Lunsford, C.R., Chenoweth, E., and O’Connell, T. in preparation). In the eastern tropical Pacific, photographic matches of individually identifiable flukes have been made between females and immatures sighted in the Gulf of California, the Galapagos Islands, Gulf of Panama, Ecuador, Peru and northern Chile (Whitehead et al. 2008). Such extensive movements, and the lack of hiatuses in distribution, make defining feasible study areas difficult. Furthermore, long dive times (typically 30– 45 min) (Whitehead 2003) and the large size and remoteness of most of their habitat mean that the accumulation of sperm whale samples is slow. Samples for this study, for example, have been collected over a 35-year period and analysed over a 15-year period. The slow accrual of samples and the global distribution of this species makes it an ideal case for the use of SNPs (Morin et al. 2004) and resulted in this species being chosen as the first among marine mammals for which SNPs were developed (Morin et al. 2007).
+Understanding population structure of sperm whales in the eastern North Pacific has been the subject of intense discussion since the 1970s but little progress has been made (Donovan 1991; Dufault et al. 1999). Early efforts to define stocks were often based on patterns of historic whaling activity and catch reports rather than on biological evidence (Donovan 1991). More recently, various types of data including acoustic dialects, association data from photographs, mark–recapture data and morphology all suggest philopatry among female sperm whales (Dufault et al. 1999; Whitehead et al. 2008). Genetic studies have found low but significant levels of genetic differentiation among ocean basins for mtDNA (GST = 0.030, P < 0.001) (Lyrholm & Gyllensten 1998) while studies using microsatellites have found either no significant (Lyrholm et al. 1999) or low, but significant differentiation (h = 0.002, P < 0.001) (Bond 1999). Within ocean basins, little evidence of genetic differentiation has been found among areas with females (few statistically significant pairwise comparisons in either the Atlantic or the Pacific), with the exception of isolated basins such as the Mediterranean and Gulf of Mexico (Dillon 1996; Lyrholm & Gyllensten 1998; Bond 1999; Engelhaupt et al. 2009).
+The unusual social structure of sperm whales further complicates investigations into their population structure. Adult males and females are sexually segregated. Females and their dependent young travel in groups and generally inhabit tropical and temperate waters (Best 1979; Whitehead 2003). These groups are comprised of temporary associations of partially matrilineal (Richard
+SNP GENOTYPING AND APPLICATIONS 279
+
+280 S. L. MESNICK ET AL.
+et al. 1996a, Mesnick et al. 2003) and largely stable units (Whitehead et al. 1991) which, in turn, are structured into acoustic clans (Weilgart & Whitehead 1997). Maturing males leave the female groups and begin a gradual movement into higher latitudes (Best 1979; Whitehead 2003). The distribution of males extends into sub-Arctic foraging grounds (Rice 1998) from which mature males make periodic movements into warmer waters on an unknown schedule to mate (Whitehead & Arnbom 1987). It is unknown whether males return to their natal grounds to mate and⁄or roam widely, perhaps even between ocean basins (Rendell et al. 2005).
+Sperm whales are listed globally by the IUCN (2010) as vulnerable and are protected by International Whaling Commission treaty and, in the United States, by the Endangered Species Act and Marine Mammal Protection Act (MMPA). In the last 200 years, hundreds of thousands of sperm whales were killed in both the Yankee whaling era and the industrial era, which ended in the 1980s (Rice 1998). Efforts to assess the impact of historical whaling, the role of sperm whales in pelagic ecosystems and the current conservation status of stocks are compromised by the absence of a good model of sperm whale population structure. Accidental death in fisheries is one contemporary threat to sperm whales. In Alaska, male sperm whales remove fish from longline gear (depredation) set primarily for sablefish (Anoplopoma fimbria) and have been at risk of entanglement from this activity since at least 1997 (Hill et al. 1999; Thode et al. 2007; Sigler et al. 2008; SEASWAP). Fishery interactions with sperm whales in Alaska are regulated under the MMPA. Under this Act, stocks are defined as demographically independent populations for which ‘population dynamics ... is more a consequence of births and deaths within the group (internal dynamics) rather than immigration and emigration (external dynamics)’ (Wade & Angliss 1997). As Martien et al. (2010) discuss, this definition is consistent with that of Management Units as proposed by Palsboll et al. (2007) and falls into the ‘ecological paradigm’ of population definitions described by Waples & Gaggiotti (2006). Under this paradigm, detecting population structure through genetic analysis can be quite challenging, as the expected level of differentiation is very low (see Box 1) (Martien et al. 2010).
+There are currently three stocks of sperm whales recognized in the eastern and central North Pacific for purposes of implementing the MMPA: California⁄Oregon⁄Washington, Hawai`i, and North Pacific (Alaska) stocks (Allen & Angliss 2010; Carretta et al. 2010). The Alaska stock is unusual among marine mammal stocks in being comprised primarily of adult males and, unlike other stocks, is not self-sustaining, because nearly all births occur elsewhere and few adult females visit the region. Assessing the impact of any possible fishery inter-
+   Box 1. Estimation of expected levels of genetic differentiation for North Pacific sperm whales
+We use the approach outlined by (Palsboll et al. 2007) in which results are interpreted relative to the critical level of dispersal and differentiation necessary to meet conservation objectives. Taylor (1997) has shown that, for cetacean species, even populations exchanging dispersers at rates as high as 1% per year will likely require management as separate stocks if the conservation goals of the MMPA are to be met. Given the estimated 31.9 year generation time for sperm whales (Taylor et al. 2007), this corresponds to a per-generation dispersal rate (m) of 0.319. The expected level of genetic differentiation between two populations can be calculated using Wright’s (1965) formulae:
+FSTðmtDNAÞ 1⁄4 1=ð2Nem þ 1Þ
+FSTðnDNAÞ 1⁄4 1=ð4Nem þ 1Þ
+where Ne is the effective population size. The strata with the lowest plausible abundance is Hawai`i with about 7000 whales and the largest plausible abundance is the entire area of the eastern tropical Pacific with up to 23 000 whales (Wade & Gerrodette 1993). For long-lived species, Ne is approximately half the number of breeding adults (Nunney 1993). Assuming a 50:50 sex ratio and 56% mature (Taylor et al. 2007), this results in Ne ⁄ N of 0.28 for mtDNA and 0.56 for nuclear DNA (nDNA). Therefore, the expected FST value for sperm whale populations exchanging migrants at a rate of 1% per year (31.9% per generation) ranges from 0.0005 to 0.0016 for mtDNA and from 0.0001 to 0.0004 for nDNA, assuming trivial mutation rates (Balloux et al. 2000) (Fig. 1). For this relatively high rate of gene flow the expected level of genetic differentiation between two populations (the effect size) is less than an FST value of 0.002 over the entire range of plausible abundances. Decreasing the annual dispersal rate to 1⁄10%, which is certainly demographically trivial, still means that the maximum level of genetic differentiation with the demographic assumptions above is FST = 0.0157 which differs little from the value for panmixia (FST = 0). Therefore, positive results for population structure should warrant management as demographically independent populations even if the levels of differentiation are small.
+ Fig. 1 FST for mitochondrial DNA (mtDNA) and nuclear DNA (nDNA) for annual dispersal rates of 1% and 1⁄10% over the range of abundances plausible for sperm whales.
+ Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+
+actions on Alaska males should be connected with the abundance of the stock that includes the females with which they reproduce.
+In this study, we use mtDNA, microsatellites and SNPs to improve understanding of population structure in the eastern and central North Pacific. Our primary objective is to examine the demographic independence of three strata from temperate and tropical waters where females are found and to assess the relationship of adult males in Alaska to these strata (Fig. 2). We also examine patterns of genetic assignment of predominantly female groups located in waters outside these designated strata (Fig. 2) to give insight into areas where sampling remains poor. As considered in more detail in Box 1, we consider a 1% ⁄ year dispersal rate between strata sufficiently low to constitute demographic independence. Owing to the large population sizes, we expect genetic differentiation to be small between strata (FST <0.0016 for mtDNA and 0.0004 for nDNA; Box 1).
+We use tests of genetic differentiation and assignment to address the following questions:
+1 Is there genetic differentiation among the three strata with females and young using mtDNA?
+2 Is there genetic differentiation among the three strata with females and young using nDNA?
+3 Do Alaska males originate from a single stratum?
+4 If Alaska males do not originate from a single stratum, how do individuals assign to the three strata examined
+here?
+If males rove among regions but females stay within
+the region of their birth, then pairwise comparisons
+between strata using mtDNA should show significant differentiation but pairwise comparisons between strata using nDNA would not. If significant differentiation is found for both mtDNA and nDNA, then both females and males show regional structure. If males in Alaska do not originate from a single stratum, then males mix on their feeding grounds (if answer to question 3 is yes), but may return to their region of birth to mate.
+While SNP genotyping produces stable results, analysis of linked SNPs requires considerable effort, and analytical methods for linked markers are still being developed. Therefore, our study also examines the effect of different assumptions that could be made in analysing SNPs on the conclusions about population structure. The compounding complexity of considering uncertainties contributed by sperm whale biology, new statistical measures of population differentiation, multiple markers and various treatment of linked SNP loci results in a large number of data sets and results to report. Fortunately, the different analyses necessary to thoroughly address these uncertainties followed consistent patterns. Here, we present the strata and statistics that we feel best represent sperm whale population structure in the eastern and central North Pacific but invite the reader to fully explore the results of all the analyses in the Supporting information.
+Materials and methods
+Sample collection
+The sample set consisted of 287 tissue samples obtained between 1972 and 2007 (Table S1, Supporting informa-
+SNP GENOTYPING AND APPLICATIONS 281
+ Fig. 2 Map showing sample and strata locations. See text for discussion of strata designations.
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+
+282 S. L. MESNICK ET AL.
+tion). Samples were collected from solitary or groups of free-ranging sperm whales by directed biopsy or the collection of sloughed skin during cetacean research surveys (n = 255). Samples were also collected from dead animals stranded on beaches (n = 29), floating dead at sea (n = 1) and from incidental fishery takes (n = 2). Research cruises were conducted throughout the study area while all but two of the samples from strandings and fishery takes were collected in the United States and Canada. Ninety-six samples were collected from solitary individuals. One hundred ninety-one samples were collected from 50 groups in which multiple unique individuals were sampled (2–15 samples per group) (Table S2, Supporting information). In every encounter, estimates were made of group size and composition (sex and size of individuals) when possible (Table S1, Supporting information). All samples were archived in the NOAA Fisheries’ SWFSC Marine Mammal and Turtle Molecular Research Sample Collection. Soft tissues were stored frozen (after 2001) in an aqueous solution of 20% dimethyl sulphoxide (DMSO) saturated with sodium chloride (NaCl) (Amos & Hoelzel 1991) or kept frozen until DNA extraction. The single tooth (collected from a stranded animal) was stored dry at room temperature.
+Samples were stratified based on their geographical location (Fig. 2). Strata designations are based on the three ‘population stocks’ defined by the U.S. National Marine Fisheries Service (Allen & Angliss 2010; Carretta et al. 2010): the North Pacific (Alaska) stock, comprised predominantly of adult males and divided into areas where depredation is common (Gulf of Alaska) and uncommon (Aleutians); the California ⁄ Oregon ⁄ Washington stock (defined here as ‘California Current’ stratum because of the inclusion of samples from British Columbia) and the Hawai`i stock (referred to here as the ‘Hawai`i stratum’). The ‘eastern tropical Pacific’ stratum is defined based on photographic matches by Whitehead et al. (2008). Samples collected outside these designated areas include samples collected near the Kuril Islands, Russia, and samples collected off the west coast of Baja California, Mexico, near Palmyra Atoll, and the open waters in between. We had no a priori basis for assigning these samples to strata so they were excluded from the population structure analysis and their affinities were examined using assignment tests.
+Laboratory analyses
+DNA was extracted from soft tissues using several standard methods, including lithium chloride (Gemmell & Akiyama 1996), sodium chloride protein precipitation (modified from Miller et al. 1988), silica-based filter purification (DNeasy kit; Qiagen, Valenica, CA, USA) and standard phenol ⁄ chloroform extraction (Sambrook et al.
+1989). DNA extraction from the tooth was performed using a protocol developed by Rosenbaum et al. (1997).
+Sex determination. Sex was genetically determined using the zinc finger genes (Fain & LeMay 1995), SRY genes (Richard et al. 1994) and after 2005, a real-time PCR assay (Morin et al. 2005). PCR amplifications for all protocols consisted of animals of unknown sex and two positive controls of a male and female, obtained from stranded animals for which sex was positively determined (SWFSC Marine Mammal and Turtle Molecular Research Sample Collection). Samples that failed sexing were run with alternative methods until an unambiguous result was obtained or if this was not reasonably possible, the samples were considered as sex ‘unknown’.
+Mitochondrial DNA. A 524-bp region of the hypervariable mitochondrial control region was amplified by PCR using primers Pmac D (5¢CCTGAGAATTGCAACTAGAGG3¢), which anneals to a conserved section within the control region, and Tro (5¢CCTCCCTAAGACTCAAGGAAG3¢), which anneals to the tRNA proline gene. Both soft tissue and tooth material were amplified in 50-lL PCR containing 1 lL (approximately 5–25 ng) genomic DNA, 1· PCR buffer [10 mM Tris–HCl (pH 8.3), 50 mM KCl, 1.5 mM MgCl2], 0.3 lM of each primer, 200 lM of each dNTP and 0.5 units of Taq DNA polymerase. PCR cycling included an initial denaturation at 90 °C for 2 min followed by 35 cycles of 94 °C for 10 s, 48 °C for10s,and72°Cfor10sandafinalextensionat72°C for 5 min. Products were cleaned with QIAquickÔ PCR purification kit (Qiagen) according to manufacturer’s protocol. Sequencing of products in both directions was performed using either Big DyeÔ or dRhodamineÔ Terminator Cycle Sequencing kits [Applied Biosystems Inc. (ABI), Foster City, CA, USA] according to manufacturer’s protocol. Products were electrophoresed on an ABI 377, 3100 or 3130XL automated sequencer. Sequences were aligned and edited using SEQED, version 1.0.3 (ABI) or SEQUENCHER software (versions 4.1 and 4.8; Genecodes, Ann Arbor, MI, USA). Throughout, approximately 10% of all samples and all rare haplotypes were re-run for quality control. If discrepancies were found within the replication, the sample was re-sequenced from extracted DNA. If the discrepancy was still not resolved, DNA was re-extracted from tissue and the sample was resequenced until the haplotype was confirmed.
+Microsatellite genotyping, normalization of allele scores and data QC ⁄ QA. The six polymorphic dinucleotiderepeat microsatellite loci analysed in this study were amplified under similar conditions using fluorescently labelled primer sets (Table S3, Supporting information). Primers making up the D17 assay were derived from the
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+
+beluga whale (Delphinapterus leucas) (Buchanan et al. 1996), while the others were derived from sperm whale: EV1, EV5 (Valsecchi & Amos 1996) and SW10, SW13 and SW19 (Richard et al. 1996b). PCRs contained 1· buffer [10 mM Tris–HCl (pH 8.3), 50 mM KCl, 1.5 mM MgCl2], 0.3 lM of each primer, 200 lM of each dNTP, 1.25 units Taq DNA polymerase and 1.0 lL of DNA in 25-lL reaction volumes. PCR cycling included an initial denaturation at 97 °C for 3 min followed by 35 cycles of 90 °C for 30 s, annealing (see below) for 1 min and a final extension at 72 °C for 1 min. The optimal annealing temperatures were 52 °C for EV1t, and 55 °C for D17t, EV5t, SW10t, SW13t and SW19t. PCR products were electrophoresed on ABI genetic analysers (models 377, 3100, 3130XL and 3730) and analysed with GENESCANÔ (version 3.1) or with ABI’s GENEMAPPER (version 4.0) software. Earlier genotypes (those generated before 2004) were generated with untailed reverse primers, while later genotypes were generated with tailed primers (indicated by the ‘t’ attached to the locus names) to reduce allelic stutter. Data from different ABI instruments and from tailed⁄untailed primers were normalized with the program ALLELOGRAM (Morin et al. 2009a). The size of each allelic pair for each locus constituted the raw data for analyses. We used control samples with each group of samples to allow us to normalize alleles to the same size bins (Morin et al. 2009a). Owing to the extended period of data accrual, an extensive quality control ⁄ quality analysis (QC ⁄ QA) and sample tracking procedure was implemented. In addition to standard quality control measures (e.g., running control samples, systematic sample replication), testing was carried out to ensure internal data accuracy, sample quality and to remove duplicate samples, as described by Morin et al. (2010) Table 2.
+SNP discovery, ascertainment, genotyping and data QC ⁄ QA. Of the 36 markers analysed in this study, 16 SNPs were characterized from independent sequences and were expected to be unlinked. The other 20 SNPs consisted of eight different sets of linked loci. These linked sets consisted of two to four SNPs that were located in the same sequenced locus, often quite close together, as indicated in Table 1. The final data set consisted of 16 bi-allelic and eight multi-allelic SNP markers (after inference of linked SNP haplotypes).
+Single-nucleotide polymorphisms were originally ascertained from a panel of six geographically diverse sperm whale samples and a pool of 20 geographically widespread samples (see Morin et al. 2007 for details). Subsequent to development of the first 18 unlinked SNP assays (two of which were nearly monomorphic in Pacific samples and not used in this study), six additional SNP assays were developed from linked SNPs in some of the same loci, so they were also ascertained from the same
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+panel of samples. Thirty-five additional loci were then screened on 10–13 samples, resulting in ascertainment of 14 new SNP assays optimized from eight of the 35 loci (Table 1). Primers for all SNP assays are provided in Table S4 (Supporting information).
+Genotyping was conducted according to the methods described by Morin & McCarthy (2007), using the Amplifluor SNP genotyping kit (Millipore, Billerica, MA, USA) and real-time detection on a MXP3000 Real-Time PCR instrument (Agilent Technologies, Santa Clara, CA, USA). Throughout, a set of seven positive control samples were replicated on each genotyping plate, and 54 samples (􏰁18%) were replicated as genotyping controls. Replication was designed to test for both random and systematic errors (e.g., errors affecting an entire extraction plate or PCR). Testing to ensure internal data accuracy and sample quality, and to remove duplicate samples, paralleled procedures for microsatellites and are shown in Table 2.
+Reconstruction of Gametic Phase for SNPs
+Because some of the SNPs used in this study were discovered within close proximity to one another, they could not be treated as independent markers. For each set of linked SNP loci, we estimated the gametic phase of alleles for each sample with the Bayesian program PHASE v2.1 (Stephens et al. 2001). This program uses allele frequencies and frequencies of known SNP haplotypes in each population to infer the probabilities for each possible haplotype from a group of linked SNPs. For each run of PHASE, we used a burn-in of 100 iterations and a run length of 1000 iterations, with all other parameters set to their defaults. For each newly ‘phased’ locus, we selected the two haplotypes for each sample that had the highest probability as assessed by PHASE. These haplotypes were then used as multi-allelic genotypes for further analysis. If no genotypes had probabilities >0.5, then the genotype for that sample was considered to be unknown and treated as missing data.
+In a study such as this, where the underlying population structure is not known, it is not clear whether the gametic phase for a given set of linked loci should be inferred based on all of the samples at once, or within each putative stratum. We examined the sensitivity of stratification by assessing phase based on all North Pacific samples (‘North Pacific’ phase), as well as within each of the three strata separately (‘three strata’ phase). Additionally, because PHASE infers genotypes based on their frequency in the underlying population, the algorithm may infer genotypes when data are missing in some or all of the linked loci. We examined the effect of this behaviour on our results by comparing the number of alleles and heterozygosity for phased loci where PHASE
+SNP GENOTYPING AND APPLICATIONS 283
+
+284 S. L. MESNICK ET AL.
+Table 1 List of single-nucleotide polymorphism (SNP) markers and their source
+ Locus
+CATR 262 CATR 456 CHRNA1Y 111 CHRNA1R 76 CKK 273 CSF2R 278 CSF2K 552 CSF2Y 589 DRD2Y 679 ELN40K 209 EPOR 237 EPOY 292
+F9Y 80
+GRPY 190 IFNGY 234
+INTS 368
+PKMY 237 PNDR 111
+RDSK 456 RYR2R 327 SPTBN1S 279 SPTBN1Y 753 PmABHD5M 274
+PmABHD5Y 447 PmABHD5R 671 PmBH92S 122 PmBH92Y 172 PmCHYR 304
+PmDDX5R 109 PmHSPA9Y 220 PmLAPTM4R 553 PmMYL4R 358
+PmPHGDHS 172
+PmPHGDHM 200 PmPHGDHR 223 PmPHGDHY 321
+SNP type A⁄G
+A⁄G C⁄T A⁄G G⁄T A⁄G G⁄T C⁄T C⁄T G⁄T A⁄G C⁄T C⁄T C⁄T C⁄T C⁄G C⁄T A⁄G G⁄T A⁄G C⁄G C⁄T A⁄C
+C⁄T A⁄G C⁄G C⁄T A⁄G
+A⁄G C⁄T A⁄G A⁄G
+A⁄C A⁄G
+C⁄G C⁄T
+Citation This study
+Morin et al. (2007) Morin et al. (2007) This study
+Morin et al. (2007) Morin et al. (2007) This study
+This study
+Morin et al. (2007) Morin et al. (2007) This study
+Morin et al. (2007) Morin et al. (2007) Morin et al. (2007) Morin et al. (2007) Morin et al. (2007) Morin et al. (2007) Morin et al. (2007) Morin et al. (2007) Morin et al. (2007) Morin et al. (2007) This study
+This study
+This study This study This study This study This study
+This study This study This study This study
+This study
+This study This study This study
+GenBank accession number
+EF087939 EF087939 EF087940 EF087940 EF087942 EF087946 EF087946 EF087946 EF087947 EF087948 EF087949 EF087949 EF087950 EF087956 EF087958 EF087960 EF087968 EF087969 EF087970 EF087971 EF087972 EF087972 HQ609610
+HQ609610 HQ609610 HQ609608 HQ609608 EF087941
+(updated) HQ609609 HQ609613 HQ609611 EF087963
+(updated) HQ609612
+HQ609612 HQ609612 HQ609612
+Number of linked loci and assay names
+(2) CATR262-R456
+(2) CHRNA1R176-Y111
+(3) CSF2R278-K552-Y589
+(2) EPOR237-Y292
+(2) SPTBN1S279-Y753
+(3) PmABHD5M274Y447-R671
+(2) PmBH92S122-Y172
+(4) PmPHGDHS172M200-R223-Y321
+  had inferred genotypes for samples with missing data (‘normal’ mode), and the same metrics where we considered the phased genotypes for those same samples to be missing (‘keep missing data’ mode). Significance was assessed by a bootstrapping approach in which we calculated the fraction of iterations in which in a randomly drawn set of the same number of samples as in our data, the number of alleles or heterozygosity in the ‘normal’ mode phased data was greater than, less than, or equal to the same values for the ‘keep missing data’ mode phased data. Tests were conducted using the ‘North Pacific’ and ‘three strata’ phase data sets.
+Definition of social categories and relatedness
+Each sample was also assigned a priori to one of three social categories: (i) females and young, (ii) adult males (estimated to be >13 m in size) and (iii) ‘the others’ comprised of males of intermediate sizes (ca. 8–12 m or the approximate size of adult females), individuals of unknown sex and males of unknown size. At sea, while it is easy to identify adult males by their large body size, it can be quite difficult to distinguish large juvenile or subadult males from adult females. Furthermore, whether males of intermediate sizes are temporary visitors or
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+
+Table 2 Sperm whale microsatellite and single-nucleotide polymorphism (SNP) quality control and quality analysis (QC ⁄ QA). Initial sample sizes between the two data sets differ because samples that were identified as duplicate or failed during microsatellite genotyping were omitted before starting SNP genotyping. The QC ⁄ QA steps below follow Table 5 in Morin et al. (2010) for microsatellite genotyping and data reporting
+SNP GENOTYPING AND APPLICATIONS 285
+ QC ⁄ QA step
+Initial sample set
+For microsatellites: check allele binning using ALLELOGRAM (Morin et al. 2009a) for all experiments using control samples; for SNPs: check amplification efficiency
+Check database for genotype mismatches between replicated samples
+Check database for samples with £50% completed genotypes
+Calculate percent homozygosity for all samples in database
+Test for null alleles and large allele dropout using MICROCHECKER (van Oosterhout et al. 2004)
+Test for deviations from Hardy–Weinberg equilibrium using jackknife analysis (Morin et al. 2009b)
+Check for duplicate samples using DROPOUT (McKelvey & Schwartz 2004) to find multilocus genotype matches and near-matches among samples
+Final data set
+Microsatellite results
+325 samples typed for 8 loci
+Could not bin alleles for loci EV37 and EV30; excluded loci from further analysis
+16 of 1849 replicated genotypes (0.9%) did not match; most discrepancies were resolved by checking the raw data, others were re-genotyped
+28 samples had three or fewer completed genotypes and were excluded from further analysis
+Six samples had >50% homozygosity across six loci; five were excluded because of high failure rate and evidence of allelic dropout at several loci
+Two loci have potential null alleles, but effect is limited; all loci retained for analysis
+Six samples caused two markers to deviate from Hardy–Weinberg equilibrium because of homozygous rare alleles (odds ratio >2); after re-genotyping, no samples had odds ratios >2
+Identified 27 perfect matches* across six loci, plus 10 potential matches; all were confirmed to be perfect matches after verifying with sex and
+mitochondrial DNA
+(mDNA). One sample of each matched set was retained and the rest were excluded from further analysis
+Microsatellite genotyping completed for 255 samples and six loci
+SNP results
+292 samples typed for 38 loci
+Could not amplify ACTC380 and DRBK1; excluded loci from further analysis
+169 (58%) samples were replicated from the multiplex step at least once, resulting in a total of 4022 genotypes. 116 alleles mismatched between replicate samples. The per-allele error rate was 1.44%
+(116 ⁄ 8044 mismatched alleles ⁄ total replicate alleles). Most discrepancies were resolved by checking the raw data; others were re-genotyped
+16 samples had <20 completed genotypes and were excluded from further analysis
+Samples were ranked by percent homozygosity; the top 5% were
+checked by hand to look for evidence of poor quality (e.g., low-signal amplification, low number of successful genotypes). The highest percent homozygosity was 89% (one sample) and there were no clear outliers from the distribution
+MICROCHECKER not applicable to SNP markers
+Using 263 samples that had >20 genotyped loci, the jackknife analysis was run twice, once combining all North Pacific samples and once based on three initial strata designations. Only one sample was identified as having an anomalous genotype based on a high odds ratio (7.7), high homozygosity (86%) and seven missing genotypes. This sample was excluded from further analysis
+Identified 10 sets (pairs or trios) of samples that matched† at 35–36 loci; eight of these sets were confirmed with the sex, mtDNA and microsatellite data sets to be duplicates. One sample of each matched set was retained and the rest were excluded from further analysis
+SNP genotyping completed for 251 samples and 36 loci
+     *Microsatellites: all but one duplicate sample was taken from animals biopsied within the same group, so represent accidental replicate sampling of the same individual. At least one duplication represents potential genetic re-sampling of the same individual at different locations in different years. However, this sample was not included in those genotyped for SNPs and thus could not be confirmed as a duplicate.
+†SNPs: all duplicate samples were animals biopsied from the same group, so represent accidental replicate sampling of the same individual.
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+
+286 S. L. MESNICK ET AL.
+Table 3 Sample sizes. For each location, the total number of separate occasions when samples were collected (from individuals or groups), the total number of unique individuals sampled, and samples sizes for each social category and for each genetic marker. See Figure 1 for sample locations and the text for strata designations. See Tables S1 and S2 (Supporting information) for additional sample information
+ Number of samples collected from
+Number of samples for each marker type. Total number of samples and (in parenthesis) the number of samples from females and young with potential first-order relatives omitted
+  Number
+of Sampling sampling
+location events Temperate and tropical strata
+Number Females
+of and Adult samples young males
+52 32 14
+28 24 2 115 91 15
+195
+11 0 11 33 1 30
+‘Others’ (subadult males and unknowns)
+Mitochondrial DNA
+52 (31)
+28 (22) 114 (84)
+194 (137)
+11 33
+6
+4
+9 28
+285
+Combined Single-nucleotide nuclear
+Microsatellites polymorphisms DNA
+  California Current Hawai`i
+Eastern tropical
+Pacific
+37 19 35
+6 2 9
+0 2
+43 (28) 27 (21) 98 (71)
+168 (120)
+11 31
+5
+4 10 26
+255
+41 (28)
+27 (21) 102 (78)
+170 (127)
+4 32
+6
+4 10 25
+251
+40 (27) 26 (20) 87 (66)
+153 (113)
+4 31
+5
+4 10 25
+232
+Subtotal
+North Pacific (Alaska) stock
+Aleutians 10
+Gulf of Alaska 24 Other sub-Arctic
+KurilIslands, 6 Russia
+6060
+Other low-latitude
+Palmyra 3 4 WesternBaja 3 10 BetweenHawai`iand 10 28
+eastern tropical Pacific
+Total 287
+4 0
+7 0 232
+0 3 3
+ members of these groups is not well known (Best 1979). We combined notes from field observations with genetic determination of sex to resolve the social status of each individual. Two data sets were compiled. ‘All’ contains every sample from all three social categories above and was used in subsequent analyses unless otherwise noted. ‘Females and young’ contains females of all size classes and young males (if they are shown to be smaller in size than adult females) and excludes one of each pair from each set of potential first-order relatives.
+Because sperm whales travel in groups comprised in part of close relatives, we expected that groups from which we obtained multiple samples could contain close relatives. As long as the strata are each sampled randomly, the presence of close relatives is not necessarily a problem. However, if the putative populations differ in the number of close relatives sampled, sampling bias could lead to false detection of population structure. To avoid this potential bias, we used the maximum-likelihood program ML-RELATE (Kalinowski
+et al. 2006) to identify all potential parent–offspring pairs by identifying samples that shared at least one allele at every microsatellite and at every SNP locus. We excluded one of each pair from the ‘females and young’ data set.
+Molecular diversity
+For the mtDNA, haplotypic diversity (h) (the probability that two randomly chosen haplotypes are different) and nucleotide diversity (p) (the probability that two randomly chosen homologous sites are different) (Nei 1987) were calculated using ARLEQUIN 3.11 (Excoffier et al. 2005). For each microsatellite and SNP locus, allele frequencies were calculated using GENEPOP version 4.0 (Rousset 2008) and allelic richness was calculated using FSTAT (Goudet 1995). For each stratum, the mean number of alleles and observed heterozygosity and expected heterozygosity were calculated using ARLEQUIN 3.11 (Excoffier et al. 2005).
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+
+Deviations from Hardy–Weinberg equilibrium (HWE) were assessed for each locus in each stratum using GENEPOP version 4.0 (Rousset 2008). Both the probability test of Guo & Thompson (1992) and tests for heterozygote deficiency (Rousset & Raymond 1995) were conducted using program defaults for the Markov chain parameters (1000 dememorization steps, 100 batches, 5000 iterations per batch). Tests were conducted for all samples combined and then separately for each of the three strata. Global significance was assessed using Fisher’s method and a sequential Bonferroni correction (Simes 1986; Hochberg 1988) was applied across all tests conducted for each stratum. For the SNP data, tests are reported for the data set used in the population structure analysis described below (24 loci with haplotypic inference based on ‘three strata’ phase data set; AS82b). GENEPOP version 4.0 was also used to evaluate linkage disequilibrium (LD) (Weir 1996) between each pair of loci. As above, tests were conducted for all samples combined and then separately for each of the three strata, using Fisher’s method. For the SNP data, we used the 24 loci used in the population structure analyses and we also report results for LD tests evaluated using the 36 bi-allelic SNP alleles.
+Population differentiation
+We first tested the global null hypothesis of panmixia among the three low-latitude strata containing females (California Current, Hawai`i and eastern tropical Pacific) for the mtDNA, microsatellite and SNP data sets separately, and for a combined nuclear (nDNA) data set comprised of both the microsatellite and SNP data sets. Comparisons were then conducted between all pairs of strata. Differentiation for the mtDNA data set was assessed using FST and FS (Weir & Cockerham 1984; Excoffier et al. 1992) and Fisher’s exact test (Raymond & Rousset 1995; Goudet et al. 1996) as implemented in the program ARLEQUIN version 3.11 (Excoffier et al. 2005). FST was calculated using the nucleotide substitution model receiving the highest AIC score in jMODELTEST (Guindon & Gascuel 2003; Posada 2008). Statistical significance was determined using 16 000 random permutations of the original data sets for FST and FST and using 10 000 replications for Fisher’s exact test. Below, we present the results for FST and for Fisher’s exact test, which has been found to be more powerful than FST and FST permutation tests for evaluating statistical significance in mtDNA (Hudson et al. 1992). The results for all tests performed on the mtDNA data are shown in Table S5 (Supporting information).
+We examined the extent of genetic differentiation for the microsatellite, SNP and combined nDNA data sets using custom-written code in the statistical programming language R (R Development Core Team 2005) (available
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+SNP GENOTYPING AND APPLICATIONS 287 upon request, EIA). The following tests were performed:
+FST (Weir & Cockerham 1984), F¢ST (Hedrick 2005; Meirmans & Hedrick 2010), GST (Nei 1973), G¢ST (Hedrick 2005), G¢ST (Meirmans & Hedrick 2010), D (Chao et al. 2008) (as presented in Jost (2009) Equation 13) and v2 (Roff & Bentzen 1989). Statistical significance was determined through 10 000 random permutations of the original data set. Although FST and GST are widely used as measures of population differentiation for nuclear data sets, they have been criticized recently because of their dependency on within-population diversity (Hedrick 2005; Jost 2008, 2009; Heller & Siegismund 2009; Ryman & Leimar 2009; Meirmans & Hedrick 2010). To correct for this bias, several replacement statistics have been proposed, and it is recommended that they be used in combination with traditional measures because all have their advantages and drawbacks (Meirmans & Hedrick 2010). The results for all tests performed on the nuclear data sets are reported in Table S5 (Supporting information). In the tables below, we present the results for FST and F¢ST. F¢ST (calculated by standardizing the normal FST by the maximum value it can obtain given the observed withinpopulation diversity) is considered to provide a more accurate estimate of the degree of divergence between populations (Meirmans & Hedrick 2010).
+We assessed genetic differentiation between the males in the North Pacific (Alaska) stock with the three low-latitude strata that contain females for the nuclear markers that resulted in the highest sample size (and hence statistical power). All pairwise comparisons, therefore, of Alaska males to the low-latitude strata were examined using SNPs (the markers that yielded the highest sample size) and using all samples collected in the low-latitude strata. Two comparisons were made: Gulf of Alaska males (where depredation is known to be frequent) and all Alaska males together.
+Assignment
+Individual assignment likelihoods and the probability of exclusion to each of the three putative source populations were investigated using GENECLASS2 (version 2.0) (Piry et al. 2004). We used the combined nDNA data set comprised of microsatellites and SNPs (to maximize the number of loci used to estimate assignment) and the assignment criterion of Paetkau et al. (1995) to calculate the assignment likelihoods and assess the significance of those likelihoods using Paetkau et al.’s (2004) re-sampling method. Reference samples from the three potential source populations (California Current, Hawai`i and eastern tropical Pacific) were comprised only of samples from ‘females and young’ (n = 113) to avoid inclusion of potentially nonresident males. We calculated probabilities of origin from each of the source populations for (i)
+
+288 S. L. MESNICK ET AL.
+California Current, Hawai`i and eastern tropical Pacific females and young using themselves as the potential source populations (‘self-assignment’ ⁄ detection of migrants), (ii) assignment of adult males sampled from within these three strata and from sub-Arctic waters to the three potential source populations comprised of females and young and (iii) assignment of groups comprised predominantly of females and young sampled in waters outside the three strata (samples collected in Palmyra, western Baja California and the open waters in between; Fig. 2). For all analyses, we set the default frequency for missing alleles at 0.01, performed 1000 resampling events and set the type-1 error rate to 0.01 as recommended by Piry et al. (2004).
+Results
+The final genetic data sets, quality checked for common genotyping problems following recommendations described by Morin et al. (2010) and with duplicate and poorest-quality samples removed, consisted of mtDNA (n = 285), six microsatellites (n = 255), 36 SNPs (n = 251), and combined nDNA (six microsatellites and 36 SNPs) (n = 232). The per-allele genotyping error rate for microsatellites was 0.9% and 1.4% for SNPs. Sex was determined genetically and ⁄ or by field examination of stranded animals for 272 samples. Genotypic data are available online (Dryad entry DOI: 10.5061/dryad.7983). Sample sizes for each strata, each of the marker types and for the social categories are shown in Table 3.
+Reconstruction of gametic phase for SNPs
+Reconstruction of the gametic phase for linked SNP loci resulted in a data set comprised of 16 bi-allelic loci and eight multi-allelic loci (with two to four linked SNPs each), for a total of 24 SNP loci. The difference between assessing phase based on all North Pacific samples and that of assessing phase based on the ‘three strata’ separately on the results of the population structure analyses was nearly indistinguishable (Table S5, Supporting information; compare AS82a and AS82b). The comparison of ‘normal’ and ‘keep missing data’ modes of PHASE resulted in relatively few samples with more missing data. In the data set comprised of samples from the three strata (n = 170 samples), for example, the number of missing data increased from 222 alleles in the ‘normal’ mode data set to 308 in the ‘keep missing data’ mode. The bootstrap analysis revealed no significant deviations from random for the number of alleles calculated at each locus for either the full or three strata data sets. The bootstrap analysis showed significant differences in heterozygosity between the two modes but in opposite directions (one locus in one stratum showed higher heterozygosity in
+‘normal’ mode while two loci in a second stratum showed higher heterozygosity in the ‘keep missing data’ mode; data not shown). The difference between the results of population structure analyses estimated in the two modes was nearly indistinguishable as shown in Table S5 (Supporting information) [compare ‘three strata’ results (AS82b) with those of ‘three strata’, ‘keep missing data’ (AS82e)]. The difference in increasing the number of PHASE iterations from 1000 to 1 000 000 had little influence on the results of the population structure statistics when comparing the SNP data set (AS82b) with ‘three strata’ phase and ‘normal’ mode (data not shown). Because of the small number of differences described above among phase data sets, all molecular diversity and population structure results shown below will be presented using ‘normal’ mode, ‘three strata’ stratification of the data set and 10 000 iterations of PHASE for the SNP data sets and combined nDNA data sets (AS82b and AS84b, respectively, in Table S5, Supporting information) (unless stated otherwise).
+Molecular diversity
+For the mtDNA sequences, 24 sites were variable and 17 different haplotypes identified (Table S6, Supporting information), seven of which were unique to one of the three low-latitude strata (Table 4). All haplotypes were defined by transitions. Among the three strata, nucleotide diversity was low (0.2–0.4%) and haplotypic diversity ranged from 0.643 to 0.833 (Table 6). Haplotypic diversity was lowest in the samples from Hawai`i (Table 5).
+The number of microsatellite alleles per locus ranged from nine for locus EV5 to 26 for SW19 (Table S7, Supporting information). Summaries of allelic diversity by strata and by locus are presented in Table 6a,b, respectively. For the three strata, heterozygosity ranged from 0.800 in the California Current to 0.832 in Hawai`i. When all samples were combined into a single population, the probability test detected no deviations from HWE for the global comparison and no deviations from HWE were detected for any loci, or for any loci in the strata-specific tests. The test for heterozygote deficiency was significant for the global comparison but no single locus showed significant deviations from HWE. Once the samples were divided into strata, SW10 exhibited heterozygote deficiency in the California Current stratum; no significant deviations from HWE were detected for any other loci in any of the other strata. No pairs of loci showed statistically significant linkage disequilibrium.
+The number of SNP alleles ranged from two for the biallelic loci to nine for the linked sets of loci (Table S8, Supporting information). Summaries of allelic diversity by strata and by locus are presented in Table 6c,d, respec-
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+
+tively. All SNP loci were polymorphic in each of the three strata, except for locus GRPY190 that was monomorphic in Hawai`i (Table 6d, Table S8, Supporting information). For the three strata, heterozygosity ranged from 0.391 in the eastern tropical Pacific to 0.426 in the California Current (Table 6c). Among loci, heterozygosity varied, with GRPY190 and PmCHYR304 being the least heterozygous (Table 6d and Table S8, Supporting information). The same two loci showed minor allele frequencies (MAF) <0.05 as did two of the linked loci CATR262_456 and CSF2KR278-K552-Y589; otherwise, minor allele frequencies were >0.05 (Table S8, Supporting information). When all three strata were combined into a single population, the probability test detected no deviation from HWE for the global comparison and no deviations for any loci, or for any loci in the strata-specific tests. The test for heterozygote deficiency was significant for the global comparison but no single locus showed significant deviations from HWE. Once the samples were divided into the three strata, no deviations from HWE were detected for any loci in any of the strata. Tests of linkage disequilibrium were investigated on two different data sets. In the first test, we examined linkage between all possible pairs of the 36 original bi-allelic markers over all samples (n = 251). Of the possible 630 locus combinations, 14 pairs showed significant disequilibrium; eight of these pairs were between known linked loci. In the second test, we examined linkage between all possible combinations for the 24 loci in the three strata shown in Table 6d (n = 170). Of the possible 276 pairwise comparisons between loci, 11 showed statistically significant link-
+Table 5 Mitochondrial DNA haplotypic and diversity (± standard deviation) for the three strata
+nucleotide
+Nucleotide diversity
+0.004 ± 0.003
+0.002 ± 0.002 0.003 ± 0.002
+SNP GENOTYPING AND APPLICATIONS 289
+ Strata
+Sample Number of size haplotypes
+Haplotypic diversity
+0.833 ± 0.028
+0.643 ± 0.068 0.758 ± 0.025
+ California 52 12 Current
+Hawai`i 28 4 Eastern 114 12
+tropical Pacific
+ Table 4 Number of haplotypes found in each stratum
+California
+Current Hawai`i Haplotype (n=52) (n=28)
+Eastern tropical Pacific (n = 114)
+age disequilibrium (P < 0.05). In a third test, we used the same data set but examined linkage between all possible pairs of loci within each of the three strata. Of the possible 276 pairwise comparisons in each of the three strata, 11, 11 and 15 pairs of loci showed statistically significant linkage disequilibrium (P < 0.05) in California Current, Hawai`i and eastern tropical Pacific strata, respectively. In only two cases were pairs of loci that showed significant LD in one stratum, also significant in another stratum; none showed significant linkage disequilibrium in all three strata. As there was no consistent pattern, we chose to treat loci for which we had no prior indication of physical linkage as independent.
+Population structure
+Global tests revealed significant genetic differentiation among strata for mtDNA and all nDNA data sets, rejecting the global null hypothesis of no population structure for the three strata (Table S5, Supporting information). Results were significant (P < 0.05) for mtDNA (FST, FST and Fisher’s exact test); microsatellites (v2); and all SNP and combined nDNA data sets (FST, F¢ST, G¢ST, G¢ST, G¢¢ST, D and v2) (Table S5, Supporting information). For the mtDNA data, analysis of molecular variance (AMOVA) revealed that most of the genetic variance was within populations (96.14% for FST; 96.24% for FST). The remaining molecular variance was found among populations (3.86% for FST; 3.76% for FST).
+Demographic independence of the three strata
+Pairwise tests using mtDNA revealed significant genetic differentiation (P < 0.05) among all three strata (FST) and for pairwise comparisons between California Current and Hawai`i and between California Current and eastern tropical Pacific (Fisher’s exact test) (Table 7). The only significant pairwise difference for the microsatellite data set was between California Current and eastern tropical Pacific for v2 (P = 0.03; Table S5, Supporting information). All pairwise com-
+  a 15 15
+aa 2 0 0 b 10 6 39 c 6 0 10 d003 e 11 1 2 f104 g100 h203 i100 j 0 6 11 k000 l001 m100 n101 o001 p101
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+38
+ 
+290 S. L. MESNICK ET AL.
+Table 6 Estimates of the number of alleles, observed (Ho) and expected (He) heterozygosity, and allelic richness for the nuclear loci: microsatellites averaged over strata (a) and for each locus (b); single-nucleotide polymorphisms (SNPs) averaged over strata (c) and for each locus (d)
+ (a) Microsatellite diversity by strata
+Strata
+California Current Hawai`i
+Eastern tropical Pacific
+(b) Microsatellite diversity by locus California Current
+Sample size
+43 27 98
+Hawai`i Allelic Number
+Mean number of alleles
+Mean He 0.813 ± 0.105
+0.832 ± 0.114 0.819 ± 0.102
+Allelic richness
+0.921
+0.669 7.949 0.737 7.335
+        Number of alleles
+D17 17 EV1 7 EV5 8 SW10 11 SW13 10 SW19 18
+11.8 ± 4.6 11.0 ± 3.6 14.7 ± 5.1
+Ho 0.889
+0.667 0.815 0.852 0.846 0.926
+Mean Ho 0.800 ± 0.115
+0.832 ± 0.090 0.814 ± 0.076
+Eastern tropical Pacific Allelic Number
+Ho 0.952
+0.643 0.721 0.767 0.816 0.902
+He richness 0.889 14.725
+of alleles
+He 0.901
+0.621 0.780 0.898 0.869 0.920
+richness of alleles
+12.887 20 6.962 12 7.888 9
+10.925 13 10.000 12 16.811 22
+Mean Ho 0.427 ± 0.204
+0.420 ± 0.205 0.392 ± 0.191
+Ho He
+  13 0.643 6.908 7 0.726 7.217 8
+0.898 0.755 0.773 0.827 0.725 0.904
+15.456
+0.849 9.984 0.855 9.042 0.913 15.821
+Sample size
+41
+27 102
+11 10 17
+0.862 0.804 0.919
+10.098 9.105 14.936
+  (c) SNP diversity by strata
+Strata
+California Current Hawai`i
+Eastern tropical Pacific
+(d) SNP diversity by locus
+CATR262-R456 CHRNA1R76-Y111 CSF2R278-K552-Y589 EPOR237-Y292 PmABHD5M274-Y447-R671 PmBH92Y172 PmPHGDHS172-
+M200-R223-Y321 SPTBN1S279-Y753 CKK273 DRD2Y679 ELN40K209 F9Y80
+GRPY190 IFNGY234 INTS368 PKMY237
+Mean number of alleles
+2.6 ± 1.1 2.5 ± 1.0 2.7 ± 1.3
+Hawai`i
+Allelic Number richness of alleles
+2.97 4 3.00 3 3.83 4 3.00 3 3.83 4 3.00 3 6.17 5
+3.00 3 2.00 2 2.00 2 2.00 2 2.00 2 1.97 0 2.00 2 2.00 2 2.00 2
+Mean He 0.423 ± 0.182
+0.414 ± 0.197 0.409 ± 0.191
+     California Current Number
+Ho He 0.268 0.363
+0.488 0.485 0.537 0.593 0.610 0.548 0.756 0.677 0.756 0.661 0.781 0.795
+0.415 0.402 0.500 0.461 0.512 0.505 0.463 0.409 0.325 0.481 0.098 0.094 0.205 0.187 0.375 0.481 0.342 0.287
+Eastern tropical Pacific Allelic Number
+   of alleles
+3 3 4 3 4 3 7
+3 2 2 2 2 2 2 2 2
+Ho
+0.630 0.475 2.99 3
+0.704 0.680 3.89 4 0.370 0.414 3.00 3 0.593 0.663 3.89 4 0.519 0.610 3.01 3 0.741 0.744 5.01 8
+0.185 0.175 3.00 3 0.440 0.507 2.00 2
+0.519 0.509 2.00 2
+0.520 0.507 2.00 2
+0.440 0.481 2.00 2 0.000 0.000 1.00 2 0.154 0.149 2.00 2 0.630 0.507 2.00 2 0.185 0.171 2.00 2
+He richness of alleles 0.462 0.439 3.85 4
+Allelic Ho He richness
+0.382 0.387 3.60 0.294 0.343 2.92 0.743 0.672 3.94 0.382 0.426 3.00 0.590 0.671 3.92 0.673 0.660 3.00 0.686 0.775 5.70
+0.373 0.334 2.98 0.467 0.503 2.00 0.539 0.502 2.00 0.480 0.499 2.00 0.458 0.501 2.00 0.071 0.069 1.86 0.110 0.156 1.99 0.542 0.473 2.00 0.287 0.325 2.00
+   Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+
+Table 6 Continued
+(d) SNP diversity by locus
+SNP GENOTYPING AND APPLICATIONS 291
+  California Current Number
+Hawai`i
+Allelic Number richness of alleles
+1.94 2 2.00 2 2.00 2 2.00 2 2.00 2 2.00 2 2.00 2 2.00 2
+Eastern tropical Pacific Allelic Number
+     PmCHYR304 PmDDX5R109 PmHSPA9Y220 PmLAPTM4R553 PmMYL4R358 PNDR111 RDS456 RYR2R327
+of alleles
+2 2 2 2 2 2 2 2
+Ho He 0.075 0.073
+0.316 0.438 0.220 0.235 0.125 0.162 0.512 0.476 0.684 0.507 0.375 0.339 0.500 0.504
+Ho He 0.074 0.073
+0.333 0.479 0.111 0.107 0.259 0.283 0.519 0.475 0.615 0.507 0.111 0.107 0.539 0.462
+richness of alleles
+2.00 2 2.00 2 2.00 2 2.00 2 2.00 2 2.00 2 2.00 2 2.00 2
+Allelic Ho He richness
+0.062 0.060 1.82 0.441 0.469 2.00 0.090 0.122 1.98 0.247 0.248 2.00 0.366 0.446 2.00 0.441 0.500 2.00 0.270 0.263 2.00 0.409 0.423 2.00
+ parisons with the California Current stratum were significant for both the SNP and combined nDNA data sets (P £ 0.01; FST and F¢ST; Table 7). No comparisons between the Hawai`i and the eastern tropical Pacific were significant for either of these marker sets. These results are consistent with the results from the additional data sets and statistical tests examined in Table S5 (Supporting information). Pairwise mtDNA FST values ranged from 0.033 to 0.070 (Table 7). Microsatellite FST values ranged from 0.001 to 0.003 and SNP FST values ranged from 0.001 to 0.013 (Table 7). Analysis of genetic differentiation among the three strata using the restricted ‘females and young’ data set were similar to those described above, although some comparisons became marginal or nonsignificant (compare results in Table 7 to Table S9, Supporting information).
+Assignment of low-latitude samples
+Despite the significant differentiation among strata, on a per individual basis, there is little power for assignment or exclusion to the three source strata. For females and young, the proportion of ‘self-assignments’ (samples collected in one of the three designated source strata that assigned most strongly to their stratum of origin) was 44% (12 ⁄ 27) for California Current, 50% (33 ⁄ 66) for the eastern tropical Pacific and 30% (6 ⁄ 20) for Hawai`i (Fig. 3). Individuals in the Hawai`i stratum tended to show higher assignment likelihoods to the eastern tropical Pacific stratum than to Hawai`i. One individual from the eastern tropical Pacific and one individual from Hawai`i could be excluded from their source stratum (exclusion probability <0.01) (shown in solid black in Fig. 3).
+For females and young from areas outside the three designated strata (samples collected in Palmyra, western
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+Baja California and the open waters in between; Fig. 2), few individuals could be excluded from any of the three putative source strata. The source strata to which they had the highest assignment likelihood were mixed (data not shown).
+Adult males from the three strata showed mixed assignments and relatively few exclusions (Table 8). The proportion of samples that assigned most strongly to their stratum of origin was 66% (4 ⁄ 6) for California Current, 56% (5 ⁄ 9) for eastern tropical Pacific and 0% (0 ⁄ 2) for Hawai`i.
+Single or mixed population status of Alaska and males
+All pairwise comparisons of males from the North Pacific (Alaska) stock to the low-latitude strata using SNPs (the markers that yielded the highest sample size) were statistically significant or nearly so, suggesting that these males do not originate solely from only one of the three populations (F¢ST P-values for comparisons between Alaska and California Current = 0.07; Alaska and eastern tropical Pacific = 0.02; and Alaska and Hawai`i = 0.05). Results were similar with mtDNA (FST P-values for comparisons between Alaska and California Current = 0.04; Alaska and eastern tropical Pacific = 0.01; and Alaska and Hawai`i = 0.17). Results were nearly identical for both markers in the comparison including only samples of males from the Gulf of Alaska (where depredation is common) to the three low-latitude strata (Table S10, Supporting information). For all but two of the Gulf of Alaska males and for all but one of the four Aleutian males, none of the three putative source strata could be excluded as a possible source population (exclusion probability ‡0.01; Table 8). Samples of males collected along the Kuril Islands, Russia (n = 5), showed mixed assignments, and one individual could be excluded from all three putative source populations (Table 8).
+
+292 S. L. MESNICK ET AL.
+Table 7 Pairwise divergence between strata. Comparisons that are statistically significant at the a = 0.05 level are in bold. For mitochondrial DNA (mtDNA) sequence data (a) divergence was estimated with FST (with P-values in parenthesis) below the diagonal and for Fisher’s exact test P-values above the diagonal. N = 194 (AS 108). For the nuclear data, divergence was estimated with F¢ST (above the diagonal) and FST (below the diagonal) with P-values (in parenthesis below the diagonal). For microsatellite data (b) n = 168 (AS78). For SNP data (c) n = 170 (AS82b). For the combined nuclear DNA (nDNA) (d) n = 153 (AS84b)
+ (a) mtDNA
+California Current Hawai`i
+Eastern tropical Pacific
+(b) Microsatellites
+California Current Hawai`i
+Eastern tropical Pacific
+(c) SNPs
+California Current Hawai`i
+Eastern tropical Pacific
+(d) Combined nDNA
+California Current Hawai`i
+Eastern tropical Pacific
+Discussion
+California Current (n = 52) —
+0.070 (P = 0.005 ± 0.001) 0.034 (P = 0.008 ± 0.001)
+California Current (n = 43) —
+0.003 (P = 0.194) 0.002 (P = 0.119)
+California Current (n = 41) —
+0.010 (P = 0.016) 0.013 (P < 0.001)
+California Current (n = 40) —
+0.009 (P = 0.007) 0.009 (P < 0.001)
+Hawai`i (n = 28) P = 0.001 ± 0.001
+—
+0.033 (P = 0.047 ± 0.002)
+Hawai`i (n = 27) 0.017
+—
+0.001 (P = 0.318)
+Hawai`i (n = 27) 0.018
+—
+0.001 (P = 0.378)
+Hawai`i (n = 26) 0.018
+—
+0.001 (P = 0.289)
+Eastern tropical Pacific (n = 114)
+P < 0.001
+P = 0.291 ± 0.015 —
+Eastern tropical Pacific (n = 98)
+0.013 0.006 —
+Eastern tropical Pacific (n = 102)
+0.022
+0.001 —
+Eastern tropical Pacific (n = 87)
+0.018
+0.003 —
+        Both mtDNA and nDNA indicate population structure within the eastern and central North Pacific (questions 1 and 2 are yes). The California Current stratum showed low but significant differentiation from animals sampled both in adjacent waters to the south and in distant waters to the west in Hawai`i. These results are the first to reveal genetic differentiation in the eastern Pacific Ocean, where no physical barriers exist among geographically defined strata, and contrast with previous results in the Atlantic Ocean (Bond 1999; Engelhaupt et al. 2009) and the Pacific Ocean (Dillon 1996; Lyrholm & Gyllensten 1998; Lyrholm et al. 1999). The results are robust to uncertainties about social structure. Analysis of genetic differentiation among the three strata using the restricted ‘females and young’ data set was similar to that described above. Higher P-values using the restricted data set are not surprising given the reduced sample sizes but are contrary to what might be expected if adult males had no fidelity to their natal strata. FST values inferred from mtDNA sequences were higher than estimates for nuclear-
+derived microsatellites or SNPs, as is expected owing to the fourfold higher effective population size of nuclear markers compared to mitochondrial loci. However, significant differentiation in the SNPs is the first positive indication that more males (than random expectation) return to their stratum of origin to mate. Estimates of FST were greater than expected for gene-flow rates of one migrant per generation (Box 1) for all pairwise comparisons for mtDNA and the combined nDNA even given the uncertainty in Ne. The low levels of genetic differentiation in mtDNA revealed here are consistent with those found in previous studies of mtDNA nucleotide variation at regional and global scales. Our microsatellite results are also consistent with previous studies that tend to indicate either no or marginal significance for withinocean basin comparisons using a larger number of loci (Bond 1999; Lyrholm et al. 1999; Engelhaupt et al. 2009).
+Pairwise comparisons of the Hawai`i stratum to the eastern tropical Pacific stratum are not conclusive at this stage. Comparisons with the mtDNA data set are significant, but nDNA data sets cannot reject the hypothesis that there is one large stock in the eastern tropical Pacific
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+
+Fig. 3 Probability of ‘self-assignment’ ⁄ detection of migrants to three source strata for females and young from California Current, eastern tropical Pacific and Hawai`i strata (n = 113). Samples that can be excluded from their strata of origin (exclusion probabilities £0.01) are shown as a solid black triangle and solid black square (located in the lower left of the graph).
+spanning these waters (question 1 is yes for mtDNA; cannot reject the null hypothesis for nDNA for question 2). However, there is likely to be low statistical power to detect differentiation owing to the small sample size in Hawai`i. And while haplotypic diversity was lower in Hawai`i than the other two strata, heterozygosity was not, for either microsatellites or SNPs. The discrepancy in the two markers may be attributed to the lower effective population size of mtDNA markers, compared to nuclear markers, which results in greater estimates of divergence for mtDNA (Larsson et al. 2009; Martien et al. 2010). There were few high probabilities of self-assignment, particularly of Hawaiian females, but this is not unexpected given the low individual power of assignment, the possibility of mixed parentage and un-sampled source populations, and the potential for long-range movement. Increasing the number of samples and the number of markers will be important in helping to resolve questions of population differentiation and assignment within and between Hawai`i and the eastern tropical Pacific. Outside the eastern tropical Pacific (Whitehead et al. 2008), we know little of the ranging patters of females. Whalers reported calving in Hawai`i year-round, and acoustic data from Hawaiian waters show a year-round low-level presence of sperm whales (Thompson & Friedl 1982). Another factor that may obscure geographical patterns of genetic differentiation between the two geographical regions is the social structure of female sperm whales. Groups in the eastern tropical Pacific and South Pacific are known to be structured into sympatric acoustic clans, and investigations using mtDNA suggest that the clans may be genetically differ-
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+entiated (Rendell & Whitehead 2003; L. Rendell, S. L. Mesnick, M. Dalebout, J. Burtenshaw & H. Whitehead, in submitted). Ultimately, data from genetics, acoustics, photo-identification and tagging will need to be combined to provide a better understanding of the scale and the factors contributing to the structure of female groups.
+If all or most of the Alaska males originated from only one of the three low latitude strata, then we would expect to obtain nonsignificant results when comparing these males with that stratum. Based on both mtDNA and SNPs, however, we found no strong evidence indicating that Alaska males originate solely from any one of the three strata (FST and F¢ST P-values significant or nearly so for comparisons between the Alaska males and each of the three strata; question 3 is no; with similar results for the Gulf of Alaska males assessed separately). Taken together with the population structure results described above, it appears that some males return to the region of their birth to mate but share high latitude feeding grounds with males from other populations.
+With the low power of individual assignment tests, few Gulf of Alaska or Aleutian males could be excluded from any of the three putative source strata (question 4), limiting the utility of the assignment tests in evaluating the origin of these individuals.
+As expected (Box 1), the amount of genetic differentiation among strata is low. The results found in the present study, however, using both mtDNA and nDNA, are indicative of demographic independence of the California Current stratum and provide some support for the demographic independence of the Hawai`i stock with mtDNA. Taken together with the results described above for adult males, it appears that the North Pacific (Alaska) stock is likely to have widespread origin and is probably a mix of males from multiple demographically independent populations of females. Currently, the Alaska stock is the only stock managed under the MMPA known to be comprised almost entirely of a single demographic component, i.e., adult males. Our results suggest that Alaska males appear to constitute a mixed stock on sub-Arctic foraging grounds, and their status warrants reconsideration under the MMPA. This will require further research and analysis as sample sizes are low and not all areas with females have been sampled.
+Although the genetic power for individual SNPs is lower than that of individual microsatellites because they are bi-allelic, we found here that the set of SNPs examined here can provide sufficient power to detect population structure even when divergence between populations is very low. There is still work to be carried out to develop better ways to analyse SNP data, especially when linked SNPs are used. At least for this data set, however, we have shown that current methods for haplotype inference do not appear to be significantly
+SNP GENOTYPING AND APPLICATIONS 293
+ 
+294 S. L. MESNICK ET AL.
+Table 8 Maximum assignment likelihoods and exclusion probabilities for adult males to three putative source populations (California
+Current, Eastern tropical Pacific and Hawai`i). Exclusion probabilities £0.01 are indicated in bold Exclusion
+ Sampling
+location LABID
+Adult males sampled within the three strata
+Strongest assignment
+HI
+HI CA-OR-WA CA-OR-WA CA-OR-WA CA-OR-WA ETP
+ETP
+HI
+ETP
+ETP CA-OR-WA CA-OR-WA ETP CA-OR-WA CA-OR-WA CA-OR-WA
+CA-OR-WA CA-OR-WA CA-OR-WA HI CA-OR-WA CA-OR-WA CA-OR-WA HI
+HI
+ETP
+ETP CA-OR-WA CA-OR-WA ETP
+ETP CA-OR-WA CA-OR-WA ETP
+ETP
+HI
+HI
+HI CA-OR-WA CA-OR-WA CA-OR-WA ETP
+HI
+ETP CA-OR-WA CA-OR-WA CA-OR-WA CA-OR-WA ETP
+Exclusion Exclusion probability:
+probability: eastern Hawai`i tropical Pacific
+0.973 0.963 0.606 0.534 0.016 0.012 0.078 0.032 0.375 0.262 0.956 0.917 0.365 0.251 0.316 0.052 0.473 0.587 0.380 0.218 0.635 0.261 0.131 0.017 0.096 0.031 0.047 0.022 0.492 0.330 0.474 0.459 0.006 0.023
+0.807 0.177 0.094 0.013 0.102 0.078 0.816 0.701 0.017 0.006 0.406 0.363 0.226 0.027 0.438 0.348 0.201 0.315 0.450 0.266 0.014 0.022 0.359 0.263 0.514 0.315 0.202 0.110 0.985 0.946 0.601 0.403 0.394 0.146 0.452 0.291 0.299 0.118 0.721 0.593 0.331 0.362 0.145 0.221 0.452 0.162 0.854 0.233 0.384 0.190 0.570 0.179 0.892 0.875 0.309 0.074 0.902 0.743 0.044 0.004 0.598 0.302 0.012 0.005 0.083 0.036
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+probability: CA Current
+ CA-OR-WA CA-OR-WA CA-OR-WA CA-OR-WA CA-OR-WA CA-OR-WA ETP
+ETP ETP ETP ETP ETP ETP ETP ETP HI HI
+2181 5753 5754 6223
+17131 25442 9598 11574 15042 15966 60597 60599 60601 60602 60604 30488 30482
+0.759 0.626 0.056 0.183 0.767 0.949 0.218 0.124 0.092 0.204 0.151 0.176 0.142 0.017 0.669 0.555 0.033
+0.886 0.212 0.173 0.76 0.036 0.474 0.54 0.153 0.164 0.245 0.020 0.334 0.531 0.039 0.926 0.668 0.531 0.149 0.134 0.561 0.226 0.099 0.429 0.887 0.476 0.338 0.700 0.021 0.901 0.068 0.595 0.020 0.052
+Adult males sampled in sub-Arctic waters
+Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Gulf of AK Aleutians Aleutians Aleutians
+4848 10399 10400 28393 28399 28411 34557 34558 34559 34562 35340 41462 41492 43541 43542 43543 43544 43749 43750 44015 44016 45756 45757 45758 52892 60878 60879 60880 67880 68973 28556 28557 28559
+ 
+Table 8 Continued
+Sampling location
+Aleutians Russia Russia Russia Russia Russia
+Strongest LABID assignment
+57917 HI
+70555 HI
+70556 CA-OR-WA 70558 CA-OR-WA 70559 ETP
+70560 ETP
+Exclusion Exclusion probability: probability: CA Current Hawai`i
+0.087 0.180 0.276 0.371 0.504 0.169 0.409 0.351 0.000 0.001 0.186 0.453
+Exclusion probability: eastern tropical Pacific
+0.192 0.294 0.130 0.253 0.001 0.210
+SNP GENOTYPING AND APPLICATIONS 295
+   biased. We used the program PHASE to infer the gametic phase for sets of linked SNPs, and we evaluated the effect of phasing SNPs based on different populations and of using haplotypes inferred from missing data. We found that, although both introduce some noise and potential bias, in the case of this data set, the inference of population structure for eastern and central North Pacific sperm whales is not affected.
+While we detected significant divergence between strata, on a per individual basis, there was little power for assignment, even with the combined nDNA data set. This is not unexpected owing to the very low levels of differentiation between strata and the fact that we have not sampled all potential source populations from which migrants may have originated. While assignment power can be improved by using a larger sample (a sample size near 50 individuals is suggested for large populations) and by doubling the number of (multi-allelic) loci (Paetkau et al. 2004), individual assignment will remain challenging given the relatively low divergence among these strata.
+Single-nucleotide polymorphisms are rapidly becoming the marker of choice for some types of population genetic studies. While SNPs discovery and ascertainment take significant time at present, and other markers may currently be better suited for particular questions such as assignment or relatedness, there are advantages that make SNPs a good marker choice. These include a lower and simple mutation model, high abundance in most genomes, highly efficient and accurate genotyping methods, sufficient statistical power with a twoto fourfold increase in markers and ⁄ or use of linked loci, and the ability to easily generate and combine data from different technologies and over long time periods (Kuhner et al. 2000; Turakulov & Easteal 2003; Aitken et al. 2004; Morin et al. 2004, 2009c; Seddon et al. 2005; Anderson & Garza 2006; Morin & McCarthy 2007; Smith & Seeb 2008). This study is one of the first to utilize SNP markers to study a widely dispersed, highly mobile marine species where we have little a priori indication of population structure. The challenges that we face in understanding population
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 278–298 Ó 2011 Blackwell Publishing Ltd
+structure in sperm whales are significant, including the collection of samples over many decades and the future need to combine data from researchers with access to samples in different oceanic regions. SNPs appear to offer the best option so far for overcoming those challenges and serve as a foundation for future regional and global collaborations.
+Acknowledgements
+Research was funded by the Southwest Fisheries Science Center (SWFSC), Southwest Regional Office and Alaska Regional Office of the National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA), and the U.S. Marine Mammal Commission. We are thankful for expertise of tissue archivist Gabriella Serra-Valente and the laboratory expertise of John Hyde, Aviva Rosenberg, Becky Nachenberg and Karine Viaud. Andy Dizon provided initial support, Dan Prosperi provided valuable guidance in database management, Rich Cosgrove provided the maps and Henry Orr improved the figures. Sample collection was carried out by the SWFSC under National Marine Fisheries Service Permits 1029⁄689424, 774–1437 and 774–1714 as required by the Marine Mammal Protection Act and Endangered Species Act. Bill Perrin, Aime ́e Lang, John Hyde, Nikki Volmer, Susan Chivers, David Paetkau and three anonymous reviewers provided valuable comments that improved the manuscript. Collection of samples involved many people, from many institutions. Our gratitude goes to the command and crew of NOAA Ships David Starr Jordan, McArthur, McArthur II, the UNOLS vessel Endeavor, and to SWFSC Chief Scientists: Lisa Ballance, Jay Barlow, Susan Chivers, Karin Forney, Tim Gerrodette and Rick LeDuc. The skill of several expert marine mammal observers made it possible for us to obtain samples on these cruises, among them: Robert Pitman, Juan Carlos Salinas, Jim Cotton, Suzanne Yin and Erin LaBreque. We are grateful to the many scientists and institutions that have contributed valuable samples to this project: Alaska SeaLife Center; Diane Gendron, Centro Interdisciplinario de Ciencias Marinas, Instituto Polite ́cnico Nacional; Lance Barrett Lennard, Cowan Vertebrate Museum, University of British Columbia; Jenny Christal, Dalhousie University; Kristine Sowl, Izembek National Wildlife Refuge, U.S. Fish and Wildlife Service; Jim Dines, Los Angeles County Museum of Natural History; Moss Landing Marine Laboratories; John Durban, National Marine Mammal Lab, Alaska Fisheries Science Center, NMFS, NOAA; Craig Matkin, North

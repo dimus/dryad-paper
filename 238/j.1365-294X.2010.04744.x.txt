@@ -1,0 +1,230 @@
+   Molecular Ecology (2010) 19, 3193–3205 doi: 10.1111/j.1365-294X.2010.04744.x
+Mating patterns and determinants of individual reproductive success in brown trout (Salmo trutta) revealed by parentage analysis of an entire stream living population
+DIMITAR SERBEZOV,* LOUIS BERNATCHEZ,† ESBEN M. OLSEN*‡ and LEIF A. VØLLESTAD*
+*Centre for Ecological and Evolutionary Synthesis (CEES), Department of Biology, University of Oslo, P.O. Box 1066, Blindern, 0316 Oslo, Norway, †Institut de Biologie Inte ́grative et des Syste`mes (IBIS), Pavillon Charles-Euge`ne Marchand, Universite ́ Laval, Que ́bec QC G1V 0A6, Canada, ‡Institute of Marine Research, Flødevigen, 4817 His, Norway
+Abstract
+Reproductive success and its determinants are difficult to infer for wild populations of species with no parental care where behavioural observations are difficult or impossible. In this study, we characterized the breeding system and provide estimates of individual reproductive success under natural conditions for an exhaustively sampled streamresident brown trout (Salmo trutta) population. We inferred parentage using a full probability Bayesian model that combines genetic (microsatellite) with phenotypic data. By augmenting the potential parents file with inferred parental genotypes from sib-ship analysis in cases where large families had unsampled parents, we could make more precise inference on variance of family size. We observed both polygamous and monogamous matings and large reproductive skew for both sexes, particularly in males. Correspondingly, we found evidence for sexual selection on body size for both sexes. We show that the mating system of brown trout has the potential to be very flexible and we conjecture that environmental uncertainty could be driving the evolution and perhaps select for the maintenance of plasticity of the mating system in this species.
+Keywords: assortative mating, Bateman’s gradient, fitness, microsatellite, parentage assignment, sexual selection
+Received 26 October 2009; revision received 26 May 2010; accepted 27 May 2010
+Introduction
+Studies of mating systems are important for understanding the processes involved in sexual selection. Lately, genetic parentage analyses have revealed details about the reproductive biology of animals that are elusive in observational studies and have improved our understanding of mating systems and sexual selection (Avise et al. 2002; Hughes 1998). In particular, accurate assessment of individual reproductive success, and the factors affecting the variation in reproductive success among reproducing individuals, is crucial for understanding selective pressures driving adaptation (e.g. Clutton-Brock 2007).
+Correspondence: Dimitar Serbezov, Fax: +47 228 54001; E-mail: d.r.serbezov@bio.uio.no
+Differences in the potential rates of reproduction between the two sexes and variation in quality as partners shape the two forms of sexual selection: mate choice and within-sex competition (Andersson 1994). The resultant bias in the operational sex ratio (OSR) is expected to increase the intensity of intrasexual competition, and consequently the variance in reproductive success (Emlen & Oring 1977). Typically, female variation in reproductive success is linked to offspring production and survival, whereas male reproductive success is constrained by access to mates (Bateman 1948; Andersson 1994).
+Salmonid fishes exhibit a wide diversity of breeding systems (Gross 1991; Fleming 1998). Within a population, both female and male reproductive success may vary considerably (Fleming 1998; Garant et al. 2001). As salmonids have aggregate mating systems, competition
+Ó 2010 Blackwell Publishing Ltd
+
+3194 D. SERBEZOV ET AL.
+for mates can be especially intense and differential reproductive success (reproductive skew) among males contributing to a female’s clutch is a probable outcome. This variation creates opportunity for selection to shape their behaviour, morphology and life history.
+Females are predicted to be choosier than males because they have lower potential rates of reproduction. Males of salmonid species do not provide parental care, so female choice is limited to finding males that would provide genetic benefits. These benefits could be for a particular life history pattern, for parasite and pathogen resistance, or for male attractiveness to females (and therefore the attractiveness of the female’s sons). In salmonids, however, the opportunity for female choice might be limited and possibly constrained by male–male competition, especially if dominant males monopolize access to females (Emlen & Oring 1977). Counteracting this, small subordinate males may contribute to the fertilization of the eggs of females that are primarily spawning with large dominant males (GarciaVazquez et al. 2001). In cases of high female reproductive synchrony, the ability of individual males to dominate their rivals is reduced (Emlen & Oring 1977). Moreover, salmonid females often spawn only a portion of their eggs at a time, and the rest are usually placed nearby or in a proper locations (called redds) elsewhere in the stream (Barlaup et al. 1994), potentially allowing the fertilization by several males.
+Males might also be preferring larger females as they produce more eggs (Foote 1988) and are able to dig deeper nests than smaller females, reducing their susceptibility to nest destruction (Steen & Quinn 1999). Larger female size could be beneficial in an intensified female–female competition as suitable nesting sites in small streams are usually clumped and thus presumably a limiting factor (Fleming & Gross 1989). But as the operative sex ratio is male skewed, males would profit by simply mating with as many females as possible. As with females, mating with multiple partners is likely to increase the chance that a portion of the offspring will have a genetic composition that provides fitness advantages. In any case, males do compete for access to females, dominant males can monopolize access to females (Largiader et al. 2001), and there might be selection for larger sizes and secondary sexual characters (Quinn et al. 1996).
+A central issue in sexual selection is to determine how selection differentials are shaped by the reproductive ecology and environmental factors (Lande & Arnold 1983). The strength of sexual selection is determined by the correlation between mating success and reproductive success (Arnold & Duvall 1994; Bateman 1948), the sexual selection gradient, also known as the ‘‘Bateman gradient’’ (Andersson & Iwasa 1996). Precop-
+ulatory sexual selection operates when one sex exhibits variance in mating success, variance in reproductive success, and a nonzero Bateman gradient, but how they are related to one another remains elusive in most natural systems (Jones 2009). Specifically, the variance in reproductive success caused by the variance in mating success is interesting as it reflects the intensity of competition for access to mates in a sexually selected sex. A trait would be under directional sexual selection if the covariance between the trait and mating success is somehow accompanied by covariance between the trait and reproductive success (e.g. a nonzero selection coefficient).
+Relatively few studies have used pedigrees reconstructed from genetic data to document mating system and individual mating success in the wild (Garant et al. 2001). Pedigree reconstruction methods generally fall in two categories, those that try to assign individuals to their parents (Jones & Ardren 2003) and those that partition a group of individuals into sib-ships (Blouin 2003), but much less frequently the two approaches are combined (Coltman 2005; Dibattista et al. 2008; Feldheim et al. 2004). In this study, we reconstruct the pedigree of a thoroughly sampled, stream-resident brown trout population by combining sib-ship inference with parentage analysis. In our system there is no prior information on parentage probabilities, except the possibility that spatially proximate spawners have increased probabilities of having mated with each other and to have sired spatially proximate offspring, and that large spawners have increased probabilities of producing offspring. We combine molecular markers with phenotypic data in a full probability model using a Bayesian approach that simultaneously estimates the parentage of the sample of individuals and population level parameters that we are interested in. Thereby, we document the mating system and variation in family sizes. Specifically, we investigate the role of body size in shaping the mating patterns and how the strength of sexual selection differs between the sexes.
+Materials and methods
+Study site
+Brown trout were sampled from a small forest stream, Bellbekken, in south-east Norway (N: 61. 15°, E: 11. 51°) during the period 2002–2007 (see Olsen & Vøllestad 2003 and Carlson et al. 2008). Twenty-five contiguous stream sections were used as permanent study sites with a length of 32–96 m (mean = 60.2 m), spanning in total 1504 m of the downstream part of the stream. The downstream section starts at a small waterfall (station 1 below the waterfall, stations 2–25 above the waterfall),
+Ó 2010 Blackwell Publishing Ltd
+
+which prevents upstream migration under most conditions leading to weak but significant genetic differentiation between trout upstream and downstream the waterfall (Taugbøl 2008). Below the waterfall the stream enters the larger river Julussa, and there seems to be very little movement between the two rivers (Carlson et al. 2008).
+Data collection
+Trout were sampled with a backpack electrofishing apparatus during early summer (June) and autumn (late September to early October) starting in autumn 2002 and ending in autumn 2007. The whole stream was usually sampled within a 4–5day period, when conditions for sampling were good (i.e. low water flow, stable weather conditions). Each site was electrofished systematically and thoroughly, from the lower end upstream, at least three times, i.e. the removal method (Bohlin et al. 1989; White & Anderson 1982). Brown trout abundance (excluding 0 + fish) at each site and sampling occasion was estimated using the Zippin multiple-pass removal method (Zippin 1958). Estimated total abundance for all sites pooled for the different sampling periods varied between 895 and 1413 individuals (0 + excluded).
+After the fish were anaesthetised, Passive Integrated Transponders (PIT-tags, Prentice & Flagg 1990) were inserted into the body cavity of all fish that were larger than ca. 50 mm. Some smaller fish were tagged by injection of a coloured elastomer material (Olsen & Vøllestad 2001). Fork length was measured (nearest mm), and a small tissue sample was removed and stored in 96% ethanol for later genotyping. Also, a few scales were removed for age determination and sex was noted for mature fish during the autumn sessions. The age of individuals belonging to the 0 + and 1 + age classes could be determined based on length alone. All fish were allowed to recover and were released at the site of capture.
+Genetic analysis
+DNA was extracted from the collected tissue samples using a salt-based method similar to that outlined in Aljanabi & Martinez (1997). Of all genotyped individuals, 2593 were identified either as offspring or potential parents and used in the analyses in this study. A proportion of individuals (3.1%) were genotyped more than once, as determined by observed identical genetic profiles and compatible age and length data (often females that had lost their PIT-tags).
+Samples were analysed with 15 microsatellite loci that amplified well and were moderately to highly polymor-
+phic (Table S1, Supporting information). PCR amplification was performed in one triplex (SSaD71, SSaD85 and SSaD170), one duplex (CA060177 and TAP2B), and the rest of the loci in simplex as these loci amplified best at slightly different conditions. The following recipe was used for each sample: 10–200 ng DNA template, 10 mM NH4 reaction buffer and 0.03–0.05 units Taq DNA polymerase (BiolineÒ), 12–25 nmol MgCl2, 0.6 nmol dNTP, 3–5 pmol of each primer, and the mixture was filled up total of 10 lL with mqH2O. For the triplex PCR reaction, 1.5 lL of DNA template was used in total of 15 lL reaction volumes. Cycling conditions consisted of an initial denaturation step at 94 °C for 2–5 min, followed by 30–35 cycles of denaturation at 92–95 °C for 30–45 s, primer annealing at 55–66 °C for 30–45 s and sequence extension at 68–72 °C for 30 s to 2 min, and a final extension step for 5–10 min. The duplex was run with a ‘‘touch-up’’ type program consisting first of 20 cycles where the annealing temperature started at 60 °C and increased by 0.5 °C after each cycle to reach 70 °C, followed by 15 additional cycles with annealing temperature set at 60°C. Samples were subsequently electrophoresed on a ABI PrismÒ 3100 Genetic Analyser and analysed with GeneScanÒ Analysis and GenotyperÒ software (Applied Biosystems), and on a ABI 3730 DNA Analyser and then analysed with GeneMapperÒ 3.7 Software (Applied Biosystems). As the length of the alleles slightly differed between the two genetic analyser machines, the same plate of 96 individuals was genotyped on both for calibration.
+To mitigate the potential effects of scoring errors, extensive screening of the loci was carried out. All alleles were visually inspected rather than relying on automated scoring options. The 15 loci were analysed with the Microchecker (Van Oosterhout et al. 2004) and CERVUS (Marshall et al. 1998) software, both of which have function for detecting null alleles, and none were found. This is also indicated by the fact that the yearsite-loci samples did not show any systematic pattern of not being in Hardy–Weinberg equilibrium (< 10%, many of which showed heterozygosity excess), as would be expected if they were affected by null alleles which are usually loci specific. Between 12% and 24% of all individuals were genotyped more than once at a locus allowing us to estimate the genotyping and scoring error rate (see Appendix S1, Supporting information).
+Parentage assignment procedure
+Potential parent set. Capture probabilities of potential spawners in Bellbekken were generally between 0.5 and 0.7 (Carlson et al. 2008). Failure to account for unsampled individuals would result in some incorrect
+Ó 2010 Blackwell Publishing Ltd
+MATING PATTERNS AND REPRODUCTIVE SUCCESS IN TROUT 3195
+
+3196 D. SERBEZOV ET AL.
+assignments (Araki & Blouin 2005) and might cause underestimation of the reproductive success of individuals with high reproductive success relative to those with lower reproductive success (Nielsen et al. 2001). However, the several consecutive sampling seasons allowed us to build a more complete parental input file, also including potential spawners that were not sampled during the focal spawning season (Nielsen et al. 2001). These fish do not have a measured size for the actual spawning event, but their lengths can be estimated based on the observed growth trajectories of the fish in Bellbekken. For each gender, we constructed a von Bertalanffy growth model (length 􏰁 a Æ (1-exp()k Æ age)), where a and k are sex-specific asymptotic length and growth constants, respectively), and constructed a file for each spawning season with the observed spawners plus individuals that have been forward or back calculated to have been at least 120 mm long at the actual spawning season. All but a few observed spawners were larger than 120 mm and this procedure should have resulted in including most of the real parents that have ever been sampled, although probably also many individuals that did not contribute to the offspring pool.
+We combine parentage assignment and sib-ship reconstruction to improve our pedigree inferences as follows. First, COLONY v2.0 (Jones & Wang 2009; Wang 2004) was used to partition the offspring cohort into full and half-sib families and to infer their parental genotypes. This software uses a group-likelihood approach that considers information from all individuals, allowing both sexes to be polygamous, and can incorporate the same types of scoring errors that we use in the parentage assignment analysis. Large half-sib families are inferred parental genotypes with high likelihoods, and some of these were included in the potential parent file as genotypes of unsampled parents. For the 2003 offspring cohort, the 834 progeny in the offspring generation could be partitioned into 91 paternal families. Thirteen of these were very large half-sib families (> 15 individuals), and the corresponding estimated sire genotypes had very high posterior probabilities (mean posterior probability per locus > 0.999). Two of these genotypes matched sampled parents, but the rest were genotypes that did not match any of the sampled parents, even when allowing for two mismatches. These generated genotypes were included in the input file for parentage analysis as potential fathers. Generated parents were only used as potential fathers for the 2002 spawning season as the analyses of the 2003 and 2004 seasons did not reveal any missing highly successful genotypes. These individuals, together with spawners sampled in other seasons, are referred to as ‘‘unobserved’’ in the Results section.
+A full probability Bayesian model of parentage assignment. Categorical and fractional allocation methods that are most commonly used in parentage assignment studies tend to produce parameter estimates that are biased towards those that would be observed under random mating (Hadfield et al. 2006). In our system, however, one might expect that larger males and females are more likely to gain parentage and, considering the population structuring (see results), individuals that were sampled spatially closer to each other are more likely to have mated with each other or be a parent–offspring pair. Even though the individual exclusion probability [calculated with CERVUS 3.0, Kalinowski et al. (2007)] of the first parent was relatively high (mean = 0.9994 ± 0.001), a proportion of offspring had either multiple potential mothers (11–14%) or fathers (10–14%) that they were found to be fully genetically compatible with in all the three seasons studied. The primary aim of the method used here is to integrate over uncertainty in pedigree configurations estimated from molecular markers and phenotypic data using Markov Chain Monte Carlo techniques. The value of multiple sources of information is increased accuracy of the estimates (Neff et al. 2001; Walling et al. 2010). We use a Bayesian approach implemented in the R package MasterBayes (Hadfield et al. 2006), that simultaneously estimates the parentage of the sample of individuals and some population level parameters (vector b) that we are interested in, augmenting the parameter space with the pedigree P.
+Z
+p
+where G is the genetic and y the nongenetic data.
+The conditional distribution assumes that the genetic and nongenetic data are independent after conditioning on the pedigree. The genetic likelihood, P(G|P), is calculated based on the Mendelian transition probabilities, whereas the nongenetic data likelihood, P(y|P,b), is obtained by fitting a generalized multinomial log-linear model (Smouse et al. 1999) (see Appendix S1 for
+details).
+The data set was quite informative, and the pedigree
+configuration was very similar no matter the priors used, and we therefore used the default uniform priors. The Markov chains converged quite easily; runs were performed with 130 000 iterations, burn in interval of 30 000 iterations, and a thinning interval of 100. All MasterBayes computations were performed on the freely available computational resource Bioportal at the University of Oslo (http://www.bioportal.uio.no). Because of a number of only-one-parent assignments, we used COLONY to partition the assigned half-sib
+pðb; P j G,YÞdP
+Ó 2010 Blackwell Publishing Ltd
+
+families into full-sib families and thus estimate the number of partners.
+To assess the accuracy of the method, we used the R software to simulate 100 data sets consisting of 50 males and 50 females that were mated following the pattern in our population (the same population level parameter estimates) to produce 300 offspring. To mimic unsampled parents, ten males and females (20%) were removed from the data set, and the population level parameters were estimated with different error rate values.
+Analyses of sexual selection
+Measures of sexual selection based on Bateman’s principles (Bateman 1948; Arnold & Duvall 1994) were used to characterize the mating system. The opportunity of selection (I) was estimated as the variance in relative reproductive success, whereas the opportunity for sexual selection (Is) was estimated as the variance of relative mating success. The standardized selection differential (s) is the covariance between standardized trait values and relative reproductive success, whereas the standardized mating differential (m) is the covariance between standardized trait values and relative mating success. The Bateman gradients (bss) (the sexual selection gradients) were determined by simple linear regression of reproductive success on mating success. We define an upper limit on the intensity of selection in natural populations as the maximum standardized sexual selection differential, smax = bssÖIs.
+Results
+Characteristics of the loci
+All loci of the potential parent sample were moderately to highly polymorphic, with the number of alleles per locus ranging from three to 20 (mean = 11.3), and observed heterozygosity ranging from 0.49 to 0.91 (mean = 0.76 ± 0.11). This led to very high combined exclusion probability for the whole set of loci (Table S1, Supporting information). All loci in the parental input files for each season were in Hardy–Weinberg equilibrium, and there were no signs that any of them were influenced by selection (see Appendix S1, Supporting information).
+Characteristics of the spawning fish
+A total of 451 (195 males and 256 females) mature individuals were observed and sampled during the three (2002, 2003, 2004) spawning seasons. In all three seasons, the males tended to be larger than females (males: mean = 164.9 ± 23.4 mm (range: 116–306 mm), fema-
+les = 150.6 ± 16.6 mm (range: 120–220 mm); t417 = 8.0, P < 0.0001). Also, the variance in body length was higher for males than for females (F1,238 = 1.97, P < 0.0001). Mature males were also slightly older than females (males: mean = 4.3 years (range 2–6)), females: mean = 4.0 years (range 2–7), t459 = 3.9, P = 0.0001).
+Both males and females were observed to be sexually mature in more than one spawning season (male: 31%, female: 34%), and a few were even observed as sexually mature in up to five consecutive seasons. Suitable spawning sites are patchily distributed within the stream, and spawning fish tended to cluster at three main areas (see Fig. S1, Supporting information). We divided the stream into three parts each centred on the areas of high spawner density and tested for among-section genetic differentiation. The spawning fish in these three sections were genetically differentiated (log-likelihood G statistics, P = 0.0002), which could reflect the nonrandom distribution of some related individuals.
+The offspring families
+The offspring trout, belonging to cohorts hatched in 2003, 2004 and 2005, were sampled at the age 0 + (21.1%), 1 + (66.1%) and 2 + (12.7%) during the following spring and autumn sampling events. In total, we sampled 1856 individuals belonging to these cohorts (Table 1). The offspring cohorts were partitioned into fulland half-sib families using the software COLONY v2.0. The variance in half-sib family sizes was higher for males than females (F1,289 = 2.7, P < 0.0001) and the number of offspring per family varied between seasons (pairwise comparisons using t-tests: adj. P < 0.002). The families had a clumped distribution within the stream [generalized linear model (GLM) specified with Poisson error distribution: b = )0.003 ± 0.0002, P < 0.0001] (Fig. S2, Supporting information).
+Inferences from the parentage assignment analysis
+Both parameters of the multinomial log-linear relationships, the rate at which the probability of paternity or
+Table 1 Number of offspring from three cohorts of brown trout from the Bellbekken, sorted into halfand full-sib families
+MATING PATTERNS AND REPRODUCTIVE SUCCESS IN TROUT 3197
+  Number of offspring Number of paternal families Number of maternal families Number of full-sib families
+2003 2004 2005 cohort cohort cohort
+834 707 315 91 59 73 118 64 108 221 272 196
+ Ó 2010 Blackwell Publishing Ltd
+
+ 3198 D. SERBEZOV ET AL.
+Table 2 Estimates from the full probability model relating the genetic probability of parentage with phenotypic data for brown trout. Shown are the parameters of the modelled log-linear relationships: the rate at which the probability of paternity or maternity
+changes with body length and the distance of
+Length males
+Length females
+Distance males offspring Distance females offspring
+male and female spawners to offspring. (see Appendix S1 for details)
+maternity changes with body length and the distance of male and female spawners to offspring, showed consistent patterns between seasons (Table 2). These trends were consequently apparent when the pooled data from all seasons were analysed. Potential spawners sampled in close proximity to the assigned offspring were more likely to be the real parents of that offspring (GLM, normal distribution: b = 0.41 ± 0.04, P < 0.0001), and the strength of this effect did not differ between the sexes (interaction term in the GLM model: P = 0.30). Potential spawners spatially close were more likely to have mated with each other (GLM, normal distribution: b = 0.31 ± 0.07, P < 0.0001) (Fig. 1a). Larger spawners had a higher probability of producing offspring (GLM, quasi-Poisson distribution: b = 0.02 ± 0.005, P < 0.0001) (Fig. 2), and this correlation did not significantly differ between the sexes (interaction term in the GLM: P = 0.71). This led to a pattern of assortative mating with respect to size (GLM, normal distribution: b = 0.16 ± 0.04, P < 0.0001) (Fig. 1b). Furthermore, sim-
+ulation results indicated that our method estimates can properly account for the effect of adult length and number of unsampled parents on reproductive success estimates (Fig. S3, Supporting information).
+There was a high reproductive skew in both sexes (see range of assigned offspring in Table 3). The variance in the number of offspring in males was consistently much higher than in females across the three seasons (F1,130 = 6.4, P < 0.00001). One large male sampled in 2003, for example, was assigned 65 offspring, which comprises 9.2% of the offspring sampled from that cohort. Also, males were consistently assigned more offspring than females for all the three seasons studied (t155 = 3.3, P = 0.001, Table 3; all seasons mean ± SD: 7.1 ± 11.5 vs. 3.8 ± 4.5 for males and females, respectively).
+Both males and females mated with multiple partners, and all four mating types were inferred: monogamy, polygyny, polyandry and polygynandry. Males had significantly larger number of mates (2.4 ± 2.4 for
+Fig. 1 Geographical position a) and fork length b) of the male and female brown trout spawners that had formed pairs. Plotted are the pooled data from the three seasons studied. The size of the discs in a) is proportional to the number of pairs for each distance combination. The dotted lines in both figures denote 95% confidence envelopes from the fitted linear model.
+(a)
+(b)
+0 500
+Male position (m)
+1500
+150
+Male length (mm)
+1000
+2002 season Mean ± SE b
+0.046 ± 0.002
+0.031 ± 0.002 )0.0017 ± 0.00018 )0.0021 ± 0.0002
+2003 season Mean ± SE b
+0.031 ± 0.002
+0.015 ± 0.003 )0.0004 ± 0.0002 )0.0018 ± 0.0002
+2004 season Mean ± SE b
+0.021 ± 0.001
+0.025 ± 0.004 )0.0161 ± 0.0003 )0.0045 ± 0.0003
+Female position (m)
+0 500 1000 1500
+Female length (m)
+100 150 200 250
+200 250
+Ó 2010 Blackwell Publishing Ltd
+
+MATING PATTERNS AND REPRODUCTIVE SUCCESS IN TROUT 3199
+Fig. 2 Number of offspring vs the length of male and female brown trout spawners in Bellbekken. Plotted is the pooled data from all seasons, including spawners that have reproduced more than once. The box plots are length classes of 10 mm, the boxes are drawn between the quartiles, and the black lines represent the median. The width of the boxes is proportional to the number of individuals in each length class.
+   110–120 130–140 150–160 170–180 190–200 >210
+Length class (mm)
+120–130 140–150 160–170 180–190 200–210 220–230
+Males
+                                                                                                                             Females
+                                                                                 Table 3 Summary of results from the parentage assignment for three spawning seasons for brown trout in the Bellbekken. Number of potential parents, number of assigned parents, number of offspring assigned a parent, and mates per assigned parent are given
+      Number of potential parents (of these observed) Assigned parents (of these observed)
+Number and proportion of assigned offspring
+(proportion assigned)
+Mean number (range) of offspring per assigned
+parent
+Mean number (range) of mates
+2002 season
+Sires
+156 (82) 43 (24)
+426 (51.1%) 9.9 (1–63) 2.4 (1–13)
+Dams
+202 (115) 53 (47)
+287 (34.4%) 5.4 (1–28) 1.6 (1–7)
+2003 season
+Sires
+207 (61) 54 (32)
+371 (52.5%) 7.1 (1–65) 2.2 (1–10)
+Dams
+258 (74) 84 (46)
+312 (44.1%) 3.8 (1–21) 1.3 (1–4)
+2004 season
+Sires
+256 (85) 37 (16)
+141 (44.8%) 3.8 (1–20) 2.7 (1–11)
+Dams
+312 (105) 58 (41)
+126 (40.0%) 2.2 (1–8) 1.9 (1–6)
+ males and 1.5 ± 1.0 for females, t162 = 4.0, P < 0.0001) and an much higher variance in the number of partners (F1,131 = 6.3, P < 0.0001) (Table 3, Fig. 3).
+Bateman’s principles and sexual selection
+Given that sexual selection appears to be stronger in males than females, we calculated the measures of sexual selection based on Bateman’s principles (Table 4). The standardized variance in reproductive success for males is 1.7–1.9 times larger than that of the females, whereas the male’s standardized variance in mating success was 1.3–3.2 times that of the females. Correspondingly, the Bateman gradient was higher for males, implying that the intensity of sexual selection acting on males is 1.2–1.3 times that acting on females (Fig. 4). The maximum standardized sexual selection differential (an upper limit on the intensity of selection) was 1.9–2.5 times the standardized selection in males and 2.2–3.2 in females. The ability to estimate the number of mating partners is however strongly dependent on the number
+of offspring produced by each spawner. Therefore, we repeated the analysis after removing spawners assigned only one or two offspring. The Bateman gradients remained the same for males, and although they were reduced for females, they remained significant (apart from season 2003, P = 0.056 when only female spawners assigned more than two offspring were analysed).
+Discussion
+The major objective of this study was to characterize the breeding system and to provide estimates of individual reproductive success under natural conditions for a stream-resident brown trout population. Parentage was inferred using a full probability Bayesian model that combines genetic with phenotypic data. We observed polygamous as well as monogamous matings and a large reproductive skew for both sexes that was especially pronounced in males. Furthermore, large body size and spatial proximity increased parentage probabilities for both male and female spawners.
+Ó 2010 Blackwell Publishing Ltd
+Number of offspring
+0 10 20 30 40 50 60 70
+0 10 20 30 40 50 60 70
+
+3200 D. SERBEZOV ET AL.
+Males Females Fig. 3 Frequency of assigned partners for male and female brown trout in
+   Season 2002
+         Season 2003
+                  Season 2004
+       Bellbekken in the three seasons studied.
+                       1 3 5 7 9 11 13 15 1 3 5 7 9 11 13 15 Number of partners
+Table 4 Quantitative measures of the genetic mating system of brown trout in Bellbekken based on Bateman’s principles. The opportunity of selection (I), the opportunity for sexual selection (Is), the standardized selection differential (s), the standardized mating differential (m), the Bateman gradient (bss), and smax is the maximum standardized sexual selection differential are shown. These variables were calculated after the manner described in Materials and methods
+led to additional assignments and did not significantly change the parentage of offspring that had already been assigned parents. The inclusion of generated parental genotypes for the 2002 spawning season had similar effect, and the number of assigned fathers rose 2.7 times. The genotype data seemed highly informative and there were only 8.5% more male and 6.3% more female assignments when the assignment confidence level was lowered from 90% to 80%. The inclusion of phenotypic data had an impact on the parentage likelihoods and 7–11% of the assignments changed compared to a model based only on the genetic data.
+Male mating pattern
+Male mating and reproductive success was highly variable. In the 2002 season, 8.3% of the males were assigned fatherhood to 84.5% of the offspring, and in the 2003 season one single male was assigned 23.7% of the offspring. As we have exhaustively sampled offspring, the estimates of reproductive success and family size variation should be quite representative, even though some families might have been sampled only partially.
+Male spawners that were assigned many offspring were usually larger than the average spawners. For instance, the one conspicuously successful male in the 2003 season was 220 mm long (the average length for male spawners is 163.8 ± 1.6 mm). Male size in salmonids has been proposed to be positively related to access to (higher quality) females (Fleming & Reynolds 2004; Foote 1989; Foote & Larkin 1988), ejaculation volumes (Kazakov 1981), and to the number of surviving embryos (Mjølnerød et al. 1998). Still, length was only a limited predictor of reproductive success in Bellbekken
+ I Is s
+6.64 4.05 0.99 3.98 2.19 0.64
+4.05 1.79 0.83 2.12 0.56 0.26
+5.46 3.83 1.10 3.27 3.01 0.59
+m bss
+0.82 1.23 2.47
+0.55 0.97 1.43
+0.61 1.21 1.61 0.15 1.12 0.84
+0.95 1.16 2.26 0.62 1.03 1.78
+smax
+ 2002 season Males
+Females 2003 season
+Males
+Females 2004 season
+Males Females
+ Parentage studies in wild populations are usually performed by only partially sampling either the parental set or the offspring cohorts. In this study, however, we attempted to exhaustively sample all individuals from a population, including large sib-ship families from an offspring cohort. This allowed us to make inferences about the parental genotypes that had produced these families.
+Efficiency of the assignment method
+Parental inference methods are sensitive to the sampled proportion and the identity of the potential parents (Nielsen et al. 2001). In our study, the inclusion of individuals sampled at other seasons as potential parents
+Ó 2010 Blackwell Publishing Ltd
+Frequency
+0.1 0.2 0.3 0.4 0.5 0.1 0.2 0.3 0.4 0.5 0.1 0.2 0.3 0.4 0.5 0.6
+
+and the relationship was very noisy (see also; Dickerson et al. 2005; Garant et al. 2001). A weak correlation between size and reproductive success could arise if many subordinate males achieve success. If a female deposit her eggs in multiple redds, especially if they are in different parts of the stream, it would be difficult for a single male to monopolize the fertilization of her eggs. Variation in status of males of a given length, as is the case in Oncorhyncus sp. (Quinn & Foote 1994), would also result in weak correlation between body length and reproductive success. There was a significant albeit noisy relationship between the number of mates and reproductive success in males. This has also been found in other studies (Garant et al. 2001) and is in accordance with the theory of sexual selection (Andersson 1994).
+Female mating pattern
+Female reproductive success was also skewed, albeit less so than in males, and we established a positive relationship between female body size and female reproductive success. Large females can produce larger egg clutches, which is also the case in our system (Olsen & Vøllestad 2003). Females compete for nesting sites (e.g. Elliott 1994; Fleming & Gross 1993) and large females are presumably better able to access and defend high-quality breeding sites and dig deeper nests that are less prone to destruction (Crisp & Carling 1989). This relationship was however even noisier and weaker
+than that in males, and size seems to explain a much smaller proportion of the reproductive variance compared to other salmonid studies (Fleming & Gross 1994; Fleming et al. 1997).
+One female is often courted by several competing males, but as males form dominance hierarchies that single out high-quality males (Morbey 2000), one male may fertilize the majority of the eggs (Largiader et al. 2001). Conversely, the inability of the dominant male to monopolize access to a female would result in polyandry. The brown trout biology thus allows for polyandry to occur; it could be the outcome of the male competition over which females have limited control, but it also could be a result of female strategy. Polyandry could also simply be a result from a female’s limited ability to assess the quality of their partners (Yasui 1998).
+We found evidence for a significant, albeit rather noisy, pattern of size-assortative mating. Size-assortative mating has proven difficult to observe in wild populations as it can be confounded by many other factors such as female ripeness, changing environmental conditions or strong preferences for traits that are not measured such as potential genetic benefits (Dickerson et al. 2004; McLean et al. 2004). Evidence for size-assortative mating was apparent despite the promiscuity in the system which would always decrease the intensity of sexual selection because it increases the total number of individuals contributing to the next generation (e.g. Shuster 2009). Here, we show that size is an important factor shaping the mating system in this resident brown
+Ó 2010 Blackwell Publishing Ltd
+MATING PATTERNS AND REPRODUCTIVE SUCCESS IN TROUT 3201
+  2002 season
+2003 season
+2004 season
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 Number of partners
+Fig. 4 Bateman gradients for male (solid lines) and female (dashed lines) brown trout spawners in Bellbekken for the three seasons investigated.
+  Number of offspring
+0 20 40 60 0 20 40 60 0 20 40 60
+
+3202 D. SERBEZOV ET AL.
+trout population. Interestingly, this is in contrast to the findings of a study on juveniles in the same system (Carlson et al. 2008). In that study, it was found that selection on body size, in addition to being typically weak, varied widely for all ages across years as well as seasons.
+Overall, our results comply well with the ‘‘Bateman’s principles’’ stating that the sex experiencing the strongest sexual selection has the higher standardized variance in mating and reproductive success (Bateman 1948; Wade 1979). Specifically, males (in comparison with females) exhibited greater standardized variances in mating and reproductive success, as well as stronger relationship between mating and reproductive success. The males were also experiencing stronger sexual selection on body size accounting for greater portion of the variation of this trait in males, meaning that a larger variation among females, compared to males, with respect to reproductive success must be attributed to selection on other traits or stochastic factors. We document, however, sexual selection on body size also in females, and our results imply the presence of benefits also for females to mate multiply (Clutton-Brock 2007). A number of recent molecular studies in different organism have shown that as females increase the number of mates, they also increase their reproductive success (c.f. Williams & DeWoody 2009). Even in cases when the acquisition of ‘‘good genes’’ plays a major role in female mate choice, females may benefit indirectly by increasing the chance of mating with compatible or high-quality males, or by producing genetically diverse offspring (Neff & Pitcher 2005). The latter is predicted to be a favourable strategy in stochastic environments (Cohen 1966).
+The role of stochasticity
+Our analyses revealed several consistent trends in the reproductive biology of the stream-resident brown trout population studied here, but all trends were consistently surrounded by much noise and estimates had considerable variation. This suggests that the system might to a large extent be governed by stochastic environmental processes. Stochasticity might increase both nongenetic (reviewed in Roff 2002) and genetic phenotypic diversity (Levins 1964, 1965) in a population. Probably both the polygamous mating system and the high variance in the reproductive success (Li & Hedgecock 1998) are at least partially the results of stochasticity. For instance, Hofmann et al. (1999) found that more individuals gain access to a reproductive opportunity under fluctuating environmental conditions. In addition to a possible multiple-mating strategy, female Atlantic salmon (Salmo salar) have the potential to
+adopt different egg-deposition strategies depending on temporal and spatial variation in offspring survival (Barlaup et al. 1994). In situations of environmental uncertainty (such as those created by low river discharge), or in cases where optimal spawning territories are not available, this would reduce their fitness variance. Low river discharge during winter has previously been shown to cause high mortality of Atlantic salmon eggs (Gibson & Myers 1988). This might also be the case in Bellbekken, where stochastic destruction of substrate might favour the females to disperse their eggs in numerous smaller clutches rather than using a single nest site.
+Conclusion
+To our knowledge, we have presented the first parentage analysis study that attempts to exhaustively sample both potential parents and offspring individuals in a resident salmonid population. We combined genetic and phenotypic data and integrate over the uncertainty in pedigree configurations using a Bayesian full probability model. This allowed us to improve our inference of the role of ecological determinants such as body size and spatial proximity on the likelihoods of parentage in a wild population. We found evidence that larger body size increases mating success and reproductive success for both male and female spawners. The mating system of brown trout, however, seems to be very flexible and environmental uncertainty might be driving the evolution and perhaps select for the maintenance of plasticity of mating system in this species.
+Acknowledgements
+The Norwegian Research Council supported this work. We thank a large number of graduate students for participation during fieldwork. The large amount of laboratory work would have been impossible without the help of Lucie Papillon, Vicky Albert and Annette Taugbøl. We are grateful to Jarrod Hadfield for help with the MasterBayes package, and two anonymous referees for insightful comments on the manuscript.
+References
+Ó 2010 Blackwell Publishing Ltd
+
+pled as 1+ in the spring from all the three seasons studied. The y-axis denotes the proportion of individuals in each category.
+Fig. S3 Results of simulations performed to assess the accuracy of the full probability assignment model used in this study. Data were generated with 50 males and 50 females; 10 of which were designated as unsampled. The population level parameters (b) for the effect of male and female size are also shown. The real underlying values are denoted by the black vertical lines.
+Table S1 Number of alleles and expected (He) and observed (Ho) microsatellite heterozygosity for the potential parental brown trout in the Bellbekken during the 2002–2004 spawning seasons. Also given are the expected exclusion probabilities of the first and second parent: the probability of excluding a ran-
+domly chosen nonparent and the probability of excluding a randomly chosen nonparent after the first parent has been assigned. These estimates are based on all potential parents of both sexes pooled across the three breeding seasons studied, as there was no difference between seasons or sex.
+Appendix S1 Includes a section discussing the selective neutrality of the microsatellite markers and a section on the details on the full probability Bayesian model of parentage assignment.
+Please note: Wiley-Blackwell are not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+Ó 2010 Blackwell Publishing Ltd
+MATING PATTERNS AND REPRODUCTIVE SUCCESS IN TROUT 3205

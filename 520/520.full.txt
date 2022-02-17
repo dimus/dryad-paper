@@ -1,0 +1,289 @@
+   Molecular Ecology (2011) 20, 1026–1038 doi: 10.1111/j.1365-294X.2010.04633.x
+AFLP genome scan in the black rat (Rattus rattus) from Madagascar: detecting genetic markers undergoing plague-mediated selection
+C. TOLLENAERE,* J.-M. DUPLANTIER,* L. RAHALISON,† M. RANJALAHY† and C. BROUAT*
+*IRD UMR CBGP (INRA ⁄ IRD ⁄ Cirad ⁄ Montpellier SupAgro), Campus International de Baillarguet, CS 30016, 34988 Montferrier-sur-Lez, Cedex, France, †Institut Pasteur de Madagascar (IPM), Unite ́ Peste, BP1274, Ambatofotsikely, 101 Antananarivo, Madagascar
+Abstract
+The black rat (Rattus rattus) is the main reservoir of plague (Yersinia pestis infection) in Madagascar’s rural zones. Black rats are highly resistant to plague within the plague focus (central highland), whereas they are susceptible where the disease is absent (low altitude zone). To better understand plague wildlife circulation and host evolution in response to a highly virulent pathogen, we attempted to determine genetic markers associated with plague resistance in this species. To this purpose, we combined a population genomics approach and an association study, both performed on 249 AFLP markers, in Malagasy R. rattus. Simulated distributions of genetic differentiation were compared to observed data in four independent pairs, each consisting of one population from the plague focus and one from the plague-free zone. We found 22 loci (9% of 249) with higher differentiation in at least two independent population pairs or with combining P-values over the four pairs significant. Among the 22 outlier loci, 16 presented significant association with plague zone (plague focus vs. plague-free zone). Population genetic structure inferred from outlier loci was structured by plague zone, whereas the neutral loci dataset revealed structure by geography (eastern vs. western populations). A phenotype association study revealed that two of the 22 loci were significantly associated with differentiation between dying and surviving rats following experimental plague challenge. The 22 outlier loci identified in this study may undergo plague selective pressure either directly or more probably indirectly due to hitchhiking with selected loci.
+Keywords: adaptation genetics, association study, disease resistance, pathogen-mediated selection, population genomics, Yersinia pestis
+Received 30 September 2009; revision received 1 March 2010; revision accepted 7 March 2010
+Introduction
+Population genomics (Black et al. 2001; Luikart et al. 2003) offers the opportunity to address the question of adaptation genetics by separating locus-specific effects from genome-wide demographic effects (Cavalli-Sforza 1966). Loci under natural selection are expected to present higher genetic differentiation than neutral loci between populations suffering different selective envi-
+Correspondence: Carine Brouat, Fax: +33 (0) 4 99 62 33 45; E-mail: brouat@mpl.ird.fr
+ronments (Beaumont 2005). Population genome scans were recently performed in various wild species (see Nosil et al. 2009 for a review) to detect genetic markers associated with selective pressure (Bonin et al. 2006; Williams & Oleksiak 2008), with phenotypic differences (Herrera & Bazaga 2008), or with both adaptive phenotypic change and selective pressure (for example, ecotypes of Coregonus varying in depth habitat, Campbell & Bernatchez 2004). In some cases, the validity of the population genomics approach was confirmed by the co-location of identified loci with quantitative trait loci (QTL) (Campbell & Bernatchez 2004; Via & West 2008)
+Ó 2010 Blackwell Publishing Ltd
+
+or by individual-based phenotype association studies (Storz 2005). Amplified Fragment Length Polymorphism (AFLP) markers (Vos et al. 1995) are generally used for such genomic studies of non-model species because of the possibility they offer for developing a large number of loci without any knowledge of the species genome and with limited cost (Meudt & Clarke 2007).
+To our knowledge, AFLP genome scans have not been applied to detect genetic markers associated with pathogen resistance in host populations. Parasites can exert strong selective pressure on their hosts, resulting in extremely rapid evolutionary changes (Altizer et al. 2003). Consequently, genes involved in immune defence have been shown to be strongly affected by natural selection (Nielsen et al. 2005; Piertney & Oliver 2006; Lazzaro 2008). Investigating the genetic basis of host resistance ⁄ susceptibility has inherent interest for our understanding of the role of parasites in host evolution as well as important health applications in the context of emerging and re-emerging diseases. Host resistance to infectious diseases is usually considered a highly polygenic trait (Sorci et al. 1997; Hill 2001). However, QTL studies of disease resistance in animals have usually identified only a few loci (Wilfert & Schmid-Hempel 2008). Although most of the studies dealing with host-pathogen interaction genetics in natural vertebrate populations focused on the major histocompatibility complex (MHC), it is now recognized that variation in the MHC region does not sufficiently explain wildlife immunogenetics (Acevedo-Whitehouse & Cunningham 2006). In the context of pathogen resistance, AFLP genome scans thus seem a relevant approach to identification of genomic regions potentially undergoing natural selection at the genome scale, with no need of a priori knowledge about host defence mechanisms or the genes involved.
+Plague (Yersinia pestis infection) is among the most virulent of known pathogens for humans and susceptible rodents (Stenseth et al. 2008); its epidemics may consequently exert very strong selective pressure on its hosts (see for example Thomas et al. 1988; Hanson et al. 2007). The disease was introduced into Madagascar in 1898. Areas of the central highlands of this country with altitudes higher than 800 meters have represented a plague focus since the 1920s, with hundreds of human cases reported each year and circulation within rodent populations, whereas the low-altitude zone of Madagascar presents no evidence of plague circulation in rural areas (Brygoo 1966; Migliani et al. 2006). The main reservoir of the disease in Madagascar is the black rat, Rattus rattus (Brygoo 1966; Duplantier et al. 2003), a species usually considered to be highly susceptible to plague (Dennis et al. 1999). However, Rahalison et al. (2003) and Tollenaere et al. (pers. obs.) showed that R. rattus
+populations from the plague focus (central highlands) are much more resistant (1000-fold difference in the LD50) than black rat populations from plague-free zones (no Y. pestis circulation). This resistance is transmitted to laboratory-born descendants (Rahalison et al. 2003), revealing its genetic basis. Plague resistance variability in R. rattus populations could potentially have high impact on plague wildlife circulation, as the proportion of individuals susceptible ⁄ resistant to plague in a population determines the role the population can play in transmission ⁄ maintenance of the disease (Gage & Kosoy 2005). Besides being of theoretical interest with respect to the question of how parasites shape genetic variation of their hosts, identification of genetic markers associated with plague resistance in R. rattus would thus also be a step towards a better understanding of plague circulation in wild rat populations of the Malagasy focus.
+Although a plague resistance locus was identified within the MHC region in laboratory mice strains (Turner et al. 2008), it does not necessarily follow that the same locus would be implicated in other contexts because genetic determinism may differ even between different host lines (Wilfert & Schmid-Hempel 2008). Moreover, detailed mechanisms of plague resistance remain poorly understood (Turner et al. 2008) and have never been studied in Malagasy R. rattus, making hazardous the definition of candidate genes (but see Tollenaere et al. 2008; on CCR5 candidate gene). On the other hand, this context appears highly relevant for a population genomics approach (Storz & Hoekstra 2007; Ellegren & Sheldon 2008) as (i) the selective pressure (plague disease) is identified and probably strong (high mortality rate in rodent populations); (ii) adaptive phenotypic change (plague resistance) is characterized; (iii) the studied species diverged recently from the model species R. norvegicus (about 2.9 Myr, Robins et al. 2008) and as such a good genomic resource is available to identify AFLP markers (sequences of interesting AFLP fragments can be localized by blasting on the R. norvegicus genome).
+The goal of this study was to identify markers potentially associated with plague resistance in Malagasy R. rattus populations using an AFLP genome scan. To this end, we sampled independent natural populations that inhabit environments with contrasting or similar selective pressures (see also Williams & Oleksiak 2008): four independent pairs of populations, each consisting of one population located in the plague focus (central highlands of Madagascar) and one population located in the plague-free zone (low altitude zone of the island) were analyzed. We also investigated associations between AFLP markers and phenotypic variation within the plague focus: the genetics of individuals that
+Ó 2010 Blackwell Publishing Ltd
+POPULATION GENOMICS OF A PLAGUE RESERVOIR RAT 1027
+
+1028 C. TOLLENAERE ET AL.
+survived or died following experimental plague chal-
+lenge was compared.
+Materials and methods
+Sampling
+Black rats were sampled between April 2006 and January 2009 in eight sites on Madagascar (Fig. 1): four in the central highlands (plague focus, Ambohitseheno, AIT, 1415 m, Antahobe, ANT, 1200 m, Inanantonana,
+INA, 1268 m and Morarano-Gare, MOR, 906 m) and four in the low altitude zone (plague-free zone, Ankotrofotsy, ANK, 85 m, Brickaville, BRI, 12 m, Miandrivazo, MIA, 72 m, and Tsarasambo, TSO, 15 m). This resulted in four independent pairs populations, each consisting of one population from the plague focus and one population from the plague-free zone (Fig. 1), with two pairs in the east of the island: E1 (AIT-TSO, 138.1 km distant from each other) and E2 (BRI-MOR, 85.0 km apart), and two pairs in the west: W1 (ANKANT, 122.8 km apart) and W2 (INA-MIA, 123.6 km apart). The geographic distribution of population pairs across the east and west sides of Madagascar was chosen to disentangle the correlated effects of plague presence⁄absence and other potential selective factors (see details in the Discussion), as low altitude east and west Malagasy zones present different environmental conditions (Jury 2003).
+At least 25 rats were trapped in each site using wiremeshed and Sherman traps set in houses and outdoors. Caught animals were euthanized by cervical dislocation or bred for other experiments. Tissues (ear, tail or finger) were kept in 95° ethanol for genetic analyses.
+Laboratory procedures
+Total DNA was extracted using the DNeasyÒ Tissue Kit (Qiagen, Hilden, Germany), following the manufacturer’s instructions for rodent tails and animal tissues. DNA was eluted in 100 lL of elution buffer. DNA concentration was estimated by a fluorimetric quantification of dsDNA using the Picogreen Kit (Molecular Probes, Invitrogen, UK). Restriction enzymes EcoRI and TaqI were used following the protocol described in Ajmone-Marsan et al. (1997). Briefly, 350 ng of DNA was first incubated with five units TaqI (Promega, Madison, USA) for 2 h at 65 °C. The product was then incubated with five units EcoRI (Promega) for 1 h at 37 °C. Finally, the solution was incubated for 3 h at 37 °C with one unit DNA ligase (Promega) and adapters for TaqI (5¢-CGGTCAGGACTCAT-3¢ and 5¢-GACGATGAGTCC TGAC-3¢, 50 pmol) and EcoRI (5¢-CTCGTAGACTGCGT ACC-3¢ and 5¢-AATTGGTACGCAGTCTAC-3¢, 5 pmol) restriction sites. All reactions were performed in the recommended enzyme buffers with bovine serum albumin (BSA) according to the manufacturer’s instructions. DNA was diluted 1:10 in water after digestion and ligation. Pre-selective PCR was performed using primers E-A (5¢-GACTGCGTACCAATTCA-3¢) and T-A (5¢-GATGAGTCCTGACCGAA-3¢). Amplified DNA was diluted 1:20 before performing selective PCR using 10 different primer pairs (Table 1). Amplified fragments were detected using an automated Prism 3130XL sequencer (Applied Biosystems).
+ MIA
+(30)
+ANK
+(32)
+INA
+(33)
+TSO
+(30)
+ANT
+(30)
+Fig. 1 Sampling map indicating the location of the eight R. rattus populations analyzed. Populations from the same pair are indicated with the same symbol: black triangle (E1), black circle (E2), white circle (W1) and white triangle (W2). The sample size is shown in brackets for each population. The central highlands, where the altitude is higher than 800 meters, is coloured in grey. This zone corresponds to the plague focus (Brygoo 1966; Duplantier et al. 2005).
+AIT MOR BRI
+(31) (26) (27)
+Ó 2010 Blackwell Publishing Ltd
+
+Table 1 Combinations of primers used for selective amplification in the AFLP procedure. Each primer EcoRI begins with 5¢GACTGCGTACCAATTC-3¢ and each primer TaqI with 5¢-GATGAGTCCTGACCGA-3¢, followed by the three selective bases indicated in this table
+Primer Primer Number
+program DetSelD (available upon request to the author: vitalis@supagro.inra.fr), a new version of the DetSel software (Vitalis et al. 2001, 2003) for analysing dominant markers such as AFLP (Midamegbe et al. submitted). DetSelD performs coalescent simulations using a pure divergence model in which an ancestral population suffers a bottleneck and then splits into two isolated populations. The null distribution was obtained using 20 combinations of nuisance parameters values: we allowed variations in the ancestral population size (Ne = 103, 104, 105 and 106 individuals) and divergence time (t = 50, 100, 500, 1000 and 5000 generations); the bottleneck duration was set to one generation and the population size after bottleneck was 1 ⁄ 10 of the ancestral population size. For each pairwise comparison and each nuisance parameter set, 100 000 simulations were performed. Second, we used the DFdist program (available at http: ⁄ ⁄ www.rubic.rdg.ac.uk ⁄ 􏰁mab ⁄ stuff ⁄ ), an extension for dominant markers of the original Fdist program (Beaumont & Nichols 1996). DFdist first estimates genetic differentiation (FST) for each locus using Zhivotovsky’s (1999) Bayesian method to estimate allelic frequencies. This empirical distribution allows the estimation of the global estimation of ‘neutral’ population differentiation as the trimmed (30% highest and lowest FST values removed) mean FST (recommended by Beaumont & Balding 2004). This global FST is then used to perform 50 000 simulations following an island model (2 demes). Both programs (DetSelD and DFdist) were used with a threshold of 5%.
+Classification and analyses of outliers
+P-values obtained for the four independent comparisons were combined following Fisher’s method (Fisher 1948). [Some DFdist P-values were equal to zero and we conservatively changed them to 0.0001 to minimize their effects on Fisher’s P-values]. We considered as outlier loci those that, for at least one detection program (DFdist or DetselD approach), either (i) were detected as outliers in at least two independent comparisons at the threshold 5%, i.e. ‘repeated outliers’ or (ii) had Fisher’s combined P-values lower than 1%, i.e. ‘combined outliers’. Indeed, the repetition of outlier detection in various comparison is widely used (Storz 2005; see for example Bonin et al. 2006), as replicated divergence across population pairs is unlikely to arise via nonselective factors such as type I error, genetic drift, or mutation rate variation (Nosil et al. 2009). Whereas various studies considered outliers repeated in non-independent comparisons (for example Nosil et al. 2008), we only considered repetition in independent comparison. Moreover, combining P-values is another method recently used (Meyer et al. 2009); this method can
+1 A
+2 B
+3 C
+4 D
+5 J
+6 N
+7 Q
+8 U
+9 W
+10 Y
+AFLP scoring
+E-AAG T-AAG 43 E-AAG T-AGA 23 E-AAG T-ATC 21 E-AAG T-ATG 27 E-ACT T-AAG 35 E-ACT T-AGT 26
+E-ATA T-AAG
+E-ATA T-ATG
+E-AAG T-AGT 22 E-ATA T-AGT 9
+POPULATION GENOMICS OF A PLAGUE RESERVOIR RAT 1029
+ Combination EcoRI TaqI
+of markers
+ 21 22
+ Electrophoresis reading was performed using GeneMapper 3.7 software (Applied Biosystems). The choice and scoring of markers is a critical part of the AFLP procedure (Bonin et al. 2005). As genotyping errors are more frequent for small fragments (Meyer et al. 2009), peaks were scored between 60 and 520 bp. We then chose loci using two criteria: polymorphism (band presence or band absence in at least two individuals) and clarity of reading (clear threshold between presence⁄absence and no peak superposition). To ensure quality of the data (Pompanon et al. 2005), 16 individuals (6.7% of total individuals) were genotyped twice from the same sample following the extraction step. The error rate was estimated to be 0.63% (25 errors out of 3984 comparisons).
+Outlier detection simulations
+For each pair of populations analyzed, we estimated genetic differentiation (FST) using AFLP-surv 1.0 software (Vekemans 2002). Exact tests for differentiation between population pairs were performed on marker frequencies using TFPGA v. 1.3 software (Mark Miller 1997, available at http: ⁄ ⁄ www.marksgeneticsoftware.net ⁄ ).
+We used two programs allowing the detection of loci that showed high differentiation compared to the whole dataset (Beaumont 2005). Each approach was applied to the four independent comparisons of ‘plague-focus’ and ‘plague-free’ populations: E1 (AIT ⁄ TSO), W1 (ANK ⁄ ANT), E2 (BRI ⁄ MOR) and W2 (INA ⁄ MIA). This sampling design, comparing independent population pairs, was originally recommended by Tsakas & Krimbas (1976) (see also Vitalis et al. 2001). We first used the
+Ó 2010 Blackwell Publishing Ltd
+
+1030 C. TOLLENAERE ET AL.
+detect some loci presenting P-values close to the threshold in various comparisons which appear to be good candidates but would not be detected by the other method.
+For each outlier locus, we tested for association between the presence ⁄ absence of the peak and plague zone (plague focus vs. plague-free zone). To this end, we performed Fisher’s exact tests using R software (Ihaka & Gentleman 1996). This method is favoured because it allows testing for independence between two binary variables in cases of low sample size, which may occur here for loci with extreme peak frequency. Correction for multiple testing was performed following the false discovery rate approach (FDR, which is the proportion of false positives among the tests found to be significant, Benjamini & Hochberg 1995). To this purpose, the software Q-value (available at http: ⁄ ⁄ genom ics.princeton.edu ⁄ storeylab ⁄ qvalue ⁄ ) was used, fixing the tuning parameter k to 0 (Benjamini & Hochberg 1995).
+The proportion of outlier loci in each primer pair combination were tested for homogeneity using v2 test, as various studies reported non-random repartition of outlier loci among primer combinations (Campbell & Bernatchez 2004; Herrera & Bazaga 2008).
+Genetic structure compared between neutral and outlier datasets
+Genetic structures were compared between the neutral dataset, the outlier dataset and a subset of the outlier dataset comprising only the outlier loci with significant association with the zone (plague focus vs. plague-free zone). For each set of markers, analyses of Molecular Variance (AMOVA) were conducted using Arlequin v. 3.01 (Excoffier et al. 2005) on populations grouped into the two zones (plague focus vs. plague-free zone), or, alternatively, grouped into the longitude location (east vs. west, Fig. 1). We also generated 1000 bootstrapped Nei’s distances using AFLP-surv software (Vekemans 2002). Neighbor-joining trees were constructed with Neighbor and Consense programs within the package Phylip v. 3.2. (http:⁄⁄evolution.gs.washington.edu⁄phy lip.html).
+Genotyping and analysis of plague-challenged individuals
+Two datasets consisting of plague-challenged individuals were also analyzed for AFLP markers using the same genotyping protocol. The plague challenge protocol is detailed in Tollenaere et al. (2008). Briefly, the same strain of Yersinia pestis was injected subcutaneously into wild-caught animals from villages located in
+the plague focus (and thus expected to present resistant individuals), close to the INA locality (Fig. 1). Only rats that did not present plague-specific antibodies (supposed plague na ̈ıve) were plague-challenged. The dose of bacteria injected was either 100 cfu (colony forming units), which kills all animals from low-altitude zones, or 105 cfu, the LD50 (lethal dose for 50% of individuals) of rats from plague focus areas (Rahalison et al. 2003). Animals were followed for 18 days post-infection. Dead animals were tested for plague-specific antigens to assess that plague was the cause of death; surviving animals were tested for plague antibodies to verify the infection success.
+The ‘high dose’ dataset consisted of 54 animals inoculated with 105 cfu of Yersinia pestis; 27 of these animals survived and 27 died from plague (Tollenaere et al. 2008). The ‘low dose’ dataset included 49 animals inoculated with 100 cfu of Yersinia pestis; of these, 35 animals survived and 14 died (Tollenaere et al. 2008). Of the 249 AFLP markers, 226 were polymorphic within the ‘high dose’ dataset and 223 within the ‘low dose’ dataset. For each dataset and for each AFLP marker, Fisher’s exact tests were performed to test for association between the binary variable ‘plague challenge issue’ (dying or surviving) and the presence ⁄ absence of the band, using the R software (Ihaka & Gentleman 1996). Correction for multiple testing was performed following FDR approach, as previously described for association with the ‘zone’. Relative risks (RR) were calculated following Haldane (1956). Fisher’s method (Fisher 1948) was used to combine P-values over the two experiments.
+Results
+A total of 239 individuals (29.9 ± 2.4 individuals by population, see details in Fig. 1) were genotyped for 249 polymorphic loci (24.9 ± 9.1 loci by primer pair, see details in Table 1). All individuals exhibited unique AFLP profiles. AFLP loci are designated by the primer pair code (see Table 1) and the fragment length.
+Outlier detection
+Global FST used for DFdist simulations in each population pair ranged from 0.0147 to 0.0664 (Table 2). For the E2 comparison, the trimmed mean FST estimated from data was slightly negative (FST = )0.00033). As FST cannot be zero in the DFdist program, we used 0.005 as conservative global FST (see also Miller et al. 2007). For each comparison of plague-focus vs. plague-free population, we detected 14.8 ± 3.2 loci at the 5% level (and 3.8 ± 1.3 at the 1% level) using DetSelD and 15.3 ± 5.3 loci (and 5.3 ± 2.1 at the 1% level) using DFdist (Fig. 2).
+Ó 2010 Blackwell Publishing Ltd
+
+POPULATION GENOMICS OF A PLAGUE RESERVOIR RAT 1031 Table 2 Genetic differentiation (FST) found in the four population pairs considered in this study from the whole dataset (249 mark-
+ers)
+Population pair name
+E1 W1 E2 W2
+Plague focus population
+AIT ANT MOR INA
+Plague-free zone
+population Location
+TSO East ANK West BRI East MIA West
+FST 0.0281***
+0.0664*** 0.0147NS 0.0238**
+Trimmed FST used for DFdist
+0.008 0.048 0.005 0.005
+   Significance of FST is shown: NS non-significant, **P < 0.01 and ***P < 0.0001. The trimmed mean FST estimated by DFdist (removing the 30% extreme FST loci) is indicated, except for the population pair E2, for which DFdist estimated a slightly negative FST and the value 0.005 was arbitrarily chosen for simulations.
+Eleven loci were detected in at least two independent comparisons using DetSelD, whereas seven were found using DFdist (three loci common to both programs, Table 3). Combining DetSelD P-values, 16 loci had significant P-values (<0.01) whereas for DFdist, there were ten (eight loci common to both programs, Table 3). By pooling the results of the different detection methods, we obtained a set of 22 outlier loci (Table 3). Three of the 22 outliers, A121, D466 and Y222, were detected in the four methods used (each program and ‘repeated’ or ‘combining’ method). Nine of the 22 loci were detected both in one population pair from the eastern populations (E1 or E2) and one pair from the western populations (W1 or W2) by at least one of the software methods (Table 3).
+Outlier analysis
+After correction for multiple testing, association with the variable ‘zone’ (plague focus or plague-free zone) was found (q-value < 0.05) for 16 out of 22 loci (Table 3). Among the three loci detected as outliers using the four detection methods, two had significant association with the zone (A121 and Y222, Table 3).
+The proportion of outlier loci in the ten primer combinations varied between 0 (combination N) and 18.5% (combination D) (mean: 8.8 ± 5.2%). No significant difference in the proportion of outlier loci was found between the ten combinations (v2 = 7.30, P = 0.60).
+Comparison of genetic structure between neutral and outlier datasets
+We compared genetic structure for the neutral dataset (227 loci), for the outlier dataset (22 loci) and for the outlier subdataset with significant association with zone (16 loci). AMOVAs (Table 4) revealed that the majority of genetic variance could be attributed to within-population variability whatever the dataset considered. The distinction between zones (plague focus vs. plague-free
+zone) was significant for outlier datasets only. The proportion of genetic variance attributed to the zone was 5.8% in the dataset of 22 outlier loci and 8.1% in the subdataset of 16 outlier loci. On the other hand, the distinction between longitude locations (east vs. west) was significant for neutral loci only (explaining 1.5% of the observed variation).
+A neighbour-joining tree for the neutral dataset (227 loci) was constructed and grouped populations according to geography (Fig. 2a). It differed from the population tree obtained with outlier loci (22 loci) and from that obtained with the subset of outlier loci (16 loci), in which populations clustered according to their locations inside or outside the plague focus (Fig. 2b and c).
+Analysis of plague-challenged individuals
+No AFLP locus was associated with plague challenge after correction for multiple testing. However, two outlier AFLP markers for the ‘high dose’ dataset, B408 (P = 0.014) and D466 (P = 0.005), had P-values lower than 0.05 (Table 5). No outlier locus for the ‘low dose’ dataset gave P-values lower than 0.05. However, for both markers, the difference observed for the first dataset had the same tendency in the second (peak presence was associated with death for B408, whereas the opposite was found for D466) and Fisher’s combined P-values were lower than 0.05 (Table 5).
+One non-outlier locus was associated (P < 0.05) with the outcome of plague challenge in the ‘high dose’ dataset (B167, P = 0.002) and six in the ‘low dose’ (J220, P = 0.019; U434, P = 0.021; W162, P = 0.025; Y163, P = 0.042; U305, P = 0.044; N221, P = 0.048). Two markers, B167 (P = 0.007) and B172 (P = 0.045), had significant combined p-values. We noticed no evidence of selection on locus B167 through the population genomics approach. On the other hand, the locus B172 was an outlier in the population pair E1 when using DetSelD program (the combined P-value over the four pairs using DetSelD was 0.032).
+Ó 2010 Blackwell Publishing Ltd
+
+1032 C. TOLLENAERE ET AL.
+ (a) ANK
+AIT
+TSO
+60.5 BRI
+MOR ANT
+AIT
+INA INA
+46.4 AIT
+ANT
+     MIA
+98.0
+88.4
+88.5 86.1
+  INA
+   (b) ANK
+MIA
+TSO
+(c) ANK
+MIA
+86.8
+85.5
+ANT
+MOR
+88.9
+BRI
+69.7 52.5
+        MOR
+   79.5
+89.1
+75.1 95.3
+BRI
+ TSO
+ Fig. 2 Neighbour joining population trees obtained for the neutral dataset (227 loci, 2a), for the outlier dataset (22 loci, 2b) and for the subset of outlier loci for which significant association was found with the zone (16 loci, 2c). Each population is indicated by its code. Populations from plague focus are underlined. Percentages over 1000 bootstrap are indicated for each node.
+Discussion
+Zoonotic diseases such as plague cannot be eradicated though vaccination measures; consequently, an understanding of the evolutionary ecology of such wildlife diseases appears essential (Daszak et al. 2000; Stenseth et al. 2008). In this study, we investigated plague resistance genetics in Malagasy natural populations of its reservoir, Rattus rattus, using a population genomics
+approach combined with a phenotype association study.
+The genetic markers considered in this study are 249 AFLP loci. Because AFLP loci are anonymous genomic markers likely to be located in non-coding DNA, we did not expect to find loci under direct natural selection, but rather loci undergoing hitchhiking with selected loci (Schlotterer 2003). Hitchhiking may extend a considerable distance from the selected locus (Charlesworth et al. 1997; Via & West 2008). Its intensity depends on the ratio of the strength of selection and the recombination rate (Andolfatto 2001).
+The number of markers analysed in this study was quite low; if randomly distributed in the genome, our markers would be separated by an average distance of about 12 Mb. This does not reflect a low number of markers screened as the ten primer combinations used here is comparable, if not greater than most previous studies (five primer pairs used by Williams & Oleksiak 2008 for example). Relatively few loci per primer pair were considered because we chose only high quality markers (clear presence ⁄ absence of the peak) and because AFLP profiles were very similar between R. rattus individuals; only about 35% of the observed bands were polymorphic. The low level of polymorphism of Malagasy R. rattus populations had already been noted based on mitochondrial sequences, and would result from the introduction of the black rat in Madagascar following human migration a few thousand years ago (Tollenaere et al. 2010). The number of markers necessary to detect selection in our study system is expected to be reduced by the presence of (i) a strong selective pressure (high fatality rate of plague in naive rodent populations) and (ii) population genetic bottlenecks on various spatiotemporal scales, first at the time of invasion of Madagascar by the species and second by regular population crashes following plague epidemics. Hitchhiking may thus involve large portions of the genome in Malagasy black rat populations.
+The sampling design used in this study involved four independent pairs of populations experiencing different selection pressure. We identified loci as potentially under selection from higher differentiation (FST) than expected under neutrality between plague focus and plague-free zones. However, high FST values can result from other mechanisms such as hitchhiking in structured populations (Faure et al. 2008) or the founder effect (Excoffier & Ray 2008).
+Neutral genetic differentiation between population pairs was low, especially in the population pair E2, maximizing the likelihood of detecting positively selected loci (higher FST, Beaumont 2005). On the other hand, the demographic histories of Malagasy R. rattus
+Ó 2010 Blackwell Publishing Ltd
+
+POPULATION GENOMICS OF A PLAGUE RESERVOIR RAT 1033 Table 3 Results of selection detection for the 22 zone-specific outlier loci detected
+ DetSelD
+Outlier Populations locus pairs
+A066 W2
+A121 E1, E2 A284 E1, W1, W2 A319 E2
+A449 W1, W2 B161
+B163 E1
+B408 E1
+C411 E1, W1, W2 C483 E1, W2 D077 E1, W2 D180 W2
+D450 E1
+D455 E2
+D466 E2, W2 J275 E1, W2 J393 E2
+Q199 E1, E2 U296
+U493 W1
+W099 E1, W2 Y222 E1, W2
+DFdist
+Combined Population P-value pairs
+0.009
+0.001 E1, E2 0.000 W1 0.008 E2 0.005
+0.505 E1, 0.002 E1 0.021 E1 0.000 W2 0.001 E1 0.007 E1 0.014 W2 0.007 E1 0.067 E1, 0.002 E2, 0.003 E1 0.007
+0.006 E1 0.099 W1, W2 0.012 W1, W2 0.004 W2 0.005 W1, W2
+Zone Combined association
+P-value q-value 0.404 0.59701
+0.000 0.00001 0.006 0.03845 0.232 0.89720 0.211 0.00091 0.003 0.00003 0.009 0.00234 0.002 0.00066 0.046 0.00003 0.001 0.63067 0.108 0.00296 0.001 0.00005 0.105 0.00008 0.036 0.05437 0.004 0.07913 0.056 0.00464 0.183 0.00464 0.003 0.61325 0.021 0.00096 0.012 0.00091 0.098 0.01128 0.005 0.00046
+     W2
+E2
+W2
+ For each outlier locus, grey background indicates when the method used identified this locus. For repetition analyses, the significant population pairs are indicated. Population pairs are in bold when the locus revealed outlier at the 1% threshold. Combined P-values (Fisher’s method) over the four independent comparisons are shown. Q-values (following Benjamini & Hochberg 1995) for the Fisher’s exact test of association between the factor ‘zone’ (plague focus or plague-free zone) and the presence ⁄ absence of the AFLP peak are indicated.
+Table 4 Analysis of molecular variance (AMOVA) grouping by zone (plague focus vs. plague-free zone) and by longitude location (east vs. west)
+  a) Neutral dataset (227 loci)
+Among groups
+Among populations within groups Within populations
+b) Outlier dataset (22 loci)
+Among groups
+Among populations within groups Within populations
+c) Outlier sub-dataset (16 loci) Among groups
+Among populations within groups Within populations
+df
+6 231
+1
+6 231
+1
+6 231
+of variation
+0.22
+4.80 94.98
+5.76
+7.82 86.43
+8.10
+7.37 84.53
+P-value 0.20455
+0.00000 0.00000
+0.00000 0.00000 0.00000
+0.00000 0.00000 0.00000
+statistics
+uCT = 0.0022
+uSC = 0.0481 uST = 0.0502
+uCT = 0.0576 uSC = 0.0829 uST = 0.1357
+uCT = 0.0810 uSC = 0.0802 uST = 0.1547
+df
+1
+6 231
+1
+6 231
+1
+6 231
+of variation
+1.49
+4.05 94.46
+–0.82 11.9 88.92
+–1.35 13.28 88.07
+P-value 0.00000
+0.0000 0.00000
+0.6004 0.00000 0.00000
+0.70812 0.00000 0.00000
+statistics
+uCT = 0.0149
+uSC = 0.0411 uST = 0.0554
+uCT = –0.008 uSC = 0.1180 uST = 0.1107
+uCT = –0.0135 uSC = 0.1310 uST = 0.1193
+‘Plague focus’ vs. ‘Plague-free zone’ Percentage
+‘East’ vs. ‘West’ Percentage
+ 1
+ Analyses were performed with (a) the 227 neutral loci (b) the 22 zone-specific outliers (c) the 16 zone-specific outliers with significant association with the zone.
+populations may not conform to demographic models used for simulations. DetSelD uses a pure divergence model, whereas migration may connect sampled
+populations. DFdist includes migration by simulating a symmetrical island model, but dissimilar population size and asymmetric migration rate may occur as the
+Ó 2010 Blackwell Publishing Ltd
+
+1034 C. TOLLENAERE ET AL.
+Table 5 Association between presence ⁄ absence of the peak corresponding to two AFLP markers (B408 and D466) and experimental plague challenge issue (survival or death following infection). The first dataset corresponds to a high-dose plague challenge in which 54 rats were injected with suspension containing 105 Yersinia pestis. The second dataset results from a low dose challenge with 49 animals injected with 100 Y. pestis. For each locus and each experiment, relative risks (RR) were calculated following Haldane and significance (P) was assessed by Fisher’s exact test. We obtained combined p-values using the Fisher method on the two P-values of each experiment
+     High dose
+Low dose Combined P-values
+Surviving Dying Surviving Dying
+B408 peak
+Absence
+12(44.4%) 3(11.1%) 12(34.3%) 2(14.3%)
+Presence RR P
+15(55.6%) 6.177 0.014 24(88.9%)
+23(65.7%) 3.066 0.294 12(85.7%)
+D466 peak
+Absence Presence RR P 17(63.0%) 10(37.0%) 0.068 0.005
+two zones differ in their catching rates (J.M. Duplantier, unpublished) and genetic diversities (in mitochondrial sequences, Tollenaere et al. 2010; in microsatellites, Brouat et al. unpublished). Nevertheless, the statistical methods used were shown to be relatively robust to departures from demographic assumptions (Beaumont & Nichols 1996; Vitalis et al. 2001). Moreover, the use of a design that compares population pairs partly avoids problems associated with heterogeneous demographic parameters (Tsakas & Krimbas 1976; Vitalis et al. 2001).
+We chose to consider as outlier loci those detected in at least two population pairs as well as those having significant combined p-values for the four pairs in at least one simulation program (DFdist or DetSelD, each used with a threshold of 5%). This exhaustive method was chosen to detect outliers for two reasons: first, the reason that some loci are detected by only one simulation program is not fully understood (Beaumont 2005); second, dominant markers are less informative than codominant ones (Foll & Gaggiotti 2008). Moreover, we preferred error to occur through detection of false positives rather than missing important loci (Foll & Gaggiotti 2008) as the effects of selection can be confirmed from further analysis including sequencing and identification of outlier loci followed by molecular analysis of neighboring genes. Such subsequent analyses will be made easier by the phylogenetic proximity of the fully sequenced species R. norvegicus (Gibbs et al. 2004). Indeed, the two species diverged about 2.9 Myr ago (Robins et al. 2008), the proportion of variable sites between their mitochondrial genomes is 9.62% (estimated between R. rattus, Genbank Accession number: EU273707, and R. norvegicus Wistar strain, Genbank Accession number: NC_001665.2) and chromosome painting revealed complete homology and synteny between R. rattus and R. norvegicus in 16 of 18 chromosomes (Cavagna et al. 2002).
+Using the detection method mentioned above, we found 22 candidate loci for zone-specific natural selection out of 249 total loci (8.8%). Sixteen of these loci had significant association with plague zone. Both datasets of outlier loci (22 or 16 loci) showed significant differentiation between plague-free zone and plague focus, but the subset of 16 loci better explained genetic variance (8.1% attributed to zone) than the 22 outlier loci (5.8%). On the other hand, neutral loci revealed significant east–west geographical differentiation, reflecting the relationship between gene flow levels and geographic distance under neutrality.
+Under the hypothesis of a homogeneous selective pressure in the entire plague focus, we expected selected markers to be detected in all population pairs investigated; however, no locus fulfils such expectations. We chose as a criterion repetition of detection in at least two pairs and we also identified two loci (A284 and C411) that are highly differentiated in three out of four population pairs using DetSelD. Various hypotheses may explain the fact that outlier loci do not conform to all expected patterns, including restriction of evidence of selection to some of the four population pairs investigated or no association with plague zone of some outlier loci. For one thing, we cannot rule out the possibility of convergent evolution towards plague resistance in various populations of the Malagasy plague focus, potentially involving different genetic basis resulting in the same resistance phenotype. For example, adaptive melanism is controlled by different genes in two American populations of rock pocket mice (Hoekstra & Nachman 2003) and various epistatic networks mediate susceptibility to infection by a trypanosome in Bombus terrestris in Switzerland (Wilfert et al. 2007). An additional possibility is that adaptation through standing variation could lead to patterns of polymorphism different from the standard models of adaptation through new mutation and to the
+P = 0.026
+26(96.3%) 26(74.3%) 11(78.6%)
+1(3.7%)
+9(25.7%) 0.792 1 3(21.4%)
+P = 0.032
+ Ó 2010 Blackwell Publishing Ltd
+
+association of functional polymorphisms with different alleles at closely linked loci (Barrett & Schluter 2008). It is also possible that, if variability in Yersinia pestis exists in Madagascar, coevolution may lead to variable resistance genetics in the host according to the locally present plague bacterium strain. Yersinia pestis strains from Madagascar all grouped in the cluster of strains that spread during the third pandemic, but some variability was described within the country (Guiyoule et al. 1997; Achtman et al. 2004). However, detailed analysis of Y. pestis genetic structure in Malagasy plague focus on which to base the investigation of such a hypothesis is lacking. Finally, plague-linked selective pressures may vary across space and time within the plague focus. A putative evolutionary cost of plague resistance may imply dramatic differences in the prevalence of resistance alleles in local populations that depend on the duration, time of occurrence and strength of the last epizootic event.
+The outlier loci identified can be considered zonespecific. However, selective pressure cannot firmly be associated with plague, as other ecological factors differ between the two zones. Indeed, altitude and, as a consequence, mean temperature are confounded with plague occurrence (Jury 2003). On the other hand, annual precipitation (Jury 2003), vegetation (Lowry et al. 1997) and human culture (Battistini & Verin 1972; for example the type of houses, which may affect commensal rodents such as the black rat) differ between the eastern and western parts of the low-altitude zone. The nine outlier loci found in both eastern and western comparison pairs are thus good candidates for plaguespecific selection because they are potentially affected by fewer confounding potential selective pressures.
+We combined population genomics with a phenotype association study (Storz 2005; Stinchcombe & Hoekstra 2008) to discriminate between different possible selective pressures that differ between the central highlands and the low-altitude zone. Experimentally plague-challenged animals were typed for AFLP loci to test whether the plague challenge issue was correlated with outlier loci. Two outlier loci (B408 and D466) showed significant association with plague infection in one plague challenge experiment. The tendency remained the same in the second experiment, but the difference was not significant. This may be due to a lack of power of this second dataset (power of 63.8% for the locus B408 and 74.8% for D466 for an effect size equivalent to the one of the first dataset, data not shown) or to a lower discrimination of phenotypes by the low dose of bacteria threshold than by the high lose. These two loci were thus detected in two completely independent approaches and represent particularly relevant candidates for plague resistance markers.
+The 20 outlier loci that were not associated with survival ⁄ death following plague challenge could, however, be related to plague resistance. First, the sample size of our plague challenge datasets (about 50 individuals) may be too low to detect modest genetic differences (Hirschhorn & Daly 2005). Second, the two doses of bacteria used may discern only poorly genetically differentiated groups. Third, we cannot rule out the possibility that a resistance genotype could be fixed in the central highlands. Indeed, the observation of phenotypic heterogeneity does not necessarily imply the presence of genetic polymorphism for plague resistance. If resistance genotype is fixed, the fact that some animals died after experimental challenge would in this case be related only to non-genetic factors such as immune and physiological status, as we used wild, not inbred, animals. Fourth, genetic differences associated with plague resistance ⁄ susceptibility may differ between plague focus and plague-free zone (outlier loci) and with respect to loci potentially detected through experimentally challenge of animals from the plague focus.
+Conclusion and perspectives
+This study identified 22 loci that represent candidates for zone-specific selection and that may be involved in the plague resistance phenotype of R. rattus populations in the central highlands of Madagascar. Two of these loci were also associated with plague challenge outcome in experimentally infected individuals. The major challenge now, and indeed a major issue for all studies of this type, is to move from the identification of an associated polymorphic AFLP locus to the identification of the underlying gene that is under selection. The strategy that is utilized is to isolate outlier AFLP bands then sequence these and use BLAST and equivalent analyses to identify their genomic location and neighbour genes. Such strategy is made possible by the current good information concerning the R. norvegicus genome (genome sequence and gene annotation), a species phylogenetically closed to R. rattus. Hence the potential for an unknown sequence to be identified is maximized. Preliminary sequencing analyses of the outlier loci identified in this study (10 markers out of 22, unpublished) are returning positive matches with the R. norvegicus genome, with some loci located closed to genes involved in the immune function, which appear intuitively biologically meaningful. Such genes will then be sequenced so that patterns of selection on DNA sequences can be investigated and functional polymorphism identified. As such, this study represents an important step in understanding the genetic basis of disease resistance and pathogen-mediated selection in natural populations of reservoirs.
+Ó 2010 Blackwell Publishing Ltd
+POPULATION GENOMICS OF A PLAGUE RESERVOIR RAT 1035
+
+1036 C. TOLLENAERE ET AL. Acknowledgements
+We are grateful to the staff of the Plague laboratory of the Institut Pasteur de Madagascar for their excellent assistance during the fieldwork and to Rejane Streiff for helpful advice regarding molecular biology and data analysis and for comments on the manuscript. We thank Anne Loiseau and Caroline Tatard for advice on molecular biology. The manuscript significantly improved thanks to the comments of Renaud Vitalis, Stuart Piertney and three anonymous referees. Data used in this work were produced through use of the molecular genetic analysis technical facilities of the IFR119 « Montpellier Environnement Biodiversite ́ ». Funding was provided by the IRD (Institut de Recherche pour le De ́veloppement), the IPM (Institut Pasteur de Madagascar) and an ANR-SEST (Agence Nationale pour la Recherche, Sante ́-Environnement et Sante ́Travail) program on plague diffusion.
+References
+Ó 2010 Blackwell Publishing Ltd

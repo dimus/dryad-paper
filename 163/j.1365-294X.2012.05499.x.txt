@@ -1,0 +1,273 @@
+   Molecular Ecology (2012) 21, 1672–1686 doi: 10.1111/j.1365-294X.2012.05499.x
+Identifying insecticide resistance genes in mosquito
+by combining AFLP genome scans and 454 pyrosequencing
+MARGOT PARIS*† and LAURENCE DESPRES*
+*Laboratoire d’Ecologie Alpine (LECA), UMR 5553 CNRS-Universite ́ de Grenoble, BP53 38041 Grenoble Cedex 9, France, †Plant Ecological Genetics, Institute of Integrative Biology, Universita ̈tstrasse 16, ETH CH-8092 Zurich, Switzerland
+Abstract
+AFLP-based genome scans are widely used to study the genetics of adaptation and to identify genomic regions potentially under selection. However, this approach usually fails to detect the actual genes or mutations targeted by selection owing to the difficulties of obtaining DNA sequences from AFLP fragments. Here, we combine classical AFLP outlier detection with 454 sequencing of AFLP fragments to obtain sequences from outlier loci. We applied this approach to the study of resistance to Bacillus thuringiensis israelensis (Bti) toxins in the dengue vector Aedes aegypti. A genome scan of Bti-resistant and Bti-susceptible A. aegypti laboratory strains was performed based on 432 AFLP markers. Fourteen outliers were detected using two different population genetic algorithms. Out of these, 11 were successfully sequenced. Three contained transposable elements (TEs) sequences, and the 10 outliers that could be mapped at a unique location in the reference genome were located on different supercontigs. One outlier was in the vicinity of a gene coding for an aminopeptidase potentially involved in Bti toxinbinding. Patterns of sequence variability of this gene showed significant deviation from neutrality in the resistant strain but not in the susceptible strain, even after taking into account the known demographic history of the selected strain. This gene is a promising candidate for future functional analysis.
+Keywords: amplified fragment length polymorphism, Bacillus thuringiensis var. israelensis, genome scan, insecticidal toxins, insecticide resistance, mosquito, pathogen vector, pyrosequencing
+Received 19 July 2011; revision received 3 January 2012; accepted 13 January 2012
+Introduction
+Decrypting the genetic bases of adaptation is a central challenge in evolutionary biology (Orr 2005; Stinchcombe & Hoekstra 2008). Because adaptation is often multigenic, an interesting approach is to first identify the genomic regions under selection, then to identify within these regions genes potentially involved in the character under selection (candidate genes). Finally, one can then analyse patterns of sequence variability and conduct neutrality tests on these genes, ideally correcting for the demographic history of populations. Population genomics approaches use genome scans of
+Correspondence: Laurence Despre ́s, Fax: +33 4 76 51 42 79; E-mail: laurence.despres@ujf-grenoble.fr
+populations experiencing different selection pressures to identify loci (‘outliers’) that show higher than expected between-population genetic differentiation. Owing to genetic hitchhiking effects, adaptive divergence is detected not only in the genes under selection but also in their flanking regions (Barton 2000). With the improvement of new technologies such as single nucleotide polymorphisms (SNP) array, RNA sequencing or restriction-site-associated DNA (RAD) sequencing, a SNP-based genome scan recently identified genomic regions or candidate genes linked to adaptation in fishes (Hohenlohe et al. 2010; Renaut et al. 2010), marine snails (Galindo et al. 2010), Arabidopsis (Turner et al. 2010) or conifers (Namroud et al. 2008; Prunier et al. 2011). Even if these methods offer the advantage of generating genome-wide sequence data,
+Ó 2012 Blackwell Publishing Ltd
+
+they remain ‘a considerable expense for most small labs working with non-model organisms’ (Ekblom & Galindo 2011).
+For this reason, amplified fragment length polymorphism (AFLP, Vos et al. 1995) is widely used by ecologists when genotyping many individuals from several populations (Collin & Fumagalli 2011; Fischer et al. 2011; Nunes et al. 2011; Tollenaere et al. 2011). AFLPbased genome scans have been used extensively to detect outlier loci linked to adaptation (Bonin et al. 2006; Manel et al. 2009; Meyer et al. 2009; Nosil et al. 2009; Poncet et al. 2010), including outliers linked to long-lasting Bti treatments in populations of the mosquito Aedes rusticus (Paris et al. 2010b). However, although these studies highlighted a proportion of the genome as potentially under selection, they failed to identify the genomic regions or the actual genes under selection. Indeed, by distinguishing outliers from neutral loci, AFLP genome scan analyses represent only a first step towards a comprehensive understanding of how selection operates at the genomic level. The lack of sequence information given by anonymous AFLP loci remains a major limitation in precisely identifying the genomic regions, the genes and ultimately, the mutations involved in adaptation. A few studies have managed to obtain the sequence of some AFLP outliers by excision of the target AFLP fragment from acrylamide denaturating gel followed by sequencing (Minder & Widmer 2008; Wood et al. 2008; Midamegbe et al. 2011). In this study, we present a method that first uses relatively economic AFLP markers to detect outliers and then uses 454 pyrosequencing technology (Margulies et al. 2005; van Orsouw et al. 2007) to obtain the DNA sequences of these outliers.
+Insecticides represent some of the most intense selection pressures acting on natural populations, and insecticide resistance is a spectacular example of rapid adaptation (ffrench-Constant et al. 2004; Hemingway et al. 2004; Li et al. 2007). The spraying of toxins produced by the bacteria Bacillus thuringiensis subsp. israelensis (Bti) in mosquito breeding sites represents a safe alternative to chemical insecticides and is now widely used for mosquito control (Lacey 2007). When ingested by mosquito larvae, Bti toxins are activated by insect midgut proteases and they bind on specific midgut membrane receptors leading to the formation of pores in epithelial cells, cell lysis, septicaemia and larval death. Bti toxins interact synergistically, leading to high toxicity when used in combination and hindering the rapid development of resistance to Bti (Georghiou & Wirth 1997). After few generations of laboratory larval selection with a field-collected leaf litter containing Bti toxins (Tilquin et al. 2008), we obtained a strain (LiTOX) that was moderately resistant to Bti (2-fold)
+but showing high resistance to individual Cry toxins (up to 30-fold, Paris et al. 2011b). Two main mechanisms have been described for insect resistance to toxins produced by Bti: modifications in midgut proteases involved in toxin activation or degradation and modifications in the membrane receptors binding toxins. Furthermore, recent works suggest that immunity genes, detoxification enzymes, cell repair mechanisms and cellular signalling genes might also be involved (Huffman et al. 2004; Rahman et al. 2004; Gunning et al. 2005; Meunier et al. 2006; Zhang et al. 2006; Soberon et al. 2009). In particular, previous work with the LiTOX strain based on variation in transposable element insertion identified one membrane receptor under positive selection (Bonin et al. 2009). Given the variety of mechanisms and genes potentially involved in resistance to Bti, a genome-wide approach to identify all the genomic regions showing selection signatures is a prerequisite before a candidate gene approach can be undertaken. Because its demographic history is fully known, the LiTOX strain offers an excellent opportunity for the initial identification of genomic regions under selection and then individual genes involved in resistance to Bti toxins in mosquitoes.
+To study the genetic bases of Bti resistance, our strategy was (i) to perform a genome-wide AFLP scan to detect outlier loci between the resistant LiTOX strain and the susceptible strain, (ii) to sequence these outlier loci by using pyrosequencing technologies, (iii) to identify the genomic regions under selection by locating these outliers in the Aedes aegypti genome, (iv) to identify candidate genes within these regions for Bti resistance and (v) to sequence these candidates and look for evidence for selection at the sequence level taking into account the known demographic history of the LiTOX strain.
+Material and methods
+Mosquito strains
+We used two mosquito strains, the Aedes aegypti laboratory strain Bora-Bora, which is susceptible to all insecticides and the LiTOX strain, which was selected from the Bora-Bora strain for 18 generations using leaf litter containing Bti toxins as described in Paris et al. (2011b). Briefly, at each generation, an average of 6000 larvae was exposed to toxic leaf litter in order to obtain a mortality rate of 70%. Surviving larvae were transferred to tap water, fed with standard larval food and allowed to emerge as adults, reproduce, blood feed on mice and lay eggs for the next generation. After 18 generations of selection, the resistance ratios were 30.2-fold and 13.7fold for the Cry4A and Cry4B toxins, respectively.
+Ó 2012 Blackwell Publishing Ltd
+AFLP GENOME SCANS FOR DETECTING ADAPTIVE GENES 1673
+
+1674 M. PARIS and L. DESPRES AFLP genotyping
+Total genomic DNA was extracted from fresh larvae (23 susceptible and 26 resistant larvae) using the DNeasy tissue Kit (Qiagen), according to the manufacturer’s instructions. AFLP procedures adapted to insect genomes were performed according to Paris et al. (2010b). Selective PCR primer pairs were identified from 100 tested using in silico AFLP simulations in the ISIF program (Paris et al. 2010a). The four primer pairs EcoRI+ATA ⁄ MseI+CAC (EATA ⁄ MCAC), EAGC ⁄ MCGC, EACG ⁄ MCAC and EACG ⁄ MCAA were chosen for this study (primer sequences in Table S1, Supporting information); these produce 42–105 fragments per profile with relatively homogeneous peak length distributions.
+AFLP profiles were visualized with GENEMAPPER V3.7 software (Applied Biosystems), with a scoring threshold of 500 rfu in fluorescence intensity for peak detection. As peaks between 50 and 70 bp are more likely to represent homoplasy, only peaks between 70 and 500 bp were considered. Reproducibility was checked by carrying out the whole AFLP protocol twice for 20.4% of individual DNA extracts randomly chosen across populations, as recommended by Bonin et al. (2004).
+Population genetic analyses
+Mean genetic diversity within populations was assessed with AFLP-SURV (Vekemans 2002) based on two indices: the percentage of polymorphic loci (P%) and the expected heterozygosity averaged across loci, equivalent to Nei’s gene diversity (Hj). Genetic differentiation among populations was estimated as the unbiased FST estimator of Weir & Cockerham (1984), and the 95% confidence interval was obtained by bootstrapping 1000 replicates over loci. Independence of markers was assessed by calculating the pairwise linkage index D(A,B) = 1 ⁄ n Ri|V(A,i))V(B,i)|, where V(A,i) is the allele value of individual i for the marker A and n, the number of individuals analysed. A principal coordinate analysis (PCoA) based on pairwise relatedness coefficients between individuals (Lynch & Milligan 1994; computed with AFLP-SURV) was performed using the package Ade4 (Dray & Dufour 2007) in R version 2.5 (R Development Core Team 2005).
+Detection of signature of positive selection
+To detect outlier loci, we used two population genetic approaches adapted to dominant markers that are based on different assumptions and algorithms: a frequentist method based on summary statistics (Dfdist, Beaumont & Nichols 1996, available at http://www. rubic.rdg.ac.uk/~mab/stuff/) and a hierarchical Bayes-
+ian method (BayeScan, Foll & Gaggiotti 2008, http:// cmpg.unibe.ch/software/bayescan/). For Dfdist, outlier loci were detected by comparing their specific FST with a null FST distribution based on 50 000 simulated loci. The mean target FST for the null distribution was calculated by excluding 30% of the highest and lowest observed FST values. Analyses were performed at the 95% confidence levels. For BayeScan, Gaussian priors with means of )2 and 0 were used for the population and locus effects with standard deviations of 1.8 and 1, respectively, according to Beaumont & Balding (2004). The estimation of model parameters was automatically tuned on the basis of short pilot runs (10 pilot runs, length 2000). The sample size was set to 10 000 and the thinning interval to 50 as suggested by Foll & Gaggiotti (2008), resulting in a total chain length of 500 000 iterations, performed four times independently. The loci were ranked according to their estimated posterior probability, and all loci with a value over 0.79 (corresponding to a Bayes Factor >3) were retained as outliers. Only outliers detected by both methods were retained for further analysis.
+Outlier sequencing using next-generation sequencing
+In order to obtain the sequence of the AFLP markers detected as outliers, a selective PCR of 22 individual profiles was sequenced using a 454 Life Science pyrosequencer. For each primer combination, we sequenced as many individuals as required to obtain the sequence of each outlier for at least two individuals. AFLP selective PCR was carried out with tagged selective primers from a 10 · dilution of the preselective PCR product. Products were purified using the MinElute PCR purification kit (Qiagen). DNA concentration was determined using a Bioanalyser (Agilent Technologies) before individual multiplexing and sequencing using the FLX System protocol on a pyrosequencing 454 Life Science sequencer (Roche Applied Science).
+After pyrosequencing, 454 reads were assigned to each sample and filtered using Python scripts named ObiTools, (freely available at http://www.grenoble.prabi.fr/trac/OBITools) as described in Paris et al. (in press). Two sets of reads were clustered using the PHRAP program (http://www.phrap.org/index.html), one corresponding to reads containing both good primers and tags on their two extremities (complete reads) and one corresponding to reads of more than 200 bp with the good tags and primers at the 5¢ extremity and with no primer sequence at the 3¢ extremity (incomplete reads). A penalty value of )9 was used for substitutions with the aim to find alignments that are 90% identical for each cluster. For each individual, a 454 sequence-based AFLP profile was obtained using the sequence length
+Ó 2012 Blackwell Publishing Ltd
+
+information of both complete and incomplete clusters (i.e. AFLP locus) and compared to the classical AFLP profiles. As 454 pyrosequencing is not efficient at sequencing homopolymers, the length of the AFLP markers obtained with the two methods was compared within a ± 2-bp error range. To be assigned to a given AFLP locus, the sequence had to be successfully detected in at least two individuals for which the locus was detected and absent in individuals in which the locus was not detected.
+Simplification of AFLP profiles to obtain nonambiguous outlier sequences
+For five out of the 14 outliers, the comparison between classical AFLP and 454-pyrosequenced profiles led to the detection of two or three sequences of similar length (±2 bp) corresponding to the outlier peak length. To discriminate between the outlier and other AFLP sequences, a simplification of the AFLP profiles using degenerated MseI primers was used as described in Paris et al. (in press). This method allows the detection of the first three bases of AFLP peaks by testing all the 12 MseI3N, MseI4N and MseI5N+ A, C, G or T primers possible from the initial MseI+3 nucleotides (Table S1, Supporting information) and checking which amplifies the target AFLP fragment. The simplification of AFLP profiles was performed on one individual for the primer pairs EAGC-MCGC and EACG-MCAC and two individuals for the primer pair EATA-MCAC. To be assigned to the corresponding outlier, a sequence had to present a minimum of two positive matches and the other putative sequences a maximum of one positive match with the first three bases of the outlier AFLP peak.
+Outlier location in the reference genome and candidate genes identification
+The sequences of the outliers were blasted against the A. aegypti reference genome (1376 Mb consisting of 4758 supercontigs 0.06-5Mbp available at http://aaegypti. vectorbase.org). Sequences were considered to have been located without ambiguity when they blasted a unique genomic position, with an identity score of more than 85%. For all outliers, we searched for transposable elements (TEs) by blasting the sequences against the TEfam database containing all the TEs described so far in A. aegypti genome (http://tefam.biochem.vt.edu).
+Candidate genes for Bti resistance were identified using a keyword search in the VectorBase database (http://aaegypti.vectorbase.org/index.php). All genes belonging to families previously shown to be potentially involved in Bti resistance were considered as candidates
+(toxin receptors, enzymes involved in toxin activation, degradation or sequestration and immunity genes). A total number of 74 putative Bti toxins membrane receptors, 88 proteases, 33 carboxylesterases and five mitogen-activated protein kinase immunity genes were identified using the A. aegypti genome annotation. These 200 candidate genes were spread over 110 supercontigs in the genome.
+To determine the distance at which a candidate gene should be linked with an outlier, we estimated the expected linkage disequilibrium length in the LiTOX strain. Assuming an estimated average recombination rate in A. aegypti c = 0.3 cM ⁄ Mb (Wilfert et al. 2007), we calculated the expected disequilibrium length for neutral markers in LiTOX using the formula E(r2) = 1 ⁄ (1 + 4cNe), assuming a drift-recombination equilibrium (Hill & Robertson 1968). Ne was inferred using the formula Ne = 1 ⁄ (1 + 4FST) using specific FST inferred by BayeScan.
+Candidate gene sequencing, genetic analyses and neutrality tests
+The puromycin-sensitive aminopeptidase candidate gene (VectorBase Gene ID AAEL012918) was identified in a region under selection. This gene was sequenced for 11 susceptible and 12 LiTOX individuals used in the AFLP genome scan. Primers were designed to amplify 991 bp of the main exon (exon 2; 1226 bp in total, primer sequences in Table S1, Supporting information) using the software package LASERGENE 7.2 (DNASTAR Inc.). PCR amplifications were conducted as described in Bonin et al. (2009). Sequences performed by Genome ExpressÒ (http://www.genome-express.com) were aligned with Bioedit. To determine whether the aminopeptidase is membrane bound, we looked for glycosylphosphatidylinositol (GPI) anchor domains in the protein sequence using two software packages that are based on different models: GPI-SOM (Fankhauser & Maser 2005, available at http://gpi.unibe.ch/) and bigPI Predictor (Eisenhaber et al. 2000, available at http:// mendel.imp.ac.at/gpi/gpi_server.html).
+In order to compare the genetic diversity and differentiation of the aminopeptidase gene between strains with sequences randomly distributed in the genome, we took advantage of the full AFLP profiles sequenced for 10 individuals (five for each strain) for the primer pair EcoRI+ATA ⁄ MseI+CAC. We searched these profiles for fragments shared by individuals from the two strains and therefore presumably neutral with respect to Bti resistance. Such AFLP fragments were searched in the 454 clusters using the following criteria: present in at least nine of the ten sequenced individuals, present at a unique location in the genome and with a
+Ó 2012 Blackwell Publishing Ltd
+AFLP GENOME SCANS FOR DETECTING ADAPTIVE GENES 1675
+
+1676 M. PARIS and L. DESPRES
+minimum coverage of ten reads per individuals. The clusters were aligned and corrected with BioEdit (Hall 1999). Genetic diversity and differentiation analyses were performed using the software DNASP 5.0 (Librado & Rozas 2009). For the aminopeptidase candidate gene, haplotype phase was estimated before analyses using DnaSP assuming Hardy–Weinberg equilibrium and a coalescent-based Bayesian method to infer haplotypes. Deviation from neutral equilibrium expectations was then tested by calculating Tajima’s D (Tajima 1989) and Fu and Li’s D* and F* (Fu & Li 1993) statistics. To assess whether they significantly departed from a neutral scenario of evolution given the known demographic history of the resistant strain, we performed coalescent simulations using the program ms (Hudson 2002). For each gene, the mutation rate l was estimated from the per-locus mutation parameter observed for the susceptible strain (h = 4Nel and Ne = 6000). Then, 1000 neutral samples consisting of 10–24 haplotypes, depending on the number of individuals sequenced in the LiTOX strain, were simulated based on the known demographic history of the resistant strain (Bonin et al. 2009; Table S2, Supporting information).
+Results
+AFLP polymorphism analysis
+A total of 432 polymorphic AFLP markers ranging from 79 to 494 bp in length were successfully scored using the four primer combinations, with an estimated 2.7% genotyping error rate per locus. All the 49 individuals genotyped presented different profiles. There was no linkage between the 432 markers (Mean pairwise linkage D = 0.48, 0.14 < D < 0.83). This result was expected given the low marker coverage (about 1 marker every 3 Mb). The percentage of polymorphic loci (P%) and the expected heterozygosity averaged across loci (Hj ± SE) were lower in the LiTOX strain (P% = 67.7 and Hj = 0.233 ± 0.00711) than in the susceptible strain (P% = 93.1 and Hj = 0.328 ± 0.00855), indicating a decrease in genetic diversity in the resistant strain. Furthermore, a substantial genetic differentiation was observed between the two strains differing by only 18 generations: FS = =0.1140 (CI 95% = 0.1051–0.1256). Accordingly, the PCoA analysis revealed two well-separated groups: the resistant individuals were tightly grouped and clearly separated from the susceptible individuals (Fig. 1).
+Outlier detection
+A total of 19 (4.4%) and 21 (4.9%) out of the 432 AFLP markers tested were detected as outliers using Dfdist
+and BayeScan, respectively (Fig. S1, Supporting information). To limit the false-positive outlier detection, the 14 outliers (3.2% out of the 432 markers) detected by the two methods were considered as ‘true outliers’ (Paris et al. 2010b; Perez-Figueroa et al. 2010). Proportionally more outliers were detected for the primer combinations EATA-MCAC and EAGC-MCGC compared to the primer combinations EACG-MCAC and EACG-MCAA (Table 1). The outlier length varied between 70 and 469 bp with a mean of 235 bp (mean length of all 432 markers: 239 bp). No loci under balancing selection were detected (Fig. S1, Supporting information).
+AFLP sequencing and identification of outliers’ sequences
+The numbers of 454 reads obtained for each of the 22 sequenced samples are presented in Table 2. By filtering with tags and primers at both sequence extremities, 6713 complete reads on average per sample were obtained. Furthermore, we obtained 465 sequences on average per sample containing only the tags and primers at the 5¢ extremity and corresponding to incomplete sequences of AFLP markers more than 230 bp length. After clustering, an average of 84, 49, 61 and 128 different clusters (i.e. AFLP fragments) were obtained for the primer pairs EATA-MCAC,
+   –0.8 –0.6 –0.4 –0.2 0.0 0.2 0.4 PCoA axis 1 (6.5 %)
+Fig. 1 Principal coordinate analysis (PCoA) plot of the 49 individual genotypes from the susceptible (23) and the resistant LiTOX strain (26). PCoA was based on relatedness coefficients between individuals on 432 AFLP markers. A total of 10.8% of the genetic differentiation was explained by the twofirst axes.
+ Susceptible LiTOX
+                                                 Ó 2012 Blackwell Publishing Ltd
+PCoA axis 2 (4.3 %)
+–0.6 –0.4 –0.2 0.0 0.2 0.4 0.6
+
+AFLP GENOME SCANS FOR DETECTING ADAPTIVE GENES 1677 Table 1 Results of outlier detection, sequencing and location in the Aedes aegypti genome
+ Primer combinations
+No. of AFLP markers No. of outliers
+Detected
+Sequenced with 454
+Unambiguously mapped in the A. aegypti genome Located in transposable elements
+Located in genes
+Located in non-coding regions
+Located in the same supercontig as a candidate
+gene for Bti resistance
+EATA-MCAC EAGC-MCGC EACG-MCAC EACG-MCAA
+122 79 103 128
+7 4 1 2 5 4 1 1 4 4 1 1 2 1 0 0 1 0 0 0 3 4 1 1 2 0 0 0
+Total (%)
+432 (100)
+14 (3.24) 11 (2.54) 10 (2.31)
+3 (0.69) 1 (0.23) 9 (2.08) 2 (0.46)
+  Table 2 Number of reads and contigs obtained from 454 pyrosequencing of AFLP profiles. AFLP profiles were multiplexed and sequenced in three different 454 pyrosequencing runs (runs A, B, C). Complete reads are reads with the correct tags and primers at both sequence extremities. Incomplete reads are reads with correct tags and primers at only one sequence extremity: they correspond to sequences from AFLP fragment with length more than 230 bp
+ Sample
+Ae1 Ae10 Ae42 Ae6
+Ae7 LiTOX1 LiTOX18 LiTOX26 LiTOX5 LiTOX8 Ae12 Ae2 Ae21 LiTOX5 LiTOX8 LiTOX9 Ae20 LiTOX25 LiTOX28 LiTOX3 Ae3 LiTOX4
+454 run
+A A A A A A A A A A B B C C B B C C B B C C
+AFLP primer pairs
+EATA-MCAC EATA-MCAC EATA-MCAC EATA-MCAC EATA-MCAC EATA-MCAC EATA-MCAC EATA-MCAC EATA-MCAC EATA-MCAC EAGC-MCGC EAGC-MCGC EAGC-MCGC EAGC-MCGC EAGC-MCGC EAGC-MCGC EACG-MCAC EACG-MCAC EACG-MCAC EACG-MCAC EACG-MCAA EACG-MCAA
+Tags for multiplexing
+CCGACTC CCGTACT CCGTGCA CCGAGAT CCGCTAT CCTCACC CCTGAGC CCTGCTT CCTCGAC CCTCTAG CCGTCGC CCGTATC CCGACAG CCAGCGA CCTCTCA CCTCGTA CCAATAG CCACACT CCGCACA CCTGACG CCATATA CCGATGT
+No. of complete reads
+6490 8977 8363 6707 6982 6367 6718 6494 6957 6790 5228 4774 4890 2557 4744 3881 7934 6479 6602 5707
+12556 11498
+No. of incomplete reads
+1265 514 2856 1445 1344 1224 1344 1075 1545 1792 1974 1517 1669 833 2267 1926 1687 1280 1935 1723 2355 2892
+Total no. of contigs
+103 47 59 91 99 73 97 83 105 80 64 51 39 28 66 45 52 51 77 62 109 147
+  EAGC-MCGC, EACG-MCAC and EACG-MCAA, respectively (Table 2).
+The sequences of eight outliers were identified without ambiguity and independently in at least two individuals. Five outliers could not be assigned to a unique sequence as two or three different sequences in a ± 2 bp range of the AFLP outlier length were obtained. Three of these outliers were successfully dis-
+criminated by performing simplifications of AFLP profiles. For outlier 100, the first three bases of the two potential sequences were too similar to allow this discrimination without ambiguity using our criteria (ATT and GTT). For outlier 42, the simplification of the AFLP profiles did not allow us to distinguish the first three nucleotides as several peaks were amplified for each position, suggesting the co-migration of homoplasious
+Ó 2012 Blackwell Publishing Ltd
+
+1678 M. PARIS and L. DESPRES
+fragments. Finally, outlier 238 was not sequenced as its length was 469 bp in the AFLP profiles but the maximum read length was 250 bp in the 454 pyrosequencing reads.
+Outlier location in the genome and candidate gene detection
+The 11 outliers sequenced were blasted on the Aedes aegypti genome (http://aaegypti.vectorbase.org/Tools/ BLAST/). Out of the 11 outlier sequences, 10 could be assigned a unique location, and all of them were located on different supercontigs (Table S3, Supporting information). The sequence of outlier 63 was located in the gene AAEL012917 with unknown function (Table 3). All the other outliers matched non-coding regions. Outlier five matched several genomic locations, and the sequence was identified as a Jockey non-LTR retrotransposon of A. aegypti (TF000019|Jockey_Ele1| Juan-A, score = 60, Identity = 97%, Evalue = 1e)10) by blasting the TEfam database. Outliers 99 and 360 also contained transposable elements together with flanking regions, which allowed their localization in the genome. Outlier 99 contained two non-LTR retrotransposons: the Jockey element already identified in Outlier 5 (TF000019|Jockey_Ele1|Juan-A, score = 81.8, Identity = 91%, Evalue = 3e)16) and a R1 element (TF000428| R1_Ele4, score = 93.7, Identity = 86%, Evalue = 9e)20). Outlier 360 contained a Miniature Inverted-repeat Transposable Element (TF000700|m8bp_Ele2, score = 66.9, Identity = 87%, Evalue = 4e)13).
+Two outliers co-localized on the same supercontig as a candidate gene for Bti resistance (Table 3). Outlier 63 was located 72 369 bp away from the puromycin-sensitive aminopeptidase gene AAEL012918, and outlier 94 was located 1 369 303 bp from the trypsin gene AAEL004543. To calculate the expected linkage disequilibrium in the LiTOX strain, we used the specific population FST from the ancestral population (0.231) inferred by BayeScan (excluding the 14 outliers) under a standard pure-drift demographic model. This corresponds to Ne = 41 and to an estimated overall linkage disequilibrium of 20 Kb for neutral markers in the LiTOX strain, assuming a recombination rate of 0.3cM ⁄ Mb in A. aegypti genome (Wilfert et al. 2007). In a genomic region under selection, the amount of linkage disequilibrium can be considerably greater than that predicted for a neutral region (Via & West 2008). However, only the aminopeptidase gene was in the range of the expected linkage disequilibrium (72 Kb, while the next potential candidate was 1369 Kb); therefore, only this gene was considered as a potential candidate and retained for further analyses.
+Candidate gene sequencing
+The aminopeptidase gene showed very different levels of diversity between the two strains, with 1.7-fold and 4.7-fold decreases in the number of segregation sites and of haplotypes in the LiTOX strain, respectively (Table S4, Supporting information). The genetic differentiation between the two strains for this gene was high (FST = 0.375). All three neutrality tests performed showed significant departure from neutrality for the LiTOX but not for the susceptible strain (Table 4). The negative values for Tajima’s D and for Fu and Li’s D* and F* indicated an excess of rare alleles, consistent with positive selection. Significant departure from neutrality was observed even after correction according to coalescent simulations based on the known demographic history of the resistant LiTOX strain. A total of 11 presumably neutral AFLP fragments were selected using our criteria (see methods). These sequences were distributed on 11 different supercontigs, and none was co-located with an outlier (Tables 4 and S3, Supporting information). All neutrality tests indicated a significant signature of positive selection for the aminopeptidase gene in only the LiTOX strain, while most tests where non-significant for both strains for the presumably neutral sequences and none was significant after Bonferroni correction for multiple tests (Table 4). In the aminopeptidase gene, among 31 polymorphic sites, three were non-synonymous and only one (position 188 in the protein) was associated with resistance: an Arginine was at high frequency in the susceptible strain (73%) and a Lysine was nearly fixed in the LiTOX strain (96%).
+Discussion
+Genetic impact of insecticide selection
+The LiTOX strain shows a decrease in genetic diversity that is likely to result from bottlenecks and selective sweeps caused by the high selective pressure experienced by the LiTOX strain. Furthermore, the resistant strain exhibits a high genetic differentiation with the susceptible strain after only 18 generations of selection. These results are concordant with a previous genome scan performed on the same two strains using 476 polymorphic markers anchored on a Pony transposable element (Bonin et al. 2009).
+The genome scan analysis using two distinct outlier detection methods identified 14 outliers out of 432 AFLP markers (3.2%). This proportion is comparable with the results obtained in natural mosquito populations of the species Aedes rusticus (4.5% of AFLP markers linked to Bti treatment, Paris et al. 2010b) and in
+Ó 2012 Blackwell Publishing Ltd
+
+AFLP GENOME SCANS FOR DETECTING ADAPTIVE GENES 1679
+      Ó 2012 Blackwell Publishing Ltd
+Table 3 Description and genomic location of the 11 outliers sequenced with 454 pyrosequencing AFLP
+No. of genes in the supercontig
+Candidate genes in the supercontig (distance in bp
+to outlier)
+marker
+no. Primer pairs
+AFLP peak Identity length (bp) (%)
+Supercontig no. (chromosome*)
+Genomic location
+Overlap with other genome scan
+5 EATA-MCAC 19 EATA-MCAC 63 EATA-MCAC
+70 93.88 111 96 211 97.06
+– 1.500 1.759
+Retrotransposon Non-coding region Hypothetical protein
+– 8 7
+None
+None Puromycin-sensitive
+94 EATA-MCAC 99 EATA-MCAC 180 EACG-MCAA
+299 100 328 100 231 100
+1.123 (1) 1.75 (1) 1.151 (2p)
+Non-coding region
+42 31 30
+Trypsin AAEL004543 (1369303 bp)
+260 EACG-MCAC
+118 100
+1.176 (1)
+Non-coding region
+17
+None
+markers (Bonin
+et al. 2009) Genome scan with TE-anchored
+360 EAGC-MCGC 394 EAGC-MCGC
+112 100
+1.714
+Non-coding region ⁄ MITE element
+9
+None
+400 EAGC-MCGC
+401 EAGC-MCGC
+276 89.92 290 100
+1.174 (3p) 1.838
+Non-coding region Non-coding region Non-coding region
+25 2 45
+None None None
+*When information is available.
+294
+100 1.5
+(2p)
+AAEL012917
+Aminopeptidase AAEL012918 (72201 bp)
+Non-coding region retrotransposons Non-coding region
+⁄
+None None
+Genome scan with TE-anchored
+markers (Bonin et al. 2009)
+
+1680 M. PARIS and L. DESPRES
+         Ó 2012 Blackwell Publishing Ltd
+Table 4 Neutrality tests for the aminopeptidase candidate gene and 11 randomly distributed AFLP sequences
+Candidate gene Aminopeptidase
+Susceptible
+22 31 24 19
+1.2563 )2.4446
+NS p<
+0.9997 NS )3.8008 P<
+1.2593 NS
+)3.9589 P< 0.02 P < 0.01
+AAEL012918
+Randomly distributed AFLP sequences
+0.01
+P < 0.01
+0.02
+P < 0.01
+AFLP fragment A AFLP fragment B AFLP fragment C AFLP fragment D AFLP fragment F AFLP fragment G AFLP fragment I AFLP fragment J AFLP fragment M AFLP fragment O AFLP fragment P
+Susceptible LiTOX Susceptible LiTOX Susceptible LiTOX Susceptible LiTOX Susceptible LiTOX Susceptible LiTOX Susceptible LiTOX Susceptible LiTOX Susceptible LiTOX Susceptible LiTOX Susceptible LiTOX
+8 4 10 2 10 8 10 7
+1.0912
+NS NS NS NS NS NS NS NS NS NS NS NS NS NS NS NS P< NS NS NS NS NS
+1.3125 NS
+1.3865 NS
+*NS after Bonferroni correction.
+Strain
+N S
+LiTOX
+8 2 10 2 8 7 10 4 10 4 10 4 10 3 10 2 10 3 10 1 10 6 10 2 10 5 10 5 10 8 10 8 10 2 10 2
+1.0330 )0.1782 0.3242 0.4142 0.0189 1.2847 1.9534 1.0483 1.2293 )0.6575 )1.4009 0.0211 )1.1117 0.0242 )1.4009 2.0906 )0.3294 0.2965 )1.2292 0.5259 0.0189
+1.0262 NS )0.0240 NS 1.2391 NS 1.1112 NS 1.0262 NS
+1.1460 NS )0.0692 NS 1.1372 NS 1.0379 NS 0.8732 NS 1.5515 NS 1.5821 NS 0.6675 NS 1.3844 NS )0.8595 NS )1.7190 NS 0.9823 NS )1.3467 NS 1.1461 NS )1.7190 NS
+Tajima’s D Value
+Fu and Li’s D*
+Value Sign. sign.
+Fu and Li’s F*
+Value Sign. sign.
+Corrected Sign. sign.
+Corrected
+Corrected
+0.05*
+)0.8049 NS )1.5866 NS 1.1542 NS )1.2434 NS 1.3461 NS )1.5866 NS 1.3001 NS 0.6381 NS
+1.6740 P< 0.05* 0.4496 NS 1.2768 NS
+1.4401 P< 1.2391 NS 0.4504 NS 1.2391 NS
+0.05*
+1.4112 P< )1.2836 NS 1.0262 NS 1.0262 NS
+0.05*
+)1.4270 NS 1.0096 NS 0.8732 NS
+
+other genome scans studies (range: 0.4–24.5%, mean: 8.5%, n = 18, reviewed in Nosil et al. 2009).
+Combining classical AFLP and 454 pyrosequencing to obtain outlier sequences
+The major challenge of AFLP-based genome scans remains the identification of the genomic regions and the genes under selection. In this study, we took advantage of the recent improvement in high-throughput sequencing technologies to get access to the sequence of 11 AFLP outliers linked to Bti resistance and to locate them in the reference genome of Aedes aegypti. Our results showed the importance of sequencing several individuals independently to ensure the correct assignation of outlier sequences. However, owing to technical limitations, three outliers were not assigned to a sequence. The first limitation was owing to some outliers being up to 469 bp in length in the AFLP profiles while the reads typically obtained with 454 pyrosequencing are less than 250 bp. New advances in nextgeneration sequencing technologies that generate reads up to 400 bp will hopefully permit the sequencing of all fragments from any AFLP profile. The second limitation arose from errors introduced by the 454 pyrosequencer when it attempted to replicate the exact length of a long polynucleotide sequences (e.g. AAAAA), leading to uncertainties over fragment lengths. Indeed, the fragment length comparison method was not sufficient to unambiguously distinguish the outlier sequence in the presence of several fragments with similar length (±2 bp). The profile reduction strategy using 12 degenerated MseI primers and allowing the sequencing of the three-first bases of outlier fragments seemed to overcome this problem. Finally, the presence of homoplasious fragments in AFLP profiles (Caballero & Quesada 2010) remains the major limitation for outlier sequencing as these fragments are composed of several sequences with identical lengths.
+Outlier locations in the genome of Aedes aegypti
+The mapping of outliers in the genome still represents a challenge in most species for which no reference genome is available. Few studies managed to obtain the sequences of some AFLP outliers in Silene plant species (Minder & Widmer 2008), in the gastropod Littorina saxatilis (Wood et al. 2008) or in the insect Ostrinia nubilalis (Midamegbe et al. 2011). However, no reference genome was available for these taxa, making it very difficult to infer the genomic distribution of AFLP outliers and hence the number of genomic regions affected by selection. The few studies that have successfully mapped outliers and analysed their distribution
+across the genome found contrasting results. In an analysis of the differentiation between the two subtaxa (M and S forms) of the mosquito species Anopheles gambiae, Turner et al. (2005) identified outliers clustering in only three genomic regions that together encompassed <2.8 Mb. On the contrary, genome scans looking for differentiation between two closely related species (ScottiSaintagne et al. 2004) or for geographic adaptation (Achere et al. 2005) revealed outliers distributed in many linkage groups. In the present study, the full genome database available for the species A. aegypti allowed the successful location of 10 out of 11 AFLP outliers in the genome. These outliers were located in 10 different supercontigs and in all three chromosomes of A. aegypti. This distribution of outliers is not surprising because the composite nature of the Bti insecticidal crystal is likely to select for multilocus resistance. First, Bti is composed of six main toxins from two families with different modes of action. These toxins can interact with different receptors in the larvae epithelial cells (Griffitts & Aroian 2005; Bravo et al. 2007). In the LiTOX strain, toxicological assays have shown that at least two distinct mechanisms have been selected for resistance against the two toxins Cry4A and Cry4B (Paris et al. 2011b). Second, many paths to resistance have already been described for each Cry toxin in Lepidoptera exposed to transgenic crops producing different Bacillus thuringiensis Cry toxins. Third, in addition to the resistance mechanism itself, other processes such as evolution of fitness cost compensatory mutations can be detected in the resistant strain. Indeed, resistance alleles selected in the LiTOX strain have strong pleiotropic effects and reduce the fitness of resistant individuals in the absence of Bti by impacting fecundity, egg survival and larval development (Paris et al. 2011a). Gradual decrease in initial fitness costs thanks to the replacement of costly alleles by cost-free alleles or to the evolution of subsequent compensatory mutations with a modifier effect has been widely observed, especially in bacteria resistant to antibiotics (Schrag et al. 1997; Andersson 2003; Andersson & Hughes 2010) and mosquitoes resistant to insecticides (Guillemaud et al. 1998; Raymond et al. 2001; Labbe et al. 2009). Compensatory mutations can evolve in any gene interfering with the pleiotropic effects of resistance (Cohan et al. 1994) and both new mutations and advantageous alleles already present in populations can decrease the resistance costs and be selected in resistant strains (Paris et al. 2008; Andersson & Hughes 2010). Owing to the high costs linked to Bti resistance, such selection of compensatory mutations is likely to be observed in the LiTOX strain.
+Two out of the 10 genomic regions detected were already identified by a genome scan based on transposable elements insertion variability (Bonin et al. 2009).
+Ó 2012 Blackwell Publishing Ltd
+AFLP GENOME SCANS FOR DETECTING ADAPTIVE GENES 1681
+
+1682 M. PARIS and L. DESPRES
+The only partial overlap in candidate regions detection performed on the same strains could be explained by the fact that the two genome scans had only limited genome coverage (436 AFLP markers and 476 TEanchored markers) and were based on two different types of markers with different genomic locations. Another explanation for a lack of overlap between genome scans based on different markers might simply be related to the lack of power of the two approaches, both based on dominant markers (Foll & Gaggiotti 2008). The two supercontigs 1.151 (chromosome 2p) and 1.176 (chromosome 1) detected by both AFLPand TEanchored outliers contain 30 and 17 genes, respectively, but 50% and 47% of these genes are annotated as unknown proteins. Indeed, unknown proteins represent about 20% of all the A. aegypti annotated genes (about 17 000 genes). The poor annotation of most published genomes is a major limitation in the search for candidate genes by genome scans.
+Candidate gene detection
+One major challenge is determining the maximum distance from the outlier sequence at which a candidate gene could be located (i.e. the extent of linkage disequilibrium within the genome of the selected strain). This distance is genome-dependent, genomic regiondependent and varies with the history of populations. In human genome, genetic diversity loss owing to selective sweeps has been detected over large regions (500 Kb) around genes under selection (Kelley et al. 2006), but the length of flanking regions affected by selective sweeps is normally more restricted. For example, this length was up to 100 Kb around the dhfr gene involved in pyrimidine resistance in the species Plasmodium falcifarum (Nair et al. 2003), or up to 10 and 20 Kb, respectively, around microsatellite outliers identified by genome scans in L. saxatilis (Wood et al. 2008) and Gasterosteus aculeatus (Makinen et al. 2008). A globally similar extent of linkage disequilibrium of 20 Kb is expected for neutral markers given the demographic history of the resistant strain, but because recombination rates are known to vary across the genome, any global rate is likely to be inaccurate for a particular region.
+Only one outlier was located close to a Bti resistance candidate gene coding for an aminopeptidase. This gene showed a nearly fixed non-synonymous change and signatures of selection in the selected strain but not in the susceptible strain, indicating that it is linked to Bti selection. Moreover, this aminopeptidase gene proved to be under selection even after taking into account the known demographic history of the selected strain. Indeed, one of the major drawbacks of classical
+neutrality tests is that they cannot distinguish between population expansion and directional selection. Furthermore, the same neutrality tests performed on 11 short and presumably neutral sequences showed no consistent signatures of positive selection. Aminopeptidases are enzymes that catalyse the cleavage of amino acids from the N-terminus of proteins and are mainly involved in digestion of proteins ingested by larvae (Taylor 1993). As regard to their role in Bti resistance, aminopeptidases can have a role in protoxin activation or degradation, but were also described as potential Cry toxin-binding receptors in several insects, including Lepidoptera (Pigott & Ellar 2007) and mosquitoes (Abdullah et al. 2006; Zhang et al. 2008; Chen et al. 2009; Likitvivatanavong et al. 2011; Saengwiman et al. 2011) and have been recently involved in Cry1Ac resistance in Helicoverpa armigera (Zhang et al. 2009). No GPI-anchored domain was detected in the sequence of the aminopeptidase AAEL012918, suggesting that it is not a membrane-bound protein. It could nevertheless be involved in toxin-binding through interaction with a membrane-bound cadherin or with membrane lipid rafts facilitating membrane insertion (Bravo et al. 2004). Further functional studies of this aminopeptidase are required to validate its role in resistance, such as studying its binding capacities to Bti toxins and the effect of the non-synonymous change identified in this study or silencing its expression through interfering RNA.
+TEs detection in genome scans
+Three out of 11 outliers (27.3%) detected in the LiTOX strain contained transposable elements (TEs). TEs represent major components of Eukaryotic genomes, and nearly half of the A. aegypti genome is composed of TEs (Nene et al. 2007). TEs have been shown to be involved in rapid adaptation to environmental changes, including resistance to insecticides (ffrench-Constant et al. 2006; Chung et al. 2007; Darboux et al. 2007). Out of the three outliers we detected containing TE, one could not be located in the genome because its flanking regions were not sequenced, and the two other were located in non-coding regions far away from annotated genes. Two of the outliers contained the same Jockey non-LTR retrotransposon, Juan A. It is a major component of A. aegypti genome, and most copies are full length and share more than 99% identity, indicating that it is an active element (Biedler & Tu 2007). Furthermore, this TE contains internal promoters and might have an impact on the regulation of genes located downstream.
+The presence of TEs in AFLP outliers seems recurrent, as TEs were also detected in AFLP outliers in
+Ó 2012 Blackwell Publishing Ltd
+
+Silene plant species (Minder & Widmer 2008) or in the gastropod L. saxatilis (Wood et al. 2008). TEs are known to have a high transposition rate. In Drosophila melanogaster, high transposition rate and up to 23 differential TE insertions were observed in independent laboratory sublines after only 40 generations in the absence of selection (Perez-Gonzalez & Eickbush 2002). MITEanchored markers revealed a much higher average differentiation between the LiTOX and the susceptible strain (FST = 0.556, Bonin et al. 2008) than randomly distributed AFLP markers used in this study (FST = 0.114), suggesting a higher transposition rate than the overall genomic mutation rate. The methods used to detect outliers are based on the hypothesis that unexpectedly high locus-specific FST between the selected and susceptible strains are owing to selection acting on these loci. However, mutation is also a locus-specific evolutionary force, and heterogeneity of mutation rates among the molecular markers used in genome scans can generate false positives. General conclusions about the contribution of TEs in adaptation based on genome scans have to be taken with caution when only outlier sequences are available. Further studies on the precise location of transposable elements in the genome and their impact on genes (regulation, protein change) need to be performed.
+Conclusion
+This study demonstrates the power of combining AFLP genome scans with 454 sequencing to detect and characterize genomic regions and candidate genes potentially under selection. One candidate gene for Bti resistance was detected by this method and sequence variability of this gene showed significant deviation from neutrality in the resistant strain but not in the susceptible strain, even after controlling for demography. This gene is a promising candidate for functional analysis of its role in Bti resistance. No candidate genes for Bti resistance were located in the other genomic regions detected as being under selection. Possible explanations include the poor annotation of the Aedes aegypti genome, and the list of candidate genes limited to the mechanisms so far described in lepidopterans. More intensive genome scans or QTL approaches with markers targeting these regions could help to precisely identify genes under selection and potentially new resistance mechanisms. Bti is the most effective biological control agent currently available against mosquitoes, and a better understanding of the mechanisms involved in Bti resistance is essential to ensure its long-term efficiency. This work will contribute to the development of molecular tools to monitor and early detect resistance in natural mosquito populations.
+Acknowledgements
+This study was supported by a grant from the Re ́ gion Rhoˆ ne-Alpes (grants #0501545401) and by the French National Research Agency (grant ANR-08-CES-006-01 DIBBECO). We are grateful to J. Patouraux, S. Veyrenc, A. Valentini, C. Miquel, E. Coissac, L. Gielly, D. Rioux for technical help and to Aure ́lie Bonin and Jean-Philippe David for critical reading of the manuscript.
+References
+Ó 2012 Blackwell Publishing Ltd
+AFLP GENOME SCANS FOR DETECTING ADAPTIVE GENES 1683
+
+1686 M. PARIS and L. DESPRES
+ M.P. performed this study during her PhD on insecticide resistance in mosquitoes at LECA, France. She is now a post-doc in Zurich, and is interested in population genetics, molecular adaptation and evolution. L.D is a Professor at University of Grenoble. Her main research interests are in adaptive patterns in natural populations and underlying evolutionary processes.
+Data accessibility
+Aminopeptidase sequences: GenBank accessions JQ319006– JQ319028.
+AFLP profiles and 454 sequences: DRYAD entry doi:10.5061/ dryad.344852tm.
+Supporting information
+Additional supporting information may be found in the online version of this article.
+Table S1 Sequences of primers used for classical AFLPs, profile reduction analyses and candidate gene sequencing.
+Table S2 Demographic history of the Aedes aegypti Bti-resistant strain.
+Table S3 Blast results and outlier location in the A. aegypti genome.
+Table S4 DNA variation and divergence at sequenced loci.
+Fig. S1 A, plot of FST values against heterozygosity estimates obtained with Dfdist. Each dot indicates an AFLP marker and lines represent the 95% confidence interval. B, plot of FST values against logit of posterior probabilities obtained with BayeScan. C, plot of logit of posterior probabilities from BayeScan against logit of empirical P-values from Dfdist. Outliers are indicated in red.
+Please note: Wiley-Blackwell are not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+ Ó 2012 Blackwell Publishing Ltd

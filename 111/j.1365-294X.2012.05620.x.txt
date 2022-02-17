@@ -1,0 +1,418 @@
+   Molecular Ecology (2012) doi: 10.1111/j.1365-294X.2012.05620.x
+Invasion facilitates hybridization with introgression in the Rattus rattus species complex
+JUSTIN B. LACK,* DANIEL U. GREENE,† CHRIS JOHN CONROY,‡ MEREDITH J. HAMILTON,* JANET K. BRAUN,§ MICHAEL A. MARES§– and RONALD A. VAN DEN BUSSCHE*
+*Department of Zoology, 501 Life Sciences West, Oklahoma State University, Stillwater, OK 74078, USA, †Florida Fish and Wildlife Conservation Commission, Panama City, FL 32404, USA, ‡Museum of Vertebrate Zoology, University of California, Berkley, CA, USA, §Sam Noble Museum, University of Oklahoma, Norman, OK 73072, USA, –Department of Zoology, University of Oklahoma, Norman, OK 73072, USA
+Abstract
+Biological invasions result in novel species interactions, which can have significant evolutionary impacts on both native and invading taxa. One evolutionary concern with invasions is hybridization among lineages that were previously isolated, but make secondary contact in their invaded range(s). Black rats, consisting of several morphologically very similar but genetically distinct taxa that collectively have invaded six continents, are arguably the most successful mammalian invaders on the planet. We used mitochondrial cytochrome b sequences, two nuclear gene sequences (Atp5a1 and DHFR) and nine microsatellite loci to examine the distribution of three invasive black rat lineages (Rattus tanezumi, Rattus rattus I and R. rattus IV) in the United States and Asia and to determine the extent of hybridization among these taxa. Our analyses revealed two mitochondrial lineages that have spread to multiple continents, including a previously undiscovered population of R. tanezumi in the south-eastern United States, whereas the third lineage (R. rattus IV) appears to be confined to Southeast Asia. Analyses of nuclear DNA (both sequences and microsatellites) suggested significant hybridization is occurring among R. tanezumi and R. rattus I in the United States and also suggest hybridization between R. tanezumi and R. rattus IV in Asia, although further sampling of the latter species pair in Asia is required. Furthermore, microsatellite analyses suggest unidirectional introgression from both R. rattus I and R. rattus IV into R. tanezumi. Within the United States, introgression appears to be occurring to such a pronounced extent that we were unable to detect any nuclear genetic signal for R. tanezumi, and a similar pattern was detected in Asia.
+Keywords: hybridization, invasive species, population genetics – empirical, species interactions Received 15 January 2012; revision received 30 March 2012; accepted 7 April 2012
+Introduction
+Traditional dogma has held that hybridization is evolutionarily significant for plants and microbes, but less important in the evolution of animals. However, examples of hybridization and introgression among vertebrates are increasing, and introgression has been suggested as a major contributor to evolutionary innovation in animals (Seehausen 2004; Mallet 2007). Examples
+Correspondence: Justin B. Lack, Fax: 405 744 7824; E-mail: justin.lack@okstate.edu
+even exist of hybrid speciation in extant mammalian taxa (Larsen et al. 2010), and as comparative genomescale analyses become more common for nonmodel organisms, additional examples will likely be discovered. In addition, complex patterns of hybridization among multiple species, where gene flow is indirectly occurring through an intermediate species, are illuminating novel mechanisms by which genetic material crosses species boundaries (McDonald et al. 2008; Nevado et al. 2011). This suggests that restricting analyses of hybridization and introgression to pairs of sister taxa—as is intuitive and most common—may underestimate the
+Ó 2012 Blackwell Publishing Ltd
+
+2 J. B. LACK ET AL.
+frequency of interspecific gene flow and its significance in evolution; expanding analyses to species groups will result in a more complete understanding of interspecific gene flow and its role in evolution.
+In addition to acting as a source of evolutionary innovation, hybridization can also lead to genetic homogenization and even extinction (Rhymer & Simberloff 1996; Mooney & Cleland 2001; Wolf et al. 2001; Olden et al. 2004). As human alteration of natural habitats has become pervasive, biotic homogenization is an obvious issue from environmental and ecological perspectives, and the genetic consequences of homogenization can be significant, where invading organisms hybridize with native taxa (as well as other invaders) potentially resulting in the complete swamping out of the native taxon’s genome. For vertebrates, most examples of this phenomenon are known in fish, where external fertilization and weak reproductive isolating mechanisms place relatively reduced limits on reproductive compatibility (Hubbs 1955). For mammals, genetic swamping through hybridization is relatively rare, but documented examples exist (e.g. Sitka deer and red deer in Great Britain, Abernethy 1994; domestic ⁄ feral cats and wildcats, Hubbard et al. 1992; coyotes, feral dogs, and multiple canid species, Butler 1994; Hope 1994). However, these are typically geographically localized interactions between a single invader and an already rare native species, which facilitates hybridization and genetic swamping owing to the decreased frequency of conspecific mating encounters for the rarer species. Much less common are examples of genetic swamping among species complexes at a global scale, but with the rapid increase in the frequency and geographic dispersion of invasive species owing to a multitude of factors ranging from increasingly complex and voluminous human transportation mechanisms to large-scale habitat modification, examples may exist but remain to be discovered.
+Rattus are arguably the most costly and destructive invasive species on earth. In terms of effects on native diversity, Rattus have had severe negative impacts on essentially every habitat they have invaded. Of the approximately 123 island groups worldwide, roughly 82% have been invaded by Rattus norvegicus, Rattus rattus and ⁄ or Rattus exulans (Courchamp et al. 2003), and reports have estimated that introduced rats have been responsible for 40–60% of all bird and reptile extinctions since 1600 (Island Conservation 2006). In addition, Rattus are known to spread many zoonoses including bubonic plague, murine typhus, rat-bite fever, Salmonella food poisoning, leptospirosis, listeriosis, chagas, trichinosis, tularaemia and schistosomiasis (Gratz 1984). Over the last millennium, rat-borne pathogens are estimated to have killed more people than all wars and revolutions combined (Nowak 1999; Meerburg
+et al. 2009). Based on estimates for the United States in 2000, invasive rats are responsible for approximately 19 billion dollars in annual economic loss (nearly 15% of the total annual cost of all invasive species combined for the United States) through the transmission of disease, structural damage to buildings and contamination and destruction of food supplies (Pimentel et al. 2000).
+Although multiple species of Rattus have been successful invaders, the black rats (Rattus rattus species group) have been particularly successful, spreading to six continents (only excluding Antarctica) through its commensal relationship with humans (Nowak 1999; Musser & Carleton 2005). The taxonomic history of this species group is complex (Robins et al. 2007; Pages et al. 2010; Aplin et al. 2011). Initial chromosomal analyses suggested the existence of two species within the Rattus rattus species group, with a globally dispersed ‘ship rat’ species (R. rattus) possessing a karyotype of 2n = 38–40, and a more geographically restricted Asian species (Rattus tanezumi) possessing a karyotype of 2n = 42 (Braverstock et al. 1983). Subsequent mitochondrial DNA (mtDNA) analyses indicated that this two-species classification was an oversimplification and that the R. rattus group potentially consisted of six distinct species with at least four of these taxa having a commensal relationship with humans and invading beyond their native range (Robins et al. 2007; Pages et al. 2010; Aplin et al. 2011). Moreover, the four commensal lineages exhibit statistically supported paraphyly in a mtDNA phylogenetic analysis, but morphologically are difficult to distinguish from one another, although a range-wide morphometric analysis is lacking (Aplin et al. 2011). As an additional layer of complexity, analysis of a single nuclear locus for individuals from Japan (Chinen et al. 2005) and the existence of intermediate karyotypes (Yosida 1980) confirmed that hybridization occurs between at least two of the mtDNA lineages, but it is unclear whether hybridization is geographically widespread and ⁄ or is accompanied by genetic introgression.
+We utilized mtDNA and nuclear DNA analyses to (i) identify the black rat mtDNA lineages that have invaded the United States, where invasive Rattus are geographically widespread and numerous; (ii) examine the geographic and genomic extent as well as the directionality of hybridization among any detected members of the R. rattus species group within the United States and Asia; and (iii) determine the extent to which hybridization among mtDNA lineages is leading to genetic introgression. We identify multiple populations of both R. tanezumi and R. rattus in the United States, including a novel locality for R. tanezumi in Florida, and sample three species lineages globally. Extensive hybridization is occurring between R. tanezumi and each of the R. rattus lineages present at three sympatric localities.
+Ó 2012 Blackwell Publishing Ltd
+
+Finally, we suggest genetic introgression is unidirectional, with both R. rattus and the unnamed Rattus lineage swamping out the R. tanezumi nuclear genome at all localities where these species co-occur. This represents the first instance where hybridization among multiple members of a species complex as a result of humanaided dispersal has occurred at a global scale, potentially leading to widespread genomic extinction.
+Materials and methods
+Taxon sampling
+We attempted to sample three of the four commensal putative species lineages identified in previous mtDNA studies by targeting localities where these lineages have been previously documented (Aplin et al. 2011). For R. rattus (the globally distributed ‘ship rat’; Lineage I in Aplin et al. 2011 and referred to as R. rattus I henceforth), all global localities where Rattus species have been collected represent potential members of this lineage. This species likely originated in India and spread across the globe primarily through human-aided dispersal. We focused on the United States, where all specimens collected and obtained from museum collections are typically assumed to be a member of this lineage; however, any collected specimen identified morphologically as R. rattus is potentially a member of this lineage. For R. tanezumi (Lineage II in Aplin et al. 2011 and referred to as R. tanezumi henceforth), this species is likely native to the SE Asia mainland and, through human-mediated dispersal, it (or at least its mtDNA genome) has spread to Japan, Malaysia, Indonesia, the Philippines and New Guinea, as well as to South Africa and the San Francisco Bay area of California (Aplin et al. 2011; Bastos et al. 2011; Conroy et al. In Review). Through collecting efforts and museum loans, we were able to obtain tissues from the Philippines, Vietnam and California populations. To target a third unnamed and widespread species lineage (Lineage IV in Aplin et al. 2011 and referred to as R. rattus IV henceforth), we obtained individuals from the Philippines, where this lineage has spread via human transport from its native range on the SE Asia mainland. A complete list of collected individuals, sampling localities and source museum collections is given in Table S1 (Supporting information). Total DNA was extracted from either liver or muscle using the Qiagen DNeasy kit following the manufacturer’s protocol.
+MtDNA sequence generation and analyses
+The complete mitochondrial cytochrome b gene
+(1140 bp) was amplified using primers (RattusCytbF Ó 2012 Blackwell Publishing Ltd
+5¢-TGACATGAAAAATCATCGTTGTAAT-3¢; RattusCytbR 5¢-GGTTTACAAGACCAGAGTAAT-3¢) designed from an alignment of the complete mtDNA genome sequences of R. rattus (NC012374), Rattus norvegicus (AY769440), R. tanezumi (NC011638) and Mus musculus (NC006915) obtained from GenBank. PCR amplifications were carried out in 30-lL reactions containing 200–500 ng of DNA, 0.12 lL of 5 U ⁄ lL GoTaq Flexi DNA polymerase, 0.50 lL of each 10 lM primer, 2.4 lL bovine serum albumin (0.01 g ⁄ mL), 2.4 lL of 25 lM MgCl2, 6.0 lL 5· Green GoTaq Flexi Buffer, 4.2 lL of a 10 lM nucleotide mixture and 8.88 lL of double distilled water (ddH2O). The thermal profile consisted of an initial denaturation of 94 °C for 4 min, followed by 35cyclesof94°C,42and72°Cfor1mineach.Afinal elongation at 72 °C for 7 min ensured all reactions went to completion. Double-stranded products were purified using the Wizard SV Gel and PCR Clean-Up System (Promega Corporation, Madison, WI, USA).
+Both strands of the purified PCR products were sequenced using BigDye chain terminators following the manufacturer’s protocol (Applied Biosystems) using the PCR amplification primers as well as two internal primers (RattusCytbIntF 5¢-GGCTTCTCAGTAGACAA AGC-3¢; RattusCytbIntR 5¢-TTTGATCCTGTTTCGTGG AGGAA-3¢) designed using the mtDNA genome alignment generated previously. DNA sequencing reactions were electrophoresed on a 3130 Genetic Analyzer (Applied Biosystems). Contigs were assembled and edited using Geneious v 5.5 (Drummond et al. 2010).
+In addition to the complete cytochrome b sequences generated previously, we obtained all available Rattus cytochrome b sequences from GenBank (a complete list of sequences, sampling localities, and accession numbers is available in Tables S1 and S2, Supporting information), resulting in 631 cytochrome b sequences. Sequences were aligned using the GENEIOUS v5.5 aligner (Drummond et al. 2010) and edited using MacClade v4.08 (Maddison & Maddison 2000). We included sequences from all available Rattus species to aid in species identification (and validate field identifications), because many species of Rattus are extremely difficult to differentiate based on morphology, and a phylogenetic approach has been shown to be an effective method of species identification (Robins et al. 2007). The sequences obtained from GenBank ranged from 713 base pairs to the complete 1140 base pairs. Initial phylogenetic analyses were conducted on both the full-length sequences only and the total data set, and results were identical concerning clade assignment and support and consistent with previous mtDNA analyses (Robins et al. 2007; Aplin et al. 2011). Therefore, subsequent mtDNA analyses included all sequences and only these results are presented.
+INVASION FACILITATES HYBRIDIZATION 3
+
+4 J. B. LACK ET AL.
+To generate a total phylogeny of all collected and downloaded Rattus cytochrome b sequences, we conducted a Bayesian phylogenetic analysis in MrBayes with the alignment partitioned by codon position and utilizing the HKY + I + C substitution model, which was indicated to be the best-fit model by AIC implemented in jModeltest (Posada 2008). Complete cytochrome b sequences for Mus musculus musculus (AY057804) and M. musculus castaneus (AY057805) were used as outgroups, and the analysis was run for 15 000 000 generations sampling every 1000 generations, resulting in a posterior sample of 15 000 phylogenies. The Bayesian analysis was checked for sufficient mixing and stable convergence on a unimodal posterior for all parameters using TRACER v1.5 (Drummond & Rambaut 2003). Burn-in was determined empirically by evaluating likelihood scores. The analysis reached stationarity at approximately 1200 sampled phylogenies, so we conservatively discarded 2000 phylogenies as burn-in. For each of the three R. rattus species group lineages recovered in the total mtDNA phylogeny (Fig. 1), we generated haplotype networks using TCS (Clement et al. 2000).
+Nuclear sequence generation and analysis
+For a subset of individuals, we sequenced two unlinked nuclear loci (Atp5a1 and DHFR) previously useful in resolving phylogenetic relationships within Rattus (Rowe et al. 2011). From localities where R. tanezumi [four localities; San Francisco Bay, CA (29 individuals), Panama City, FL (31), the Philippines (22) and Vietnam (8)] or the unnamed species lineage (one locality; the Philippines) were detected based on mtDNA sequence, we attempted to sequence both nuclear loci from all individuals, regardless of mtDNA species identity; however, we were unable to successfully amplify both loci from several individuals (see Table S1, Supporting information for a list of sample sizes from each locality for each locus). In addition, we sequenced the two nuclear loci for individuals from several U.S. localities where only R. rattus was detected [Gainesville, FL (15 individuals) and Key Largo, FL (10 individuals)].
+PCR amplification primers for both loci are given in Rowe et al. (2011). PCR recipes were identical for both loci and carried out in 30-lL reactions containing 200– 500 ng of DNA, 0.12 lL of 5 U⁄lL GoTaq Flexi DNA polymerase, 0.50 lL of each 10 lM primer, 2.4 lL bovine serum albumin (0.01 g ⁄ mL), 2.4 lL of 25 lM MgCl2, 6.0 lL 5· Green GoTaq Flexi Buffer, 4.2 lL of a 10 lM nucleotide mixture and 8.88 lL of double distilled water (ddH2O). The thermal profile was also the same for both nuclear loci, and consisted of an initial
+denaturation of 94 °C for 5 min, followed by 35 cycles of 94°C for 30s, 50°C for 1min and 72°C for 1min 30 s. A final elongation at 72 °C for 10 min ensured all reactions went to completion. Double-stranded products were purified using the Wizard SV Gel and PCR CleanUp System (Promega Corporation). Both strands of the purified PCR products were sequenced using BigDye
+                                                                                 R. tanezumi
+                                     1.0
+                                                                                                        1.0
+                                  R. rattus I
+                                       1.0
+          0.96
+                     R. ratus IV
+                                                               1.0
+           0.5
+Fig. 1 Consensus Bayesian phylogram with the Rattus tanezumi (green), Rattus rattus I (blue) and R. rattus IV (red) clades shown and all other taxa pruned off. The numbers at major nodes are Bayesian posterior probabilities. See Tables S1 and S2 (Supporting information) for the list of samples included in each analysis, and the complete phylogeny with all node and terminal taxon labels is available in Fig. S1.
+Ó 2012 Blackwell Publishing Ltd
+
+chain terminators following the manufacturer’s protocol (Applied Biosystems, Inc., Foster City, CA, USA) using only the PCR amplification primers, producing approximately 900 base pairs of high-quality bidirectional sequence from the original approximately 1100 base pair amplicons.
+For each nuclear locus, we conducted a maximum likelihood (ML) phylogenetic analysis in PAUP* (Swofford 2003). The most appropriate model of nucleotide substitution for each locus was determined using AIC in jModeltest (Posada 2008), followed by a tree search using 25 replicates of nearest neighbour interchange branch swapping and random addition of taxa. For each locus, we used two R. fuscipes individuals as outgroups (GenBank accession numbers: HQ334330 and HQ334331 for ATP5A1, HQ334805 and HQ334811 for DHFR). This analysis was used to identify the most probable relationship among sequences, with the expectation that the mtDNA and nuclear gene trees would be largely congruent in the absence of gene flow. However, owing to the relatively close relationship among the species examined here, it is possible that incongruence is a result of incomplete lineage sorting (Maddison 1997). Because lineage sorting is a stochastic process, we would expect similar estimates of gene flow for pairwise comparisons of sympatric and allopatric populations of different species (e.g. Grant et al. 2005; Nevado et al. 2011). In contrast, if gene flow has occurred among previously isolated lineages, we would expect estimates of gene flow among species to correlate geographically, with the highest amount of gene flow among sympatric populations. To test this hypothesis for the sampled mtDNA lineages, we used the Bayesian coalescent approach implemented in Migraten v3.2.16 (Beerli & Felsenstein 1999; Beerli 2006), which generates pairwise estimations of bidirectional gene flow. One assumption of Migrate-n is the absence of intralocus recombination. We tested for recombination events within the alignment for each locus using the GARD test (Kosakovsky Pond et al. 2006) implemented in HyPhy (Kosakovsky Pond et al. 2005), and no recombination breakpoints were detected for either locus. Preliminary runs in Migrate-n (100000 burn-in steps followed by 100 000 steps sampled every 100 steps) were conducted for each pairwise comparison to establish upper and lower bounds for parameter prior distributions. In the full-length analyses, each pairwise estimation of gene flow among populations was estimated three times independently by conducting 200 000 burn-in steps followed by 1 000 000 steps sampled every 100 steps. Convergence for migration estimates was checked by examining the posterior distribution for each parameter using TRACER v1.5, as well as by comparing posterior estimates between duplicate runs.
+INVASION FACILITATES HYBRIDIZATION 5 Microsatellite data generation and analyses
+Because the nuclear loci we sequenced are gene regions, it is possible that their patterns of introgression may be affected by natural selection and do not accurately reflect patterns of hybridization. To provide neutral (or approximately neutral) estimates of population and interspecific divergence and gene flow, we genotyped all individuals collected in the United States, the Philippines and Vietnam (253 individuals from 16 populations; see Table S1, Supporting information for the detailed list of individuals and localities) at nine microsatellite loci (loci names and primers given in Table S3). Microsatellites were amplified by PCR in 15-lL reactions containing 9lL of True Allele PCR Premix (Applied Biosystems, Inc.), 4 lL ddH2O, 0.5 lL of each primer (10 lM), and 1 lL template DNA with the following conditions: an initial denaturation of 95 °C for 12min, 35 cycles of 94°C for 40s, 57°C for 40 s and 72 °C for 30 s; and a final elongation of 72 °C for 4 min. Then, 0.5 lL of product was added to 9.5 lL of loading mix containing a size standard (ROX 400HD; Applied Biosystems, Inc.), and this mixture was analysed using an ABI 3130 Genetic Analyzer and GeneMapper 3.7 to visualize microsatellite alleles and determine genotypes. All genotypes were scored twice, and anonymously randomized for the second scoring to ensure no bias was present in the final dataset.
+GENEPOP v4.0 (Raymond & Rousset 1995) was used to test for deviations from Hardy–Weinberg equilibrium (HWE) by conducting global heterozygosity excess and deficit tests for each locality and species. Each test was run for 10 000 dememorization steps followed by 100 batches of 5000 steps each. Additionally, we used Genepop to conduct a composite linkage disequilibrium test (Weir 1996). Significance was assessed with the same MCMC settings as was used for the heterozygosity tests. We used STRUCTURE v2.3 (Pritchard et al. 2000) to test the groups recovered in the mtDNA phylogenetic analysis (Fig. 1) and to identify the optimal number of clusters in our data. In the absence of introgression, we would expect microsatellite clusters generated at K = 3 to match the three clades recovered in the mtDNA phylogenetic analysis. For each value of K (we ran the analysis at K from 1 to 16), we ran five independent analyses of 500 000 generations following 250 000 generations of burn-in under the admixture model and with the assumption that allele frequencies among populations are correlated. Convergence was checked by plotting likelihoods throughout the run and comparing likelihood values and population assignments between duplicate runs. We calculated the optimal number of clusters for our data using the DK statistic (Evanno et al. 2005).
+Ó 2012 Blackwell Publishing Ltd
+
+ 6 J. B. LACK ET AL.
+In addition to clustering analyses, we attempted to use Migrate-n to calculate pairwise migration rates among sympatric and allopatric populations of our three species, as was conducted for the nuclear sequence data above. This analysis employed a Brownian motion approximation of the ladder (stepwise) mutation model. Preliminary runs (100 000 burn-in steps followed by 100 000 steps sampled every 100 steps) were conducted for each pairwise comparison to establish upper and lower bounds for parameter prior distributions. In the full-length analyses, each pairwise estimation of gene flow among populations was estimated twice independently by conducting 500 000 burn-in steps followed by 5 000 000 steps sampled every 100 steps. Convergence for migration estimates was checked by examining the posterior distribution for each parameter using TRACER v1.5 as well as by comparing posterior estimates between duplicate runs.
+Results
+MtDNA analyses
+Cytochrome b sequences were generated for 272 putative black rats. The Bayesian phylogenetic analysis of cytochrome b placed all of the sampled R. rattus in three distinct and statistically supported clades (Fig. 1; the complete mtDNA phylogeny is provided in Fig. S1, Supporting information as a Newick tree file) corresponding to lineages I, II and IV from Aplin et al. (2011). With the exception of a subset of individuals from the San Francisco Bay, CA and Panama City, FL,
+all individuals collected from the United States belonged to the R. rattus I clade (highlighted in blue in Fig. 1). The Panama City, FL population represents only the second documented population of R. tanezumi in the United States. From this population, 27 of 31 individuals collected clustered into the R. tanezumi clade (highlighted in green in Fig. 1), and all of these individuals had the same mtDNA haplotype. The phylogenetic analysis placed the remaining four individuals from that locality in the R. rattus I clade. The individuals collected from the Philippines fell into two clades in the mtDNA phylogenetic analysis, with the majority (42 individuals) found in the R. rattus IV clade (highlighted in red in Fig. 1), and the six remaining individuals nested within the R. tanezumi clade. Finally, all tissues obtained from Vietnam clustered into the R. tanezumi clade.
+For the network analyses, the R. tanezumi clade consisted of 38 unique haplotypes. The three unique California R. tanezumi haplotypes were either shared with eastern Asian localities or differed by only a single mutation from eastern Asian haplotypes and were far removed from both the South African and Florida R. tanezumi haplotypes (Fig. 2). The single R. tanezumi haplotype recovered from Panama City, FL is relatively isolated in the haplotype network, differing by five mutations from a Vietnamese haplotype and an Indonesian haplotype and was nine mutations removed from the most common South African haplotype. The four R. tanezumi haplotypes recovered from the Philippines were not shared outside of the Philippines and formed a closely related terminal cluster that also contained two of the three California R. tanezumi haplotypes.
+R. tanezumi
+R. rattus I
+R. rattus IV
+Fig. 2 Statistical parsimony haplotype networks generated from cytochrome b sequences for the Rattus tanezumi, Rattus rattus I and R. rattus IV clades identified in the mtDNA phylogenetic analysis (Fig. 1). Coloured nodes on the haplotype networks correspond to individual sampled haplotypes, and the size of the circle corresponds to the frequency of the haplotype. The colour and size of the pie for each haplotype corresponds to the sampling locality indicated in the global map by a coloured dot and the frequency of that haplotype at that locality, respectively. The small black nodes represent extinct or unsampled haplotypes, and each uninterrupted straight line (independent of line length) corresponds to a single mutational step.
+Ó 2012 Blackwell Publishing Ltd
+
+Relative to the R. tanezumi and R. rattus IV haplotype networks, the 55 haplotypes recovered for R. rattus I formed multiple very closely related clusters with some geographic structure (Fig. 2). With the exception of two haplotypes recovered from Key Largo, FL, all U.S. haplotypes (as well as Caribbean, Mexican, Central American, and South American haplotypes) formed a tight cluster around two globally distributed haplotypes. This cluster of haplotypes was largely isolated to the western hemisphere. The two divergent haplotypes detected in Key Largo, FL, were nested within a cluster of African and Asian haplotypes. In addition, three haplotypes detected in southern Africa were nested within the western hemisphere cluster of haplotypes.
+The R. rattus IV haplotype network consisted of 29 unique haplotypes isolated to eastern Asia (Fig. 2).
+Relative to the R. tanezumi and R. rattus I haplotype networks, the R. rattus IV network exhibited considerable divergence among haplotypes, but without any clear geographic associations. For the Philippines (and R. rattus IV in general), haplotypes were highly divergent from one another, and all but one of these haplotypes was isolated to the Philippines. The single shared haplotype was recovered from Malaysia, Indonesia and Vietnam in addition to the Philippines.
+Nuclear sequence analyses
+For both Atp5a1 and DHFR, the ML gene tree differed significantly from the mtDNA topology (Fig. 3). Identical sequences for each locus were recovered in individuals from multiple mtDNA clades, suggesting
+INVASION FACILITATES HYBRIDIZATION 7
+ (a)
+MVZ226367 San Francisco Bay, CA, USA MVZ226379 San Francisco Bay, CA, USA Florida 15 Panama City, FL, USA
+MVZ226385 San Francisco Bay, CA, USA
+MVZ226386 San Francisco Bay, CA, USA
+MVZ226381 San Francisco Bay, CA, USA MVZ226384 San Francisco Bay, CA, USA
+MVZ226366 San Francisco Bay, CA, USA MVZ226382 San Francisco Bay, CA, USA
+Florida 13 Panama City, FL, USA
+MVZ226369 San Francisco Bay, CA, USA
+Florida 14 Panama City, CA, USA
+MVZ225267 San Francisco Bay, CA, USA
+Florida 18 Panama City, FL, USA
+Florida 21 Panama City, FL, USA
+Florida 12 Panama City, FL, USA
+Florida 24 Panama City, FL, USA
+Florida 26 Panama City, FL, USA
+Florida 29 Panama City, FL, USA
+Florida 30 Panama City, FL, USA MVZ216799 San Francisco Bay, CA, USA
+Florida 17 Key Largo, FL, USA Florida 25 Key Largo, FL, USA RrFL12 Key Largo, FL, USA
+Florida 27 Key Largo, FL, USA
+RrFL13 Key Largo, FL, USA
+Florida 22 Panama City, FL, USA
+Florida 20 Key Largo, FL, USA
+Florida 23 Key Largo, FL, USA MVZ208904 San Francisco Bay, CA, USA MVZ208918 San Francisco Bay, CA, USA MVZ216790 San Francisco Bay, CA, USA MVZ219647 San Francisco Bay, CA, USA MVZ220308 San Francisco Bay, CA, USA MVZ220309 San Francisco Bay, CA, USA MVZ220318 San Francisco Bay, CA, USA OK11851 Gainesville, FL, USA
+OK11852 Gainesville, FL, USA
+OK11853 Gainesville, FL, USA
+OK11854 Gainesville, FL, USA
+OK11856 Gainesville, FL, USA
+OK11857 Gainesville, FL, USA
+OK11858 Gainesville, FL, USA
+OK11874 Gainesville, FL, USA
+RrFL1 Panama City, FL, USA
+OK11862 Gainesville, FL, USA
+RrFL10 Key Largo, FL, USA
+RrFL11 Key Largo, FL, USA
+RrFL4 Panama City, FL, USA
+RrFL3 Panama City, FL, USA
+OK11860 Gainesville, FL, USA
+RrFL5 Panama City, FL, USA
+RrFL8 Panama City, FL, USA
+RrFL9 Key Largo, FL, USA
+MVZ216791 San Francisco Bay, CA, USA
+TK160564 San Francisco Bay, CA, USA TK160566 San Francisco Bay, CA, USA TK160567 San Francisco Bay, CA, USA
+TK160565 San Francisco Bay, CA, USA TK160573 San Francisco Bay, CA, USA MVZ225257 San Francisco Bay, CA, USA RrFL2 Panama City, FL, USA
+MVZ226380 San Francisco Bay, CA, USA TK160569 San Francisco Bay, CA, USA TK160570 San Francisco Bay, CA, USA
+TK160571 San Francisco Bay, CA, USA
+(b)
+MVZ216791 San Francisco Bay, CA, USA
+MVZ226381 San Francisco Bay, CA, USA
+MVZ226367 San Francisco Bay, CA, USA MVZ226379 San Francisco Bay, CA, USA
+MVZ226380 San Francisco Bay, CA, USA
+TK160571 San Francisco Bay, CA, USA MVZ226385 San Francisco Bay, CA, USA VZ226386 San Francisco Bay, CA, USA MVZ226384 San Francisco Bay, CA, USA MVZ226382 San Francisco Bay, CA, USA MVZ226369 San Francisco Bay, CA, USA
+Florida 14 Panama City, CA, USA
+Florida 16 Panama City, FL, USA
+Florida 18 Panama City, FL, USA Florida 19 Panama City, FL, USA RrFL1 Panama City, FL, USA
+Florida 22 Panama City, FL, USA Florida 26 Panama City, FL, USA Florida 29 Panama City, FL, USA lorida 30 Panama City, FL, USA
+VZ216799 San Francisco Bay, CA, USA
+Florida 12 Panama City, FL, USA Florida 15 Panama City, FL, USA
+OK11852 Gainesville, FL, USA
+OK11857 Gainesville, FL, USA
+                      Florida 17 Key Largo, FL, USA
+Florida 20 Key Largo, FL, USA
+RrFL10 Key Largo, FL, USA
+RrFL13 Key Largo, FL, USA TK160566 San Francisco Bay, CA, USA TK160567 San Francisco Bay, CA, USA
+Florida 23 Key Largo, FL, USA
+Florida 24 Panama City, FL, USA
+Florida 25 Key Largo, FL, USA
+Florida 27 Key Largo, FL, USA
+Florida 28 Panama City, FL, USA MVZ208918 San Francisco Bay, CA, USA MVZ216790 San Francisco Bay, CA, USA MVZ219647 San Francisco Bay, CA, USA MVZ220309 San Francisco Bay, CA, USA MVZ220318 San Francisco Bay, CA, USA RrFL11 Key Largo, FL, USA
+RrFL12 Key Largo, FL, USA
+RrFL2 Panama City, FL, USA
+RrFL9 Key Largo, FL, USA
+TK160564 San Francisco Bay, CA, USA TK160565 San Francisco Bay, CA, USA TK160568 San Francisco Bay, CA, USA TK160569 San Francisco Bay, CA, USA TK160570 San Francisco Bay, CA, USA TK160572 San Francisco Bay, CA, USA TK160573 San Francisco Bay, CA, USA Florida 13 Panama City, FL, USA
+Florida 21 Panama City, FL, USA OK11860 Gainesville, FL, USA
+OK11862 Gainesville, FL, USA MVZ225267 San Francisco Bay, CA, USA
+FMNH147778 Philippines
+FMNH188366 Philippines FMNH188415 Philippines FMNH188422 Philippines FMNH188423 Philippines FMNH188485 Philippines FMNH193813 Philippines FMNH198781 Philippines FMNH198782 Philippines
+FMNH198769 Philippines FMNH203291 Philippines
+OK11858 Gainesville, FL, USA
+                                 FMNH147776 Philippines MVZ186529 Vietnam
+MVZ226366 San Francisco Bay, CA, USA MVZ220308 San Francisco Bay, CA, USA
+OK11851 Gainesville, FL, USA OK11853 Gainesville, FL, USA OK11854 Gainesville, FL, USA OK11856 Gainesville, FL, USA OK11874 Gainesville, FL, USA RrFL4 Panama City, FL, USA
+RrFL3 Panama City, FL, USA
+RrFL5 Panama City, FL, USA
+RrFL8 Panama City, FL, USA
+FMNH137032 Philippines FMNH137034 Philippines
+     FMNH147778 Philippines
+Florida 16 Panama City, FL, USA
+Florida 19 Panama City, FL, USA
+FMNH137033 Philippines FMNH145705 Philippines
+     Florida 28 Panama City, FL, USA
+     FMNH203291 Philippines
+FMNH178427 Philippines FMNH178428 Philippines FMNH188415 Philippines
+FMNH188422 Philippines
+FMNH193813 Philippines FMNH188423 Philippines
+MVZ186535 Vietnam
+TK160568 San Francisco Bay, CA, USA TK160572 San Francisco Bay, CA, USA
+MVZ186530 Vietnam MVZ186541 Vietnam MVZ186531 Vietnam
+FMNH178427 Philippines
+FMNH147776 Philippines
+                      MVZ186525 Vietnam
+MVZ186540 Vietnam
+FMNH198782 Philippines
+FMNH188485 Philippines
+FMNH178425 Philippines
+FMNH188366 Philippines
+MVZ186532 Vietnam
+MVZ186538 Vietnam
+MVZ186527 Vietnam
+FMNH147777 Philippines
+MVZ186526 Vietnam MVZ186539 Vietnam
+FMNH198769 Philippines FMNH198781 Philippines
+MVZ208904 San Francisco Bay, CA, USA
+FMNH178428 Philippines VZ186530 Vietnam
+MNH145711 Philippines
+MVZ186527 Vietnam
+FMNH147777 Philippines
+FMNH178425 Philippines
+FMNH137033 Philippines
+MVZ186539 Vietnam MVZ186526 Vietnam
+MVZ186525 Vietnam
+MVZ186529 Vietnam
+FMNH145714 Philippines
+MVZ186535 Vietnam MVZ186538 Vietnam
+MVZ186532 Vietnam
+MVZ186540 Vietnam MVZ186541 Vietnam
+MVZ225257 San Francisco Bay, CA, USA
+                           0.003
+FMNH145705 Philippines
+0.003
+ Fig. 3 Phylogenies depicting relationships among a subset of samples based on the two nuclear loci DHFR (A), and ATP5A1 (B) for a subset of samples. See Tables S1 and S2 (Supporting information) for the list of samples included in each analysis. The DHFR (A; )lnL = 2500.87) and ATP5A1 (B; )lnL = 2047.35) phylograms are the most likely topologies resulting from a maximum likelihood analysis. Terminal taxa are highlighted with colours corresponding to their clade assignment in the mtDNA phylogeny (Fig. 1), and taxon names correspond to museum accession numbers and the sampling locality for the specimen given in Table S1 (Supporting information). Outgroups have been removed for presentation.
+  M
+F
+M
+F M
+     Ó 2012 Blackwell Publishing Ltd
+
+8 J. B. LACK ET AL.
+   hybridization was occurring. The three supported monophyletic mtDNA clades were not evident for either nuclear locus, with a complete lack of distinction between R. tanezumi and R. rattus I. R. rattus IV conflicted less with the mtDNA topology, with sequences falling out relatively basal, but not in a monophyletic clade. In addition, there appeared to be a clear association between topology and locality, in that the majority of U.S. individuals clustered together regardless of mtDNA clade. The same was true for the Asian Rattus, where samples from the Philippines and Vietnam were relatively more closely related to each other than to members of the same mtDNA clade from different geographic localities. This overall pattern is indicative of gene flow among sympatric (or geographically proximate) populations of the different mtDNA lineages. This pattern was confirmed by the gene flow analyses using Migrate-n. For both loci, even when population sample sizes were relatively small (i.e. six R. tanezumi individuals from the Philippines), the average mode of migration rates across the duplicate runs was clearly correlated with geographic location and not mtDNA lineage (Tables 1 and 2). With only a few exceptions, pairwise migration rates were the highest among sympatric populations of the different taxa. For the few exceptions (i.e. the Philippines for both loci), migration rates were the second highest for the sympatric comparison, and the highest pairwise migration rate was for the next geographically closest population.
+Microsatellite analyses
+We scored nine microsatellite loci for 253 individuals from 16 localities (see Table S1, Supporting information). None of the pairwise linkage disequilibrium tests were significant (not shown). The global tests of HWE revealed multiple significant deviations (Table 3). All instances of HWE deviation occurred in populations where two mtDNA species are sympatric and potentially hybridizing. For R. tanezumi, HWE was rejected owing to heterozygote deficit in the Panama City, FL populations and San Francisco Bay, CA populations. For R. rattus I, HWE was rejected owing to heterozygote excess in the San Francisco Bay, CA populations and Panama City, FL populations. For R. rattus IV, HWE was not rejected in the only sampled population.
+The clustering analyses conducted in Structure suggested significant gene flow among sympatric populations of each species and a general lack of agreement with the mtDNA analyses (Fig. 4). At K = 2, which the DK statistic indicated to be the optimal number of groupings (Fig. S2), R. rattus I and R. rattus IV were distinct. The R. tanezumi clustered according to geographic association, with the San Francisco Bay, CA
+    Ó 2012 Blackwell Publishing Ltd
+Table 2 Pairwise gene flow estimates averaged across three duplicate runs for the ATP5A1 nuclear locus. Grey highlighted boxes indicate comparisons between two sympatric
+mtDNA lineages. Gene flow estimates correspond to the migration from the population in the left column into the population along the top of the
+table
+Key Largo,
+Philippines (R. tanezumi)
+80.3
+16.3 23.7
+341.3 0.3
+2.3 481
+0.3
+59 180.3 381
+381.7 0.3 14.3 0.3
+California
+(R. tanezumi)
+41 0.3
+22.3
+0.3 381
+Panama City, FL (R. tanezumi)
+180.3
+15
+335 0.3
+0.3
+Vietnam (R. tanezumi) California (R. rattus I) Gainesville (R. rattus I) Panama City, FL
+307 80.3
+0.3 381.7 180.3 0.3
+0.3 180.3 179.7 399.7
+12.3 18.3 0.3
+0.3 19
+0.3 177.3 274.3
+0.3 161
+0.3
+(R. rattus I) Key Largo, FL (R. rattus I)
+175
+380 37.7
+341 18.3
+0.3 399.3
+180.3 0.3
+0.3 18.3
+181 121.7
+0.3
+Philippines (R. rattus IV)
+13
+Philippines (Rattus tanezumi)
+California (R. tanezumi)
+Panama City, FL (R. tanezumi)
+Vietnam
+(R. tanezumi)
+California (Rattus rattus I)
+Gainesville (R. rattus I)
+Panama City, FL (R. rattus I)
+FL (R. rattus I) 0.3
+Philippines (R. rattus IV)
+80.3 27.7
+181 28.3
+0.3
+219.7 180.3
+0.3 47.7
+180.3
+
+INVASION FACILITATES HYBRIDIZATION 9
+Table 3 Results (P values) Hardy–Weinberg equilibrium tests for heterozygosity deficit and excess performed for the microsatellite data for each population of each species. Asterisks indicate significant P-values. Mitochondrial lineage is based on the cytochrome b phylogenetic analysis (Fig. 1)
+     mtDNA Lineage
+Rattus tanezumi
+Vietnam
+San Francisco Bay, CA Panama City, FL Philippines
+Rattus rattus I Alaska
+San Francisco Bay, CA Panama City, FL Gainesville, FL
+Key Largo, FL Arkansas
+Louisiana Nicaragua Houston, TX Austin, TX
+San Angelo, TX
+Rattus rattus IV Philippines
+Excess Deficit
+0.9951 0.4940 0.8884 0.0023* 0.2538 0.0034* 0.9458 0.1157
+0.9495 0.5054 0.0093* 0.3283 0.0375* 0.4436 0.8243 0.9997 0.8832 0.1757 0.9595 0.4054 0.9855 0.1145 0.9974 0.2699 0.9996 0.8877 0.9917 0.8301 0.8649 0.1351
+0.9989 0.7725
+    Ó 2012 Blackwell Publishing Ltd
+populations and Panama City, FL populations grouping with the North American R. rattus I individuals, whereas the two Asian populations of R. tanezumi (Vietnam and the Philippines) grouped with the Asian population of R. rattus IV (Philippines). Figure 4 shows individual assignments through K = 6, and at no point do the Asian R. tanezumi and R. rattus IV populations become distinct from one another. At K = 3, there was only partial congruence with the mtDNA clades recovered in the phylogenetic analysis. The R. rattus IV individuals were distinct from R. rattus I, but included the Asian R. tanezumi, while the R. tanezumi from the two U.S. populations remained clustered with R. rattus I, with the exception of the Alaska population of R. rattus I which was distinct. This pattern was maintained at K = 4, except with the Gainesville, FL population of R. rattus I now distinct. At K = 5, the Panama City, FL R. tanezumi and R. rattus I fell into a largely distinct group, while the San Francisco Bay, CA R. tanezumi remained clustered with the remaining R. rattus I until K = 9 (not shown).
+For the microsatellite gene flow analysis conducted using Migrate-n, we were unable to get stable convergence on posterior estimates for migrations rates. Posterior distributions for the vast majority of comparisons were seldom unimodal, and estimates fluctuated wildly between duplicate runs. This issue was not resolved by increasing runs significantly (we attempted a maximum
+Table 1 Pairwise gene flow estimates averaged across three duplicate runs for the DHFR nuclear locus. Grey highlighted boxes indicate comparisons between two sympatric mtDNA lineages. Gene flow estimates correspond to the migration from the population in the left column into the population along the top of the table
+Philippines (R. tanezumi) California (R. tanezumi) 20.3 Panama City, FL 0.3
+1.7 260.3
+37 67.7 133
+157.7 0.3 0.3 27.7 332.3 0.3
+374.3 74.3 0.3
+(R. tanezumi)
+Vietnam (R. tanezumi) 239 California (R. rattus I) 17.7 Gainesville (R. rattus I) 17 Panama City, FL 0.3
+9 480.3 260.3 217.7
+10.3 0.3 337.7 31
+363.7 0.3 128.3 487 150.3 0.3
+0.3 17
+155 27.7 11 22.3 11 480.3
+0.3 7 0.3 0.3
+(R. rattus I)
+Key Largo, FL 19
+60.3 0.3 0.3 0.3 387.3 0.3
+27
+129.7 6.3
+0.3
+(R. rattus I) Philippines
+241.7 381 18.3
+(R. rattus IV)
+Philippines (Rattus tanezumi)
+California (R. tanezumi)
+Panama City, FL (R. tanezumi)
+Vietnam
+(R. tanezumi)
+California (Rattus rattus I)
+Gainesville (R. rattus I)
+Panama
+City, FL Key Largo,
+(R. rattus I) FL (R. rattus I)
+Philippines (R. rattus IV)
+47.7
+0.3 155.7 369.7
+51
+12.3 128.3
+461.7
+48.3 52.3 41.7
+87.7
+
+ 10 J. B. LACK ET AL. R. tanezumi
+K=2 K=3
+K=4 K=5
+K=6
+R. rattus I
+R. rattus IV
+Fig. 4 Posterior assignment probabilities per individual from all sampled localities (indicated at bottom) for the combined nine microsatellite loci and all three mtDNA lineages (indicated at top), and illustrating K ranging from 2 to 6. Each distinct column represents a single individual, and each colour corresponds to the probability of assignment to each of a number of clusters (K). The plot of DK is shown in Fig. S2.
+Vietnam San Francisco, CA
+Panama City, FL Phillipines
+Alaska
+San Francisco, CA Panama City, FL
+Florida (Gainesville)
+Florida (Monroe Co.) Arkansas
+Louisiana Nicaragua
+Texas (Houston) Texas (Austin)
+Texas (San Angelo) Phillipines
+of 10 000 000 steps sampled at a 100-step density) or by using a simpler mutation model (i.e. the infinite allele model). Convergence problems with microsatellite analyses have been reported previously with Migrate-n (see software documentation) and were attributed to the complexity of the analysis attempting to integrate over multiple loci. Owing to the convergence issues, we do not report Migrate-n results for the microsatellite data.
+Discussion
+Species invasions are dynamic events in which individuals—typically in low numbers—enter a novel environment through human facilitation (i.e. disturbance, human dispersal, etc.). In this way, species invasions are analogous to natural founding events with the exception of the impetus for entering a new locality (Sax et al. 2007). While the ecology of these events is of obvious and critical importance, species invasions have clear evolutionary implications for both the invader and the native flora and fauna. In addition, when multiple invading species are simultaneously colonizing a single location, they will inevitably interact, adding an additional layer of complexity. Furthermore, novel invasions detected in their infancy represent ‘experiments’ in evolution, where we can seek to understand the genetic and evolutionary consequences of founder events (both natural and unnatural) in various ecological contexts. Early detection of novel invasions, particularly those replicated in multiple localities for a given species, present the opportunity to examine the factors that are important in dictating the ability of a given species to establish and disperse. Given the ongoing invasion of multiple Rattus species at a global scale, they are
+under-utilized as models for studying the evolutionary implications of species invasions. Furthermore, the R. rattus species complex is of particular utility in studies of evolution and reproductive isolation owing to the relatively recent diversification of the species members and their documented ability to hybridize (Yosida 1980; Chinen et al. 2005). In the United States, we have now identified two invading black rat ‘species’ exhibiting drastically different degrees of success in establishing and invading and experiencing significant reproductive interaction.
+Aplin et al. (2011) conducted the most thorough genetic analysis of R. rattus to date, utilizing mitochondrial cytochrome b sequences to examine global patterns of genetic diversity. Their analyses indicated considerable diversity that at least partially corresponded to the chromosomal races of Yosida (1980) and suggests the existence of at least six genetically distinct taxa. In our analyses, we focused on the three mtDNA lineages for which widespread invasion has been documented (termed R. rattus I, R. tanezumi and R. rattus IV), with R. rattus I likely evolving in India and now globally dispersed, R. tanezumi evolving in mainland East Asia and spreading throughout the South Pacific, South Africa and localities on both the east and west coasts of the United States and R. rattus IV evolving in mainland Southeast Asia on the Indochina Peninsula and spreading throughout the South Pacific (Aplin et al. 2011). Phylogenetic analysis of mtDNA (presented both here and by Aplin et al. 2011) and chromosomal data (Yosida 1980) indicate that, prior to invasion, these three lineages were largely allopatric and evolving in isolation. Dating analyses indicated the mtDNA genomes of these lineages initially diverged about 1
+Ó 2012 Blackwell Publishing Ltd
+
+million years ago (mya), followed by the R. rattus I ⁄ R. tanezumi divergence approximately 600 years ago (kya) (Robins et al. 2008; Aplin et al. 2011). These levels of isolation are certainly consistent with species-level divergences in other mammalian taxa (Bradley & Baker 2006), with ML-corrected pairwise cytochrome b sequence divergences of 5.1% (R. tanezumi vs. R. rattus I), 7.8% (R. rattus I vs. R. rattus IV) and 9.2% (R. tanezumi vs. R. rattus IV). In spite of this considerable divergence, our results suggest widespread invasion, which has led to sympatry for various combinations of these taxa in multiple localities and has allowed for significant hybridization with introgression on two continents.
+Black rat mtDNA population genetics
+Our analysis of the cytochrome b gene identified R. rattus I as being essentially globally distributed, as has been shown in previous studies (Aplin et al. 2011). Within the United States, the vast majority of individuals examined fell into this group, with the exception of a subset of samples collected from the San Francisco Bay, CA, and Panama City, FL, which belonged to the R. tanezumi lineage (Fig. 1). Whereas the California population had been identified by Aplin et al. (2011) and Conroy et al. (In Review), the Panama City, FL population of R. tanezumi was unknown prior to this study. In addition, a recent analysis of Rattus mtDNA from South Africa (Bastos et al. 2011) detected R. tanezumi and R. rattus I in sympatry in north-eastern South Africa, but was unable to identify the source of the animals owing to sampling restrictions. We included the two haplotypes Bastos et al. (2011) recovered from South Africa in our more extensive geographic sample and found them to be most closely related to three haplotypes from Indonesia. Although our global sampling is far from adequate to identify their origin with certainty, the R. tanezumi haplotype network suggests an Asian origin. Nevertheless, it is quite possible that with further collection of individuals (much of the African continent and western Asia remain unsampled), novel source populations will be identified.
+Within the United States, the two populations where R. tanezumi has been detected are quite different from one another in terms of mtDNA diversity. For the three California R. tanezumi haplotypes, our analyses suggest quite convincingly that they originated from Southeast Asia. Two of the California R. tanezumi haplotypes also were recovered from multiple Asian localities, while the third was nested within a cluster of Asian haplotypes. Moreover, the California R. tanezumi appear to be the result of introductions from multiple source localities, with these haplotypes shared between California, Japan, the Philippines, Indonesia, and several localities on the
+Indochina peninsula. In contrast, the single R. tanezumi haplotype recovered from Panama City, FL, was not detected in another locality, making it difficult to speculate as to the source for this population. In addition, the detection of only one haplotype for this entire population despite significant collection effort (31 individuals sampled) suggests this population may have been founded by a single introduction of one maternal lineage, with no further input from additional propagules. This Florida R. tanezumi haplotype appears somewhat isolated in the haplotype network, with the most closely related haplotype detected on the Indochina peninsula, but five mutational steps removed. Regardless of the specific source population, the Florida R. tanezumi appear distinct from the California R. tanezumi, suggesting different sources founded these two U.S. populations. Furthermore, the absence of R. tanezumi haplotypes in states surrounding Florida suggests that R. tanezumi was likely recently introduced to Florida.
+The occurrence of R. tanezumi throughout eastern Asia is relatively well documented (Braverstock et al. 1983; Chinen et al. 2005; Rickart et al. 2011), but the discovery of novel populations in the United States (in this study and Aplin et al. 2011; Conroy et al. In Review) and South Africa (Bastos et al. 2011) suggests this is potentially a widespread but unsampled mtDNA lineage. In addition, the relative isolation of the South African and Florida R. tanezumi haplotypes on the haplotype network further suggests that these are either long-isolated populations that have diverged from their Asian sources, or that R. tanezumi actually represents a geographically widespread and genetically diverse lineage that we have simply failed to sample. We believe the latter to be the more likely explanation, and we expect additional R. tanezumi individuals to be detected with further sampling in western Asia and Africa.
+For R. rattus I, we detected two geographically widespread haplotypes, which were both found spread across North America, as well as found in Africa, South America, and Asia (Fig. 2). Aplin et al. (2011) conducted an extensive mtDNA phylogeographical analysis of black rats at the global scale, so we will focus our discussion to the United States. The United States R. rattus I haplotype network consisted of many very closely related haplotypes clustered around the two most common haplotypes—a common pattern for invading organisms that undergo a rapid expansion following invasion (Schaal et al. 2003). These two haplotypes likely reflect the founding mtDNA lineages for the initial black rat invasion into the United States, hypothesized to have occurred with Columbus in 1492 (Armitage 1993), followed by a rapid expansion to cover the North American continent. With only two exceptions, no United States R. rattus I haplotype was
+Ó 2012 Blackwell Publishing Ltd
+INVASION FACILITATES HYBRIDIZATION 11
+
+12 J. B. LACK ET AL.
+more than two mutations removed from one of the two widespread haplotypes, suggesting the vast majority of R. rattus I mtDNA diversity arose in situ following the initial establishment of this lineage in the United States or that any additional individuals that entered the United States came from essentially the same locality (or at least the same pool of mtDNA diversity) where a recent expansion had occurred. The two exceptions to this pattern were haplotypes recovered from Key Largo, FL that were nested within the haplotypes primarily recovered from Africa and the Middle East. This suggests the R. rattus I in Key Largo likely arose from a different source—possibly Africa—relative to all other R. rattus I sampled in the United States Moreover, the isolation of these divergent haplotypes in the Florida Keys suggests they are not dispersing following introduction.
+For the R. rattus IV haplotype network, we detected many divergent lineages, all isolated to East Asia (Fig. 2). For the samples collected from the Philippines, we detected multiple divergent haplotypes, suggesting this is a stable and genetically diverse population that has spread from its ancestral region on the Indochina peninsula (Aplin et al. 2011) throughout Indonesia, Malaysia and the Philippines but has not spread further south to Australia or New Guinea where R. rattus I was detected nor has it crossed the Pacific into the United States as R. tanezumi has, despite being found in sympatry in multiple Asian localities.
+Evidence for hybridization with introgression
+That hybridization between R. rattus I and R. tanezumi is possible was established prior to our analysis, in both laboratory breeding experiments and genetic analysis of natural populations (Yosida 1980; Chinen et al. 2005; Conroy et al. In Review). Chromosomal analysis of wild populations and laboratory breeding led Yosida (1980) to suggest introgression is rare among these species owing to reduced F1 fitness, noting that parental karyotypes (R. rattus I, 2n = 38; R. tanezumi, 2n = 42) were far more common than hybrid karyotypes (2n = 40) at localities where the two lineages were sympatric. Chinen et al. (2005) identified two localities in Japan where both hybrid and parental karyotypes existed, and these karyotypes roughly corresponded to mtDNA haplotypes. But, neither mtDNA nor karyotypic data corresponded with the nuclear phylogeny, suggesting introgression was common at these localities. In addition, a nuclear microsatellite analysis of R. rattus I and R. tanezumi in the San Francisco Bay area of California similarly suggested hybridization is common (Conroy et al. In Review). Hybridization of R. rattus IV with R. rattus I and R. tanezumi is less well understood, because the R. rattus IV lineage appears to consist of
+individuals with 2n = 40 and 2n = 42 (Aplin et al. 2011) and has been referred to in the literature by a variety of names, creating significant confusion. However, Yosida (1980) reported chromosomal intermediates (2n = 39) between the 2n = 40 individuals (R. rattus IV) and 2n = 38 (R. rattus I) on Sri Lanka, as well as in laboratory matings. In addition, matings were successful between Japanese 2n = 42 (R. tanezumi) and 2n = 42 black rats from Malaysia that Yosida (1980) referred to as R. rattus diardi, which has previously been a synonym for R. rattus IV (Robins et al. 2007). These ‘R. rattus diardi’ were distinct from other 2n = 42 black rats (i.e. R. tanezumi) in being homozygous for a subtelocentric chromosome 9, and hybrids were heterozygous for this chromosomal arrangement. Therefore, karyotypic analyses suggest these lineages are at least capable of hybridizing. However, ours is the first analysis examining the extent of hybridization and introgression among these three taxa in both Asian and U.S. populations.
+Our analysis of protein coding nuclear sequence data and nuclear microsatellites provide conclusive evidence of widespread hybridization with introgression between R. rattus I and R. tanezumi and suggests introgression between R. rattus IV and R. tanezumi, although our limited geographic sampling limits conclusions for this taxon pair (discussed below). As mentioned above, conflict between mtDNA and nuclear loci is expected given the fourfold difference in effective population size and therefore fourfold reduction in the rate with which nuclear polymorphisms sort relative to mtDNA polymorphisms (Neigel & Avise 1986; Maddison 1997). Given the potential for multiple mechanisms to generate conflict among mtDNA and nuclear phylogenies, it can be difficult to tease apart the effects of hybridization vs. lineage sorting. Because lineage sorting proceeds randomly, and lineage reticulation owing to hybridization is a result of mating in sympatry, we can predict that incomplete lineage sorting will result in the random retention of ancestral polymorphisms that will differ starkly between unlinked nuclear loci. In contrast, hybridization will result in an association between geographic location and genetic relationship, as only sympatric interspecific populations can interbreed (with the possible exception of organisms exhibiting external or broadcast fertilization, such as wind-pollinated plants and broadcast-spawning fish). Therefore, we can predict gene flow among sympatric interspecific lineages will be higher than among allopatric interspecific lineages. The direct contrast between the mtDNA and nuclear data (Figs 1–4), in conjunction with the relationship between geographic location and measures of gene flow (Tables 1 and 2)—independent of mtDNA lineage—indicates the commensal relationship between these species and humans has had significant evolutionary implications,
+Ó 2012 Blackwell Publishing Ltd
+
+facilitating hybridization between R. tanezumi and R. rattus I and possibly between R. tanezumi and R. rattus IV as well.
+For the migration analyses, pairwise migration rates exhibited a clear relationship with geographic location, with the majority of comparisons being the highest between sympatric populations of different mtDNA lineages, and this pattern was consistent across the two unlinked nuclear loci. For the DHFR locus (Table 1), pairwise gene flow estimates were highest among sympatric populations of distinct mtDNA types, with two exceptions. The amount of gene flow out of the Panama City, FL R. tanezumi population was highest between the Gainesville, FL R. rattus I population and the sympatric Panama City, FL R. rattus I comparison was the second highest. Similarly, the highest amount of gene flow out of the Philippines R. rattus IV population was going into the Vietnam R. tanezumi population, and the comparison with the sympatric Philippines R. tanezumni population was second highest; this pattern was also present in this population for the ATP5A1 migration analysis (Table 2). While these exceptions somewhat contradict the predicted pattern for these two populations, in all of these exceptions the sympatric comparison is still the second highest, and the highest pairwise migration estimate is with the geographically most proximate population. These exceptions are likely a result of the very high amounts of gene flow occurring among populations of Rattus in the United States. Based on a more extensive geographic sampling and population genetic analysis of mtDNA and nuclear microsatellites in the United States, J. B. Lack, M. J. Hamilton, J. K. Braun, M. A. Mares, R. A. Van Den Bussche (In Preparation) recovered very little population structure between even distant populations (i.e. Seattle, WA vs. Gainesville, FL), suggesting long distance dispersals through human transportation may be quite common. It may simply be the case that gene flow among geographically proximate populations is sufficiently high that it is comparable with that among sympatric mtDNA lineages and the low mutation rate of nuclear loci prevented us from making these distinctions.
+Our Structure analysis of nine unlinked microsatellite loci provided additional resolution of these patterns, likely due to the much higher mutation rate of microsatellites relative to the rate of nuclear sequence evolution. For the microsatellites, the clustering analysis indicated the partitioning of nuclear genetic diversity was a result of geography, and did not correspond with mtDNA lineages (Fig. 4). The two Asian R. tanezumi localities cluster with the Asian R. rattus IV samples and not with other members of the R. tanezumi mtDNA lineage. In addition, the two U.S. populations of R. tanezumi cluster with other U.S. localities, not with
+other members of the R. tanezumi mtDNA lineage. Moreover, these populations do not become distinct from R. rattus I until K = 5, after the Alaska and Gainesville, FL populations have already been relegated to distinct clusters. This suggests that multiple populations of R. rattus I are actually more genetically unique than the admixed populations in San Francisco Bay, CA and Panama City, FL, attesting to the extent of genetic homogenization that has occurred.
+The lack of morphological divergence in these species renders it difficult to comment with certainty on the magnitude and direction of introgression, because we cannot tell what, if any, individuals constitute ‘true’ unhybridized members of each species. In addition, because R. rattus I is globally distributed (Nowak 1999; Musser & Carleton 2005; Aplin et al. 2011) we cannot say with certainty that any individual from one of the other two mtDNA lineages is from a population not sympatric with R. rattus I, or is not a migrant from a population sympatric with R. rattus I. As a result, we could make no a priori assumption about the status of any sampled individual. But, even in the absence of morphological diagnostics, we can rely on the nonrecombining mtDNA locus to at least give us an idea of the maternal history of each individual, and in the absence of admixture we can hypothesize the existence of three nuclear genetic signals. If admixture is significant and bidirectional, we would expect individuals from each mtDNA lineage to be a mixture of the two parent nuclear genomes. In contrast, if introgression is highly unidirectional, we would expect the mtDNA and nuclear genomes of the ‘donating’ species to be consistent with one another, and the mtDNA and nuclear DNA of the ‘receiving’ species to conflict significantly. This unidirectional introgression pattern is precisely what we see for these three species. At a K = 2, the microsatellite cluster analysis (Fig. 4) consistently clustered all individuals with R. rattus I mtDNA together, and similarly clustered all individuals with R. rattus IV mtDNA together, whereas the R. tanezumi nuclear genome consistently took on the identity of the species with which the sampled population was sympatric or geographically most proximate. In addition, for sympatric mtDNA lineages in both Asia and the United States, migration rates estimated from both nuclear loci were typically higher in the direction of R. tanezumi, although there were exceptions (Tables 1 and 2). The small sample size for some of these comparisons (i.e. four R. rattus I individuals from Panama City, FL) and the relatively slow rate of nuclear sequence evolution limits the power of these migration analyses, but the lack of a R. tanezumi cluster in Asia and the United States based on the microsatellite loci suggests introgression asymmetry and is consistent with previous
+Ó 2012 Blackwell Publishing Ltd
+INVASION FACILITATES HYBRIDIZATION 13
+
+14 J. B. LACK ET AL.
+analyses (Conroy et al. In Review). A more thorough geographic and genomic sampling may be required to quantify the directionality of gene flow for these taxa.
+If gene flow is unidirectional, as our analyses suggest, it is unclear what factor(s) may be driving this pattern. F2 offspring have been produced from the hybrids of the R. tanezumi ⁄ R. rattus I cross, but with considerable difficulty, suggesting semisterility in the F1 generation (Yosida et al. 1971; Yosida 1977). For R. tanezumi ⁄ R. rattus IV hybrids, no F2 offspring have been produced despite considerable effort (Yosida 1977). For both of these hybrids, backcrosses to both parental species (regardless of sex) were successful and likely represent the mechanism by which hybrid lineages persist in the wild. The explanation for unidirectional gene flow in the United States is potentially an issue of mate availability. Both populations of R. tanezumi (California and Florida) appear to be small, isolated populations that were relatively recently established. This is supported by the fact that R. tanezumi mtDNA haplotypes were not detected outside of the San Francisco Bay area for the California population or outside of Panama City for the Florida populations, despite our sampling multiple localities in both states (Fig. 2). In contrast, coastal populations of R. rattus I are typically enormous (Sullivan 2004). If this is the case, then it is likely that hybridization is largely driven by the availability of mates (Rhymer & Simberloff 1996), where the much less common R. tanezumi simply encounter R. rattus I individuals more often, resulting in many more R. tanezumi⁄ R. rattus I matings than conspecific matings for R. tanezumi, followed by mostly F1 ⁄ R. rattus I backcrosses. This would perpetuate the eventual swamping out of the R. tanezumi nuclear genome as we have observed, but maintain the R. tanezumi nonrecombining mtDNA genome as long as there were no fitness costs (Wolf et al. 2001; Buerkle et al. 2003). However, the assertion that the California and Florida R. tanezumi populations are small, recent introductions relative to R. rattus populations is speculative and this certainly warrants further study and much more thorough geographic sampling.
+Alternatively, premating isolating mechanisms may also be responsible for driving the directionality of gene flow. Kaneshiro (1976, 1980) noted that if females of a derived species favoured the mating behaviour of the ancestral species, this would similarly result in asymmetrical gene flow, even in the absence of strong postmating isolating mechanisms. This hypothesis has been supported primarily in insects (i.e. Kaneshiro 1976), but examples do exist for mammals (i.e. Bradley et al. 1991). With what we currently know about these three taxa, it is difficult to assess this hypothesis because it is unclear what, if any, individuals constitute parental
+individuals of pure ancestry. In addition, essentially nothing is known in terms of the variation in reproductive behaviour among these taxa, because prior to genetic analyses, it is unclear which individuals being examined were members of which taxon. While we cannot comment on the role of premating isolation in driving patterns of introgression in these taxa, it is a viable hypothesis that may deserve future attention.
+In Asia, it is difficult to say whether or not the same mechanism may be driving unidirectional gene flow from R. rattus IV into R. tanezumi. This is because the relative abundance of each of these species is unclear owing to their being morphologically very similar. In the Philippines, we were able to obtain tissue samples from 48 individuals from several locations, but only detected six R. tanezumi individuals, suggesting R. tanezumi individuals are relatively rare in the Philippines. For Vietnam, we only obtained tissues for 17 individuals (all R. tanezumi) from a single coastal locality, and are therefore unable to comment on the relative frequency of each of these mtDNA lineages; however, we should note that R. rattus IV haplotypes downloaded from GenBank were detected in animals collected in Vietnam, Cambodia, Laos, and Thailand (Fig. 2, Table S2), suggesting R. rattus IV are common on the Indochina Peninsula. However, it is important to keep in mind that our sampling in Asia was too sparse to conclude with any certainty that introgression is responsible for the lack of a distinction between R. rattus IV and Asian R. tanezumi. For the nuclear DNA analyses (both the sequenced loci and microsatellites), we sampled only a single locality on the Asian mainland (Vietnam), and only sampled R. rattus IV from the Philippines. While unidirectional hybridization is a probable explanation for the patterns observed in Asia, it is also possible that the single population we sampled in Vietnam was secondarily derived from R. tanezumi from the Philippines. In their mtDNA analysis, Aplin et al. (2011) found very similar mtDNA haplotypes between Vietnam and the Philippines, suggesting significant levels of gene flow are occurring. Also, at K = 6 in the Structure analysis (Fig. 4), a large subset of the Philippines R. rattus IV formed a distinct cluster with the Philippines R. tanezumni and the Vietnam R. tanezumi, supporting the possibility that the Vietnam population we sampled may have been founded by admixed individuals from the Philippines. Only with a more thorough sampling of the Asian mainland can we understand the extent of admixture among R. tanezumi and R. rattus IV in Asia.
+Invasion biology and evolutionary implications
+This system presents considerable opportunity to study the role of interspecific interactions in dictating the
+Ó 2012 Blackwell Publishing Ltd
+
+outcome of the invasion process, as well as allowing for an evolutionary analysis of reproductive isolation. The role of evolutionary processes in biological invasions has been traditionally neglected in favour of ecology, but evolutionary data has begun to move to the forefront in the recent invasion biology literature (Prentis et al. 2008). Hybridization has been suggested as a mechanism capable of stimulating invasiveness, but essentially all of the evidence for this is found in plants (Ellstrand & Schierenbeck 2000). The three species examined in this study represent morphologically and ecologically similar ‘replicates’ with distinct invasive histories. Rattus rattus I has dispersed across the globe and has an existence essentially inseparable from that of humans. R. rattus IV spread from its origin on the Indochina peninsula to occupy Malaysia, Indonesia and the Philippines, but has not spread beyond these limits (Aplin et al. 2011). In Asia, we detected evidence of hybridization with introgression between this species and R. tanezumi, but lack the geographic sampling for R. rattus IV to make definitive conclusions concerning the role of hybridization in driving invasion success. Rattus tanezumi originated on the Southeast Asian mainland, invaded much of East Asia and the South Pacific and has now begun to invade localities outside of Asia. These novel localities appear to represent ‘failed’ invasions, where all that remains is the R. tanezumi mtDNA which has failed to spread beyond the coastal point of introduction. This presents the opportunity to study the role of interspecific interactions in dictating invasion success and invasibility. The presence of large populations of R. rattus I may present an ecological barrier to the spread of R. tanezumi. Alternatively, it may be that the lack of reproductive isolation between these taxa will allow R. tanezumi individuals to integrate with established R. rattus I populations, but result in rapid loss of the R. tanezumi nuclear genome.
+Ó 2012 Blackwell Publishing Ltd
+INVASION FACILITATES HYBRIDIZATION 15
+
+ J.B.L. is an evolutionary geneticist who is interested in the genetics of reproductive isolation and adaptive evolution. D.U.G. is a mammalogist and ecologist who is interested in the evolutionary ecology of invasive mammals. M.J.H. and R.A.V.D.B. are mammalian systematists interested in bat and rodent phylogenetics. J.K.B. and M.A.M. are interested in mammalian evolution and systematics. C.J.C. is a mammalogist interested in the population genetics of invasive rodents.
+Data accessibility
+DNA Sequences: Cytochrome b GenBank accessions JQ823261– JQ823541; ATP5A1 GenBank accessions JQ823542–JQ823646; DHFR GenBank accessions JQ823647–JQ823747.
+Microsatellite data: DRYAD entry doi:10.5061/dryad.sj168561. Sampling information: Table S1 (Supporting information).
+Supporting information
+Additional supporting information may be found in the online version of this article.
+INVASION FACILITATES HYBRIDIZATION 17 Fig. S1 Newick tree file resulting from the Bayesian phyloge-
+netic analysis of the mtDNA cytochrome b locus.
+Fig. S2 Plot of DK statistic, which measures the steepness of increase of P(D) and indicates the most likely number of clusters (Evanno et al. 2005) for clustering analyses conducted in Structure.
+Table S1 Specimens for which molecular data was generated in this study.
+Table S2 Accession numbers for mitochondrial cytochrome b sequences obtained from GenBank, including the geographic locality and putative mtDNA species identification based on clade assignment in the cytochrome b phylogenetic analysis (Fig. 1A).
+Table S3 Locus designation, primer sequence, chromosomal location and either published citation or GenBank Accession for the nine microsatellite loci examined.
+Please note: Wiley-Blackwell is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+ Ó 2012 Blackwell Publishing Ltd

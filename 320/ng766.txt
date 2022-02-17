@@ -1,0 +1,265 @@
+  © 2001 Nature Publishing Group http://genetics.nature.com article
+  The contributions of sex, genotype and age to transcriptional variance in Drosophila melanogaster
+Wei Jin1,4*, Rebecca M. Riley1*, Russell D. Wolfinger2, Kevin P. White3, Gisele Passador-Gurgel1 & Greg Gibson1
+*These authors contributed equally to this work.
+Published online: 26 November 2001, DOI: 10.1038/ng766
+Here we present a statistically rigorous approach to quantifying microarray expression data that allows the relative effects of multiple classes of treatment to be compared and incorporates analytical methods that are common to quantitative genetics. From the magnitude of gene effects and contributions of variance components, we find that gene expression in adult flies is affected most strongly by sex, less so by genotype and only weakly by age (for 1and 6-wk flies); in addition, sex × genotype interactions may be present for as much as 10% of the Drosophila transcriptome. This interpretation is compromised to some extent by statistical issues relating to power and experimental design. Nevertheless, we show that changes in expression as small as 1.2-fold can be highly significant. Genotypic contributions to transcriptional variance may be of a similar magnitude to those relating to some quantitative phenotypes and should be considered when assessing the significance of experi-
+mental treatments.
+Introduction
+Statistical genetic approaches to mapping genotype onto phenotype continue to place in a black box all the events occurring between the gene and the appearance of a trait. Despite the historical successes of partitioning environmental and interaction effects into variance components1, it can be argued that the failure to include a mechanistic component in this general approach presents a considerable obstacle to the integration of developmental/physiological genetics and quantitative genetics. In this context, the precise quantification of intracellular processes such as transcription and translation should be an important goal of genomic analysis. Comparing gene expression among lines and treatments using complementary DNA microarray technology presents one means of achieving this goal.
+Currently, microarray data are most often analyzed by comparing an experimental treatment to a common control and measuring the ratio of inferred transcript levels for each gene from the ratio of fluoresence2. This approach is inadequate for quantitative analysis for two main reasons: the choice of arbitrary ratio thresholds has no sound basis in statistical theory and the approach does not provide the flexibility to allow direct comparison of different sources of variance. It has been pointed out that standard methods of quantitative genetic analysis can be applied to microarray data3,4, and in fact such methods suggest experimental designs that dispense with reference samples but increase statistical power as compared with ratio-based methods5. Relying on moderate levels of replication, these methods allow investigators to identify significant
+genes that, in many cases, show changes in level of transcription between two samples that are substantially less than the commonly accepted arbitrary cutoff of a twofold change in expression.
+Two major questions can be addressed immediately using a quantitative approach: what fraction of genes show a difference between samples, and what is the mean and variance of effects of those genes? We would also like to know how different the two sexes are at the transcriptional level, how transcription changes with age and whether there are interactions between sex, age and genotype. There are likely to be differences among genotypes, as indicated by two studies that showed strain differences in levels of particular transcripts in the brains of mice6 and in yeast cells undergoing meiosis7. Two-dimensional gel electrophoresis has also suggested that there are large differences in protein expression profiles among populations of the fruitfly Drosophila melanogaster8, although none of these studies has adopted statistical procedures to control for multiple comparisons and levels of replication.
+Fruitflies grown in culture at 25 °C typically live for 1–3 months. Lifespan is strongly influenced by sex and genotype9, not to mention reproductive activity and diet10. Analysis of mutant and transgenic stocks has implicated several genes in the regulation of longevity, and, as in many organisms, a decline in protein synthesis accompanying reduced levels of a translation elongation factor is one of the first signs of senescence11. But marked changes in transcript levels between days 10 and 50 in males of the w1118 mutant D. melanogaster are only seen for a few dozen genes, according to a study in which application of the free radical–generating drug paraquat was observed to have more systematic effects12. Comparison of the two sexes has not been
+  1Department of Genetics, North Carolina State University, Raleigh, North Carolina 27695-7614, USA. 2SAS Institute, Cary, North Carolina 27513, USA. 3Department of Genetics, Yale University, New Haven, Connecticut 06520, USA. 4Current address: Paradigm Genetics, Research Triangle Park, North Carolina 27709, USA. Correspondence should be addressed to G.G. (e-mail: ggibson@unity.ncsu.edu).
+nature genetics • volume 29 • december 2001 389
+© 2001 Nature Publishing Group http://genetics.nature.com
+
+  article
+© 2001 Nature Publishing Group http://genetics.nature.com
+  reported, but the fact that most fly traits show sex variance and sex × genotype interactions9,13 in addition to the obvious differences between the male and female reproductive systems implies that the transcriptomes of the two sexes are likely to be quite different. Here we use a long-standing and widely used statistical method from agricultural and quantitative genetics—the mixed model analysis of variance14—to rank the effects of sex, genotype and age on transcription and to draw comparisons between the contributions of sex and genotype to the variance of transcription and of phenotypic traits.
+Results
+Our experimental design consisted of 24 cDNA microarrays, 6 for each combination of 2 genotypes (Oregon R and Samarkand) and the 2 sexes, involving 48 separate labeling reactions. We directly contrasted two time points, 1-wk and 6-wk adult flies, on each microarray. The dyes Cy3 and Cy5 were flipped for two of the six replicates of each genotype and sex combination. A common reference sample was not used. In total, we spotted 4,256 clones, representing a third of the genome—two-thirds of which were verified by resequencing before printing. We excluded 325 clones from the analysis because no consistent expression above background was detected.
+We analyzed fluorescence levels with the objective of establishing whether the level of expression of each gene relative to the sample mean of the labeling reaction varies according to sex, genotype and age. We used two sequential analyses of variance (ANOVAs). This procedure uses differences in normalized expression levels, rather than ratios, as the unit of analysis of expression differences, eliminating the need for a reference sample. The statistical model for each clone simultaneously fits the
+effects of the treatments of interest across the entire experiment, allowing direct contrasts of the magnitude of the effects caused by each treatment and interactions among treatments. Differences in global levels of transcription among treatments can also be tested (Methods). In our experiment, the male samples tended to show higher fluorescence intensities than the female ones, although the magnitude of the effect was very small relative to significant individual gene differences.
+Cluster analysis of normalized expression levels tends to group genes according to the overall mean fluorescence intensity and, to some extent, to the greatest effect (in this case sex), but is inefficient at identifying groups of genes coregulated in more subtle ways. Nevertheless, after grouping genes according to the significance of fixed effects, we used TreeView15 to provide a visual representation analogous to the standard method of representing ratio effects (Fig. 1). Representative sex and sex × genotype interaction effects of various types are clearly seen in Fig. 1a,b, whereas more subtle genotype and age effects can be seen by close inspection of Fig. 1c,d.
+Plots of normalized expression levels for individual clones provide a visual means of assessing withinand among-treatment variance (Fig. 2). Lines link measures on a single array, with agecontrasted pairs of points corresponding to, from left to right, Oregon R females and males and then Samarkand females and males. The top two genes (fs(1)K10 and ebony) show significant effects of both sex and genotype, whereas the testes-enriched gene ocnus shows only the sex effect. CG9090, which encodes a putative mitochondrial phosphate transporter (Flybase; http://flybase.bio. indiana.edu), is unaffected by sex or genotype, but is consistently reduced in older flies (P<0.0001, ANOVA). Note that few of these effects exceed the commonly used arbitrary threshold of a twofold
+  Fig. 1 Visual representation
+of effects of sex, genotype
+and age on gene expres-
+sion. Relative expression
+levels (residuals) from the
+normalization model for
+all 48 labeling reactions of
+36 representative genes
+are displayed without clus-
+tering or transformation
+using TreeView13. To
+emphasize that these are
+not ratios but more closely
+reflect relative expression
+levels, red and green are
+eschewed in favor of
+magenta (high expression)
+and blue (low expression).
+Celera gene annotation
+numbers obtained through
+Flybase (http://flybase.bio.
+indiana.edu) are given on
+the right, along with any
+information on the name
+(in italics) and function of
+the gene product. An EST
+on scaffold fragment
+AE003540 is not yet associ-
+ated with an annotated
+gene. Array names across
+the top identify genotype
+(OorS),sex(ForM),age
+(1or 6-wk), replicate and
+dye (Cy3 or Cy5). a, Genes
+showing a main effect of
+sex only: upper, stronger
+expression in females;
+lower, stronger expression
+in males. b, Genes showing
+gon R; bottom 5, Oregon R
+sex and genotype block. The identities of each of the clones shown have been confirmed by resequencing.
+female
+male
+female
+male Samarkand
+    Oregon R
+   a
+b
+c d
+CG7096 CG7935 CG7825 CG4082 CG6258 CG9241 CG9133 CG7929 CG8489 CG8023 CG17022 CG5398
+CG8453 CG10621 CG4877 CG3658 CG3218 CG7948 CG7838 CG7682 CG1438 AE003540 CG7529 CG3394 CG3331 CG10377 CG12505 CG4699 CG1809 CG4610 CG11964 CG5675
+CG3731 CG9090 CG10159 CG7738
+msk RNA binding protein Rad17 DNA repair factor Mcm5 replication factor replication factor C
+DNA replication
+ocnus testes protein
+eIF-4E-like
+transporter (bib-like) Cyp6g1 cytochrome P450
+CDC45L replication factor fs(1)K10 DV polarity Rad51 DNA repair
+Bub1 kinase; kinetochore
+Cyp4c3 cytochrome P450 no EST match
+esterase
+transporter; peroxisome ebony (βAD-synthase) Hrb27C RNA binding protein
+tRNA ligase
+alkaline phosphatase homologous to E. coli gidA
+transporter
+mito. endopeptidase
+mito. phosphate transporter BEAF-32 chromatin protein .
+sex and genotype effects, or an interaction of various sorts. c, Genes showing a putative genotype effect only: top 2, Samarkand > Ore> Samarkand. d, Genes showing an age effect only, with six replicate 1-wk samples (left) and six replicate 6-wk samples (right) of each
+ 390
+nature genetics • volume 29 • december 2001
+OF1A3 OF1B3 OF1C3 OF1D3 OF1E5 OF1G5 OF6E3 OF6G3 OF6A5 OF6B5 OF6C5 OF6D5 OM1A3 OM1B3 OM1C3 OM1D3 OM1E5 OM1F5 OM6E3 OM6F3 OM6A5 OM6B5 OM6C5 OM6D5 SF1A3 SF1B3 SF1G3 SF1H3 SF1E5 SF1F5 SF6E3 SF6F3 SF6A5 SF6B5 SF6G5 SF6H5 SM1A3 SM1B3 SM1C3 SM1D3 SM1E5 SM1F5 SM6E3 SM6F3 SM6A5 SM6B5 SM6C5 SM6D5
+© 2001 Nature Publishing Group http://genetics.nature.com
+
+  difference in expression level (a difference of more than one unit on the log2-transformed scale). In addition, the crossing of lines that join data points from a single array indicates that it is not uncommon for one or two of the arrays to suggest a difference in expression opposite to the age effect inferred across the replicates of the treatment, which highlights how misleading observations based on a single array can be.
+The significance of each of the four fixed effects of biological interest plus the dye effect for each gene are given in Table 1 and presented as ‘volcano plots’ of significance against magnitude of effect in Fig. 3. Bonferroni correction for the almost 16,000 tests carried out results in an experiment-wise significance value of 0.000003, which is almost certainly too conservative for microarray experiments; we therefore recommend using a predefined false-positive acceptance rate. As with all significance thresholds, the value will reflect a trade-off inherent in the study objectives between false-positive acceptance rates and the desire to avoid false negatives.
+For many applications, the goal is to identify a subset of genes for further analysis, and statistical thresholds, however arbitrary, provide a better basis for this decision than do arbitrary levels of foldchange in expression. At the level of 0.0001, there is formal statistical support for effects of sex on expression of 287 genes (7% of the sample), and of age on 44 genes (1%). Fewer than half of these sexbiased genes, and none of the age-biased genes, show twofold differences in expression between the respective treatments.
+Surprisingly, flipping dyes is the most pervasive effect, though the magnitude is generally less than +0.2 or –0.2 residual units, or less than a 1.2-fold change. A straightforward interpretation of this effect is nonstoichiometric incorporation of the two dyes by reverse transcriptase, but it may also relate to effects such as differential hybridization of labeled targets to the microarray probe or differential fluorescence decay. In no case did dye flipping have an average effect approaching a twofold change, but it should be noted that both the significance and magnitude of dye effects are
+of the same order as age effects. This is clear and strong evidence that dye flipping should routinely be included in cDNA microarray experimental designs.
+The number of genes showing genotype effects at each level of significance is no different from that expected by chance, whereas the number showing sex × genotype interactions is generally only twice as high. This relative absence of significance is paradoxical in that the magnitude of a large fraction of the genotype effects is between two and three times the magnitude of even the most significant age effects, which are significant. The reason for the discrepancy is that our experimental design results in a difference in statistical power. Nevertheless, given the observed median variances of the effects, we estimate3 that we have 85% power to detect 1.7-fold changes caused by sex or genotype, or as little as 1.2-fold changes caused by to age or dye, at the experiment-wise adjusted α-level of 0.0001.
+An alternative way of quantifying the effects of sex, genotype and age on gene expression measured on different arrays, which to some extent avoids difficult significance issues, is to determine what fraction of the variance is attributable to each factor. To estimate these ‘variance components’, we reran the analysis with all effects other than dye as random effects (Table 2). Figure 4 shows that sex, in combination with the sex × genotype interaction component, accounts for between 60% and 90% of the variance for many genes, and the contribution of genotype is also distributed over a wide range. The positive diagonal line reflects genes for which only the interaction-term variance component was greater than zero. There is little correlation between the individual variance component scores, indicating that there is no tendency for genes that are differentially expressed in males and females to be subject to genotypic differences, or vice versa.
+On the same scale, age shows a similar distribution of effects as genotype (data not shown), and it is likely that given larger sampling, significant age × genotype interactions will be detected. Even excluding the interaction effects, over half of the genes show
+© 2001 Nature Publishing Group http://genetics.nature.com article
+    CG3218 fs(1)K10 1.5
+CG3331 ebony 0
+    1 0.5 0 -0.5
+-0.5 -1 -1.5 -2
+                                                                                              OF1 OF6 OM1 OM6 SF1 SF6 SM1 SM6 treatment
+OF1 OF6 OM1 OM6 SF1 SF6 SM1 SM6 treatment
+CG7929 ocnus
+CG9090 mito. phosphate transporter
+2.5 2 1.5 1 0.5 0 -0.5 -1
+2 1.5 1 0.5 0 -0.5 -1
+                                                                                                                                 OF1 OF6 OM1 OM6 SF1 SF6 SM1 SM6 treatment
+OF1 OF6 OM1 OM6 SF1 SF6 SM1 SM6 treatment
+  Fig. 2 Plots of normalized gene expression level against treatment. The residuals from the normalization model are plotted for each treatment and array for four representative genes. Treatments are annotated by genotype (O or S), sex (M or F) and age (1or 6-wk). Solid lines link measures taken on the same array, with Cy3-labeled 1-week and Cy5-labeled 6-wk samples, whereas dotted lines show dye-flipped replicates. The top two genes show sex and genotype effects, whereas ocnus (bottom left) shows relatively high expression in males of both genotypes to the same degree. The downward slope of most lines for the gene in the bottom right panel indicates that expression at 6 weeks of age is reproducibly less than at 1 week of age, independent of which dye combination is used. The single upward-sloping line for Oregon males is an example of how a single array can suggest an effect in the opposite direction to that inferred from considering all of the replicates. P values obtained from the mixed model are as follows: CG3218, P<0.0001 (sex), P=0.008 (genotype) and P=0.02 (sex × genotype); CG3331, P<0.0001 (sex), P=0.0072 (genotype) and P=0.08 (sex × genotype); CG7929, P<0.0001 (sex); CG9090, P<0.0001 (age) and P=0.0143 (sex × genotype).
+nature genetics • volume 29 • december 2001
+391
+normalized expression normalized expression
+normalized expression normalized expression
+© 2001 Nature Publishing Group http://genetics.nature.com
+
+ article
+© 2001 Nature Publishing Group http://genetics.nature.com
+sex-biased expression and a quarter may be genotype-biased. The average variance contributions of sex and genotype for these genes are 60% and 33%, respectively.
+A complete list of genes showing significance for each of the main effects is provided in Web Table A and can be obtained from our web site (http://statgen.ncsu.edu/ggibson/SupplInfo/ SGAsig.xls). The biological significance of various sex effects will be discussed in relation to a comprehensive time course of Drosophila development and aging that is in preparation (K.P.W., unpublished data), but we note that our sample includes several genes that have been shown previously to be predominantly male or female biased. With respect to aging, the most significantly altered transcripts include several enzymes such as a fatty-acid desaturase (desat1) and tryptophan monooxygenase (Hn; Flybase; http://flybase.bio.indiana.edu), mitochondrial components, ion transporters, peptidases and transcription factors, but these do not obviously fall into a single functionally related group.
+Discussion
+Comparison of the magnitude of differences and variance components indicates that genotype effects on transcription may be present for up to a quarter of the genome, but that young and pre-senescent flies have remarkably similar expression profiles. Formal measures of significance measures, however, tell the opposite story. This discrepancy can be attributed to issues of statistical power and experimental design.
+With respect to power, the two primary concerns are how to establish appropriate significance thresholds that take into account multiple comparisons, and how to determine a sufficient sample size. When the goal of the experiment is to identify genes for further analysis, statistical significance should be more appropriate than magnitude of effect. Practical and biological concerns are likely to be as relevant as P values, but, despite the necessarily arbitrary nature of the choice of thresholds to account for the thousands of multiple comparisons, fitting a significance measure provides a rational alternative to fold-change in expression when choosing genes for further analysis.
+Notably, the volcano plots show that small effects that are excluded from most current methods may nevertheless have low variance and be highly significant, whereas the large effects observed in a couple of treatments for some genes can be artifacts of high variance. Consequently, instead of picking genes to the left or right of some hypothetical vertical line on a volcano plot to demarcate a threshold magnitude of difference as is done in most current studies, we advocate picking genes above a horizontal line that demarcates the chosen significance threshold.
+Sample size is not easy to estimate before carrying out an experiment, because within-and among-treatment variances are unknown; however, a range of sensible values based on previous studies can be considered. Six replicates of each treatment clearly provide sufficient statistical resolution for effects greater than 1.7fold at the whole-experiment level (sex and genotype), and remark-
+392
+nature genetics • volume 29 • december 2001
+sex effect 15
+10
+4
+1.3 0
+sex x genotype effect
+-1 -0.5
+difference between treatments
+ably we also have power to detect effects as small as 1.2-fold for contrasts within arrays (age and dye) even after adjusting for the large number of comparisons. The number of arrays required is typically not prohibitively greater than the number required for reference-sample designs, which double the sample size required to obtain the same number of experimental comparisons.
+A crucial decision with respect to experimental design is whether to randomize the contrasts on each array or to use a more structured design in which the contrast of most interest (assuming it to be dichotomous) is made on each array. General linear models used by many ANOVA packages have problems with this design, the basic statistical features of which are analogous to well-studied ‘split-plot’ experiments in agriculture16. Instead, a mixed model approach such as that implemented in PROC MIXED in SAS17 must be used to fit the fixed and random effects simultaneously14. Age is more directly estimated than sex and genotype, and is judged relative to the unexplained error, which accounts for much of the increased power despite the small magnitude of the effect. If we had contrasted Oregon R and Samarkand on each array instead of the two
+Fig. 3 Volcano plots of significance against effect. Each diamond represents one of 3,931 genes, with the negative log10 of the P value from the gene model plotted against the difference between least-square means for the indicated effect. Horizontal dashed line represents the test-wise threshold of P=0.05; the middle horizontal hairline at P=0.0001 (–log10=4) represents the preset experiment-wise false-positive acceptance level. A difference of one residual unit represents a twofold change, because raw fluorescence intensities are log2 transformed. Effects are simply the difference in least-square means from the gene-specific mixed models or, for the interaction term, the estimated size of the contribution to the variance component.
+-3 -2
+0.5 1
+2
+3
+-1 -0.5
+88
+44
+1.3 1.3 00
+-2 -1 -0.5 0.5 1 difference between treatments
+dye effect
+88
+44
+1.3 1.3 00
+0.5 1
+-2
+-1 -0.5 0.5 1
+difference between treatments
+2
+-2
+-1 -0.5
+0.5 1
+genotype effect
+2 -2
+2
+2
+difference between treatments
+age effect
+difference between treatments
+significance of effect (-logP) significance of effect (-logP)
+significance of effect (-logP) significance of effect (-logP)
+significance of effect (-logP)
+© 2001 Nature Publishing Group http://genetics.nature.com
+
+  © 2001 Nature Publishing Group http://genetics.nature.com article
+    Table 1 • Significance of treatment effects
+ effect 0.0001
+0.001 500 (13) 5 (0) 82 (2) 11 (0) 525 (13)
+0.01 921 (23) 58 (1) 248 (6) 126 (3) 983 (25)
+0.05 1,422 (36) 267 (7) 594 (15) 431 (11) 1536 (39)
+sex
+genotype
+age
+sex × genotype dye
+287 (7) 1 (0) 44 (1) 1 (0) 303 (8)
+Significance level*
+ *Number of clones with a P value less than the indicated level. The percentage (of 3,931 total clones) is given in brackets.
+ ages, it is likely that the genotype effect would have been much more significant without any marked change in estimated magnitude.
+Thus, the experimental
+design choice is whether to
+ensure that array effects are
+dealt with the same way for
+each fixed effect or to maxi-
+mize the statistical power for
+one effect of interest. If that effect is the smallest one, as in our experiment, it places the reduced significance of the larger effects in perspective, although it is not generally going to be possible to predict effect sizes in advance of a new experiment. If the intention of the experiment is to contrast the significance levels of a series of treatments directly, then looping or complete randomization of which labeling reaction is placed on which array is recommended. If it is to maximize the power for a particular contrast, then keeping that contrast constant across all arrays, as in our experiment for age effects, is recommended, so long as dye is incorporated into the design.
+A second feature of the analytical approach advocated here is the avoidance of a reference sample. Analysis of variance can also be applied to ratio data where the denominator value is supplied by a common reference, but there are at least four drawbacks to such an experimental design3–5. First, it is inefficient because the reference sample does not supply any information of biological interest. Second, the reference itself can bias a study toward unwarranted inferences and affect the power to detect changes in particular genes that are overor underexpressed in the sample. Third, variation in the preparation and labeling of the reference cDNA is often not taken into account. Last, the use of different reference pools places a strong constraint on the potential for comparison of data generated by different investigators.
+Nevertheless, there are obviously situations where standard ratio-based approaches should be favored, for example, where a compendium of hundreds of conditions18 or an extensive time course is being examined. A compromise may be to include a common reference sample in a random subset of microarrays as part of each batch of experiments performed, as an internal control for data quality, although statistical issues associated with this idea need to be addressed.
+The relatively small magnitude of the age effect was surprising, as 6-wk flies of both genotypes are beginning to show signs of wear and tear, including reduced reproductive output and onset of mortality. During this study, a cDNA microarray study of aging flies was published12 that shows a similar result using ratio estimates; that is, only a small proportion of genes show a change in expression with age. However, of 35 of the 66 age-related genes listed in Fig. 2 of Zou et al.12 that were also present in our sample, only 4—HL07869 (CG1583), a phospholipase A2 (Flybase; http://flybase.bio.indiana.edu); GH10550 (CG9244/Acon), mitochondrial citrate hydrolyase (Flybase); GH21149 (CG2076) and GH02216 (CG5453), both unknown products—were confirmed as agerelated by statistical significance in our study. This discrepancy can be attributed in part to the fact that arbitrary thresholds do not account for variance and hence can yield false positives. It may also be due to the use of 3-day flies as the reference by Zou et al.12, whereas our comparison is between 1and 6-wk flies. If the transcriptome undergoes a more profound change between emergence and one week than over the remainder of adulthood, many of the genes in their study might better be regarded as loci that show an association with adolescence and maturation as opposed to aging, which is perhaps better judged relative to middle age.
+In principle, our analytical method can be used to address the issue of whether genetic variation affects lifespan by delaying the time of onset of a common senescence program, or by inducing and repressing different sets of senescence-associated genes. Our data suggest, however, that it will be difficult to find predictors of mortality at the level of gene expression in mid-life, and hence that transcriptional studies of senescence should focus on dying flies.
+The contrastingly large magnitude and frequency of sex effects, with evidence for between oneand two-thirds of the transcriptome showing sex-biased expression, is an equally striking result. Much of this sex bias can probably be attributed to expression in the reproductive system, as a similar proportion of the fly genome is thought to be required in each of the maternal19 and paternal germ lines20 and many of the identified clones are known to be expressed in the oocyte or testes (for example, fs(1)K10 and ocnus; Flybase). Many of the genes are also likely to be differentially expressed in adult somatic tissues, however, as a comparison of expression of a library of testes-enriched cDNAs probed against gonadectomized male and female flies showed a small percentage of the genes with more than 1.5-fold differences between the sexes20. Even though mRNA was extracted from whole organisms, cDNA microarray analysis has been shown to resolve tissue-specific changes in expression during metamorphosis21. As many Drosophila traits are sex-biased and show sex × genotype interactions, differences at the level of gene expression are not unexpected and seem to be corroborated by our analysis.
+From the point of view of quantitative genetics, the most interesting effects in this study are the genotype and sex × genotype interactions. Setting aside statistical power considerations, a quarter of the transcriptome appears to be affected by genotype in at least one sex and the average magnitude of the effect is 30% of the total variance, ranging up to 90%.
+It is not possible to estimate heritability directly from these data, as the residual unexplained variation here is experimental, rather than a measure of among-fly microenvironmental variation. Measurement of the latter would require multiple arrays with the mRNA obtained from each of several different individuals per strain, which is not currently feasible for flies but is approachable for vertebrates and plants. Pooling hundreds of
+   Table 2 • Variance component contributions
+  Effect
+sex + sex × genotype
+genotype + sex × genotype age
+sex × genotype
+sex
+genotype
+Percent positive*
+     74
+     51
+     58
+     32
+     61
+     28
+Mean proportion†
+0.60 0.33 0.21 0.31 0.56 0.25
+ *The percentage of clones with a nonzero variance component estimated by PROC MIXED17, with all effects included, other than dye, random. †The mean proportion of the nonexperimental variance (that is, excluding the array variance component) for the indicated effects. Terms involving interactions do not sum, because in general different genes are affected by each of the main effects and interactions.
+ nature genetics • volume 29 • december 2001
+393
+© 2001 Nature Publishing Group http://genetics.nature.com
+
+ article
+© 2001 Nature Publishing Group http://genetics.nature.com
+1.0 0.8 0.6 0.4 0.2
+0
+0 0.2
+Methods
+Microarray preparation. We constructed the cDNA microarrays using 4,256 expressed sequence tags (ESTs) from a library sequenced by the Berkeley Drosophila Genome Project and provided by Research Genetics, which were reamplified by PCR in 96-well format in the Genome Research Laboratory at North Carolina State University. We transferred clones that showed a strong, single band to 384-well plate format, and spotted the DNA onto ArrayIt SuperAmine slides (Telechem) at a spacing of 225 μm using an Affymetrix 417 Arrayer with the Pin and Ring method25 (Genetic Microsystems) that results in relatively uniform DNA deposition within 125 μm diameter spots. We then cross-linked the DNA to the slides with 1,200 μJ of irradiation in a UV Stratalinker (Stratagene) and processed the slides according to the manufacturer’s recommendations.
+Flies and hybridization. Flies of the standard laboratory strains Oregon R and Samarkand were maintained on cornmeal and yeast food at 25 °C with a 12-h light/dark cycle. We collected them within 12 h of eclosion, placed them in vials at a density of 60 to 70 flies and transferred them to fresh vials every 3–4 days. At the time of collection (1 or 6 wk), flies were sexed under CO2 anesthesia and immediately placed in liquid nitrogen. We prepared total RNA from tubes of up to 400 whole flies using Trizol reagent (GibcoBRL), and pooled 10–12 of these preparations before isolating the poly(A) fraction for each genotype, sex and age combination using oligo(dT)-linked Oligotex resin (Qiagen). Three milligrams of poly(A) mRNA was used as a template for each of six replicate cDNA synthesis reactions using Superscript II (GibcoBRL) in the presence of fluorescently labeled Cy3or Cy5-dCTP (Amersham) essentially as described21. We purified the reactions using QIAQuick PCR purification columns (Qiagen) and hybridized the labeled RNA to clones arrayed on a 2×2-cm field under a plastic HybriSlip (Grace BioLabs) in a humidified cassette (TeleChem) for 15 h at 65 °C.
+Statistical analysis. After the arrays were washed, we measured fluorescence intensities using a ScanArray 4000 (GSI Lumonics) laser scanner and converted them to digital values using ScanAlyze software15. For each array, fluorescence intensities of the two dyes were plotted against one another to ensure that the correlation was roughly linear, indicating that neither channel was saturated. Repeated measures of data recaptured from the same scan resulted in a correlation of greater than 0.97, whereas the correlation between replicate slides was between 0.65 and 0.85, indicating that most of the variance arising from spot effects is between replicates. Our unpublished studies of slides with multiple replication of a small set of clones also indicate that replicate measures within a single hybridization tend to be much higher than across slides; therefore, spot replication within a field under-represents variance caused by labeling differences and is likely to inflate significance measures, and thus is not advised for quantitative applications (unless ‘slide’ is included as a term in the mixed model). Our replicate correlation values are very similar to those described using a radioactive microarray protocol on Drosophila tissue samples and a slightly different statistical normalization procedure20.
+We collected raw channel intensities on a Microsoft Excel worksheet and multiplied the values to give a common channel mean of 5,000 fluorescence units. Visual inspection indicated that 325 clones were uniformly at or below twice the background mean of 500 units. We removed these from the analysis, and all values less than 1,000 (about 0.5% of the data) were reset to this level, ensuring that after log2-transformation the distribution of expression scores had roughly the same range about the sample mean. We subjected the log2-transformed scores for all 188,688 spot measures (yijk) to a normalization model of the form yij=μ+Ai+Dj+(A×D)ij+εij, where μ is the sample mean, Ai is the effect of the ith array (i=1–24), Dj is the effect of the jth dye (Cy3 or Cy5), (A×D)ij is the array–dye interaction (channel effect), and εij is the stochastic error. We then subjected the residuals from this model, which can be regarded as a crude indicator of relative expression level and are referred to as ‘normalized expression levels’ in the text, to 3,931 gene-specific models of the form rijlmn=μ+Ai+Sl+Gm+Wn+ Dj+(S×G)lm+εijlmn, where Sl is the lth sex (male or female; 1 degree of freedom (d.f.)), Gm is the mth genotype (Oregon R or Samarkand; 1 d.f.), Wn is the nth age (1 wk or 6 wk; 1 d.f.) and (S×G)lm is the interaction between sex and genotype (1 d.f.). Interactions involving age were not included because the terms were too small to be significant given the high variance of the interaction. In the gene models, which were fit using PROC MIXED in SAS17, the Ai effect is random (23 d.f., leaving 19 d.f. for the residual
+0.4 0.6
+contribution of sex and S∗G to variance
+Fig. 4 Lack of correlation between sex and genotype effects. The proportion of the total variance attributed to genotype (line) and sex × genotype (S*G) interaction is plotted against that attributed to sex and sex × genotype interaction. Total variance is calculated as the sum of the variance components owing to sex, genotype, age, sex × genotype interaction and residual error, which represents the biological and unexplained variance (the experimental sources of error, namely dye and array, are excluded).
+flies removes the among-fly variation, but it is unlikely that this would be greater than the experimental variation, which typically results in twoto four-fold differences in estimated relative expression level of individual genes even within a sample (Fig. 2). Consequently, the error term is probably inflated relative to the true environmental variance, and so the contribution of genetic differences is likely to be underestimated in our experiment. Even if the environmental variance were twice as high, it can be argued that the genetic component of transcriptional variance is comparable to the genetic component of phenotypic variance within an order of magnitude, which is by no means a trivial implication: individual genetic variance components could have been much smaller or larger, restricted to just a handful of genes, or observed across the entire genome.
+Much more extensive genotype comparisons, as well as comparisons across controlled environments, will be required to generate an accurate estimate of transcriptional ‘heritability’ and to ascertain whether the same genes tend to vary in transcription among different lines. A microarray study of Fundulus (M. Oleksiak, G. Churchill and D. Crawford, personal communication) analyzed with similar methods also clearly suggests that up to 15% of the genome is differentially expressed in individual fish grown under controlled environmental conditions.
+Accurate estimation of genotypic effects on transcription has considerable implications for understanding the mapping of genotype onto phenotype. Individual polymorphisms typically account for less than a few per cent of the total phenotypic variance, and their effects are proving extremely difficult to dissect22. Our results suggest that it may be easier to detect associations between transcription level and phenotype, at least for metabolic and physiological traits. The convergence of transcriptome profiles on states that define, for example, cancer types23, similar effects of drugs and mutations17 and sexual dimorphism (this study) may imply a level of nonindependence of gene expression that is under-appreciated. Whether or not such transcriptional canalization is a direct consequence of the quantitative regulation of a relatively small set of transcription factors and TAFs24, it may contribute to the covariance and stability of phenotypes at several levels. The continuing use of microarray analysis to dissect the level of association between genotype and transcription, and between transcription and phenotype, should provide a new perspective on the prevalence of epistatic and genotype by environment interactions and their roles in the production of quantitative traits and the maintenance of genetic variation.
+© 2001 Nature Publishing Group http://genetics.nature.com
+contribution of genotype and S∗G to variance
+394
+nature genetics • volume 29 • december 2001
+0.8 1.0
+
+  © 2001 Nature Publishing Group http://genetics.nature.com article
+  error), and controls for spot effects. Failure to include this term results in failure to account for covariation between the two samples on each array which arises from the fact that they share features of the same DNA spot such as differences in DNA concentration and effects of washing on local background.
+We tested for overall differences in expression level among fixed effects across all transcripts by fitting the model yilmn=μ+Sl+Gm+Wn+Ai (S,G,W)ilmn+εilmn before the normalization step, where the array within sex, genotype and age term is a random effect. Although males showed significantly higher fluorescent intensity than females across all arrays (mean 12.11 versus 12.05 log2 units), the difference only corresponds to a 1.04fold increase, which is much smaller than any of the significant gene-specific effects. Neither line nor age (nor any interaction terms) was significantly different by the same criteria. But it should be borne in mind that wherever relative measures are used (as in all microarray applications), perceived differences in expression of a set of genes may arise either because those genes change in absolute level of transcription or because they remain constant while the remainder of the genome changes.
+Differences in statistical power between the terms at the whole-plot level (sex and genotype) and those at the sub-plot level (age and dye) arise from the nature of the split-plot experimental design, in which the error terms in the mixed model ANOVAs are analogous to the array mean square (spot effect) for sex and genotype terms, and the error mean square for the age and dye terms. Fitting the array term markedly increases the power to detect age effects by removing among array variance, but reduces the power for sex and genotype by halving the degrees of freedom (but not fitting the array effect illegitimately fails to account for covariance of the two age samples). Running the analysis after subtraction of background intensities from raw fluorescence scores made no substantial difference other than slightly reducing the significance values.
+Six loci that showed significant treatment effects were represented by two different ESTs, and despite overall differences in the mean normalized expression level between the two ESTs, in each case the magnitude and significance of the relevant treatment effect was the same. This implies that the normalized expression levels do not necessarily allow comparison of the absolute expression levels of two or more genes, owing to EST-specific hybridization effects, but do reproducibly reflect changes in relative expression level among samples.
+We estimated trait effects from the difference between least-square means calculated for each fixed effect. For the analysis in Table 2 and Fig. 4, we calculated variance components for sex, genotype, age, sex × genotype interaction and residual error, using SAS PROC MIXED17, but with only Dye as a fixed effect. Although sex and age are usually regarded as a fixed effects, we treated them as random here merely as a mechanism to compare the magnitude of variance explained with the other effects.
+Note: Supplementary information is available on the Nature Genetics web site (http://genetics.nature.com/supplementary_info/).
+Acknowledgments
+We thank J. Sall for discussions; B. Sosinski and L. He for help with resequencing the EST set and establishing the microarray facility; and M.
+Arbeitman, B. Null, E. Johnson, E. Furlong, F. Imam, A. Wagoner and M. Magwire for helping to prepare miniprep cDNA clones from the EST library. This work was supported by grants to G.G. from the National Institute of Aging and the David and Lucille Packard Foundation.
+Received 2 February; accepted 28 September 2001.
+395
+© 2001 Nature Publishing Group http://genetics.nature.com

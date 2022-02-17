@@ -1,0 +1,346 @@
+Syst. Biol. 48(2):233–253, 1999
+Combined Molecular Phylogenetic Analysis of the Orthoptera (Arthropoda, Insecta) and Implications for Their Higher Systematics
+P.K.FLOOK,1 S.KLEE,ANDC.H.F.ROWELL
+Zoology Institute, University of Basel, 4051-Basel, Switzerland
+Abstract.— A phylogenetic analysis of mitochondrial and nuclear rDNA sequences from species of all the superfamilies of the insect order Orthoptera (grasshoppers, crickets, and relatives) con􏰭rmed that although mitochondrial sequences provided good resolution of the youngest superfamilies, nuclear rDNA sequences were necessary to separate the basal groups. To try to reconcile these data sets into a single, fully resolved orthopteran phylogeny, we adopted consensus and combined data strategies. The consensus analysis produced a partially resolved tree that lacked several wellsupported features of the individual analyses. However, this lack of resolution was explained by an examination of resampled data sets, which identi􏰭ed the likely source of error as the relatively short length of the individual mitochondrial data partitions. In a subsequent comparison in which the mitochondrial sequences were initially combined, we observed less con􏰮ict. We then used two approaches to examine the validity of combining all of the data in a single analysis: comparative analysisoftreesrecoveredfromresampleddatasets,andtheapplicationofarandomizationtest.Because the results did not point to signi􏰭cant levels of heterogeneity in phylogenetic signal between the mitochondrial and nuclear data sets, we therefore proceeded with a combined analysis. Reconstructing phylogenies under the minimum evolution and maximum likelihood optimality criteria, we examined monophyly of the major orthopteran groups, using nonparametric and parametric bootstrap analysis and Kishino–Hasegawa tests. Our analysis suggests that phylogeny reconstruction under the maximum likelihood criteria is the most discriminating approach for the combined sequences. The results indicate, moreover, that the caeliferan Pneumoroidea and Pamphagoidea, as previously suggested, are polyphyletic. The Acridoidea is rede􏰭ned to include all pamphagoid families other than the Pyrgomorphidae, which we propose should be accorded superfamily status. [Combined analysis; insect phylogeny; molecular evolution; Orthoptera; ribosomal DNA.]
+We have used phylogenies reconstructed from nucleotide sequences to examine the evolutionary history of the insect order Orthoptera (grasshoppers, crickets, and relatives) (Flook and Rowell, 1997a, 1997b, 1998). Of particular interest are relationships of several of the higher taxa, and we have attempted to relate our results to existing systematic disputes. The molecular phylogenies are well suited to this task and have the potential to resolve several outstanding problems concerning the ecology, character evolution, and biogeographic distribution of member taxa. However, the success of these analyses has been limited since, on their own, the different sequences have proven inadequate for reconstructing phylogeny over the whole range of orthopteran evolution. Because of this, we have so far been unable to reduce the 􏰭ndings of our work to a single schema.
+1Address correspondence to Dr. P. K. Flook, Zoologisches Institut, Rheinsprung 9, 4051-Basel, Switzerland. E-mail: 􏰮ook@ubaclu.unibas.ch.
+The failure of these analyses to generate fully resolved phylogenies may stem from the antiquity of the Orthoptera. Divergence dates of the major groups are estimated to range over a period of ~ 200 million years, with fossils of the oldest groups appearing in the Permian (Carpenter and Burnham, 1985). Consequently, although the relatively rapidly-evolving mitochondrial sequences have proven valuable for examining comparatively recent events (Flook and Rowell, 1997b), the basal branching patterns of the Orthoptera are resolved only by the more slowly evolving nuclear ribosomal RNA gene sequences (Flook and Rowell, 1998). In contrast, these nuclear sequences are almost invariant in the more recently evolved groups, and we were previously unable to detect signi􏰭cant phylogenetic signal among the four youngest caeliferan superfamilies. On the basis of these results, we expect that the data sets contain enough phylogenetic signal between them to determine most of the major features of orthopteran phylogeny in a single analysis. The purpose
+ 233
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+234 SYSTEMATIC BIOLOGY VOL. 48
+ of the work reported here was to identify an effective strategy for resolving the orthopteran phylogeny from the three data sets.
+Two fundamentally different approaches for treating multiple phylogenetic data sets are commonly applied: consensus, and combined analyses. Both of these strategies have been criticized (Bull et al., 1993; de Queiroz, 1993), and selection of one over the other is complicated. An argument in favor of combining data is that, because most reconstruction methods are consistent (for most underlying tree shapes), an analysis is more likely to recover the correct phylogeny as data are added. On the other hand, phylogenetic reconstruction can become complicated when data that evolve at very different rates (e.g., mitochondrial and nuclear DNA) are combined in a single analysis. As has been demonstrated, when heterogeneity exists in phylogenetic signal from different data partitions, the overall signal is sometimes diminished after pooling of data; in such cases, data combination should be avoided (Bull et al., 1993; de Queiroz, 1993). Bull et al. (1993), discussing the alternatives for analyzing multiple data sets, maintain that a combining of data should be preceded by a search for any con􏰮ict between the individual data sets.
+Here we estimate relationships among orthopterans from new and previously published molecular data and, in doing so, examine several important aspects of phylogeny reconstruction. First, we consider the choice of reconstruction method in situations where contrasting phylogenetic levels are examined simultaneously. Second, we compare the use of both consensus and data combination approaches for analyzing the mitochondrial and nuclear ribosomal DNA (rDNA) sequences. We suggest that consensus methods are too conservative for the treatment of the orthopteran data. We demonstrate that combining nuclear and mitochondrial DNA (mtDNA) sequences in a single analysis is legitimate, in spite of the fact that the sequences are evolving at different rates. Reconstructing trees from the combined data set under the criteria of minimum evolution (ME) and maximum likeli-
+hood (ML) optimality, we obtain a phylogenetic scheme in which the majority of nodes are resolved.
+MATERIALS AND METHODS
+Samples
+Samples from all the orthopteran superfamilies were included in this study. In the suborder Caelifera (shorthorned grasshoppers) seven superfamilies are commonly recognized (see Dirsh, 1975; Rentz, 1991): Tridactyloidea (false mole crickets, sand gropers); Tetrigoidea (pygmy grasshoppers, grouse locusts); Eumastacoidea (monkey grasshoppers, false stick insects); Pneumoroidea (􏰮ying gooseberries, desert longhorned grasshoppers, razor-back bushhoppers); Pamphagoidea (rugged earth hoppers, true bush-hoppers); Acridoidea (grasshoppers, locusts); and Trigonopterygoidea. In the other orthopteran suborder, Ensifera (long-horned grasshoppers, katydids, crickets), we sampled all four superfamilies (following the higher classi􏰭cation of Gorochov, 1995b): Tettigonioidea (bushcrickets, katydids); Hagloidea (humpwinged crickets); Stenopelmatoidea (cave crickets, Jerusalem crickets, wetas); and Grylloidea (true crickets, mole crickets). In addition we used outgroup taxa from three related orders: Phasmida (walking sticks); Blattodea (cockroaches); and Grylloblattodea (ice-crawlers). A full list of the material used in this study is given in Table 1. The seven taxa in which sequences were determined for the 􏰭rst time were Rhainopomma montanum (Caelifera, Acridoidea, Lentulidae), an unidenti􏰭ed species of Systella from Borneo (Caelifera, Trigonopterygoidea, Trigonopterygidae), Tanaocerus koebeli (Caelifera, Pneumoroidea, Tanaoceridae), Xyronotus aztecus (Caelifera, Pneumoroidea, Xyrolnotidae), Physemacris variolosa (Caelifera, Pneumoroidea, Pneumoridae), Comicus campestris (Ensifera, Stenopelmatoidea, Stenopelmatidae), and Ceuthophilus carlsbadensis (Ensifera, Stenopelmatoidea, Rhaphidophoridae). Procedures for collection and storage of material and for DNA isolation
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999 FLOOK ET AL.—PHYLOGENETIC ANALYSIS OF THE ORTHOPTERA 235
+     Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+TABLE 1. Taxonomic sample examined in this study. The higher taxonomic groups of the Caelifera and Ensifera identi􏰭ed here correspond to those listed by Dirsh (1975) and Gorochov (1995b), respectively. The Acridomorphoidea sensu Dirsh (1975) corresponds to the superfamilies Acridoidea, Pamphagoidea, Pneumoroidea, and Trigonopterygoidea.
+Order Orthoptera
+Suborder Caelifera
+Superfamily Acridoidea
+Family Acrididae
+Genus
+Species
+12S
+EMBL accession nos. 16S
+18S
+Phasmida
+Phyllidae Pseudophasmatidae Grylloblattidae Panchloridae
+Acheta Phyllium Agathemera Grylloblatta Gromphadorhina
+—b Z97575 Z97561 Z97569 Z97592
+Grylloblattodea Blattodea
+Ensifera
+Tetrigoidea Tridactyloidea Tettigonioidea Stenopelmatoidea
+Euschmidtiidae Eumastacidae Batrachideidae Tetrigidae Tridactylidae Cylindrachetidae Tettigoniidae
+a Previously unpublished sequences obtained for this study. b Sequences not included in this study.
+Pamphagoidea
+Lentulidae Pamphagidae
+Gomphocerippus Acrida Oedipoda Rhainopomma Glauia Batrachotetrix Prosphena Pyrgomorpha Bullacris Pneumora Physemacris Tanaocerus Xyronotus Systella
+rufus
+turrita coerulescens montanum terrea
+sp.
+scudderi conica membracioides inanis variolosa koebeli
+aztecus
+raf􏰮esi
+sp. teretrirostris robusta cruciformis dentata
+sp.
+cucullatus australis kochii viridissima nitidula campestris crassidens carlsbadensis monstrosus campestris domesticus bioculatum crassa
+rothi portentosa
+Z93247 Z97596a Z93255 Z97601a Z93258 Z93259 Z93261 Z97600a Z93264 Z93265 Z97599a Z97605a Z97607a Z97604a Z97603a Z93266 Z93267 Z97609a Z97598a Z93274 Z93273 Z93275 Z93277 Z97606a Z97602a Z97698a Z93278 Z97597a Z93279 Z93280 Z97611a Z93281 Z93282 Z93283 Z97610a
+Z93285 Z97612a Z93293 Z97618a Z93296 Z93297 Z93299 Z97616a Z93302 Z93303 Z97615a Z97621a Z97623a Z97620a Z97619a Z93304 Z93305 Z97625a Z97614a Z93312 Z93311 Z93313 Z93315 Z97622a Z97618a Z97624a Z93316 Z97613a Z93317 Z93318 Z97627a Z93319 Z93320 Z93321 Z97626a
+Z97591 Z97560 Z97573 Z97581a Z97568 Z97590 Z97579 Z97580 Z97562 Z97577 Z97576a Z97586a Z97588a Z97585 Z97584a Z97578 Z97583 Z97567 Z97571 Z97631 Z97574 Z97572 Z97565 Z97574 Z97582 Z97564a Z97570 Z97563a Z97566
+Pneumoroidea
+Pyrgomorphidae Pneumoridae
+Trigonopterygoidea Eumastacoidea
+Tanaoceridae Xyronotidae Trigonopterygidae
+Hagloidea Grylloidea
+Stenopelmatidae Mimnermidae Rhaphidophoridae Haglidae Gryllidae
+—b
+Proscopiidae
+Systella Prosarthria Stiphra Euschmidtia Homeomastax Indet
+Paratettix Neotridactylus Cylindraustralia Tettigonia Ruspolia Comicus Hemideina Ceuthophilus Cyphoderris Gryllus
+
+236 SYSTEMATIC BIOLOGY VOL. 48
+ have been published previously (Flook and Rowell, 1997a, 1998).
+Sequence Data
+We obtained 3,177 bp (total alignment length) of sequence from three genes: 393 bp of the 30 half of the mitochondrial smallsubunit rRNA gene (12S); 558 bp from the 30 half of the mitochondrial large-subunit rRNA gene (16S); and the complete sequence (2,226 bp) of the nuclear smallsubunit rRNA gene (18S). For details of the PCR ampli􏰭cation of the mitochondrial gene sequences, see Flook and Rowell (1997a) . Nuclear 18S sequences were ampli􏰭ed, cloned, and sequenced as described in Flook and Rowell (1998). All sequences have been deposited in the EMBL database; a list of the corresponding accession numbers is given in Table 1.
+Raw data were analyzed with the Li-Cor Image-Analysis software (version 2.3) and contig assembly was performed by using the AssemblyLign package (Oxford Molecular Group). New sequences were added to the existing sequence alignments and edited manually with use of the SeqApp program (D. Gilbert, Univ. Indiana). We attempted to resolve dif􏰭cult regions of the DNA alignment by referring to the secondary structure of the three genes (Flook and Rowell, 1997b, and unpubl. data); in several regions, however, the alignment remained uncertain, and we omitted these regions from subsequent analyses. A computer 􏰭le containing the sequence data in NEXUS format is available from P.F.K. on request.
+Analyses
+Substitution patterns.—Preliminary analyses indicated that sequences differ from each other with respect to base composition (determined by comparison of uncorrected and LogDet nucleotide substitution distances: Lockhart et al., 1994), variability, and distribution of among-site rate variation (through estimation of gamma distribution shape parameters). To examine the underlying patterns of nucleotide substitution in more detail, we adopted a ML approach (e.g., see Huelsenbeck and Crandall, 1997). To compare the 􏰭t of substitution models, we
+used likelihood ratio tests (LRTs) to assess the statistical signi􏰭cance of differences between likelihood scores obtained for a given phylogeny under various assumptions. The phylogeny in question was estimated by using equally weighted parsimony. Likelihoods were calculated with the computer program PAUP* 4d61 (test version provided by D. Swofford, Smithsonian Institution). We calculated the test statistic as 2(ln L0– ln L1) = –2 ln L, where L0 and L1 are the likelihoods under the null and alternate hypotheses, respectively. The signi􏰭cance of the LRT statistic was tested by using a x 2 distribution with n degrees of freedom, where n is the number of parameters that differ between substitution models.
+Phylogenies were reconstructed and analyzed by using PAUP* . Heuristic searches were conducted under the maximum parsimony (MP), ME, and ML optimality criteria. For MP we performed equally weighted and character state–weighted heuristic searches. Under the ME optimality criterion, after the results of the preliminary likelihood analyses searches, we used the generalized nucleotide substitution model of Hasegawa et al. (1985), HKY85, with and without a gamma correction for among-site rate variation. We calculated the shape parameter by using the methods of Sullivan et al. (1995) and Yang and Kumar (1996) as implemented in PAUP* . To calculate phylogenies under the ML optimality criterion, we used an iterative strategy (Swofford et al., 1996). Initially, we used a MP tree as a starting tree for the analysis. We then performed a heuristic search, using the optimal substitution model identi􏰭ed in the preliminary likelihood analysis (see above), and simultaneously estimating model parameters. We used the resulting phylogeny as the starting point for another search and repeated this process until the analysis converged on a single phylogeny. For ME and MP trees, we used nonparametric bootstrap analysis to assess the con􏰭dence that could be attached to the individual nodes.
+Effect of sequence length on phylogeny estimation.—We adopted a resampling approach to simulate the effect of increasing sequence length and examined its in􏰮uence on phylo-
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999 FLOOK ET AL.—PHYLOGENETIC ANALYSIS OF THE ORTHOPTERA 237
+ genetic reconstruction. We sampled the original data sets with replacement to generate new samples of various sequence lengths. For each sequence length we generated 50 new samples. New samples of between 100 and 2,000 bp in size were generated in 100bp increments; new samples of between 2,500 and 5,000 bp were generated in 500bp increments. Resampled data sets were generated with use of a program written by P. K. F. (DOS program available from P.K.F. on request). Phylogenies were reconstructed by two methods: heuristic searches under the MP criterion, and heuristic searches under ME criterion (HKY85 distance). We did not perform analyses under the ML optimality criterion because computation times were prohibitive. In cases when multiple trees were obtained for data sets, strict consensus trees were retained for analysis. The results of searches were then assessed by calculating the average symmetric difference (Penny and Hendy, 1985) between all trees in different size samples (by using the TREEDIST command in PAUP* ). Using this approach, we were then able to obtain a measure of convergence with resampled data sets upon an unspeci􏰭ed tree.
+Randomization test of phylogenetic heterogeneity among data partitions.—The randomization test of Rodrigo et al. (1993) was used to investigate the legitimacy of combining the data by examining the hypothesis that differences between phylogenies estimated from different data sets were due to sampling error. The test has the advantage in the present situation of being applicable under any optimality criterion; we used it to examine data combination under ME. The 􏰭rst stage of performing the test involved generating two sets of 500 nonparametric bootstrap samples from each of the individual data partitions and from the 12S + 16S data partition. After estimating trees from the bootstrap replicates by using ME, we calculated symmetric differences for each of the 500 pairs of trees, using the compute program Component (Page, 1993) . The resulting tree-to-tree distances were then plotted as frequency histograms, which should correspond to the null distribution of tree-totree distances when two data sets estimate
+the same historical events. To perform the test, we then compared the observed tree-totree distance for phylogenies reconstructed from two data sets against the corresponding null distributions. This has three possible outcomes. First, if the observed treeto-tree distance is less than the 95% value of both null distributions, we do not reject the hypothesis that the observed differences are due to sampling error. Second, if the observed tree-to-tree distance is greater than the 95% value in only one of the comparisons, this indicates that the error associated with one of the data sets is greater than that with the other but would not be suf􏰭cient grounds to reject combination. However, the third possibility, that the observed tree-totree distance is greater than the 95% level in both comparisons, is explicable only for data sets that estimate signi􏰭cantly different trees and so combination of the data would not be appropriate.
+Parametric bootstrap analysis of ME trees.— We used parametric bootstrapping to assess the possibility that the presence of a given grouping in a tree might be the result of cumulative phylogenetic error in component branches, rather than a signi􏰭cant phylogenetic signal. Although this approach has been previously applied in a likelihood framework (e.g., Huelsenbeck and Rannala, 1997), as indicated above, the computation times for calculating ML trees were prohibitive. Instead we implemented the approach under the criterion of ME optimality. To generate parametric bootstrap samples, we initially reconstructed ME trees with speci􏰭c constraints enforced (i.e., monophyly of a given group) and used HKY85 distances to estimate sequence divergence. Using the resulting topologies and branch lengths, a computer program simulated 100 new data sets of the same length as the original data set. The program included C source code from the Siminator program (J. Huelsenbeck, Univ. California-Berkeley) to generate the transition probabilities under the HKY85 model. Empirical estimates of base frequencies were used to generate ancestral sequences in the simulation, and amongsite rate variation was incorporated by using a gamma shape parameter estimated from
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+238 SYSTEMATIC BIOLOGY VOL. 48
+ the original data. Phylogenies were reconstructed from the simulated data under the ME criterion and the resulting trees summarized in a majority rule consensus tree. We then calculated the parametric bootstrap support (PBS) for the prespeci􏰭ed node as the percentage of times it was recovered in the consensus. We interpreted the PBS value as indicative of whether a departure from the given hypothesis (i.e., nonmonophyly of a group) might be explicable by phylogenetic error in the data set. Thus, if we are interested in the absence of a speci􏰭c grouping in our reconstruction, a very low PBS value would signify high levels of random error in the data for that hypothesis, and little importance should be attached to the observation of polyphyly in the original analysis. Conversely, a high PBS value would be indicative of low levels of phylogenetic noise associated with an hypothesis, and its observation would be therefore signi􏰭cant.
+Kishino–Hasegawa Tests.—To compare competing phylogenetic hypotheses under the ML optimality criterion, we used the Kishino–Hasegawa test (KHT; Kishino and Hasegawa, 1989) as implemented in PAUP* . To test speci􏰭c hypotheses of monophyly, we reconstructed phylogenies under the constraint of monophyly for the given group, using the CONSTRAINTS option of PAUP* . We estimated ML parameters and trees by using the iterative approach described above. In this way we were able to recover the best tree compatible with a given hypothesis of monophyly.
+RESULTS AND DISCUSSION
+Sequence Data
+In addition to data collected in the previous studies, we determined new sequences in a total of 15 species. Both mitochondrial and nuclear sequences were obtained for the 􏰭rst time in seven of those taxa, and in the other eight we sequenced those fragments not included in the earlier work. One important omission from the data reported here is the 18S sequences from members of the ensiferan Grylloidea (crickets, mole crickets, and related insects). We obtained sequences from several members of this su-
+perfamily (including Gryllus and Acheta), but analysis of the 18S sequences indicated that they were extremely diverged from the other orthopterans. A preliminary analysis of the pattern of variation in these genes indicated that any ensiferan phylogeny including the grylloid 18S gene sequences is unlikely to correspond to the species phylogeny (unpubl. results). However, because the Grylloidea represent an important ensiferan group, we have attempted to reconcile them into this analysis by performing a separate analysis of the mtDNA.
+The main properties of the DNA sequences are summarized in Table 2. The alignment lengths of 12S, 16S, and 18S sequences were 393, 558, and 2,226 bp, respectively. After removal of ambiguous alignment positions, the lengths of the three genes were reduced to 316, 448, and 1,773 bp, respectively, giving a total of 2,537 bp. The proporion of variable sites in the mtDNA (67.1%) was three times greater than that in the 18S gene (21.6%). The nucleotide compositions of the sequences also contrast. Table 2 emphasizes the high A + T content in the mitochondrial sequences (69.5%) compared with the 18S sequences, which have effectively no bias (52.7%). Variation in base composition, particularly in the mtDNA, is also present between different taxonomic groups (see Table 3), although the phylogenetic component of this variation is minimal. For example, the highest average mtDNA A + T content (72.4%) is recorded in the Trigonopterygoidea, whereas the second lowest mtDNA A + T content is recorded in the Pamphagoidea (67.5%), a relatively closely related group. Because such variation can be confounding in phylogeny reconstruction in the mtDNA sequences (Flook and Rowell, 1997b), we also used the LogDet transformation (Lockhart et al., 1994), which corrects for distortions in phylogenetic signal that are due to compositional bias. Although trees based on uncorrected distances (p-distance, Jukes–Cantor distance) differed from LogDet trees, we detected no such differences between trees that were based on distances corrected for unequal base composition (e.g., HKY85). Therefore we rejected the condition of non-
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999
+FLOOK ET AL.—PHYLOGENETIC ANALYSIS OF THE ORTHOPTERA
+239
+ TABLE 2.
+Descriptive statistics for separate and combined data partitions.
+ Data partition
+12S
+393 316 175
+217 (68.7)
+0.31 0.32 0.11 0.12 0.17 0.20 0.41 0.36
+1,086(16 ) 1,378( 4 ) 0.35 0.38 0.41 0.38
+0.733 0.676 0.802 0.799 0.714 0.656 0.784 0.782
+ Initial length (bp)
+Final length (bp)a
+No. parsimony-informative sites No. variable sites (% of 􏰭nal)
+A
+C
+G
+T
+MPtreelength(n)b
+CIc
+RId
+Gammae
+MP, YK MP, S ME, YK ME,S
+16S
+558 448 225
+18S
+2226 1773 176 383 (21.6) 0.25 0.23 0.28 0.24 735(24 ) 0.67 0.66
+0.166 0.253 0.146 0.205
+12S + 16S
+951 764 400
+513 (67.1) 0.32
+0.11 0.19 0.38 2,516( 3 ) 0.36
+0.37
+0.670 0.777 0.669 0.771
+12S + 16S + 18S
+3177 2537 576
+896 (35.3) 0.27
+0.20 0.25 0.28 3,274( 1 ) 0.43
+0.43
+0.204 0.246 0.203 0.244
+296 (66.1)
+ a Length of sequence after removal of ambiguous alignment sites. b n = number of trees recovered.
+c Consistency index for MP tree.
+d Retention index for MP tree.
+e Estimate of gamma shape parameter from MP and ME trees by methods of Yang and Kumar (1996) and Sullivan et al. (1995).
+stationarity of base composition bias as requiring any special attention in this analysis.
+Properties of Parsimony Trees
+We initially reconstructed phylogenies by equally weighted parsimony. The resulting trees are not shown here but their lengths and corresponding statistics are summarized in Table 2. Values for consistency
+indices (CIs) were relatively low in the mtDNA sequences (average = 0.36), re􏰮ecting the decreased levels of character congruence at the base of the orthopteran molecular phylogeny. The CI for the 18S data was higher (0.67), although the number of informative sites (210) was approximately half that in the mtDNA sequences (402). Nonparametric bootstrap support (NBS) for the
+TABLE 3.
+Summary of phylogenetic analyses of orthopteran superfamilies and phasmids. A + T%
+  Group
+Caelifera
+Acridoidea Pamphagoidea Pneumoroidea Trigonopterygoidea Eumastacoidea Tetrigoidea Tridactyloidea
+Ensifera Tettigonioidea Stenopelmatoidea
+Orthoptera Phasmida
+12S + 16S
+0.6978 0.6939 0.6746 0.6892 0.7243 0.7099 0.7127 0.7133
+0.6773 0.6709 0.6827
+0.6934
+0.7148
+18S 12S + 16S + 18S
+0.4953 0.5523 0.4947 0.5509 0.4963 0.5466 0.4940 0.5496 0.4931 0.5606 0.4971 0.5562 0.4993 0.5588 0.4924 0.5525
+0.4960 0.5471 0.4954 0.5450 0.4971 0.5498
+0.4955 0.5512
+0.4950 0.5543
+Autapomorphies NBSa
+0 89 0 0 0 0 0 0 9 100 0 11 7 100 7 100
+0 97 2 100 1 52
+0 87
+19 100
+  a Nonparametric bootstrap support. Values correspond to the number of times a particular group was recovered as monophyletic
+in 1000 replicates.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+240 SYSTEMATIC BIOLOGY VOL. 48
+ TABLE 4. Maximum likelihood analysis of hierarchical substitution models for the combined sequence data set. The log likelihood of a maximum parsimony phylogeny was estimated under different models of nucleotide substitution. Likelihoods were assessed with likelihood ratio tests as described in Materials and Methods. Models compared: JC69, Jukes and Cantor (1969); F81, Felsenstein (1981); HKY, Hasegawa, Kishino, and Yang (1985); GTR, general time-reversible model (Lanave et al., 1984); GTR + G , general time-reversible model with gamma distribution correction for among-site variation.
+ H0 vs.H1
+JC69 vs. F81 F81 vs. HKY85 HKY85 vs. GTR GTR vs. GTR + G
+lnL0
+–19621.64 –19518.29 –18912.96 –18864.14
+lnL1
+–19518.29 –18912.96 –18864.14 –18323.86
+–2lnL df 206.7 3
+1210.66 1 97.64 4 1080.56 1
+P
+< < 0.001 < < 0.001 < < 0.001 < < 0.001
+  unweighted parsimony trees was generally low, particularly among the higher caeliferans. We also estimated character transition matrices from these trees and reconstructed phylogenies by using weighted parsimony. For character-state weighting we performed several searches, using a range of transition:transversion weightings varying from 1:2 to 10:1. As in the equally weighted parsimony, several nodes were poorly supported in nonparametric bootstrap analysis. We concluded that the low overall level of character congruence in the individual genes at speci􏰭c phylogenetic levels prevents the parsimony method from effectively recovering phylogeny for the entire order. Character-state weighting is similarly ineffective because of the contrasting patterns of substitution at the different phylogenetic levels in the data sets, particularly in the mtDNA. For this reason we did not pursue parsimony methods further.
+Analysis of Substitution Methods
+A more effective way of analyzing the data than by parsimony is to use modelbased approaches, namely, ME and ML. However, to apply these optimality criteria effectively, one must identify an appropriate substitution model. For this purpose we used a likelihood approach to examine a hierarchy of different models. We 􏰭rst examined the assumption of equal base frequencies, then the assumption of equal transition and transversion rates, then the general time-reversible (GTR) model (where all substitution probabilities are assumed to be independent), and 􏰭nally the assumption of equal rates among sites. The results, sum-
+marized in Table 4, indicate that as more parameters are added to the substitution model, the 􏰭t of the model to the combined sequences is signi􏰭cantly improved as assessed by likelihood ratio tests. Therefore, for subsequent analyses with ML, we used the GTR model with a gamma correction for among-site rate variation. However, for analyses under the ME criteria we decided to use the transformation based on the HKY85 model. This model is still a good approximation to the underlying pattern of substitution but has a smaller variance than the GTR distance because of the lower number of parameters,—a desirable property for reconstruction of phylogenies from distance data (Kumar et al., 1993).
+Reconstruction and Consensus Analysis of ME Trees
+Phylogenies were reconstructed under the ME optimality criteria from HKY85 distance matrices as described above (Fig. 1a). The shapes of the mtDNA trees are very similar, with short branches between the basal groups, whereas the 18S phylogeny shows the reverse pattern. The symmetric difference, a measure of the amount of congruence betweentwotrees(PennyandHendy,1985), between the 12S and 16S trees was 44, and the average distance between the mtDNA trees and the 18S tree was 38. The three trees were compared in a strict consensus, and the results (Fig. 1b) con􏰭rm that the level of congruence between data sets is low, the only signi􏰭cant feature of orthopteran phylogeny recovered in this analysis being the monophyly of the Caelifera.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999 FLOOK ET AL.—PHYLOGENETIC ANALYSIS OF THE ORTHOPTERA 241
+  FIGURE 1. Consensus analyses of minimum evolution (ME) trees. Combined data partitions are indicated by “+” symbol (e.g., 12S + 16S); different data partitions included in consensus tree are indicated by “&” symbol (e.g., 12S & 16S). (a) HKY85 ME phylograms for 12S, 16S, combined (12S + 16S), and 18S data partitions. (b) Strict consensus for 12 S & 16S & 18S trees. (c) Strict consensus for (12S + 16S) & 18S trees. (d) Adams consensus for (12S + 16S) & 18S trees. (e) Agreement subtree for (12S + 16S) & 18S trees. Abbreviations for taxa: Gom = Gomphocerippus; Acr = Acrida; Oed = Oedipoda; Rha = Rhainopomma; Gla = Glauia; Bat = Batrachotetrix; Prosph = Prosphena; Pyr = Pyrogomorpha; Bul = Bullacris; Pne = Pneumora; Phys = Physemacris; Tan = Tanaocerus; Xyr = Xyronotus; SysR = Systella raf􏰮esi; SysB = Systella sp.; Pros = Prosarthria; Sti =Stiphra; Eus = Euschmidtia; Hom = Homeomastax; Tetr = Batrachideidae sp.; Par =Paratettix; Neo = Neotridactylus; Cyl = Cylindraustralia; Tetti = Tettigonia; Rus = Ruspolia; Com = Comicus; Hem = Hemideina; Ceu = Ceuthophilus; Cyp = Cyphoderris; Phyl = Phyllium; Aga = Agathemera; Gry = Grylloblatta; Gro = Gromphadorhina.
+Previous analysis suggests that the individual mtDNA sequences are too short to provide resolution at deep levels, and that combining sequences greatly improves the effectiveness of reconstructions (Flook and Rowell, 1997b) . We therefore performed a ME search for the combined 12S + 16S data (Fig. 1a) and used the resulting tree in a second strict consensus analysis with the 18S data. The consensus tree obtained (Fig. 1c) contains several more bifurcations than does the tree recovered from the consensus of the 12S, 16S, and 18S data partitions, although the overall congruence between the trees is still low (symmetric dif-
+ference = 30). The source of disagreement between the different trees is clari􏰭ed by adopting a different comparison method. In an Adams (1986) consensus, where nestings within the individual trees are preserved, many of the more recently evolved caeliferan taxa are represented in the 􏰭nal tree (Fig. 1d); however, several unlikely groupings are also contained in this tree (e.g. Eumastacidae + Tetrigoidea). A third comparison method, agreement subtree analysis (Finden and Gordon, 1985), excludes the con􏰮icting clusters from the 􏰭nal phylogeny (Fig. 1e). This reveals that the inconsistencies are precisely those relationships
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+242 SYSTEMATIC BIOLOGY
+VOL. 48
+  previously demonstrated to be the result of reconstruction failure attributable to systematic error (Flook and Rowell, 1997a, 1998): long branch attraction between eumastacoid and tridactyloid mtDNA sequences, very short internodes between the pneumorid and pyrgomorph lineages in the mtDNA phylogeny, and poor resolution between tetrigoid and eumastacid 18S sequences. Thus, the low level of congruence between the individual phylogenies re􏰮ects a lack of resolution of the individual data sets rather than serious con􏰮ict in phylogenetic signal.
+Effect of Sequence Length on Phylogeny Reconstruction
+To investigate our concerns about the contribution of the length of sequences to phylogenetic recovery of these data, we examined the effect of increasing sequence length of sequences from the different data partitions. Having found no “correct” phylogeny for the whole 33-taxon data set, we used agreement among the recovered phylogenies as the criterion by which to judge the success of the searches on different sequence lengths. Generating random samples from 12S, 16S, and 18S sequences, we reconstructed ME phylogenies for different sequence lengths and measured the degree of congruence by calculating the average symmetric difference between trees. The results (Fig. 2) show that curves obtained for the different sequences are very similar. This indicates that after compensating for sequence length, the overall ability of the sequences to resolve the phylogeny is approximately equal. None of the lines converge on an average symmetric difference of 0, but this is explained by the various de􏰭ciencies of the individual data sets discussed above. In addition, when we generated samples from the combined 12S + 16S + 18S data (Fig. 2), the curve 􏰭tted to these data was very similar to that obtained for the individual data partitions.
+We also used this simulation strategy to examine our reservations about the use of parsimony for reconstructing phylogenies from the data. We generated random samples for a subsample of the taxa (Fig. 3) for which there was a
+FIGURE 2.
+on the effectiveness of phylogenetic reconstruction for different sequences. Each data point represents the average symmetric difference between 50 phylogenies reconstructed from random data samples of each indicated length. Random samples were obtained by resampling with replacement from the alignment of the individual genes. u= 12S; n = 16S;s= 18S. Thick line (comb.) represents a power function 􏰭tted for the data points estimated for the combined data set.
+strong phylogenetic expectation and for which the individual data provided very clear resolution. We then reconstructed trees by using equally weighted parsimony and ME. For the latter method we used equalrate HKY85 distances. The results (Fig. 3) show that the ME analysis converged on a relatively small number of closely related trees (i.e., average symmetric difference close to 0). These trees matched the expectation for the 12 taxa (see legend for Fig. 3). In contrast, the parsimony analyses clearly failed to converge on a single tree.
+Combination of Data Sets
+The results of the above analyses indicate that the limited range over which the different sequences resolve orthopteran phylogeny is due more to the short length of the
+Analysis of the effect of sequence length
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999
+FLOOK ET AL.—PHYLOGENETIC ANALYSIS OF THE ORTHOPTERA 243
+  FIGURE 3.
+on the effectiveness of phylogenetic reconstruction for different methods and optimality criteria. Combined data sets from sequences from the following taxa: two acridoids (Acrida, Gomphocerippus), the pamphagoids, the tetrigoids, the tridactyloids, and two outgroups (the phasmids). The expected phylogenetic relationships between these taxas are (Phasmida (Tridactyloid (Tetrigoidea (Pyrgomorphidae (Pamphagidae, Acridoidea))))). Each data point represents the average symmetric difference between 50 phylogenies reconstructed from random data samples of each indicated length. Random samples were obtained by resampling with replacement from the alignment of the combined sequences. Results are shown for searches performed with MP (n) and ME (u).
+individual sequences than to con􏰮ict or absence of phylogenetic signal. We have already examined the issue of data combi-
+nation for the mitochondrial data, using incongruency indices, and demonstrated that combining the 12S and 16S sequences is justi􏰭ed (Flook and Rowell, 1997b). Furthermore, the convergence in the phylogenetic reconstructions observed in the analysis of randomly sampled sequences provides one line of support that legitimizes the combination of nuclear and mitochondrial sequences. A 􏰭nal source of support comes from applying the test of Rodrigo et al. (1993) for heterogeneity in phylogenetic signal. Comparison of the observed symmetric differences (Table 5) with the estimated null distributions (Fig. 4) shows that in none of the comparisons do the observed tree-totree distances exceed the 95% level. In other words, we do not reject the null hypothesis that the observed differences between phylogenies reconstructed from different data sets are due to sampling error. However, it is notable that the outcome of the test for the 12S versus 18S comparison is very close to the 95% level. We attribute this to the limitations of the symmetric difference index, in which rearrangements of only one or two taxa can result in maximal differences (Penny and Hendy, 1985). We also note that many suboptimal trees were very close to the ME tree in reconstructions from the mitochondrial data. Comparing the 􏰭rst 10 suboptimal trees for the two data sets, we found that 20% of the comparisons produced critical values that would not be rejected by the estimated null distributions (i.e., < 46). This suggests that the symmetric difference might be an inadequate metric; therefore, we recalculated the null distributions, using an alternative and potentially more discriminating comparison measure: the
+Analysis of the effect of sequence length
+TABLE 5. Results of randomization tests. Numbers correspond to the percentage of the estimated null distribution (see Fig. 4) lower than the calculated symmetric differences between the ME trees for the compared data partitions.
+  12S vs. 16S
+12S vs. 18S
+16S vs. 18S
+12S + 16S vs. 18S
+Sym.diff.(AS)a
+44 (16) 40 (15) 32 (13 26 (12)
+12S
+88.3 (82.2) 47.0 (70.2) —
+—
+16S
+89.26 ( 0.8) —
+12S + 16S
+—
+—
+— 16.4 (50.8)
+18S
+— 93.8 (86.4) 49.9 (62.6) 43.6 (40.8)
+10.0
+(49.9) —
+ aFigures in parentheses correspond to results when the tree comparisons are made using the agreement subtree (AS) distance provided in Component (Page, 1993).
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+244 SYSTEMATIC BIOLOGY VOL. 48
+  FIGURE 4. Frequency distributions for symmetric differences between trees calculated from pairwise comparisons of bootstrapped data samples. Solid bars correspond to the distribution of tree distances based on agreement subtree differences; white bars correspond to tree distances calculated by using symmetric differences.
+agreement subtree distance (Finden and Gordon, 1985). The results (Table 5) demonstrate that in all combinations the null hypothesis of the differences being due to sampling error is clearly not rejected.
+ME and ML Analysis of the Combined Data Set
+Taken together, we interpret the results of the randomization tests and of the simulation analyses as a suf􏰭cient basis for combining the data in the subsequent examination. We therefore proceeded to the phylogenetic reconstruction of the combined 12S + 16S + 18S sequences. Initially, we performed heuristic searches under the
+ME criterion and used nonparametric bootstrapping to assess the con􏰭dence that could be associated with individual nodes. Reconstructions based on equal-rate and gammacorrected HKY85 distances recovered very similar trees and levels of bootstrap support. The equal-rate tree (Fig. 5) is equidistant from the 12S + 16S and the 18S ME trees (symmetric differences of 20 and 16, respectively). We also reconstructed trees under the ML optimality criteria, using the GTR model with a gamma distribution correction for among-site rate variation. The ML tree (Fig. 6) is very similar to the ME tree (symmetric difference = 16). The most important difference is that the Tetrigoidea are recovered in a clade with the Proscopiidae. Another interesting difference is that the Hagloidea are recovered as the primitive ensiferan lineage.
+Assessment of Individual Nodes
+Because the different approaches used in our analysis recovered similar trees, a remaining task was to assess the con􏰭dence that could be attached to those relationships. We chose three strategies for this. First, we use nonparametric bootstrapping (Efron, 1982; Felsenstein, 1985) to examine the con􏰭dence that could be attached to speci􏰭c nodes in ME trees. Second, we performed parametric bootstrapping to examine the signi􏰭cance of prespeci􏰭ed groups in the ME trees. This latter approach is particularly attractive by offering 􏰮exibility in examination of phylogenetic hypotheses (Huelsenbeck et al., 1996; Huelsenbeck and Rannala, 1997). Third, we used the KHT to compare ML trees. We applied the 􏰭rst method, nonparametric bootstrapping, to examine the different nodes suggested in the full orthopteran phylogeny (Fig. 5) and the other two methods to investigate the following three controversial relationships suggested by the analysis.
+First, we examined the apparent polyphyly of the Pamphagoidea. In the nonparametric bootstrap analysis, a monophyletic Pamphagoidea was not recovered from any of the replicates (Table 6). For the parametric bootstrap analysis we simulated the data as described, enforcing the single constraint
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999 FLOOK ET AL.—PHYLOGENETIC ANALYSIS OF THE ORTHOPTERA 245
+  FIGURE 5. Phylogram of ME tree reconstructed from HKY85 distance matrix for combined 12S + 16S + 18S data set. Numbers above nodes indicate NBS (based on 1,000 replicates) for equal-rate/gamma-corrected HKY85 distances. Values are indicated only for nodes that received > 50% in at least one of the analyses. The phylogeny shown was reconstructed from equal-rate distances. The gamma-corrected tree differs only in its placing of the Tetrigoidea, which are recovered inside the eumastacids.
+of a monophyletic Pamphagoidea. The pamphagoid clade was recovered in 31% of the replicates, suggesting that the data were not
+informative enough to positively reject pamphagoid monophyly under the ME optimality criteria. This inference was supported
+TABLE 6. Summary of results of bootstrap analyses and Kishino–Hasegawa tests (KHTs) of speci􏰭c hypotheses of monophyly.
+ Hypothesis
+(Xyronotidae, Trigonopterygoidea) (Xyronotidae, Tanaoceridae) (Acridoidea, Pamphagidae, Xyronotidae,
+Trigonopterygoidea, Pneumoridae) (Pamphagidae, Acridoidea) (Trigonopterygoidea, Pyrgomorphidae) (Pamphagoidea)
+(Pneumoroidea) (Eumastacoidea)
+NBS PBS
+60 81 12 30 34 89
+74 78 1 17 0 31 0 10
+11 32
+ML(ln L)a
+–18387.93 –18405.10 –18400.04
+–18387.93 –18400.14 –18401.38 –18419.08 –18392.34
+KHTb
+NDc 1.461 (0.144) 1.976 (0.048)
+NDc 1.337 (0.182) 0.855 (0.393) 1.928 (0.054) 0.817 (0.414)
+  a Log likelihood score for optimal tree under given constraints. Phylogenies were compared with the ML phylogeny recovered from an unconstrained search (ln L = –18387.93) .
+b Number indicates T value for different comparisons. Number in parentheses is the probability of getting a more extreme value of T under the null hypothesis (of no difference between trees).
+c ND = not done; KHT not performed because constrained tree identical to unconstrained tree.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+246 SYSTEMATIC BIOLOGY VOL. 48
+  FIGURE 6. Phylogram of ML tree reconstructed for combined 12S + 16S + 18S data set. The phylogeny was reconstructed under the GTR model of substitution. The log likelihood of the phylogeny = –18387.93.
+by the KHT, which failed to detect significant differences between the best unconstrained and pamphagoid-constrained ML trees. A slightly different approach to examining this problem was to examine the putative grouping of the Pamphagidae with the Acridoidea. Here, the relatively high NBS for this clade (73%) also corresponded to a relatively high PBS value (78%), indicating that this observation was unlikely to be due to cumulative random error. However, the KHT was not particularly informative because the acridoid–pamphagid grouping was recovered in all of the unconstrained ML searches. Thus, although we are unable to reject monophyly of the Pamphagoidea outright, it obtains no support from our analyses.
+The second relationship investigated was among the four eumastacoid taxa. Previous analyses with the mitochondrial data had suggested a sister group relationship of the Eumastacidae and Proscopiidae (Flook
+and Rowell, 1997a), but the results of the present analyses and those of the 18S analysis suggested that the Eumastacidae might be basal. This initially seemed to be supported by the nonparametric bootstrap analysis, where a monophyletic Eumastacoidea was recovered from only 11% of replicates. However, the results are complicated by the fact that the proscopiids were grouped with the tetrigoids in some of the analyses (e.g., in the ML tree in Fig. 6). No such grouping has previously been suggested in the literature, and the two groups are morphologically very distinct. As a result of this discrepancy, no clear alternative hypothesis is suggested by our analyses of the combined data, and we can only examine to what extent the data reject monophyly. Using the same strategy as outlined for the Pamphagoidea, we performed a search enforcing the constraint of a monophyletic Eumastacoidea, but the PBS value of only 32% indicated there was relatively little informative phy-
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999 FLOOK ET AL.—PHYLOGENETIC ANALYSIS OF THE ORTHOPTERA 247
+ logenetic signal relating to the monophyly of the Eumastacoidea in the ME analysis. Furthermore, in the KHT, the difference between the unconstrained ML tree and the eumastacoid tree was not signi􏰭cant. Therefore, we conclude that the sequences do not contain enough phylogenetic signal to settle the issue of eumastacoid monophyly.
+Finally, we tested the monophyly of the Pneumoroidea. The interrelationships of the three pneumoroid families (Table 6) have been the subject of much speculation (e.g., Kevan, 1982) and we initially tested the hypothesis of the monophyly of this superfamily. No evidence for a monophyletic Pneumoroidea was obtained from the nonparametric bootstrap analysis, but a low PBS value (10%) indicated that the observation of pneumoroid polyphyly might be explained by random error in the data. However, large differences were detected between the unconstrained tree and the Pneumoroidea-constrained ML tree. We tested several other hypotheses involving members of the Pneumoroidea (Table 6) and obtained high PBS values for a Xyronotidae + Trigonopterygidae grouping (81%) and for placing the Tanaoceridae and Pyrgomorphidae outside of the (Acridoidea, Pamphagidae, Pneumoridae, Xyronotidae, Trigonopterygidae)(89%); these results suggest that the occurrence of these groupings in the ME tree may be well founded. We therefore reject the monophyly of the Pneumoroidea on the basis for the analysis of the combined data.
+Phylogenetic Position of the Grylloidea
+In terms of taxonomic sampling, the main de􏰭ciency of this analysis was the absence of any grylloid taxa. To rectify this, we attempted a further combined mtDNA analysis, this time including sequences for two gryllids, Gryllus campestris and Acheta domesticus. The aims here were to establish the monophyly of the Ensifera and to determine the position of the Grylloidea. Using the mtDNA sequences, we reconstructed a phylogeny from several subsamples of orthopteran taxa and their outgroups. We omitted most of the caeliferan taxa because their position as a sister group of the En-
+sifera is unquestioned and because exclusion of these sequences greatly reduced the amount of computation. The ME tree for one of the samples (Fig. 7) illustrates that the mtDNA sequences are unable to resolve the ensiferan phylogeny when the grylloid taxa are included. A low NBS value is obtained for a grylloid/tettigonioid grouping (54%), but the signi􏰭cance of this value is made unclear by the fact that when different combinations of outgroups are used (e.g., no phasmids; addition of dipterans), the grylloid taxa are placed outside of the other ensiferans. However, in all the reconstructions, the branch connecting the grylloid sequences to the other ensiferans (Fig. 7) is the longest internal branch, exceeding the lengths of branches connecting the outgroups. Combined with their highly unusual 18S sequences (which will be discussed elsewhere), this suggests to us that the Grylloidea probably represent a sister group to the rest of the extant Ensifera.
+Discussion of Phylogenetic Findings
+The main phylogenetic results are summarized in Figure 8. This phylogeny includes only those internal branches that received high support from the nonparametric bootstrap analyses or for which we believe phylogenetic support obtained in this analysis is compelling. This results in a loss of resolution compared with the tree shown in Figure 5, for example, but allows us to address con􏰭dently several speci􏰭c points.
+Caelifera.—The consensus tree shows the Caelifera as the sister group of the Ensifera (node O), but with the tridactyloids as the sister group of all other caeliferans (node C1) and widely separated from them. Our previous analyses had shown a con􏰮ict with respect to the relationship of the Tridactyloidea to the rest of the Caelifera. The mtDNA analysis recovered a tetrigoid/tridactyloid grouping, but this may have been due to inadequate taxonomic sampling with respect to outgroups for the orthopteran taxa. In the present analysis our results 􏰭rmly reinforce our previous interpretation of the 18S tree: The tridactyloids are a single clade; there therefore appears to be no justi􏰭cation for splitting off the cylin-
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+248 SYSTEMATIC BIOLOGY VOL. 48
+  FIGURE 7. Unrooted phylogram of ME tree reconstructed from HKY85 distance matrix for combined (12S + 16S) data set, including sequences from two grylloid species. Thick lines indicate branches for which > 89% bootstrap support was obtained.
+drachetids as a separate superfamily, as proposed by Kevan (1982).
+Of the remaining caeliferans, we place the Tetrigoidea as the most basal (node C2), closely followed (node C3) by the Eumastacidae sensu lato and the Proscopiidae. All these groups are monophyletic (and remain so in other analyses with much larger taxon samples; data not shown). The separation of the Tetrigoidea and Tridactyloidea is very good and clari􏰭es earlier results based on mitochondrial sequences (Flook and Rowell, 1997a). The separation of the Tetrigoidea from the eumastacoids is not entirely clear in the present analysis because of their occasional grouping with the proscopiids. However, the Tetrigoidea were very clearly identi􏰭ed as basal to the eumastacoid taxa in the mtDNA analyses (Flook and Rowell, 1997a). At node C3, our data do not allow us to decide whether the Eumastacidae s.l. and Proscopiidae are sister groups within a monophyletic clade (the Eumastacoidea sensu Dirsh, 1996) or whether the latter indeed branch separately from the main trunk of the tree. The mitochondrial and nuclear data con􏰮ict on this point, the former rejecting a sister group relationship. However, because mitochondrial
+genes are more likely to resolve short internodes than are nuclear genes (Moore, 1995), we can speculate that the results do not favor a monophyletic Eumastacoidea. This interpretation favors recognizing the proscopiids as a superfamily, as proposed by (e.g.) Descamps (1973). The remaining taxa (i.e., the Acridomorphoidea sensu Dirsh [1975] plus the Pneumoroidea and Trigonopterygoidea) constitute a fourth clade (node C4), within which the branching order is not certainly resolved in our analyses.
+The various resolved lineages within this last clade, however, are of considerable systematic interest.
+1. The Sonoran Tanaoceridae (though unfortunately represented in our analysis by only a single genus) form a solitary branch of their own (L1), and contrary to Kevan (1982) do not cluster with the Southeast Mexican Xyronotidae. We can con􏰭dently exclude the possibility that the Tanaoceridae are related to the eumastacids, as proposed by Rehn (1948). These results seem to con􏰭rm Dirsh’s (1955) decision to remove them from the latter group and give them independent family status. As noted above, the
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999 FLOOK ET AL.—PHYLOGENETIC ANALYSIS OF THE ORTHOPTERA 249
+  FIGURE 8. Summary of the phylogenetic conclusions of this study, indicating proposed revisions of orthopteran classi􏰭cation. O corresponds to the ancestral orthopteran node. Nodes E1 and E2 correspond to the two resolved ensiferan nodes. Nodes C1–C4 indicate the nodes clearly resolved within the Caelifera on the basis of our molecular analyses. Although the remaining caeliferan lineages are separated in individual analyses (e.g., Fig. 5), we do not consider their branching order to have received suf􏰭cient support from the bootstrapping and likelihood analyses.
+parametric bootstrap analysis (Table 5) gives support for the proposition that the Tanaoceridae,followedbythePyrgomorphidae, are the most primitive branches of the 􏰭fth clade.
+2. The worldwide Pyrgomorphidae (L2) form a monophyletic grouping clearly distinct from all the others. There is no support for the occasional suggestion of a close relationship of the Pyrgomorphidae
+with the Lentulidae (e.g., Ame ́de ́gnato,
+1993; Dirsh, 1956).
+3. The African Pneumoridae are resolved
+as a monophyletic group (L3) with no close relationship to any other taxa. The Tanaoceridae and the Xyronotidae, grouped by Dirsh (1966) and Kevan (1982) with the Pneumoridae in a superfamily Pneumoroidea on the basis of similar stridulatory mechanisms, are
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+250 SYSTEMATIC BIOLOGY VOL. 48
+ excluded from this clade. We also performed a KHT to examine the hypothesis that the Pneumoridae were primitive to the other higher caeliferans except for the Tanaoceridae (i.e., Trigonopterygoidea, Pamphagoidea, Acridoidea, Xyronotidae). The difference between the best tree consistent with this hypothesis and the unconstrained ML tree was signi􏰭cant (P < 0.05), and we thus reject the hypothesis.
+4. The Xyronotidae, also represented in our analysis by only a single genus, do not cluster with any Pneumoroidea sensu Dirsh, but instead are grouped with the Southeast Asian Trigonopterygidae in a further distinct clade (lineage L4). These latter are de􏰭nitely not associated with the eumastacids or proscopiids, contrary to the suggestion of Dirsh (1975). The hypothesis of Bol ́õ var (1909) and Kirby (1910) , according to which the Trigonopterygidae are allied to the Pyrgomorphidae, also received no support in our analysis.
+5. The last lineage (lineage L5) includes the Old World Pamphagidae, the Central African Lentulidae, and the worldwide Acrididae (for details, see Fig. 5). The unity of this assemblage is supported with high NBS (73%) and PBS values (78%), indicating that this observation is unlikely to be accounted for by random error alone. In other analyses (data not shown) this clade also includes the New World families Pauliniidae, Tristiridae, Ommexechidae, and Romaleidae. On the basis of their morphology we would expect the Old World Lathiceridae and Charilaidae to be included as well, but we have no sequence data for these two families.
+The identi􏰭cation of these lineages, and
+more signi􏰭cantly the rejections of several previously proposed groupings (Tables 3, 5), have several important consequences for current interpretations of their relationships. We will discuss further the interrelationships of the Pneumoroidea sensu Dirsh in another paper, but our data clearly do notsupporttheretentionofthissuperfamily.
+The failure of the Pamphagidae and the Pyrgomorphidae to cluster together in any analysis using any of the three sequenced parts of the genome has been discussed in our previous papers. The combined sequences clearly link the pamphagids with the acridids rather than with the pyrgomorphids and indicate that the Pamphagoidea sensu Dirsh (1975) or Kevan (1982) are a polyphyletic grouping. As the Pamphagidae regularly emerge from the analyses embedded within an assemblage of acridid subfamilies and acridoid families, the Acridoidea in the usual modern sense (i.e., excluding the Pamphagidae) form a paraphyletic grouping. Also, the Oedipodinae are invariably separated from the clade containing both Acrida and Gomphocerippus, in accordance with their rather basal and isolated position within the Acrididae, already noted in our analyses of the mitochondrial sequences (Flook and Rowell, 1997a) .
+Ensifera.—Our analyses split the Ensifera into three groups. The grylloids may be the most basal (node E1) and are also very highly diverged, rather similar to but far exceeding the situation of the tridactyloids within the Caelifera. In the ME tree (Fig. 5), the remaining ensiferans fall into two sister groups: a tettigonioid clade (represented in our sample by Haglidae + Tettigoniidae) and a stenopelmatoid clade (in our sample, Mimnermidae + (Stenopelmatidae + Rhaphidophoridae)). This agrees with the conclusions of Gorochov (1995a), based on morphology, but disagrees markedly with the hypothesis of Gwynne (1995), which derives from a cladistic analysis of the morphological data of Ander (1939) and other authors. However, in the ML analysis (Fig. 6) the hagloid is recovered as the most primitive group. Therefore, because of this con􏰮ict and the low NBS and PBS values obtained for the ensiferan taxa (Fig. 5) our interpretation in Figure 8 (node E2) is conservative and tentative.
+Implications for the Systematic Nomenclature of the Orthoptera
+Many modern writers have recommended a node-based or a lineage-based classi􏰭cation (see de Querioz and Gauthier,
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+1999 FLOOK ET AL.—PHYLOGENETIC ANALYSIS OF THE ORTHOPTERA 251
+ 1994), and if the necessary phylogenetic knowledge is available, the advantages indeed seem compelling. As our analysis has not completely resolved branching orders, a node-based system is still impracticable, but the less revolutionary lineage-based system may well be explored. What are the implications of the above 􏰭ndings for orthopteran classi􏰭cation?
+We have not investigated the Ensifera with the same depth of taxon sampling as the Caelifera. However, reconstructions based on different taxonomic samples of mtDNA sequences consistently support a monophyletic Ensifera. Furthermore, although direct comparison of all the ensiferan superfamilies is dif􏰭cult for the combined data, the long branch length connecting the grylloid taxa to the other ensiferans, combined with their highly diverged 18S sequences (unpubl. data), suggests to us that the Grylloidea represent the basal ensiferan lineage. Thus in the Ensifera we identify only two nodes in our summary: E1 and E2.
+Within the Caelifera, many of the resolved clades already bear classical names. Basal lineages at nodes C1 to C3 in Figure 8 correspond to the Tridactyloidea, Tetrigoidea, and Eumastacoidea, respectively. The 􏰭nal clade (C4) is practically identical with the Acridomorphoidea sensu Dirsh (1975), except that it additionally encompasses the Trigonopterygoidea, which Dirsh erroneously placed in the Eumastacoidea. The lineages we distinguish within this clade are mostly currently recognized as families (Tanaoceridae, Pyrgomorphidae, Pneumoridae, Lentulidae, Pamphagidae, and Acrididae). The proposed grouping of the Trigonopterygidae and the Xyronotidae corresponds to Kevan’s original (1952) placing of Xyronotus, though he abandoned this in later publications.
+How can the existing names be reconciled with the phylogenetic relations here described? We propose that the lineages de􏰭ned by well-resolved nodes on the backbone of the tree be allotted superfamily rank. Strict application of this strategy to our current data would divide the Caelifera into four superfamilies, rather than the existing seven: (1) Tridactyloidea (2) Tetrigoidea, (3)
+Eumasticoidea, and (4) an unnamed clade of higher Caelifera, containing 􏰭ve resolved lineages of uncertain branching order. However, we hope that further data or improved analysis (see below) will eventually succeed in resolving the branching order of these lineages, and we would then have maximally (4) Tanaoceroidea new superfamily, (5) Pyrgomorphoidea new superfamily (see also Vickery [1997], who, however, gives no reasons for this grouping), (6) Pneumoroidea, (7) Trigonopterygoidea sensu novo, and (8) Acridoidea sensu novo. Our Pneumoroidea would, however, include only one family, not the three conceived by Dirsh (1975); the Trigonopterygoidea would be enlarged from two to three families; and our Acridoidea would include all the current Pamphagoidea except the Pyrgomorphidae.
+It seems logical to treat resolved lineages within these superfamilies as families. We are preparing more-detailed analyses of relationships within both the Eumastacoidea and the Acridoidea (both used in the sense proposed above), using much larger numbers of taxa. When these are completed, we hope to be able to suggest further re􏰭nements to our classi􏰭cation. However, the present restricted data set supports the retention of at least the Lentulidae, Pamphagidae, and Acrididae as separate families with the Acridoidea.
+Prospects for a Fully Resolved Molecular Phylogeny of the Orthoptera
+Although the resolution afforded by our combined analysis compares favorably with other higher-level studies of insect molecular phylogeny (e.g., Campbell et al., 1995; Dowton and Austin, 1994; Kambhampati, 1995), outstanding dif􏰭culties remain. In particular, the basal relationships of the Acridomorphoidea are still unclear, and the low PBS values associated with several of the putative groupings suggest that we are unable to distinguish suf􏰭cient phylogenetic signal to recover the precise branching patterns. Furthermore, simulations (Fig. 2) indicate that the accumulation of longer sequences cannot be guaranteed to improve our understanding of this part of the phylogeny. Comparing the paleontolog-
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012
+
+252 SYSTEMATIC BIOLOGY
+VOL. 48
+ ical data (for a summary, see Flook and Rowell, 1997a) with the evolutionary distances estimated here (Fig. 5), we estimate that the lineages corresponding to nodes L1 to L5 probably appeared in the late Jurassic/early Cretaceous. This is signi􏰭cant because it parallels the situation in amniote phylogeny, where resolution of the basal lineages has not yet been reached, although far more molecular data are currently available (e.g., Huelsenbeck and Bull, 1996). Because the accumulation of data from alternative genes carries additional dif􏰭culties of interpretation (e.g., identi􏰭cation of homology), we suggest that the solution to our problem does not necessarily lie in the sequencing of more genes. One alternative we have explored is the use of other forms of molecular data such as gene rearrangements (e.g., Boore, et al., 1995; Flook et al., 1995), but in our surveys of orthopteran mitochondrial genomes we so far have identi􏰭ed only one informative rearrangement (unpublished data). Another possibility is more-intensive taxonomic sampling. However, in several of the lineages treated above (e.g., Xyronotidae and Tanaoceridae), it is dif􏰭cult to suggest unsampled taxa that are likely to be phylogenetic intermediates. Thus we conclude that an increased understanding of orthopteran evolution through using the methods of molecular phylogenetics depends as much on improved methods of hypothesis testing as on additional data collection.
+ACKNOWLEDGMENTS
+Weacknowledgethehelpofthefollowingcolleagues in obtaining material used in this study: B. Aerne, G. Bruyea, C. S. Carbonell, J. S. Edwards, A. Floren, M. Gentili, G. Halffter, B. Helfert, O. von Helversen, M. Impekhoven, J. Irish, A. Mason, N. M. Mungai, D. E. Perez, M. Rahier, D. R. Rentz, K. Richards, M. Richards, K. Riede, T. Romero, and M. Van Staaden. Several of these persons also provided taxonomic determinations of their material. We also thank the authorities of the Carlsbad Caverns National Park for supplying us with a specimen of Ceuthophilus carlsbadensis and Mr. U. Stiefel for technical assistance. Finally, we are grateful to Jack Sullivan, Chris Simon, Dick Olmstead, and an anonymous reviewer for suggesting valuable improvements to an earlier draft of the paper. This study was 􏰭nancedinpartbyagranttoP.K.FandC.H.F.R.from the Swiss National Science Foundation.
+REFERENCES
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 19, 2012

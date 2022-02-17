@@ -1,0 +1,3548 @@
+Molecular Phylogenetics and Evolution 61 (2011) 543–583
+     Contents lists available at ScienceDirect Molecular Phylogenetics and Evolution journal homepage: www.elsevier.com/locate/ympev
+ A large-scale phylogeny of Amphibia including over 2800 species, and a revised classification of extant frogs, salamanders, and caecilians
+R. Alexander Pyron a,⇑, John J. Wiens b
+a Dept. of Biological Sciences, The George Washington University, 2023 G St. NW, Washington, DC 20052, United States
+b Dept. of Ecology and Evolution, Stony Brook University, Stony Brook, NY 11794-5245, United States
+ article info
+Article history:
+Received 7 May 2011
+Revised 10 June 2011 Accepted 12 June 2011 Available online 23 June 2011
+Keywords:
+Amphibia Anura
+Apoda Caudata Lissamphibia Gymnophiona Phylogeny Supermatrix Systematics
+1. Introduction
+With over 6800 known species (AmphibiaWeb; http://www. amphibiaweb.org/, accessed April, 2011; hereafter ‘‘AW’’) the extant amphibians (frogs, salamanders, and caecilians) are one of the most diverse radiations of terrestrial vertebrates. The number of known extant amphibians has increased rapidly in recent years, with over 2700 species (􏰁40%) described in the last 26 years (Duellman, 1999; Lannoo, 2005). This newly discovered diversity includes dozens of new species from known genera in poorly studied tropical regions such as Madagascar (Vieites et al., 2009), but also new genera in relatively well-explored regions such as the southeastern United States (Camp et al., 2009), and even new families such as Nasikabatrachidae (Biju and Bossuyt, 2003). Unfortunately, much extant amphibian diversity is currently under extreme threat from pressures such as habitat loss, global climate change, and infectious disease, and many species have gone extinct in the last few decades (Blaustein and Wake, 1990; Stuart et al., 2004).
+⇑ Corresponding author.
+E-mail addresses: rpyron@colubroid.org (R. Alexander Pyron), wiensj@life.bio.
+sunysb.edu (John J. Wiens).
+1055-7903/$ see front matter Ó 2011 Elsevier Inc. All rights reserved. doi:10.1016/j.ympev.2011.06.012
+abstract
+The extant amphibians are one of the most diverse radiations of terrestrial vertebrates (>6800 species). Despite much recent focus on their conservation, diversification, and systematics, no previous phylogeny for the group has contained more than 522 species. However, numerous studies with limited taxon sampling have generated large amounts of partially overlapping sequence data for many species. Here, we combine these data and produce a novel estimate of extant amphibian phylogeny, containing 2871 species (􏰁40% of the known extant species) from 432 genera (􏰁85% of the 􏰁500 currently recognized extant genera). Each sampled species contains up to 12,712 bp from 12 genes (three mitochondrial, nine nuclear), with an average of 2563 bp per species. This data set provides strong support for many groups recognized in previous studies, but it also suggests non-monophyly for several currently recognized families, particularly in hyloid frogs (e.g., Ceratophryidae, Cycloramphidae, Leptodactylidae, Strabomantidae). To correct these and other problems, we provide a revised classification of extant amphibians for taxa traditionally delimited at the family and subfamily levels. This new taxonomy includes several families not recognized in current classifications (e.g., Alsodidae, Batrachylidae, Rhinodermatidae, Odontophrynidae, Telmatobiidae), but which are strongly supported and important for avoiding non-monophyly of current families. Finally, this study provides further evidence that the supermatrix approach provides an effective strategy for inferring large-scale phylogenies using the combined results of previous studies, despite many taxa having extensive missing data.
+   Ó 2011 Elsevier Inc. All rights reserved.
+A phylogenetic framework is critical for discovering, understanding, and preserving extant amphibian diversity, but a largescale phylogeny for extant amphibians is presently lacking. However, recent molecular and combined-data studies have made important contributions to higher-level phylogeny (Frost et al., 2006; Roelants et al., 2007; Wiens, 2007a, 2011) and to the phylogeny of many major groups, such as caecilians (San Mauro et al., 2009; Zhang and Wake, 2009b), hyloid frogs (Darst and Cannatella, 2004), ranoid frogs (e.g., Bossuyt et al., 2006; Wiens et al., 2009), microhylid frogs (van der Meijden et al., 2007), bufonid frogs (Pauly et al., 2004; Pramuk et al., 2008; Van Bocxlaer et al., 2009), centrolenid frogs (Guayasamin et al., 2009), dendrobatid frogs (Grant et al., 2006; Santos et al., 2009), hemiphractid frogs (Wiens et al., 2007a), hylid frogs (Faivovich et al., 2005, 2010; Wiens et al., 2005b, 2010), terraranan frogs (Hedges et al., 2008; Heinicke et al., 2009), and salamanders (Kozak et al., 2009; Vieites et al., 2011; Wiens et al., 2005a, 2007b; Zhang and Wake, 2009a).
+The largest estimate of extant amphibian phylogeny to date is that of Frost et al. (2006). Those authors reconstructed amphibian phylogeny based on relatively intensive sampling of species (522) and characters (up to 4.9 kb of sequence data from 2 mitochondrial and 5 nuclear genes [mean = 3.5 kb], and 152 morphological
+   
+544 R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+characters). Those authors also proposed extensive changes in taxonomy, especially for taxa delimited at the family and genus level. However, that study has also been criticized on numerous grounds, including concerns about taxon sampling and methodological strategies (Marjanovic ́ and Laurin, 2007; Pauly et al., 2009; Wiens, 2007b, 2008). For example, those authors collected up to 􏰁4900 characters per species, but their analysis is apparently based on 15,320 characters, suggesting that their controversial approach to sequence alignment (POY) dominates their results (Wiens, 2008). Although some of the changes made by Frost et al. (2006) have been widely adopted, others are more controversial, such as the partitioning of Bufo and Rana (Marjanovic ́ and Laurin, 2007; Pauly et al., 2009; AW). Indeed, many of these changes are no longer supported, even in Frost’s (2011) taxonomic database of extant amphibians (e.g., the families Amphignathodontidae, Batrachophrynidae, Cryptobatrachidae, and Thoropidae recognized by Frost et al. (2006)). Much of the most unstable taxonomy involves the family-level assignment of many of the genera of hyloid frogs, particularly those traditionally assigned to the family Leptodactylidae.
+Clearly, extant amphibian phylogeny and classification is still in need of additional study. Fortunately, the numerous studies referenced above (and many others) have produced a massive amount of data that are potentially suitable for a combined, supermatrix approach (e.g., de Queiroz and Gatesy, 2007; Driskell et al., 2004; Pyron et al., 2011; Thomson and Shaffer, 2010; Wiens et al., 2005b). This includes thousands of species represented in GenBank for numerous nuclear and mitochondrial genes, often with substantial overlap of genes among species.
+Here, we present a large-scale estimate of amphibian phylogeny, including 2871 species (42% of the 6807 known, extant amphibian species) from 432 of the 504 currently recognized genera (86%), and representatives from every currently delimited, extant family and subfamily. This is 5.5 times more species and nearly twice as many genes as the largest previous study (Frost et al., 2006). The data matrix includes up to 12,712 bp for each species from 12 genes (three mitochondrial, nine nuclear). Importantly, rather than simply reanalyzing published data for relatively well-studied families (e.g., dendrobatids, hylids), we address the monophyly and relationships of many smaller groups that have not been the subject of focused studies (e.g., Ceratophryidae, Cylcoramphidae), as well as relationships among families. We produce a revised classification of extant amphibians, focusing on taxa traditionally ranked as families and subfamilies. This study also provides additional support for the value of the supermatrix approach to large-scale phylogenetic inference (e.g., de Queiroz and Gatesy, 2007; Driskell et al., 2004; Pyron et al., 2011; Thomson and Shaffer, 2010; Wiens et al., 2005b).
+2. Materials and methods
+2.1. Taxonomic reference
+This analysis has been several years in the making. Our initial taxonomy was based on the September 2009 update of the AmphibiaWeb (AW) database. However, when we refer to current numbers, these are taken from the April, 2011 update. The AW list is fairly current in terms of recently described species, but more conservative than the Amphibian Species of the World (Frost, 2011; hereafter ‘‘ASW’’) regarding some of the more controversial of the recent taxonomic changes (e.g., Bufo and Rana maintain similar composition as they did prior to Frost et al., 2006). We note some instances where recent updates have modified our original classification. Note that even when not made explicit, we refer in all instances to the known extant diversity of Lissamphibia, given that the clade Amphibia includes numerous extinct stem-group
+members that are not lissamphibians. The gymnophionans, caudates, and anurans also contain numerous extinct taxa, many of which are grouped in separate genera, subfamilies, and families that are not addressed in our analyses or included in our discussion of phylogeny. See Marjanovic ́ and Laurin (2007), Carroll (2009), and Pyron (2011) for an overview of these taxa, their phylogenetic affinities, and the origins of Amphibia and Lissamphibia.
+2.2. Molecular data
+We identified 12 candidate loci that have been broadly sampled and successfully used in amphibian phylogenetics at both lower and higher taxonomic levels. These 12 genes included nine nuclear genes: C-X-C chemokine receptor type 4 (CXCR4), histone 3a (H3A), sodium–calcium exchanger (NCX1), pro-opiomelanocortin (POMC), recombination-activating gene 1 (RAG1), rhodopsin (RHOD), seventh-in-absentia (SIA), solute-carrier family 8 (SLC8A3), and tyrosinase (TYR). Three mitochondrial genes were also included: cytochrome b (cyt-b), and the large and small subunits of the mitochondrial ribosome genes (12S/16S; omitting the adjacent tRNAs as they were difficult to align and represented only a small amount of data). This selection of genes includes almost all of those genes used in the higher-level analyses by Frost et al. (2006) and Roelants et al. (2007), and most of those used in other large-scale studies (Faivovich et al., 2005; Grant et al., 2006; Wiens et al., 2009, 2010). However, we did not include the nuclear gene 28S (used by Frost et al. (2006)), as previous analyses of this gene region alone suggest that it contains relatively few informative characters and supports some relationships that are grossly inconsistent with other studies (see Wiens et al., 2006). We conducted GenBank searches by family and subfamily to gather all available sequences, using a minimum-length threshold of 200 bp (a somewhat arbitrary threshold of 1.5% of the total matrix length, to avoid including very short [e.g., <50 bp] fragments), and stopping in August of 2010. Only species in the taxonomic database were included in the sequence matrix, which excluded numerous named taxa of ambiguous status, and many sequences labeled ‘sp.’ We removed a few (<10) taxa with identical sequence data for all genes (arbitrarily retaining the first in alphabetical order), to avoid potentially misidentified or otherwise confounded specimens or sequences.
+For the protein-coding genes, alignment was relatively straightforward. Conceptual translations were used to ensure an open reading frame, and sequences were aligned using the translationalignment algorithm in the program Geneious v4.8.4 (GeneMatters Corp.), with the default cost matrix (Blosum62) and gap penalties (open = 12, extension = 3). For the ribosomal RNA sequences (12S and 16S sequences), alignment was more challenging. Preliminary global alignments using the MUSCLE (Edgar, 2004) and CLUSTAL (Larkin et al., 2007) algorithms under a variety of gap-cost parameters yielded low-quality results (i.e., alignments with large numbers of gaps and little overlap of potentially homologous characters).
+We subsequently employed a two-step strategy for these data. First, we identified sequence clusters of similar length and coverage from the global alignment. These were subsequently aligned separately using the MUSCLE algorithm with the default highaccuracy parameters, which have been shown to outperform CLUSTAL in a variety of settings (Edgar, 2004). These alignments were subsequently refined using the MUSCLE refinement algorithm, and then adjusted manually and trimmed for quality and maximum coverage (i.e., end sequences with low overlap and poor apparent alignment were deleted using the alignment editor in Geneious). These length and position-based sequence groups were then aligned to each other using the profile-profile alignment algorithm in MUSCLE. The resulting final global alignment was
+
+manually adjusted and trimmed again for maximum quality and coverage, and refined a second time. Final adjustments were made by eye for a small number of sequences. This process was repeated for 12S and 16S separately. For 12S, four clusters were produced and combined using profile alignment, with five clusters for 16S.
+The final concatenated alignment consists of 12,712 bp for 2871 species. These species included 42% of the currently recognized amphibian species (6807; this and subsequent numbers from AW 2011), representing 41 caecilian species in 23 genera (22% of 189 known extant species and 70% of 33 genera), 436 salamander species in 68 genera (72% of 608 species and 99% of 69 genera), and 2394 frog species from 341 genera (40% of 6010 species and 85% of 402 genera). We selected Homo as an outgroup because data were available for Homo from all 12 genes, and the sister group to Amphibia is Amniota (e.g., Alfaro et al., 2009; Hugall et al., 2007; Pyron, 2010). The matrix contains data from 2572 species for 16S (90%, 1986 bp), 2312 species for 12S (81%, 1357 bp), 1241 for cyt-b (43%, 1140 bp), 1049 for RAG-1 (37%, 2700 bp), 606 for TYR (21%, 1132 bp), 589 for RHOD1 (21%, 315 bp), 478 for SIA (17%, 397 bp), 445 for POMC (16%, 666 bp), 352 for H3A (12%, 328 bp), 284 for CXCR4 (10%, 753 bp), 220 for NCX1 (8%, 1338 bp), and 175 for SLC8A3 (6%, 1132 bp). The mean length per species is 2563bp (20% of the total length of the matrix, 12,712 bp), with a range from 249 to 11,462 bp (2–90%), and is available in Dryad repository doi:10.5061/dryad.vd0m7. GenBank numbers are listed in Appendix S1.
+Clearly, many taxa had large amounts of missing data (some >97%), and on average each species had 80% missing cells. However, several lines of evidence suggest that these missing data are not problematic. First, two genes (12S/16S) were shared by the vast majority of taxa (90% and 81%, respectively), providing a ‘‘backbone’’ for the placement of most taxa based on overlapping sequence data. Simulations suggest that this sampling design can be critically important for allowing the accurate placement of taxa with extensive missing data, as opposed to having all genes be randomly sampled across species with limited overlap (Wiens, 2003). Second, a large body of empirical and theoretical studies suggests that highly incomplete taxa can be accurately placed in model-based phylogenetic analyses (and with high levels of branch support), especially if a large number of characters have been sampled (recent review in Wiens and Morrill, 2011). Finally, several recent empirical studies have shown that the supermatrix approach (with extensive missing data in some taxa) yields generally well-supported large-scale trees that are in general highly congruent with both existing taxonomies and previous phylogenetic estimates (e.g., Driskell et al., 2004; McMahon and Sanderson, 2006; Pyron et al., 2011; Thomson and Shaffer, 2010; Wiens et al., 2005b).
+2.3. Phylogenetic analyses
+We performed phylogenetic inference using maximum likelihood (ML) and assessed support using non-parametric bootstrapping (BS). We assume that Bayesian analysis would yield very similar results (but would be very difficult to implement for so many taxa), and we strongly prefer model-based methods to parsimony (for reasons described in Felsenstein (2004)). We performed ML tree inference and non-parametric bootstrapping using the program RAxMLv7.0.4 (Stamatakis, 2006) with the 12-gene concatenated matrix (species-tree methods were not practical given the large number of taxa). We used the GTRGAMMA model for all genes and partitions because GTR is the only substitution model implemented in RAxML, and all other substitution models are encompassed within the GTR model (Felsenstein, 2004). The GTRGAMMA model in RAxML is recommended over the GTR + C + I because the large number of rate categories for C (25, as opposed to the usual 4)
+should adequately account for potentially invariant sites without the need for an extra parameter (Stamatakis, 2006). Even though the GTR + C + I model is implemented in some versions of RAxML, its use is explicitly not recommended (Stamatakis, 2006).
+Previous phylogenetic analyses of these data show that GTR + C + I is generally the best-fitting model for these genes (e.g., Roelants et al., 2007; Wiens et al., 2005a,b, 2009, 2010). These previous analyses also suggest that the protein-coding genes should be partitioned by codon position, whereas the ribosomal genes (12S, 16S) should be partitioned by stems and loops, with separate partitions within and between genes. These secondary structures were identified and coded following the protocol used by Wiens et al. (2005b), based on predicted features from Pseudacris regilla (12S; AY819376) and Rana temporaria (16S; AY326063) from the European Ribosomal RNA database (http://bioinformatics.psb.ugent.be/webtools/rRNA/). The placement of stems and loops appears to be conserved across most sites, at least within frogs (Wiens et al., 2005b). Our final analysis was partitioned by gene, codon position (for protein-coding genes), and stems and loops (for ribosomal genes).
+To find the optimal ML tree, we used a searching strategy that combined the rapid bootstrapping algorithm (100 non-parametric bootstrap replicates) with the thorough ML search option (20 independent searches, starting from every fifth bootstrap replicate). Similar analyses were performed numerous (>10) times as new taxa and sequences were added to the near-final matrix. These analyses collectively represent hundreds of independent searches from random starting points. All of these preliminary analyses showed high congruence with the final ML topology. This concordance strongly suggests that our final ML estimate represents the optimal topology for these data (or close to it). Given that BS values generally appear to be conservative (Felsenstein, 2004), we considered clades with values of 70% or greater to be well-supported. These analyses were performed on a 240-core Dell PowerEdge supercomputing system at the High Performance Computing Center at the City University of New York, and were completed in 16 days using 24 nodes of the CUNY cluster.
+2.4. Taxonomic revision
+A major goal of this study was to revise the higher-level taxonomy of extant amphibians to correspond with the new phylogeny, given several major problems that were discovered. In the Results section below, we compare our results with existing phylogenies and classifications, and describe our proposed solutions to taxonomic problems as we describe them (rather than having a separate section discussing taxonomy). In general, we attempt to alter existing classifications (e.g., AW, ASW) as little as possible, and only when existing groups are not monophyletic. Furthermore, we recognize new groups only if they are strongly supported. Given the size of these phylogenies, we do not detail every congruence and discordance between our phylogeny and all previous studies (especially within families). Instead, we emphasize necessary taxonomic changes revealed by our study. We also focus our phylogenetic comparisons on the largest of the previous analyses (in terms of taxonomic scope and number of species sampled), those of Frost et al. (2006), Roelants et al. (2007), and Wiens (2007a, 2011). The generic composition of all families and subfamilies in our revised classification is provided in Appendix B. Genus names follow our original taxonomic database from the 2009 AW update.
+In some cases, our analyses show that higher taxa (i.e., families and subfamilies) are not monophyletic, but not all genera have been included in our tree. Some of these genera are effectively ‘‘orphaned’’ because it is no longer clear to which higher taxon they belong. We generally denote these as incertae sedis within the higher taxon in which they were embedded in previous
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 545
+
+546 R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+classifications. Resolving the placement of these taxa in the tree and classification will require additional data and analyses. We consider this a more conservative strategy than simply placing them in the nominate group without data. While in theory this strategy creates more ‘‘instability’’ by removing taxa from named groups, it highlights the need for their study in future analyses, and does not promote the taxonomic burden of heritage (Pyron and Burbrink, 2009) in further propagating classifications with high probability of error based solely on the status quo.
+3. Results
+A summary of the ML tree based on the rapid-bootstrapping analysis from RAxMLv7.0.4 (lnL = 􏰀1704992.20) is shown in Fig. 1. This phylogeny is generally well-supported, with 64% of nodes having BS proportions >70. Our analyses support the monophyly of frogs, caecilians, and salamanders, respectively, and weakly support a sistergroup relationship between frogs and salamanders, as found in most other studies of extant lissamphibian phylogeny (Frost et al., 2006; Pyron, 2011; Roelants et al., 2007; San Mauro, 2010; Wiens, 2011; Zhang et al., 2005). An alternative grouping of Gymnophiona and Caudata (i.e., Procera) has been supported by some studies (e.g., Feller and Hedges, 1998), and in re-analyses of others (e.g., Zhang et al., 2005; San Mauro et al., 2005; see Marjanovic ́ and Laurin, 2007; Pyron, 2011). Many of the family-level relationships within these three groups remain unchanged from recent estimates (Frost et al., 2006; Pyron, 2011; Roelants et al., 2007; San Mauro, 2010; Wiens, 2007a, 2011). However, we find some significant deviations from previous phylogenies and taxonomies, which we describe below along with proposed solutions.
+Within caecilians (Fig. 2A), our results agree with other recent studies in supporting clades corresponding to Rhinatrematidae, Ichthyophiidae, and Caeciliidae (Frost et al., 2006; Roelants et al., 2007; San Mauro et al., 2009; Zhang and Wake, 2009b). The traditional family-level classification of caecilians (still used by AW, 2011) is not supported, given that Uraeotyphlidae renders Ichthyophiidae paraphyletic and that Scolecomorphidae and Typhlonectidae render Caeciliidae paraphyletic. Furthermore, we find (Fig. 2A) the caeciliid subfamily Typhlonectinae (recognized by ASW) to be paraphyletic with respect to Caeciliinae (Cthonerpeton and Typhlonectes are not sister taxa, although this is weakly supported), and also makes Caeciliinae non-monophyletic (i.e., the caeciliines Caecilia and Oscaecilia are in a strongly supported clade with Cthonerpeton and Typhlonectes, which excludes all other caeciliine genera such as Dermophis, Gegeneophis, and Siphonops). Typhlonectinae is synonymized with Caeciliinae in our classification. Within Caeciliidae, we concur with ASW in recognizing the strongly supported subfamily Scolecomorphinae for Crotaphatrema and Scolecomorphus, which is the sister group to all other caeciliids. Although we could recognize Caeciliinae as the sister group to Scolecomorphinae, this clade is only weakly supported, despite strong support for each subfamily-level clade. Thus, we recognize these two clades as separate subfamilies. We restore the subfamily Herpelinae (Laurent, 1984) for the clade comprising Herpele and Boulengerula. We recognize the other strongly supported clade as Caeciliinae (Figs. 1, 2A; Appendix B). This arrangement accommodates all taxa included in our tree, though many other genera have not yet been sampled. The following genera are thus considered Caeciliidae incertae sedis: Atretochoana, Brasilotyphlus, Idiocranium, Indotyphlus, Microcaecilia, Mimosiphonops, Nectocaecilia, Parvicaecilia, Potomotyphlus, and Sylvacaecilia.
+Within salamanders, the family and subfamily-level relationships are mostly consistent with most recent model-based molecular analyses (Roelants et al., 2007; Wiens, 2011; Wiens et al., 2005a; Zhang and Wake, 2009a) and current classifications (AW,
+ASW). However, our results differ strongly from Frost et al. (2006) with respect to relationships among the salamander families. Frost et al. (2006) recover a clade comprising Sirenidae, Dicamptodontidae, Ambystomatidae, and Salamandridae. In contrast, we find strong support for a sister-group relationship between Sirenidae and all salamanders exclusive of Cryptobranchidae and Hynobiidae (Figs. 1 and 2B and C), as do Wiens et al. (2005a), Roelants et al. (2007), and Wiens (2007a, 2011). While some classifications recognize only two subfamilies in Plethodontidae (Hemidactylinae and Plethodontinae; AW), we follow most recent authors (Chippindale et al., 2004; Kozak et al., 2009; Vieites et al., 2011; Wiens, 2007a) and ASW in recognizing four subfamilies in Plethodontidae (Bolitoglossinae, Hemidactylinae, Plethodontinae, and Spelerpinae; Figs. 1 and 2D–F). We do not recognize a separate subfamily for Protohynobius (contra AW), given that it is likely nested in Hynobiinae (Peng et al., 2010).
+Within frogs, strongly-supported higher-level groups and relationships (e.g., among the non-neobatrachian frogs, Neobatrachia, Hyloidea, and Ranoidea) are consistent with most recent studies (Frost et al., 2006; Roelants et al., 2007; Wiens, 2007a, 2011), with some notable exceptions. We find (Fig. 2G) strong support for placing Discoglossoidea (Alytidae + Bombinatoridae + Discoglossidae) as the sister group to all other frogs exclusive of Ascaphidae + Leiopelmatidae (see also Roelants et al., 2007), whereas Frost et al. (2006) and Wiens (2007a, 2011) placed Pipoidea (Pipidae + Rhinophrynidae) in this position. Within Neobatrachia (Fig. 1), we corroborate the placement of Heleophrynidae as the sister taxon to all other neobatrachian frogs (Frost et al., 2006; Roelants et al., 2007; Wiens, 2007a, 2011). We find a weakly supported sister-group relationship between the clade Sooglossidae + Nasikabatrachidae and all neobatrachian frogs to the exclusion of Heleophrynidae (Fig. 1). In contrast, both Roelants et al. (2007) and Wiens (2007a, 2011; Sooglossidae only) placed this clade as the sister-taxon to Ranoidea, whereas Frost et al. (2006) found it to be the sister-group of Hyloidea (including Myobatrachidae + Calyptocephalellidae).
+Within Hyloidea, our results suggest that several families currently recognized by both AW and ASW are not monophyletic. All of these problematic taxa were previously placed in the family Leptodactylidae (subdivided extensively by Frost et al., 2006), and include Ceratophryidae, Cycloramphidae, Leptodactylidae, and Strabomantidae. Below we describe the specific problems and our proposed taxonomic solutions. These solutions include recognizing several additional families relative to current classifications (Alsodidae, Batrachylidae, Odontophrynidae, Rhinodermatidae, Telmatobiidae) and synonymizing one (Strabomantidae with Craugastoridae). These newly recognized families are either re-definitions of previously recognized families (Rhinodermatidae, Telmatobiidae), or elevation of existing taxa presently below family rank (Alsodinae, Batrachylinae, Odontophrynini) to the rank of families.
+Most of these problematic taxa are contained in a weakly supported clade (Fig. 2Z) that includes the currently recognized families Ceratophryidae, Cycloramphidae, and Hylodidae (note that the content of these families and their subfamilies are the same in both AW and ASW). Under these classifications, Ceratophryidae is presently divided into the subfamilies Batrachylinae (Atelognathus, Batrachyla), Ceratophryinae (Ceratophrys, Chacophrys, Lepidobatrachus), and Telmatobiinae (Telmatobius, including Batrachophrynus in AW). Cycloramphidae comprises Alsodinae (Alsodes, Eupsophus, Hylorina, Insuetophrynus, Limnomedusa, Macrogenioglottus, Odontophrynus, Proceratophrys, Thoropa) and Cycloramphinae (Crossodactylodes, Cycloramphus, Rhinoderma, Zachaenus), and one genus of uncertain placement (Rupirana). Hylodidae contains Crossodactylus, Hylodes, and Megaelosia. With respect to this classification, we find strong support for monophyly of Hylodidae (Fig. 2Z), but the families Ceratophryidae and Cycloramphidae are non-monophyletic, with
+
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 547
+ Fig. 1. Skeletal representation of the 2871-species tree from maximum likelihood analysis, with tips representing families and subfamilies based on our taxonomic revision. Numbers at nodes are BS proportions greater than 50%. The full version of this tree is presented in Fig. 2, with multiple panels indicated by bold italic letters.
+   100
+Rhinatrematidae Ichthyophiidae
+      98 100
+59 100
+99 71
+97 92
+98
+Scolecomorphinae Caeciliinae
+Herpelinae
+Hynobiidae Cryptobranchidae
+Sirenidae
+Ambystomatidae Dicamptodontidae
+Salamandrininae Pleurodelinae
+Salamandrinae
+Proteidae Rhyacotritonidae
+Amphiumidae
+Plethodontinae Hemidactylinae Bolitoglossinae Spelerpinae
+Gymnophiona
+Caudata
+          100 98
+100 85
+Caeciliidae
+Salamandridae
+                   54
+97 88
+      98 87
+83
+Plethodontidae
+   Leiopelmatidae Ascaphidae
+Bombinatoridae Discoglossidae
+Alytidae Pipidae
+Rhinophrynidae Scaphiopodidae
+          99
+100 100
+98
+100
+100
+            92
+98
+96
+99
+Pelodytidae Megophryidae
+Pelobatidae Heleophrynidae
+Sooglossidae Nasikabatrachidae
+Calyptocephalellidae
+ 100 98
+Myobatrachinae Limnodynastinae
+Myobatrachidae
+100
+           98
+57
+97
+93 98
+63 54
+Ceuthomantidae Brachycephalidae
+Eleutherodactylinae Phyzelaphryninae
+Pristimantinae Holoadeninae
+Craugastorinae Strabomantinae
+Hemiphractidae
+Hylinae Pelodryadinae
+Phyllomedusinae
+Bufonidae Dendrobatidae
+Allophrynidae
+Eleutherodactylidae Craugastoridae
+                       Neobatrachia
+86
+96 100
+100 100
+79
+53
+71 97
+  56
+  Hylidae
+      Hyloidea
+      Centroleninae Hyalinobatrachinae Leptodactylinae
+Leuiperinae Paratelmatobiinae
+Centrolenidae Leptodactylidae
+            Ceratophryidae Odontophrynidae
+    Cycloramphidae Alsodidae
+Anura
+           100 97
+Hylodidae Telmatobiidae Batrachylidae
+Rhinodermatidae Brevicipitidae
+Hemisotidae Hyperoliidae
+Arthroleptinae Leptopelinae
+Astylosterninae Phrynomerinae
+         77
+100
+98 99
+Arthroleptidae
+Microhylidae
+                           Ranoidea
+76
+91 54
+Otophryninae Gastrophryninae
+Cophylinae
+Hoplophryninae Scaphiophryninae
+Microhylinae Dyscophinae
+Kalophryninae Asterophryninae
+Melanobatrachinae
+Ptychadenidae Micrixalidae
+    99 50
+74
+96
+100 60
+Phrynobatrachidae Conrauidae
+Petropedetidae
+Cacosterninae Pyxicephalidae Pyxicephalinae
+Ceratobatrachidae Nyctibatrachidae
+                    88
+100
+Ranixalidae
+Dicroglossinae Occidozyginae
+Ranidae
+Rhacophorinae Buergeriinae
+Laliostominae Mantellinae Boophinae
+Dicroglossidae
+Rhacophoridae Mantellidae
+        0.2 subst./site
+       
+ 548
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+Gymnophiona
+100
+Ichthyophis bombayensis Ichthyophis tricolor
+Ichthyophis orthoplicatus Ichthyophis glutinosus
+Caudacaecilia asplenia Ichthyophis bannanicus
+54
+73
+100
+Epicrionops marmoratus
+Epicrionops niger Rhinatrematidae
+98
+Scolecomorphinae
+95
+100
+Crotaphatrema tchabalmbaboensis Scolecomorphus uluguruensis
+Scolecomorphus vittatus Herpele squalostoma
+Boulengerula boulengeri Boulengerula uluguruensis
+Boulengerula taitana Chthonerpeton indistinctum
+Typhlonectes natans Caecilia tentaculata
+Caeciliidae
+88
+Caeciliinae
+98
+56
+Gegeneophis ramaswamii Gegeneophis seshachari
+Hypogeophis rostratus Praslinia cooperi
+Grandisonia alternans Grandisonia brevis
+Grandisonia larvata Grandisonia sechellensis
+Luetkenotyphlus brasiliensis
+Siphonops hardyi
+Siphonops paulensis Siphonops annulatus
+100
+Herpelinae
+98
+100 59
+52
+99
+100
+100 100 100
+Ichthyophiidae
+100
+99
+62 94
+97
+51
+100 62
+99
+Fig. 2. Large-scale maximum likelihood estimate of amphibian phylogeny, containing 2871 species represented by up to 12,871 bp of sequence data from 12 genes (three mitochondrial, nine nuclear). Numbers at nodes are maximum likelihood BS proportions greater than 50%. A skeletal version of this tree at the subfamily level is presented in Fig. 1. Bold italic letters indicate figure panels.
+A
+Rhinatrema bivittatum
+Uraeotyphlus narayani
+92 55
+100
+Caecilia volcani
+Oscaecilia ochrocephala
+69
+70
+Geotrypetes seraphini Schistometopum gregorii Schistometopum thomense
+Gymnopis multiplicata Dermophis parviceps
+Dermophis oaxacae Dermophis mexicanus
+
+ B
+C-F
+98
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 549
+99
+Caudata
+99 74
+Cryptobranchidae
+100
+100 74
+Cryptobranchus alleganiensis 100 Andrias japonicus
+Andrias davidianus Onychodactylus fischeri
+Onychodactylus japonicus
+Pachyhynobius shangchengensis
+Salamandrella keyserlingii Ranodon sibiricus
+100
+Hynobiidae
+100
+100
+79
+75
+100 100
+Paradactylodon mustersi Paradactylodon gorganensis
+Paradactylodon persicus
+Pseudohynobius flavomaculatus
+Pseudohynobius shuichengensis Liua tsinpaensis
+Fig. 2 (continued)
+97 58
+98
+Batrachuperus pinchonii Batrachuperus londongensis
+99
+93
+95
+Hynobius retardatus Hynobius boulengeri
+Hynobius kimurae Hynobius fuca
+Hynobius glacialis Hynobius formosanus Hynobius arisanensis
+Hynobius sonani Hynobius naevius
+Hynobius amjiensis Hynobius katoi
+Hynobius hidamontanus Hynobius yiwuensis Hynobius guabangshanensis
+Hynobius chinensis Hynobius maoershanensis
+Hynobius leechii Hynobius yangi
+Hynobius quelpaertensis Hynobius dunni
+Hynobius okiensis Hynobius tsuensis
+Hynobius nebulosus Hynobius stejnegeri
+54
+100
+Liua shihi Batrachuperus yenyuanensis
+93 100
+100
+Batrachuperus tibetanus Batrachuperus karlschmidti
+86
+50
+100 61
+59
+54 95
+61
+Hynobius lichenatus Hynobius abei
+Hynobius tokyoensis Hynobius nigrescens
+Hynobius takedai
+
+ 550
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+C
+Paramesotriton fuzhongensis 98 Paramesotriton guangxiensis
+B
+Sirenidae
+100 100
+Dicamptodontidae
+100
+Ambystomatidae
+Salamandrininae Salamandrinae
+Pseudobranchus striatus Pseudobranchus axanthus
+71
+Ambystoma texanum Ambystoma barbouri Ambystoma macrodactylum
+Ambystoma talpoideum Ambystoma maculatum
+Ambystoma laterale Ambystoma jeffersonianum
+97
+D-F
+100
+100
+100 64
+Salamandra salamandra Salamandra algira
+Lyciasalamandra luschani Lyciasalamandra fazilae
+98
+Salamandridae
+100
+58
+Pleurodelinae 98 99
+99 81
+64 64
+91 100
+Tylototriton asperrimus Tylototriton wenxianensis Tylototriton taliangensis
+Tylototriton shanjing Tylototriton verrucosus Tylototriton kweichowensis
+Taricha rivularis Taricha torosa
+Fig. 2 (continued)
+100
+Salamandrina terdigitata Salamandrina perspicillata
+85
+74 100
+Lyciasalamandra atifi Lyciasalamandra antalyana
+Lyciasalamandra billae
+Pleurodeles waltl Pleurodeles poireti
+Pleurodeles nebulosus Echinotriton andersoni Echinotriton chinhaiensis
+100 100
+Siren intermedia Siren lacertina
+Dicamptodon tenebrosus Dicamptodon ensatus
+Dicamptodon aterrimus Dicamptodon copei
+Ambystoma cingulatum Ambystoma gracile
+Ambystoma opacum Ambystoma californiense
+Ambystoma tigrinum Ambystoma dumerilii
+Ambystoma mexicanum 70 Ambystoma andersoni
+Ambystoma ordinarium 62 Ambystoma mabeei
+100
+90
+67
+Chioglossa lusitanica Mertensiella caucasica
+Salamandra atra Salamandra corsica
+87 75
+93 68
+63
+Salamandra lanzai
+92 Salamandra infraimmaculata
+100 99 10091
+97
+95
+Ommatotriton vittatus Ommatotriton ophryticus
+Neurergus strauchii Neurergus kaiseri
+Neurergus crocatus Neurergus microspilotus
+Calotriton arnoldi 100 Calotriton asper
+100 82
+100
+97 100
+99 74 88
+85
+100
+86
+88 65
+Lyciasalamandra helverseni Lyciasalamandra flavimembris
+100 Taricha granulosa Notophthalmus meridionalis
+Notophthalmus perstriatus Notophthalmus viridescens
+Lissotriton boscai Lissotriton italicus
+Lissotriton helveticus Lissotriton vulgaris
+100 Lissotriton montandoni
+100 100
+100 91
+66
+93 91
+Triturus marmoratus Triturus pygmaeus
+Triturus dobrogicus Triturus carn ifex Triturus karelinii
+Triturus cristatus Euproctus platycephalus Euproctus montanus
+Ichthyosaura alpestris Laotriton laoensis
+Pachytriton labiatus Pachytriton brevipes
+Cynops pyrrhogaster Cynops ensicauda
+Cynops cyanurus Cynops orphicus
+Cynops orientalis
+Paramesotriton caudopunctatus Paramesotriton zhijinensis
+Paramesotriton chinensis Paramesotriton hongkongensis
+Paramesotriton deloustali
+65
+59
+100
+57 97
+68 82
+65
+82
+
+ D
+74 92 70
+C
+Proteidae
+Proteus anguinus
+Necturus lewis i Necturus punctatus
+Necturus beyeri Necturus alabamensis Necturus maculosus
+Rhyacotriton kezeri Rhyacotriton cascadae Rhyacotriton olympicus
+Rhyacotriton variegatus Amphiuma tridactylum
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 551
+92
+97
+100
+99
+Amphiuma pholeter Amphiuma means
+99
+Rhyacotritonidae Amphiumidae
+99
+80 52
+100 100
+88
+99
+Plethodontidae
+100 50
+77
+99
+E-F
+66
+98 73
+58 100
+98 63 99 54 98 77
+57 72
+57
+Plethodon angusticlavius Plethodon dorsalis
+Plethodon ventralis Plethodon petraeus
+64 68
+Plethodontinae
+87
+99
+55 51
+61
+100 88
+Fig. 2 (continued)
+97
+100
+Plethodon serratus Plethodon virginia
+Plethodon shenandoah Plethodon cinereus
+Plethodon hoffmani Plethodon nettingi
+Plethodon hubrichti
+100
+94 100
+100 98
+100
+84
+99
+52 99
+99 96
+70
+Plethodon larselli Plethodon vandykei
+100 Plethodon idahoensis Plethodon neomexicanus
+98
+Plethodon vehiculum Plethodon dunni
+Plethodon asupak Plethodon stormi
+Plethodon elongatus
+77 62
+Plethodon electromorphus 96 Plethodon richmondi
+Plethodon websteri Plethodon punctatus
+94 50
+100
+72
+100 76
+Hydromantes shastae Hydromantes brunus
+Hydromantes platycephalus Hydromantes genei
+Hydromantes imperialis Hydromantes flavus
+Hydromantes supramontis Hydromantes strinatii
+Hydromantes italicus Hydromantes ambrosii
+Ensatina eschscholtzii Aneides aeneus
+Aneides hardii
+Aneides lugubris
+Aneides flavipunctatus Aneides vagrans
+Aneides ferreus Karsenia koreana
+Phaeognathus hubrichti Desmognathus wrighti
+Desmognathus folkertsi Desmognathus quadramaculatus
+Desmognathus marmoratus Desmognathus aeneus
+Desmognathus imitator Desmognathus monticola
+Desmognathus carolinensis Desmognathus brimleyorum Desmognathus planiceps
+Desmognathus welteri Desmognathus fuscus
+Desmognathus auriculatus Desmognathus ocoee
+Desmognathus ochrophaeus
+Desmognathus orestes Desmognathus apalachicolae
+Desmognathus conanti Desmognathus santeetlah
+99
+100
+96 52
+55 95
+100 Plethodon wehrlei Plethodon welleri
+98
+Plethodon metcalfi Plethodon montanus Plethodon amplus
+Plethodon meridianus Plethodon chattahoochee
+Plethodon chlorobryonis Plethodon variolatus Plethodon glutinosus
+Plethodon cylindraceus Plethodon teyahalee Plethodon aureolus
+Plethodon cheoah Plethodon caddoensis Plethodon ouachitae
+Plethodon fourchensis Plethodon kentucki Plethodon jordani
+Plethodon yonahlossee Plethodon shermani
+Plethodon mississippi Plethodon kiamichi
+Plethodon sequoyah Plethodon albagula Plethodon kisatchie
+Plethodon grobmani Plethodon ocmulgee 93 Plethodon savannah
+94 95
+68 74
+
+ 552
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+E
+67
+Plethodontidae cont.
+87
+Hemidactylinae
+98
+53 100
+98
+97
+100
+Pseudotriton ruber Pseudotriton montanus
+Spelerpinae
+61 93
+83
+99 85
+Eurycea rathbuni Eurycea troglodytes
+Eurycea sosorum Eurycea nana
+100 71
+Hemidactylium scutatum 100 Gyrinophilus porphyriticus Gyrinophilus gulolineatus
+100 Gyrinophilus palleucus Stereochilus marginatus
+92
+88 Eurycea pterophila 65 Eurycea tridentifera 76 Eurycea latitans
+Batrachoseps wrighti Batrachoseps campi
+Batrachoseps diabolicus Batrachoseps regius
+Batrachoseps kawia Batrachoseps relictus
+Bolitoglossinae
+93
+61
+100 94
+Thorius minutissimus Thorius troglodytes
+Thorius dubitus Chiropterotriton dimidiatus
+Chiropterotriton orculus Chiropterotriton lavae
+Chiropterotriton arboreus Chiropterotriton multid entatus
+98 Chiropterotriton cracens
+Chiropterotriton magnipes
+Chiropterotriton priscus Chiropterotriton terrestris
+Bolitoglossinae cont.
+100
+74
+Oedipina collaris Oedipina pseudouniformis
+Oedipina cyclocauda Oedipina poelzi
+Oedipina leptopoda Oedipina gracilis
+Oedipina pacificensis Oedipina uniformis
+68 100
+99
+69 86
+100
+96
+53 100
+Urspelerpes brucei
+Eurycea multiplicata Eurycea spelaea Eurycea tynerensis
+Haideotriton wallacei Eurycea lucifuga Eurycea longicauda
+Eurycea cirrigera Eurycea wilderae Eurycea bislineata
+Eurycea junaluska 100 Eurycea aquatica
+Eurycea quadridigitata 100 Eurycea naufragia Eurycea tonkawae
+100
+62
+Batrachoseps gabrieli Batrachoseps gavilanensis
+Eurycea chisholmensis 100 100 Eurycea waterlooensis
+62
+100
+53 Eurycea neotenes
+99
+84
+Batrachoseps major Batrachoseps pacificus
+Batrachoseps attenuatus Batrachoseps gregarius Batrachoseps simatus
+Batrachoseps nigriventris
+67 91
+77 64
+53 100
+77
+96 77
+65
+98 86
+52
+72
+Fig. 2 (continued)
+50
+Dendrotriton rabbi Nyctanolis pernix
+Chiropterotriton chondrostega
+94 58
+61 95
+Cryptotriton alvarezdeltoroi Cryptotriton nasalis
+Cryptotriton veraepacis Nototriton brodiei
+Nototriton barbouri Nototriton limnospectator Nototriton lignicola Nototriton richardi
+Nototriton guanacaste Nototriton picadoi
+Nototriton gamezi Nototriton abscondens
+Bradytriton silus Oedipina quadra Oedipina kasios
+Oedipina gephyra Oedipina carablanca
+99 66
+Oedipina elongata Oedipina maritima
+Oedipina parvipes Oedipina complex
+Oedipina savagei Oedipina alleni
+Oedipina stenopodia Oedipina grandis
+
+ F
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 553
+Bolitoglossinae cont.
+70
+74
+91 68
+96
+90
+65
+70
+87
+71
+59
+Parvimolge townsendi Pseudoeurycea cephalica
+Pseudoeurycea galeanae Pseudoeurycea scandens
+Pseudoeurycea boneti Pseudoeurycea maxima Pseudoeurycea bellii
+Pseudoeurycea naucampatepetl 87 Pseudoeurycea gigantea
+Lineatriton orchileucos Lineatriton lineolus
+Pseudoeurycea lynchi Pseudoeurycea firscheini
+Pseudoeurycea leprosa Pseudoeurycea unguidentis
+Pseudoeurycea ruficauda Pseudoeurycea juarezi
+100 Pseudoeurycea saltator Pseudoeurycea nigromaculata
+Pseudoeurycea mystax Pseudoeurycea werleri
+Pseudoeurycea obesa Pseudoeurycea conanti
+88
+94
+59
+60 97
+Pseudoeurycea rex
+Ixalotriton niger 100 Ixalotriton parvus
+Pseudoeurycea papenfussi Pseudoeurycea smithi
+88 Pseudoeurycea tenchalli Pseudoeurycea longicauda
+Pseudoeurycea altamontana Pseudoeurycea robertsi
+69 Pseudoeurycea gadovii Pseudoeurycea melanomolga
+99
+89
+86
+52
+Bolitoglossa rostrata Bolitoglossa helmrichi
+Bolitoglossa oaxacensis 100 Bolitoglossa macrinii
+Bolitoglossa zapoteca Bolitoglossa hermosa
+100 Bolitoglossa riletti Bolitoglossa franklini
+Bolitoglossa lincolni Bolitoglossa decora
+Bolitoglossa porrasorum Bolitoglossa longissima
+Bolitoglossa celaque Bolitoglossa synoria
+74
+Fig. 2 (continued)
+88 Pseudoeurycea cochranae Pseudoeurycea anitae
+92
+86 69
+88 80
+94
+92 99
+52 100
+58
+Bolitoglossa lignicolor Bolitoglossa yucatana
+99
+90 100
+93
+100 68
+80
+Bolitoglossa dofleini Bolitoglossa engelhardti
+96
+90
+84 52
+100
+Bolitoglossa morio Bolitoglossa flavimembris
+Bolitoglossa dunni Bolitoglossa diaphora
+Bolitoglossa conanti Bolitoglossa carri
+Pseudoeurycea exspectata Pseudoeurycea goebeli
+57
+Bolitoglossa rufescens 96 Bolitoglossa occidentalis
+Bolitoglossa platydactyla Bolitoglossa flaviventris
+100 Bolitoglossa odonnelli Bolitoglossa mexicana
+Pseudoeurycea brunnata Bolitoglossa hartwegi
+94 100
+Bolitoglossa striatula Bolitoglossa mombachoensis
+Bolitoglossa subpalmata Bolitoglossa gracilis
+Bolitoglossa pesrubra Bolitoglossa cerroensis
+Bolitoglossa epimela Bolitoglossa mar morea
+Bolitoglossa sooyorum Bolitoglossa minutula
+Bolitoglossa robusta Bolitoglossa schizodactyla
+Bolitoglossa colonnea Bolitoglossa paraensis
+Bolitoglossa biseriata
+Bolitoglossa sima Bolitoglossa adspersa
+Bolitoglossa medemi Bolitoglossa altamazonica
+95
+58
+100
+Bolitoglossa peruviana Bolitoglossa equatoriana
+Bolitoglossa palmata Bolitoglossa alvaradoi
+
+ 554
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+G
+Leiopelmatidae Bombinatoridae
+99
+Anura
+Leiopelma hamiltoni 99 Leiopelma pakeka
+98
+Ascaphidae 100 Ascaphus montanus Ascaphus truei
+98
+Discoglossidae Rhinophrynidae 100 100
+100
+100 100
+Pipa parva Hymenochirus boettgeri
+Silurana epitropicalis Silurana tropicalis
+Xenopus borealis Xenopus muelleri
+Xenopus clivii Xenopus vestitus
+Xenopusgilli Xenopus laevis
+92
+100 100
+99
+99
+99
+Leiopelma hochstetteri Leiopelma archeyi
+98
+Megophryidae
+Leptolalax pictus 100 Leptolalax arayai
+Leptolalax oshanensis Leptolalax liui
+Leptolalaxpelodytoides Leptolalaxbourreti
+Leptobrachium hasseltii 100 Leptobrachium smithi
+Leptobrachium gunungense Leptobrachium montanum Leptobrachium banae
+Leptobrachium xanthospilum Leptobrachium hainanense
+Leptobrachium ngoclinhense Leptobrachium mouhoti
+H-AE
+100
+78 59 100
+93 100
+100 Leptobrachium chapaense Scutiger chintingensis
+Scutiger glandulatus Scutiger boulengeri
+Scutiger mammatus Scutiger muliensis Scutiger tuberculatus Oreolalax rhodostigmatus
+Oreolalax lichuanensis Oreolalax pingii
+Oreolalax schmidti Oreolalax rugosus
+Oreolalax jingdongensis Oreolalax xiangchengensis Oreolalax major
+Oreolalax liangbeiensis
+100
+62 Bombina microdeladigitora 100 86 Bombina fortinuptialis Bombina orientalis
+Alytidae 100 100
+100
+100 Bombina variegata Alytes cisternasii
+Pipidae
+100
+Barbourula kalimantanensis Barbourula busuangensis
+99 Bombina maxima Bombina lichuanensis
+Bombina bombina 100 60 Bombina pachypus
+100
+Discoglossus montalentii 95 Discoglossus sardus 84 Discoglossus pictus
+Discoglossus galganoi 86 Discoglossus jeanneae
+Rhinophrynus dorsalis Pipa carvalhoi Pipa pipa
+Scaphiopodidae
+50 100
+Xenopus largeni Xenopus ruwenzoriensis Xenopus longipes Xenopus amieti
+Scaphiopus couchii Scaphiopus hurterii
+Scaphiopus holbrookii Spea multiplicata
+Fig. 2 (continued)
+100
+100
+Pelobatidae
+Pelodytes ibericus 100 Pelodytes punctatus
+Pelobates syriacus Pelobates fuscus
+96
+100
+100
+100
+100
+Ophryophryne microstoma Ophryophryne hansi
+Xenophrys baluensis
+Megophrys nasuta Megophrys lekaguli Xenophrys major
+Xenophrys minor
+Xenophrys spinata Xenophrys omeimontis Xenophrys nankiangensis
+Xenophrys shapingensis Brachytarsophrys feae
+100 Brachytarsophrys platyparietus
+100 72
+64
+Alytes obstetricans Alytes maurus
+Alytes dickhilleni Alytes muletensis
+100
+77 69
+100
+95 97 100
+61 58
+100
+Xenopus petersii Xenopus victorianus Xenopus boumbaensis
+Xenopus andrei Xenopus pygmaeus
+Xenopus fraseri Xenopus wittei
+Spea hammondii 86 Spea bombifrons
+Pelodytidae 77 Spea intermontana Pelodytes caucasicus
+99
+100 100
+95
+81
+97 99
+100 100
+67 58
+99
+100
+90 79
+100
+100
+94
+100 59
+Pelobates cultripes
+Pelobates varaldii
+100
+90
+99
+100
+Leptobrachium promustache Leptobrachium boringii Leptobrachium liui
+Leptobrachium leishanense Vibrissaphora echinata
+Leptobrachium ailaonicum Leptobrachium huashen
+100 99
+100
+80 99 85
+66 57
+100
+100 100
+95
+97
+Oreolalax multipunctatus Oreolalax chuanbeiensis Oreolalax omeimontis
+Oreolalax popei Oreolalax nanjiangensis
+
+ H
+71 61
+Hyperolius montanus Hyperolius puncticulatus
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+555
+G
+100
+Hadromophryne natalensis
+Arthroleptidae
+P-AE
+98
+56
+63 100
+100
+77
+96 Afrixalus paradorsalis Tachycnemis seychellensis
+99 100
+Heleophryne regis Heleophrynidae Heleophryne purcelli
+Nasikabatrachidae
+Sooglossidae Hemisotidae
+Brevicipitidae
+Astylosterninae
+Leptopelinae
+Arthroleptinae
+97
+98 80
+99 94
+56 73
+Leptopelis brevirostris Leptopelis argenteus Leptopelis modestus
+Leptopelis vermiculatus Leptopelis natalensis
+Leptopelis kivuensis Leptopelis palmatus
+Leptopelis bocagii Leptopelis concolor
+Fig. 2 (continued)
+98
+Arthroleptis xenodactylus Arthroleptis xenodactyloides
+Arthroleptis schubotzi Arthroleptis taeniatus
+Arthroleptis sylvaticus Arthroleptis aureoli
+Arthroleptis wahlbergii Arthroleptis francei Arthroleptis tanneri
+Arthroleptis reichei Arthroleptis nikeae Arthroleptis affinis
+Arthroleptis stenodactylus Arthroleptis variabilis Arthroleptis krokosua
+100
+100
+100 60
+98 97
+59 71
+99
+Leptodactylodon bicolor Scotobleps gabonicus
+Nyctibates corrugatus
+100
+68
+Callulina kisiwamsitu 100 Callulinakreffti
+100
+Nasikabatrachus sahyadrensis Sechellophryne gardineri
+100
+99
+Sechellophryne pipilodryas Sooglossus sechellensis Sooglossus thomasseti
+Hemisus marmoratus Breviceps fuscus
+Breviceps mossambicus Breviceps fichus
+99 97
+82 99
+100 100
+82 63
+I J-O
+100 Hyperolius molleri Hyperolius concolor Hyperolius zonatus
+100
+51 100 100
+100
+98
+100
+55 100
+86 85
+69 100
+Cardioglossa schioetzi Cardioglossa gracilis
+99 68
+75 Arthroleptis adelphus 100 Arthroleptis poecilonotus
+Cryptothylax greshoffii Kassina senegalensis Semnodactylus wealii
+Phlyctimantis leonardi Phlyctimantis verrucosus
+Kassina maculata Acanthixalus sonjae
+100 Acanthixalusspinosus Opisthothylax immaculatus
+87
+Cardioglossa elegans Cardioglossa gratiosa
+Cardioglossa leucomystax Cardioglossa occidentalis
+Cardioglossa pulchra
+Spelaeophryne methneri Probreviceps durirostris
+Probreviceps uluguruensis Probreviceps macrodactylus
+Trichobatrachus robustus 98 Astylosternus diadematus
+Astylosternus schioetzi 100 Astylosternus batesi
+Cardioglossaoreas
+100 Cardioglossa manengouba
+Morerella cyanophthalma 100 Afrixalus knysnae
+Afrixalus delicatus 100 Afrixalus stuhlmanni Afrixalus fornasini
+99 Afrixalus laevis 100 Afrixalusdorsalis
+100
+Heterixalus madagascariensis Heterixalus boettgeri Heterixalus alboguttatus
+98 Heterixalus punctatus Heterixalus luteostriatus
+Heterixalus rutenbergi 67 Heterixalus betsileo
+55 Heterixalus carbonei
+Heterixalus andrakata 100 Heterixalus tricolor
+93
+97
+56 56
+99 98
+77 94
+84
+84
+100 72
+92 50 64
+100
+88
+Heterixalus variabilis Hyperolius semidiscus
+Hyperolius horstockii Hyperolius pusillus
+Hyperolius acuticeps Hyperolius nasutus Hyperolius pardalis
+Hyperolius guttulatus Hyperolius fusciventris
+Hyperolius argus Hyperolius glandicolor Hyperolius phantasticus
+Hyperolius tuberculatus Hyperolius angolensis
+Hyperolius viridiflavus 97 Hyperolius marmoratus
+Hyperoliidae
+100
+86 80 54
+Hyperolius tuberilinguis Alexteroon obstetricans Hyperolius kivuensis
+Hyperolius mosaicus Hyperolius ocellatus Hyperolius alticola
+Hyperolius lateralis Hyperolius castaneus
+Hyperolius frontalis Hyperolius cystocandicans Hyperolius picturatus
+Hyperolius baumanni Hyperolius chlorosteus
+Hyperolius torrentis
+Hyperolius cinnamomeoventris Hyperolius thomensis
+
+ 556
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+I
+93
+Microhylidae 97
+72
+Hamptophryne boliviana Dermatonotus muelleri
+Elachistocleis ovalis Hypopachus variolosus
+Gastrophryne elegans Gastrophryne carolinensis
+Gastrophryne olivacea Hoplophryne rogersi
+Hoplophryne uluguruensis Anodonthyla rouxae
+Anodonthyla montana Anodonthyla moramora
+Scaphiophryninae
+Microhylinae
+99 63
+85 98
+Scaphiophryne calcarata Scaphiophryne gottlebei
+Scaphiophryne marmorata Scaphiophryne boribory Scaphiophryne madagascariensis
+Phrynomerinae Otophryninae
+Phrynomantis annectens Phrynomantis bifasciatus
+80
+Paradoxophyla palmata Paradoxophyla tiarano
+76
+Kaloula pulchra Kaloula conjuncta
+Metaphrynella sundana
+99
+Phrynomantis microps Otophryne pyburni
+Synapturanus mirandaribeiroi Chiasmocleis hudsoni
+71 96
+Gastrophryninae
+Hoplophryninae
+100 100
+99 100
+100
+Chiasmocleis shudikarensis Nelsonophryne aequatorialis
+Cophylinae
+85
+100
+Dyscophinae
+65
+100 Scaphiophryne menabensis
+95
+Cophyla berara Plethodontohyla mihanika
+Plethodontohyla fonetana Plethodontohyla guentheri
+Plethodontohyla notosticta Stumpffia helenae
+Rhombophryne coudreaui Rhombophryne coronata
+Rhombophryne serratopalpebrosa Rhombophryne minuta
+Rhombophryne testudo Rhombophryne alluaudi Rhombophryne laevipes
+100 81
+100
+78 92
+100
+Kalophryninae Melanobatrachinae
+Dyscophus insularis Dyscophus guineti
+100 Dyscophus antongilii
+Asterophryninae
+99
+58
+97
+Albericus laurini Aphantophryne pansa
+Fig. 2 (continued)
+100
+61 100
+Anodonthyla hutchisoni Plethodontohyla inguinalis
+Plethodontohyla tuberata Plethodontohyla bipunctata
+Plethodontohyla brevipes Plethodontohyla ocellata
+95
+100 100
+Ramanella variegata Ramanella obscura
+Micryletta inornata Chaperina fusca
+Glyphoglossus molossus Calluella guttulata
+9485
+100
+100 88
+95
+95 90
+100
+Anodonthyla nigrigularis Anodonthyla boulengerii
+84
+71
+54
+98 76
+78 90
+Platypelis grandis Platypelis milloti
+Platypelis mavomavo Platypelis tuberifera
+Platypelis pollicaris Platypelis barbouri
+Scaphiophryne brevis 72 Scaphiophryne spinosa
+67
+94
+Kalophrynus baluensis Kalophrynus intermedius
+Kalophrynus pleurostigma Melanobatrachus indicus
+Genyophryne thomsoni Liophryne schlaginhaufeni
+Copiula major
+Austrochaperina derongo
+68
+66
+74 90
+98 78
+Oxydactyla crassa Xenorhina obesa
+Liophryne dentata Sphenophryne cornuta
+Hylophorbus rufescens Callulops robustus
+Hylophorbus nigrinus Hylophorbus wondiwoi Hylophorbus tetraphonus Hylophorbus picoides
+Barygenys flavigularis
+Xenorhina lanthanites
+Ctenophryne geayi Dasypops schirchi
+82 100
+100
+99 64
+60
+80
+51 95
+100
+Stumpffia tridactyla Stumpffia pygmaea
+Stumpffia gimmeli Stumpffia psologlossa
+Stumpffia tetradactyla Stumpffia grandis
+Stumpffia roseifemoralis Cophyla phyllodactyla
+Kaloula taprobanica Uperodon systoma
+100
+100
+73
+87 88
+99
+Microhyla butleri Microhyla pulchra
+Microhyla rubra Microhyla heymonsi
+Microhyla borneensis Microhyla okinavensis
+Microhyla fissipes Microhyla ornata
+100
+100
+Cophixalus humicola Cophixalus tridactylus Oreophryne clamata
+Oreophryne waira Oreophryne sibilans
+100
+67
+100
+Copiula pipiens Copiula obsti
+Cophixalus sphagnicola
+Barygenys exsul Choerophryne rostellifer
+100 100
+Cophixalus balbus Oreophryne asplenicola
+Oreophryne pseudasplenicola Oreophryne unicolor Oreophryne brachypus
+Oreophryne wapoga
+Oreophryne atrigularis Liophryne rhododactyla
+100
+Xenorhina bouwensi Xenorhina varia
+Xenorhina oxycephala Asterophrys turpicola
+Callulops slateri Callulops eurydactylus
+Callulops pullifer
+
+ J
+Platymantis bimaculatus Platymantis wuenscheorum
+Platymantis weberi Platymantis papuensis
+Platymantis pelewensis Platymantis cryptotis
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+557
+Phrynobatrachidae
+Micrixalus fuscus Phrynobatrachus sandersoni
+Phrynobatrachus krefftii Phrynobatrachus dendrobates
+Pyxicephalidae
+74
+96
+92
+6683 95
+Ceratobatrachidae 54 100
+98 Nyctibatrachus major 100 Ingerana baluensis
+H
+Hildebrandtia ornata Ptychadena mascareniensis
+93 99 100
+82
+88
+Ptychadena newtoni Ptychadena pumilio
+Ptychadena taenioscelis Ptychadena subpunctata Ptychadena longirostris
+Ptychadena anchietae Ptychadena tellinii
+Ptychadena oxyrhynchus Ptychadena cooperi
+Ptychadena aequiplicata Ptychadena bibroni
+Ptychadena porosissima Ptychadena mahnerti Micrixalus kottigeharensis
+Ptychadenidae
+Micrixalidae
+99
+99
+80 100
+98
+99 50
+100 100
+100
+100 94
+98
+62
+91
+Pyxicephalus adspersus 76 Pyxicephalus edulis Anhydrophryne rattrayi
+100 97
+Fig. 2 (continued)
+Batrachylodes vertebralis Ceratobatrachus guentheri Platymantis punctatus
+K-O
+75
+98
+99 99 100
+Phrynobatrachus mababiensis Phrynobatrachus calcaratus Phrynobatrachus leveleve Phrynobatrachus dispar
+Phrynobatrachus natalensis Phrynobatrachus auritus Phrynobatrachus acridoides
+Phrynobatrachus cricogaster Phrynobatrachus africanus
+93
+Conraua robusta
+Conraua goliath Conrauidae
+Conraua crassipes Petropedetes yakusini
+100 Petropedetes martiensseni Petropedetes palmipes
+Petropedetes cameronensis 100 Petropedetes parkeri
+Petropedetidae
+Pyxicephalinae
+Cacosterninae
+Nyctibatrachidae
+94
+100 Petropedetes newtoni 100 Aubria subsigillata
+Tomopterna natalensis Tomopterna krugerensis Tomopterna delalandii
+Tomopterna tuberculosa Tomopterna luganga Tomopterna marmorata
+Tomopterna damarensis Tomopterna cryptotis
+61 100 Strongylopus bonaespei Strongylopus fasciatus
+80 88
+Poyntonia paludicola
+100 Microbatrachella capensis
+55
+Amietia angolensis Amietia vertebralis
+94 100
+59 74
+Arthroleptella villiersi Arthroleptella drewesii Arthroleptella landdrosia Arthroleptella bicolor Arthroleptella subvoce
+Lankanectes corrugatus Nyctibatrachus aliciae
+56
+96 Tomopterna tandyi
+99 78
+Cacosternum platys Cacosternum nanum
+Cacosternum capense
+Cacosternum boettgeri Amietia fuscigula
+91
+83 Strongylopus grayii
+Natalobatrachus bonebergi 100 Arthroleptella lightfooti
+95
+Platymantis montanus Platymantis hazelae
+Platymantis corrugatus 97 Platymantis dorsalis
+91 Platymantis mimulus 89 Platymantis naomii
+57 69
+76 69
+99 100
+94
+Discodeles guppyi Platymantis vitiensis
+
+ 558
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+K
+91 71
+Limnonectes malesianus Limnonectes ingeri
+100 Limnonectes finchi
+Ranixalidae
+99
+100
+100
+Indirana beddomii Indirana semipalmata
+88
+99
+93
+Chaparana delacouri Paa fasciculispina Paa robertingeri
+Paa shini
+Paa verrucospinosa
+100
+Occidozyginae
+Ingerana tenasserimensis 100 Occidozyga borealis
+Occidozyga lima Occidozyga baluensis
+Occidozyga laevis Occidozyga martensii
+100 Occidozyga magnapustulosa Nannophrys ceylonensis
+Nannophrys marmorata Euphlyctis hexadactylus
+99
+100 91
+Nanorana ventripunctata Nanorana pleskei
+Nanorana parkeri Paa conaensis
+100
+97
+95
+78
+Dicroglossidae
+Dicroglossinae
+82
+99
+56
+97 51
+100
+58
+59
+100
+80
+Chaparana quadranus Chaparana unculuanus
+Chaparana aenea
+100 Chaparana fansipani Paa bourreti
+100
+Limnonectes fragilis Limnonectes fujianensis
+100
+86 66
+51 72 57 88
+Fig. 2 (continued)
+87
+97
+88 54
+100
+Euphlyctis cyanophlyctis Euphlyctis ehrenbergii
+Hoplobatrachus occipitali s Hoplobatrachus crassus
+Hoplobatrachus tigerinus Hoplobatrachus rugulosus
+Sphaerotheca dobsonii Sphaerotheca breviceps
+Fejervarya cancrivora Fejervarya vittigera
+Fejervarya triora
+Fejervarya iskandari
+89 90
+Paa medogensis Paa maculosa
+100
+100
+93 100
+100
+100
+100 Paa boulengeri Paa yei
+99 100
+Paa jiulongensis Paa exilispinosa
+Paa spinosa Paa liebigii
+Paa taihangnicus
+100
+98 85
+Fejervarya orissaensis Fejervarya sakishimensis
+Fejervarya limnocharis Fejervarya mudduraja
+Fejervarya pierrei Fejervarya greenii
+Fejervarya kirtisinghei Fejervarya kudremukhensis
+Fejervarya rufescens Fejervarya caperata
+Fejervarya syhadrensis Fejervarya granosa
+Paa yunnanensis 100 Paa liui
+80 Paa chayuensis 99 Paa arnoldi
+100
+74 80
+100
+Limnonectes microdiscus Limnonectes kadarsani
+Limnonectes laticeps Limnonectes limborgi
+100 Limnonectes hascheanus Limnonectes dabanus
+Limnonectes gyldenstolpei Limnonectes asperatus
+100
+100 65
+78
+57
+100 100 69
+56 100 63
+67
+63
+Limnonectes bannaensis Limnonectes kuhlii
+Limnonectes leytensis Limnonectes acanthi
+Limnonectes microtympanum Limnonectes arathooni
+Limnonectes magnus Limnonectes heinrichi
+Limnonectes modestus Limnonectes woodworthi Limnonectes macrocephalus
+Limnonectes visayanus Limnonectes leporinus Limnonectes parvus
+Limnonectes palavanensis Limnonectes ibanorum
+Limnonectes grunniens Limnonectes blythii
+100 Limnonectes poilani
+Limnonectes paramacrodon
+Limnonectes macrodon 100 Limnonectes shompenorum
+100
+
+ R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 559
+Laliostominae 99
+99 87
+Laliostoma labrosum
+Aglyptodactylus madagascariensis
+100
+Mantellidae
+60
+55 99
+Boophis goudotii Boophis boehmei Boophis marojezensis
+Boophis vittatus Boophis albilabris
+Boophis occidentalis
+Boophis microtympanum
+Boophis sibilans Boophis rappiodes
+Boophis viridis Guibemantis tornieri
+Guibemantis depressiceps Guibemantis albolineatus
+Guibemantis bicalcaratus Guibemantis liber
+Blommersia wittei
+Blommersia blommersae
+Blommersia domerguei Blommersia grandisonae
+Blommersia sarotra Blommersia kely
+Boophinae
+Boophis doulioti
+Boophis luteus
+Boophis madagascariensis
+Mantellinae
+91
+97 Mantella milotympanum Mantella laevigata
+100 Mantella manery 74 Mantella ebenaui
+Mantella expectata 94 Mantella viridis
+73 Mantella betsileo Spinomantis aglavei Spinomantis elegans
+L 85 Fig. 2 (continued)
+Gephyromantis webbi Gephyromantis silvanus
+Gephyromantis rivicola Gephyromantis ambohitra
+Gephyromantis klemmeri Gephyromantis horridus
+Gephyromantis ventrimaculatus 100 Gephyromantis malagasius
+Gephyromantis striatus
+100
+100 Mantella aurantiaca 99 Mantella crocea
+100
+82 87
+100 100
+100
+78
+94
+100
+99
+99
+100
+100
+94
+88
+100 93
+Aglyptodactylus laticeps Boophis pauliani
+Boophis idae Boophis xerophilus
+Boophis tephraeomystax
+95
+100 100
+96 99
+100 Mantella cowanii Mantella baroni
+93 Mantella haraldmeieri 92 Mantella nigricans
+Mantella madagascariensis Mantella pulchra
+96
+76
+52 64 90
+Mantidactylus lugubris Mantidactylus biporus
+Mantidactylus charlotteae
+51 86
+62
+73
+Mantidactylus op iparis Mantidactylus ulcerosus
+93
+100
+90
+94 61
+96
+Mantidactylus ambreensis Mantidactylus mocquardi
+Mantidactylus femoralis Gephyromantis corvus
+100
+Wakea madinika Mantella bernhardi
+Spinomantis peraccae Boehmantis microtympanum
+Mantidactylus grandidieri Mantidactylus argenteus
+55
+95
+64 58
+97
+Gephyromantis blanci Gephyromantis enki
+Gephyromantis eiselti Gephyromantis leucocephalus
+Gephyromantis decaryi
+99 57
+Gephyromantis pseudoasper Gephyromantis granulatus
+Gephyromantis tschenki Gephyromantis cornutus
+Gephyromantis redimitus Gephyromantis moseri
+Gephyromantis azzurrae Gephyromantis sculpturatus
+99 Gephyromantis plicifer Gephyromantis luteus
+Gephyromantis tandroka Gephyromantis salegy
+52 64
+Gephyromantis zavona Gephyromantis leucomaculatus
+Gephyromantis boulengeri Gephyromantis asper
+
+ 560
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+M
+55
+Philautus stuarti Philautus lunatus
+Philautus cavirostris Philautus schmarda
+Buergeriinae
+100
+Rhacophoridae
+100
+Buergeria oxycephlus Buergeria japonica
+Buergeria buergeri Buergeria robusta
+Rhacophorinae
+78
+73
+98
+99
+Chiromantis doriae Chiromantis rufescens Chiromantis xerampelina
+Feihyla palpebralis
+100
+83
+98
+Philautus hainanus Philautus ocellatus Liuixalus romeri
+Nyctixalus spinosus
+69
+85
+87
+93 74
+55
+61 92
+62
+100 80
+70
+Kurixalus odontotarsu s Kurixalus hainanus
+Philautus beddomii Philautus glandulosus
+Philautus anili Philautus bobingeri
+Philautus graminirupes
+Philautus nerostagona
+99
+76
+66 62
+92
+Nyctixalus pictus Theloderma corticale
+Theloderma rhododiscus Theloderma bicolor
+67
+Philautus neelanethrus Philautus travancoricus
+Philautus griet Philautus charius
+Philautus signatus Philautus tinniens
+96 99
+100 58
+99
+Rhacophorus annamensis Rhacophorus orlovi
+Rhacophorus malabaricus Rhacophorus calcaneus
+Rhacophorus rhodopus Rhacophorus bipunctatus
+Rhacophorus kio Rhacophorus reinwardtii
+Rhacophorus lateralis
+98
+88
+96
+100
+89
+94
+99 58
+Polypedates eques Polypedates fastigo
+Polypedates colletti Polypedates maculatus
+Polypedates cruciger Polypedates leucomystax
+Polypedates mutus Polypedates megacephalus
+98 52
+100
+99
+96 68
+Gracixalus gracilipes Philautus quyeti
+Philautus ingeri Philautus abditus
+Fig. 2 (continued)
+Theloderma asperum
+Ghatixalus variabilis Chiromantis vittatus
+86
+68
+89
+98
+100
+92
+98 100
+59
+Philautus ponmudi
+Philautus longchuanensis
+100
+88
+99
+Rhacophorus feae Rhacophorus dennysi
+Rhacophorus maximus Rhacophorus chenfui
+Rhacophorus nigropunctatus Rhacophorus schlegelii Rhacophorus arboreus
+Rhacophorus moltrechti Rhacophorus taronensis
+Rhacophorus omeimontis Rhacophorus hui
+Rhacophorus minimus Rhacophorus hungfuensis Rhacophorus dugritei
+Rhacophorus puerensis Kurixalus jinxiuensis
+77
+60 53
+100
+Philautus aurifasciatus Philautus acutirostris
+Philautus surdus Philautus mjobergi
+Philautus petersi Theloderma moloch
+Philautus banaensis Kurixalus eiffingeri
+52 Kurixalus idiootocus Philautus carinensis
+53
+54
+89
+Philautus hoffmanni Philautus papillosus
+73 52
+100
+Philautus gryllus Philautus menglaensis
+Philautus bombayensis Philautus tuberohumerus
+Philautus zorro Philautus wynaadensis Philautus leucorhinus Philautus simba
+Philautus decoris 100 Philautus mittermeieri
+Philautus tanu Philautus ocularis
+100 Philautus pleurotaenia Philautus asankai
+100
+91
+Philautus microtympanum Philautus steineri
+Philautus mooreorum Philautus poppiae
+99 Philautus femoralis Philautus popularis
+
+ N
+67
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 561
+100
+Ranidae
+Rana alticola Huia masonii
+Huia sumatrana Huia cavitympanum
+Meristogenys kinabaluensis Meristogenys whiteheadi
+Meristogenys orphnocnemis Meristogenys poecilus
+Meristogenys jerboa Meristogenys phaeomerus
+Amolops spinapectoralis Amolops hainanensis
+Amolops torrentis Amolops hongkongensis Amolops daiyunensis
+Amolops wuyiensis Amolops ricketti
+Amolops cremnobatus
+Amolops larutensis
+Amolops panhai
+Amolops bellulus Amolops marmoratus
+Amolops chunganensis 100 Amolops viridimaculatus
+Amolops lifanensis
+Amolops granulosus
+Amolops kangtingensis Amolops mantzorum
+Amolops jinjiangensis Amolops loloensis
+90 96
+94
+97 56
+97 96
+100
+100 97
+67
+Huia melasma
+Rana curtipes
+93
+61 53
+100 100
+100
+58
+82 96
+99
+100
+100 100
+58 96
+Staurois latopalmatus Staurois natator
+100 Staurois parvus Staurois tuberilinguis
+90
+94
+71
+70 100
+100
+96 100
+98
+82
+100 Rana sanguinea Rana igorota
+Rana luzonensis Rana minima
+Rana tientaiensis Rana emeljanovi
+100
+Amolops liangshanensis Rana fukienensis
+100 100
+Rana porosa Rana hubeiensis Rana plancyi
+Rana nigromaculata Rana saharica
+Rana perezi Rana esculenta
+100 Rana lessonae Rana cretensis
+Rana epeirotica
+Rana kurtmuelleri 71 Rana ridibunda
+Rana bedriagae Rana cerigensis
+Rana shqiperica 85 Rana bergeri
+Ranidae cont.
+Fig. 2 (continued)
+80
+98 92
+93
+95 65
+76 53
+71 98
+91 100
+60
+59
+Amnirana galamensis Amnirana albolabris
+Amnirana lepus Rana siberu Rana picturata
+Rana signata
+97
+98 95
+Rana milleti Rana arfaki
+Rana jimiensis Rana daemeli
+Rana faber
+Rana nigrovittata Rana cubitalis
+Rana latouchii
+Rana maosonensis
+100
+95
+99
+99 60
+100
+Rana spinulosa
+Rana mocquardii
+Rana rugosa
+Rana luctuosa Rana erythraea
+Rana taipehensis
+Rana macrodactyla
+95
+76
+56
+100 99
+Rana chalconota Rana megalonesa
+Rana raniceps
+Rana labialis
+Rana parvaccola
+98 Rana eschatia Hylarana nicobariensis
+Rana guentheri Rana lateralis
+100 Rana miopus
+Rana aurantiaca Rana temporalis
+Rana malabarica
+Rana gracilis
+Rana banjarana Rana laterimaculata
+Rana glandulosa Rana baramica
+
+ 562
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+O
+Rana omiltemana Rana forreri
+Rana spectabilis Rana brownorum
+Rana taylori Rana macroglossa
+Ranidae cont.
+98 94
+Rana vitrea Rana compotrix
+Rana cucae Rana ishikawae
+76
+67
+Pseudoamolops sauteri Rana asiatica
+Rana latastei
+Rana dalmatina
+Rana graeca Rana macrocnemis
+Rana okinavana
+Rana tsushimensis
+Rana pyrenaica Rana temporaria
+Rana italica Rana iberica
+Rana kunyuensis Rana amurensis
+Rana ornativentris Rana dybowskii
+Rana pirica
+Rana huanrensis
+Rana kukunoris
+Rana chensinensis
+92
+78
+92
+81
+85
+100
+88
+92
+Rana luteiventris Rana pretiosa
+Rana boylii
+Rana aurora Rana muscosa
+98
+72
+100
+100
+97
+98
+67 73
+Rana sierramadrensis Rana pustulosa
+Rana tarahumarae Rana zweifeli
+Rana psilonota Rana maculata
+100
+100
+100
+Rana pleuraden
+Fig. 2 (continued)
+100
+52 84
+Rana sylvatica Rana catesbeiana
+Rana septentrionalis Rana grylio
+Rana virgatipes Rana heckscheri
+Rana okaloosae
+73
+51
+100 86
+Rana versabilis
+Rana swinhoana
+Rana utsunomiyaorum Rana supranarina
+Rana amamiensis
+94
+Rana adenopleura
+94
+97
+100 88 66
+98
+Rana iriodes Rana daorum
+Rana archotaphus
+99
+100
+Rana chapaensis Odorrana absita
+Rana khalam
+Odorrana chapaensis
+90 Rana hmongorum Rana andersonii
+68
+Odorrana junlianensis Rana grahami
+Rana margaretae Odorrana jingdongensis
+93 97
+88 63
+Odorrana schmackeri Odorrana tormota Odorrana nasica
+99
+Rana cascadae
+Rana johnsi Rana zhengi
+Rana tagoi
+51
+52
+Rana weiningensis Rana shuchinae
+73
+81 Rana holsti
+70
+91
+63 99
+97
+55 86
+57
+81 77
+93 84
+Rana chaochiaoensis Rana omeimontis
+Rana zhenhaiensis Rana longicrus
+93
+99
+Rana arvalis
+Rana japonica
+100
+100 Rana clamitans
+95
+99
+100
+100
+100
+100
+Rana vibicaria Rana palmipes
+Rana bwana
+Rana juliani Rana vaillanti
+Rana palustris Rana areolata
+Rana sevosa Rana capito
+Rana warszewitschii
+100
+99 99
+Rana magnaocularis Rana yavapaiensis
+Rana onca
+Rana sphenocephala
+Rana blairi
+Rana berlandieri
+63 79 100
+100
+100
+Rana pipiens
+Rana chiricahuensis
+98 90
+99 66
+54
+77 72
+100
+Rana dunni
+Rana montezumae
+Rana bacboensis Rana hejiangensis
+Rana megatympanum
+Rana narina
+100
+95 Rana neovolcanica 88 Rana tlaloci
+Rana tiannanensis Rana banaorum
+Rana morafkai Rana hosii
+Rana chloronota Rana livida
+Odorrana aureola
+
+ P
+Q-S T-AE
+Fig. 2 (continued)
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 563
+A-O
+57
+Mixophyes fasciolatus Taudactylus acutirostris
+Spicospina flammocaerulea Uperoleia littlejohni
+Uperoleialaevigata
+Pseudophryne coriacea Pseudophryne bibronii
+Myobatrachus gouldii Metacrinia nichollsi
+Paracrinia haswelli Geocrinia victoriana
+100 94
+100 100
+Calyptocephallela gayi Telmatobufo venustus Telmatobufo bullocki
+100 Notadenmelanoscaphus Notaden bennettii
+100 Neobatrachus pelobatoides Neobatrachus pictus
+99 Neobatrachus sudelli Platyplectrumspenceri
+100 Platyplectrumornatum 98 Lechriodus fletcheri
+98
+93
+Heleioporus australiacus Adelotus brevis
+Philoria sphagnicolus Limnodynastes salmini
+100Limnodynastes lignarius 65
+Limnodynastes convexiusculus 54 Limnodynastes peronii
+Limnodynastes tasmaniensis 78 Limnodynastes depressus
+Limnodynastes fletcheri Limnodynastes terraereginae
+Limnodynastinae
+Myobatrachidae
+100
+64
+71
+74
+Mixophyes carbinensis Mixophyes coggeri 68 Mixophyes schevilli
+99
+100 Limnodynastes dorsalis 65 Limnodynastes interioris 97 Limnodynastes dumerilii
+Rheobatrachus silus Mixophyes balbus
+76
+100 100 100
+100 100
+100
+100
+81
+97
+97
+98
+93 66
+Ischnocnema guentheri
+Ischnocnema hoehnei
+100
+89
+100 100
+Assa darlingtoni
+Crinia nimbus Crinia riparia Crinia signifera
+Crinia deserticola Crinia parinsignifera Crinia tinnula
+Ceuthomantis smaragdinus
+Brachycephalus ephippium Ischnocnema juipoca
+67
+Ceuthomantidae
+Brachycephalidae
+Ischnocnema holti 100 Ischnocnema parva
+Calyptocephallelidae
+Myobatrachinae
+
+ 564
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+Q
+92
+Eleutherodactylus gossei Eleutherodactylus griphus
+Eleutherodactylus glaucoreius Eleutherodactylus cundalli Eleutherodactylus pentasyringos
+Eleutherodactylus pantoni
+Phyzelaphryninae
+Eleutherodactylidae
+89
+Eleutherodactylinae
+85
+52
+79
+59
+93 100
+90
+55
+81
+99
+100
+100 100
+92
+99 51
+64
+83
+100
+Eleutherodactylus inoptatus 100 Eleutherodactylus nortoni
+Eleutherodactylus chlorophenax Eleutherodactylus bothroboans
+Eleutherodactylus ruthae
+Eleutherodactylus parapelates Eleutherodactylus hypostenor
+100
+Adelophryne gutturosa
+Phyzelaphryne miriamae
+Diasporus diastema Eleutherodactylus counouspeus
+90
+82
+Fig. 2 (continued)
+90
+60
+100 100
+100
+Eleutherodactylus sommeri Eleutherodactylus wetmorei
+Eleutherodactylus fowleri Eleutherodactylus lamprotes
+Eleutherodactylus melacara Eleutherodactylus leberi
+Eleutherodactylus varians Eleutherodactylus ionthus
+Eleutherodactylus guantanamera Eleutherodactylus poolei
+Eleutherodactylus minutus Eleutherodactylus pituinus
+Eleutherodactylus parabates Eleutherodactylus abbotti Eleutherodactylus haitianus
+Eleutherodactylus audanti Eleutherodactylus eileenae
+Eleutherodactylus glamyrus Eleutherodactylus ronaldi
+97
+98
+100
+54
+93
+100 81
+Eleutherodactylus mariposa Eleutherodactylus bartonsmithi Eleutherodactylus auriculatus
+86
+90
+Eleutherodactylus klinikowskii 100 Eleutherodactylus zugi
+Eleutherodactylus ventrilineatus Eleutherodactylus brevirostris
+Eleutherodactylus sciagraphus Eleutherodactylus glandulifer
+Eleutherodactylus paulsoni Eleutherodactylus furcyensis
+Eleutherodactylus rufifemoralis Eleutherodactylus apostates
+Eleutherodactylus oxyrhyncus Eleutherodactylus jugans
+Eleutherodactylus glanduliferoides Eleutherodactylus thorectes
+Eleutherodactylus bakeri Eleutherodactylus dolomedes
+Eleutherodactylus glaphycompus Eleutherodactylus heminota
+Eleutherodactylus corona Eleutherodactylus amadeus
+Eleutherodactylus eunaster Eleutherodactylus caribe
+Eleutherodactylus schmidti Eleutherodactylus albipes
+Eleutherodactylus maestrensis Eleutherodactylus dimidiatus Eleutherodactylus emiliae
+65
+70 50
+60
+100
+100
+Eleutherodactylus planirostris Eleutherodactylus casparii
+Eleutherodactylus goini Eleutherodactylus tonyi
+Eleutherodactylus rogersi Eleutherodactylus pezopetrus
+Eleutherodactylus pinarensis Eleutherodactylus blairhedgesi Eleutherodactylus thomasi
+100
+92
+100 100
+Eleutherodactylus principalis Eleutherodactylus pinchoni
+Eleutherodactylus barlagnei Eleutherodactylus johnstonei
+Eleutherodactylus amplinympha Eleutherodactylus martinicensis
+Eleutherodactylus flavescens Eleutherodactylus cooki
+Eleutherodactylus eneidae Eleutherodactylus locustus
+Eleutherodactylus antillensis Eleutherodactylus brittoni Eleutherodactylus hedricki
+Eleutherodactylus cochranae
+Eleutherodactylus gryllus Eleutherodactylus wightmanae
+Eleutherodactylus portoricensis Eleutherodactylus coqui
+100
+95
+62 51
+100
+66 84
+93
+97 64
+89
+100 100
+Eleutherodactylus schwartzi Eleutherodactylus zeus
+Eleutherodactylus symingtoni Eleutherodactylus marnockii
+100
+97 100
+93
+98
+64 55
+100
+100 97
+100
+61
+100
+98
+99 100
+82
+Eleutherodactylus richmondi Eleutherodactylus unicolor
+Eleutherodactylus patriciae Eleutherodactylus auriculatoides
+92
+89
+71 59
+70
+100 100
+71 97
+80 100
+98
+Eleutherodactylus etheridgei Eleutherodactylus iberia Eleutherodactylus jaumei
+100
+Eleutherodactylus nitidus Eleutherodactylus pipilans
+90
+83
+99
+Eleutherodactylus greyi
+Eleutherodactylus guanahacabibes
+98
+Eleutherodactylus atkinsi Eleutherodactylus gundlachi
+Eleutherodactylus intermedius 100 Eleutherodactylus varleyi
+Eleutherodactylus cubanus Eleutherodactylus orientalis
+Eleutherodactylus limbatus Eleutherodactylus alcoae
+Eleutherodactylus armstrongi
+100 100
+100
+64
+Eleutherodactylus leoncei Eleutherodactylus darlingtoni
+60
+Eleutherodactylus rivularis Eleutherodactylus toa
+Eleutherodactylus luteolus Eleutherodactylus sisyphodemus
+Eleutherodactylus grabhami Eleutherodactylus cavernicola
+86
+Eleutherodactylus bresslerae Eleutherodactylus ricordii
+72
+Eleutherodactylus acmonis Eleutherodactylus probolaeus
+Eleutherodactylus monensis Eleutherodactylus pictissimus
+Eleutherodactylus grahami Eleutherodactylus lentus Eleutherodactylus rhodesi
+Eleutherodactylus weinlandi Eleutherodactylus turquinensis
+Eleutherodactylus cuneatus Eleutherodactylus riparius
+100
+77 74
+Eleutherodactylus jamaicensis Eleutherodactylus nubicola
+Eleutherodactylus andrewsi Eleutherodactylus orcutti
+Eleutherodactylus alticola Eleutherodactylus fuscus Eleutherodactylus junori
+
+ R
+Oreobates heterodactylus Oreobates madidi
+Craugastorinae
+Holoadeninae
+77
+100
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 565
+incertae sedis
+Hypodactylus dolops Hypodactylus peraccai
+Hypodactylus elassodiscus Hypodactylus brunneus
+Craugastoridae
+98
+Pristimantinae
+100
+65
+86
+Craugastor megacephalus
+Craugastor rupinius Craugastor fleischmanni
+Craugastor rugulosus Craugastor ranoides
+Craugastor emcelae Craugastor melanostictus
+Craugastor andi
+100 Craugastor cuaquero
+Craugastor longirostris Craugastor tabasarae
+Craugastor raniformis Craugastor fitzingeri
+Craugastor crassidigitus Craugastor talamancae
+85
+72 100
+81
+Pristimantinae cont.
+Phrynopus barthlenae 59 Phrynopus tautzorum
+95 Phrynopus kauneorum Phrynopus juninensis
+Lynchius flavomaculatus Lynchius parkeri
+93
+100
+100
+Psychrophrynella iatamasi Bryophryne cophites Holoaden bradei
+Holoaden luederwaldti Noblella lochites
+Barycholos ternetzi Barycholos pulcher
+61
+77 89
+100
+100 100
+Strabomantis sulcatus Strabomantis biporcatus
+Strabomantis necerus Strabomantis bufoniformis
+Strabomantis anomalus Haddadus binotatus
+Craugastor daryi
+Strabomantinae
+81
+100
+Noblella peruviana Psychrophrynella wettsteini
+85
+52
+99
+100
+69 98 100
+85
+89
+77 100
+77
+76
+98 80
+90
+76 87
+98
+100
+100
+100 67
+84 97
+69
+99
+100 100
+Lynchius nebulanastes Oreobates lehri
+Oreobates quixensis 100 Oreobates saxatilis
+Oreobates choristolemma Oreobates sanctaecrucis Oreobates granulosus
+Oreobates sanderi Oreobates discoidalis
+Oreobates ibischi Oreobates cruralis
+98
+100
+100
+Craugastor augusti Craugastor tarahumaraensis
+Craugastor alfredi Craugastor uno
+Craugastor stuarti Craugastor bocourti
+Craugastor spatulatus Craugastor montanus
+Craugastor pygmaeus Craugastor sartori
+Craugastor laticeps Craugastor lineatus
+Craugastor podiciferus Craugastor bransfordii
+Craugastor mexicanus Craugastor loki
+Craugastor rhodopis Craugastor sandersoni
+Craugastor obesus Craugastor punctariolus Craugastor angelicus
+100
+Phrynopus bracki Phrynopus bufoides
+100 58
+100
+100
+Phrynopuspesantesi
+Fig. 2 (continued)
+100
+76
+88 Phrynopus horstpauli
+
+ 566
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+S
+98 77
+Pristimantis croceoinguinis Pristimantis llojsintuta
+Pristimantinae cont. 93
+100
+100
+Pristimantis ashkapara Pristimantis mercedesae
+Pristimantis fraudator Pristimantis bisignatus
+100 Pristimantis crenunguis Pristimantis labiosus
+Pristimantsi lanthanites Pristimantis w-nigrum
+Pristimantis actites Pristimantis ridens
+Pristimantis caryophyllaceus Pristimantis cremnobates
+75
+93 67
+100 100 100
+98
+88
+Pristimantis danae Pristimantis pluvicanorus
+Pristimantis rhabdolaemus Pristimantis toftae
+64
+83
+89
+60
+75 56
+100 94
+90
+99
+65 100
+62
+99 66
+Pristimantis cruentus Pristimantis colomai
+Pristimantis latidiscus
+100
+85 100
+100
+85
+94 76
+58
+Pristimantis schultei
+86
+95 84
+100 82
+Pristimantis acerus Pristimantis inusitatus
+Pristimantis glandulosus Pristimantis orcesi
+55 90
+Pristimantis pycnodermis Pristimantis appendiculatus
+Pristimantis calcarulatus Pristimantis dissimulatus Pristimantis rhodoplichus
+Pristimantis simonsii Pristimantis melanogaster
+Pristimantis rhabdocnemus Pristimantis quaquaversus Pristimantis petrobardus
+84
+100
+Pristimantis crucifer Pristimantis nyctophylax
+Pristimantis subsigillatus Pristimantis galdi
+Pristimantis zeuctotylus Pristimantis bromeliaceus
+88 86
+99 81
+71
+63
+99
+78
+98
+100
+100
+88
+100
+Pristimantis wiensi Pristimantis cryophilius
+Pristimantis spinosus Pristimantis phoxocephalus
+Pristimantis versicolor Pristimantis riveti
+Pristimantis orestes Pristimantis simonbolivari
+99
+99
+99
+100 83
+100
+94
+9590
+Pristimantis caprifer Pristimantis shrevei
+Pristimantis euphronides 100 Pristimantis peruvianus
+Pristimantis reichlei Pristimantis aniptopalmatus
+Pristimantis stictogaster Pristimantis sagittulus
+100
+100
+100
+81 100
+Fig. 2 (continued)
+92
+99 70
+Pristimantis lymani Pristimantis achatinus
+Pristimantis conspicillatus Pristimantis condor
+Pristimantis malkini Pristimantis citriogaster
+Pristimantis buccinator Pristimantis prolatus
+Pristimantis urichi Pristimantis rozei
+100
+99
+90
+Pristimantis gentryi 100 Pristimantis truebae
+86
+100
+93
+Pristimantis chalceus Pristimantis parvillus
+Pristimantis luteolateralis
+Pristimantis walkeri Pristimantis ceuthospilus Pristimantis cajamarcensis Pristimantis ardalonychus
+Pristimantis unistrigatus Pristimantis ockendeni
+Pristimantis diadematus Pristimantis platydactylus
+Pristimantis altamazonicus Pristimantis pulvinatus
+Pristimantis inguinalis Pristimantis marmoratus
+Pristimantis lirellus Pristimantis imitatrix
+100 57
+79
+100
+98 96
+87 100
+100
+68 95
+80
+Pristimantis skydmainos Pristimantis bipunctatus
+Pristimantis terraebolivaris Pristimantis samaipatae
+Pristimantis koehleri Pristimantis fenestratus
+Pristimantis chiastonotus
+Pristimantis eriphus Pristimantis chloronotus
+Pristimantis supernatis Pristimantis verecundus
+Pristimantis celator Pristimantis leoni
+Pristimantis pyrrhomerus Pristimantis thymelensis
+100 Pristimantis ocreatus Pristimantis thymalopsoides
+Pristimantis duellmani Pristimantis quinquagesimus
+Pristimantis surdus Pristimantis devillei
+88 Pristimantis vertebralis Pristimantis buckleyi Pristimantis curtipes
+Pristimantis acuminatus
+
+ T
+Gastrotheca peruana Gastrotheca pseustes Gastrotheca marsupiata
+Gastrotheca griswoldi Gastrotheca gracilis
+Gastrotheca christiani Gastrotheca chrysosticta
+genera interdigitating amongst each other and with Hylodidae. Because relationships amongst these groups are weakly supported, we split these clades into multiple, strongly supported families, rather than recognizing larger, weakly supported families that would possibly be found non-monophyletic in future studies.
+The subfamily Ceratophryinae is the sister group to all other members of this clade (Fig. 2Z). Although this placement of the group is weakly supported, monophyly of Ceratophryinae is well supported. We restrict the family Ceratophryidae to include only this subfamily. Within the sister group to ceratophryids is a strongly supported clade (BS = 100%) that includes the cyclorhamphid alsodine genera Macrogenioglottus, Odontophrynus, and Proceratophrys. This clade is here named Odontophrynidae, corresponding to the former telmatobiine leptodactylid tribe
+Odontophrynini (Lynch, 1971). Within the larger sister-group of Odontophrynidae is a weakly supported clade comprising the genera Insuetophrynus, Rhinoderma, Batrachyla (B. leptopus), Atelognathus, and Telmatobius. Within this clade, the cycloramphid genera Insuetophrynus and Rhinoderma are strongly supported as sister taxa, for which we resurrect the family Rhinodermatidae (Günther, 1858). This family was widely recognized prior to revision by Frost et al. (2006), but containing only Rhinoderma (e.g., Duellman and Trueb, 1994).
+The sister group to Rhinodermatidae (Fig. 2Z) is a strongly supported clade consisting of Atelognathus and Batrachyla leptopus (type species of the genus; ASW), a clade corresponding primarily to the ceratophryid subfamily Batrachylinae. We recognize this clade as a distinct family (Batrachylidae). The other two Batrachyla
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 567
+100
+Hemiphractidae
+61 100
+65
+64
+81
+100
+Stefania coxi Stefania scalae
+Stefania evansi Gastrotheca fissipes
+Gastrotheca walkeri Gastrotheca guentheri
+Gastrotheca weinlandii Gastrotheca dendronastes Gastrotheca cornuta
+Gastrotheca longipes Gastrotheca helenae Gastrotheca zeugocystis
+Gastrotheca galeata
+Gastrotheca monticola Gastrotheca litonedis
+100
+100
+100
+100 66
+100
+93 89
+93 65
+52 90
+99
+64
+98
+100
+90 85
+100
+100
+Stefania ginesi
+Stefania schuberti
+99
+100
+100
+Gastrotheca orophylax Gastrotheca plumbea Gastrotheca riobambae
+Fig. 2 (continued)
+98
+100
+Hemiphractusproboscideus Hemiphractus bubalus
+100
+Flectonotus fitzgeraldi Flectonotus pygmaeus
+Hemiphractus scutatus Hemiphractus helioi
+Gastrotheca nicefori Gastrotheca dunni
+97 Gastrotheca ruizi Gastrotheca aureomaculata
+Gastrotheca trachyceps
+100 Gastrotheca argenteovirens
+Gastrotheca psychrophila
+Gastrotheca excubitor Gastrotheca ochoai
+Gastrotheca atympana Gastrotheca stictopleura
+
+ 568
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+U
+Hylidae:
+Phyllomedusinae
+100
+Hylidae cont.
+100
+78
+100
+100
+Hylomantis aspera Hylomantis granulosa Hylomantis lemur
+Hylomantis hulli
+Pachymedusa dacnicolor
+100 Agalychnis litodryas Agalychnis spurrelli
+62
+Agalychnis moreletii Phasmahyla jandaia
+Phasmahyla exilis Phasmahyla guttata
+73
+100
+100
+100
+100
+89
+99 71
+100
+Phyllomedusa sauvagii Phyllomedusa bahiana
+Phyllomedusa burmeisteri Phyllomedusa iheringii
+Phyllomedusa tetraploidea Phyllomedusa distincta
+Phyllomedusa tomopterna Phyllomedusa atelopoides
+100
+Phyllomedusa bicolor Phyllomedusa vaillantii
+Phyllomedusa camba Phyllomedusa tarsius Phyllomedusa trinitatis
+Fig. 2 (continued)
+99 74
+100
+71 100
+100
+92
+99
+86
+Agalychnis callidryas Agalychnis saltator Agalychnis annae
+Phrynomedusa marginata Cruziohyla calcarifer
+90 59
+Phyllomedusa perinesos Phyllomedusa baltea Phyllomedusa duellmani
+Phyllomedusa palliata Phyllomedusa nordestina
+100 Phyllomedusa hypochondrialis Phyllomedusa azurea
+Phyllomedusa megacephala Phyllomedusa rohdei
+100 Phyllomedusaitacolomi Phyllomedusa ayeaye
+100 Phyllomedusa centralis 99 Phyllomedusaaraguari 89 Phyllomedusaoreades
+73 82
+Phasmahyla cochranae Phasmahyla cruzi
+70
+100
+100
+100 63
+100 Phyllomedusaneildi Phyllomedusa boliviana
+
+ V
+100 94
+74
+79
+Litoria cryptotis Litoria manya Litoria cultripes
+Litoria vagitus Litoria longipes
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 569
+Hylidae cont.
+Hylidae:
+100
+100 100
+Litoria inermis Litoria burrowsi
+Litoria adelaidensis Litoria rothii
+Litoria tyleri Litoria peronii
+92 Litoria darlingtoni 99 Litoria amboinensis
+Pelodryadinae
+58
+Litoria congenita Litoria dentata
+76
+Litoria impura
+100
+Litoria dayi Litoria nannotis
+93
+98
+100
+Litoria infrafrenata Litoria brevipalmata
+Litoria kubori Litoria narinosus
+Litoria zweifeli Litoria humeralis
+72
+53
+89
+54
+69
+86
+93
+94 76
+65
+78
+100
+83 100 91
+87
+67
+Litoria olongburensis Litoria fallax
+Litoria bicolor
+Litoria pronimia
+Litoria multiplica
+Litoria havina
+Litoria iris Litoria majikthise
+Litoria nigropunctata Litoria prora
+Litoria leucova
+Litoria modica
+Litoria micromembrana
+95
+54
+100
+100
+100
+82
+96
+Litoria phyllochroa Litoria nudidigita
+Litoria barringtonensis Litoria pearsoniana
+Fig. 2 (continued)
+100
+100
+58
+98
+100 95
+100
+Litoria semipalmatus Litoria foricula
+Litoria cheesmani Litoria papua
+100 91
+97
+55
+94
+79
+Litoria moorei
+Litoria dahlii
+86
+92
+Litoria australis
+100 Litoria novaehollandiae
+Litoria platycephala Litoria verrucosa
+Litoria brevipes
+Litoria alboguttata
+79
+Litoria angiana Litoria spartacus
+Litoria wollastoni Litoria arfakiana Litoria meiriana
+Litoria longirostris Litoria dorsalis
+Litoria microbelos Litoria personata
+Litoria nigrofrenata Litoria nasuta
+Litoria watjulumensis Litoria coplandi
+93
+100 Litoria latopalmata Litoria freycineti
+Litoria tornieri Litoria pallida
+72
+100
+81 91
+Litoria rubella
+Litoria electrica
+Litoria jervisiensis Litoria ewingii Litoria littlejohni
+Litoria revelata Litoria verreauxii
+Litoria paraewingi
+55 56
+Litoria dux
+100 100
+56
+99
+Litoria pulcher Litoria thesaurensis
+Litoria spenceri
+Litoria subglandulosa
+Litoria daviesae Litoria citropa
+98
+100
+Litoria cavernicola Litoria splendida
+Litoria caerulea
+Litoria gilleni Litoria kumae
+Litoria gracilenta Litoria chloris
+100 75
+Litoria exophthalmia Litoria eucnemis
+Litoria genimaculata Litoria andiirrmalin
+Litoria lesueurii
+Litoria booroolongensis Litoria jungguy
+Litoria wilcoxii
+87
+Litoria xanthomera Litoria raniformis
+Litoria aurea 80 100 Litoria cyclorhyncha
+74
+100
+Litoria maculosa 53 Litoria maini
+93
+Litoria nyakalensis Litoria rheocola
+
+ 570
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+W
+Hypsiboas caingua Hypsiboas prasinus Hypsiboas cordobae
+Hypsiboas pulchellus
+species included in our analysis are placed in a clade with Alsodes, Eupsophus, and Hylorina (see below). The sister group to the clade of Rhinodermatidae + Batrachylidae is the ceratophryid genus Telmatobius (Fig. 2Z). We resurrect the family Telmatobiidae (Miranda-Ribeiro, 1920) for this strongly supported clade (containing only Telmatobius, which likely contains Batrachophrynus; ASW),
+which was previously recognized as a ceratophryid subfamily (Telmatobiinae) by ASW and AW. Next up the tree is a moderately well supported clade (BS = 79%) consisting of two cycloramphid genera, the cycloramphine genus Cycloramphus and the alsodine genus Thoropa. We recognize this clade as the family Cycloramphidae (a greatly restricted version relative to current classifications).
+Hylidae:
+Hylinae
+98
+63
+Hylinae cont.
+97
+Myersiohyla inparquesi Myersiohyla kanaima
+100 100
+94
+79
+97
+100 99
+90
+90
+50
+Aplastodiscus eugenioi Aplastodiscus arildae Aplastodiscus weygoldti
+Aplastodiscus perviridis Aplastodiscus cochranae
+Aplastodiscus albosignatus Aplastodiscus callipygius Aplastodiscus cavicola
+76
+51
+65
+80
+82
+100 100
+Hyloscirtus pacha Bokermannohyla martinsi
+Bokermannohyla astartea Bokermannohyla hylax
+Bokermannohyla circumdata Aplastodiscus albofrenatus
+55
+66
+94
+100
+83
+Fig. 2 (continued)
+71
+Hyloscirtus simmonsi Hyloscirtus colymba Hyloscirtus phyllognathus
+Hyloscirtus palmeri Hyloscirtus lascinius
+Hyloscirtus armatus 100 Hyloscirtus charazani
+Hyloscirtus tapichalaca Hyloscirtus lindae
+Hyloscirtus pantostictus
+81
+100
+91
+100
+Hypsiboas sibleszi Hypsiboas roraima
+Hypsiboas microderma Hypsiboas nympha
+Hypsiboas ornatissimus Hypsiboas benitezi
+Hypsiboas lemai Hypsiboas picturatus
+Hypsiboas heilprini Hypsiboas raniceps
+93
+84
+100
+94
+65 90
+99
+Hypsiboas rosenbergi Hypsiboas crepitans
+Hypsiboas faber Hypsiboas pardalis
+Hypsiboas lundii Hypsiboas ericae
+Hypsiboas semiguttatus Hypsiboas joaquini
+92
+99
+100
+57
+100
+100 100
+Aplastodiscus leucopygius Hypsiboas cinerascens
+Hypsiboas boans
+Hypsiboas semilineatus
+100
+100
+100 Hypsiboas geographicus
+72
+Hypsiboas fasciatus Hypsiboas dentei
+Hypsiboas calcaratus Hypsiboas lanciformis
+Hypsiboas multifasciatus Hypsiboas albopunctatus
+100 Hypsiboas pellucens Hypsiboas rufitelus Hypsiboas albomarginatus
+Hypsiboas leptolineatus 91 100 Hypsiboas polytaenius
+100 100 100
+Hypsiboas latistriatus Hypsiboas balzani
+Hypsiboas marianitae Hypsiboas riojanus
+Hypsiboas andinus Hypsiboas guentheri
+100 100
+87
+70 100
+100
+79 Hypsiboas marginatus 99 Hypsiboas bischoffi
+
+ X
+Hylinae cont.
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 571
+Hylinae cont.
+100
+97
+100 97
+95
+97
+Sphaenorhynchus orophilus Sphaenorhynchus lacteus
+Sphaenorhynchus dorisae Scinax berthae
+56
+Pseudis paradoxa Xenohyla truncata
+Dendropsophus allenorum Dendropsophus marmoratus
+54
+94 99
+Pseudis fusca Pseudis tocantins
+Pseudis bolbodactyla
+Fig. 2 (continued)
+53
+100
+93
+97 89
+100 100
+Dendropsophus seniculus Dendropsophus koechlini
+Dendropsophus parviceps Dendropsophus brevifrons
+Dendropsophus giesleri Dendropsophus carnifex
+Dendropsophus labialis Dendropsophus pelidna
+Dendropsophus anceps Dendropsophus aperomeus
+65 69
+100
+57 53
+76 99
+Scarthyla goinorum Pseudis laevis
+Pseudis limellum Pseudis caraya
+81
+100 66
+100 84
+51
+91
+Corythomantis greeningi Aparasphenodon brunoi
+Nyctimantis rugiceps Argenteohyla siemersi
+Trachycephalus jordani Trachycephalus coriaceus
+Trachycephalus mesophaeus Trachycephalus imitatrix
+Trachycephalus nigromaculatus Trachycephalus resinifictrix Trachycephalus venulosus
+Trachycephalus hadroceps Phyllodytesluteolus
+Osteopilus vastus Osteopilus septentrionalis
+Osteopilus dominicensis Osteopilus pulchrilineatus
+94 Osteopilus brunneus Osteopilus crucialis
+90 Osteopilus marianae Osteopilus wilderi
+Tepuihyla edelcae Osteocephalus mutabor Osteocephalus cabrerai
+Osteocephalus buckleyi Osteocephalus verruciger
+Osteocephalus alboguttatus 97 Osteocephalus planiceps
+Osteocephalus leprieurii Osteocephalus taurinus
+Osteocephalus oophagus
+95
+96
+Scinax elaeochroa Scinax staufferi
+99 87
+Pseudis cardosoi 100 Pseudis minuta
+59
+75 100
+100
+88
+82
+85
+95 100
+85 87
+100
+90
+99
+100
+96
+100 52
+Scinax acuminatus Scinax boulengeri
+Scinax sugillatus Scinax rostratus
+Scinax nebulosus Scinax proboscideus
+Scinax jolyi
+Scinax garbei
+87
+Scinax boesemani Scinax cruentommus
+Scinax fuscovarius Scinax nasicus
+Scinax x-signatus Scinax ruber
+51 88
+80 96
+Scinax crospedospilus Scinax squalirostris
+100
+80
+97
+100
+Dendropsophus elegans Dendropsophus ebraccatus
+Dendropsophus triangulum Dendropsophus leucophyllatus
+Dendropsophus sarayacuensis Dendropsophus bifurcus
+Dendropsophus minutus Dendropsophus leali
+Dendropsophus rhodopeplus Dendropsophus microcephalus
+Dendropsophus robertmertensi Dendropsophus sartori
+Dendropsophus riveroi Dendropsophus walfordi
+Dendropsophus nanus Dendropsophus bipunctatus
+Dendropsophus berthalutzae Dendropsophus branneri
+Dendropsophusminusculus Dendropsophus sanborni
+Dendropsophus rubicundulus
+90 81
+55
+66
+100 94
+100
+73
+Scinax catharinae Scinax uruguayus
+60 65
+83
+Itapotihyla langsdorffii Phyllodytes auratus
+100 76
+86
+100
+100
+Dendropsophus schubarti Dendropsophus miyatai
+
+ 572
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+Y
+96 83
+73
+Hyla eximia
+Hyla euphorbiacea
+Hyla plicata
+The sister group to Cycloramphidae consists of Hylodidae (strongly supported as monophyletic), and a clade consisting of some of the former alsodine cycloramphid genera (Alsodes, Eupsophus, Hylorina, Limnomedusa) and two species of the ceratophryid genus Batrachyla. Support for the monophyly of this group is relatively weak (54%) including Limnomedusa but is strong (91%)
+without it. We tentatively recognize this clade as a distinct family (Alsodidae), comprising Alsodes, Eupsophus, Hylorina, and Limnomedusa. This is the only family that we recognize (that was not included in previous classifications) that is not strongly supported, but we prefer this taxonomy as opposed to recognizing a monotypic family containing only Limnomedusa. While we generally
+Hylidae cont.
+100
+100
+90
+Acris gryllus
+Acris blanchardi Acris crepitans
+98
+97 100
+71
+100 100
+100
+100
+Pseudacris cadaverina Pseudacris regilla
+100
+100 76
+92
+68 96
+56
+74 83
+Pseudacris nigrita 100 Exerodonta perkinsi
+Exerodonta abdivita
+100 Exerodonta sumichrasti
+Exerodonta melanomma 100 Exerodonta chimalapa
+Exerodonta smaragdina 64 Exerodonta xera
+92 100
+95
+100
+100
+88 89
+99
+100
+Ecnomiohyla minera 100 Ecnomiohyla miliaria
+Ecnomiohyla miotympanum Ptychohyla spinipollex
+Bromeliohyla bromeliacia Duellmanohyla soralia
+Duellmanohyla rufioculis Ptychohyla dendrophasma
+94
+Megastomatohyla mixe Charadrahyla taeniopus
+Charadrahyla nephila
+99 83 86
+94 100
+100
+77
+87
+100
+100
+99 100
+100
+98
+97 96
+100
+Smilisca phaeota
+100 67
+Pseudacris streckeri Pseudacris brachyphona
+Pseudacris brimleyi Pseudacris fouquettei
+80
+Plectrohyla glandulosa Plectrohyla chrysopleura
+Plectrohyla guatemalensis Plectrohyla matudai
+Plectrohyla siopela Plectrohyla arborescandens Plectrohyla cyclada Plectrohyla ameibothalame
+Plectrohyla bistincta
+Fig. 2 (continued)
+100
+Pseudacris ocularis Pseudacris crucifer
+Pseudacris ornata Pseudacris illinoensis
+100 Pseudacris clarkii Pseudacris maculata
+Pseudacris feriarum Pseudacris triseriata
+100
+52 100 Pseudacris kalmi
+Plectrohyla pentheter 84 Plectrohyla calthula
+89 100
+Ptychohyla hypomykter Ptychohyla euthysanota
+Ptychohyla leonhardschultzei Ptychohyla zophodes
+100 100
+84
+99 95
+100
+92
+100 52
+Tlalocohyla smithii Tlalocohyla picta
+Tlalocohyla godmani
+Tlalocohyla loquax Isthmohyla pseudopuma
+Isthmohyla zeteki Isthmohyla tica
+Isthmohyla rivularis Triprion spatulatus
+Triprion petasatus
+Anotheca spinosa
+Smilisca baudinii
+Smilisca sila
+Smilisca sordida Smilisca fodiens
+Smilisca cyanosticta Smilisca puma
+92
+100
+99 81
+100
+100
+98
+80 95
+95
+Hyla immaculata Hyla arenicolor
+Hyla wrightorum Hyla walkeri
+61
+Hyla chinensis
+Hyla tsinlingensis Hyla annectans
+Hyla meridionalis Hyla sarda
+Hyla savignyi Hyla arborea
+Hyla orientalis Hyla intermedia
+Hyla molleri
+Hyla squirella
+Hyla gratiosa Hyla cinerea
+Hyla andersonii Hyla femoralis
+Hyla versicolor Hyla chrysoscelis
+100 Hyla avivoca Hyla japonica
+
+ Z
+refrain from addressing generic-level taxonomy here, the genus Batrachyla represents a special case, being split between two families. As Batrachyla taeniata, Batrachyla antartandica, and Hylorina sylvatica are strongly placed within Eupsophus, we synonymize those three species with Eupsophus. We keep the other two
+Batrachyla species (Batrachyla fitzroya and Batrachyla nibaldoi) in Batrachyla with the type species B. leptopus in Batrachylidae.
+In summary, our new taxonomy replaces the non-monophyletic interdigitating families Ceratophryidae and Cycloramphidae with a somewhat larger set of families that are each generally strongly
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 573
+Ceratophryidae 100 65
+Ceratophrys cornuta Chacophrys pierottii
+Odontophrynidae 100
+Rhinodermatidae
+Odontophrynus occidentalis 99 Odontophrynus achalensis
+53
+Alsodidae
+Limnomedusa macroglossa Alsodes vanzolinii
+Alsodes nodosus Alsodes australis
+Alsodes tumultuosus Alsodes gargola
+96
+Batrachyla leptopus
+100 Atelognathus jeinimenensis
+Atelognathus patagonicus 76 Telmatobius zapahuirensis
+Telmatobius niger Telmatobius vellardi
+Batrachylidae
+Telmatobiidae
+100 79
+Cycloramphidae
+Cycloramphus boraceiensis Cycloramphus acangatan
+Thoropa miliaris
+Thoropa taophora
+Crossodactylus caramaschii
+Crossodactylus schmidti Hylodes dactylocinus
+Megaelosia goeldii
+Hylodes meridionalis
+Hylodes perplicatus Hylodes phyllodes
+Hylodes sazimai Hylodes ornatus
+96
+Insuetophrynus acarpicus Rhinoderma darwinii
+82
+100
+Lepidobatrachus laevis Ceratophrys cranwelli Ceratophrys ornata
+100
+Telmatobius truebae Telmatobius espadai
+97
+92
+Hylodidae 54
+54
+56 61
+91
+Fig. 2 (continued)
+50
+88 68
+93
+92
+75
+61
+95
+97 90
+99 50
+Hylorina sylvatica Batrachyla taeniata
+Batrachyla antartandica Eupsophus migueli
+Eupsophus nahuelbutensis Eupsophus insularis
+Eupsophus roseus Eupsophus contulmoensis
+100
+Proceratophrys cristiceps Proceratophrys schirchi Proceratophrys melanopogon
+Proceratophrys appendiculata Proceratophrys bigibbosa
+Proceratophrys avelinoi Proceratophrys goyana
+100
+Macrogenioglottus alipioi Odontophrynus carvalhoi
+66
+85
+57 50
+67 59 77
+85 Telmatobius verrucosus 71 Telmatobius sanborni
+73
+57 Telmatobiusvilamensis
+Telmatobius marmoratus Telmatobius simonsi Telmatobius sibiricus
+Telmatobius yuracare Telmatobius bolivianus
+Telmatobius culeus Telmatobius gigas
+Telmatobius hintoni 96 Telmatobius huayra
+100
+61
+Odontophrynus cultripes Odontophrynus americanus
+99
+Proceratophrys concavitympanum Odontophrynus moratoi
+Proceratophrys cururu Proceratophrys laticeps
+99 Proceratophrys boiei Proceratophrys renalis
+68 Alsodes kaweshkari
+Alsodes monticola
+95
+89 Alsodes barrioi Eupsophus emiliopugini
+Eupsophus calcaratus Eupsophus vertebralis
+
+ 574
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+AA
+94 Leptodactylus plaumanni
+Paratelmatobiinae 93
+93
+Scythrophrys sawayae Paratelmatobius cardosoi
+Leiuperinae
+100
+Paratelmatobius poecilogaster Paratelmatobius gaigeae
+Pseudopaludicola falcipes Pleurodema brachyops
+Pleurodema marmoratum Pleurodema bufoninum
+79
+Leptodactylinae
+65
+91 99
+99
+99
+94
+100
+100
+Edalorhina perezi Engystomops pustulosus
+Engystomops petersi Engystomops freibergi
+Engystomops pustulatus Engystomops guayaco Engystomops coloradorum
+Engystomops montubio Engystomops randi
+Leptodactylidae
+100
+93 54
+Eupemphix nattereri Physalaemus signifer
+93
+93
+100
+80 92
+54
+Leptodactylus riveroi Leptodactylus melanonotus
+Leptodactylus wagneri Leptodactylus pallidirostris
+100 Leptodactylus validus Leptodactylus podicipinus
+Leptodactylus diedrus Leptodactylus discodactylus
+94
+98
+Pleurodema thaul Pleurodema bibroni
+98 99
+99
+100 100
+98
+80
+99
+96
+56
+70
+84 56
+62
+Fig. 2 (continued)
+94 100
+100
+95
+Leptodactylus vastus Leptodactylus fallax
+Leptodactylus labyrinthicus Leptodactylus knudseni
+Leptodactylus pentadactylus Leptodactylus mystacinus
+Leptodactylus spixi Leptodactylus elenae
+Leptodactylus notoaktites Leptodactylus didymus
+66
+52
+100
+Physalaemus albonotatus
+Physalaemus cuvieri Physalaemus ephippifer
+Physalaemus biligonigerus Physalaemus riograndensis Physalaemus gracilis
+Physalaemus barrioi Lithodytes lineatus
+Adenomera andreae Adenomera hylaedactyla
+Adenomera heyeri
+Leptodactylus rhodomystax
+Leptodactylus silvanimbus Leptodactylus chaquensis
+Leptodactylus ocellatus Leptodactylus leptodactyloides
+69
+58
+Leptodactylus griseigularis Leptodactylus rhodonotus
+88
+Leptodactylus mystaceus Leptodactylus fuscus
+Leptodactylus bufonius Leptodactylus longirostris
+Leptodactylus albilabris Leptodactylus gracilis
+
+ AB
+95
+86
+89 67
+Centrolene hybrida Centrolene pipilatum
+Centrolene venezuelense Centrolene hesperium
+Centrolene buckleyi Centrolene notostictum
+supported. However, we acknowledge that the family-level placement of the cycloramphid genera Rupirana (no subfamily assigned by AW or ASW), Zachaenus, and Crossodactylodes (both previously Cycloramphinae; AW; ASW) are uncertain in our classification (Hyloidea incertae sedis), given the lack of molecular data for these
+genera and the apparent problems in the previous taxonomy (Figs. 1 and 2Z). Assuming that they are cycloramphids as the family is defined here (Figs. 1 and 2; Appendix B) may be incorrect.
+We also find that the currently recognized families Leiuperidae and Leptodactylidae are also problematic (Fig. 2AA). Our results
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 575
+100
+100
+Allophrynidae
+Allophryne ruthveni Celsiella vozmedianoi
+Celsiella revocata Hyalinobatrachium valerioi
+Hyalinobatrachinae
+62
+100 Hyalinobatrachium aureoguttatum Hyalinobatrachium bergeri
+Centrolenidae
+93
+100
+Centroleninae
+60
+96
+100
+88 82
+58
+92 95
+70
+100
+85 100
+Hyalinobatrachium pellucidum Hyalinobatrachium talamancae
+Hyalinobatrachium chirripoi Hyalinobatrachium colymbiphyllum
+Hyalinobatrachium iaspidiense Hyalinobatrachium taylori
+Hyalinobatrachium ignioculus Hyalinobatrachium eccentricum
+Hyalinobatrachium crurifasciatum Hyalinobatrachium mondolfii
+Hyalinobatrachium carlesvilai Hyalinobatrachium tatayoi
+Hyalinobatrachium fleischmanni Hyalinobatrachium orientale
+Hyalinobatrachium fragile Hyalinobatrachium orocostale
+Hyalinobatrachium duranti Hyalinobatrachium pallidum Hyalinobatrachium ibama
+100
+Fig. 2 (continued)
+80
+76 89 85
+Nymphargus cochranae Nymphargus puyoensis
+Nymphargus rosadus Nymphargus megacheirus
+98
+72 61
+83
+70
+100
+88
+76
+61 100
+100
+95
+100
+50
+66
+50
+99
+100
+96
+100
+Vitreorana eurygnatha Vitreorana antisthenesi
+Vitreorana castroviejoi Vitreorana gorzulae
+100 Vitreorana oyampiensis Vitreorana helenae
+Teratohyla pulverata Teratohyla midas
+Teratohyla spinosa Cochranella litoralis Cochranella nola
+Cochranella granulosa Cochranella mache
+Cochranella euknemos Chimerella mariaelenae
+Espadarana andina Espadarana callistomma Espadarana prosoblepon
+85
+100
+88 97
+Sachatamia albomaculata Rulyrana flavopunctata
+Rulyrana spiculata Rulyrana susatamai
+Rulyrana adiazeta Centrolene grandisonae
+Nymphargus mixomaculatus Nymphargus pluvialis
+80 Nymphargus bejaranoi Nymphargus posadae
+57
+90
+98
+81
+100
+100
+61 100
+83
+Nymphargus griffithis Nymphargus wileyi
+99
+Ikakogi tayrona
+96
+100
+100
+Sachatamia ilex
+Sachatamia punctulata
+84
+100
+Nymphargus siren Centrolene daidaleum Centrolene savagei
+Centrolene peristictum Centrolene antioquiense
+Centrolene geckoideum Centrolene bacatum
+99 Centrolene altitudinale
+
+ 576
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+AC
+69
+Dendrobates uakarii
+Dendrobatidae
+100
+100 59
+Epipedobates boulengeri Epipedobates espinosai Epipedobates machalilla Epipedobates anthonyi Epipedobates tricolor
+71
+80 100
+100
+97
+57
+Ameerega braccata Ameerega bassleri
+Ameerega bilinguis Ameerega parvula Ameerega pongoensis
+Ameerega trivittata Ameerega pulchripecta Ameerega hahneli
+Ameerega picta Ameerega macero Ameerega rubriventris
+Ameerega smaragdina Ameerega cainarachi
+98 87
+100
+100
+98
+Rheobates palmatus Anomaloglossus stepheni
+Anomaloglossus baeobatrachus Anomaloglossus tepuyensis
+Anomaloglossus degranvillei Anomaloglossus praderioi
+50
+99
+100 100
+10064
+100
+Anomaloglossus roraima Anomaloglossus beebei Aromobates saltuensis
+80
+99
+100
+100
+99
+100 100
+99 100
+100
+Fig. 2 (continued)
+83
+Colostethus argyrogaster Ameerega altamazonica
+Ameerega simulans
+91
+71
+100 65
+100
+62
+72
+100
+100
+Allobates brunneus Allobates nidicola
+77
+100 85
+83
+99
+91
+88
+85
+100
+Allobates zaparo Allobates femoralis Allobates juanii
+Allobatesgasconi
+Allobates caeruleodactylus
+Allobates trilineatus Allobates conspicuus
+100 100
+Hyloxalus nexipus
+Hyloxalus azureiventris
+Hyloxalus chlorocraspedus Hyloxalus idiomelus
+Hyloxalus insulatus Hyloxalus elachyhistus
+Hyloxalus infraguttatus Hyloxalus toachi 100 Hyloxalus awa
+Phyllobates vittatus Phyllobates lugubris Phyllobates bicolor
+58
+100
+100
+100
+100
+97 100
+87 95
+Colostethus latinasus Colostethus pratti
+Colostethus imbricolus Colostethus inguinalis Colostethus panamansis
+Colostethus fraterdanieli Colostethus fugax
+100
+100 75
+Phyllobates aurotaenia Phyllobates terribilis
+Dendrobates steyermarki Dendrobates quinquevittatus
+Dendrobates castaneoticus
+72 100
+100 96
+Dendrobates galactonotus
+84 100
+94 61
+57 95
+95 100
+64
+100
+98 100
+Dendrobates granuliferus Dendrobates histrionicus
+Dendrobates sylvaticus Dendrobates lehmanni Dendrobates arboreus
+Dendrobates speciosus Dendrobates vicentei Dendrobates pumilio
+Dendrobatescaptivus Dendrobates mysteriosus
+81 89
+Dendrobates fulguritus Dendrobates minutus
+Dendrobates claudiae Dendrobates lamasi
+Dendrobates biolat Dendrobates flavovittatus
+Aromobates nocturnus Mannophryne herminae
+100 Mannophryne trinitatis Mannophryne venezuelensis
+Allobates undulatus
+Allobates talamancae
+70
+Dendrobates truncatus Dendrobates auratus
+100
+Silverstoneia nubicola Silverstoneia flotator
+Ameerega silverstonei Ameerega flavopicta
+97
+85 82
+88
+89
+Ameerega petersi Hyloxalus subpunctatus
+Hyloxalus leucophaeus Hyloxalus sordidatus
+Hyloxalus maculosus Hyloxalus bocagei
+Hyloxalus sauli Hyloxalus vertebralis
+Hyloxalus pulchellus Hyloxalus delatorreae
+Hyloxalus anthracinus Hyloxalus pulcherrimus
+Hyloxalus sylvaticus
+86
+Dendrobates tinctorius Dendrobates leucomelas
+Dendrobates virolinensis Dendrobates bombetes
+84 85
+59
+Dendrobates imitator Dendrobates vanzolinii Dendrobates fantasticus
+Dendrobates duellmani Dendrobates reticulatus
+93
+Dendrobates amazonicus Dendrobates variabilis
+Dendrobates ventrimaculatus
+
+ AD
+Bufonidae cont. Fig. 2 (continued)
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 577
+96
+Atelopus ignescens 100Atelopus bomolochos
+Atelopus longirostris Atelopus spurrelli
+Atelopus chiriquiensis Atelopus zeteki
+Bufonidae
+Atelopus pulcher
+100 100 Atelopus spumarius
+Atelopus franciscus 100 Atelopus flavescens
+Atelopus peruensis
+100 Atelopus halihelos
+100
+70
+98
+90 81
+Osornophryne sumacoensis Osornophryne guacamayo
+Osornophryne puruanta Osornophryne antisana
+Osornophryne bufoniformis Dendrophryniscus minutus
+75
+94
+100
+Bufo variegatus Bufo cophotis
+Bufo lemur Bufo guentheri
+Bufo longinasus Bufo gundlachi
+Bufo taladai Bufo empusus
+66 Bufo fustiger
+61 Bufo peltocephalus
+100
+90 95
+100 99
+100
+61
+Bufo nasicus Bufo haematiticus
+Bufo glaberrimus Bufo guttatus
+Bufo limensis 100 Bufo vellardi
+Bufo spinulosus 100 Bufo arequipensis
+Bufo atacamensis
+100 Bufo arunco
+100
+Melanophryniscusrubriventris Melanophryniscus stelzneri
+100 Melanophryniscus klappenbachi Atelopus seminiferus
+100
+100
+61
+99
+73
+100 72
+87
+74
+54
+100
+Bufo granulosus Bufo beebei
+Bufo poeppigii Bufo marinus Bufo schneideri
+Bufo achavali
+Bufo crucifer
+Bufo arenarum Bufo ictericus
+Bufo veraguensis Bufo amboroensis
+70
+58
+90 65
+100
+99
+90
+99
+Bufo cycladen 84 Bufo ibarrai
+Bufo melanochlorus 100 Bufo luetkenii
+Bufo mazatlanensis Bufo nebulifer
+Bufo valliceps 100 Bufo campbelli
+100 Bufo macrocristatus 84 Bufo nelsoni
+64 95
+Bufo occidentalis Bufo tacanensis
+67 63 73
+Atelopus varius 100 Atelopus senex
+100 99
+64 78
+100
+100
+100 64
+75 76
+100
+53
+Bufo ocellatus Bufo castaneoticus
+Bufo dapsilis
+Bufo margaritifer
+Rhamphophryne festae
+Rhamphophryne macrorhina
+83 Rhamphophryne rostrata Bufo chavin
+Bufo nesiotes Bufo manu
+Bufo bocourti
+Bufo alvarius
+95 100 100
+Bufo fastidiosus
+Bufo coniferus Bufo coccifer
+100 Bufo canaliferus Bufo marmoreus
+Bufo boreas 100 Bufo exsul
+77
+Bufo canorus
+Bufo punctatus
+Bufo quercicus 100 Bufo cognatus
+Bufo debilis
+100 Bufo retiformis
+Bufo speciosus Bufo californicus
+Bufo microscaphus 67 Bufo terrestris
+89
+99 Bufo woodhousii
+100 Bufo baxteri
+100 Bufo hemiophrys
+100 Bufo americanus 97 Bufo houstonensis
+100
+97
+72
+70 100
+Bufo fowleri
+
+ 578
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+AE
+100 Bufo scaber Bufo atukoralei
+Bufo melanostictus Bufo brevirostris
+Bufo parietalis
+Bufonidae cont.
+100
+56 89
+Bufo angusticeps Bufo inyangae
+Bufo amatolicus Bufo robinsoni Bufo gariepensis
+Bufo fenoulheti
+Bufo dombensis
+89
+98
+Bufo xeros Werneria mertensiana
+99
+80
+Bufo mauritanicus
+Bufo steindachneri
+100 Bufo pardalis Bufo pantherinus
+Bufo poweri
+Bufo brauniBufo lemairii Bufo regularis
+96 81 57
+90
+Bufo juxtasper Pedostibes rugosus
+Pedostibes hosii Sabahphrynus maculatus
+Bufo biporcatus Bufo divergens
+Bufo celebensis Bufo macrotis
+Bufo philippinicus Bufo galeatus
+Ansonia ornata
+82
+91
+55
+91 82
+Bufo maculatus
+Bufo tuberosus Bufo camerunensis
+Bufo kisoloensis Bufo gracilipes
+Bufo gutturalis 100 Bufo garmani
+Bufo vertebralis Bufo latifrons
+100
+100 98
+Bufo verrucosissimus Bufo bufo
+Bufo tuberospinius
+Bufo cryptotympanicus
+Bufo bankorensis Bufo torrenticola Bufo japonicus
+Bufo stejnegeri Bufo tuberculatus
+100 52
+94 98
+68
+70
+Didynamipus sjostedti
+97
+81
+100 90
+73 100
+60
+100
+98
+59 100
+97
+94
+97
+91
+Bufo boulengeri Bufo siculus
+Schismaderma carens
+81 59
+Bufo balearicus
+99
+100 100
+84 100
+Bufo damaranus Bufo uzunguensis
+Bufo taitanus
+Mertensophryne micranotis
+Bufo lindneri
+100 Stephopaedes anotis
+Capensibufo tradouwi Capensibufo rosei
+Stephopaedes loveridgei
+Bufo calamita Bufo raddei
+100
+100
+74
+Pelophryne misera
+92 Pelophryne brevipes
+Pelophryne signata Ansonia fuliginea
+Ansonia muelleri Ansonia leptopus
+Ansonia longidigita Ansonia malayana
+Ansonia spinulifer Ansonia hanitschi
+Ansonia platysoma Ansonia minuta
+55 Bufo oblongus Bufo pewzowi
+Bufo viridis
+Bufo variabilis
+Churamiti maridadi
+Nectophrynoides viviparus Nectophrynoides tornieri Nectophrynoides minutus
+Bufo brongersmai Adenomus kelaartii
+Bufo koynayensis Bufo dhufarensis Bufo hololius
+99 73
+98 62
+100
+99 100
+Fig. 2 (continued)
+100
+95
+100
+Wolterstorffina parvipalmata Nectophryne afra
+100 Nectophryne batesii Leptophryne borbonica
+Bufo aspinius 100 Bufo gargarizans
+97 Bufo tibetanus Bufo asper
+Pedostibes tuberculosus
+Bufo stomaticus Bufo crocus
+Bufo stuarti
+Bufo himalayanus
+55
+
+(Fig. 2AA) show that Leptodactylidae is paraphyletic with respect to Leiuperidae, given that the leptodactylid genera Paratelmatobius and Scythrophrys are more closely related to leiuperids than they are to other leptodactylids (although this is not strongly supported). We solve this taxonomic problem by expanding Leptodactylidae to again include all leiuperid genera, and recognizing Leiuperinae and Leptodactylinae as subfamilies. This arrangement treats Leptodactylidae as the strongly supported clade (BS = 79%) of mostly foam-nesting frogs that has long been recognized as behaviorally and morphologically distinctive (as the leptodactyline leptodactylids; Lynch, 1971; Duellman and Trueb, 1994). We consider this preferable to recognizing a new family for Paratelmatobius and Scythrophrys, genera for which we recognize a new subfamily (Paratelmatobiinae subfam. nov.; Appendix A), to avoid a paraphyletic Leptodactylinae.
+According to our results, the family Strabomantidae (sensu AW, ASW) is also paraphyletic (Fig. 2R). Strabomantidae is a recently described family (Hedges et al., 2008) that includes many species that were traditionally classified as Eleutherodactylus (in the family Leptodactylidae; see ASW). Specifically, we find that the strabomantid genera Hypodactylus and Strabomantis are more closely related to craugastorids (Haddadus, Craugastor) than they are to the other sampled strabomantid genera (e.g., Barycholos, Bryophryne, Holoaden, Lynchius, Noblella, Oreobates, Phrynopus, Pristimantis, Psychrophrynella). To resolve this problem (and to reduce the proliferation of terraranan families), we subsume Strabomantidae into Craugastoridae, given that Craugastoridae occurs first in Hedges et al. (2008), though we recognize that this is an arbitrary criterion. Within Craugastoridae, we recognize a subfamily Craugastorinae (Fig. 2R) that corresponds to the previously recognized family (e.g., Hedges et al., 2008; AW, ASW).
+The former members of Strabomantidae are apportioned among three strongly supported clades (which we recognize as subfamilies within Craugastoridae) and one weakly supported clade (which we consider incertae sedis). One of the strongly supported clades consists solely of the genus Strabomantis, for which we recognize a restricted subfamily Strabomantinae (Appendix B). Another comprises the genera Barycholos, Bryophryne, Holoaden, Noblella, and Psychrophrynella, for which we use the previously recognized subfamily Holoadeninae (e.g., ASW). The third strongly supported clade comprises the genera Lynchius, Oreobates, Phrynopus, and Pristimantis. We recognize this clade as a new subfamily, Pristimantinae subfam. nov. (see Appendix A for formal definition). The weakly supported clade is the genus Hypodactylus. Rather than recognizing a new subfamily for this genus (or allowing it to render other subfamilies non-monophyletic), we consider this genus incertae sedis, along with several other genera of the former Strabomantidae that were not included in this (or other molecular phylogenies), including Atopophrynus, Dischiodactylus, Geobatrachus, Mucubatrachus, Niceforonia, and Paramophrynella. In theory, some of these closely related subfamilies could be combined (e.g., Craugastorinae and Strabomantinae or Holoadeninae and Pristimantinae), but the resulting subfamilies would then not be strongly supported.
+As in most previous studies (Darst and Cannatella, 2004; Roelants et al., 2007; Wiens, 2007a, 2011), we find strong support for monophyly of Hyloidea, but relationships among the families are weakly supported (Figs. 1 and 2P-AE). Therefore, we do not present extensive comparison of among-family relationships between our study and previous studies. Nevertheless, there are some intriguing patterns that occur in multiple studies, such as placement of bufonids with dendrobatids (e.g., this study, Frost et al., 2006; Roelants et al., 2007; Wiens, 2011). We also corroborate the monophyly and current composition of Brachycephalidae (Hedges et al., 2008), Hemiphractidae (Wiens et al., 2007a,b; Wiens, 2011), Hylidae (with subfamilies Hylinae, Phyllomedusinae, and Pelodryadinae; Wiens et al., 2010), Bufonidae (Pramuk et al.,
+2008; Van Bocxlaer et al., 2009), Allophrynidae and Centrolenidae. Within Centrolenidae (Fig. 2AB), we support the subfamilies Centroleninae and Hyalinobatrachinae, and we place the previously incertae sedis genus Ikakogi in Centroleninae with strong (70%) bootstrap support. We do not recognize a family Aromobatidae separate from Dendrobatidae, as there is no phylogenetic justification for splitting Dendrobatidae (Fig. 2AC). We follow Santos et al. (2009) in recognizing a single family Dendrobatidae, including the former aromobatids and containing no subfamilies (see also AW).
+Our higher-level phylogeny within Ranoidea is generally similar to other recent estimates (e.g., Frost et al., 2006; Roelants et al., 2007; Wiens, 2011), and many of these relationships are well supported in our study and previous studies (e.g., among brevicipitids, hemisotids, microhylids, hyperoliids, arthroleptids). Our results also support current delimitation of subfamilies (Figs. 1 and 2H–I; see Appendix B) in Microhylidae (van der Meijden et al., 2007) and Arthroleptidae (including Astylosterninae; see ASW). Some previous taxonomies (e.g., Bossuyt et al., 2006; Wiens et al., 2009) and current taxonomies (including AW) recognize a large (>1400 species) family Ranidae (with 13 subfamilies) as the sister group to all other ranoids. Other recent authors have considered these subfamilies distinct families (Bossuyt and Roelants, 2009; Frost et al., 2006; Roelants et al., 2007). We follow this latter arrangement here, recognizing the families Ptychadenidae, Micrixalidae, Phrynobatrachidae, Conrauidae, Petropedetidae, Pyxicephalidae, Nyctibatrachidae, Ceratobatrachidae, Ranixalidae, Dicroglossidae, Ranidae, and Rhacophoridae, and Mantellidae, all of which are strongly supported (Figs. 1 and 2J–O). Within these families, subfamilies follow Frost (2011): within Pyxicephalidae, we recognize Cacosterninae and Pyxicephalinae; Dicroglossidae comprises Occidozyginae and Dicroglossinae; Rhacophoridae consists of Buergeriinae and Rhacophorinae; and Mantellidae is composed of Laliostominae, Boophinae, and Mantellinae (Figs. 1 and 2J–O). Relationships among many of these families remain poorly supported, as in previous studies (Roelants et al., 2007; Wiens et al., 2009). Given the extensive sampling of taxa in this clade, resolving their relationships may instead require adding many more characters (i.e., more genes).
+4. Discussion
+4.1. Systematics of extant lissamphibians
+Here, we provide a large-scale estimate of amphibian phylogeny, containing over 2800 species (42% of the known extant diversity). This phylogeny is largely congruent with those of several recent molecular analyses (Frost et al., 2006; Roelants et al., 2007; Wiens, 2007a, 2011). Nevertheless, our increased sampling of taxa and characters (especially among former leptodactylid frogs) reveals that several currently recognized families are not monophyletic as currently delimited (i.e., Ceratophryidae, Cycloramphidae, Leptodactylidae, Strabomantidae). To correct these problems, we present a new classification of extant amphibians. We have been as conservative as possible in our taxonomic changes, such that deviations from current taxonomy are made only when necessitated by nonmonophyly of higher taxa, and in such a way that newly recognized taxa are strongly supported (with the exception of Alsodidae as described above). It is possible that future phylogenies might reveal some of our changes to be unnecessary (e.g., in cases where there was weak support for non-monophyly of families, future analyses might strongly resolve them as monophyletic). However, by focusing on only strongly supported clades, the higher taxa that we recognize should not be misleading, even as new data are added. We are also conservative in that we only address taxonomy at the subfamily level and above, given that our sampling of genera is mostly complete whereas our sampling of species is not. Nevertheless, our study
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 579
+
+580 R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+corroborates previous studies showing the paraphyly of numerous genera (e.g., Bufo, Rana) and shows many additional genera to be non-monophyletic (e.g., Batrachyla). Importantly, our study also provides a framework to which additional sequences can be readily added. Our data matrix is available at Dryad repository doi:10.5061/ dryad.vd0m7. It should thus be relatively straightforward to add more taxa to this tree.
+4.2. Supermatrices and large-scale phylogenetic inference
+This analysis corroborates several recent studies suggesting that the supermatrix approach is a powerful strategy for large-scale phylogenetic inference (e.g., Driskell et al., 2004; McMahon and Sanderson, 2006; Thomson and Shaffer, 2010; Pyron et al., 2011; Wiens et al., 2005b). For example, even though each taxon had (on average) 80% missing data, we found that most species were placed in the families and genera expected based on previous taxonomy, often with very strong support. In cases where we found that currently recognized families were not monophyletic, this was not due to species being randomly placed on the tree, but rather due to differences in the placement of strongly supported clades of species and genera. Moreover, all of our 67 families and all but two of the 50 subfamilies are strongly supported.
+Despite the overall strong support for most of the tree (i.e., 64% of all nodes have BS >70), certain clades remain poorly supported. Therefore, a potential criticism of the supermatrix approach is that this poor support may have arisen due to missing data in many taxa. However, several lines of evidence suggest that this is not the case. First, many previous studies have shown that there is typically little relationship between the support for clades and the amount of missing data in the included species (e.g., Pyron et al., 2011; Wiens et al., 2005b, and for an analysis of multiple datasets see Wiens and Morrill, 2011). Second, we find that most of the clades that are weakly supported in our study are also weakly supported in other studies that have more limited missing data (and the same is true for strongly supported clades). For example, in their study of extant amphibian phylogeny based on multiple nuclear and mitochondrial genes (with little missing data), Roelants et al. (2007) showed weak support for relationships among hyloid families, microhylid subfamilies, and the families of former ranids, but strong support for relationships among the major clades of frogs, salamanders, and caecilians. These same patterns of weak and strong support appear in our study (Fig. 1). Previous studies suggest that these patterns of support are more likely to reflect underlying branch lengths, such as weak support for short branches (Wiens et al., 2008), rather than impacts of missing data.
+Our results and those of other studies suggest that extensive missing data need not be an impediment to constructing largescale phylogenies with the supermatrix approach. Nevertheless, one aspect of our sampling design may have greatly facilitated the integration of the different genes used in this study. Specifically, 90% of the species had sequence data for the 16S gene and 81% had data for 12S. Thus, most species had comparable data for at least one gene, which may have greatly facilitated placing them on the tree with only a limited amount of character data (Wiens et al., 2005b). Although it is possible to reconstruct a phylogeny when missing and non-missing data are randomly distributed among characters, the number of genes and characters required to obtain accurate phylogenies may be much higher than when the non-missing data are all in the same characters (e.g., Wiens, 2003). A clear lesson for future studies is that adding taxa to this large-scale phylogeny will be greatly facilitated if researchers include these same 12S and 16S genes, along with widely sampled nuclear genes such as RAG-1. Increasing sampling of the other nuclear genes may be advantageous as well.
+Acknowledgments
+We thank the many researchers who made this study possible through their detailed studies of amphibian phylogeny with a (mostly) shared set of molecular markers, and uploading their sequence data to GenBank. We would like to thank F.T. Burbrink (CUNY-CSI), J. Lombardo (CUNY-CSI), and T.J. Guiher (CUNY-CSI) for computational assistance, and D.R. Frost (AMNH) and A.M. Bauer (Villanova) for advice on taxonomy. This research was supported in part by US National Science Foundation grants to R.A.P. (DBI-0905765), J.J.W. (EF 0334923), and the CUNY HPCC (CNS-0958379 and CNS-0855217). We would like to thank A. Larson, and two anonymous reviewers for helpful comments that substantially improved this manuscript.
+Appendix A. Description of new subfamilies
+Pristimantinae subfam. nov. (family Craugastoridae) Type: genus and species Pristimantis galdi Jiménez de la
+Espada, 1870.
+Content: four genera, >465 species; Lynchius, Oreobates,
+Phrynopus, Pristimantis.
+Phylogenetic Definition: this subfamily consists of the most
+recent common ancestor of Lynchius, Oreobates, Phrynopus,
+and Pristimantis, and all descendants thereof.
+Distribution: these frogs are primarily restricted to the Andes and Amazon Basin of South America (Hedges et al., 2008). Remarks: The four genera of this subfamily are grouped with
+strong support (81% BS proportion; Fig. 2R), and we find weak support for their placement as the sister group to Holoadeninae (Fig. 2R).
+Paratelmatobiinae subfam. nov. (family Leptodactylidae) Type: genus and species Paratelmatobius lutzii Lutz and
+Carvalho 1958.
+Content: two genera, eight species; Paratelmatobius and
+Scythrophrys.
+Phylogenetic Definition: this subfamily consists of the most
+recent common ancestor of Paratelmatobius and
+Scythrophrys, and all descendants thereof.
+Distribution: these frogs are primarily restricted to southern
+and eastern Brazil (AW; ASW).
+Remarks: The two genera of this subfamily are grouped with
+strong support (93% BS proportion), and we find weak support for placing them as the sister group of Leiuperinae (Fig. 2AA).
+Appendix B. Generic content of families and subfamilies
+The list below accounts for all extant amphibian genera currently recognized by AW and ASW, with family and subfamily classification updated to reflect our phylogenetic estimate and taxonomic changes. The 72 genera not sampled in our phylogeny are either included in their previously delimited groups (when these were found to be strongly supported), or considered incertae sedis (along with any sampled taxa explicitly delimited as such) when their placement was ambiguous due to non-monophyly of previously recognized higher taxa. As noted above, Lissamphibia also contains numerous extinct taxa, including gymnophionans, caudates, and anurans, which are not considered here (Marjanovic ́ and Laurin, 2007).
+B.1. Gymnophiona
+Caeciliidae: incertae sedis: (Atretochoana, Brasilotyphlus, Idiocranium, Indotyphlus, Microcaecilia, Mimosiphonops, Nectocaecilia, Parvicaecilia, Potomotyphlus, Sylvacaecilia); Caeciliinae (Caecilia, Chthonerpeton, Dermophis, Gegeneophis, Geotrypetes, Grandisonia, Gymnopis, Hypogeophis, Luetkenotyphlus, Oscaecilia, Praslinia, Typhlonectes, Schistometopum, Siphonops), Herpelinae (Herpele, Boulengerula), Scolecomorphinae (Crotaphotrema, Scolecomorphus); Ichthyophiidae: Caudacaecilia, Ichthyophis, Uraeotyphlus; Rhinatrematidae: Epicrionops, Rhinatrema.
+B.2. Caudata
+Ambystomatidae: Ambystoma; Amphiumidae: Amphiuma; Cryptobranchidae: Andrias, Cryptobranchus; Dicamptodontidae: Dicamptodon; Hynobiidae: Batrachuperus, Hynobius, Liua, Onychodactylus, Pachyhynobius, Paradactylodon, Protohynobius, Pseudohynobius, Ranodon, Salamandrella; Plethodontidae: Bolitoglossinae (Batrachoseps, Bolitoglossa, Bradytriton, Chiropterotriton, Cryptotriton, Dendrotriton, Ixalotriton, Lineatriton, Nototriton, Nyctanolis, Oedipina, Parvimolge, Pseudoeurycea, Thorius), Hemidactylinae (Hemidactylium), Plethodontinae (Aneides, Desmognathus, Ensatina, Hydromantes, Karsenia, Phaeognathus, Plethodon), Spelerpinae (Eurycea, Gyrinophilus, Haideotriton, Pseudotriton, Stereochilus, Urspelerpes); Proteidae: Necturus, Proteus; Rhyacotritonidae: Rhyacotriton; Salamandridae: Pleurodelinae (Calotriton, Cynops, Echinotriton, Euproctus, Ichthyosaura, Laotriton, Lissotriton, Neurergus, Notophthalmus, Ommatotriton, Pachytriton, Paramesotriton, Pleurodeles, Taricha, Triturus, Tylototriton), Salamandrinae (Chioglossa, Lyciasalamandra, Mertensiella, Salamandra), Salamandrininae (Salamandrina); Sirenidae: Siren, Pseudobranchus.
+B.3. Anura
+Incertae sedis in Hyloidea (Crossodactylodes, Rupirana, Zachaenus).
+Allophrynidae: Allophryne; Alsodidae: Alsodes, Eupsophus, Limnomedusa; Alytidae: Alytes; Arthroleptidae: Arthroleptinae (Athroleptis, Cardioglossa), Astylosterninae (Astylosternus, Leptodactylodon, Nyctibates, Scotobleps, Trichobatrachus), Leptopelinae (Leptopelis); Ascaphidae: Ascaphus; Batrachylidae: Atelognathus, Batrachyla; Bombinatoridae: Barbaroula, Bombina; Brachycephalidae: Brachycephalus, Ischnocnema; Brevicipitidae: Balebreviceps, Breviceps, Callulina, Probreviceps, Spelaeophryne; Bufonidae: Adenomus, Altiphrynoides, Andinophryne, Ansonia, Atelopus, Bufo, Bufoides, Capensibufo, Churamiti, Crepidophryne, Dendrophryniscus, Didynamipus, Frostius, Laurentophryne, Leptophryne, Melanophryniscus, Mertensophryne, Metaphryniscus, Nectophryne, Nectophrynoides, Nimbaphrynoides, Oreophrynella, Osornophryne, Parapelophryne, Pedostibes, Pelophryne, Pseudobufo, Rhamphophryne, Sabahphrynus, Schismaderma, Spinophrynoides, Stephopaedes, Truebella, Werneria, Wolterstorffina; Calyptocephalellidae: Calyptocephalella, Telmatobufo; Centrolenidae: Centroleninae (Centrolene, Chimerella, Cochranella, Espadarana, Ikakogi, Nymphargus, Rulyrana, Sachatamia, Teratohyla, Vitreorana), Hyalinobatrachinae (Celsiella, Hyalinobatrachium); Ceratobatrachidae: Batrachylodes, Ceratobatrachus, Discodeles, Ingerana, Palmatorappia, Platymantis; Ceratophryidae: Ceratophrys, Chacophrys, Lepidobatrachus; Ceuthomantidae: Ceuthomantis; Conrauidae: Conraua; Craugastoridae: incertae sedis (Atopophrynus, Dischiodactylus, Geobatrachus, Hypodactylus, Mucubatrachus, Niceforonia, Paramophrynella), Craugastorinae (Craugastor, Haddadus), Holoadeninae (Barycholos, Bryophryne, Euparkerella, Holoaden, Noblella, Psychrophrynella), Pristimantinae (Lynchius, Oreobates, Phrynopus, Pristimantis), Strabomantinae (Strabomantis); Cycloramphidae: Cycloramphus, Thoropa; Dendrobatidae: Allobates, Ameerega, Anomaloglossus, Aromobates, Colostethus, Dendrobates, Epipedobates, Hyloxalus, Mannophryne, Phyllobates, Rheobates, Silverstoneia; Dicroglossidae: Dicroglossinae (Chaparana, Chirixalus, Euphlyctis, Fejervarya, Hoplobatrachus, Limnonectes, Nannophrys,
+Nanorana, Paa, Sphaerotheca), Occidozyginae (Ingerana, Occidozyga); Discoglossidae: Discoglossus; Eleutherodactylidae: Eleutherodactylinae (Diasporus, Eleutherodactylus), Phyzelaphryninae (Adelophryne, Phyzelaphryne); Heleophrynidae: Hadromophryne, Heleophryne; Hemiphractidae: Cryptobatrachus, Flectonotus, Gastrotheca, Hemiphractus, Stefania; Hemisotidae: Hemisus; Hylidae: Hylinae (Acris, Anotheca, Aparasphenodon, Aplastodiscus, Argenteohyla, Bokermannohyla, Bromeliohyla, Charadrahyla, Corythomantis, Dendropsophus, Diaglena, Duellmanohyla, Ecnomiohyla, Exerodonta, Hyla, Hyloscirtus, Hypsiboas, Isthmohyla, Itapotihyla, Megastomatohyla, Myersiohyla, Nyctimantis, Osteocephalus, Osteopilus, Phyllodytes, Plectrohyla, Pseudacris, Pseudis, Ptychohyla, Scarthyla, Scinax, Smilisca, Sphaenorhynchus, Tepuihyla, Tlalocohyla, Trachycephalus, Triprion, Xenohyla), Pelodryadinae (Litoria), Phyllomedusinae (Agalychnis, Cruziohyla, Hylomantis, Pachymedusa, Phasmahyla, Phrynomedusa, Phyllomedusa); Hylodidae: Crossodactylus, Hylodes, Megaelosia; Hyperoliidae: Acanthixalus, Afrixalus, Alexteroon, Arlequinus, Callixalus, Chlorolius, Chrysobatrachus, Cryptothylax, Heterixalus, Hyperolius, Kassina, Kassinula, Morerella, Opisthothylax, Paracassina, Phlyctimantis, Semnodactylus, Tachycnemis; Leiopelmatidae: Leiopelma; Leptodactylidae: Leptodactylinae (Adenomera, Hydrolaetere, Leptodactylus, Lithodytes), Leiuperinae (Edalorhina, Engystomops, Eupemphix, Physalaemus, Pleurodema, Pseudopaludicola, Somuncuria), Paratelmatobiinae (Paratelmatobius, Scythrophrys); Mantellidae: Boophinae (Boophis), Laliostominae (Aglyptodactylus, Laliostoma), Mantellinae (Blommersia, Boehmantis, Gephyromantis, Guibemantis, Mantella, Mantidactylus, Spinomantis, Tsingymantis, Wakea); Megophryidae: Borneophrys, Brachytarsophrys, Leptobrachella, Leptobrachium, Leptolalax, Megophrys, Ophryophryne, Oreolalax, Scutiger, Vibrissaphora, Xenophrys; Micrixalidae: Micrixalus; Microhylidae: incertae sedis (Gastrophrynoides, Paramophrynella), Asterophryninae (Albericus, Aphantophryne, Asterophrys, Austrochaperina, Barygenys, Callulops, Choerophryne, Cophixalus, Copiula, Genyophryne, Hylophorbus, Liophryne, Mantophryne, Oreophryne, Oxydactyla, Pherohapsis, Sphenophryne, Xenorhina), Cophylinae (Anodonthyla, Cophyla, Madecassophryne, Platypelis, Plethodontohyla, Rhombophryne, Stumpffia), Dyscophinae (Dyscophus), Gastrophryninae (Adelastes, Altigius, Arcovomer, Chiasmocleis, Ctenophryne, Dasypops, Dermatonotus, Elachistocleis, Gastrophryne, Hamptophryne, Hyophryne, Hypopachus, Melanophryne, Myersiella, Nelsonophryne, Relictivomer, Stereocyclops, Syncope), Hoplophryninae (Hoplophryne, Parhoplophryne), Kalophryninae (Kalophrynus), Melanobatrachinae (Melanobatrachus), Microhylinae (Calluella, Chaperina, Glyphoglossus, Kaloula, Metaphrynella, Microhyla, Micryletta, Ramanella, Uperodon), Otophryninae (Otophryne, Synapturanus), Phrynomerinae (Phrynomantis), Scaphiophryne (Paradoxophyla, Scaphiophryne); Myobatrachidae: Limnodynastinae (Adelotus, Heleioporus, Lechriodus, Limnodynastes, Mixophyes, Neobatrachus, Notaden, Philoria, Platyplectrum, Pseudophryne), Myobatrachinae (Arenophryne, Assa, Crinia, Geocrinia, Metacrinia, Myobatrachus, Paracrinia, Rheobatrachus, Spicospina, Taudactylus, Uperoleia); Nasikabatrachidae: Nasikabatrachus; Nyctibatrachidae: Lankanectes, Nyctibatrachus; Odontophrynidae: Macrogenioglottus, Odontophrynus, Proceratophrys; Pelobatidae: Pelobates; Pelodytidae: Pelodytes; Petropedetidae: Petropedetes; Phrynobatrachidae: Phrynobatrachus; Pipidae: Hymenochirus, Pipa, Pseudhymenochirus, Silurana, Xenopus; Ptychadenidae: Hildebrandtia, Lanzarana, Ptychadena; Pyxicephalidae: Cacosterninae (Amietia, Anhydrophryne, Arthroleptella, Cacosternum, Ericabatrachus, Microbatrachella, Natalobatrachus, Nothophryne, Poyntonia, Strongylopus, Tomopterna), Pyxicephalinae (Aubria, Pyxicephalus); Ranidae: Amnirana, Amolops, Huia, Hylarana, Meristogenys, Odorrana, Pseudoamolops, Pterorana, Rana, Staurois; Ranixalidae: Indirana; Rhacophoridae: Buergeriinae (Buergeria), Rhacophorinae (Chiromantis, Dendrobatorana, Feihyla, Ghatixalus, Gracixalus, Kurixalus, Liuixalus, Nyctixalus, Philautus, Polypedates, Rhacophorus, Theloderma), Rhinodermatidae: Insuetophrynus,
+R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583 581
+
+582 R. Alexander Pyron, J.J. Wiens / Molecular Phylogenetics and Evolution 61 (2011) 543–583
+Rhinoderma; Rhinophrynidae: Rhinophrynus; Scaphiopodidae: Scaphiopus, Spea; Sooglossidae: Sechellophryne, Sooglossus; Telmatobiidae: Batrachophrynus, Telmatobius.
+Appendix C. Supplementary material
+Supplementary data associated with this article can be found, in the online version, at doi:10.1016/j.ympev.2011.06.012.

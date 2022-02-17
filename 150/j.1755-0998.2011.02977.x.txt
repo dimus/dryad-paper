@@ -1,0 +1,322 @@
+    Molecular Ecology Resources (2011) 11 (Suppl. 1), 20–30 doi: 10.1111/j.1755-0998.2011.02977.x
+SNP DISCOVERY: CHAIN TERMINATION SEQUENCING
+Development of 54 novel single-nucleotide polymorphism (SNP) assays for sockeye and coho salmon and assessment of available SNPs to differentiate stocks within the Columbia River
+NATHAN R. CAMPBELL and SHAWN R. NARUM
+Columbia River Inter-Tribal Fish Commission, 3059 F National Fish Hatchery Rd, Hagerman, ID 83332, USA
+Abstract
+Single-nucleotide polymorphisms (SNPs) have potential for broad application in population and conservation genetics, but availability of these markers is limited in many nonmodel species. In this study, genomic and expressed sequence tagged (EST) sequences from closely related salmonids (Chinook salmon and rainbow trout) were used to design primers for amplification and sequencing of sockeye (Oncorhynchus nerka) and coho (Oncorhynchus kisutch) salmon DNA for SNP discovery. One hundred and six primer sets were designed and tested for amplification in each species. An ascertainment panel of 32 diverse individuals from each species was used as template for PCR amplification and Sanger sequencing. In total, 21 647 bases of consensus sequence were screened in sockeye salmon and 20 784 bases in coho salmon with 93 and 149 SNP sites identified, respectively. Sixty-four SNP sites were chosen for assay development, and 54 of the assays were validated by comparison with genotype and sequence data (O. nerka = 23; O. kisutch = 31). These validated SNP assays along with 142 other available SNP assays [O. nerka = 103 (126 total); O. kisutch = 30 (61 total)] were used to genotype collections of O. nerka (N = 5) and O. kisutch (N = 4) from various sites in the Columbia River to evaluate the utility of these markers in this region. Results from factorial correspondence analysis indicate that these SNP markers are capable of distinguishing O. nerka populations, but O. kisutch collections were less distinct because of their common ancestry.
+Keywords: coho,Oncorhynchuskisutch,Oncorhynchusnerka,single-nucleotidepolymorphism,sockeye,Taqman Received 31 May 2010; accepted 30 November 2010
+Introduction
+Single-nucleotide polymorphism (SNP)-based markers are being used with more frequency for genetic studies of Pacific salmonids for genetic stock identification (e.g., Habicht et al. 2010), as quantitative trait loci (QTL) or candidate loci under selection (e.g., Narum et al. 2010) and parentage studies (e.g., Anderson & Garza 2006). The majority of developed markers for salmonids, however, target only two species: rainbow trout ⁄ steelhead (O. mykiss), which is supported by the aquaculture industry, and Chinook salmon (O. tshawytscha), a popular sport and commercial fish. A smaller pool of SNP markers are currently available for chum salmon (Smith et al. 2005a,c) with the remaining four species of Pacific salmon still lacking a suitable pool of available SNP markers to conduct similar types of studies. However, successful imple-
+Correspondence: Nathan R. Campbell, Fax: 208 837 6047; E-mail: camn@critfc.org
+mentation of SNP markers in other species has sparked new efforts in SNP discovery and assay development in species of lesser economic interest.
+Sockeye and coho salmon are two species with both economic and conservation interests in the Columbia River basin. These species were largely extirpated from the inland portion of the basin by overharvest, habitat destruction and the construction of dams hindering upstream migration (Gustafson et al. 2007). Upstream populations of the obligatorily anadromous coho salmon were exhausted completely, while some successful passage of the earlier running sockeye salmon persisted and some fish may have found refuge in reservoirs as resident forms of Oncorhynchus nerka commonly called kokanee (Taylor et al. 1996). Efforts to re-establish naturally spawning upriver coho salmon using lower Columbia River broodstock have been ongoing since the mid 1990s in the Yakima and Wenatchee rivers (Bosch et al. 2007). Genetic differentiation using microsatellite data has shown weak structure in coho salmon collections but
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 20–30 Ó 2011 Blackwell Publishing Ltd
+
+relatively stronger structure in sockeye salmon collections within the Columbia River (Beacham et al. 2006; Van Doornik et al. 2007).
+In this study, 106 primer sets based on Genbank and TIGR sequences were designed and tested for amplification of sockeye and coho salmon DNA. Primer sets that amplified a clean PCR product were used to amplify and sequence DNA from an ascertainment panel of 32 individuals from across each species’ natural range. Our samples were chosen to include much of the genetic diversity existing within each species so as to avoid ascertainment bias (e.g. Morin et al. 2004). Validated assays from this study were evaluated by minor allele frequency, genetic differentiation (GST), Hardy–Weinberg equilibrium (HWE), statistically significant linkage disequilibrium and the quality of the genotyping plots. These assays along with 133 other available SNP markers (coho = 30; sockeye = 103) were subsequently used to genotype multiple collections of each species from the Columbia River basin to evaluate their ability to distinguish populations in this region.
+Methods
+DNA sequences from O. mykiss and O. tshawytscha were collected from online database entries in TIGR and NCBI for primer design. Primers were designed using either the embedded primer design tool on NCBI’s database or the Primer3 program (http://frodo.wi.mit.edu/primer3/) to amplify a PCR product of 400–800 bp in length. All primer pairs (N = 106) were tested for amplification of a PCR product suitable for sequencing using 2 uL of extract DNA from two individuals per species. PCR conditions for testing amplification were 1· Qiagen multiplex master mix, 250 nM primers and 1–2 uL of extract DNA in a 10-uL reaction. PCR amplification was conducted in 96-well PCR plates, and thermal cycling conditions were [95 °C for 15 min; (95 °C for 30 s, 60 °C for 30 s, 72 °C for 45 s, repeated 40 cycles); 4 °C hold]. Amplified products were separated on a 1% agarose gel and stained with Sybr-green (Invitrogen). Products were visualized using a UV light source, and images were captured on a CCD camera. Primer pairs that produced a suitable product were used to amplify DNA from an ascertainment panel of 32 individuals per species. Individuals chosen for the ascertainment panel were from across each species’ range but with the greatest representation within the Columbia River drainage (Table 1).
+For amplification of the ascertainment samples, primers were multiplexed such that each reaction produced four products. PCR and cycling conditions remained the same as in the initial amplification test. PCR products were cleaned by treatment with exonuclease 1 and shrimp alkaline phosphatase (New England Biolabs) to
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 20–30 Ó 2011 Blackwell Publishing Ltd
+remove unincorporated dNTPs and primers. Sequencing reactions were performed in one direction using the Big Dye v.1.1 sequencing kit (Applied Biosystems) and MJ research and Applied Biosystems thermal cyclers using 2 uL of each product. The reactions were cleaned up by ethanol–EDTA–NaAcetate precipitation prior to separation by capillary electrophoresis using a 3730 instrument (Applied Biosystems). Chromatogram data were analysed with Sequencing Analysis v.5.4 (Applied Biosystems), and Sequencher v.4.7 (Gene Codes) was used to align and edit the data. Observed SNPs and small indels were recorded and minor allele frequencies calculated for each. Primer sets that produced sequence data were submitted to Genbank along with the resulting sequence data (GenBank numbers GF109770–GF109881). SNP sites and small indels were submitted to dbSNP. Sequence alignment files are available at the Dryad data repository (http://dx.doi.org/10.5061/dryad.8029).
+Suitable SNP sites were used to design TaqmanÔ assays by submitting to Applied Biosystems via their FILE BUILDER program. Once received, the assays were used for genotyping using the Fluidigm EP-1 96.96 system using the manufacturer’s suggested protocol, but modified slightly by including a sample preamplification step and increasing the PCR cycles to 50. The assays were validated by comparison with genotyping data to sequencing data in the ascertainment samples. Validated assays are shown in Table 2.
+Evaluation of newly developed SNP assays along with all other available assays (N = 126 for O. nerka; N = 61 for Oncorhynchus kisutch) was conducted by genotyping five collections of O. nerka and four collections of O. kisutch within the Columbia River drainage to examine allele frequencies, deviations from HWE expectations and statistically significant linkage disequilibrium (LD) using the program GENEPOP (Raymond & Rousset 1995) (Table 3). Genotype data were loaded to the Dryad data repository (http://dx.doi.org/10.5061/dryad.8029). Assays that produced poor-quality assay plots or were significant in tests of HWE or LD were removed from further testing. The program GENETIX (Belkhir et al. 2004) was used to calculate GST and evaluate genetic differentiation by factorial correspondence analysis (FCA) (Fig. 1). The program ONCOR (http://www.montana.edu/ kalinowski/Software/ONCOR.htm) was used to simulate 200 individual genotypes based on observed allele frequencies and assign them to a collection (100 iterations) to determine the percentage of correct assignment (Table 4).
+Results
+For the O. nerka ascertainment panel, 80 loci were amplified and sequenced, of which 57 produced usable
+SNP DISCOVERY: CHAIN TERMINATION SEQUENCING 21
+
+22 N. R. CAMPBELL AND S. R. NARUM
+Table 1 Collection locations for each sample within the Oncorhynchus nerka and Oncorhynchus kisutch ascertainment panels
+ O. nerka
+Sample Population
+1 Birkenhead River
+2 Birkenhead River
+3 Ualik Lake
+4 Ualik Lake
+5 Hapiza R. early
+6 Hapiza R. early
+7 McDonald Lake
+8 McDonald Lake
+9 Saltery Lake
+10 Saltery Lake
+11 Suttle Lake Outlet
+12 Suttle Lake Outlet
+13 Suttle Lake Outlet
+14 Suttle Lake Outlet
+15 Redfish Lake
+16 Redfish Lake
+17 Fishhook Cr.
+18 Fishhook Cr.
+19 Okanogan Seine
+20 Okanogan Seine
+21 Okanogan Seine
+22 Okanogan Seine
+23 Okanogan
+24 Okanogan
+25 Okanogan
+26 Okanogan
+27 Lake Wenatchee
+28 Lake Wenatchee
+29 Wells Dam
+30 Wells Dam
+31 Tumwater Dam
+32 Tumwater Dam
+Region
+Canada (BC) Canada (BC) AK—Bristol Bay AK—Bristol Bay Kamchatka, Russia Kamchatka, Russia SE Alaska
+SE Alaska
+Kodiak Island, AK Kodiak Island, AK Oregon-Kokanee Oregon-Kokanee Oregon-Kokanee Oregon-Kokanee Idaho
+Idaho
+Idaho Kokanee Idaho Kokanee WA, Kokanee WA, Kokanee WA, Kokanee WA, Kokanee Washington Washington Washington Washington Washington Washington Washington Washington Washington Washington
+O. kisutch
+Population
+Sandy R. Sandy R. Sandy R. Sandy R. Babine R. Babine R. Egegik R. Egegik R. Clackamas Clackamas Clackamas Clackamas Soos Cr. Soos Cr. Soos Cr. Soos Cr. Smith R. Smith R. Theodore R. Theodore R. Cowlitz Hat. Cowlitz Hat. Cowlitz Hat. Cowlitz Hat. Lewis R. Lewis R. Lewis R. Lewis R. Queets R. Queets R. Wenachee Wenachee
+Region
+Oregon
+Oregon
+Oregon
+Oregon
+British Columbia British Columbia Alaska
+Alaska
+Oregon
+Oregon
+Oregon
+Oregon Washington Washington Washington Washington California California Alaska
+Alaska Washington Washington Washington Washington Washington Washington Washington Washington Coastal Wash. Coastal Wash. Col. River Coho Col. River Coho
+    R. R. R. R.
+ sequence alignments totalling 21 647 unique bases with an average contig length of 380 bases. Ninety-three total SNP sites were identified in 41 sequence alignments with 17 sequence alignments showing no polymorphisms within the ascertainment sequences. Twenty-nine SNP sites were chosen for assay design based on minor allele frequency and distribution within the ascertainment panel. Twenty-three of the assays were validated by comparison with the ascertainment sample genotypes with sequencing data (Table 2). These 23 assays were then evaluated further along with 103 other available assays for O. nerka (Table 3). A single assay showed significant heterozygote deficiency across populations (One_ UCA-24; P = 0.0024). Eight assays showed significant heterozygote excess across populations (One_fn-297; P = 0.0000); (One_HGFA-49; P = 0.0000); (One_NNT; P = 0.0000); (One_spf30-207; P = 0.0000); (One_timp2-63; P = 0.0000); (One_U1021-57; P = 0.0000); (One_U301-92; P = 0.0000) and (One_ing4-57; P = 0.0024). Eleven of the
+assays showed fixed genotypes across all collections from the Columbia River. Strong signals of linkage disequilibrium (P £ 0.002) were observed between seven pairs of loci (One_aldB-152 and One_ALDOB-135; P = 0.00000); (One_Cytb-17 and One_Cytb-26; P = 0.000000); (One_ GPH-414 and One_GTHa; P = 0.00000); (One_MHC2-190 and One_pax7-248; P = 0.00000); (One_ODC1-196 and One_U508-533 P = 0.00000); (One_U1201-492 and One_ zP3b; P = 0.00081); and (One_hsc71-220 and One_U1201492; P = 0.00174). Two of these linked pairs were known to be from the same genes (aldolase B, cytochrome b), and the two markers within the major histocompatibility complex 2 gene cluster (One_MHC2-190 and One_MHC2-251) showed statistically weaker linkage disequilibrium (P = 0.00244). Average minor allele frequency across collections and GST are reported in Table 3. Each assay was also rated for quality of genotyping plots based on separation of the three possible clusters in three separate amplifications. The average plot
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 20–30 Ó 2011 Blackwell Publishing Ltd
+
+SNP DISCOVERY: CHAIN TERMINATION SEQUENCING 23
+    Molecular Ecology Resources (2011) 11 (Suppl. 1), 20–30 Ó 2011 Blackwell Publishing Ltd
+Table 2 Taqman assays designed based on single-nucleotide polymorphisms (SNPs) found in sequence alignments. Genbank numbers reference the consensus sequence of the PCR products and primer sequences used for amplification and sequencing. Each SNP site is referenced in dbSNP along with all flanking sequence. Probe sequences all contain a 3¢ minor groove binder and nonfluorescent quencher
+Locus (locus name, GenBank no., assay name and dbSNP no.)
+Forward primer sequence Reverse primer sequence
+Allele-specific probe 1 Allele specific probe 2
+Oncorhynchus nerka
+Aldolase B (fructose 1,6 bis-phosphate aldolase) (GF109829) One_aldB-152 (ss263197030)
+Molybdenum cofactor synthesis protein cinnamon (GF109869) One_cin-177 (ss263197040)
+CGATCAGGTGACGCTAAAATTAACTC GTGGCTTCCTCTTCACTCTGA CCTCAGACTAGTGACCGTACCTA CGCTCACCGTGGTTACGT CATAATGCTCCCCATCTTGAATTGG CACTCAGCCCTTTAGGGAAGA CCTGTGTTGAAGTGGAGTAGGTTAA GCTTTATACTGTAAGTGGACTGACCTT TGTAACAATACAAGGATAATGCAAATAATGTAGGT GGTTATTAGGTTACTGTGCTGACTGT TTCTTATCGCTGGTGGCACTTT GACCAAAGACTATTTAGTTGCCACCTA TGACGTATGTGCAATGCATGTCTAT AGATGAAGGACATGGCTGAAAACAT CAGCCGACATGCATCAGTTA TGACCCCATGTTTCATGCT AGTAAAGGTAGTGATGCAATGATGCA AACCGCATAGGACGTAAAGCA GTTGATTCCACCTTCTCTGTGATGT GTGAAATTGACACAGAAGCTGTTCA GTTGGCTACATCCTAAAACACAATGG CAGCCCTGGAGTACTGAATCAG GATTCTGAGATCATACAGTGGATTGGT GCTTGTCATCTTTCAGCACATACCTA TGTACTTAGTCCAATAAGCATTTCAACAGT TGGCTAGATTCACATGGTCAACAAA AGCATTTCAGTTTTGTACATTTACAGTAAAACA ACCTACTCGTAATTTCAGGGCAAAA CGGAGCTGGAATGACGACAT AGGTTCAGCAAATCCCTCTTTAGAG TGGAAACTCCTAGTGTACTTCATTCTCA CGTTCCACGCTCCCTAGAATAGA GCACAAGCCAAAAAGTTTTCTCCAT GGACATAGTTGGAGGCAGACAAAA CTACCTGTCTAACAGTGAATGCTAACTT TGAAACCATTAAGCTCTTTGTAGGACAA
+VIC-CTCAGGCATTACCTTC 6FAM-CAGGCATCACCTTC VIC-TCACGCACGGGACAG 6FAM-CACGCACGGAACAG VIC-AGCAATCCCATCTCTC 6FAM-AGCAACCCCATCTCTC VIC-ATCTGTTACCAGAATGTTT 6FAM-ATCTGTTACCATAATGTTT VIC-AGGTTAAGCTGTGTATAAGT 6FAM-TTAAGCTGTGAATAAGT VIC-AGGCAATTGAGGTTAAT 6FAM-AGGCAATTGACGTTAAT VIC-ATGCATATACATGTAATATAT 6FAM-TGCATATACATGTAACATAT VIC-CACACGTTACATCAGATAACT 6FAM-CACACAATGTTACATCAGATAAC VIC-AATTCAAAACGAAATGTG 6FAM-TGAATTCAAAACTAAATGTG VIC-TGCAAACACTTTTTTTATAATG 6FAM-TGCAAACACTTTTTTTTATAATG VIC-CCTAAGTCAGTCACTGTAG 6FAM-CCCAAGTCAGTCACTGTA VIC-CACATGTTTTACTCATTTGA 6FAM-CACATGTTTTACTAATTTGA VIC-CATCATTTGCATTATTG 6FAM-CATCATTTGAATTATTG VIC-AGGGACATCTTACCTCAAAA 6FAM-AGGGACATCTTACCTAAAAA VIC-CAGCGAAGGATATGCT 6FAM-CAGCGAAGGTTATGCT VIC-CTGCGGCTTTGTCTTG 6FAM-TGCGGCTTTTGTCTTG VIC-CAAGATTGAAATTGGTTTGC 6FAM-CAAGATTGAAATTTGTTTGC VIC-CAAAGCAAGTGATATATTAGTG 6FAM-AAAGCAAGTGATATCTTAGTG
+Dehydrodolichyl diphosphate synthase (GF109843) One_dds-529 (ss263197071)
+Glutamic acid dehydrogenase (gdh) (GF109832) One_gdh-212 (ss263197034)
+GHS-R gene for growth hormone secretagogue receptor (GF109845) One_ghsR-66 (ss263197043)
+Metallothionein A gene (GF109848)
+One_metA-253 (ss263197044)
+MAP kinase 4 promoter (GF109827) One_Mkpro-129 (ss263197045)
+Ots208 microsatellite flanking (GF109838) One_Ots208-234 (ss263197046)
+Pax7 gene (GF109851)
+One_pax7-248 (ss263197049)
+Peptidyl-prolyl cis-trans isomerase E (GF109853)
+One_ppie-74 (ss263197050)
+DNA damage inducible factor 4-like (redd2) (GF109879) One_redd-414 (ss263197051)
+DNA-directed RNA polymerase II subunit J (GF109871) One_rpo2j-261 (ss263197052)
+S-acyl fatty acid synthase thioesterase (GF109867) One_sast-211 (ss263197053)
+Survival of motor neuron-related splicing factor 30 (GF109873) One_spf30-207 (ss263197053)
+Signal recognition particle 9-kDa protein (GF109860) One_srp09-127 (ss263197055)
+Signal sequence receptor delta (GF109844)
+One_ssrd-135 (ss263197037)
+SUMO-1-conjugating enzyme UBC9 (GF109849) One_SUMO1-6 (ss263197056)
+SYS1 homolog (GF109862)
+One_sys1-230 (ss263197057)
+
+24 N. R. CAMPBELL AND S. R. NARUM
+   Molecular Ecology Resources (2011) 11 (Suppl. 1), 20–30 Ó 2011 Blackwell Publishing Ltd
+Table 2 Continued
+Locus (locus name, GenBank no.,
+Forward primer sequence Reverse primer sequence
+Allele-specific probe 1 Allele specific probe 2
+assay name and dbSNP no.)
+Transcription initiation factor TFIID subunit 12 (GF109856) One_taf12-248 (ss263197058)
+Thyrotropin beta-subunit (GF109850)
+One_tshB-92 (ss263197060)
+ACCTTCAATATGGTGGTGGTTACC ACTAAACGCACAACAGCAAACG GCATTGTCGTACTCGTGTGTTTG CACAACAGCAACAATACATGTCACA GCCAGATCCCTTCAGTTGGA GGCCATTTCAAAAGGCTGCAT GGTTGACTTTTCTTAACTTTTTAATCTGTGATATTGT GCTGAGCTAGTGATGGTACCATTT TCATTCCTTTGCCTGGAGCATT GGCATACAGCAAAACAATTCAACCA
+VIC-CCAGACAAAATCAAATTA 6FAM-CCAGACAAAATAAAATTA VIC-ACCACCCTGTAGCTCA 6FAM-CACCCTGGAGCTCA VIC-TGACTGCACTAGTTTAGAC 6FAM-TGACTGCACTAATTTAGAC VIC-TAGGCTCCGTGCTCAGT 6FAM-TAGGCTCCGTACTCAGT VIC-TGGTATTACTGTGCATTGAC 6FAM-ATGGTATTACTGTTCATTGAC
+Thioredoxin Reducatse Interacting Protein (GF109876) One_txnip-401 (ss263197061)
+Vesicle-associated membrane protein 5 (GF109858) One_vamp5-255 (ss263197062)
+Vacuolar ATP synthase subunit F (GF109875) One_vatf-214 (ss263197063)
+Oncorhynchus kisutch
+Type-4 ice-structuring protein precursor (afp4) (GF109799) Oki_afp4-10 (ss263196994)
+Atrial natriuretic peptide (GF109796)
+Oki_anp-168 (ss263196995)
+CTTATCACCTCGGACCGAATCAA GCTCTTGTTGGATTGGTTTTGACT CTCCCAGACAGTCCCAACAAAATTA CTGGGTAACAATTAAGTACCTTACAGTGAT GCCATTGACAAAGCAGGTTAAGTTA ACAGGGATGGTAGGAAACTAGTTGA GAATCCACGCTGTCACAAAGTAAAA GGGTGGAGTGGGCATTATTATTTTG CCTTTCTTCCTCCGAACATGGAT TCAAACTAAGGCCACACACAAAGAT
+VIC-TTGTAAGCCCATAGAGCTG 6FAM-AAGCCCATGGAGCTG VIC-TGTTTTAAATTAAAATGGTAGAAAA 6FAM-TGTTTTAAATTAAAATGATAGAAAA VIC-AAGAGCAGTACTGCACAAG 6FAM-AAGAGCAGTACTACACAAG VIC-CACCGTGCCCCACTG 6FAM-CCACCGTACCCCACTG VIC-CCACAAGTTCCCTTACTAC 6FAM-CACAAGTTCCCATACTAC
+Acidic ribosomal protein (GF109770)
+Oki_arp-105 (ss263196997)
+Aspartate aminotransferase (GF109779)
+Oki_aspAT-273 (ss263196998)
+Branched-chain alpha-keto acid lipoamide acyltransferase
+(GF109789)
+Oki_bcAKal-274 (ss263196999)
+CA050 protein (GF109803)
+Oki_ca050-17 (ss263197000)
+Carbonic anhydrase 1 (GF109790)
+Oki_carban-140 (ss263197001)
+Glutamic acid dehydrogenase (gdh) (GF109781) Oki_gdh-189 (ss263197003)
+Growth hormone (GF109771)
+Oki_gh-183 (ss263197004)
+Glutathione peroxidase (GF109820)
+Oki_gshpx-152 (ss263197005)
+Heat shock cognate 71 (3¢ UTR) (GF109773) Oki_hsc713-56 (ss263197006)
+Heat shock cognate 71 (Promoter region) (GF109772) Oki_hsc71p-313 (ss263197007)
+Heat shock factor 1b (GF109774)
+Oki_hsf1b-85 (ss263197008)
+GCTCAGTAAATCTGGTCCCATTAGG GGGCAGTTTGAAGACCATACTCA CATGCATACAAGCACACACACA GACAGAGCACAATAGCTAACAGTTTG CCTGTGTTGAAGTGGAGTAGGTT GCTTTATACTGTAAGTGGACTGACCTT TGTTTATGTGGTACTGGCTCAAAACT GCATGCTTGGTAAGAGTGAATTTGT CTGCGAGCCCAAATGTAGTTTT AGTCCCAAAAGTATTATAAAGACAAGAGTTTAACA TTTGAAATGTGTTCTACCCTCTTGTGT CTGTTGCGTAGCAAACAAAGTTG TGTGCCATGTAGTAGGTAGTTTGTAAC GGGCAGGCATAAAAGTAGATAAGCA CCCAGGACCAGGACCCT GCTGTGTGGTAGTCGGTAGTG
+VIC-ATGTGAAACTTTAGTCATACAGAA 6FAM-TGTGAAACTTTAGTCCTACAGAA VIC-CTGTAACCTCGAATTAT 6FAM-CTGTAACCTCCAATTAT VIC-CTGCTACAGAAAAAA 6FAM-TTCTGCTACAGATAAAA VIC-CACATCAATACAATTTT 6FAM-CATCAATGCAATTTT VIC-AGTTGTTGCAACATTGTAG 6FAM-AGTTGTTGCAACCTTGTAG VIC-CAAGTCACGAGACTCA 6FAM-ACAAGTCACAAGACTCA VIC-AGTCATTGTAGTTAATAACC 6FAM-AGTCATTGTAGTTCATAACC VIC-AGATGGTAGGGTCCTCT 6FAM-AGATGGTAGCGTCCTCT
+
+SNP DISCOVERY: CHAIN TERMINATION SEQUENCING 25
+   Molecular Ecology Resources (2011) 11 (Suppl. 1), 20–30 Ó 2011 Blackwell Publishing Ltd
+Table 2 Continued
+Locus (locus name, GenBank no.,
+Forward primer sequence Reverse primer sequence
+Allele-specific probe 1 Allele specific probe 2
+assay name and dbSNP no.)
+Heat shock protein 90b (GF109776)
+Oki_hsp90B-83 (ss263197009)
+Inosine triphosphate pyrophosphatase (GF109817)
+Oki_itpa-85 (ss263197010)
+MAP kinase 4 (Promoter region) (GF109777)
+Oki_mapK3p-93 (ss263197011)
+Metallothionein A gene (GF109793)
+Oki_metA-220 (ss263197012)
+NipSnap2 (GF109811)
+Oki_nips-159 (ss263197013)
+Tumour protein p53 (GF109792)
+Oki_p53-20 (ss263197014)
+Poly synthetase 3 (GF109810)
+Oki_parp3-19 (ss263197015)
+Phosphatidylinositol N-acetylglucosaminyltransferase subunit H (GF109813)GCATACCAAGTCATGCAACATGTTT
+Oki_pigh-33 (ss263197016)
+Ribonuclease P ⁄ MRP protein subunit POP5 (GF109801) Oki_pop5-265 (ss263197017)
+RNA-binding protein 4B (GF109809)
+Oki_rbm4b-129 (ss263197018)
+DNA-directed RNA polymerase II subunit J (GF109814) Oki_rpo2j-235 (ss263197019)
+Vesicle-trafficking protein SEC22b-B (GF109795) Oki_SECC22-67 (ss263197021)
+Survival of motor neuron-related splicing factor 30 (GF109816) Oki_spf30-119 (ss263197022)
+Signal recognition particle 9-kDa protein (GF109806) Oki_srp09-107 (ss263197023)
+SYS1 homolog (GF109808)
+Oki_sys1-141 (ss263197024)
+Transcription initiation factor TFIID subunit 12 (GF109802) Oki_taf12-40 (ss263197025)
+Thioredoxin reductase interacting protein (GF109819) Oki_txnip-35 (ss263197027)
+Vacuolar ATP synthase subunit F (GF109818)
+Oki_vatf-363 (ss263197028)
+AGACAAAAGTAGATAAAACAATAATAGGTGTATCATCAG6FAM-CCATTGGGAATTGTTAAC
+GGGCGAATGAAGGTCATTAATAAAGT GATCACTTCGTCATCATCGATTCCT CCACACTCCGTCCTCCATAATT GACTCTGAACAGAGAATAAACCAAATCCT CATTTCCTAAATATTTTCTCAACTTTCCTCATGTT GGGTCACGTCACCACTGA AAGCAAGTAAGTGGTTCTATTCTAAATCCAA GCCACCTAATGAGGCAATTGAGATT CTGTGTCGGCATCAAATGTCTTATT CCAAGTCTGGTTAGAGCCCTACTAT GGCCATTTTTTCATTGATAGGATTCAGAT GGGATTCATCATGTCTTACTCATTGGT ACTTGTGTTGAATTCCAGAGACTAATGT GCTTCGTTATGATCTACCACCTTGA
+VIC-ATTATATCAGCATACATTTC 6FAM-ATCAGCAAACATTTC VIC-TGTCTTAAATAAGTTGTTTTTG 6FAM-TGTCTTAAATAATTTGTTTTTG VIC-CTCCTGCCATCTCAGTC 6FAM-CCTGCCACCTCAGTC VIC-TGGCACTTTAAAGCC 6FAM-TGGCACTTTTAAAGCC VIC-ACGCATGTCATTTTGA 6FAM-ACGCATGTAATTTTGA VIC-CCCAACATCAGATTTG 6FAM-ACCCAACATCTGATTTG VIC-TCCTGGCTTTAAATTG 6FAM-TGGCTTTAAAATTG VIC-CCATTGGGAAATGTTAAC
+CGGACCTCGCAGGTTAAGAG ATTCACACTCAAACAGCTGCATTG CCAGAAGCCTTTTAGTCAGTCGTTT GCTGCAGCTTCCATTCATCAAATTT GGAAATTGGTGATTTGAAACAGATTCTGA CAGCACATACCTAACAAACTACAGTATTGA GGATCCCTCCTTTTAACACAAGACT GGATGACTACCTAATTGCTAATAAAACATAACATG TGCATGTTTCAATGTTACACATTTATTATAGCTT TGTTTTACTGTAAATGTACAAAACTGAAATGCT CGGAGCTGGAATGACGACAT CAGCGAAGGTTATGCTCTCCAT GCACACCTCTCAATAGATTCAAGGA TCGAGGAAAAAGTTAGCATTCACTGT GTCAGCTCCACTATCACACAAGTAT GATTTTGGCCAGTTTGTGGTGAA AATGGCAGGACCAAGGTCTTC TCGCACATGCCGGAGAT AATCTTACGCAGGTACTGTATCTTGTG ACTCAATGAATTGCAGATGACTATCCA
+VIC-TTGAATACTCCTGGAATAGA 6FAM-TTGAATACTCCTTGAATAGA VIC-CGTGTCATGATACAAAC 6FAM-AACGTGTCATACAAAC VIC-TGATTCTGTTTTGAATTAACCAA 6FAM-CTGTTTTGAATGAACCAA VIC-ATGGACAGACAGTTGGGA 6FAM-TGGACAGACCGTTGGGA VIC-TGAACTGGGCTATATTAGACAT 6FAM-CTGGGCTATAGAAGACAT VIC-TTTCATTTTTGATTTCTCCTCTC 6FAM-CATTTTTGATTTCCCCTCTC VIC-CATTTCAGTTAATTTCC 6FAM-CATTTCAGTTCATTTCC VIC-TCTTGTCCTTTTTAATGCT 6FAM-CTTGTCCTTTTTTAATGCT VIC-CAGAAGCTCTCCTCTGTG 6FAM-AGAAGCTCTCGTCTGTG VIC-TCTCGGCTAAGAATTG 6FAM-TCGGCAAAGAATTG
+
+26 N. R. CAMPBELL AND S. R. NARUM
+Table 3 List of all Taqman assays evaluated in Columbia River collections [Oncorhynchus nerka = 126 single-nucleotide polymorphisms (SNPs); Oncorhynchus kisutch = 61 SNPs]. References are given for each assay, and contact information is provided for unpublished markers. Average minor allele frequency (MAF) across collections and GST are provided as descriptive statistics. Plot score is provided as a qualitative measure of assay performance in Columbia River populations
+Table 3 Continued Marker
+One_p53-576 One_pax7-248 One_PIP One_ppie-74 One_PPM1K-118 One_Prl2 One_psme2-354 One_rab1a-76 One_RAG1-103 One_RAG3-93 One_redd-414 One_RFC2-102 One_RFC2-285 One_RH2op395 One_rpo2j-261 One_sast-211 One_serpin-75 One_spf30-207 One_srp09-127 One_ssrd-135 One_STC-410 One_STR07 One_SUMO1-6 One_sys1-230 One_taf12-248 One_Tf_ex10-750 One_Tf_ex3-182 One_timp2-63 One_tshB-92 One_txnip-401 One_U1002-101 One_U1003-75 One_U1004-183 One_U1009-91 One_U1010-81 One_U1012-68 One_U1013-108 One_U1014-74 One_U1016-115 One_U1017-62 One_U1021-57 One_U1024-197 One_U1101 One_U1102-220 One_U1103 One_U1104-138 One_U1105 One_U1201-492 One_U1202-1052 One_U1203-175 One_U1204-53 One_U1205-57 One_U1206-108 One_U1207-231 One_U1208-67 One_U1209-111
+Overall References MAF GST
+A 0.124 0.243 T1 0.068 0.056 G 0.323 0.259 T1 0.274 0.217 H 0.219 0.161 A 0.391 0.458 H 0.045 0.063 H 0.113 0.187 A 0.006 0.000 A 0.276 0.108 T1 0.490 0.348 C 0.182 0.258 C 0.085 0.101 A 0.041 0.119 T1 0.093 0.414 T1 0.084 0.073 B 0.004 0.000 T1 0.088 0.046 T1 0.156 0.365 T1 0.399 0.070 A 0.082 0.120 A 0.290 0.382 T1 0.082 0.069 T1 0.323 0.065 T1 0.022 0.027 A 0.089 0.104 A 0.031 0.095 H 0.326 0.026 T1 0.010 0.017 T1 0.132 0.112 H 0.000 0.000 H 0.356 0.281 H 0.404 0.216 H 0.266 0.307 H 0.125 0.167 H 0.464 0.144 H 0.015 0.047 H 0.340 0.061 H 0.219 0.103 H 0.080 0.111 H 0.294 0.054 H 0.296 0.122 H 0.430 0.327 H 0.212 0.071 H 0.000 0.000 H 0.000 0.000 H 0.377 0.304 H 0.383 0.078 H 0.033 0.024 H 0.359 0.334 H 0.186 0.176 H 0.043 0.184 H 0.251 0.370 H 0.308 0.041 H 0.238 0.144 H 0.072 0.062
+Plot quality
+0.933 0.933 0.933 0.400 0.533 0.933 0.800 0.933 0.800 0.867 1.000 0.933 0.800 0.867 0.933 0.867 0.800 0.800 0.933 1.000 0.867 0.933 1.000 1.000 0.933 0.933 0.933 0.600 0.800 1.000 0.800 1.000 0.933 1.000 0.933 1.000 0.867 1.000 0.400 0.733 0.600 0.867 1.000 0.800 0.800 0.800 1.000 1.000 0.800 1.000 0.933 0.867 0.933 0.933 1.000 0.933
+   Marker
+O. nerka
+One_ACBP-79 One_agt-132 One_aldB-152 One_ALDOB-135 One_apoe-83 One_B1
+One_c3-98 One_ccd16-131 One_CD9-269 One_cetn1-167 One_CFP1 One_cin-177 One_CO1 One_CTGF-301 One_Cytb_17 One_Cytb_26 One_dds-529 One_DDX5-86 One_E2-65 One_fn-297 One_gdh-212 One_GHII-2461 One_ghsR-66 One_GPDH-187 One_GPH-414 One_GTHa One_HGFA-49 One_HpaI-436 One_HpaI-99 One_hsc71-220 One_Hsp47 One_Ig-90 One_IL8r-362 One_ing4-57 One_ins-107 One_KCT1-453 One_KPNA-422 One_LEI-87 One_lpp1-44 One_MARCKS-241 One_metA-253 One_MHC2-190 One_MHC2-251 One_Mkpro-129 One_NNT One_ODC1-196 One_Ots208-234 One_Ots213-181
+Overall References MAF GST
+A 0.220 0.013 H 0.341 0.251 T1 0.239 0.230 A 0.120 0.060 H 0.039 0.062 G 0.341 0.589 H 0.077 0.088 H 0.000 0.000 H 0.181 0.186 H 0.224 0.072 G 0.364 0.327 T1 0.263 0.292 A 0.000 0.000 A 0.000 0.000 A 0.135 0.623 A 0.135 0.623 T1 0.230 0.048 H 0.166 0.090 B 0.025 0.049 H 0.477 0.005 T1 0.216 0.110 A 0.438 0.289 T1 0.050 0.149 B 0.408 0.051 A 0.345 0.208 G 0.341 0.207 B 0.260 0.474 A 0.451 0.212 A 0.142 0.092 C 0.381 0.176 G 0.246 0.270 H 0.005 0.021 C 0.054 0.119 H 0.326 0.368 B 0.423 0.008 H 0.153 0.314 A 0.315 0.285 A 0.246 0.175 H 0.047 0.044 C 0.049 0.087 T1 0.211 0.137 A 0.330 0.194 A 0.209 0.223 T1 0.115 0.123 G 0.190 0.049 H 0.251 0.041 T1 0.368 0.228 A 0.393 0.410
+Plot quality
+0.933 1.000 1.000 0.733 0.867 0.533 0.800 0.800 0.933 0.933 1.000 0.767 0.600 0.800 0.933 0.800 0.867 0.933 0.800 0.733 1.000 1.000 0.800 1.000 0.867 0.867 0.867 1.000 0.800 0.800 0.933 0.800 0.867 0.533 0.667 0.867 1.000 1.000 1.000 0.800 1.000 1.000 0.800 0.933 0.800 1.000 1.000 1.000
+   Molecular Ecology Resources (2011) 11 (Suppl. 1), 20–30 Ó 2011 Blackwell Publishing Ltd
+
+Table 3 Continued
+Marker References MAF
+SNP DISCOVERY: CHAIN TERMINATION SEQUENCING 27 Table 3 Continued
+   One_U1210-173 H 0.000 One_U1211-97 H 0.000 One_U1212-106 H 0.339 One_U1214-107 H 0.000 One_U1215-82 H 0.000 One_U1216-230 H 0.000 One_U301-92 A 0.037 One_U401-224 C 0.325 One_U404-229 C 0.008 One_U502-167 C 0.119 One_U503-170 C 0.376 One_U504-141 C 0.462 One_U508-533 C 0.059 One_UCA-24 H 0.173 One_vamp5-255 T1 0.039 One_vatf-214 T1 0.232 One_VIM-569 A 0.097 One_ZNF-61 C 0.318 One_zP3b B 0.271 Ots_CD59-2 F 0.296 Ots_GDH-81x E 0.265 Ots_GH2 D 0.189
+O. kisutch
+Oki_afp4-10 T1 0.377 Oki_anp-168 T1 0.167 Oki_arf-115 I 0.109 Oki_arf-207 J 0.298 Oki_arp-105 T1 0.124 Oki_aspAT-273 T1 0.048 Oki_bcAKal-274 T1 0.180 Oki_ca050-17 T1 0.022 Oki_Car-353 J 0.165 Oki_carban-140 T1 0.264 Oki_Cr-209 I 0.000 Oki_Cr-296 I 0.009 Oki_E2-87 I 0.096 Oki_eif4ebp2-58 I 0.092 Oki_ERa1-299 J 0.000 Oki_gdh-189 T1 0.389 Oki_gh-183 T1 0.477 Oki_GnRH-151 I 0.000 Oki_GPDH-146 I 0.004 Oki_GPDH-188 I 0.018 Oki_gshpx-152 T1 0.136 Oki_HGFA-311 I 0.298 Oki_hsc713-56 T1 0.477 Oki_hsc71p-313 T1 0.117 Oki_hsf1b-85 T1 0.026 Oki_hsp90B-83 T1 0.022 Oki_IGF-I.1-163 I 0.447 Oki_il1rac-169 J 0.173 Oki_il-1racp-176 I 0.248 Oki_ins-167 I 0.203 Oki_ins-323 I 0.115 Oki_itpa-85 T1 0.209 Oki_LWSop-554 I 0.155
+0.000 0.800 0.000 0.800 0.345 0.933 0.000 0.800 0.000 0.800 0.000 0.800 0.030 0.800 0.197 0.867 0.000 0.800 0.076 0.933 0.166 1.000 0.178 1.000 0.042 0.800 0.103 0.667 0.163 0.867 0.111 1.000 0.143 0.933 0.100 0.933 0.367 1.000 0.114 1.000 0.222 0.733 0.593 0.933
+0.022 1.000 0.026 0.500 0.002 1.000 0.011 0.800 0.061 1.000 0.010 1.000
+0.008 1.000
+0.009 0.800
+0.079 1.000 0.030 1.000 0.000 0.400 0.028 0.400 0.032 0.800 0.023 0.800 0.000 0.400 0.015 1.000 0.039 1.000 0.000 0.400 0.013 0.800 0.010 0.800
+0.002 0.800
+0.003 0.800
+0.011 0.800 0.085 0.800 0.027 0.800 0.009 0.800 0.020 0.600 0.061 1.000 0.039 0.800 0.007 1.000 0.016 0.800
+0.004 1.000
+0.005 1.000
+Marker
+Oki_mapK3p-93 Oki_metA-220 Oki_nips-159 Oki_p53-20 Oki_parp3-19 Oki_pigh-33 Oki_pop5-265 Oki_rbm4b-129 Oki_rpo2j-235 Oki_SClkF2R2-120 Oki_SECC22-67 Oki_serpin-130 Oki_serpin-328 Oki_spf30-119 Oki_srp09-107 Oki_SWS1op-38 Oki_sys1-141 Oki_taf12-40 Oki_TniUPP-230 Oki_txnip-35 Oki_U202-136 Oki_U202-258 Oki_U202-290 Oki_U202-93 Oki_U211-47 Oki_U216-151 Oki_u6-257 Oki_vatf-363
+Plot quality
+0.800 1.000 1.000 1.000 1.000 0.800 1.000 0.800 0.800 0.800 1.000 0.800 1.000 0.800 1.000 0.700 1.000 1.000 0.800 0.800 1.000 0.800 0.800 0.800 1.000 0.800 1.000 1.000
+Overall Plot GST quality
+Overall References MAF GST
+T1 0.040 0.005 T1 0.319 0.033 T1 0.366 0.004 T1 0.159 0.019 T1 0.109 0.028 T1 0.173 0.056 T1 0.183 0.002 T1 0.000 0.000 T1 0.257 0.027 I 0.185 0.021 T1 0.431 0.054 I 0.245 0.068 I 0.185 0.043 T1 0.190 0.023 T1 0.259 0.008 I 0.401 0.018 T1 0.082 0.038 T1 0.378 0.042 J 0.271 0.028 T1 0.143 0.025 J 0.401 0.010 J 0.017 0.018 J 0.017 0.018 J 0.039 0.017 J 0.000 0.000 J 0.048 0.020 I 0.424 0.020 T1 0.167 0.021
+T1 = Table 1; A = Elfstrom et al. (2006); B =
+C = Habicht et al. (2010); D = Smith et al. (2005b); E = Campbell & Narum (2008); F = Unpublished—Washington State University Vancouver (J. Dekoning) Contact e-mail: dekoning@vancouver.wsu.edu; G = Miller & Beacham (2007);
+H = Unpublished—University of Washington (C. Storer) Contact e-mail: cstorer@uw.edu; jseeb@uw.edu; I = Smith et al. (2006); J = Unpublished—University of Washington (M. Smith) Contact e-mail: Matt_Smith@fws.gov; jseeb@uw.edu.
+quality score was scaled from 0 to 1, with ratings of 0.0– 0.5 being poor, 0.51–0.7 intermediate and 0.71–1.0 good.
+For the coho salmon SNP discovery effort, 83 loci were amplified and sequenced producing 53 sequence alignments totalling 20 784 unique consensus bases with an average contig length of approximately 392 bp. A total of 149 SNP sites were identified in 45 sequence alignments with eight alignments revealing no variation within the ascertainment sequences. SNP sites were chosen for assay design based on minor allele frequency and distribution of genotypes within the ascertainment panel. Of the 149 SNP sites, 35 were selected and submitted to Applied Biosystems for assay design. These assays were used to genotype the ascertainment panel and were validated by comparison with genotype and sequence data.
+  Smith et al. (2005a);
+ Molecular Ecology
+Ó 2011 Blackwell Publishing Ltd
+Resources (2011) 11 (Suppl. 1), 20–30
+
+ 28 N. R. CAMPBELL AND S. R. NARUM
+(a) 0.4
+0.3
+0.2
+0.1
+0
+–0.1
+–0.2
+–0.3
+–0.4
+–0.5
+–0.6
+–0.6 –0.4 –0.2
+Wells Dam Sockeye
+0
+Suttle Lake Kokanee
+Tumwater Dam Sockeye
+0.2 0.4 0.6
+Redfish Lake Sockeye
+(b) 0.4 Entiat Fish Hatchery 0.3
+Cowlitz Fish Hatchery
+0.3 0.4
+0.2 0.1 0 –0.1 –0.2 –0.3
+–0.3 –0.2
+Wenatchee and Yakima rivers
+–0.1 0
+FC-1 (60.9% of variation)
+Redfish Lake Kokanee
+(Table 3). Five assays showed fixed genotypes across all collections from the Columbia River. One assay showed a heterozygote excess (Oki_afp4-10; P = 0.0075), and two assays showed heterozygote deficits (Oki_serpin-130; P = 0.0016 and Oki_TniUPP-230; P = 0.0322). Significant linkage disequilibrium was detected between three pairs of assays (Oki_U202-258 and Oki_U202-290 P = 0.00009); (Oki_ins-167 and Oki_ins-323; P = 0.00000) and (Oki_hsc713-56; Oki_hsc71p-313 P = 0.00336). All three of the linked assays were from the same gene, but alleles were only in complete phase between the two U202 markers. Similarly, there were several loci that were known to be physically linked but were not significant in tests for genotypic linkage disequilibrium. Table 3 shows the average minor allele frequency across collections and GST. The average plot quality score, described previously, is also reported for each assay.
+Genotype data from 32 individuals from five Columbia River populations of O. nerka and four of O. kisutch were used to assess the ability of each set of SNP markers to differentiate collections. Thirteen SNP loci were removed from the data set for O. nerka and five for O. kisutch prior to this evaluation because of violations of HWE and statistically significant linkage disequilibrium. This resulted in genotype data for 113 and 56 SNP loci, respectively, for further analyses. The program ONCOR was used to simulate 200 individuals per collection from baseline allele frequencies and determine proportions based on 100% parametric values. Simulated individuals were assigned to a collection 100 times, and the percentage of correct assignments was recorded (Table 4). The program GENETIX was used to create XY scatter plots using relative chi-square distances from FCA for each individual of the two species. These data points were used to create the FCA plots in Fig. 1a (O.nerka) and 1b (O. kisutch). Using this set of 113 SNP loci, the collections of O. nerka were strongly differentiated as evidenced by high percentages of correct assignment and the well-defined FCA plot. Conversely, the collections of coho salmon were not well differentiated using the set of 56 SNP loci. However, there were less than half the number of SNP markers describing the differentiation in O. kisutch as in O. nerka, and only 41 markers in O. kisutch had minor allele frequencies over 10%.
+Discussion
+This SNP discovery effort used traditional Sanger sequencing of specific PCR products from target loci. This method has been used successfully by many Pacific salmonid researchers for SNP discovery to date (e.g., Smith et al. 2005a; Campbell et al. 2009). However, nextgeneration sequencing (NGS) methods such as pyrosequencing are beginning to be used more widely for SNP
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 20–30 Ó 2011 Blackwell Publishing Ltd
+FC-1 (19.5% of variation)
+FC-2 (24.2% of variation) FC-2 (6.6% of variation)
+Fig. 1 Factorial correspondence analysis (FCA) plot displaying genetic distance between collections. Ellipses were drawn around clusters to indicate the general location of each collection within the FCA plots. (a) Five collections of Oncorhynchus nerka based on genotypes from 113 single-nucleotide polymorphisms (SNPs). (b) Four collections of Oncorhynchus kisutch based on 56 SNPs.
+Table 4 List of Columbia River collections tested for each species. Average observed heterozygosity (Ho) across each collection is shown along with the per cent correct assignment using ONCOR simulations
+Collection location N
+Oncorhynchus nerka
+Wells Dam 27 Tumwater Dam 28 Redfish Lake (Sockeye) 46 Redfish Lake (Kokanee) 43 Suttle Lake (Kokanee) 98
+Oncorhynchus kisutch
+Entiat Fish Hat. 29 Yakima R. (Prosser Dam) 27 Wenatchee R. 31 Cowlitz Hat. 29
+% Correct Average Ho assignment
+113 SNPs
+0.311 99.8 0.280 99.9
+Thirty-one of the 35 designed assays passed validation (Table 1) and these 31 assays were then evaluated further along with 30 other available assays for coho salmon
+0.1 0.2
+0.169
+0.271 100 0.304 100
+56 SNPs
+0.291 40.7 0.233 27.6 0.264 42.4 0.252 90.2
+100
+
+discovery in salmonids. A recent such effort in O. mykiss (Sanchez et al. 2009) produced approximately 130K contigs with an average size of 259 bp and discovered about 22K putative SNP sites. However, the conversion of putative SNP sites to functional assays was very low (48%) compared to the conversion rate from this study (84%) because of the inability of NGS to differentiate true SNP sites from paralogous sequence variants and sequencing errors. Also, the sequences produced are largely from unknown regions of the genome (98%), whereas a targeted gene approach of ESTs using Sanger sequencing can capitalize on previous studies that often provide functional roles for certain genes. Sequencing of transcript DNA using NGS (i.e. Seeb et al. in press) yields only sequences from expressed genes within a given tissue type, but the data have an overrepresentation of highly expressed genes, and intron sequences are absent. However, exon enrichment techniques (Hodges et al. 2007) and whole genome assemblies for salmonids would remedy these drawbacks and make NGS a more attractive option for future SNP discovery projects.
+Discovery of SNP sites suitable for assay design in these two species was more difficult than in similar discovery efforts with O. mykiss and O. tshawytscha (Campbell & Narum 2008; Campbell et al. 2009). The number of sequences with no observed polymorphisms was 29% in the O. nerka discovery panel and 17% in the O. kisutch panel. Comparatively, these percentages for O. mykiss and O. tshawytscha using largely the same sequenced loci were 3% and 7%, respectively, and higher densities of SNPs were discovered. Although this could simply be an effect of ascertainment bias, this seems unlikely as each ascertainment panel contained samples covering much of the species’ natural range. Therefore, it seems that there is simply less variation within these two species than O. mykiss and O. tshawytscha, and a greater number of sequenced loci will be required to deliver the same number of suitable SNP sites versus a species such as O. mykiss. These results corroborate previous studies describing the genetic diversity of salmonids using allozyme (Utter et al. 1973; Allendorf & Utter 1979) and microsatellite markers (Beacham et al. 2006; Van Doornik et al. 2007).
+Several of the SNP markers tested showed strong statistical linkage disequilibrium with one another, while some that were known to be physically linked did not show statistically significant linkage disequilibrium when tested. Loci that are known to be physically linked but do not occur in phase with one another can be phased into a single locus using a program such as PHASE (Stephens & Donnelly 2003) or Arlequin (Excoffier et al. 2005) potentially creating a more highly informative locus with more than two alleles. Alternatively, Habicht etal. (2010) describe the use of linked markers
+Molecular Ecology Resources (2011) 11 (Suppl. 1), 20–30 Ó 2011 Blackwell Publishing Ltd
+(One_MHC2-190 and One_MHC2-251) to create composite phenotypes, and mitochondrial markers (One_cytb-17 and One_cytb-26) were combined into composite haplotypes. Methods such as these can utilize the information in the genotypes of linked SNPs without overrepresenting a single locus in the genome. However, in cases where two or more markers are in complete phase with one another, it may be best to simply drop one of the markers for further analyses. Also, there were several loci that showed no variation within the collections tested (O. nerka = 11 fixed loci; O. kisutch = 5 fixed loci). These assays could be either dropped from further studies within the Columbia River drainage or utilized as diagnostic marker(s) for detection of strays from other regions where the alternate allele is more prevalent.
+Using this set of 113 SNP markers, all five collections of O. nerka were well differentiated from one another genetically. The overall observed heterozygosity was comparable between all collections except the Redfish Lake andromous population (sockeye salmon), which had much lower diversity. This could be attributed to a genetic bottleneck with this particular collection as sockeye salmon have returned in extremely small numbers in the recent past (Winans et al. 1996) with modest increases in recent years because of a captive broodstock programme (Peterson et al. 2008). In contrast to O. nerka, weak genetic structure was observed between the four collections of Columbia River coho salmon that were tested in this evaluation. However, the observed heterozygosity across all loci was comparable between all the collections, suggesting that much of the variation from the lower Columbia River founder stock has been maintained. Also, the low GST values reported for most of the loci suggested that the collections were not strongly differentiated, but the 90% correct assignment to the Cowlitz Hatchery collection indicates that genetic structure may be evolving in the system as stocks begin to reproduce naturally, and natural origin returns are used as broodstock in upriver hatcheries. Overall, this study provides a total of 54 new SNP assays for O. nerka and O. kisutch, an evaluation of SNP marker informativeness for these two species in the Columbia River basin and a preliminary indication of their use for more broad population genetics studies.
+Acknowledgements
+Thank you to Jim Seeb, Carita Pascal, Caroline Storer, Matt Smith, Heather Hoyt, Sara Gilk and Don Van Doornik for supplying samples and SNP assay aliquots. Caroline Storer was instrumental in providing newly developed sockeye salmon assays for evaluation in the Columbia River. Thanks also to Chris Habicht for consulting on O. nerka SNP assay evaluation and supplying us with recent publications. Funding for this study was provided by the Bonneville Power Administration.
+SNP DISCOVERY: CHAIN TERMINATION SEQUENCING 29

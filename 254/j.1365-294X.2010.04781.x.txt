@@ -1,0 +1,365 @@
+   Molecular Ecology (2010) 19, 3995–4011 doi: 10.1111/j.1365-294X.2010.04781.x
+Hybridization between distant lineages increases adaptive variation during a biological invasion: stickleback in Switzerland
+KAY LUCEK,*† DENIS ROY,†‡ ETIENNE BEZAULT,*† ARJUN SIVASUNDAR*† and
+OLE SEEHAUSEN*†
+*Aquatic Ecology and Evolution, Institute of Ecology & Evolution, University of Bern, Baltzerstrasse 6, CH-3012 Bern, Switzerland, †Department of Fish Ecology and Evolution, EAWAG Swiss Federal Institute of Aquatic Science and Technology, Center for Ecology, Evolution and Biogeochemistry, CH-6047 Kastanienbaum, Switzerland, ‡Biology Department, Dalhousie University, 1355 Oxford St., Halifax, NS, Canada B3H 9J1
+Abstract
+The three-spined stickleback is a widespread Holarctic species complex that radiated from the sea into freshwaters after the retreat of the Pleistocene ice sheets. In Switzerland, sticklebacks were absent with the exception of the far northwest, but different introduced populations have expanded to occupy a wide range of habitats since the late 19th century. A well-studied adaptive phenotypic trait in sticklebacks is the number of lateral plates. With few exceptions, freshwater and marine populations in Europe are fixed for either the low plated phenotype or the fully plated phenotype, respectively. Switzerland, in contrast, harbours in close proximity the full range of phenotypic variation known from across the continent. We addressed the phylogeographic origins of Swiss sticklebacks using mitochondrial partial cytochrome b and control region sequences. We found only five different haplotypes but these originated from three distinct European regions, fixed for different plate phenotypes. These lineages occur largely in isolation at opposite ends of Switzerland, but co-occur in a large central part. Across the country, we found a strong correlation between a microsatellite linked to the high plate ectodysplasin allele and the mitochondrial haplotype from a region where the fully plated phenotype is fixed. Phylogenomic and population genomic analysis of 481 polymorphic amplified fragment length polymorphism loci indicate genetic admixture in the central part of the country. The same part of the country also carries elevated within-population phenotypic variation. We conclude that during the recent invasive range expansion of sticklebacks in Switzerland, adaptive and neutral between-population genetic variation was converted into within-population variation, raising the possibility that hybridization between colonizing lineages contributed to the ecological success of sticklebacks in Switzerland.
+Keywords: admixture, amplified fragment length polymorphism, invasion, phenotypic divergence Received 29 March 2010; revision received 18 June 2010; accepted 6 July 2010
+Introduction
+Invasive species present a paradox to evolutionary ecology, as newly founded populations are expected to suf-
+Correspondence: Kay Lucek, Fax: +41 3163 14511; E-mail: kay.lucek@eawag.ch
+fer from low genetic variation because of founder effects and genetic drift (Frankham 2005; Roman & Darling 2007). Indeed, most introduced populations go extinct or persist only as small regional populations (Lockwood et al. 2007). However, when populations do become invasive, this is often thought to reflect an elevated ability to deal with the new environment,
+Ó 2010 Blackwell Publishing Ltd
+
+3996 K. LUCEK ET AL.
+perhaps because of phenotypic plasticity, exceptional evolutionary potential (Lee et al. 2007), or high propagule pressure, affecting evolutionary potential through genetic variation (Drake et al. 2005).
+For several species, it has been proposed that invasion success is enhanced by releases of populations of different origins that genetically admix upon secondary contact in the new range. In such cases, between-population variation in heritable traits becomes converted into within-population variation, and genetic variation in the invasive range may even exceed that in the native range (Kolbe et al. 2004; Lavergne & Molofsky 2007). It has been suggested that such recent admixture history might facilitate invasion into novel niches not occupied in the home range (Kolbe et al. 2004), adaptation (Sakai et al. 2001) and eventually adaptive radiation (Seehausen 2004). Hybridization between postglacial lineages of European freshwater fish has indeed been shown to give rise to highly invasive incipient species (Nolte et al. 2005).
+The three-spined stickleback, Gasterosteus aculeatus, has become an important model system in evolutionary biology and its ability to adapt to new environments with multiple events of ecological speciation is well documented (McKinnon & Rundle 2002). Postglacial colonization of freshwater habitats from the sea may have led to thousands of geographically independent replicate speciation events, forming a phylogenetic raceme-like adaptive radiation (Bell & Foster 1994). Sticklebacks have colonized the Atlantic Ocean from the Pacific Ocean about 90–260 kya and survived in several marine refugia during Pleistocene glaciation events (Orti et al. 1994; Ma ̈ kinen et al. 2006; Ma ̈ kinen & Merila ̈ 2008). From such refugia, sticklebacks recolonized freshwater streams after the retreat of the ice sheets all around the Northern Hemisphere, forming diadromous and freshwater resident populations and species besides entirely marine forms (Bell & Foster 1994), and additionally forming incipient species or ecotypes occupying streams vs. lakes and the pelagic vs. the benthic zone of lakes (McKinnon & Rundle 2002). The colonization of freshwaters has generally been associated with founder effects and genetic drift (Ma ̈kinen & Merila ̈ 2008), but may also be associated with strong directional selection (Barrett et al. 2009).
+In Switzerland, the three-spined stickleback had a naturally limited distribution, being reported until the 1870s only in the Rhine tributaries around Basel north of the Jurassic Mountains where the steepness of the Rhine probably prevented further spread (Fatio 1882; Fig. 1c). In the same decade, however, sticklebacks were released almost simultaneously in the upper Rhine River (Heller 1870) upstream of Lake Constance in Austria, and in a stream near Geneva (for details see
+Fig. 1), connected to Lake Geneva in 1870 (Fatio 1882). Additional releases in the Lake Neuchatel catchment and in the upper Rhone, upstream of Lake Geneva in the Valais, took place at the beginning of the 20th century (Bertin 1925). During the first half of the 20th century, several aquarium fish traders used the Basel population as source population for distribution to aquarists (Steinmann 1936). What followed was a rapid successful invasion of the entire Swiss midlands within the Rhine ⁄ Aare and the Rhone drainages, where sticklebacks now occupy a very wide range of different habitats including streams, ponds and the shores as well as the pelagic zone of large lakes. The physical contrast between some of these divergent habitats resembles those typically associated with ecological speciation in the natural range of the species (McKinnon & Rundle 2002). The invasion of stickleback into the Swiss midlands hence provides us with a unique opportunity to study the early stages of colonization and adaptation to divergent habitats, which may be associated with ecological speciation and adaptive radiation.
+The major phenotypic distinction between marine and freshwater sticklebacks, replicated across most of the Northern Hemisphere, is in the number and distribution of bony lateral plates on the sides of the body. Marine populations usually bear a full complement of lateral plates (fully plated or FP—flank completely covered by lateral plates including a keel on the caudal peduncle), while freshwater populations carry a strongly reduced set of lateral plates (low plated or LP—only anterior plates until pelvic girdle; Bertin 1925; Mu ̈nzing 1963; Gross & Anderson 1984). These phenotypes represent alternative antipredator defence solutions (Moodie & Reimchen 1976) and are thought to be under divergent natural selection because of different predator communities in different habitats. The fully plated phenotype is beneficial in habitats with gape-limited predators such as piscivorous fish and birds (Reimchen 1994), whereas the low plated phenotype seems to be advantageous in habitats where the dominant predators are insects (Marchinko 2009). In freshwater, the fully plated phenotype suffers from reduced growth rate relative to the low plated type (Barrett et al. 2008, 2009). Much of the variation in plate number is explained by the ectodysplasin (Eda) gene, different alleles of which characterize distinct phenotypes (Colosimo et al. 2005).
+The original Swiss stickleback population from the Basel area was fixed for the low plated phenotype, typical of all northwest European freshwater stickleback populations (Fatio 1882; Mu ̈nzing 1963). During preliminary collections in several Swiss sites in 2006, we discovered stickleback populations varying in their phenotypes in terms of their lateral plate morphs, body shape and male nuptial colouration. Subsequently, we
+Ó 2010 Blackwell Publishing Ltd
+
+(a)
+Fig. 1 (a) Map of Europe modified from Mu ̈nzing (1963), showing the plate morph distribution across the continent: filled circles and solid coastlines indicate fully plated, semi filled circles polymorphic populations and empty circles low plated morphs, respectively. Coloured circles show the sites where Ma ̈ kinen & Merila ̈ (2008) reported the same haplotypes that we found in Switzerland and CH01. Grey squares indicate the position of European populations used in this study. (b) Map of Switzerland (Ó swisstopo) with frequency plots of haplotypes for each sample location. Haplotype names follow Ma ̈kinen & Merila ̈ (2008) with the newly described haplotype labelled CH01. Sample site name abbreviations are explained in Table 1. Asterisks indicate populations used for the amplified fragment length polymorphism survey. Dates and places of first release are indicated and drainages are separated with dashed lines. Further the historical range around Basel, depicted in c is highlighted. (c) Elevation map of the Basel region (Ó swisstopo). Highlighted in green is the historical range where sticklebacks occurred before 1870. The red highlighted area depicts the invasive range of the species in that area.
+INVASION AND ADMIXTURE OF SWISS STICKLEBACKS 3997
+  (b)
+(c)
+                    Ó 2010 Blackwell Publishing Ltd
+
+3998 K. LUCEK ET AL.
+conducted an extensive survey of stickleback populations in Switzerland and observed the complete spectrum of antipredator defence morphs known from across Europe. These included not only the well-known fully plated, low plated and partially plated phenotypes but also different combinations of body plate number and the presence ⁄ absence of caudal peduncle keel. We found some populations fixed or almost fixed for just one plate phenotype, and others with large standing phenotypic variation. Among the former were populations almost fixed for the fully plated phenotype, a very
+unusual situation in inland freshwaters. Here, we examine the geographical distribution of this previously well-studied adaptive phenotypic trait within Switzerland and aim at reconstructing the history of this recent colonization.
+We demonstrate a distinct trend from populations strongly dominated by marine-like fully plated sticklebacks in eastern Switzerland to populations strongly dominated by freshwater-like low plated sticklebacks in the southwest and northwest. To ask if this cline-like variation is because of heritable variation at the Eda
+Table 1 Locations and habitat types of the sampling sites used in this study. Site names consist of two letters for Swiss sites or 1-2 letters for non-Swiss sites, followed by the habitat type (L, lake; M, marine; P, pond; and S, stream) and by a serial number. Lateral plate phenotypes from adult are summarised, as well as the distribution of mtDNA haplotypes among sampled populations. The first number in the column ‘‘Other’’ depicts the number of individuals sequenced and the number in brackets gives the number of haplotypes found. Also shown is the number of individuals genotyped for the Stn382 marker for a subset of sampling sites
+ Site description
+Population Lat (N) Lon (E) Rhone drainage—Geneva region
+Lateral plates
+mtDNA haplotypes
+AFLP Stn382
+N N
+40 12 96 12 60 36
+13 35
+27 38
+14 27 3 8 10 31 35
+12 25 12 48 15 31
+30 31 25
+11 30 43 11 47 3
+6 4(1) 4
+4(1) 4 4(4) 4
+     VDL1 46°46¢40’’ 6°38¢30’’
+VDS2 46°46¢43’’ 6°37¢36’’ Aare ⁄ Rhine drainage—Lake Biel BEL3 47°04¢57’’ 7°11¢59’’ BES2 46°58¢59’’ 7°15¢11’’
+Lake
+Stream region
+Lake shore
+Stream Aare ⁄ Rhine drainage—Lake Wohlen
+BEL1 46°57¢59’’ BEL2 46°58¢03’’ BEP1 46°57¢25’’ BES3 46°57¢41’’
+7°21¢08’’ 7°23¢49’’ 7°23¢21’’ 7°22¢46’’
+Manmade lake Manmade lake Manmade pond Stream
+Aare ⁄ Rhine drainage—northern Aare ⁄ Rhine region
+AGS1 47°34¢40’’ AGS2 47°24¢21’’ AGS3 47°35¢12’’
+7°50¢17’’ 8°05¢01’’ 8°13¢43’’
+Stream Stream Stream
+Aare ⁄ Rhine drainage—isolated streams
+BLP1 47°27¢05’’ BES1 47°05¢03’’ ZHS1 47°26¢34’’
+Rhine drainage—Lake SGL1 47°29¢02’’ SGP1 47°28¢43’’ SGS1 47°19¢33’’ FLS1 47°14¢38’’
+7°55¢42’’ 7°24¢34’’ 8°28¢06’’
+Pond Stream Stream
+Other European populations
+F_S1 47°29¢29’’ F_S2 42°00¢06’’ D_S1 52°14¢03’’ DK_M1 56°05¢19’’
+6°46¢15’’ 9°24¢20’’ 8°10¢05’’ 8°13¢53’’
+8 6.13 (±0.35) 6 32 3.00 (±1.02)
+19 6.84 (±1.42)
+15 26.27 (±7.48)
+Constance region
+9°33¢35’’ 9°33¢30’’ 9°34¢41’’ 9°31¢14’’
+Lake shore
+Habitat N Lake 40
+Mean (±SD)
+EU09
+EU10 EU27
+EU36 CH01 Other
+ VDL2 46°31¢02’’ VSS1 46°12¢50’’ VSS2 46°23¢05’’ GES1 46°10¢47’’
+6°34¢41’’ 7°18¢53’’ 6°51¢13’’ 6°00¢32’’
+13.37 (±10.02) 7 1 7.73 (±4.65) 19 3 5 59 6.61 (±0.87) 8 2 8 36 7.89 (±4.18) 5 1
+12 11.42 (±8.35) 2 2 3 1 2 35 11.71 (±9.02) 4 3 2 1
+27 15.85 (±11.56) 3 5 36 21.69 (±10.92) 2 6
+40 21.00 (±10.48) 12 6 5 22.20 (±13.03) 2 5 3 31 21.58 (±10.95) 6 6 42 17.83 (±11.36) 1 5
+25 7.00 (±0.50) 12 48 6.60 (±1.46) 17 32 14.41 (±10.67) 1 15
+31 10.58 (±9.82) 6 31 6.90 (±0.79) 2 4
+25 25.60 (±11.06) 6
+30 29.43 (±6.60) 22 43 28.74 (±7.26) 6 57 28.56 (±7.51) 20
+Aare ⁄ Rhine drainage—Lake Neuchatel region
+Stream 102 Stream
+Stream
+Stream Stream Stream
+Stream Stream Stream Marine
+& lake
+1 2
+ AFLP, amplified fragment length polymorphism.
+Ó 2010 Blackwell Publishing Ltd
+
+locus (Colosimo et al. 2005), we amplified a microsatellite linked to plate phenotype that is situated in an intron of the Eda gene and flanks a diagnostic 60-bp indel. To determine the geographical sources of the Swiss stickleback invasion, we sequenced partial cytochrome b and control region of the mitochondrial genome. We compare our results to a recently published European phylogeography of the species complex, which did not include any samples from Switzerland (Ma ̈kinen & Merila ̈ 2008). Finally, we used amplified fragment length polymorphisms (AFLPs) as genomic markers to determine the extent of genetic admixture between the populations from different geographical sources that we identified from mitochondrial sequences. We use these data to ask if the observed phenotypic variation is explained by recent genetic admixture between source populations fixed for contrasting phenotypes, i.e. if between-population adaptive divergence was converted into within-population adaptive variation during invasion. This is of interest, as hybridization has been argued to facilitate rapid habitat divergence and is able to produce novel phenotypes, which may increase the success of an invasion (Ellstrand & Schierenbeck 2000; Seehausen 2004; Lavergne & Molofsky 2007).
+Materials and methods
+Sample collection and DNA extraction
+We collected three-spined stickleback individuals from 23 different sampling sites all across the known range of the species in Switzerland, between summer 2007 and autumn 2008 (Table 1). The sampling sites included lakes, streams and ponds. We caught individuals either using hand nets, minnow traps or by electrofishing. All fish were euthanized with clove oil, fin clipped and stored in absolute ethanol for further analysis. Genomic DNA was extracted from fin tissue sample, using either a Qiagen BioSprint 96 robot with the
+Qiagen Blood Extraction kit or the Promega Wizard DNA extraction kit.
+mtDNA amplification and analysis
+We amplified partial cytb and partial control region with primers and protocols described in Ma ̈kinen & Merila ̈ (2008). In total, we sequenced 272 individuals (including all the individuals genotyped for AFLPs). We aligned the sequences manually with BIOEDIT 7.0.9.0 (Hall 1999), using a subset of previously released sequences from Ma ̈kinen & Merila ̈ (2008) as a template. For every new haplotype, the individual was resequenced for confirmation. To estimate molecular diversity indices such as the number of haplotypes (h), haplotype diversity (hd), nucleotide diversity (p) and the average number of pairwise nucleotide differences between sequences (k) for different subgroups and the whole data set, we used DnaSP 4.50.3 (Table 2; Rozas et al. 2003). We grouped populations within Switzerland by lake system into parapatric lake–stream pairs (abbreviations are given in Table 1): Lake Constance (SGS1, SGP1, SGL1, FLS1), Lake Wohlen (BES3, BEP1, BEL1, BEL2), Lake Biel (BES2, BEL3), Lake Neuchatel (VDS2, VDL1) and Lake Geneva (VSS1, VSS2, GES1, VDL2). Additionally, we included three populations from the Northern Aare ⁄ Rhine region (AGS1, AGS2, AGS3), representing an historically interconnected stream comparison. Four populations were included only for calculations of the above parameters across all of Switzerland, because they are either geographically isolated (ZHS1, F_S1) or separated by a barrier (BES1, BLP1) from the other regions. To calculate the diversity of geographical lineages within the country, we applied the Shannon index (Shannon 1948) based on haplotype diversity. Additionally, a parsimonious phylogenetic network was reconstructed with TCS 1.21 (Clement et al. 2000). Here, we included all mitochondrial haplotypes from Ma ̈kinen & Merila ̈ (2008), as well as samples from three different populations from
+Grouping N h Lake Constance region 51 2
+Northern Aare ⁄ Rhine 44 2 Lake Wohlen region 46 3 Lake Biel region 16 3 Lake Neuchatel region 20 5 Lake Geneva region 59 3 All Swiss 254 5 All Swiss + reference 272 11
+p (±SD)
+0.00022 (0.00014)
+0.00013 (0.00012) 0.00174 (0.00020) 0.00131 (0.00027) 0.00276 (0.00030) 0.00204 (0.00028) 0.00254 (0.00008) 0.00264 (0.00007)
+Hd (±SD)
+0.077 (0.050) 0.045 (0.043) 0.549 (0.033) 0.458 (0.095) 0.805 (0.019) 0.500 (0.003) 0.723 (0.014) 0.755 (0.014)
+k H’ 0.307 0.165
+0.182 0.107 2.443 0.838 1.833 0.621 3.863 0.857 2.858 0.000 3.562 1.094 3.701
+INVASION AND ADMIXTURE OF SWISS STICKLEBACKS 3999
+Table 2 Basic indices calculated using mtDNA: N, number of individuals; h, number of haplotypes; p, nucleotide diversity; Hd, haplotype diversity; k, average number of nucleotide differences; H’, Shannon index of haplotype groups
+   Ó 2010 Blackwell Publishing Ltd
+
+ 4000 K. LUCEK ET AL.
+across Europe [Corsican freshwater (F_S2), North German freshwater (D_S1) and a marine population from Denmark (DK_M1)] to reconstruct the phylogeographic context of the haplotypes found in the studied area.
+Lateral plate phenotypes and genotypes
+We counted the lateral plates on the left side of each individual under a dissection microscope for a total of 854 specimens from all populations (Table 1). In addition, we distinguished five different phenotypic groups: LP without keel—only structural plates, LP with keel—structural plates plus keel, PP no keel—more than just structural plates but no keel, PP with keel—missing plates between anterior plates and keel, FP—full set of plates (Fig. 2c). We genotyped all individuals from
+(a)
+Switzerland and the nearby site F_S1 for the microsatellite marker Stn382 using the PCR protocol of Colosimo et al. (2005). This microsatellite flanks a diagnostic 60bp indel in intron 1 of the Eda gene, yielding either a 158bp allele, linked to the low plated Eda haplotype or a 218bp allele, linked to the fully plated Eda haplotype. We genotyped individuals on a 1.5% agarose gel and scored alleles by eye. To test for cytonuclear disequilibrium between the mitochondrial EU27 haplotype, representing the putative origin of the fully plated phenotype and the Stn382 218bp allele, linked to phenotypes with more than the structural plates, we used an implementation of Fisher’s exact test in the program CNDd (Basten & Asmussen 1997) for all Swiss populations. We tested for deviations from Hardy–Weinberg equilibrium (HWE) using ARLEQUIN 3.1 (Excoffier et al. 2005).
+Fig. 2 (a) Box plots for the number of lateral plates for each population, numbers indicate sample size. Filled circles mark individuals within the 99% confidence interval, whereas asterisks mark outliers. Habitats are given as: L, Lakes; M, marine; P, pond; and S, stream. (b) Ratios per population for all fish assigned to plate phenotype categories. (c) Lateral plate morph categories, from left to right: LP without keel—only structural plates, LP with keel—structural plates plus keel, PP no keel—more than just structural plates but no keel, PP with keel—missing plates between anterior plates and keel, FP—full set of plates. Population codes can be found in Table 1.
+(b)
+(c)
+Ó 2010 Blackwell Publishing Ltd
+
+AFLP protocol
+We included in the analysis 129 specimens from 10 different populations within Switzerland, plus three reference populations from across Europe (Table 1). This sample set is a subsample of the individuals analysed by mtDNA sequencing. To assess reproducibility, we genotyped 15 randomly chosen individuals twice across all populations, repeating the entire procedure independently starting from different DNA extractions to sequencer runs. We carried out the restriction and ligation in a single step using 1.1 lL T4 ligase buffer (1·), 1.1 lL NaCl (50 mM), 0.55 lL BSA (50 lg ⁄ mL), 0.02 lL MseI (0.09 units ⁄ lL, New England BioLabs), 0.05 lL EcoRI (0.45 units ⁄ lL, New England BioLabs), 1 lL MseIadaptor (50 lM), 1 lL EcoRI-adaptor (5 lM), 0.06 lL T4 DNA ligase (5.56 units ⁄ lL) and 0.62 lL RNAse-free water and incubated for two hours at 37 °C. For the preselective amplification, 3lL restriction–ligation product was used. We performed the preselective PCR with 1 lL of each MseI and EcoRI preselective primers (0.5 lM), 2 lL NH4 reaction buffer (1·), 1 lL MgCl2 (2.5 mM), 2 lL dNTPs (200 lM) and 0.15 lL Taq DNA polymerase (0.04 units ⁄ lL, Bioline). Preselective primers were identical to the adaptor sequence with a single nucleotide added at the 3¢end (MseI-pre: C, EcoRI-pre: A). The PCR conditions were as follow: 2 min at 72 °C, 20cyclesof20sat94°C,30sat56°C,2minat72°C, and final elongation for 30 min at 60 °C, then holding at 4 °C. PCR products were diluted 1:10 for selective amplification. The PCR for the selective amplification was set up using 1.5 lL diluted preselective-PCR product, 0.4 lL MgCl2 (2.5 mM), 1 lL NH4 reaction buffer (1·), 1 lL dNTPs (200 mM), 0.1 lL Taq DNA polymerase (0.04 units ⁄ lL), 2.5 lL selective MseI primer (0.25 lM), 0.5 lL selective EcoRI primer (0.05 lM) and 3 lL RNasefree water. Selective EcoRI primers were labelled with different colour dyes, allowing for multiplexing three primer pairs. In total, we utilized 12 labelled primer pairs for the selective amplification: MseI_CTT:EcoRI_ACA, -_AGC, -_AGG; MseI_CTC: EcoRI_ACA, -_AGC, -_AGG; MseI_CTA: EcoRI_AGG, -_ATC, -_ATT; MseI_CAT: EcoRI_AAG, -_ACA, -_AGC and performed the analysis on a Beckman Coulter CEQ 8000 capillary automatic sequencer.
+We scored the AFLP fragments automatically with GENEMARKER 1.71 (SoftGenetics), where we created a binning panel for each primer pair using the overlaid traces of all samples for fragments of 60to 400bp size, excluding doubtful and overall weak peaks. To estimate reproducibility, we calculated mismatches for each locus among all 15 repeats and thereafter excluded all loci with more than two mismatches. For each pair
+of repeated samples, one of the two repeats was randomly selected for use in analyses. Loci that were monomorphic among all the 144 individuals were excluded from further analyses. This procedure resulted in 481 reproducible and polymorphic loci for 124 Swiss individuals. All data sets used for analysis were deposited on the Dryad Digital Repository doi:10.5061/ dryad.1736.
+Phylogenetic and population genetic analyses of AFLPs
+For comparison with the mitochondrial genealogy, we constructed a neighbour-joining tree based on Euclidean distances with bootstrap values from a consensus tree for 10 000 replicates implemented in PHYLIP 3.68 (Felsenstein 2008). We did these analyses first with the entire data set and, second, by leaving out populations with putative genetic admixture, inferred from phenotypic and mitochondrial haplotype composition, to test for their effects on the phylogenetic reconstruction. In phylogenetic reconstruction using unlinked nuclear markers, populations of hybrid origin are expected to introduce an excess of apparent homoplasies that weaken the statistical support for the monophyly of parental clades (Seehausen 2004). Thus, testing for such excess homoplasies allows testing explicit hypotheses about hybridization: removal of a hybrid population from a tree reconstruction increases the support for reciprocal monophyly of the parental populations (Seehausen 2004; Herder et al. 2006). In our case, putative hybrid populations were populations in which mitochondrial haplotypes and plate phenotypes from more than one source lineage coexisted, e.g. AGS3 and the populations from the Lake Wohlen region.
+We tested for genetic admixture using an admixture model with correlated allele frequencies implemented in STRUCTURE 2.3.3 (Falush et al. 2007). We ran 20 replicatesfromK=1toK=10andaninitialburn-inof 10 000 steps followed by a MCMC chain of 100 000 iterations. We further assessed the best number of genetic clusters using the method proposed by Evanno et al. (2005). In addition, we estimated the distribution of ancestry coefficients within those populations belonging to inferred hybrid zones in the overall STRUCTURE analysis. To do so, we ran 10 replicates for K = 2 for each combination of ancestral gene pool vs. each hybrid population using the same settings as for the overall analysis. To extract principal coordinates from the aligned AFLP matrix based on a maximum Jaccard similarity matrix we used FAMD 1.108 beta (Schlu ̈ter & Harris 2006). In addition, we estimated genetic differentiation calculating pairwise FST with 10 000 bootstrap pseudoreplicates in ARLEQUIN 3.1 (Excoffier et al. 2005).
+Ó 2010 Blackwell Publishing Ltd
+INVASION AND ADMIXTURE OF SWISS STICKLEBACKS 4001
+
+4002 K. LUCEK ET AL. Results
+Phylogeography of the colonization
+The final concatenated alignment of a total of 1401 bp consisted of 965 bp of cytb and 436 bp of control region sequences. We investigated 23 populations and sequenced 3 to 27 individuals from each (mean = 11.3, SD = 6.3). Among 18 individuals from European populations outside Switzerland that we sequenced, we found seven haplotypes, of which four were new and only three were previously known. We obtained one new haplotype from Corsica (Co01; Corsican sticklebacks had not previously been sequenced). We found the EU10 haplotype fixed in a French population from the Doubs ⁄ Rhone drainage near the Swiss border, as well as coexisting with other haplotypes in the Lake Geneva system and in some other west Swiss populations. All four fish that we sequenced from Northern Germany (Aller ⁄ Weser ⁄ North Sea drainage) had the EU08 haplotype, previously described from the Weser. Four marine individuals from the Danish North Sea coast revealed three new (DK01-03) and one previously described (EU39) haplotypes from the Weser and the Thames regions of NW Europe. Among the 254 individ-
+uals sequenced from Switzerland, we found only five different mtDNA haplotypes, four of which had been identified by Ma ̈kinen & Merila ̈ (2008) from elsewhere in Europe (Fig. 1). Sequences of all new haplotypes have been deposited on GenBank (Accession No: HM590665–HM590674).
+Within Switzerland, we observed distinct mito-phylogeographic structuring of stickleback populations along a southwest to northeast axis (Fig. 1b). In the area near Basel (population AGS1), representing the original (pre-1870) range of the species in Switzerland north of the Jurassic Mountains, we found a single, previously undescribed haplotype (CH01). Another haplotype, EU27 is almost fixed in the Lake Constance area. This haplotype was previously known only from the Vistula River in Eastern Poland (Baltic Sea drainage, Fig. 1a). In the Lake Geneva system, we found the three haplotypes EU09, EU10, EU36, all of which had previously been described from the Rhone drainage in France. Hence, we found stickleback lineages from three different regions of Europe: the northeast, the northwest and the southwest. In the largest part of the Swiss range, haplotypes from more than one of these lineages were found within individual populations. The relative abundance of the different haplotypes varied between
+             Ska4
+Ska5
+Ska3
+Ska1
+Eu49
+Ska2
+Bs6
+Bs8
+Ner2 Ner1
+Bs7
+Bs5 Bs3
+Ner3
+                                             EU10
+Eu11 Ste2
+Mir2
+Eu26 Eu24
+Ri03 Eu3
+                         EU09
+EU08
+Eu6
+Eu2
+Eu48 Eu47
+Eu5
+Eu25 At5 At1
+At8
+At3
+At9
+Eu22               Eu13
+At7 At2
+Eu17
+Eu15
+Ri09
+       Eu23
+Mir3 Eu46
+Dam1 Sor1
+Eu4
+Eu18
+Eu1
+At4
+Eu14
+Eu16
+Eu41
+                                                  At6
+                                         Ste1 Mir1
+Eu7
+Eu19 Eu20           Eu50
+Eu12
+EU27
+Eu30 Eu38
+                                                          Bs4
+Bs1 Bs2
+                        Eu21
+                 Eu45
+           Sor2
+Dam2
+Dam3
+Dam4
+Eu44
+Eu28
+CH01
+Ri08 Ri04
+Eu40
+Co
+                                               Eu32
+Eu31
+Eu29
+Eu43
+                  EU36
+Eu42
+                 Eu37 Eu34
+Eu35
+         Eu33
+Fig. 3 Parsimonious phylogenetic network for all haplotypes, based on 95% connection limit. Swiss haplotypes are given in coloured circles following the scheme of Fig. 1; red highlighted haplotypes indicate marine origin. Haplotype names are congruent with Ma ̈kinen & Merila ̈ (2008).
+Ó 2010 Blackwell Publishing Ltd
+
+populations with a strong mitogenomic cline from the southwest to the northeast. The sympatry zone as defined by mitochondrial haplotypes extends from Lake Neuchatel in the west to parts of the Lake Constance region in the east. In the western part of the sympatry zone, we observed all five haplotypes, in one case (VDS2) within a single population. Rhone haplotypes predominate in the western part of the sympatry zone but quickly decrease in frequency to near-absence east of Lake Neuchatel, with two exceptions (BES1, BEL).
+We observed the highest haplotype and nucleotide diversity not in the original Swiss range of the species, but in the Lake Neuchatel region. The lowest diversity was found within the Lake Constance and the Northern Aare ⁄ Rhine regions, including the native Swiss range north of the Jurassic Mountains (Table 2). The Lake Geneva region had fairly high within-source lineage diversity, and populations in the central part of the country showed intermediate levels of diversity but presence of several source lineages. Haplotypic diversity as estimated by the Shannon index was highest in populations with lineages from multiple sources.
+A haplotype network suggests the Swiss haplotypes fall into two clusters of close haplotypes belonging to very distant branches in the European stickleback mitogenomic network (Fig. 3). Two haplotypes found in the Lake Geneva system (EU09 and EU10) are only one base pair apart, but the third (EU36) is only distantly related. Yet all three are known to coexist in close spatial proximity within the French Rhone drainage. The network shows furthermore a close genetic relationship between EU09, EU10 and a North German haplotype. Haplotypes from marine populations, including ours from Denmark, are scattered throughout the network, as expected if the marine population has vastly greater effective population size than the freshwater populations, and if most haplotypic variation observed in freshwaters has actually arisen in the sea prior to the postglacial colonization events of freshwaters, and has become sorted between freshwater drainages by founder events and ⁄ or bottlenecks (Avise 2000). In the reconstruction, we observed many loops and alternative mutational connections reflecting the recent origin of the Atlantic lineage of three-spined stickleback (Orti et al. 1994).
+Lateral plates
+The distribution of plate number morph frequencies varies tremendously across Switzerland and shows a distinct geographic trend that mirrors the trend in the distribution of mitochondrial haplotypes associated with alternative colonizing lineages (Fig. 2). The fully plated phenotype is almost fixed in the Lake Constance
+region, where haplotype EU27 is also almost fixed. In sharp contrast, most populations in the Lake Geneva system contained only or almost only low-plated individuals, and the population in the native range near Basel contained exclusively low-plated individuals. Between these ‘poles’ of the Swiss distribution range, i.e. in the central parts of Switzerland, we observed a large variety of plate morphs within populations. Here, we also found intermediate partially plated morphs with various different plate counts and combinations with or without a keel on the caudal peduncle. Interestingly, we observed two rare phenotypes, which have been seldom reported from elsewhere: LP with keel and PP without keel.
+Of the three regions of Europe that are invoked in the colonization of Switzerland, the river system in the Baltic region where the EU27 haplotype was described from before is exceptional in Europe for its stickleback populations being fixed for the fully plated morph (Banbura 1994). The Rhone and the Rhine populations outside Switzerland are all fixed for the low-plated morph. The Stn382 marker showed no deviation from HWE. We found a significant positive correlation between the proportion of Baltic mitochondrial haplotypes in populations and the proportion of the Stn382 218bp allele (R2 = 0.645, P < 0.001), which is associated with a higher number of lateral plates (Fig. 4). Using only the populations within the sympatry zone between the haplotype lineages, we find a trend in the
+INVASION AND ADMIXTURE OF SWISS STICKLEBACKS 4003
+same direction
+(R2 = 0.431,
+P = 0.055).
+Against the
+                 Fig. 4 Linear regression between the frequency of the EU27 mitochondrial haplotype and the frequency of the Stn382 218bp allele, which is related to a higher number of lateral plates. Open circles depict populations of the hybrid zone, and filled circles indicate other populations. The regression over all populations is shown as solid line (R2 = 0.645, P < 0.001), the dotted line indicates the regression for hybrid populations only (R2 = 0.431, P = 0.055).
+              Ó 2010 Blackwell Publishing Ltd
+
+ 4004 K. LUCEK ET AL. (a)
+100
+(b)
+22
+77 33
+82
+52
+100
+75 38
+26 58
+DK_M1 Corsica DK_M1
+D_S1 AGS2
+AGS1
+AGS2
+AGS1 AGS3
+39
+79
+88
+50
+55
+AGS2
+AGS1
+(c)
+Corsica DK_M1 D_S1
+30
+48
+35
+DK_M1
+Corsica D_S1
+100 97
+Constance
+AGS3
+AGS3 AGS1
+AGS1
+AGS2
+Wohlen AGS1
+Corsica DK_M1 D_S1
+AGS2 AGS1
+43/100 57/69 34/82
+35/52
+7
+61/97
+Fig. 5 (a) Neighbour-joining tree for all amplified fragment length polymorphism samples rooted on the node separating Corsica from Denmark with bootstrap values from a consensus tree with 10 000 replicates. The colour of each tip corresponds to the mtDNA haplotypes as in Fig. 1. Shape of the symbols indicates habitat: circle: lake; triangle: stream; star: pond. Drawings illustrate the different plate phenotypes found in each clade. (b) Admixed populations as inferred from mtDNA excluded; (c) as (b) but population AGS3 added (the test population); (d) as (b) but populations from Bern (BEL + BEP1) added. Nodes with a >5% change of bootstrap support after the addition of a population are highlighted either in green for increasing or red for decreasing support, the first number indicates the actual value followed by the value obtained before adding the test population. Note that nodes that were lost from the majority rule consensus tree after adding a test population are not indicated.
+(d)
+44 60
+79/97
+22
+64/52
+69 70
+100
+53/69
+79/100 41/70
+AGS3
+Constance
+Geneva Geneva
+Constance
+Geneva
+Wohlen
+Constance
+Geneva
+Wohlen
+100
+Ó 2010 Blackwell Publishing Ltd
+
+‘mitogenomic cline’, we observe smaller and larger deviations from the correlation between mitochondrial haplotype frequency and Eda-associated Stn382 allele frequency. This residual variation in the plate morphassociated Stn382 allele frequency after regressing against haplotype frequency may have emerged because of drift or can be taken as indicative of differential migration of neutral and adaptive markers between populations inside the hybrid zone and may indicate divergent selection acting on Eda, plate number or on the mitochondrial haplotype. We found no significant association between the residual variation and habitat (one factor ANOVA, F = 1.32, P = 0.264), but our statistical power to detect such an association was limited. We observed no deviation from a random association between mt haplotype and Stn382 indel allele in any of the populations that had at least one other mitochondrial haplotype besides EU27. This suggests that genetic admixture was sufficient to completely erase the historical association between these loci.
+AFLPs
+We did not find significant genetic divergence between samples from populations BEL1 and BEL2, based on our FST calculations, whereas all other populations showed significant genetic differentiation (data not shown). Hence, we pooled BEL1 and BEL2, subsequently referred to as BEL.
+An unrooted neighbour-joining tree based on the genetic distance matrix calculated from our AFLP data, contrary to the mitochondrial haplotype network, supports shared ancestry among all Swiss stickleback populations. All Swiss populations formed a monophyletic group to the exclusion of all other European populations that we sampled, even though the bootstrap support for this Swiss clade was weak (30%). The tree further supported phylogeographic structure within Switzerland (Fig. 5a). Our fish from the Lake Geneva system formed a distinct clade, separated from all populations of the Swiss Rhine drainage, although the bootstrap support was low (48%). Among the Rhine populations, all fish from the Lake Constance region formed a monophyletic group while those from the Lake Wohlen region did not. Two populations from the Northern Aare ⁄ Rhine system (AGS1, AGS2) formed one well-supported cluster, within which each population was monophyletic. Our third Northern Aare ⁄ Rhine population, AGS3 was paraphyletic with regard to the other two. Within each lake system, parapatric lake and stream populations were genetically significantly differentiated (Constance: FST = 0.096, P < 0.0001; Wohlen: FST = 0.027, P = 0.033; Geneva: FST = 0.030, P = 0.012), although this is not evident on the neighbour-joining tree.
+Our phylogenetic tree became much better resolved, with improved bootstrap support for the reciprocal monophyly of the major drainage systems when we removed those populations that contained mt haplotypes and plate phenotypes derived from more than one source lineage (Fig. 5b–d). We now observed strongly supported (97%) monophyly for the Lake Constance region and a weakly supported sister relationship of these with sticklebacks from Northern Germany (Fig. 5b). The Lake Geneva region became monophyletic as well, though with smaller support (52%). The populations from Northern Aare ⁄ Rhine made a highly supported (100%) monophyletic third clade, which is sister to the Geneva clade (82%).
+When we then added the population AGS3 to this tree, support for monophyly of Constance and each of the Northern Aare ⁄ Rhine populations was weakened considerably and their sister relationships changed, i.e. the two regions became sister clades. At the same time, support for monophyly of the Lake Geneva clade increased (Fig. 5c). This effect of including the AGS3 population is the effect predicted if the latter was of hybrid origin between the two clades of Constance and Northern Aare ⁄ Rhine, but had not received gene flow from Lake Geneva.
+When we included only individuals from the Lake Wohlen area, on the other hand (Fig. 5d), we observed weakening of the bootstrap support for all three major regional clades. The support for the Geneva clade was most strongly affected, and it became sister clade to the Northern Aare ⁄ Rhine. The Constance clade emerged from a paraphyletic Wohlen system population. This effect of the Wohlen populations is predicted if the latter were of hybrid origin between all three major Swiss regional clades.
+Principal coordinate analysis (PCO) explained 17.4% of the genetic variation on the first and 10.8% on the second axis. Here again, we recovered a strong geographic signature (Fig. 6), with a genomic cline that resembled the mitogenomic cline, and most populations clustering nearest to their geographical nearest neighbour. Consistent with the mitoand phylogenomic data, AGS3 lies intermediate between the Northern Aare ⁄ Rhine and Constance clusters, whereas Wohlen populations are situated between those from Constance, Geneva and the Northern Aare ⁄ Rhine region. Hence, the populations with elevated phenotypic diversity were resolved as genetically intermediate to two or three groups of populations that were phenotypically undiverse but different, i.e. their putative source populations.
+This was further supported by individual-based genetic assignments obtained using STRUCTURE. Here, the determination the best number of genetic clusters following Evanno et al. (2005) proposes either two or four
+Ó 2010 Blackwell Publishing Ltd
+INVASION AND ADMIXTURE OF SWISS STICKLEBACKS 4005
+
+4006 K. LUCEK ET AL.
+Fig. 6 Principal coordinate analysis based on a maximum Jaccard similarity for 481 amplified fragment length polymorphism loci of all Swiss individuals.
+                                                         clusters. The case of K = 2 seems to be an artefact though, as K = 3 showed higher variation in the likelihood of each run. Assuming K = 2, we obtained one cluster consisting of all our individuals from the Lake Constance system, and the other one consisting of our fish from the Lake Geneva system and the Northern Aare ⁄ Rhine region. As we increased K to K = 3, the individuals sampled from the phenotypically homogeneous populations from the Geneva, Northern Aare ⁄ Rhine and Constance regions became almost exclusively assigned to a different distinct genetic cluster (Fig. 7). The phenotypically diverse Wohlen populations were resolved as a genetic admixture between these three clusters with a dominant influence of the Constance region cluster. Furthermore, the AGS3 population was resolved as a genetic admixture between the Constance and Northern Aare ⁄ Rhine regions with similar contributions of each. For K = 4, the general pattern resembles the clustering with K = 3 with few individuals from the Rhine drainage being assigned to a fourth genetic cluster. In addition, we observed two possible outcomes for K = 3 based on the obtained estimated likelihoods: )12 062 (SD: 10.2) in 75% of all cases and )12 581 (SD: 104.0) in 25% of all cases. The ancestry coefficient differed between the two inferred hybrid zones (Fig. S1). AGS3 showed a unimodal distribution, suggesting a complete admixture. The lake Wohlen system on the other hand showed a distribution that is not normal but strongly biased towards Constance-like genotypes with many individuals being either completely assigned to the Constance cluster or resembling F1 hybrids with backcrosses towards the Constance cluster. The predominance of the Constance cluster is even more pronounced when compared to AGS1. In addition, using only AGS1 and the Geneva region, STRUCTURE clusters these two gene pools together contrasting the Wohlen individuals. Thus, the Wohlen region resembles a recent contact zone with a larger
+contribution from the Constance lineage and lesser contributions from the Basel and the Geneva regions.
+Discussion
+Intraspecific hybridization has been proposed to facilitate the emergence of adaptive evolutionary novel traits, not expressed by each parental lineage (Ellstrand & Schierenbeck 2000; Seehausen 2004). We indeed find this to be true for the three-spined sticklebacks of Switzerland as indicated by their variability in the number of lateral plates, representing phenotypic potential to adapt to different predation regimes in different habitat types (Reimchen 1994). The extent of phenotypic diversity and the range of habitats occupied by this species are remarkable because the diversity observed emerged within less than 140 generations. The occurrence of elevated phenotypic diversity combined with higher genetic diversity further suggests that hybridization may have played a key role in the fast invasion event of sticklebacks.
+Invasion history
+Originally naturally restricted by the steepest section of the Rhine, where it cuts through the Jurassic Mountains (Fig. 1c), the three-spined stickleback has rapidly spread through Switzerland in the past 140 years. Three different introductions are historically reported (Fig. 1). Our data suggest that each of these introductions involved fish from very different European regions, making Switzerland a recent zone of secondary contact between Baltic, Western European and Mediterranean sticklebacks.
+Sticklebacks from the French Rhone were introduced near Lake Geneva in the west and sticklebacks from the Baltic drainage to Lake Constance in the east. The third source of the Swiss stickleback invasion derives from
+Ó 2010 Blackwell Publishing Ltd
+
+ (a)
+(b)
+(c)
+K =2
+K= 3
+K= 4
+INVASION AND ADMIXTURE OF SWISS STICKLEBACKS 4007
+Fig. 7 Individual assignment based on 481 amplified fragment length polymorphism loci using STRUCTURE (a) assignment plots for K = 2 to K = 4; (b) estimated likelihood for each run plus SD; (c) estimation of DK following Evanno et al. (2005).
+the Basel area where stickleback populations have been reported prior to these introductions. This probably represents the original middle Rhine lineage that has been native to the extreme northwest of Switzerland. Our study population AGS1 from this region is fixed for a new mtDNA haplotype and for the low-plated phenotype. The latter is consistent with the first description of
+this population from over 130 years ago (Fatio 1882). This population also fits the well-established pattern that all freshwater populations in Western Europe, including those in the Rhine, are fixed for the low plated morph (Mu ̈ nzing 1963).
+The mitochondrial lineage now found in the eastern part of Switzerland is otherwise known only from the
+Ó 2010 Blackwell Publishing Ltd
+
+4008 K. LUCEK ET AL.
+southern Baltic Sea drainage, the only region in mainland Europe where resident freshwater populations are fixed for the fully plated morph (Banbura 1994; Mu ̈nzing 1963; Fig. 1a). Consistent with this likely geographical source of the haplotype lineage, Swiss populations in this region are nearly fixed for this north-eastern haplotype and are also nearly fixed for the fully plated phenotype. In the Lake Geneva system, we observe higher haplotypic diversity, but all three haplotypes found here have previously been described coexisting in several sites in the French Rhone drainage south of Lake Geneva (Ma ̈kinen & Merila ̈ 2008). This suggests that Swiss populations in this drainage basin likely originated from the Mediterranean Rhone. These sticklebacks are fixed for the low plate morph, which is indeed by far the most frequent phenotype in the Lake Geneva region, with some populations almost fixed for it. However, other populations in the Lake Geneva area are polymorphic with regard to plate numbers. Subsequently, we refer to the above three groups as the Baltic, Rhine and Rhone lineages in Switzerland.
+All three lineages experienced significant geographical expansion within Switzerland in the past 140 years, probably enhanced by human activity. As the lineages expanded, they came into secondary contact with each other in western and central Switzerland. This secondary sympatry is associated with considerably increased phenotypic variation relative to regions where only one lineage is present (Fig. 2b). Much of this increased phenotypic variation is probably the direct result of conversion of between-population divergence into within-population variation. In the case of lateral plates, this may represent an increase of adaptive phenotypic potential given the number of studies indicating its adaptive value (Barrett et al. 2008, 2009; Marchinko 2009). For one population in the Lake Geneva system (VDL2), we have evidence that potential adaptive within-population variation has increased recently. Bertin (1925) sampled several hundred individuals from a location near population VSS1 and found them fixed for the low-plated morph. In addition, examining 440 museum samples from the Lake Geneva system dating from 1913 to 1984, we did not observe a single example of either the PP or the FP phenotype (Lucek unpublished data). In contrast, we observed in our stream population, a few individuals (<3%) showing partialplated phenotypes or completely plated phenotypes and found the lake population VDL2 to be highly polymorphic with 32.5% partial plated fish or completely plated fish. It is likely that this difference in phenotype frequencies and diversity is because of recent gene flow across the watershed from the nearby Rhine drainage to Lake Geneva, possibly aided by human activity. This would only have been possible after the Baltic lineage
+of invading sticklebacks expanded into the Swiss midlands. Human-mediated gene flow across water sheds may have occurred in other cases too as indicated by several isolated populations fixed for a haplotype lineage not found otherwise or only at small frequencies within the region investigated, such as populations BES1 or BLP1.
+Genetic admixture
+Based on plate phenotypes and the mitochondrial haplotypes, we identified two putative hybrid zones between colonizing lineages: the region extending from Lake Neuchatel to Bern in the central part of the country, and the region containing population AGS3 in the Northern Aare ⁄ Rhine region. Our data suggest that large-scale genetic admixture occurred upon contact of the different lineages. Strong support for this assertion comes first from the wider range of plate phenotypes in regions of putative admixture with intermediate phenotypes present at high frequencies, whereas such intermediates are almost entirely absent from the ranges of the source populations within Switzerland. Intermediate phenotypes are obtained by crossing low plated individuals and fully plated individuals (Mu ̈ nzing 1963; Barrett et al. 2008). In contrast to this, we observe very little variation in plate phenotypes in populations with mitochondrial lineages derived from a single European region. Secondly, the AFLP analysis resolves individuals from populations in the putative hybrid zones as genetically intermediate between the presumed ancestral populations in phylogenetic and PCO analysis. Here, AGS3 is intermediate to the populations from the Basel and the Lake Constance regions, whereas the Bern populations are intermediate to all three putative source populations. This is entirely consistent with the frequency distribution of mitochondrial haplotypes in populations in these regions.
+Examining bootstrap support for populations in our AFLP tree further supports a hybrid origin of the populations of western ⁄ central Switzerland. Hybrid taxa introduce apparent homoplasies into multilocus phylogenetic estimates, resulting in reduced support for branches that define the parental taxa, while other branches are not affected (Seehausen 2004; Herder et al. 2006). When we estimated a phylogeny from AFLP data excluding all populations with mitochondrial haplotypes from more than one European region, we obtained a well-resolved nuclear tree with monophyly of all those populations derived from one colonizing lineage as defined by mtDNA. However, when we included populations with mitochondrial haplotypes from more than one European region, support for the monophyly of populations of the putative parental lin-
+Ó 2010 Blackwell Publishing Ltd
+
+eages decreased considerably. In addition, our STRUCTURE analyses suggest that gene flow among the three ancestral genetic clusters has been very limited (Fig. 7). This is further reflected in the PCO analysis, where ancestral lineages form clearly distinct clusters. Hence it appears that stickleback range expansion towards the central part of Switzerland occurred from three points in the periphery.
+Although our AFLP data are limited to few populations, using our approach of excluding other phenotypically or mitochondrially diverse populations, we were able to identify admixture zones. Nevertheless, it remains possible that we have failed to account for additional undocumented introductions from elsewhere, which might be indicated by the likelihood of four genetic clusters in STRUCTURE. On the other hand, the likelihood of K = 4 could be affected by the increased variance of K = 3, which could be because of the occurrence of two different independent hybrid zones present in our analysis. This is further supported with the observed distribution of ancestry coefficients in Fig. S1, where AGS3 shows a unimodal distribution between the Rhine and the Baltic lineage, suggesting complete admixture of the two lineages. In the Lake Wohlen region on the other hand, where the Baltic lineage contributed more than the Rhine and Rhone lineages, admixture between these is rather incomplete. It may be that secondary contact has only recently been established.
+Conversion of between-population to within-population genetic variation, while not necessarily of adaptive relevance in its own right, may facilitate invasion through increasing evolutionary potential of populations by elevating standing adaptive genetic variation as raw material for selection to act on (Lavergne & Molofsky 2007; Rieseberg et al. 2007; Seehausen 2004). Because some of the three founding populations of the Swiss stickleback invasion were historically fixed for alternative antipredator defence traits, hybridization upon secondary contact may have indeed played such a role here, as it would facilitate rapid adaption to environments with majorly different predation regimes. We identified cases with different predation regimes for several populations—for instance in the site BEP1 sticklebacks coexist with an occasional pike but no other piscivorous fish but with many dragonfly larvae, whereas in the nearby population BES3 they coexist with three species of piscivorous fish including brown trout and pike at large densities. The same differentiation in predation pressure can be found in other population pairs such as in the Lake Neuchatel region, where the lake dwelling population is exposed to high levels of piscivorous predation (Lucek personal observation). Selection on lateral plates is thought to vary
+strongly between the kinds of environments that sticklebacks have colonized in Switzerland: high numbers of bony lateral plates provide protection against gape-limited predators such as fish and birds and may hence be advantageous for stickleback populations occupying larger water bodies such as large lakes (Reimchen 1994). This might be responsible for our rather unusual observation of maintenance of the fully plated phenotype in freshwater sticklebacks for more than 140 years in Lake Constance and might account for an increase in this phenotype in one population in the Lake Geneva region. Low plated phenotypes on the other hand are advantageous in habitats with high dragonfly predation pressure (Marchinko 2009) because they afford fewer opportunities for insects to hold a stickleback. Alternatively, the unusual freshwater FP phenotype could have been fixed by relaxed selection in the ancestral Baltic population and further spread by drift to a large extent in Switzerland. In recently colonized areas, phenotypic variation may persist because of a relaxation of constraints compared to the ancestral populations if selection pressure is weakened. Nonetheless, the recent rapid spread of the FP phenotype in the Lake Geneva system together with the occurrence of an array of new plate-related phenotype combinations hints at the adaptive potential associated with this trait.
+Conclusions
+Three-spined stickleback populations of Switzerland provide an example of a recent invasion following multiple introductions from unrelated source populations, and genetic admixture between these. Because these source lineages were phenotypically very different, such admixture resulted in neutral and adaptive genetic variation in the invasive range that by far exceed those in either founding lineage. In fact, the phenotypic adaptive variation by far exceeds that known from anywhere within the indigenous range of the species in Europe, even though we have here only studied one phenotypic trait. Further investigation on divergent adaptation between contrasting environments within and outside the admixture zone is ongoing to test hypotheses about the adaptive value of the variable traits.
+Acknowledgements
+This study was supported by an EAWAG Action field grant ‘AquaDiverse’, and by a Swiss National Science Foundation Grant to OS. We thank the cantonal authorities of the cantons of Aargau (T. Stucki), Basel Land (I. Bloch), Bern (P. Friedli), St. Gallen (G. Ackermann), Thurgau (R. Kistler), Valais (P. Scheibler) and Vaud (F. Hofmann) as well as the Corsican fishery authorities for collecting permits. We further thank M. Haesler,
+Ó 2010 Blackwell Publishing Ltd
+INVASION AND ADMIXTURE OF SWISS STICKLEBACKS 4009
+
+KL studies the processes involved in biological invasions and successive adaptation and speciation, using the three-spined stickleback as a model system. DR is interested in phenotypic adaptations during ecological speciation events. EB is an evolutionary geneticist interested in the mechanisms involved in adaptation, speciation and the dynamics of biodiversity, particularly during adaptive variations. AS studies the causes and mechanisms incipient speciation, and the ecological drivers of population genetic structure. OS is interested in processes and mechanisms implicated in the origins, maintenance and loss of species diversity and adaptive diversity.
+INVASION AND ADMIXTURE OF SWISS STICKLEBACKS 4011 Supporting information
+Additional supporting information may be found in the online version of this article.
+Fig. S1 Ancestry coefficient (AC) plots for the two putative hybrid populations identified.
+Please note: Wiley-Blackwell are not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+  Ó 2010 Blackwell Publishing Ltd

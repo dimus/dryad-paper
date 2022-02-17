@@ -1,0 +1,178 @@
+  The Robustness and Restoration of a Network of Ecological Networks
+Michael J. O. Pocock et al.
+Science 335, 973 (2012);
+DOI: 10.1126/science.1214915
+This copy is for your personal, non-commercial use only.
+   If you wish to distribute this article to others, you can order high-quality copies for your colleagues, clients, or customers by clicking here.
+Permission to republish or repurpose articles or portions of articles can be obtained by following the guidelines here.
+The following resources related to this article are available online at www.sciencemag.org (this information is current as of June 8, 2012 ):
+Updated information and services, including high-resolution figures, can be found in the online version of this article at:
+http://www.sciencemag.org/content/335/6071/973.full.html
+Supporting Online Material can be found at: http://www.sciencemag.org/content/suppl/2012/02/22/335.6071.973.DC1.html http://www.sciencemag.org/content/suppl/2012/02/23/335.6071.973.DC2.html
+This article cites 71 articles, 10 of which can be accessed free: http://www.sciencemag.org/content/335/6071/973.full.html#ref-list-1
+This article has been cited by 1 articles hosted by HighWire Press; see: http://www.sciencemag.org/content/335/6071/973.full.html#related-urls
+This article appears in the following subject collections: Ecology http://www.sciencemag.org/cgi/collection/ecology
+ Science (print ISSN 0036-8075; online ISSN 1095-9203) is published weekly, except the last week in December, by the American Association for the Advancement of Science, 1200 New York Avenue NW, Washington, DC 20005. Copyright 2012 by the American Association for the Advancement of Science; all rights reserved. The title Science is a registered trademark of AAAS.
+Downloaded from www.sciencemag.org on June 8, 2012
+
+ REPORTS
+7. K. Newton, X. Sun, V. M. Dixit, Mol. Cell. Biol. 24, 1464 (2004).
+                                                                                                                                                                                          The Robustness and Restoration of a
+Network of Ecological Networks
+Michael J. O. Pocock,*† Darren M. Evans,‡ Jane Memmott
+Understanding species’ interactions and the robustness of interaction networks to species loss is essential to understand the effects of species’ declines and extinctions. In most studies, different types of networks (such as food webs, parasitoid webs, seed dispersal networks, and pollination networks) have been studied separately. We sampled such multiple networks simultaneously in an agroecosystem. We show that the networks varied in their robustness; networks including pollinators appeared to be particularly fragile. We show that, overall, networks did not strongly covary in their robustness, which suggests that ecological restoration (for example, through agri-environment schemes) benefitting one functional group will not inevitably benefit others. Some individual plant species were disproportionately well linked to many other species. This type of information can be used in restoration management, because it identifies the plant taxa that can potentially lead to disproportionate gains in biodiversity.
+relevance, is how the robustness of different species’ interaction networks varies and whether it covaries. This is particularly important given the current rate of species’ declines and extinctions (3) and its consequent impact on ecosystem function. Currently, understanding of species’ interaction networks is mostly limited to partial subsets of whole ecosystems [but see (4, 5)]. However, studying the interdependence of different networks is important (6) and can alter our perspective on network fragility, a fact already shown with nonecological examples (7). Moreover, this approach can be used to identify keystone species in the overall network; if these species are made
+School of Biological Sciences, University of Bristol, Woodland Road, Bristol BS8 1UG, UK.
+*To whom correspondence should be addressed. E-mail: michael.pocock@ceh.ac.uk
+†Present address: NERC Centre for Ecology & Hydrology, Crowmarsh Gifford, Wallingford, Oxfordshire OX10 8BB, UK. ‡Present address: Department of Biological Sciences, Hardy Building, University of Hull, Cottingham Road, Hull HU6 7RX, UK.
+ All species are embedded in complex networks of interactions (1). Modeling food webs, and more generally, species’ inter-
+action networks, has advanced the understanding of the robustness of ecosystems in the face of species loss (1, 2). A key question, of applied
+www.sciencemag.org SCIENCE VOL 335 24 FEBRUARY 2012 973
+Downloaded from www.sciencemag.org on June 8, 2012
+
+ REPORTS
+974
+24 FEBRUARY 2012 VOL 335
+SCIENCE www.sciencemag.org
+the focus of restoration efforts, then disproportionate gains for biodiversity are a real possibility. In our study, we overcame the logistical constraints of studying multiple species’ interaction networks in order to more fully test for variation in their robustness and fragility. Our networks comprised 1501 quantified unique interactions between a total of 560 taxa, comprising plants and 11 groups of animals: those feeding on plants (butterflies and other flower visitors, aphids, seedfeeding insects, and granivorous birds and mammals) and their dependants (primary and secondary aphid parasitoids, leaf-miner parasitoids, parasitoids of seed-feeding insects, and rodent ectoparasites) (Fig. 1). We selected these groups because sampling their interactions is tractable in the field; they encompass a wide taxonomic and functional range; and they include animals regarded as bioindicators, such as birds and butterflies (8, 9), and as ecosystem service providers, such as pollinators and parasitoids (10, 11) (table
+S1). The networks thus included trophic (12), mutualistic (13), and parasitic (4) interactions. Previously, these networks have only been studied in isolation because they are logistically difficult to sample and because most terrestrial ecologists focus on only a taxonomic subset of species (such as birds, butterflies, or bumblebees).
+We worked at the whole-farm scale on a 125-ha farm (Norwood Farm, Somerset, UK) and undertook replicated sampling in all habitats, both cropped and noncropped, over 2 years (14). The abundance of each of the 560 taxa was quantified from field surveys. Interaction frequencies in most networks were quantified directly from field sampling (and thus represent a sample of each taxon’s realized niche). Logistical constraints stopped us from identifying leaf-mining insects, so leaf-miner parasitoids were treated as if they were linked directly to host plants [thus assuming them to be generalist on leaf-miners that were host-specific; an approach justified in
+(14)]. For birds, mammals, and butterflies, their interactions with plants were based on prior knowledge of their interactions (from the literature) and were quantified with models of foraging behavior [details in (14); and thus approximated the taxon’s realized niche]. Intensive study of a single site, as in many other food web studies [such as (15, 16)], provided us with spatiotemporal replication across habitats and seasons and with detailed data that we could not have obtained from extensive surveys of multiple farms. We sampled this particular farm because we expected it to be relatively biodiverse (it was managed organically at relatively low intensity and was subject to an agri-environment scheme). This allowed us to simulate species loss from a biodiverse site, which provided stronger inference than if we had simulated the gain of (by definition, unrecorded) species from a low-diversity site.
+We evaluated the robustness of 11 groups of animals, comprising each trophic level in the
+Downloaded from www.sciencemag.org on June 8, 2012
+Seed granivorous bird
+Seed rodent ectoparasite
+101
+101
+101
+Plant leaf-miner parasitoid
+Seed insect seed-feeder parasitoid
+Fig. 1. Species’ interaction networks at Norwood Farm, Somerset, UK. The entire network of networks is shown at top left (in which each circle represents one species), and quantitative visualizations are shown for each of the seven quantified individual networks (in which each block is a species, and the width of blocks of each color represents relative abundance). Details
+of the networks are given in table S1 and (14). Dark green and light green circles and blocks indicate noncrop and crop plants, respectively, whereas other colors indicate animal groups. Scale bars indicate the abundance of animal taxa. Plants are scaled in proportion to their interactions with animals in each network.
+Flower flower visitor
+Flower butterfly
+104
+102
+106 107
+106
+105 105
+Plant aphid aphid parasitoid
+Primary aphid parasitoid Secondary aphid parasitoid
+
+ seven linked networks, by simulating the sequential removal of plant taxa 20,000 times (14). In our model, animal taxa became disconnected (a “secondary extinction”) when all their food spe-
+Fig. 2. The average ro1.0 bustness of the 11 animal
+groups (median R T 90% confidence interval). The
+cies became extinct; depending on the animal group, this was either plants or the animals they preyed on. In simulating the loss of plants, we used an established method (12, 17) and assumed
+bottom-up rather than top-down regulation of the animals, as justified by (18). This ecologically informed approach has practical application, because plants can be managed more directly [such as through field rotations or via agri-environment schemes (19)] than can putative animal bioindicators. We considered two complementary models of robustness: (i) where all taxa were weighted equally (RS) (17) and (ii) the quantitative equivalent, where taxa were weighted by their abundance (RQ) (20), calculating R as the average area under the curve of the secondary extinctions against primary extinctions across the 20,000 simulations (21). Given this approach, our models can be interpreted equally as representing the cascading negative effects of plant loss and the cascading positive effects of plant restoration.
+We found that under randomized sequences of loss of plant taxa, the bird seed-feeder, rodent seed-feeder, rodent ectoparasite, and secondary aphid parasitoid networks were most robust (R→1; Fig. 2). The robustness of the first two networks was derived from literature-based interactions, so they represent the entire realized niche rather than a sample of the realized niche, whereas the third depended on a network derived from literature-based interactions. However, all of our reported conclusions are robust to the exclusion of literature-derived networks and to variation in sampling efficiency [supporting online material (SOM) part 5 and tables S4 and S7]. Aphid,
+colored bars, matching the colors in Fig. 1, show RS and the adjoining white bars show RQ. As R→1, animal groups are increasingly robust to the simulated sequential loss of plant taxa, whereas for animal groups with low robustness, R→0.5.
+0.8
+0.6
+0.4
+0.2
+0.0
+Fig. 3. Correlations between ABCD
+the robustness of animal groups and the simulated loss of plant taxa in networks of the farmland species’ interaction network. The robustness of flower visitors to one random sequence of plant loss is the area under the curve for (A) the qualitative case and (B) the quantitative case. The pairwise correlations in robustness varied in the 20,000 simulations of the sequential loss of plant taxa, as two examples (C and D) show. These pairwise correlations were summarized to show the connectivity between all animal groups, considering (E) RS and (F) RQ.
+1111
+E
+Seed−feeding
+Seed−feeding
+0.5
+0.5
+0.5
+F
+0.5
+r=0.56
+Seed−feeding insects
+Leaf−miner parasitoids
+Aphid parasitoids (secondary)
+Seed−feeding insects
+Leaf−miner parasitoids
+RS
+0.5 1 Plant taxa lost (%)
+RQ
+0.5 1 Plant taxa lost (%)
+r=0.74
+0.5 1 RS of seed−feeder
+parasitoids
+Seed−feeder parasitoids
+0.5 1 RS of leaf miner
+parasitoids
+Seed−feeder parasitoids
+Aphid parasitoids (primary)
+Aphids
+Aphid parasitoids (secondary)
+Aphid parasitoids (primary)
+Aphids
+www.sciencemag.org
+SCIENCE
+VOL 335
+24 FEBRUARY 2012
+975
+birds
+Seed−feeding rodents
+birds
+Seed−feeding rodents
+Rodent ectoparasites
+Flower visitors
+Butterflies
+Rodent ectoparasites
+Flower visitors
+Butterflies
+Correlations 1.00 0.75 0.50 0.25 0.00
+REPORTS
+Species lost (%)
+Interactions lost (%)
+Flower visitors Butterflies Leaf−miner parasitoids Aphids Primary aphid parasitoids Secondary aphid parasitoids Seed−feeding birds Seed−feeding rodents Rodent ectoparasites Seed−feeding insects Seed−feeder parasitoids
+RS of butterflies
+RS of aphids
+Downloaded from www.sciencemag.org on June 8, 2012
+Robustness (R)
+
+ REPORTS
+insect seed feeder, and pollinator networks appeared more fragile (R→0.5; Fig. 2). We tested whether robustness was related to other network metrics (table S4). We found that network robustness was related to network generalization [the relationship of H2′, a measure of niche differentiation (22, 23), to RS: b = –0.903, t9 = –2.316, P = 0.046, and to RQ: b = –0.545, t9 = –6.131, P < 0.001]. We also found that network robustness was not related to network complexity [the relationship of eH2 , a measure of interaction diversity (22, 23), to RS: b=0.018,t9 =0.231,P=0.823,andtoRQ:b= 0.099, t9 = 1.769, P = 0.111]. Our findings provide no positive support for the long-debated relationship between complexity and stability, in common with other empirical studies (24). The relationship of robustness to generalization is probably to be explained through the nestedness that
+1.0
+0.5
+0.0
+-0.5
+-1.0
+is characteristic of many ecological networks and which confers robustness on networks (24, 25).
+Although the animals in the networks all depended (directly or indirectly) on plant taxa, we found that the robustness of some networks covaried, but overall the covariance was less than expected as compared to a null model (Fig. 3 and SOM part 3). None of the correlations was substantially negative (minimum r = – 0.05; table S5), so sequences of plant loss that were relatively benign for one animal group were never consistently unfavorable for another group. Although some individual pairwise correlations were strongly positive (Fig. 3, E and F), these correlations were between animal groups that were linked either trophically (such as fleas and rodents) or through shared resources (such as butterflies and seed-feeding insects that shared plant hosts).
+The practical implication of these findings for our agroecosystem is that agri-environmental management of plants that is targeted to produce cascading positive effects for one animal group (such as farmland insect pollinators) will have varying (but not systematically negative) effects on other animal groups. Such results have indeed been found with empirical assessments of agrienvironment scheme success more generally (26).
+Our approach, considering the robustness of the linked networks, provides information on the network of networks. To reveal the varying importance of individual species within these linked networks, we identified the most important plants within the networks: keystone (27) plant taxa that have substantial and disproportionate cascading effects across the multiple networks (Fig. 4). In practical terms, this information could be used to focus restoration management on plant taxa with the greatest potential to achieve efficient and positive results for biodiversity and the resultant ecosystem services. We found that the taxa that were most important relative to their abundance [that had the most influence on modeled robustness across the networks (14)] tended to (i) be nonwoody taxa, (ii) occur in noncropped ground, and (iii) be members of the Apiaceae and Asteraceae families (Fig. 4, table S6, and fig. S3). Agrienvironmental policies encouraging plants with high relative importance could provide benefits for biodiversity and so potentially support ecosystem service provision, but because some of these plants are typically regarded as farmland weeds, this could be controversial. Any such policies would need to consider how these relationships are affected by the local farming system and landscape context (28), and would need to consider the balance of practicality (how these plants are affected by agricultural practice, including arable crop rotations), cost (impacts on crop yield/ profitability and detrimental effects on rare farmland plants of conservation concern), and benefits (cascading effects on biodiversity and, potentially, ecosystem services).
+Agricultural change has been one of the main drivers of biodiversity loss in recent times (29), and yet during this period the importance of ecosystem services provided by biodiversity, even in intensive agricultural systems, has become well recognized (30). Our approach, which included empirically constructing multiple linked networks for cropped and seminatural habitat at a whole-farm extent and modeling their response to environmental change, could become increasingly important for research on biodiversity and ecosystem services. The optimist’s scenario, of management targeted to benefit one animal group and inevitably resulting in multiple benefits for many different groups, was not supported by our modeling of empirical species’ interaction data from this site. Therefore, in order to bring benefits to a wide range of taxa, it is essential to have focused and ecologically informed management, such as the targeted management of specific plant taxa based on their cascading effects within a network of networks.
+  1 0.5 0
+0.5
+0
+F
+-1.0
+-1.5 -2.0 -2.5 -3.0 -3.5
+ A
+                                                                                                   B (rij)2=0.10
+E (rij)2=0.00
+0 50 0 50 100
+C (rij)2=0.15
+  D (rij)2=0.02
+           =∑() =
+         G
+                                                                                                                                                23456
+     976
+24 FEBRUARY 2012 VOL 335 SCIENCE www.sciencemag.org
+Fig. 4. The relative importance of the plants in the Norwood Farm network of quantified networks. (A) The relative importance of the plants varied by habitat with colors from white to red representing increasing abundance, as shown in (G), and was calculated as shown in this workflow (B to G). The importance of each species of plant ( j ) for each animal group ( i ) was the coefficient of determination (rij2); that is, the square of the correlation coefficient, between the calculated robustness with plants removed in random order and the position of the plant in that order, as exemplifed for (B) Rubus fruticosus and butterflies, (C) Anthriscus sylvestris and flower visitors, (D) Persicaria spp. and birds, and (E) Anthriscus sylvestris and leafminer parasitoids. (F) The weighted sums of these coefficients of determination across groups (g) gave the importance (I) of each plant taxon; in this case, the groups were weighted according to their uniqueness (SOM part 4). (G) Abundance [assessed as leaf area of the plants (14, 31)] was strongly related to importance for a subset of plant taxa, so the relative importance of each plant taxon (RI) was calculated as the residual from the steeper regression line (determined by a two-component mixture regression model), exemplifed by Cirsium vulgare (Cv), Anthriscus sylvestris (As), and Hordeum vulgare (Hv).
+Downloaded from www.sciencemag.org on June 8, 2012
+
+ REPORTS
+M. J. O. Pocock, D. M. Evans, J. Memmott, Agric. Ecosyst. Environ. 135, 279 (2010).
+Acknowledgments: J. Brooks helped throughout the project, and 14 field assistants helped with field and laboratory work; 15 taxonomists (listed in SOM text) assisted with species’ identification; and Cate Le Grice-Mack (the landowner) gave full support throughout the project. The authors declare no competing interests. The interaction data are available from the Dryad Digital Repository, doi:10.5061/dryad.3s36r118. The project was supported by the Biotechnology and Biological Sciences Research Council (grant no. BBD0156341) and
+the Department for Environment, Food and Rural Affairs (grant no. BD2303).
+Supporting Online Material
+www.sciencemag.org/cgi/content/full/335/6071/973/DC1 Materials and Methods
+SOM Text
+Figs. S1 to S4
+Tables S1 to S7 References (32–80)
+6 October 2011; accepted 19 December 2011 10.1126/science.1214915
+ www.sciencemag.org
+SCIENCE
+VOL 335
+24 FEBRUARY 2012 977
+Downloaded from www.sciencemag.org on June 8, 2012

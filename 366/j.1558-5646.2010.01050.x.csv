@@ -1,0 +1,12 @@
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Drosophila,65130,65141,4.89,1,,,,Exact,0,Drosophila,Drosophila,8NPBW,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila,
+1,,Drosophila melanogaster,72945,72968,9.57,2,,,,Exact,0,"Drosophila (Sophophora) melanogaster Meigen, 1830",Drosophila melanogaster,8BXCZ,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophila|Sophophora|Drosophila melanogaster,
+2,,Edulis,37912,37918,4.05,1,,,,Exact,0,Trichosanthes sect. Edulis Rugayah,Edulis,1007748-1,167,IPNI,,
+3,,M. edulis,33562,33572,6.99,2,,,,NoMatch,,,,,,,,
+4,,M. edulis locus,10193,10208,8.39,3,,,,NoMatch,,,,,,,,
+5,,M. trossulus,41979,41991,7.08,2,,,,NoMatch,,,,,,,,
+6,,Melanogaster,73820,73832,3.07,1,,,,Exact,0,Melanogaster,Melanogaster,87J6P,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Syrphidae|Eristalinae|Brachyopini|Chrysogaster|Melanogaster,
+7,,Mytilus,2094,2102,4.96,1,,,,Exact,0,"Mytilus Linnaeus, 1758",Mytilus,7P9G3,1,Catalogue of Life,Biota|Animalia|Mollusca|Bivalvia|Autobranchia|Pteriomorphia|Mytilida|Mytiloidea|Mytilidae|Mytilinae|Mytilus,
+8,,Mytilus data,18614,18626,7.77,2,,,,PartialExact,0,"Mytilus Linnaeus, 1758",Mytilus,7P9G3,1,Catalogue of Life,Biota|Animalia|Mollusca|Bivalvia|Autobranchia|Pteriomorphia|Mytilida|Mytiloidea|Mytilidae|Mytilinae|Mytilus,
+9,,Mytilus edulis,1825,1840,12.34,2,,,,Exact,0,"Mytilus edulis Linnaeus, 1758",Mytilus edulis,73T5L,1,Catalogue of Life,Biota|Animalia|Mollusca|Bivalvia|Autobranchia|Pteriomorphia|Mytilida|Mytiloidea|Mytilidae|Mytilinae|Mytilus|Mytilus edulis,
+10,,Mytilus experiments,23885,23905,4.93,2,,,,PartialExact,0,"Mytilus Linnaeus, 1758",Mytilus,7P9G3,1,Catalogue of Life,Biota|Animalia|Mollusca|Bivalvia|Autobranchia|Pteriomorphia|Mytilida|Mytiloidea|Mytilidae|Mytilinae|Mytilus,

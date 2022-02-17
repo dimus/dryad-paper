@@ -1,0 +1,12 @@
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,A. cerana,4946,4956,6.96,2,,,,NoMatch,,,,,,,,
+1,,A. florea,4914,4924,6.05,2,,,,NoMatch,,,,,,,,
+2,,A. mellifera,4873,4887,6.88,2,,,,NoMatch,,,,,,,,
+3,,Apis cerana,14993,15004,10.88,2,,,,Exact,0,"Apis cerana Fabricius, 1793",Apis cerana,FMYD,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Apinae|Apini|Apis|Apis cerana,
+4,,Apis dorsata,14904,14916,11.47,2,,,,Exact,0,"Apis dorsata Fabricius, 1793",Apis dorsata,FMZF,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Apinae|Apini|Apis|Apis dorsata,
+5,,Apis florea,14955,14966,9.98,2,,,,Exact,0,"Apis florea Fabricius, 1787",Apis florea,FMZZ,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Apinae|Apini|Apis|Apis florea,
+6,,Apis mellifera,9577,9591,10.80,2,,,,Exact,0,"Apis mellifera Linnaeus, 1758",Apis mellifera,FN46,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Apinae|Apini|Apis|Apis mellifera,
+7,,Apis mellifera capensis,167,190,16.09,3,,,,Exact,0,"Apis mellifera capensis Eschscholtz, 1822",Apis mellifera capensis,5FQ3S,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Apinae|Apini|Apis|Apis mellifera,
+8,,Apis mellifera scutellata,6810,6835,17.43,3,,,,Exact,0,"Apis mellifera scutellata Lepeletier, 1836",Apis mellifera scutellata,5FQ4G,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Apinae|Apini|Apis|Apis mellifera,
+9,,Brassica napa,8194,8209,0.65,2,,,,Fuzzy,,,,,,,,
+10,,Insects,324,331,1.13,1,,,,Exact,0,Insects,Insects,3747023,168,ION,,

@@ -1,0 +1,369 @@
+         ORIGINAL ARTICLE
+SCALE-SPECIFIC SEX-BIASED DISPERSAL IN THE VALAIS SHREW UNVEILED BY GENETIC VARIATION ON THE Y CHROMOSOME, AUTOSOMES, AND MITOCHONDRIAL DNA
+Glenn Yannic,1,2,3 Patrick Basset,1,4 Lucie Bu ̈ chi,1 Jacques Hausser,1 and Thomas Broquet5,6 1Department of Ecology and Evolution, University of Lausanne, CH-1015 Lausanne, Switzerland
+2De ́partement de Biologie and Centre for Northern Studies, Universite ́ Laval, Que ́bec, Que ́bec G1V 0A6, Canada
+3E-mail: glenn.yannic@gmail.com
+4Service de Me ́decine Pre ́ventive Hospitalie`re, Centre Hospitalier Universitaire Vaudois, 1011 Lausanne, Switzerland 5CNRS, UMR 7144, Team Div & Co, Lab. Adaptation et Diversite ́ en Milieu Marin, Station Biologique de Roscoff, 29682 Roscoff, France
+6UPMC Univ. Paris 06, UMR 7144 AD2M, Station Biologique de Roscoff, 29682 Roscoff, France
+Received September 1, 2011
+Accepted December 1, 2011
+Data Archived: Dryad doi:10.5061/dryad.8k3423ts
+We investigated sex specificities in the evolutionary processes shaping Y chromosome, autosomes, and mitochondrial DNA patterns of genetic structure in the Valais shrew (Sorex antinorii), a mountain dwelling species with a hierarchical distribution. Both hierarchical analyses of variance and isolation-by-distance analyses revealed patterns of population structure that were not consistent across maternal, paternal, and biparentally inherited markers. Differentiation on a Y microsatellite was lower than expected from the comparison with autosomal microsatellites and mtDNA, and it was mostly due to genetic variance among populations within valleys, whereas the opposite was observed on other markers. In addition, there was no pattern of isolation by distance for the Y, whereas there was strong isolation by distance on mtDNA and autosomes. We use a hierarchical island model of coancestry dynamics to discuss the relative roles of the microevolutionary forces that may induce such patterns. We conclude that sex-biased dispersal is the most important driver of the observed genetic structure, but with an intriguing twist: it seems that dispersal is strongly male biased at large spatial scale, whereas it is mildly biased in favor of females at local scale. These results add to recent reports of scale-specific sex-biased dispersal patterns, and emphasize the usefulness of the Y chromosome in conjunction with mtDNA and autosomes to infer sex specificities.
+KEY WORDS: Dispersaldistance,F-statistics,hierarchicalgeneticstructure,isolationbydistance,Sorexantinorii.
+The forces driving genetic variation and evolutionary change often differ when involving males versus females: sex-linked differences in mutation rates, recombination, selection, genetic drift, and gene flow are frequent (for a review see Hedrick 2007). These differences can have major consequences in ecology and evolution (e.g., to predict a population’s demography, to anticipate the risks associated with genetic drift in endangered populations, or to understand the evolution of sex chromosomes) and a lot of effort
+has thus been devoted to their measure. A fruitful approach of this problem is to use comparative data from sex-linked genes or from uniparentally inherited genes, for example, Y chromosome and mitochondrial DNA, transmitted through males and females only, respectively.
+However, although there has been a large interest in using the Y chromosome in combination with the mtDNA or autosomal markers for resolving phylogenetic or phylogeographic issues
+doi:10.1111/j.1558-5646.2011.01554.x
+ ⃝C 2012 The Author(s). Evolution ⃝C 2012 The Society for the Study of Evolution. 1 7 3 7 Evolution 66-6: 1737–1750
+
+         G. YANNIC ET AL.
+(Braendli et al. 2005; Hellborg et al. 2005; Roca et al. 2005; Lawson Handley et al. 2006a; Yannic et al. 2008a; Vega et al. 2010; McDevitt et al. 2011), much fewer studies have used information from the Y chromosome to explore sex-linked differences in the microevolutionary forces shaping the fine-scale genetic structure of populations. This is mostly explained by the lower polymorphism of the Y chromosome compared to other regions of the genome, which makes it difficult to find sufficiently variable markers for most species (International SNP Map Working Group 2001; Hellborg and Ellegren 2004; Lawson Handley et al. 2006b). Studies focusing on humans (Hammer 1995; Seielstad et al. 1998; Hammer et al. 2003) or other primates (Eriksson et al. 2006; Hammond et al. 2006; Douadi et al. 2007; Guschanski et al. 2008) are notable exceptions due to the efforts devoted to human genetics (but see also, Flagstad et al. 2003; Musiani et al. 2007; Sacks et al. 2008 for recent results in canids). Nevertheless, recent genome sequencing efforts led to the easier identification of polymorphic markers on the Y chromosome in nonmodel species (for a recent methodological review see, Greminger et al. 2010), suggesting that Y-linked genetic data may actually be successfully compared more broadly to other genetic data in population genetics.
+Contrasting fine-scale analyses of genetic structure from the Y chromosome to other genomic regions should be particularly well suited to investigate differential gene flow between sexes (Petit et al. 2002; Lawson Handley and Perrin 2007). Sex-biased dispersal can be efficiently identified using data from a single genomic region when preversus postdispersal individuals can be recognized and sampled, using autosomal data (Vitalis 2002; Fontanillas et al. 2004) or mtDNA (Cooper et al. 2010). When this sampling design is not feasible, one can still detect sex biases by comparing the postdispersal autosomal structure of males versus females (Goudet et al. 2002) or by contrasting information from autosomes and mtDNA (review in Prugnolle and DeMeeus 2002), but in that case comparing genetic markers on genomic regions transmitted by only males versus only females might prove more informative. In the present study we focus on a mammal species, but similar investigations may be conducted with different systems (e.g., maternally inherited mtDNA vs. paternally inherited chlorolastic DNA in gymnosperms, Ennos 1994; Latta and Mitton 1997).
+In mammals, any sex-linked differences in dispersal patterns should be reflected in the contrast in genetic structure shown by mtDNA and the Y chromosome, because effective gene flow for these genomic regions is driven by one sex only (as long as recombination is suppressed on the Y; Petit et al. 2002; Lawson Handley and Perrin 2007). Such comparisons between different sources of genetic information appear particularly relevant regarding recent findings suggesting that sex-biased dispersal can depend upon spatial scale. Fontanillas et al. (2004) found that dispersal in the
+greater-white toothed shrew (Crocidura russula) is female biased at local scale (among breeding groups within population) while it is unbiased at larger spatial scale (among populations). Similarly, Gauffre et al. (2009) showed that male common voles (Microtus arvalis) disperse much more than females at a local scale (within colonies), but that dispersal at a larger scale is balanced among sexes. A similar pattern was found in another rodent (Ctenodactylus gundi) by Nutt (2008). Finally, Douadi et al. (2007) found that both male and female western lowland gorillas (Gorilla gorilla gorilla) disperse among breeding groups, but that only males disperse at a larger spatial scale. Some of these studies were primarily based upon autosomal data (nuclear microsatellites), others used mtDNA haplotypes (Nutt 2008) or a combination of mtDNA and Y-linked data (Douadi et al. 2007). Combining genetic data from the Y chromosome and from mtDNA should prove especially powerful to identify such scale-dependent sex-linked differences in dispersal. On the downside, however, signatures of sex-biased dispersal on sex-specific genetic markers may be obscured by sex-linked differences in other evolutionary forces. First, mutations are more frequent on the Y than the X chromosome or autosomes, mostly due to the greater number of cell divisions in the male compared to the female germ line (Ellegren 2007). Second, uniparentally inherited nonrecombining genomic region may also be strongly affected by directional selection through genetic hitchhiking (Maynard Smith and Haigh 1974; Kaplan et al. 1989) and/or background selection (Charlesworth et al. 1993), which may have some impact on the genetic structure as recorded by presumably neutral markers (see, Galtier et al. 2009). Finally, the intensity of genetic drift can be different across sex-linked genomic regions when a species’ sex ratio is uneven or when the variance in reproductive success among individuals is sex biased. For instance in male-heterogametic species, polygyny can decrease male effective population size and thus increase the level of drift for the (nonrecombining region of the) Y chromosome as compared to the level of drift expected solely from the number of Y copies in the population (Wade and Shuster 2004; Broquet et al. 2009a). Whether the effects of sex specificities in dispersal versus selection, mutation, and drift on sex-linked markers can be disentangled is bound to vary among empirical study cases.
+Here, we investigated the premise that a comparison of data from genomic regions with male-specific versus female-specific inheritance is useful to identify sex-biased dispersal at different spatial scales. To this end, we completed and reanalyzed data from autosomal microsatellite markers, a polymorphic Y-linked microsatellite marker, and a highly variable mtDNA control region previously used for phylogeographic inferences (Lugon-Moulin and Hausser 2002; Yannic et al. 2008b) in a small mammal, the Valais shrew Sorex antinorii. A pattern of female-biased dispersal (unusual among mammals, Greenwood 1980; Lawson Handley and Perrin 2007) was previously suggested for this species (Fivaz
+ 1738 EVOLUTION JUNE2012
+
+         Figure 1. Sampling sites across the Rhoˆne Valley. Black and white symbols represent populations assigned to the West and East clades in Yannic et al. (2008b). Populations with the same symbols (i.e., square, circle, diamond, or triangle) belong to the same valley.
+et al. 2003). However, this hypothesis was based upon genetic variation for a mixture of individuals from distinct clades that were later identified (Fig. 1; Yannic et al. 2008b) and thus needs reassessment. Furthermore, the Valais shrew is predominantly found in a mountainous area, where individuals are clustered into different valleys separated by inhospitable habitat. This gives a natural spatial hierarchy for this species, with breeding groups nested into valleys. The distribution of dispersal probabilities in this hierarchical system remains to be investigated.
+Our specific goals were (1) to contrast the spatial distribution of the genetic variance of maternally, paternally, and biparentally inherited markers in the Valais shrew, and (2) to use this combination of genetic data to identify sex specificities in the evolutionary processes at work in S. antinorii, with particular focus on sex-specific dispersal at different spatial scales.
+Material and Methods
+STUDY SPECIES
+Sorex antinorii is a small insectivorous species belonging to the S. araneus group (Meylan and Hausser 1973). It was formerly considered as a chromosome race of S. araneus but Bru ̈nner et al. (2002) argued that morphological, karyotypic, and genetic differences warrant recognizing it as a separate species. Its currently known distribution is restricted to Italy, Southern Switzerland up to the central Alps and Southeastern France (Bru ̈nner et al. 2002). The species inhabits a variety of habitats, including woodland, grassland, and alpine moorland. Shrews are strictly territorial for
+most of their life, defending their territory ferociously (CroinMichielsen 1966; Churchfield 1990). Young immature shrews can successfully overwinter only if they have managed to secure a sufficiently high-quality territory in the autumn (Croin-Michielsen 1966; Churchfield 1990). Shrews breed from April to September, but most young are produced in June and July (Churchfield 1990). The number of adults in the population declines throughout the summer months, with virtually all of them disappearing from the population by late October and November. Generations are thus not overlapping. Animals surviving until the next breeding season produce one or two litters on average before they die (Churchfield 1990). This shrew presents a promiscuous mating system: each litter is sired by 3.3 fathers on average (up to 6; Stockley et al. 1993). Shortly after weaning the young are completely independent and leave the territory of the mother (Churchfield 1990). Preand postdispersal individuals cannot easily be identified, which means that approaches based upon the comparison of preand postdispersal genetic structure (Vitalis 2002; Fontanillas et al. 2004; Cooper et al. 2010) cannot be used to evaluate sex biases in dispersal.
+FIELD AND GENETIC SAMPLING
+We reanalyzed the dataset that was used in the context of phylogeographic analyses (see Yannic et al. 2008b for details) and completed the mitochondrial dataset by sequencing 31 additional individuals. The study area (Fig. 1) is located in a mountainous region of southern Switzerland (Canton of Valais) and northern Italy (Aoste Valley). A hierarchical sampling was performed: our
+SCALE-SPECIFIC SEX-BIASED DISPERSAL
+ EVOLUTION JUNE2012 1739
+            lake Léman
+1
+FRANCE
+2
+SWITZERLAND
+9
+10
+17 16
+15
+   5
+6
+4 3
+ITALY
+Valais
+13
+8 11
+7 12
+14
+                           Rhône Valley
+
+         G. YANNIC ET AL.
+Table 1. Sampling sites and number of individuals genotyped at eight autosomal markers (Naut), a microsatellite from the Y chromosome (NY), and a sequence from the mitochondrial control region (Nmt). The phylogeographic clade to which each population belongs is also indicated (see Material and Methods).
+ Valley
+Valle ́e de Trient
+Site
+Coordinates (Long./Lat.)
+6.985◦ /46.067◦ 7.150◦ /45.854◦
+7.184◦ /45.834◦ 7.195◦ /45.897◦
+7.245◦ /46.133◦ 7.250◦ /46.137◦
+7.488◦ /46.046◦ 7.505◦ /46.079◦
+7.770◦ /46.392◦ 7.795◦ /46.407◦
+7.957◦ /46.087◦ 7.956◦ /46.073◦
+8.058◦ /46.193◦ 8.016◦ /46.234◦ 8.049◦ /46.252◦ 8.052◦ /46.289◦ 8.066◦ /46.293◦
+Alt. (m)
+1214
+1970
+1650
+1940
+1710 1489
+1810 1460
+1490 1420
+1712 1816
+1460
+1930
+1940
+1600
+1540
+Naut NY Nmt Clade
+  1 Foreˆt de Teˆte Noire Saint-Bernard
+2 Fromagerie
+3 San Rhemy
+4 Bourg Saint-Bernard
+Mayens de Riddes
+5 Haut des Mayens
+6 Bas des Mayens
+Val d’Herens
+7 Satarama
+8 Les Haude`res
+Lo ̈ schental
+9 Chastlerra
+10 T a ̈ n n e r w e i d e
+Saastal
+11 Saas-Almagell 1
+12 Saas-Almagell 2
+Simplon
+13 Simplon-Village
+14 Ancien Hospice
+15 Simplon Tunnel
+16 Howald
+17 Berisal
+Total
+17 sampling sites belong to seven distinct valleys. Samples were collected during the period of juvenile dispersal, from September to December of the years 2000–2005. Overall, 213 individuals were used here (details in Table 1, note that the small sample sizes are representative of the actual size of populations of shrews in alpine habitat). Genetic data were obtained for (1) eight autosomal dinucleotide microsatellite loci (number of individuals genotyped at these autosomal loci NAut = 213) designated L9, L45, L57, L67 (Wyttenbach et al. 1997) and L14, L33, L68, L92 (Balloux et al. 1998); (2) a Y chromosome trinucleotide microsatellite (NY = 96) named L8Y (Balloux et al. 2000); (3) a 370 bp portion of the mtDNA control region (Nmt = 150, accession numbers EU384701EU384665 from Yannic et al. 2008b and GU562293GU562295 for the 31 newly sequenced individuals) obtained with primers L16517 (Fumagalli et al. 1996) and H00651 (Kocher et al. 1989).
+Previous phylogeographic results indicated that the analyzed area comprises two genetically differentiated clades (hereafter termed “West” and “East”) with distinct colonization histories
+22 7
+12 6 12 8 16 5
+6 3 9 5
+26 14 8 3
+13 4 14 7
+11 4 11 5
+11 5 13 6 8 5 12 4 9 5
+213 96
+13 West
+6 West
+6 West – West
+6 West 8 West
+22 West 6 West
+13 East 14 East
+11 East 11 East
+6 East 6 East 6 East 7 East 9 East
+150
+             (Yannic et al. 2008b). All analyses were thus performed separately for each clade (i.e., for sampling sites 1–8 and 9–17, see Fig. 1 and Table 1) to avoid confounding effects linked to secondary contact history. The mean Euclidean distance between populations within a valley is 6.8 ± 5.0 km (mean ± SD; min: 0.3 km and max: 19.4 km) and the mean distance between populations from different valleys is 49.5 ± 21.9 km (min: 14.1 km and max: 87.1 km).
+HIERARCHICAL DISTRIBUTION OF THE GENETIC VARIANCE
+The global gene diversity HT of autosomal, Y-linked, and mitochondrial data were estimated following Nei (1987) as implemented in FSTAT version 2.9.4 (Goudet 1995). To compare the genetic structure obtained from data for the Y chromosome, autosomes, and mtDNA, the distribution of genetic variance among sampling sites within valleys (FSV) and among valleys (FVT) was estimated through a hierarchical analysis of variance (AMOVA) as implemented in ARLEQUIN version 3.1 (Excoffier et al. 2005).
+ 1740 EVOLUTION JUNE2012
+
+         The valley “Valle ́e de Trient” was excluded from hierarchical analyses, as only one site was sampled in this valley (site 1 in Table 1). AMOVA were based on conventional F-statistics (i.e., using allelic or haplotypic frequencies, not the distances between alleles or between sequences), and significance was assessed by 10,000 permutations. We investigated the distribution of genetic variation in the five following systems: autosomal microsatellites on individuals of each sex independently and of both sexes combined, Y chromosome microsatellite, and mtDNA control region.
+To evaluate the relative roles of the microevolutionary processes at play, it is useful to compare observed patterns of genetic structure to the predictions of a simplified system that can be treated analytically. We derived such expectations (see Appendix) for haploid loci in a hierarchical island model. In the model, individuals are clustered into subpopulations themselves nested into different valleys, with migration occurring between subpopulations within valleys (with rate m1) or among valleys (m2). Replacing withinand among-valleys probabilities of identity by descent by FST and FVT into equations (A6) and (A7), we obtained the following general expressions for migration rates:
+∼ (n − 1)FVT(1 − FST)
+m1 = 2N(FST − FVT)(FST + (n − 1)FVT) (1)
+m2∼= 1−FST −μ, (2) 2N(FST +(n−1)FVT)
+where n is the number of subpopulations per valley, N is local subpopulation effective size (taken to be identical in males and females, see Discussion), and μ is the mutation rate. Observed F-statistics from our Y-linked and mitochondrial loci thus lead to estimates of m1 and m2 for males and females. Absolute migration values are of little interest because they depend upon unknown parameters of the model (especially n and N). Rather, we used equations (1) and (2) to compare the values that male versus female migration rates can possibly take in any scenario. To this end, we explored the parameter space for sexand scale-specific migration rates for a virtually unlimited range of values for n and N (both parameters were allowed to vary between 1 and 1000, a range encompassing any possible situations where m1 and m2 are predicted to lie in the interval [0–1]).
+Mutation rates may be very different between Y chromosome microsatellites and mtDNA sequences. In the Sorex genus, the divergence rate for the right domain of the mtDNA control region was estimated to 8.3–14.3% Myr−1 (Stewart and Baker 1994), yielding a mutation rate of 1.5–2.7 × 10−5 substitution/locus/generation for the 370 bp mitochondrial region that we sequenced. There is no information on Y mutation rate for Sorex species. In humans, similar microsatellite diversity and mutation rate for the Y chromosome and the autosomes were found (Hurles and Jobling 2001; Kayser et al. 2004). For instance, mutation rate
+for microsatellites located on the Y chromosome was estimated to μY = 2 × 10−3/locus/generation by Gusmao et al. (2005), a value as high or higher than that of autosomal microsatellites, and about 100-fold higher than mtDNA mutation rate. We therefore repeated the parameter space exploration described above for μmt = 10−5 and μY = 10−5 or 10−3. This analysis was performed independently for clades West and East.
+ISOLATION BY DISTANCE
+A hierarchical spatial structure should, by definition, introduce some heterogeneity in density and dispersal patterns, possibly altering isolation by distance (IBD) processes. On the other hand, IBD signatures are robust to departures from ideal conditions (e.g., heterogeneous density, Leblois et al. 2004). In a two-dimensional space and at the adequate spatial scale, IBD is characterized by a linear relationship between pairwise genetic distances (FST /(1 FST ) among populations and the logarithm of Euclidean geographic distances (Rousset 1997). This relationship was tested using Mantel (1967) tests based on 10,000 permutations using the R software (R Development Core Team 2008). We performed analyses of IBD for the five following systems: autosomes from both sexes combined, autosomes from females only, autosomes from males only, mtDNA control region, and Y-linked microsatellite.
+To avoid potentially confounding effects of colonization history in our study area (Yannic et al. 2008b), these IBD analyses were performed using pairs of populations belonging to the same clade. To do so, we extracted from our genetic and geographic distance matrix, the pairs of populations belonging to the same clade. Mantel tests and regression models were then performed using these pairs only.
+Our datasets were slightly biased in favor of females (West clade: 60 females/51 males and East clade: 57 females/45 males; Table 1), which could affect the power of male-based versus female-based analyses. To control for such effects in analyses of autosomal data, we repeated the tests on a series of 100 resampled datasets in which a random set of females were left out to obtain equal numbers of males and females per sample. For the same reason we also repeated the mtDNA IBD analyses using males only, to check for an effect of sample size on the comparison of Y versus mtDNA IBD patterns.
+TEST OF SEX-BIASED DISPERSAL USING AUTOSOMAL DATA
+Autosomal lineages are reshuffled between males and females following reproduction at each generation. However, Goudet et al. (2002) showed that a strong sex bias in dispersal leaves a signature in the sex-specific genetic structure measured from autosomal markers. Following Goudet et al. (2002), we estimated for each sex the F-statistics FIS and FST (i.e., we did not consider the valley
+SCALE-SPECIFIC SEX-BIASED DISPERSAL
+   EVOLUTION JUNE2012 1741
+
+         G. YANNIC ET AL.
+Table 2. Hierarchical analyses of molecular variance of the eight autosomal microsatellites (for females only, males only, and overall), the mtDNA control region, and the Y chromosome microsatellite L8Y. Differentiation across valleys: FVT, among sampling sites within valleys: FSV, and global differentiation among sampling sites: FST.
+   Source of variation
+Autosomes
+Within sampling sites Among sampling sites
+Within valleys
+Among valleys
+Autosomes F
+Within sampling sites Among sampling sites
+Within valleys
+Among valleys
+Autosomes M
+Within sampling sites Among sampling sites
+Within valleys
+Among valleys
+mtDNA control region
+Within sampling sites Among sampling sites
+Within valleys
+Among valleys
+Y chromosome
+Within sampling sites Among sampling sites
+Within valleys Among valleys
+West
+% of total variation
+96.61
+1.47 1.91
+96.76
+2.37 1.88
+96.46
+0.47 3.07
+86.68
+0.22 13.10
+91.87
+6.14 1.99
+Fixation indices1
+FST = 0.034∗∗∗ FSV = 0.015∗ FVT = 0.019∗∗∗
+FST = 0.042∗∗∗ FSV = 0.024∗ FVT = 0.019∗∗
+FST = 0.035∗∗∗ FSV = 0.005 NS FVT = 0.031∗∗
+FST = 0.165∗∗∗ FSV = 0.035∗ FVT = 0.135∗∗
+FST = 0.082∗∗∗ FSV = 0.080∗ FVT = 0.003 NS
+East
+% of total variation
+92.80
+1.99 5.21
+92.77
+1.77 5.46
+90.92
+4.34 4.74
+72.44
+7.06 20.50
+86.48
+11.24 2.27
+Fixation indices1
+FST = 0.072∗∗∗ FSV = 0.021∗∗ FVT = 0.052∗∗∗
+FST = 0.072∗∗∗ FSV = 0.019∗ FCT = 0.055∗∗∗
+FST = 0.091∗∗∗ FSV = 0.046∗∗ FVT = 0.047∗∗∗
+FST = 0.276∗∗∗ FSV = 0.089∗ FVT = 0.205∗∗
+FST = 0.135∗∗ FSV = 0.115∗ FVT = 0.023 NS
+              1NS = not significant;∗P ≤ 0.05,∗∗P ≤ 0.01,∗∗∗P ≤ 0.001.
+level for this analysis, see Discussion), the average relatedness of individuals within a population relative to the whole sample r = 2FST /(1 + FIT ), and the mean and variance of assignment scores (mAIc and vAIc). FST, r, and mAIc are expected to be higher in the philopatric sex, whereas FIS and vAIc should be lower. The significance of sex-linked differences in these statistics was assessed using 10,000 randomizations in the software FSTAT. Here again, sex-biased sample sizes could strongly affect the results. We therefore repeated the resampling procedure described above (these section IBD) using 20 iterations.
+Results
+HIERARCHICAL DISTRIBUTION OF THE GENETIC VARIANCE
+Similar levels of total gene diversity were found on markers from the autosomes, the Y chromosome, and mtDNA (HT,aut = 0.87; HT,Y = 0.90 and HT,mt = 0.94). Therefore, comparing the spatial
+distribution of the genetic variance estimated from these different classes of markers is meaningful.
+The hierarchical AMOVA for both sexes combined based on autosomal microsatellite data revealed that the majority of the genetic variance (>90%) was attributable to individual variation within sampling sites (similar results were obtained for the two clades; Table 2). Independent analyses on autosomal microsatellite for males and females gave very similar partitioning of variance and fixation indices for the two sexes and for the two clades (autosomal FST in the interval [0.035–0.091] and FVT in [0.019–0.055], Table 2).
+On the Y chromosome a higher proportion of genetic variance was due to differences among populations (FST = 0.08 and 0.13 for East and West clades), but the highest levels of genetic differentiation among populations were found for mtDNA data (FST = 0.17 and 0.28). Moreover, partitioning further the amongpopulation component of variance revealed striking differences between mtDNA against Y chromosome. For mtDNA, most of
+ 1742 EVOLUTION JUNE2012
+
+          0.3
+0.2
+0.1
+0
+m1 West
+m1 East
+sented by a finite number of subpopulations nested in an infinite number of valleys, the F-statistics that we observed for Y and mtDNA data could only be compatible with a dispersal bias in favor of females at local scale, and an opposite and stronger bias at a larger scale.
+IBD
+IBD analyses revealed contrasting results depending upon the sexes and the genomic region used (Table 3 and Fig. 3). Despite the marked hierarchical patterns described above, autosomal pairwise genetic distances among populations were significantly correlated with Euclidean distances for both sexes combined (Fig. 3A), and for females and males separately (Fig. 3B and C). Similarly, mtDNA data revealed a significant IBD pattern (Fig. 3D). In contrast, there was no significant IBD for the Ylinked microsatellite (Fig. 3E). Equalizing the number of females to the number of males in the samples did not alter the result obtained with autosomal microsatellites (all P-values < 0.007 over 100 resampled datasets). Similarly, sample size did not alter IBD results for Y-linked and mtDNA data, because the mtDNA analysis based only upon males did not affect the result strongly (Mantel test for IBD P < 0.002).
+Regression slopes for autosomal data were much lower than for mtDNA, and they did not differ (as shown by their largely overlapping confidence intervals, Table 3) when obtained using data from both sexes combined, or separately for each sex (Fig. 3A–C). However, the geographic distances among samples when using only females explained almost three times more variance in the genetic differentiation than when using only males.
+TEST OF SEX BIAS IN DISPERSAL USING AUTOSOMAL DATA
+Specific tests undertaken for sex-biased dispersal based on neutral autosomal markers failed to detect any difference between the sexes for either the mean-corrected assignment index or its variance, for estimates of population structure (FST and r) and for FIS (all tests were nonsignificant and similar results were obtained for the two clades independently). Neither equalizing the number of males and females in the samples (for 20 random replicates) nor pooling samples from the West and East clades to double the sample size did alter these results (all tests remained nonsignificant).
+Discussion
+The key finding reported in this article is the contrast in genetic structure for paternally versus maternally and biparentally inherited makers. This suggests differences in the evolutionary forces at play in male versus female shrews. We develop below the interpretation of these results indicating scale-specific sex-biased
+SCALE-SPECIFIC SEX-BIASED DISPERSAL
+                 mfemale
+        F i g u r e
+2 .
+Sex-specific migration
+rates estimated
+from observed
+0 0.1
+mmale
+m2 East m2 West
+0.2 0.3
+Y chromosome and mtDNA genetic structure under a hierarchical
+island model. Blue areas represent the solutions for sex-specific
+migration rates within valleys (m1, eq. 1) for clades West and East
+(dark and light blue, respectively). Green areas represent the so-
+lutions for migration rates among valleys (m2, eq. 2). The regions
+plotted represent all positive solutions to equations (1) and (2)
+applied to males and females for n (the number of subpopula-
+tions per valley) in [10–1000] and N (the local subpopulation ef-
+fective size), in [1–1000], μmt = 10−5 and μY = 10−3 or 10−5. The
+dotted lines give an example for interpreting this figure: a hypo-
+thetical within-valley female migration rate mfemale of about 0.17
+1
+would be compatible with observed F-statistics values in clade
+West only if the within-valley male migration rate mmale lies in 1
+the interval [0.02–0.07], depending upon unknown parameters in equation (1) (n and N). This figure shows that observed Y and mtDNA F-statistics can be reconciled under a hierarchical island model only if short-scale dispersal (m1) is mildly biased toward females and large-scale dispersal (m2) is strongly biased toward males, regardless of model unknowns.
+the variance was found among valleys (FVT), whereas a small proportion of variance was found among populations within valleys (FSV, Table 2). In contrast, for the Y chromosome most of the variance was found among populations within valleys and a small and nonsignificant proportion of the variation was due to differentiation among valleys (Table 2).
+These contrasted patterns for the hierarchical distribution of the genetic variance in mtDNA versus Y data resulted in marked differences in scaleand sex-specific migration rates predicted from a hierarchical island model. Figure 2 shows that migration within valleys should be consistently lower in males than in females whereas migration among valleys should be consistently much higher in males regardless of assumed values for unknown parameters of the model. In other words, in a simple system repre-
+ EVOLUTION JUNE2012 1743
+
+         G. YANNIC ET AL.
+Table 3. Pairwise relationships between genetic and Euclidian geographic distances. N = number of sampling sites (and sample size) for West (W) and East (E) clades. The percentage of the variance explained by the model, R2, with the P-value associated are given.
+  Autosomes both sexes
+Autosomes females Autosomes males mtDNA
+Y chromosome
+R2
+0.333, P < 0.001
+0.289, P < 0.001 0.128, P < 0.01 0.188, P < 0.001 0.003, P = NS
+Slope × 10−2 (95% CI) 1.85 (1.19, 2.47)
+2.05 (1.18, 2.88) 1.93 (0.67, 3.12) 8.7 (3.97, 13.5) 1.23 (−4.38, 6.04)
+N
+W: 8 (111); E: 9 (102)
+W:8(60);E:9(57) W:8(51);E:9(45) W:7(67);E:9(83) W:8(51);E:9(45)
+   dispersal patterns, and discuss in particular how hierarchical and IBD analyses can be reconciled.
+Hierarchical Distribution of the Genetic Variance: Strong Contrast
+between the Y Chromosome, Autosomes, and Mitochondrial DNA Similar levels of global gene diversity were obtained for Y, mtDNA, and autosomal data. As expected in absence of any sex bias in neutral evolutionary forces, the overall differentiation among populations estimated from mtDNA was roughly four times higher than the average over eight autosomal loci (FST, Table 2). Differentiation on the Y, however, was only about half that of mtDNA. This discrepancy was further supported when including one additional hierarchical level in variance analyses: populations were significantly different among valleys for mtDNA but not for Y-linked data (Table 2). Disentangling the relative roles of the different evolutionary forces that can produce such sex-linked differences is generally a difficult task. However, the combination of three types of markers here provides useful information about the relative roles of selection, drift, mutation, and gene flow.
+If we were to consider only the global structure (i.e., FST values ignoring the valley level, Table 2), our results showing twice as much differentiation for mtDNA as for the Y chromosome could first be explained by directional selection, which could wipe out the differentiation on the Y chromosome marker through genetic hitchhiking. However, in that case we would expect to find a reduced diversity on the Y chromosome marker (e.g., Hellborg and Ellegren 2004; Gerrard and Filatov 2005), a prediction opposed by the consistently high total diversity estimated across all markers (HT,aut = 0.87; HT,Y = 0.90 and HT,mt = 0.94). The number of alleles found at Y chromosome (19 alleles) was similar to the average for autosomal loci (20.28 averaged over eight autosomal loci, min: 8 and max: 40) and lower than the number of observed haplotypes for mtDNA (34 haplotypes). These results have parallels in studies of humans (Hurles and Jobling 2001; Kayser et al. 2004) and baboons (Lawson Handley et al. 2006b), where microsatellite diversity or mutation rate are similar between the Y chromosome and autosomes.
+Second, a lower level of genetic drift in males against females (i.e., higher Ne of male) could have resulted in a globally lower differentiation on the Y chromosome. However, our fieldsampling data showed no evidence for larger male than female census sizes (44.5% males overall populations, Table 1), and this species is closest to S. araneus (Bru ̈nner et al. 2002), which has a promiscuous mating system (Stockley et al. 1993), with equal Ne for males and females. Moreover, other possible mating systems for this species would decrease male effective population size as compared to female’s (most shrew species are polygynous, Churchfield 1990), and therefore increase population differentiation on the Y chromosome, a pattern opposite to the one observed here.
+Third, mutation rates may be very different between different types of markers (e.g., 100 times higher on Y chromosome and autosome microsatellites than on mtDNA control region, see Methods for details) and may thus influence marker-specific global genetic differentiation. Without specific information on autosomal and Y-linked microsatellite mutation rates, the role of mutation cannot a priori be ruled out.
+Finally, observed FST patterns could be explained by malebiased dispersal. Hence, looking only at the global differentiation (census nonhierarchical), we are left with strong presumptions against sex specificities in selection and drift, suggesting a role for mutation and/or dispersal sex biases. But the striking contrast in Y chromosome versus mtDNA hierarchical genetic structure clearly points to sex-linked differences in dispersal patterns. Most of the genetic variance on the Y chromosome is found at the lowest level (within valleys), whereas the opposite is true for mtDNA. This observation cannot be easily reconciled with sex-linked differences in selection, drift, or mutation. Sex antagonisms in any of these forces could affect the global genetic structure of the system but not inverse male versus female patterns at different hierarchical levels. We fitted our data using a hierarchical island model assuming nearly equal male and female local effective deme sizes, no selection, and either no difference or a 100-fold difference in mutation rates on the Y and mtDNA markers. Under these conditions, our observations of genetic structure could be obtained only if short-scale dispersal is mildly biased toward females (e.g., 1.5–3 times higher when n >50, Fig. 2) and
+ 1744 EVOLUTION JUNE2012
+
+ A) Autosomal microsatellites
+R2 = 0.333, p < 0.001
+101234
+log DMi1stance
+B) Autosomal microsatellites on females
+R2 = 0.289, p < 0.001
+C) Autosomal microsatellites on males
+R2 = 0.128, p < 0.01
+101234 101234
+log DMi1stance D) mtDNA control region
+R2 = 0.188, p < 0.001
+log DMi1stance
+E) Y-chromosome microsatellite
+R2 = 0.003, p = NS
+101234 101234
+large-scale dispersal is strongly biased toward males (e.g., eight to 30 times higher when n > 50). As it turned out, because mutation rates are small compared to other parameter values, even a 100-fold difference between Y and mtDNA mutation rates had negligible effects. This result is qualitatively insensitive to unknown parameters of the model (in particular, number of demes within valleys and local deme size), and it is remarkably con-
+sistent across the two datasets considered independently (West and East clades). Finally, this conclusion appeared robust to the assumptions underlying the approximation for Qˆ 1 and Qˆ 2 (eqs. A6 and A7): numerical approximations for migration rates using the exact system (eqs. A3 and A4, data not shown) for a large range of n and N values did not lead to any solutions outside the figure described above (short-scale dispersal mildly biased
+log Distance log Distance
+M2 M1
+Figure 3. Isolation-by-distance patterns. (A) Genetic distances estimated from autosomal microsatellites; (B) genetic distances estimated from autosomal microsatellites for females only; (C) genetic distances estimated from autosomal microsatellites for male only; (D) genetic distances estimated from mtDNA control region; (E) genetic distances estimated from Y-linked microsatellite. The data and regression curve estimated from autosomal microsatellites in (A) are added to panels B–E to help comparing the results in spite of scale variations (autosomal data in light gray). For each model, the percentage of the variance explained by the model, R2, with the P-value associated are given.
+SCALE-SPECIFIC SEX-BIASED DISPERSAL
+FST/(1-FST) FST/(1-FST) FST/(1-FST) M7 M4 M3
+0.2 0.0 0.2 0.4 0.6 0.8
+0.10 0.05 0.00 0.05 0.10 0.15 0.20 0.10 0.05 0.00 0.05 0.10 0.15 0.20
+FST/M(16-FST)
+0.2 0.0 0.2 0.4 0.6 0.8
+FST/(M15-FST)
+0.10 0.05 0.00 0.05 0.10 0.15 0.20
+EVOLUTION JUNE2012 1745
+
+         G. YANNIC ET AL.
+toward females and large-scale dispersal strongly biased toward males).
+Hierarchical Distribution of the Genetic Variance, or Continuous IBD?
+The Valais shrew is found in a mountainous region, where the distribution of suitable habitats within and between valleys results naturally in a hierarchical species distribution. The partition of the genetic variance at these two spatial scales indeed suggested that there is a spatial discontinuity in the evolutionary processes, which we think is most likely due to sex specificities in dispersal patterns. It seems therefore that IBD, which assumes both a homogeneous density across space and homogeneous dispersal (in the sense that the distribution of dispersal distances should be unchanged in all directions), may not be an adequate analysis framework (but see Fontanillas et al. 2004). Moreover, a strict spatial hierarchy would effectively create two classes of genetic distances associated with two broad classes of geographic distances (within vs. among valleys). This could theoretically result in an apparent IBD pattern even if distance did not have any effect. However, it is likely that both distance and the distribution of valleys interact here in their effect on dispersal, so that both the hierarchical and IBD analysis framework may provide relevant information.
+As it turned out, IBD regressions (i.e., ignoring the valley level) showed intriguing results (Fig. 3). Observed genetic differentiation on mtDNA increased rapidly with geographic distances while there was no such increase on Y data (Fig. 3D and E). In case of IBD, the expected slope for differentiation of haploid data 1/(2Dπσ2), where D is the effective density and σ2 is the variance of axial dispersal distances (chapter 3, Rousset 2004), is twice that of diploids. Assuming equal effective density for males and females and similar distribution of dispersal distances for both sexes, the differentiation of Y chromosome and mtDNA haplotypes should thus increase four times as rapidly as that of autosomal genotypes. IBD for the Y-linked microsatellite departed clearly from this expectation based on the autosomal curve (Fig. 3E). IBD for the mtDNA, in contrast, fitted better its expected curve (Fig. 3D). Rousset (1997) showed that the increase in differentiation across space in two dimensions is approximately linear up to a distance of 0.56σ/√2μ. Although we have no independent estimate of σ for S. antinorii, dispersal data for other small mammals suggest that it should be (at least) in the interval 50–500 m (Hanski et al. 1991; Sutherland et al. 2000; Gauffre et al. 2008). In this interval, a strong contrast in mutation rates on Y chromosome and mtDNA can be important for IBD patterns. For instance, with σ = 100 m and μY = 2 × 10−3 differentiation on the Y chromosome is expected to increase linearly up to
+∼880 m, while this distance threshold for mtDNA (assuming μmt = 2 × 10−5) is ∼8.8 km. It is thus theoretically possible that IBD patterns on the Y chromosome fades away much more rapidly due to higher mutation frequency. This hypothesis, however, is not compatible with data obtained from autosomes, which are characterized by a similarly high mutation rate, and nonetheless show a clear IBD pattern at the spatial scale of our study. The most parsimonious interpretation of our results is thus that dispersal is on average strongly male biased, even though mutation rates may have a nonnegligible effect on observed IBD patterns (because the adequate study scale differs amongst markers with contrasted mutation rates).
+The present study highlights the possibility to infer sexspecific dispersal under IBD models, an approach rarely explored before both from theoretical or empirical perspectives. Yet, further research is needed to facilitate the comparative analysis of genomic region-specific structure data. Analytical or simulationbased analyses of IBD for X chromosome and Y chromosome for instance would be particularly welcome.
+Finally, it is also unclear whether one could be able to infer dispersal from sex-specific patterns of genetic structure obtained from autosomes (i.e., from IBD analyses using males or females separately). On the one hand, genetic variation on autosomes is reshuffled at each generation and thus should erase differences in males versus females (Goudet et al. 2002; Vitalis 2002). Furthermore, here we could not detect any sex bias in dispersal when running the tests developed by Goudet et al. (2002) using autosomal data. On the other hand, sex-linked differences in IBD patterns were reported in empirical studies (Coulon et al. 2006; Chen et al. 2008, see also the difference in the proportion of variance explained in males vs. females autosomal data in Fig. 3, this study), and it may be possible to detect sex-specific effects by sampling populations at the right time (e.g., after dispersal, before reproduction, Fontanillas et al. 2004; Broquet et al. 2009b, E. Petit, pers. comm.).
+Scale-Dependent Sex-Biased Dispersal in the Valais Shrew
+Our data suggested that dispersal in S. antinorii is strongly biased toward males at long distance (i.e., among valleys), and mildly so toward females at short distance (i.e., within valleys). Selective pressures favoring or restraining dispersal may act differently on males and females, resulting in sex-specific (and often antagonistic) evolutionary stable dispersal strategies. Our results add to a growing body of observations suggesting that these effects may moreover result in scale-specific sex biases. Scaledependent biases in dispersal have recently been reported in a few mammal species (e.g., greater white-toothed shrew, Fontanillas et al. 2004; J. Yearsley, N. Dussex and T. Broquet, pers. comm.;
+  1746 EVOLUTION JUNE2012
+
+         western lowland gorillas, Douadi et al. 2007; common vole, Gauffre et al. 2009). When a bias is observed at a local scale while longdistance dispersal is more balanced between the sexes (Fontanillas et al. 2004; Gauffre et al. 2009), the main arguments proposed to explain such patterns are as follows: long-distance movements are likely to respond to variation in environmental conditions between habitat patches, such as habitat quality and resource competition (McPeek and Holt 1992), so that selective pressures at this scale are not expected to differ among sexes (Fontanillas et al. 2004). By contrast, local dispersal is likely to respond to local interactions, short-distance movements being sufficient to escape inbreeding or kin competition (Perrin and Mazalov 2000).
+In contrast with these studies, our results suggest higher female dispersal at local scale but higher male dispersal over longer distances. In promiscuous organisms such as the Valais shrew, male reproduction is limited by access to females while female reproduction is generally limited by access to food resources (Dobson 1982; Perrin and Mazalov 1999). Longer dispersal distances could allow males to increase mating opportunities and hence reproductive success. In this species, during the breeding season, males were reported to adopt two distinct movement patterns (Shillito 1963). Those that mature relatively early establish large overlapping ranges in areas of high female density within or near their natal range and are “short-distance” dispersers. Instead, later maturing individuals generally make long-distance movements to visit more widely dispersed female ranges and were called “long-distance” dispersers. These observations suggest that local male competition for access to females drive male dispersal, a process that leads to male-biased dispersal in many promiscuous mammals (e.g., Bechstein’s bat, Kerth et al. 2002; bottlenose dolphins, Mo ̈ller and Beheregaray 2004; or pygmy mouse lemur, Dammhahn and Kappeler 2005).
+An alternative (but not exclusive) possibility in the case of S. antinorii is that the cost/benefit balance associated with dispersal at high altitudes differs between sexes. We explored this idea using a least-cost modeling approach to take into account the effect of altitude on dispersal (as described in Broquet et al. 2006, with shrews only allowed to cross habitats lower than some threshold elevation). Using two altitude thresholds (the highest known altitude where an individual was observed (2500 m), and an arbitrary threshold corresponding to a more restricted altitude of 2000 m), we found that the general IBD patterns remained unchanged (significant IBD for female autosomal data, for male autosomal data, and mtDNA data, nonsignificant for Y-data, results not shown). Interestingly, however, effective distances explained a slightly higher proportion of variance than Euclidean distances for mtDNA, while they did not for other data (not shown), suggesting that altitude may be more limiting for females than for males.
+Our results contradict the female-biased dispersal hypothesis proposed by Fivaz et al. (2003). This hypothesis was based upon preliminary observations of genetic variation at mtDNA and Y chromosome based on a partial sampling scheme that mixed individuals from the West and East clades, which indeed suggested that more divergence was to be found on Y chromosome versus mtDNA data (although this difference was not statistically tested). In addition, a previous study of dispersal in the common shrew S. araneus have shown no sex-biased dispersal (Hanski et al. 1991). However, in this case, authors studied a very different population structure, where individuals live and reproduce on small islands and both males and females achieve dispersal across water or ice at the juvenile stage. It is possible that dispersal across such environments incurs very different sex-specific costs, or that the colonization of empty habitats does not involve the same sexlinked differences as dispersal.
+Limits and Perspectives
+Two issues could affect our conclusions. First, we had data for only one Y-linked microsatellite and one mtDNA sequence. Therefore, the contrast in genetic structure that we documented here is linked to these particular loci. Increasing the number of markers on nonrecombining genetic segments could not improve much differentiation estimates. Replicates using independent sampling areas (partially undertaken here by analyzing separately two clades with distinct colonization histories) would probably be more useful in this regard. But using multiple markers would allow alleviate other sources of locus-linked specificities (e.g., variance in mutation rate, homoplasy). Second, our quantitative analyses assume equilibrium (be it under the island model or IBD). Although the postglacial recolonization of our eastern and western study areas was completed many generations ago (see Yannic et al. 2008b), we cannot exclude that the signature of past demographic events of colonization/founder effects is still visible today in the descriptive statistics that we used. It is actually for that reason that we separated analyses from the eastern and western clades. However, all the results presented in this article remained qualitatively unchanged when considering the whole dataset (i.e., without distinction as to West and East clades, data not shown), and an effect of colonization history would not alter our conclusions: large-scale male-biased gene flow would best explain the strong contrast in mtDNA/autosomal versus Y genetic structure (Underhill and Kivisild 2007).
+Conclusion
+Comparing data from genomic regions with male-specific versus female-specific inheritance allowed us to detect sex-biased dispersal at different spatial scales in S. antinorii. Hierarchical analyses suggested that dispersal is biased toward females at short
+SCALE-SPECIFIC SEX-BIASED DISPERSAL
+ EVOLUTION JUNE2012 1747
+
+         G. YANNIC ET AL.
+Associate Editor: C. A. Buerkle
+Qˆ1 = Qˆ 2 =
+γ(a+bcγ−adγ) (A3) N + γ(a − N(a + d)) + γ2(N − 1)(ad − bc)
+γc , (A4) Nγ(a + d) − N − aγ + γ2(N − 1)(ad − bc)
+sampled within a subpopulation come from the same subpopulation or from two different subpopulations of the same valley, respectively, and c and d are the probabilities that two alleles sampled in two different subpopulations of the same valley originate from the same subpopulations or from two different subpopulations of the same valley, respectively.
+At mutation—migration–drift equilibrium, we obtain:
+ Appendix
+ We are interested in the dynamics of the genetic variance in a hierarchical system were individuals (level I) are nested within subpopulations (S) themselves nested within valleys (V). We consider a hierarchical island model with a finite number of subpopulations n of constant effective size N in an infinite number of valleys. Individuals follow a simple life cycle where juveniles disperse, reproduce at random within groups (but selfing is not allowed), and die. Mutation follows the infinite alleles model (IAM) with rate μ, migration occurs either between subpopulations within valleys (with rate m1) or among valleys (m2), and there is no selection. Under these settings, the spatiotemporal dynamics of the genetic variance for haploid genomic regions can be entirely described using two coancestry statistics: Q1, the probability that two alleles taken randomly within a subpopulation are identical by descent, and Q2, the probability that two alleles taken randomly in two different subpopulations from the same valley are identical by descent. Under these settings, Q1 and Q2 are equivalent to FST and FVT, respectively, while FSV is given by (Q1 Q2)/(1 Q2).
+The dynamics of Q1 and Q2 (estimated after dispersal) is given by the following recursive equations:
+􏰘􏰘1􏰘1􏰙􏰙􏰙 Q1,t+1=γ a N+ 1−N Q1,t +bQ2,t (A1)
+Qˆ 2 ∼=
+where exact expressions for postdispersal sampling probabilities a, b, c, and d are
+( A 5 a )
+(A5b)
+(A5c)
+. (A5d)
+a = ( 1 − m 1 − m 2 ) 2 + m 21 b=2(1−m1 −m2)m1 +m21
+􏰘n − 2􏰙 n−1
+d= n−1
+􏰘1􏰙 n − 1
+  c = b/(n − 1)
+m21 −2m1(1−m2)+(n−1)(1−m2)2
+ Equilibrium probabilities of identity may be approximated by taking a Taylor series of equations (A3) and (A4) with m1, m2, and μ of order ε (where ε is a small scaling factor) and N of order 1/ε:
+Qˆ 1 ∼=
+(m2 +μ)(n−1)(2N(μ+m2)+1)+m1 (2nN(μ+m2)+1)
+(A6)
+m1 . (m2 +μ)(n−1)(2N(μ+m2)+1)+m1 (2nN(μ+m2)+1)
+(A7)
+m1 +(m2 +μ)(n−1)
+   􏰘􏰘1􏰘1􏰙􏰙􏰙 Q2,t+1=γ c N+ 1−N Q1,t +dQ2,t , (A2)
+where, γ = (1 μ)2, a and b are the probabilities that two alleles
+    1750 EVOLUTION JUNE2012

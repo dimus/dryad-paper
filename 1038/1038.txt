@@ -1,0 +1,431 @@
+   Molecular Ecology (2011) 20, 4870–4888 doi: 10.1111/j.1365-294X.2011.05314.x
+Patterns of range-wide genetic variation in six
+North American bumble bee (Apidae: Bombus) species
+JEFFREY D. LOZIER,*† JAMES P. STRANGE,‡ ISAAC J. STEWART†§ and SYDNEY A. CAMERON† *Department of Biological Sciences, University of Alabama, Tuscaloosa, AL 35487, USA, †Department of Entomology, 320 Morrill Hall, 505 South Goodwin Avenue, University of Illinois, Urbana, IL 61801, USA, ‡USDA-ARS Pollinating Insect Research Unit, Utah State University, UMC 5310, Logan, UT 84322, USA, §Fisher High School, 211 West Division Street, Fisher, IL 61843, USA
+Abstract
+The increasing evidence for population declines in bumble bee (Bombus) species worldwide has accelerated research efforts to explain losses in these important pollinators. In North America, a number of once widespread Bombus species have suffered serious reductions in range and abundance, although other species remain healthy. To examine whether declining and stable species exhibit different levels of genetic diversity or population fragmentation, we used microsatellite markers to genotype populations sampled across the geographic distributions of two declining (Bombus occidentalis and Bombus pensylvanicus) and four stable (Bombus bifarius; Bombus vosnesenskii; Bombus impatiens and Bombus bimaculatus) Bombus species. Populations of declining species generally have reduced levels of genetic diversity throughout their range compared to codistributed stable species. Genetic diversity can be affected by overall range size and degree of isolation of local populations, potentially confounding comparisons among species in some cases. We find no evidence for consistent differences in gene flow among stable and declining species, with all species exhibiting weak genetic differentiation over large distances (e.g. >1000 km). Populations on islands and at high elevations experience relatively strong genetic drift, suggesting that some conditions lead to genetic isolation in otherwise weakly differentiated species. B. occidentalis and B. bifarius exhibit stronger genetic differentiation than the other species, indicating greater phylogeographic structure consistent with their broader geographic distributions across topographically complex regions of western North America. Screening genetic diversity in North American Bombus should prove useful for identifying species that warrant monitoring, and developing management strategies that promote high levels of gene flow will be a key component in efforts to maintain healthy populations.
+Keywords: allelic richness, conservation, heterozygosity, microsatellites, pollinators, population structure
+Received 16 June 2011; revision received 23 August 2011; accepted 8 September 2011
+Introduction
+Over the past several decades, pollinators have suffered worldwide population declines (Biesmeijer et al. 2006; Potts et al. 2010; Winfree 2010). Bumble bees (Bombus), which are among the most visible and important wild
+Correspondence: Jeffrey D. Lozier, Fax: (205) 348 1786; E-mail: jlozier@as.ua.edu
+pollinators in both natural and agricultural landscapes in temperate regions, appear seriously affected in Europe (Williams 1986; reviewed in Goulson et al. 2008) and North America (McFrederick & LeBuhn 2006; Colla & Packer 2008; Cameron et al. 2011). Causal factors of bumble bee population declines remain elusive, however, and are likely diverse. European species appear most affected by altering agricultural practices that impact food and nesting resources (Williams & Osborne
+Ó 2011 Blackwell Publishing Ltd
+
+2009), while in the United States, declining species have been associated with high prevalence of the microsporidian pathogen Nosema bombi (Cameron et al. 2011). Extensive landscape modification in North America over the last century, including the loss of >99% of native prairie habitats utilized by many bumble bees in the Midwestern region (Robertson et al. 1997; Hines & Hendrix 2005), has also likely played a role in population declines or local extirpation of some species (Colla & Packer 2008; Grixti et al. 2009).
+Population genetic processes can play an important role in how species respond to environmental changes. Species with small populations, for instance, are more likely to experience reduced genetic diversity as a result of genetic drift and may be more vulnerable to extinction (Newman & Pilson 1997; Reed & Frankham 2003; Spielman et al. 2004; Frankham 2005). Isolation of previously well-connected populations due to recent habitat loss can exacerbate this effect (Templeton et al. 2001; Epps et al. 2005). Furthermore, widely distributed species with a history of genetic isolation at deeper evolutionary timescales may encompass cryptic species or geographically distinct lineages that possess unique adaptations or face different environmental pressures (Moritz 2002). Molecular population genetic studies have thus become increasingly vital in conservation research (e.g. Allendorf & Luikart 2007; Schwartz et al. 2007; Waples et al. 2008; Laikre et al. 2010).
+Molecular population genetic studies of Bombus species conducted to date have found that populations of increasingly rare species do have reduced genetic diversity and, in some cases, elevated genetic differentiation (Darvill et al. 2006, 2010; Ellis et al. 2006; Lozier & Cameron 2009; Charman et al. 2010; Cameron et al. 2011). These findings suggest that genetic processes are at some level involved in Bombus declines, either as a consequence or possible driver of reduced population size. To date, most population genetic studies of Bombus have been conducted in Europe, particularly in the United Kingdom, while in North America, such studies of Bombus are in their infancy (Cameron et al. 2011). Detailed descriptions of genetic diversity and population structure would provide a valuable complement to recent intensive surveys in the United States and Canada confirming that at least four of the 􏰁50 North American species have undergone dramatic contractions in range and abundance in recent years (Thorp 2005; Colla & Packer 2008; Cameron et al. 2011).
+We present a microsatellite DNA study of six North American Bombus species—Bombus bifarius, Bombus vosnesenskii, Bombus occidentalis, Bombus impatiens, Bombus bimaculatus and Bombus pensylvanicus (Fig. 1a–f)—that were the focus of a recent study by Cameron et al. (2011) documenting the geographic breadth and sever-
+ity of bumble bee decline in the United States. This study reported that B. bifarius and B. vosnesenskii in the Western United States and B. impatiens and B. bimaculatus in the Eastern United States remain abundant and widespread. In contrast, B. occidentalis and B. pensylvanicus, once among the most broadly distributed species in the Western and Eastern United States, respectively, were not detected over large areas of their historical ranges (Fig. 1). Cameron et al. (2011) also demonstrated significantly reduced average heterozygosity in declining vs. stable species. Here, we provide a more in-depth comparison of genetic patterns between stable and declining Bombus species, focusing especially on spatial relationships among populations and evaluating geographic factors that may contribute to intraspecific genetic structure and diversity of these six species. Our results provide new insights into North American bumble bees that can be applied to conservation efforts. We find that genetic patterns can, however, be species-specific and therefore differences in ecology and biogeography should be considered before making general inferences about population health from interspecies comparisons of genetic structure and diversity.
+Methods
+Target species
+We focused on six Bombus species (Fig. 1, Table 1) from two geographic regions in the United States, divided between west and east of 􏰁104°W at the eastern edge of the Rocky Mountains. In the Western United States, Bombus vosnesenskii (Fig. 1c) is restricted largely to states along the Pacific coast, where it is one of the most common bumble bee species (Thorp et al. 1983). Bombus bifarius (Fig. 1b) is more broadly distributed and is also common, occurring at higher elevations throughout western North America into Alaska. Taxonomists have divided B. bifarius into several subspecies (e.g. B. b. bifarius, B. b nearcticus, B. b. vancouverensis), based largely on variation in abdominal hair colour, although the status of these epithets is uncertain (Stephen 1957; Thorp et al. 1983). The distribution of a third western species, Bombus occidentalis (Fig. 1a), was historically similar to that of B. bifarius, ranging across western North America into Alaska. Over the last 20 years, however, B. occidentalis has declined in abundance throughout most of its range, with populations persisting primarily in the intermountain west (Cameron et al. 2011) and Alaska (J. Strange, unpublished data). B. occidentalis also exhibits colour pattern polymorphism, and several subspecies names have been suggested (B. o. occidentalis, B. o. nigroscutatus, B. o. proximus) (Stephen 1957).
+Ó 2011 Blackwell Publishing Ltd
+POPULATION GENETICS OF NORTH AMERICAN BOMBUS 4871
+
+ 4872 J. D. LOZIER ET AL.
+(a)
+(d)
+(g)
+(b)
+(e)
+(c)
+(f)
+Fig. 1 Geographic ranges of Bombus occidentalis (a), Bombus bifarius (b), Bombus vosnesenskii (c), Bombus pensylvanicus (d), Bombus impatiens (e) and Bombus bimaculatus (f) in the contiguous United States. Light grey areas show regions where the species can be found currently; black areas for B. occidentalis and B. pensylvanicus represent regions where these species have seriously declined (see Cameron et al. 2011 for details). Sampling locations for the western (g) and eastern (h) species used in this genetic analysis. Populations of B. occidentalis that were pooled are circled with a dashed line.
+AK
+B. occidentalis
+B. bifarius
+B. vosnesenskii
+B. pensylvanicus
+B. impatiens
+B. bimaculatus
+In the Eastern United States, the three target species (Bombus pensylvanicus, Bombus impatiens and Bombus bimaculatus) occur historically in most states east of the Rocky Mountains, although B. pensylvanicus (Fig. 1d) extends somewhat farther south and west. Currently, B. impatiens (Fig. 1e) and B. bimaculatus (Fig. 1f) remain common throughout their historical ranges, but B. pensylvanicus has declined significantly over the last 20 years, particularly in the north and northeast (Colla & Packer 2008; Cameron et al. 2011).
+Workers from populations of these six species were sampled from 2008 to 2010 throughout their U.S. ranges (Fig. 1g, h), according to protocols used in the study by Cameron et al. (2011). Our data set also includes several newly sampled (2010) populations from Alaska, coastal California and the southern Sierra Nevada mountains.
+Microsatellite genotyping
+DNA was extracted from forelegs of specimens frozen in liquid nitrogen or pin-mounted using a modified ChelexÒ (Bio-Rad, Hercules, CA, USA) protocol (Lozier & Cameron 2009, Strange et al. 2009) and preserved at
+)20 °C. The three eastern species were genotyped in multiplex reactions at 11 microsatellite loci (B10, B96, B121, B126, B124, BL13, BL15, BT10, BT28, BT30 and BTERN01) obtained from the literature (Estoup et al. 1995, 1996; Reber Funk et al. 2006); the western species were genotyped at 10 loci (B10, B96, B116, B119, B124, BL11, BL13, BT10, BT28 and BTERN01). B121 amplified weakly and unreliably in B. impatiens, as did B10 and B119 in B. vosnesenskii, B10 in B. bifarius and B116 in B. occidentalis; we elected to exclude these loci from analysis for these species. Electrophoresis was performed on ABI 3730xl capillary DNA sequencers (Applied Biosystems, Carlsbad, CA, USA) at the University of Illinois W.M. Keck Center for Comparative and Functional Genomics (eastern species) and at the Utah State University Center for Integrated BioSystems core facility (western species). Alleles were scored manually using GeneMapperÒ 4.3 (Applied Biosystems), with unique bin-sets for each species. Replicate genotyping of random individuals suggests that scoring errors occur at a rate of <0.5%. Because bumble bees are social, it is possible to sample multiple full-siblings from the same colony when collecting workers in the
+(h)
+Ó 2011 Blackwell Publishing Ltd
+
+POPULATION GENETICS OF NORTH AMERICAN BOMBUS 4873
+         Ó 2011 Blackwell Publishing Ltd
+Table 1 Locality information and estimates of genetic diversity for all populations
+Species
+Site*
+Latitude Longitude 66.7106 )150.6728
+N Loci 32 8
+AR (SE)
+HE (SE) 0.518 (0.107)
+Loci AR (SE)
+HE (SE) 0.579 (0.101)
+Bombus occidentalis
+Arctic Circle, AK Fairbanks, AK
+North Pole, AK Sourdough Creek, AK Yukon River, AK, Yukon River 2, AK Boulder, CO
+Gunnison + Chafee, CO Cascade + Gallatin, MT Flathead, MT
+3.91 (0.77) 3.85 (0.79) 3.91 (0.83) 3.92 (0.75) 4.11 (0.77) 4.01 (0.76) 4.01 (0.69) 4.00 (0.81) 4.17 (0.69) 4.00 (0.85) 3.88 (0.72) 3.50 (0.73) 4.09 (0.90) 3.85 (0.73) 4.41 (0.74) 4.42 (0.87) 4.65 (0.80) 4.36 (0.84) 4.91 (0.92) 4.54 (0.85) 4.69 (0.84) 4.64 (0.82) 4.56 (0.83) 4.11 (0.92) 4.69 (0.86) 4.76 (0.83) 4.56 (0.81) 4.86 (0.94) 4.74 (0.81) 4.72 (0.78) 4.89 (0.86) 4.64 (0.87) 4.36 (0.82) 4.40 (0.81) 4.54 (0.80) 4.61 (0.85)
+7 4.27 (0.79) 7 4.15 (0.84) 7 4.33 (0.83) 7 4.27 (0.76) 7 4.49 (0.76) 7 4.36 (0.77) 7 4.34 (0.70) 7 4.33 (0.85) 7 4.48 (0.71) 7 4.43 (0.84) 7 4.16 (0.76) 7 3.85 (0.74) 7 4.54 (0.91) 7 4.66 (0.64) 7 5.29 (0.59) 7 5.40 (0.76) 7 5.55 (0.70) 7 5.32 (0.73) 7 5.93 (0.81) 7 5.55 (0.70) 7 5.71 (0.66) 7 5.59 (0.67) 7 5.45 (0.77) 7 5.00 (0.93) 7 5.67 (0.73) 7 5.77 (0.64) 7 5.55 (0.63) 7 5.96 (0.77) 7 5.73 (0.63) 7 5.69 (0.58) 7 5.93 (0.66) 7 5.68 (0.69) 7 5.31 (0.69) 7 5.37 (0.65) 7 5.48 (0.67) 7 5.64 (0.67)
+Bombus bifarius
+Klamath + Jackson + Lake, OR Box Elder, UT
+Wasatch + Daggett, UT
+Delta, AK
+7 8 25 8 8 8 5 8 15 8 12 8 12 8 15 9 12 9 10 9 18 9 8 9 11 9 10 9 22 9 31 9 24 9 5 9 28 9 20 9 22 9 10 9 9 9 12 9 11 9 20 9 16 9 7 9 20 9 17 9
+Mariposa, CA Boulder, CO Gunnison, CO Ouray, CO Boundary, ID Deer Lodge, MT Flathead, MT Missoula, MT Ravalli, MT Elko, NV
+Baker, OR Douglas, OR Hood River, OR Jackson, OR Klamath, OR Lake, OR Umatilla, OR Box Elder, UT Cache, UT Daggett, UT Garfield, UT Asotin, WA
+65.1772 )148.0774 64.6401 )146.8650 62.5259 )145.5147 65.8809 )149.7271 65.8186 )149.4656 40.3918 )105.4876 38.8801 )106.4743 45.8013 )110.9741 48.3045 )113.9841 42.2858 )121.7228 41.9491 )113.3495 40.9808 )110.9550 64.0370 )145.7390 37.7739 )119.3249 39.9404 )105.5595 38.3230 )107.4761 38.0017 )107.6943 48.8529 )116.2790 45.8387 )113.4375 48.3045 )113.9841 46.7082 )114.5266 45.6922 )113.9524 40.6642 )115.4472 45.0065 )117.5794 43.3194 )122.1884 45.3251 )121.6360 42.0835 )122.7306 42.3893 )122.2148 42.1836 )120.3490 45.7762 )118.0818 41.9491 )113.3495 41.8944 )111.6425 40.8836 )109.8066 37.9638 )111.7195 46.1083 )117.2458
+14 8 25 8 19 8 34 8 22 8
+0.540 (0.090) 0.532 (0.108) 0.556 (0.105) 0.581 (0.100) 0.561 (0.094) 0.607 (0.091) 0.590 (0.103) 0.601 (0.08) 0.572 (0.121) 0.582 (0.103) 0.516 (0.122) 0.591 (0.136) 0.552 (0.134) 0.611 (0.121) 0.599 (0.136) 0.638 (0.118) 0.613 (0.123) 0.634 (0.132) 0.611 (0.138) 0.622 (0.133) 0.620 (0.128) 0.613 (0.131) 0.573 (0.145) 0.619 (0.128) 0.633 (0.125) 0.614 (0.131) 0.618 (0.140) 0.642 (0.124) 0.645 (0.119) 0.642 (0.129) 0.609 (0.136) 0.584 (0.139) 0.586 (0.130) 0.625 (0.126) 0.610 (0.136)
+0.589 (0.088) 0.608 (0.088) 0.621 (0.096) 0.652 (0.081) 0.623 (0.082) 0.673 (0.072) 0.649 (0.098) 0.641 (0.084) 0.654 (0.102) 0.638 (0.100) 0.590 (0.112) 0.675 (0.123) 0.710 (0.109) 0.768 (0.081) 0.771 (0.099) 0.790 (0.080) 0.788 (0.055) 0.791 (0.106) 0.785 (0.100) 0.793 (0.091) 0.780 (0.096) 0.760 (0.114) 0.737 (0.127) 0.781 (0.090) 0.800 (0.077) 0.783 (0.090) 0.794 (0.101) 0.809 (0.073) 0.807 (0.065) 0.812 (0.081) 0.783 (0.094) 0.751 (0.112) 0.754 (0.090) 0.789 (0.083) 0.785 (0.095)
+All genotyped loci for each species
+Shared loci
+(within region) only†
+
+4874 J. D. LOZIER ET AL.
+       Ó 2011 Blackwell Publishing Ltd
+Table 1 Continued
+Species
+Site*
+Latitude Longitude 47.6376 )120.4418
+N Loci 13 9
+AR (SE)
+HE (SE) 0.650 (0.121)
+Loci AR (SE)
+HE (SE) 0.814 (0.069)
+Bombus vosnesenskii
+9 9 26 8 10 8 25 8 19 8 15 8 11 8 18 8 35 8 43 8 22 8 18 8 21 8 14 8 18 8 15 8
+Bombus pensylvanicus
+6 11 10 11 12 11 13 11
+10 3.52 (0.54) 10 3.48 (0.52) 10 3.33 (0.52) 10 3.50 (0.63) 10 3.70 (0.73) 10 3.37 (0.60) 10 4.00 (0.97) 10 3.72 (0.70) 10 3.58 (0.60) 10 3.40 (0.55)
+Chelan, WA Columbia, WA Okanogan, WA Yakima, WA
+Albany, WY
+Teton, WY
+Washakie, WY
+Orcas Island, WA‡ San Juan Island, WA‡ Victoria, BC‡ Mariposa, CA
+46.0934 )117.8767 48.5993 )120.5442 46.6384 )121.3897 41.3464 )106.1843 43.7801 )110.9630 44.1649 )107.2138 48.6411 )122.9768 48.5064 )123.1406 48.4669 )123.4663 37.7992 )119.8656 40.8777 )121.5605 36.4713 )121.1932 41.9658 )123.5029 41.3055 )122.7847 36.1545 )115.5719 43.2717 )124.2616 44.2436 )121.6965 42.0835 )122.7306 42.3893 )122.2148 42.1836 )120.3490 48.0271 )123.3351 47.5400 )122.3000 46.5382 )122.1082 46.9606 )123.1023 48.4775 )123.0644 36.1015 )94.4352 37.7735 )89.4186 39.5248 )89.3284 39.7606 )88.2974 37.3793 )88.5923 40.3004 )89.8433 39.9372 )88.2706 39.1443 )95.5016 38.4647 )99.1695 32.5258 )93.6794
+6 9 20 9 19 9 18 9 19 9 19 9 12 9 13 9
+4.79 (0.78) 4.61 (0.88) 4.76 (0.80) 4.67 (0.84) 4.67 (0.77) 4.52 (0.81) 4.61 (0.82) 3.63 (0.69) 3.48 (0.65) 3.52 (0.70) 3.78 (0.27) 4.06 (0.36) 3.99 (0.33) 3.72 (0.38) 3.84 (0.38) 3.84 (0.36) 3.92 (0.32) 3.82 (0.23) 3.75 (0.25) 3.98 (0.30) 3.65 (0.29) 3.65 (0.39) 3.73 (0.29) 3.61 (0.38) 3.72 (0.35) 3.59 (0.42) 3.87 (0.60) 3.76 (0.55) 3.76 (0.64) 3.88 (0.68) 4.02 (0.73) 3.80 (0.69) 4.27 (0.92) 4.08 (0.73) 3.93 (0.64) 3.82 (0.65)
+0.601 (0.138) 0.645 (0.120) 0.627 (0.130) 0.638 (0.118) 0.610 (0.133) 0.629 (0.124) 0.522 (0.132) 0.512 (0.127) 0.513 (0.130) 0.679 (0.035) 0.708 (0.046) 0.689 (0.042) 0.652 (0.060) 0.690 (0.053) 0.676 (0.053) 0.705 (0.034) 0.673 (0.028) 0.669 (0.037) 0.711 (0.030) 0.659 (0.034) 0.618 (0.059) 0.653 (0.039) 0.661 (0.047) 0.640 (0.058) 0.634 (0.062) 0.594 (0.098) 0.576 (0.081) 0.559 (0.094) 0.576 (0.098) 0.587 (0.104) 0.550 (0.098) 0.560 (0.113) 0.577 (0.102) 0.589 (0.098) 0.567 (0.100)
+7 5.76 (0.56) 7 5.65 (0.72) 7 5.69 (0.66) 7 5.68 (0.67) 7 5.53 (0.67) 7 5.52 (0.60) 7 5.58 (0.67) 7 4.39 (0.63) 7 4.13 (0.63) 7 4.24 (0.67) 7 3.84 (0.31) 7 4.11 (0.42) 7 4.06 (0.37) 7 3.87 (0.41) 7 3.92 (0.43) 7 3.94 (0.40) 7 3.90 (0.37) 7 3.90 (0.25) 7 3.81 (0.28) 7 3.99 (0.35) 7 3.75 (0.31) 7 3.75 (0.44) 7 3.81 (0.32) 7 3.74 (0.41) 7 3.83 (0.38) 7 3.75 (0.45)
+0.773 (0.103) 0.795 (0.088) 0.799 (0.081) 0.776 (0.096) 0.784 (0.086) 0.794 (0.075) 0.671 (0.115) 0.647 (0.117) 0.659 (0.113) 0.685 (0.039) 0.706 (0.054) 0.702 (0.046) 0.667 (0.067) 0.700 (0.060) 0.699 (0.055) 0.699 (0.038) 0.683 (0.030) 0.676 (0.042) 0.715 (0.034) 0.667 (0.038) 0.628 (0.067) 0.664 (0.044) 0.686 (0.046) 0.655 (0.065) 0.670 (0.059) 0.559 (0.102) 0.544 (0.082) 0.520 (0.094) 0.540 (0.100) 0.553 (0.108) 0.509 (0.098) 0.522 (0.117) 0.541 (0.105) 0.555 (0.101) 0.529 (0.102)
+Placer, CA
+San Benito, CA Siskiyou, CA
+Siskiyou 2, CA
+Clark, NV
+Coos, OR
+Deschutes, OR
+Jackson, OR
+Klamath, OR
+Lake, OR
+Clallam, WA
+King, WA
+Lewis, WA
+Thurston, WA
+San Juan Island, WA‡ Ozark N.F., AR Murphysboro, IL Taylorville, IL
+Galton, IL
+Shawnee N.F., IL
+Sand Ridge S.P., IL Pesotum, IL Williamstown, KS Council Grove Lake, KS Barksdale AFB, LA
+9 8
+8 11 9 11 5 11
+23 11 8 11 8 11
+All genotyped loci for each species
+Shared loci
+(within region) only†
+
+POPULATION GENETICS OF NORTH AMERICAN BOMBUS 4875
+        Ó 2011 Blackwell Publishing Ltd
+Table 1 Continued
+Species
+Site*
+Latitude Longitude 32.2689 )93.0218
+N Loci 30 11
+AR (SE)
+HE (SE) 0.563 (0.095)
+Loci AR (SE)
+HE (SE) 0.529 (0.097)
+Bombus impatiens
+13 10 22 10 10 10 15 10 10 10 20 10 28 10 13 10 23 10 15 10 14 10 23 10 23 10 24 10 20 10 23 10 12 10 16 10 11 10 18 10 27 10 18 10
+Bienville, LA Billings, MO Rocheport, MO West Point, MS Ord, NE
+Wichita Mts., OK Norman, OK Mead, OK
+36.9619 )93.6843 38.9897 )92.5157 33.5544 )88.6417 41.7404 )98.8093 34.7842 )98.5135 35.1892 )97.3647 33.9987 )96.5354 44.2907 )100.3331 43.1921 )97.0808 30.1856 )97.8705 30.3509 )97.4504 30.6711 )94.7184 32.0995 )98.9643 29.0950 )95.1042 31.8543 )86.6413 35.8207 )94.1590 34.2657 )84.2724 41.3298 )92.6473 43.0656 )92.6489 37.7735 )89.4186 40.3902 )89.8584 40.0833 )88.2025 42.0138 )88.2520 39.5248 )89.3284 37.3793 )88.5923 39.9602 )87.0686 38.4040 )86.6613 39.0653 )85.4376 41.0231 )86.5835 42.2912 )71.3191 44.2196 )93.5228 43.9752 )91.4277 39.8987 )92.4737 35.0436 )80.0250 35.7450 )82.2776 40.9600 )96.8638
+18 11 11 11 22 11
+3.79 (0.63) 4.13 (0.66) 3.83 (0.66) 3.78 (0.62) 4.03 (0.71) 3.87 (0.70) 4.10 (0.65) 3.79 (0.60) 3.91 (0.69) 3.91 (0.69) 3.94 (0.67) 3.93 (0.63) 3.77 (0.70) 4.10 (0.68) 2.71 (0.45) 4.92 (0.67) 4.84 (0.59) 4.53 (0.54) 4.85 (0.63) 4.48 (0.53) 4.76 (0.60) 4.86 (0.62) 4.85 (0.67) 4.90 (0.64) 4.90 (0.57) 4.75 (0.68) 4.70 (0.60) 4.71 (0.66) 4.83 (0.66) 4.62 (0.65) 4.83 (0.64) 4.99 (0.66) 4.66 (0.70) 4.51 (0.60) 4.68 (0.61) 4.49 (0.60) 4.82 (0.62)
+0.596 (0.103) 0.534 (0.106) 0.555 (0.097) 0.594 (0.099) 0.549 (0.099) 0.592 (0.099) 0.581 (0.101) 0.571 (0.102) 0.554 (0.101) 0.547 (0.107) 0.580 (0.097) 0.550 (0.105) 0.585 (0.106) 0.439 (0.103) 0.702 (0.098) 0.711 (0.089) 0.676 (0.090) 0.687 (0.099) 0.682 (0.077) 0.707 (0.089) 0.697 (0.090) 0.702 (0.093) 0.714 (0.090) 0.707 (0.091) 0.668 (0.101) 0.688 (0.090) 0.676 (0.101) 0.694 (0.094) 0.672 (0.092) 0.685 (0.103) 0.719 (0.089) 0.671 (0.103) 0.660 (0.096) 0.697 (0.088) 0.666 (0.092) 0.683 (0.098)
+10 3.49 (0.60) 10 3.84 (0.65) 10 3.51 (0.63) 10 3.51 (0.62) 10 3.69 (0.69) 10 3.47 (0.64) 10 3.81 (0.64) 10 3.44 (0.54) 10 3.59 (0.68) 10 3.73 (0.73) 10 3.74 (0.71) 10 3.62 (0.61) 10 3.34 (0.61) 10 3.72 (0.61) 10 2.41 (0.38) 10 4.92 (0.67) 10 4.84 (0.59) 10 4.53 (0.54) 10 4.85 (0.63) 10 4.48 (0.53) 10 4.76 (0.60) 10 4.86 (0.62) 10 4.85 (0.67) 10 4.90 (0.64) 10 4.90 (0.57) 10 4.75 (0.68) 10 4.70 (0.60) 10 4.71 (0.66) 10 4.83 (0.66) 10 4.62 (0.65) 10 4.83 (0.64) 10 4.99 (0.66) 10 4.66 (0.70) 10 4.51 (0.60) 10 4.68 (0.61) 10 4.49 (0.60) 10 4.82 (0.62)
+0.564 (0.108) 0.496 (0.110) 0.521 (0.100) 0.560 (0.103) 0.509 (0.100) 0.560 (0.103) 0.545 (0.104) 0.537 (0.106) 0.529 (0.108) 0.517 (0.114) 0.547 (0.100) 0.509 (0.107) 0.548 (0.111) 0.395 (0.103) 0.702 (0.098) 0.711 (0.089) 0.676 (0.090) 0.687 (0.099) 0.682 (0.077) 0.707 (0.089) 0.697 (0.090) 0.702 (0.093) 0.714 (0.090) 0.707 (0.091) 0.668 (0.101) 0.688 (0.090) 0.676 (0.101) 0.694 (0.094) 0.672 (0.092) 0.685 (0.103) 0.719 (0.089) 0.671 (0.103) 0.660 (0.096) 0.697 (0.088) 0.666 (0.092) 0.683 (0.098)
+Pierre, SD
+Viborg, SD
+Austin, TX
+Elgin, TX
+Big Thicket N.P., TX Rising Star, TX Galveston Island, TX‡ Greenville, AL Devil’s Den S.P., AR Ball Ground, GA Oskaloosa, IA
+6 11 13 11 12 11 11 11 20 11
+Charles City, IA Murphysboro, IL Sand Ridge S.P., IL Urbana, IL
+Bluff Spring Fen, IL Taylorville, IL
+Shawnee N.F., IL
+Alamo, IN Newton-Stewart S.R.A., IN Nebraska, IN
+Winamac, IN
+Wellesley, MA
+Sakatah Lake S.P., MN Great River Bluffs S.P., MN Atlanta, MO
+Wadesboro, NC
+Mount Mitchell, NC Branched Oak Lake, NE
+9 11 10 11 17 11
+7 11 8 11 6 11
+All genotyped loci for each species
+Shared loci
+(within region) only†
+
+4876 J. D. LOZIER ET AL.
+        Ó 2011 Blackwell Publishing Ltd
+Table 1 Continued
+Species
+Site*
+Latitude Longitude 40.9998 )95.8726
+N Loci 6 10
+AR (SE)
+HE (SE) 0.682 (0.094)
+Loci AR (SE)
+HE (SE) 0.682 (0.094)
+Bombus bimaculatus
+5 10 20 10 23 10 22 10 23 10 11 10 19 11 22 11 15 11
+Plattsmouth, NE
+Wading River, Long Isl., NY Stony Brook, Long Isl., NY Fletcher, OH Sinnemahoning S.P., PA
+Big Thicket N.P., TX Pamplin City, VA
+Sparta, WI
+Wisonsin Dells, WI UW-Madison, WI
+Dauphin Island, AL‡
+Pella, IA
+Murphysboro, IL
+Castle Rock S.P., IL
+IL Beach S.P., IL
+Alamo, IN
+Nebraska, IN
+Winamac, IN
+Frankfort, KY
+Ashby, MA
+Ashley Falls, MA
+Red Wing, MN
+Sakatah S.P., MN
+Shaw Reserve 1, MO
+Shaw Reserve 2, MO Litzinger Prairie, MO Billings, MO
+Westfield, NC
+Marion, NC
+Plattsmouth, NE Dannebrog, NE
+Seneca Lake, NY
+Wading River, Long Isl., NY Stony Brook, Long Isl., NY Oak Harbor, OH
+40.9444 )72.8361 40.9239 )73.1238 40.0979 )84.1159 41.4028 )78.0264 30.6711 )94.7184 37.2557 )78.6809 43.9427 )90.7490 43.6265 )89.8061 43.0410 )89.4315 30.2548 )88.1122 41.4071 )92.8710 37.7735 )89.4186 41.9783 )89.3570 42.4605 )88.1922 39.9602 )87.0686 39.0653 )85.4376 41.0231 )86.5835 38.1641 )84.9442 42.6797 )71.8281 42.0654 )73.3283 44.5577 )92.4883 44.2196 )93.5228 38.4834 )90.8230 38.4682 )90.8174 38.6226 )90.3771 37.0566 )93.5678 36.4704 )80.3947 35.8935 )81.9367 40.9998 )95.8726 41.1255 )98.5542 42.6817 )76.8511 40.9444 )72.8361 40.9239 )73.1238 41.4938 )83.2199
+16 10 23 10 20 10 29 10
+4.72 (0.64) 4.93 (0.68) 4.64 (0.63) 4.81 (0.63) 4.70 (0.62) 5.00 (0.71) 4.85 (0.70) 4.65 (0.61) 4.77 (0.65) 4.80 (0.61) 4.00 (0.52) 4.60 (0.57) 4.74 (0.51) 4.73 (0.56) 4.71 (0.64) 4.70 (0.57) 4.79 (0.57) 4.91 (0.56) 4.86 (0.56) 4.81 (0.60) 4.88 (0.61) 4.52 (0.58) 4.71 (0.59) 4.48 (0.52) 4.89 (0.50) 4.60 (0.54) 4.89 (0.70) 4.58 (0.57) 4.72 (0.57) 4.81 (0.69) 4.19 (0.53) 4.71 (0.64) 4.51 (0.56) 4.84 (0.69) 4.52 (0.58)
+0.707 (0.090) 0.681 (0.091) 0.696 (0.091) 0.693 (0.089) 0.682 (0.100) 0.689 (0.099) 0.672 (0.093) 0.681 (0.096) 0.702 (0.091) 0.636 (0.101) 0.678 (0.095) 0.710 (0.077) 0.688 (0.090) 0.689 (0.092) 0.684 (0.092) 0.699 (0.089) 0.714 (0.086) 0.728 (0.081) 0.691 (0.085) 0.690 (0.093) 0.655 (0.089) 0.690 (0.090) 0.695 (0.092) 0.715 (0.075) 0.698 (0.089) 0.688 (0.106) 0.664 (0.095) 0.702 (0.094) 0.686 (0.105) 0.646 (0.094) 0.680 (0.097) 0.682 (0.087) 0.711 (0.094) 0.668 (0.094)
+10 4.72 (0.64) 10 4.93 (0.68) 10 4.64 (0.63) 10 4.81 (0.63) 10 4.70 (0.62) 10 5.00 (0.71) 10 4.85 (0.70) 10 4.65 (0.61) 10 4.77 (0.65) 10 4.80 (0.61) 10 4.00 (0.52) 10 4.65 (0.63) 10 4.83 (0.55) 10 4.78 (0.61) 10 4.81 (0.69) 10 4.82 (0.61) 10 4.88 (0.63) 10 4.99 (0.61) 10 4.95 (0.61) 10 4.97 (0.63) 10 4.97 (0.66) 10 4.69 (0.61) 10 4.82 (0.64) 10 4.48 (0.57) 10 4.95 (0.54) 10 4.62 (0.59) 10 5.00 (0.76) 10 4.58 (0.63) 10 4.71 (0.63) 10 4.92 (0.76) 10 4.32 (0.57) 10 4.79 (0.71) 10 4.60 (0.61) 10 5.12 (0.69) 10 4.62 (0.63)
+0.707 (0.090) 0.681 (0.091) 0.696 (0.091) 0.693 (0.089) 0.682 (0.100) 0.689 (0.099) 0.672 (0.093) 0.681 (0.096) 0.702 (0.091) 0.636 (0.101) 0.675 (0.105) 0.713 (0.085) 0.683 (0.099) 0.698 (0.101) 0.687 (0.101) 0.702 (0.098) 0.713 (0.095) 0.724 (0.090) 0.707 (0.093) 0.693 (0.103) 0.678 (0.095) 0.693 (0.099) 0.686 (0.101) 0.719 (0.082) 0.692 (0.098) 0.692 (0.117) 0.652 (0.104) 0.692 (0.104) 0.690 (0.117) 0.656 (0.103) 0.670 (0.107) 0.694 (0.095) 0.733 (0.101) 0.671 (0.104)
+9 11 17 11 13 11 25 11
+9 11 12 11 22 11 18 11 20 11 10 11 10 11 11 11
+6 11 6 11 6 11 7 11
+10 11 9 11 6 11 6 11
+18 11
+All genotyped loci for each species
+Shared loci
+(within region) only†
+
+POPULATION GENETICS OF NORTH AMERICAN BOMBUS 4877
+        Ó 2011 Blackwell Publishing Ltd
+Table 1 Continued
+Species Site* Latitude
+Longitude )81.9792
+N Loci 18 11
+AR (SE)
+HE (SE) 0.680 (0.093)
+Loci AR (SE)
+HE (SE) 0.686 (0.103)
+Wooster, OH 40.9082 Sinnemahoning S.P., PA 41.4028 DeSmet, SD 44.3717 Cherokee N.F., TN 35.9228 Coker Creek, TN 35.2410 Big Reed Island Creek, VA 36.7229 Ludlow, VT 43.4144 Wilmington, VT 42.8884 Wyeville, WI 44.0300 Wisconsin Dells, WI 43.6422
+)78.0264 )97.5246 )82.9772 )84.3182 )80.5809 )72.7055 )72.8616 )90.4203 )89.8111
+28 11 13 11 17 11 14 11
+4.61 (0.58) 4.77 (0.54) 4.55 (0.52) 4.81 (0.58) 4.68 (0.58) 4.45 (0.61) 4.73 (0.64) 4.82 (0.58) 4.97 (0.54) 4.66 (0.61)
+0.692 (0.085) 0.694 (0.082) 0.697 (0.088) 0.696 (0.092) 0.675 (0.094) 0.685 (0.096) 0.698 (0.091) 0.721 (0.083) 0.686 (0.092)
+10 4.70 (0.63) 10 4.90 (0.58) 10 4.62 (0.57) 10 4.96 (0.62) 10 4.79 (0.63) 10 4.60 (0.65) 10 4.72 (0.71) 10 4.92 (0.63) 10 5.03 (0.60) 10 4.69 (0.68)
+0.704 (0.093) 0.696 (0.090) 0.709 (0.096) 0.695 (0.102) 0.691 (0.103) 0.677 (0.105) 0.701 (0.101) 0.716 (0.092) 0.680 (0.101)
+5 11
+7 11 13 11 16 11 11 11
+All genotyped loci for each species
+Shared loci
+(within region) only†
+full-sibs; AR, allelic richness estimated by rarefaction using 10 sampled chromosomes; HE, gene diversity.
+N, number of individuals sampled after the removal of
+*Geographic coordinates presented as midpoints for pooled B. occidentalis populations.
+†Shared loci for western species = B96, B124, BL11, BL13, BT10, BT28 and BTERN01, for eastern species = B10, B96, B126, B124, BL13, BL15, BT10, BT28, BT30 and BTERN01. ‡Island populations discussed in the text.
+
+4878 J. D. LOZIER ET AL.
+field, so we used COLONY 2.0 (Jones & Wang 2009) to identify groups of nest mates and randomly selected one individual per group for genetic analyses; sample sizes reflect numbers of unrelated individuals retained after COLONY analysis (Table 1; see Cameron et al. 2011 for details).
+Population genetic analyses
+In general, we treated each sampled locality as a population, rather than pooling into regional groups as in Cameron et al. (2011), except for instances where geographically similar sites were sampled repeatedly within or between years. We excluded individuals with >2 missing loci out of concern that such samples might suffer from low DNA quality. Aiming for a balance between accuracy and population inclusion, particularly in declining species, we also excluded from analyses all populations with <5 genotypes per locus. Even with this low threshold, we had to pool regional localities for four populations of B. occidentalis due to the rarity across much of its historical range (Table 1; Fig. 1g). This protocol would not likely affect results dramatically, given the relatively low levels of genetic differentiation in this species, and was considered preferable to excluding multiple populations.
+We tested data sets for deviations from Hardy–Weinberg equilibrium (HWE) and for linkage disequilibrium (LD) in Genepop v4.0 (Rousset 2008), using a Markov chain approximation to exact tests and likelihood-ratio tests, respectively. Given the large number of population-by-locus tests in these analyses, we viewed the use of Bonferroni corrections to be overly conservative; thus, we consider tests significant at P < 0.001.
+We estimated heterozygosity using Nei’s (Nei & Kumar 2000) unbiased gene diversity (HE). We estimated allelic richness (AR) using rarefaction (standardized to 10 gene copies per population) in HP-RARE (Kalinowski 2005). To examine the effect of sample size on AR estimates, we also calculated AR for 20 gene copies per population. Estimates were larger overall for each species using 20 gene copies, but relative patterns were the same (Fig. S1, Supporting information), and we report the 10 gene copy analysis to maximize the number of included populations. Significance of differences in mean HE and AR among species in each geographic region was tested using Wilcoxon rank-sum tests in R 2.11.1 (R Development Core Team 2009). We applied one-tailed tests of the null hypothesis that declining species exhibited levels of HE and AR equal to those of stable species. Table 1 lists diversity values for all loci of each species and for loci shared among species within each region; for all analyses of diversity, we focus on shared loci only. For populations with at least
+10 sampled individuals, we tested for deviations from mutation–drift equilibrium using the sign test of Cornuet & Luikart (1996) implemented using the default twophase and infinite alleles mutation models in Bottleneck 1.2.02 (Piry et al. 1999).
+We explored relationships between diversity estimates and spatial variables using linear regression in R. For western species, we tested for relationships between diversity and elevation and latitude, two spatial variables we thought might be important in widespread species that occur over elevational gradients. Because the eastern species occur in regions with more limited variation in altitude (e.g. only the Mount Mitchell, NC B. impatiens population exceeded 1000 m), we did not consider elevation for B. impatiens, B. bimaculatus and B. pensylvanicus. Only mainland populations were included in regressions.
+We estimated the degree of population structure over all loci available for each species with Jost’s (2008) genetic differentiation (Dest), corrected for small samples, using DEMEtics (Gerlach et al. 2010); 95% confidence intervals (95% CIs) were estimated using 1000 bootstrap repetitions. Other estimators of population structure (e.g. GST; G’ST; Meirmans & Hedrick 2011) were correlated; thus, choice of statistic did not affect the interpretation of results. We selected Dest to facilitate comparisons among species (global GST values are listed in Table 2; see Fig. S2a for pairwise GST’s, Supporting information). Geographic distances among populations were estimated in ArcMap 9.3.1 (ESRI) using a North American Lambert conformal conic projection. Spatial coordinates for the four pooled B. occidentalis populations were specified as the midpoint of individual coordinates. Significance of the relationship between geographic distance and Dest among each pair of populations (isolation by distance, or IBD) was tested with Mantel tests using IBDWS 3.16 (Jensen et al. 2005; http://ibdws.sdsu.edu/). Bombus bifarius, B. vosnesenskii, B. impatiens and B. pensylvanicus were sampled from both mainland and offshore islands, but these tests were performed on mainland populations only.
+Population-specific FST values were also estimated using the heirarchical Bayesian F-model (Foll & Gaggiotti 2006; Gaggiotti & Foll 2010), implemented in GESTE 2.0 (Foll & Gaggiotti 2006) under default parameters, except for increasing the number of samples to 25 000 and the thinning rate to 50. In GESTE, FST of a population indicates the degree of drift relative to the metapopulation as a whole, allowing for local differences in population size and migration rates, and complements the other approaches discussed earlier (Gaggiotti & Foll 2010). Based on the observed outlier behaviour of several island populations (see Results), we performed post hoc tests of the effects of islands on
+Ó 2011 Blackwell Publishing Ltd
+
+POPULATION GENETICS OF NORTH AMERICAN BOMBUS 4879 Table 2 Population genetics summary statistics for the six Bombus species
+  Bombus bifarius Bombus vosnesenskii Bombus occidentalis Bombus impatiens Bombus bimaculatus Bombus pensylvanicus
+Dest (95% CI) 0.114 (0.097–0.131)
+0.018 (0.006–0.030) 0.118 (0.093–0.144) 0.031 (0.019–0.043) 0.020 (0.004–0.035) 0.044 (0.026–0.061)
+GST (95% CI) 0.022 (0.018–0.026)
+0.006 (0.001–0.011) 0.035 (0.027–0.043) 0.006 (0.003–0.010) 0.003 ()0.001–0.007) 0.016 (0.010–0.022)
+AR (SD)
+5.436 (0.457)*** 3.872 (0.112) 4.308 (0.182) 4.737 (0.191)*** 4.788 (0.177)*** 3.540 (0.289)
+HE (SD)
+0.771 (0.042)***
+0.681 (0.022)*** 0.630 (0.032) 0.687 (0.018)*** 0.693 (0.018)*** 0.529 (0.034)
+ Dest and GST, two measure of global population structure, with 95% confidence intervals, estimated for all loci; AR, mean allelic richness per population using shared loci only, estimated by rarefaction to 10 sampled chromosomes; HE, mean gene diversity per population using shared loci only; SD, interpopulation standard deviations.
+Significance of one-tailed Wilcoxon rank-sum tests of the hypotheses that stable species are more genetically diverse than declining species (shown in bold), ***P < 0.001
+FST within species using GESTE’s GLM approach (Foll & Gaggiotti 2006). We specified models indicating the sample origin as mainland or island and assessed the posterior probability (PP) of support compared to constant-only models. Because of the noticeable variability in FST observed among populations of B. bifarius in preliminary GESTE runs, and the significant relationship between diversity and elevation (see Results) in this species, we also tested for a significant effect of elevation on FST for B. bifarius. Finally, we tested for significant regional differentiation in B. occidentalis by comparing populations from the contiguous United States with those from Alaska.
+Analyses described thus far require grouping individuals into populations a priori. However, cryptic population subdivisions (e.g. subspecies or otherwise distinct lineages), which can be important for conservation management, might be missed by these methods. We thus explored population structure using the clustering method STRUCTURE 2.3.3 (Falush et al. 2003), which assumes that a sample of individuals comprises K unknown populations to which individual genotypes or fractional genotypes can be assigned. We used default parameter settings to assign individuals to populations (allowing for correlated allele frequencies and admixture) with 20 000 burn-in steps followed by 100 000 samples. Results are presented for K = 2–3 for B. bifarius, and K = 2 for B. occidentalis, which were the only species to exhibit even weak clustering. Larger K-values were not considered informative as they resulted in clear over-splitting into clusters for which no individuals had high assignment.
+Results
+Following the removal of probable full sibs, the final data sets consisted of 230 Bombus occidentalis from 13 sites, 506 Bombus bifarius from 33 sites, 319 Bombus vosnesenskii from 16 sites, 302 Bombus pensylvanicus from 25
+sites, 596 Bombus impatiens from 33 sites and 448 Bombus bimaculatus from 34 sites (Fig. 1g–h; Table 1). BL15 showed significant (all P’s <0.001) deviations from HWE in a single B. impatiens locality (Mount Mitchell, NC). In B. impatiens, there was significant evidence for LD between BL15 and B10 (Dauphin Island, AL), BL15 and BT10 (Fletcher, OH), and B126 and BTERN01 (Sinnemahoning S.P., PA), and in B. bimaculaus, between BL15, B121 and BT10 in Wyeville, WI. There was no significant deviation from HWE in B. bifarius or B. vosnesenskii. BL11 deviated from HWE in two B. occidentalis populations (Yukon River 2, AK and the pooled Wasatch + Daggett, UT population). There was significant LD between BL11 and BTERN01 in the pooled Gunnison + Chafee, CO B. occidentalis population. Given the small number of affected populations out of the total examined here (196 populations at 8–11 loci each), we elected to retain all markers for analysis.
+Spatial patterns of genetic diversity
+In the Western United States, B. occidentalis populations had significantly lower range-wide HE than B. bifarius and B. vosnesenskii (Table 2). AR was highest in B. bifarius populations, and significantly higher than that of B. occidentalis (Table 2). In contrast to HE, AR in B. occidentalis populations was slightly higher than that in B. vosnesenskii (Table 2). In the Eastern United States, B. pensylvanicus was significantly less diverse in both HE and AR per population than either B. bimaculatus or B. impatiens (Table 2), with the latter two species exhibiting comparable levels of diversity. Locus BL13 was monomorphic in B. pensylvanicus; relative diversity comparisons did not change with the exclusion of this microsatellite.
+There were no detectable relationships between latitude and genetic diversity in the eastern species, apart from low diversity in the southernmost B. impatiens and B. pensylvanicus populations sampled from islands
+Ó 2011 Blackwell Publishing Ltd
+
+4880 J. D. LOZIER ET AL.
+in the Gulf of Mexico (see next section). In the west, B. vosnesenskii exhibited a significant negative relationship between latitude and AR (Fig. 2a; F1, 13 = 6.97, R2 =0.30, P<0.05) and HE (F1, 13 =8.66, R2 =0.35, P < 0.05), with diversity being greatest in CA populations and lowest in OR and WA (Table 1). In contrast, B. bifarius exhibited a positive relationship between latitude and AR in mainland populations. Including an
+elevation parameter in the regression eliminated the significant effect of latitude, however, so elevation appears to better explain spatial patterns of diversity in B. bifarius (Fig. 2b; AR: F1, 27 = 29.82, R2 = 0.51, P < 0.001; HE: F1, 27 = 9.60, R2 = 0.24, P < 0.01). The effect of elevation and latitude may still be confounded to some degree, however, as southernmost populations of B. bifarius occur almost entirely at high elevations. In general, high-elevation (>2000 m) populations in CA, CO, MT, NV, UT and WY were least diverse; those at lower elevations (<1700 m) in ID, MT, OR and WA (excluding islands) were more diverse. The Delta, AK B. bifarius population had much lower diversity than expected for its latitude or elevation (350 m), and we elected to exclude this population from analysis until samples from additional northern localities are obtained (Table 1). There was no significant effect of elevation in other western species. We note that the small number of populations available for B. occidentalis and use of pooled populations (latitude and elevation were averaged over sites for each pool) likely limit the power of these tests for this species.
+We found no significant excess heterozygosity that might indicate a recent bottleneck in any population using the two-phase mutation model. In contrast, we found significant (P < 0.05) heterozygosity deficits (suggestive of range expansions) for the Austin, TX B. pensylvanicus population, three B. occidentalis populations (Arctic Circle, AK; Fairbanks, AK; Yukon River 2, AK) and four B. bimaculatus populations (Pella, IA; Alamo, IN; Ashby, MA; Sinnemahoning S.P., PA), representing only 6.6% of all tests. These significant deficits largely disappeared when analysed under an infinite alleles model, in several cases shifting to (insignificant) heterozygosity excesses. The Alaskan B. occidentalis populations, however, maintained relatively large heterozygosity deficits even under the infinite alleles model, albeit above the significance threshold (P > 0.05). In addition, under the infinite alleles model, several populations in stable, abundant species exhibited bottleneck signatures (heterozygosity excesses), including one B. impatiens, three B. bimaculatus and three B. vosnesensii populations (5.7% of tests). Overall, we consider there to be weak evidence for deviations from mutation–drift equilibrium, except perhaps in the case of Alaskan B. occidentalis, which exhibited noticeable heterozygosity deficits under both mutation models.
+Spatial analysis of population structure
+Values of Dest (and GST; Table 2) were low (<0.05) for B. vosnesenskii, B. pensylvanicus, B. impatiens and B. bimaculatus, although 95% CIs did not include zero (the GST 95% CI did include zero for B. bimaculatus).
+ (a) 4.15 4.10 4.05 4.00 3.95 3.90 3.85 3.80 3.75 3.70
+(b) 6.20 6.00 5.80 5.60 5.40 5.20 5.00 4.80
+1000 1500 2000 2500
+(c) 0.05 0.04 0.03 0.02 0.01 0.00
+1000 1500 2000 2500
+0.72 0.71 0.70 0.69 0.68 0.67 0.66 0.65 0.64 0.63 0.62
+0.82 0.81 0.80 0.79 0.78 0.77 0.76 0.75 0.74 0.73
+3000 3500
+ 35 37 39 41 43 45 47 49
+                      3000 3500
+            Fig. 2 (a) Relationship between genetic diversity and latitude for Bombus vosnesenskii (allelic richness = black points, solid line; HE = grey points, dashed line); (b) relationship between genetic diversity and elevation for Bombus bifarius (symbols as in a); (c) relationship between F-model FST values (Fig. 3) and elevation for B. bifarius. All relationships are significant (P < 0.05); see main text for statistical details.
+ Ó 2011 Blackwell Publishing Ltd
+FST Allelic richness Allelic richness
+HE HE
+
+ Values for B. bifarius and B. occidentalis were markedly higher [mean Dest (95% CI) = 0.114 (0.097–0.132) and 0.119 (0.093–0.144), respectively]. Dest did not differ sig-
+The low genetic differentiation extends over large geographic scales (>1500 km; Fig. 3a–f; Fig. S2a, Supporting information). Bombus vosnesenskii showed no signature of IBD. Of the eastern species, only B. impatiens showed a marginally significant relationship
+nificantly between declining (Table 2).
+and
+stable species
+0.35 (a) 0.3
+0.25 0.2 0.15 0.1 0.05 0 –0.05
+0.25 (d) 0.2
+0.15 0.1 0.05 0
+0.5 (b) 0.4
+0.3 0.2 0.1
+0 –0.1 –0.2
+Victoria B.C., San Juan Islands
+0.1 (c) 0.08
+0.06
+0.04
+0.02 0
+–0.02 200 –0.04
+–0.06
+0.25 (f) 0.2
+0.15 0.1 0.05 0 –0.05 –0.1 –0.15 –0.2 –0.25
+San Juan Island
+1200 1400 1600
+2000 2500
+0.3 0.25 0.2 0.15
+Orcas Island San Juan Island Victoria, B.C.
+0.1 Alaska 0.05
+Alaska
+San Juan Island
+0
+0.4 (h) 0.35
+B. pensylvanicus
+Galveston
+0.3 0.25 0.2 0.15 0.1 0.05 0
+B. impatiens +B. bimaculatus
+1000 2000 3000
+4000
+5000
+–0.05 500 1000 –0.1
+–0.15 –0.2 –0.25 –0.3
+0.4 (g) 0.35
+B. bifarius +B. vosnesenskii
+1500
+0.2 0.15 0.1 2000 0.05 0 –0.05 –0.1 –0.15
+B. occidentalis
+Contiguous U.S.
+Galveston Island
+0.3 (e) 0.25
+Dauphin Island
+POPULATION GENETICS OF NORTH AMERICAN BOMBUS 4881
+500 1000 1500 2000 2500 3000 3500 4000
+400
+500
+600 800 1000
+1000 1500
+500
+1000
+1500
+2000
+2500
+F-model FST F-model FST
+DEST DEST
+Fig. 3 Relationships between genetic differentiation Dest (note differences in scale) and geographic distance (km; horizontal axis) among populations of Bombus occidentalis (a), Bombus bifarius (b), Bombus vosnesenskii (c), Bombus pensylvanicus (d), Bombus impatiens (e) and Bombus bimaculatus (f). Grey points represent comparisons between mainland populations, and black points represent comparisons involving island populations. Population-specific F-model FST estimates (with 95% CIs) for western (g) and eastern (h) species. Each symbol represents a population; populations of interest discussed in the text are labelled (B.C. = British Columbia; L.I. = Long Island, NY).
+Ó 2011 Blackwell Publishing Ltd
+Dauphin
+L.I.
+L.I.
+
+ 4882 J. D. LOZIER ET AL.
+between genetic differentiation and geographic distance among mainland populations (Mantel test: Z = 5047.82, r = 0.16, one-tailed P = 0.036). Likewise, the majority of population-specific FST values from the F-model comparison were low across populations of the eastern species (Fig. 3h), indicating weak genetic drift. B. occidentalis, on the other hand, showed a significant increase in pairwise Dest with geographic distance, (Fig. 3a; Mantel test: Z = 20 582.08, r = 0.55, P = 0.002), and local FST estimates showed a notable difference between populations from Alaska and the contiguous United States (PP for the constant + geographic origin model = 0.76). Mainland B. bifarius populations also exhibited a clear signature of IBD (Mantel test: Z=36196, r=0.46; P=0.001), and FST varied to some degree among populations (Fig. 3g). As for genetic diversity, much of the noticeable variation in FST among mainland B. bifarius populations (Fig. 3g) could be explained by a significant positive relationship with elevation [Fig. 2c; GLM elevation parameter (95% CI) = 0.541 (0.233–0.872); PP = 1.0].
+Island populations. Genetic structure emerged from analyses that included populations collected on islands. In IBD plots (Fig. 2b, d, e) and F-model analyses (Fig. 2g, h), populations of three species (B. bifarius, B. impatiens and B. pensylvanicus) found on islands exhibited clear signatures of elevated genetic differentiation compared to the remaining populations. Measures
+of genetic diversity for these populations were also the lowest observed in each of the three species (marked by ‡ in Table 1; Fig. S1, Supporting information). Only small coastal islands (Galveston Island, TX, and Dauphin Island, AL, both <175 km2) seemed to affect the diversity measures for the eastern species, as B. bimaculatus and B. impatiens from Long Island, NY, (􏰁3600 km2) were no more differentiated or less diverse than mainland populations. Post hoc Bayesian model comparison using the F-model approach showed that for B. pensylvanicus and B. impatiens, models specifying the sample origin as ‘small island’ vs. ‘mainland’ as an explanatory factor were better-supported than constantonly models (PP = 0.999 and 0.997 for the two species, respectively). For B. impatiens, a model classifying the source as ‘Dauphin Island + Long Island’ vs. ‘mainland’ was not well supported compared to the ‘Dauphin Island’ model (PP = 0.053), and for B. bimaculatus, a model including ‘Long Island’ vs. ‘mainland’ was less well supported than the constant-only model (PP = 0.068). In contrast, despite the large size of Vancouver Island (􏰁31 000 km2), the Victoria, BC, B. bifarius population exhibited patterns similar to populations on the smaller, nearby San Juan Islands (􏰁150 km2) (PP = 1.0; see also ‘STRUCTURE Results’). The island effect did not appear to affect B. vosnesenskii; there was some signal that pairwise Dest values and FST were slightly higher for the San Juan Island population (Fig. 3c, g), but differentiation from mainland
+(a)
+Islands AK
+AK
+WA, OR, CA
+NV
+ID, MT, WY (N), UT (N)
+CO, UT (E), (b) WY (S)
+AK
+Alaska (N S)
+Contiguous US
+Fig. 4 STRUCTURE results for Bombus bifarius (a) and Bombus occidentalis (b). Results for B. bifarius are presented for K = 3 clusters including all sampled populations (a, upper panel) and for K = 2 after excluding Alaska and island populations (lower panel); B. occidentalis results are shown for K = 2 using all populations (b). Bar graphs in each panel show the posterior assignment probability (vertical axis) of individual genotypes (horizontal axis) to each shaded (black, grey or white) cluster. Pie charts show the proportion of clusters represented in each population.
+Ó 2011 Blackwell Publishing Ltd
+
+populations was weak (PP = 0.175). B. occidentalis was not found on any islands.
+STRUCTURE analysis. Bombus bifarius and Bombus occidentalis were the only species to exhibit identifiable genetic structure, other than differentiation associated with islands. The STRUCTURE analysis of B. bifarius for K = 3 (all populations) separated individuals into three weakly differentiated clusters (Fig. 4a). The northwest island populations, including Victoria, BC, were largely assigned to the ‘black’ cluster. Populations sampled from the southern Colorado Rockies and Colorado Plateau, eastern Utah and southern Wyoming were assigned in large part to the ‘white’ cluster (Fig. 4a). Individuals from geographically intermediate populations, although often admixed, were assigned mostly to a third, ‘grey’, cluster. The Alaska population was also largely admixed, although a large fraction of genotypes were assigned to the ‘black’ cluster comprising the island populations. The weak differentiation of the southeastern-most B. bifarius populations in CO, UT, and WY is clarified by the removal of island and Alaskan populations from the STRUCTURE analysis (K = 2; Fig. 4a). These two clusters also seemed to account for much of the Dest scatter among mainland populations in the IBD plot (Fig. 3b); genetic differentiation between populations composed primarily of individuals from different clusters was generally greater than expected given their geographic separation (Fig. S2b, Supporting information), suggesting a restriction of gene flow that differs from a simple IBD model. In B. occidentalis, individuals sampled from Alaska had high posterior assignment to one cluster and those from the contiguous United States had high assignment to another. However, there was also a degree of mixed assignment in the two regions, and together with the increase in pairwise Dest with distance (Fig. 3a), this clustering is consistent with IBD.
+Discussion
+Comparing genetic diversity among stable and declining species
+Monitoring genetic variation in wild populations is becoming a critical component of biodiversity conservation (Laikre et al. 2010). Several recent studies of European bumble bees have found that genetic diversity in threatened species is usually low (reviewed in Goulson et al. 2008 and Charman et al. 2010). We previously reported that HE was significantly reduced in regional populations of two declining North American species (Bombus occidentalis and Bombus pensylvanicus), compared to four stable species (Bombus bifarius, Bombus vos-
+nesenskii, Bombus impatiens and Bombus bimaculatus) (Cameron et al. 2011). Our more in-depth analysis of these six North American species, which includes both AR and HE, largely confirms these results. Comparing genetic diversity levels in other North American Bombus species may thus be a promising first step in detecting populations at risk of decline (Reed & Frankham 2003).
+Our observations also suggest that simple comparisons may not always be fully informative, and it will be necessary in some cases to consider additional variables that could affect levels of genetic variation. For example, the difference in mean HE between declining B. occidentalis and stable B. vosnesenskii in the Western United States was small (0.051) compared to the large difference between B. occidentalis and stable B. bifarius (0.141). Surprisingly, AR was slightly higher in B. occidentalis than in B. vosnesenskii populations, which was unexpected because AR should be lost more rapidly than HE following recent population declines (Allendorf & Luikart 2007). We suspect that differences in geographic ranges are at least partly responsible for these patterns, as, perhaps, are nonequilibrium demographic processes. Bombus vosnesenskii is much more narrowly distributed than the other species in this study (Fig. 1) and, all else being equal, would be expected to have correspondingly lower genetic diversity (Frankham 1996). This range effect is evident in comparisons of the two stable western species, with diversity levels much reduced in B. vosnesenskii relative to the widespread B. bifarius. It is surprising, however, that HE and AR in the widely distributed B. occidentalis are so similar to B. vosnesenskii, highlighting the unusually low variation in the former species.
+Interpreting differences in genetic diversity is more straightforward between species with similar distributions (e.g. B. occidentalis vs. B. bifarius or B. pensylvanicus vs. B. impatiens and B. bimaculatus), but even in these cases, factors such as elevation, latitude and degree of local isolation (e.g. islands) may influence comparisons (Fig. 2, Table 1). As broadscale (e.g. range breadth) and local (e.g. elevation, latitude) aspects of a species’ distribution can affect estimates of HE and AR, simple screening of genetic diversity in a small number of populations is unlikely to provide unambiguous evidence that a species is at risk. When Bombus species are compared, however, considering characteristics of sampled populations, such as physical isolation or elevation, should improve the power to identify whether a species exhibits unexpectedly low levels of overall diversity and thus whether it may warrant more extensive monitoring efforts.
+The low genetic variation observed in declining B. occidentalis and B. pensylvanicus populations compared to those of stable species with similar ranges raises an
+Ó 2011 Blackwell Publishing Ltd
+POPULATION GENETICS OF NORTH AMERICAN BOMBUS 4883
+
+4884 J. D. LOZIER ET AL.
+important question: Is this low diversity the result of recent declines, or is it indicative of historical differences in effective population size among species? The former would simply be a consequence of recent demographic changes, whereas the latter could be a sign that species with small effective population sizes might be in some way predisposed to declines. If recent declines are to blame for the low diversity in the two declining species, bottlenecks must have been severe to result in a 􏰁15–20% loss of HE or AR (Table 2), assuming that historical diversity levels were similar to the stable B. bifarius, B. impatiens and B. bimaculatus (Allendorf & Luikart 2007). It is unclear whether declines observed in B. occidentalis and B. pensylvanicus over the last 20 generations have been sufficient to cause such a consistent loss of polymorphism across populations.
+Consistently low genetic diversity across populations could be explained if effective population sizes in B. pensylvanicus and B. occidentalis populations have been smaller historically than those of the currently stable species. For example, historical events that occurred prior to recent declines, such as range expansions in B. occidentalis and B. pensylvanicus from comparatively small glacial refugia, are possible explanations for the low diversity in these two species. A small number of heterozygosity deficits, as well as the unusual patterns observed for HE and AR in B. occidentalis, provide some indication that the genetic data may be reflecting nonequilibrium dynamics, although small sample sizes and potential sensitivity of Bottleneck to mutation model and demographic assumptions necessitate cautious interpretation of such patterns. There are myriad additional factors that could also influence effective population size in bumble bees, from nest site or floral competition and inherent differences in life history traits, however, and at this point, it is premature to speculate on the actual causes of potential species-specific differences. Distinguishing between historical and contemporary causes of reduced genetic diversity in declining species will be an important area for further investigation.
+Understanding the consequences of low genetic variation for bumble bee populations will be another important topic for future research. In a close relative, the honey bee (Apis melifera), genetic diversity can influence colony productivity, growth and disease resistance (Tarpy 2003; Mattila & Seeley 2007). It is possible that genetic diversity in bumble bee populations has similar effects (Baer & Schmid-Hempel 1999). The relationship with disease susceptibility is of particular interest because declining North American species with low genetic diversity have higher prevalence of the pathogen N. bombi (Cameron et al. 2011), and in the United Kingdom, less heterozygous populations of another
+declining species, Bombus muscorum, are more susceptible to parasites (Whitehorn et al. 2011). Given the current declines in Bombus biodiversity, it is increasingly important to understand the relationship between low genetic variation and susceptibility to environmental factors that could precipitate future population losses.
+Population structure and gene flow
+A few genetic studies have documented that gene flow can be comparatively low among populations of declining bumble bee species (Darvill et al. 2006; Lozier & Cameron 2009). However, our range-wide data reveal no evidence that gene flow is more restricted in the two declining North American species analysed here. The lack of any substantial IBD in B. vosnesenskii and all three eastern taxa suggests that gene flow is not spatially limited in any of these species, declining or stable, nor is there any evidence for historically isolated geographic lineages. Similar patterns of weak structure and lack of IBD have been observed in several European Bombus species (Estoup et al. 1996; Widmer & SchmidHempel 1999; Chapman et al. 2003; Herrmann et al. 2007). The somewhat greater genetic differentiation observed in B. bifarius and B. occidentalis suggests that gene flow is more limited in these two species, but we speculate that this is probably due to historical isolation rather than any recently imposed barriers to dispersal. Bombus bifarius and B. occidentalis are broadly distributed across western North America, where the complex geology and climatic history have contributed to range shifts and population divergence in many organisms (Shafer et al. 2010). The main genetic clusters in B. bifarius, for example, broadly correspond to phylogeographic breaks in the Southern Rocky Mountains and Pacific Northwest observed in other widely distributed western North American taxa (e.g. Weir & Schluter 2004; Spellman et al. 2007; Galbreth et al. 2010; Shafer et al. 2010). The differentiation between contiguous United States and Alaskan B. occidentalis populations also suggests historical genetic structure. Testing whether this is the result of discrete population structure or IBD detectable only over large distances will require additional sampling, although the latter possibility could explain why IBD was weak in B. vosnesenskii and the eastern species, which were sampled over comparatively small distances. The higher levels of genetic differentiation in B. bifarius and B. occidentalis were anticipated to some extent because of their respective colour pattern polymorphisms (see Methods; Stephen 1957). However, our patterns of genetic structure are not fully congruent with current subspecific designations, and additional research is needed to explore evolutionary patterns of divergence in these two species.
+Ó 2011 Blackwell Publishing Ltd
+
+This is especially true for B. occidentalis, for which populations appear at greater risk in some regions than in others (Cameron et al. 2011), and accurate classification will benefit conservation efforts.
+It is of interest that recent habitat fragmentation, known to have occurred in North America (e.g. Robertson et al. 1997), does not appear to have had a major impact on genetic patterns in North American bumble bees, despite some earlier evidence to the contrary (Lozier & Cameron 2009). A possible explanation is that bumble bees can utilize marginal habitats that may appear highly disturbed, such as patches of weedy flowers adjacent to highways and agricultural fields, or gardens in heavily urbanized areas. In addition, bumble bees have a capacity for reproductive dispersal over many kilometres (Mikkola 1978; Buttermore 1997; Kraus et al. 2009; Lepais et al. 2010), which in a large widespread insect population with a fairly continuous distribution may be sufficient to maintain high genetic connectivity in the absence of more substantial barriers such as mountain ranges (Chapuis et al. 2011). Such patterns would be encouraging, as local populations that lose diversity or are extirpated might eventually recover via immigration.
+As with measures of genetic diversity, however, patterns of genetic structure may not fully capture ongoing demographic processes. Following recent population fragmentation, there is a lag time before migration–drift equilibrium is achieved, so much of the genetic homogeneity we report here could reflect gene flow that preceded anthropogenic habitat disturbances (Whitlock & McCauley 1999). Historical processes such as range expansions can also contribute to nonequilibrium genetic structure that might mimic a high degree of contemporary gene flow. Significant heterozygosity deficits detected in some populations, most notably in B. occidentalis from Alaska, and only weak IBD could point to such dynamics in some species, although disequilibrium does not appear widespread. In any event, results suggest that reductions in gene flow that might characterize declining species are not yet apparent in the genetic data, and additional research is clearly needed to better link genetic parameters with ecologically relevant dispersal patterns (Chapuis et al. 2011). If these data do largely reflect historical gene flow, currently existing resources may not be sufficient to maintain contemporary dispersal networks, and it may be a matter of time before the genetic signatures of population isolation become apparent (see next section). This would be in line with other research arguing that landscape management approaches encouraging historically high levels of dispersal (e.g. Kremen et al. 2002; McFrederick & LeBuhn 2006; O ̈ ckinger & Smith 2007) are likely to be crucial for maintaining cohesive populations of bumble bees and other pollinators.
+Islands and sky islands as models of future habitat fragmentation in bumble bees. Populations that are isolated via natural breaks such as islands or highelevation habitats provide a promising tool for better understanding potential effects of habitat fragmentation in bumble bees. The coastal islands sampled in this study exemplify the effects of isolation on genetic diversity and structure in otherwise homogeneous populations. Island studies of bumble bees in Europe have also shown that much of the genetic structure in some species can be associated with offshore islands (Estoup et al. 1996; Widmer et al. 1998; Darvill et al. 2006, 2010; Goulson et al. 2011), while continental populations of the same species are undifferentiated (Estoup et al. 1996). Dispersal limitations over water may contribute to these patterns, and island area may also be an important population size constraint, as most of the populations showing reduced diversity and elevated differentiation in this study were from small islands. Bombus vosnesenskii was the only species that did not show markedly elevated effects of drift on a small island (San Juan Island, WA), perhaps due to increased dispersal from the mainland, or because nearby northern mainland populations are already genetically depauperate (Fig. 2a). One caveat to these results is that sample sizes on some islands were small, particularly for small barrier islands in the Gulf of Mexico. However, we suspect that small sample sizes do not necessarily bias our conclusions. First, other populations with small sample sizes do not behave as notable outliers. In addition, the six B. pensylvanicus individuals from Galveston Island actually represent those unrelated individuals that were identified from 26 sampled workers, a smaller percentage of unique colonies (23%) than in any other sampled population (average of 􏰁80%) (Cameron et al. 2011). A similar pattern was observed for B. impatiens from Dauphin Island (55% colony diversity vs. an average of 􏰁93%). Together, the low genetic diversity and comparatively small proportion of colonies per individual collected at these sites suggest that islands may harbour relatively small populations. Additional studies with larger samples will help clarify the specific ways in which islands shape population size and gene flow in bumble bees (e.g. Goulson et al. 2011).
+High-elevation habitats may also serve as isolating mechanisms in some Bombus species. The significant reduction in genetic diversity and increase in differentiation with altitude in B. bifarius suggests that populations at higher elevations are smaller and less well connected than those at lower elevations (Funk et al. 2005). The increased isolation of such ‘sky islands’ is of concern in the light of future climate change, particularly if low-elevation habitats are more susceptible to disturbance
+Ó 2011 Blackwell Publishing Ltd
+POPULATION GENETICS OF NORTH AMERICAN BOMBUS 4885
+
+4886 J. D. LOZIER ET AL.
+(Forister et al. 2010). As suitable habitat becomes increasingly fragmented by an inhospitable matrix, currently panmictic populations could begin to exhibit characteristics of those on islands and at high elevations.
+These results for spatial patterns of diversity and structure are only a first step toward understanding potential population-isolating mechanisms in North American Bombus. Future studies should be specifically designed to utilize natural systems like islands and mountain ranges to better understand how spatial isolation affects genetic connectivity and population persistence in bumble bees. Such data will undoubtedly provide valuable information for designing conservation strategies for these important pollinators.
+Acknowledgements
+We thank M. Arduser, J. Belcher, J. Cech, S. Czarnik, N. Cordes, T. Griswold, H. Hines, P. Karnstedt, J. Koch, J. Knoblett, L. Lewis, J. Neuman, L. Solter, Y. & E. Smutny, W. Stewart, J. Trager and J. Whitfield for assistance with field work, J. Knoblett for assistance with laboratory work and H.C. Lim for comments on an earlier draft of this manuscript. We also thank the various local, state and national agencies, parks and preserves that provided permits and support for sample collection. The research was supported by the U.S. Department of Agriculture (CSREES-NRI 2007-02274).
+References
+Ó 2011 Blackwell Publishing Ltd

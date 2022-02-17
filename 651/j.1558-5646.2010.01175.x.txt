@@ -1,0 +1,319 @@
+         ORIGINAL ARTICLE
+LIFE-HISTORY QTLS AND NATURAL SELECTION ON FLOWERING TIME IN BOECHERA STRICTA, A PERENNIAL RELATIVE OF ARABIDOPSIS
+JILL T. ANDERSON,1 CHENG-RUEI LEE,1 and THOMAS MITCHELL-OLDS1,2
+1Institute for Genome Sciences and Policy, Department of Biology, Duke University, P.O. Box 90338, Durham, North Carolina 27708
+2E-mail: tmo1@duke.edu
+Received July 14, 2010 Accepted October 8, 2010
+Plants must precisely time flowering to capitalize on favorable conditions. Although we know a great deal about the genetic basis of flowering phenology in model species under controlled conditions, the genetic architecture of this ecologically important trait is poorly understood in nonmodel organisms. Here, we evaluated the transition from vegetative growth to flowering in Boechera stricta, a perennial relative of Arabidopsis thaliana. We examined flowering time QTLs using 7920 recombinant inbred individuals, across seven laboratory and field environments differing in vernalization, temperature, and photoperiod. Genetic and environmental factors strongly influenced the transition to reproduction. We found directional selection for earlier flowering in the field. In the growth chamber experiment, longer winters accelerated flowering, whereas elevated ambient temperatures delayed flowering. Our analyses identified one large effect QTL (nFT), which influenced flowering time in the laboratory and the probability of flowering in the field. In Montana, homozygotes for the native allele at nFT showed a selective advantage of 6.6%. Nevertheless, we found relatively low correlations between flowering times in the field and the growth chambers. Additionally, we detected flowering-related QTLs in the field that were absent across the full range of laboratory conditions, thus emphasizing the need to conduct experiments in natural environments.
+KEY WORDS: Developmental stage at flowering, field-laboratory comparison, photoperiod, quantitative trait loci, transition to flowering, vernalization.
+Environmental cues regulate the timing of critical life-history transitions in plants, such as the shift from vegetative growth to reproduction. Environmental signals can (1) promote simultaneous flowering among conspecifics, thereby increasing the probability of outcrossing and decreasing interspecific hybridization; (2) prevent individuals from flowering during adverse periods; and (3) increase the probability that seeds develop, are dispersed, and germinate under optimal conditions (Rathcke and Lacey 1985; Simpson and Dean 2002; Engelmann and Purugganan 2006; Inouye 2008). Plants show a strong flowering time response to photoperiod, temperature, and the duration of winter (vernalization) (Rathcke and Lacey 1985; Kudoh et al. 1995; Michaels and Amasino 2000; Weinig et al. 2002; Lempe et al. 2005; Balasubramanian et al. 2006b; Li et al. 2006; Sherry et al. 2007;
+Kim et al. 2009; Wilczek et al. 2009), and natural selection often favors different flowering times in contrasting environments (Stinchcombe et al. 2004; Engelmann and Purugganan 2006; Hall and Willis 2006; Scarcelli et al. 2007; Verhoeven et al. 2008; Sandring and A ̊ gren 2009). The onset of flowering has been extensively studied at the physiological and molecular levels in model organisms (e.g., Turck et al. 2008; Ehrenreich et al. 2009) and agronomic species (e.g., Nakagawa et al. 2005; Buckler et al. 2009), yet little is known about the genes that underlie this critical fitness-related trait in natural populations of nonmodel organisms (Remington and Purugganan 2003).
+More than 60 genes are involved in the flowering time response to environmental factors (Engelmann and Purugganan 2006; Ehrenreich et al. 2009). Arabidopsis research has focused
+doi:10.1111/j.1558-5646.2010.01175.x
+ ⃝C 2010 The Author(s). Evolution ⃝C 2010 The Society for the Study of Evolution. 7 7 1 Evolution 65-3: 771–787
+
+         JILL T. ANDERSON ET AL.
+on four floral regulatory pathways: photoperiod, vernalization, autonomous, and gibberellin (e.g., reviewed in Turck et al. 2008; Ehrenreich et al. 2009). These pathways converge at the floral integrators, FT (FLOWERING LOCUS T ), and SOC1 (SUPPRESSOR OF CONSTANS1), which act upstream of regulators of morphogenesis (APETALA1 and LEAFY) (Ehrenreich et al. 2009). Orthologues of many Arabidopsis flowering time genes have at least partially conserved influences on flowering in other plant species (e.g., Winichayakul et al. 2005; Bohlenius et al. 2006). However, a candidate gene approach in nonmodel systems can be extremely challenging due to the large numbers of candidate flowering genes (Zhao et al. 2007). Additionally, the existence of population structure and divergent natural selection in the field can confound association studies (Atwell et al. 2010). QTL mapping plays an important role in identifying genome regions responsible for population differentiation in natural populations of nonmodel organisms.
+Flowering time is also influenced by life-history strategy and individual plant size (e.g., Mitchell-Olds 1996; Callahan and Pigliucci 2002; Amasino 2009; Dechaine et al. 2009; Wang et al. 2009), which can interact with environmental factors. For example, summer annuals, such as some Arabidopsis accessions, may not require vernalization, whereas many temperate zone perennial species must experience winter temperatures to flower (Michaels and Amasino 2000; Engelmann and Purugganan 2006; Wang et al. 2009). Perennial species can delay reproduction and devote resources to growth when conditions for flowering are suboptimal. Inherent differences between annual and perennial species could be reflected in the genetic architecture of flowering phenology, which has only rarely been investigated in perennial species (e.g., Wang et al. 2009). Furthermore, trade-offs between age and size at first reproduction can constrain life-history evolution, yet little is known about the molecular basis of the relationship between individual plant size and age at first flowering (Metcalf and Mitchell-Olds 2009).
+Most studies of flowering phenology in Arabidopsis have been conducted under controlled conditions and not in the field sites of parental populations (but see Wilczek et al. 2009), yet the genes or gene networks influencing this complex trait may differ in nature and the laboratory (Weinig et al. 2002; Kuittinen et al. 2008). Furthermore, few studies have simultaneously investigated the main environmental factors that influence flowering: vernalization, photoperiod, and temperature. Exposure of the same genotype to multiple environments, especially those present in the field, can reveal the extent of phenotypic plasticity. In this study, we map quantitative trait loci for age and size at first reproduction in Boechera stricta (Brassicaceae) in multiple laboratory and field environments. Due to the close relationship between Boechera and the model genus Arabidopsis (ancestors diverged ∼10 million years ago, Koch et al. 2000), the literature on
+Arabidopsis flowering time genetics informs our study. QTL analysis of flowering phenology provides an excellent opportunity to study the complex genetic architecture of plasticity.
+We conducted complementary laboratory and field experiments to (1) assess natural selection on flowering timing in the undisturbed natural habitats of B. stricta; (2) investigate the influence of environmental conditions on developmental age and stage at flowering; (3) map quantitative trait loci that contribute to adaptive variation in flowering; and (4) compare expression of complex traits between laboratory and field conditions. Over two growing seasons, our laboratory study simulated the shortand long-term effects of: (1) a latitudinal gradient in day length, (2) short versus long vernalization, and (3) cool versus warm summer temperatures. In common garden experiments in Montana and Colorado, we quantified natural selection on flowering phenology and mapped QTLs underlying the transition to flowering. Because extrinsic environmental conditions and intrinsic plant traits influence flowering phenology, we quantified size (developmental stage) and flowering time (age) at reproduction. We were, therefore, able to dissect the genetic influences of age and developmental stage on reproduction, which are important components of demographic models of life-history.
+Materials and Methods
+STUDY SPECIES
+Boechera stricta (Brassicaceae, previously Arabis drummondii) is a genetically tractable short-lived perennial species native to the Rocky Mountains; this species occurs along a broad elevational gradient and occupies sites with varying abiotic and biotic conditions (e.g., forests vs. meadows) (Song et al. 2006). Boechera populations are locally adapted to some of the ecological differences in these diverse habitats (Knight et al. 2006). Our populations in the Northern Rocky Mountains are in remote locations that have experienced little anthropogenic disturbance, and modern vegetation has been present for ∼3000 years at these sites (Brunelle et al. 2005).
+GENERATION OF RECOMBINANT INBRED F6 LINES (RIL)
+To create the F6 RILs used in this study, we crossed one genotype from Montana (elevation: 2390 m) with one from Colorado (elevation: 2530 m) (Schranz et al. 2009) and propagated the generations by self-pollination and single seed descent, resulting in nearly homozygous F6 lines (expected homozygosity: 96.9%). The parental sites in Montana and Colorado differ in rainfall, temperature, day length, and ecological community (Schranz et al. 2007). Additional information about collection locales, populations, and the crossing design are available in Schranz et al. (2005). Boechera
+ 772 EVOLUTION MARCH2011
+
+         stricta is a primarily selfing species (average FIS = 0.89, Song et al. 2006), hence these F6 RILs and the parental lines show levels of inbreeding typical of natural populations.
+GROWTH CHAMBER EXPERIMENT
+We examined the influence of vernalization, photoperiod, and temperature on flowering time in 178 RILs and two parental lines in six treatments (three photoperiod/temperature combinations × two vernalization lengths; n = 5 individuals/RIL/ treatment and n = 35 individuals/parental line/treatment; n = 5760 individuals total). Seeds were germinated in Petri dishes, and then seedlings from each family were randomly assigned to photoperiod and temperature treatments, which were imposed in three separate growth chamber rooms: (1) long days, cool temperature (16 h days, 18◦C); (2) short days, cool temperature (12 h days, 18◦C); and (3) long days, elevated temperature (16 h days, 25◦C). Growing season daily temperature averages 17.2◦C at our Colorado field site and 14.4◦C at our Montana site (C.-R. Lee and T. Mitchell-Olds, unpubl. data). When seedlings were 3-months old, individuals from each family were randomly assigned to either short (four week) or long (six week) vernalization treatments (4◦C). Vernalization was conducted under 12 h days, which is the day length during late fall and early spring when B. stricta experiences vernalization in cold (but not frozen) conditions in the Northern Rocky Mountains (T. MitchellOlds, pers. obs.). After vernalization, individuals were returned to the photoperiod and temperature treatments they experienced as seedlings.
+Plants were watered regularly, relative humidity was maintained at 60%, and flats and blocks were rotated within the growth chambers three times per week (N = 60 flats of 96 individuals, with two flats nested within each of 30 blocks). Due to financial constraints, treatments were not replicated across multiple growth chambers. However, these chambers had identical construction and were adjacent within the same room, and the temperatures and day lengths were continuously monitored.
+Leaf number has been used as an indicator of developmental stage in flowering time studies of Arabidopsis (Callahan and Pigliucci 2002), and is highly correlated with overall plant size in B. stricta [rG(leaf number, rosette volume) = 0.74, not shown]. We began recording flowering date and leaf number at flowering three times per week on March 11, 2008, two to four weeks after vernalization treatments were completed. Plants that did not flower within 180 days (the length of a full growing season in the field) were subjected to a second round of vernalization (six weeks at 4◦C for all treatments), and were monitored for a second growing season of 2.5 months. When we terminated the experiment (October 23, 2008), the remaining plants were stunted and had not grown in at least two weeks. In this experiment, we mimicked conditions that individuals would experience at high and
+low elevations in the field. Because high temperatures are likely stressful and rare at high elevations, individuals in the 16 h day, 25◦C treatment were subjected to high temperatures during the first growing season, but cool temperatures during the second season (16 h days, 18◦C). Altering the conditions allowed us to assess the shortand long-term effects of one season of elevated temperature.
+DATA ANALYSIS
+Flowering time
+We tested the effects of vernalization, photoperiod, temperature, and their interactions (all fixed effects) on the transition to flowering with a Cox proportional hazards time-until-event model using data from the RILs and parental lines. We used the coxme package because it is capable of accommodating random effects (R, version 2.8.1), which SAS (version 9.2) currently cannot. This model analyzed both the “rate” and “success” of flowering as a function of treatment. We incorporated family (G) and family by photoperiod/temperature (growth chamber room; hereafter referred to as “room”) by vernalization treatment (G × E) as random effects. Due to limitations of the statistical package, we were unable to include the random effects of family by room, or family by vernalization in the same model. The same limitations required us to treat flat nested within block as a fixed effect. Day of planting was treated as a covariate. We included growing season (year) as a fixed effect and modeled twoand three-way interactions between year, room, and vernalization. These interactions were highly significant; therefore, we also analyzed each season separately. Significant treatment effects indicate phenotypic plasticity for flowering time. We made preplanned contrasts to compare the effects of photoperiod (16 vs. 12 h days: rooms 1 vs. 2) and temperature (18◦ C vs. 25◦ C: rooms 1 vs. 3) on flowering phenology and to establish whether the effects of vernalization differed as a function of temperature or photoperiod. A Principal component analysis (PCA) of flowering traits allowed us to determine whether individuals in different treatments occupied distinct phenotypic space.
+Plant size at flowering
+We also assessed whether plant size (leaf number) at first flowering varied with treatment (fixed effects) in separate mixed model analyses for each growing season using data from RILs and parental lines (Proc Mixed, SAS version 9.2, Cary NC), with planting date as a covariate. We incorporated flat nested within block, family (G), family by vernalization (G × E), family by room (G × E), and family by room by vernalization (G × E) as random effects and computed their significance with likelihood ratio tests (Littell et al. 1996). Linear and quadratic flowering time terms were included to test for trade-offs between developmental age and stage at flowering. Because leaf number was only
+FLOWERING TIME IN BOECHERA STRICTA
+ EVOLUTION MARCH2011 773
+
+         JILL T. ANDERSON ET AL.
+measured on individuals that successfully flowered, we could not include plant size in the Cox proportional hazards model without excluding individuals that did not flower.
+Family-level variation in flowering could result from differential timing of germination. To assess this possibility, we planted 20 seeds per family (N = 174 F6 RILs) into two Petri dishes/RIL and recorded the date of germination for 47 days, when 97% of the seeds had germinated. We then analyzed whether the familylevel average time of germination influenced flowering time and plant size at flowering (Tables S2 and S3).
+FIELD EXPERIMENT
+To detect QTLs in the original parental environments of these RILs and to assess patterns of natural selection, we conducted common garden experiments in Montana and Colorado at sites near the parental populations. In these gardens, plants were exposed to similar biotic and abiotic conditions as they would experience in their ancestral populations. These gardens were established in undisturbed sites that had not previously been used for research. We outplanted six individuals/line from 170 RILs plus 30 individuals of each parental line into each common garden in September 2008 (N = 1080 individuals/garden) when plants were 3-monthold rosettes. Plants were watered immediately after transplanting, and then as needed for one week. In each garden, individuals were assigned to one of 12 blocks and planted directly into background vegetation at 10-cm spacing. During the 2009 growing season, plants were monitored at approximately 10-day intervals for flowering time (number of days since first census), leaf number at flowering, and fruit number. Between censuses, flowering time was estimated based on the length of the longest silique and the number of flowers (R2 = 80%, P < 0.0001, N = 192). This estimation procedure causes a modest reduction in heritability of flowering time, and in our ability to detect QTLs.
+To investigate the relationship between fitness (number of fruits) and phenotypes (flowering timing and plant size), we conducted a genotypic selection analysis (Rausher 1992) using family-mean fitness and linear and quadratic functions of familymean traits for the RILs and parental lines (Proc Mixed, SAS version 9.2). We calculated family averages as least square means (LSMEANS) from mixed model analyses that included block as a random effect (Proc Mixed, SAS, version 9.2). Phenotypes were standardized to a mean of 0 and a standard deviation of 1. Relative fitness was calculated by dividing absolute fitness by the mean number of siliques produced by all families. Although fitness estimates can be complicated in age-structured populations, the first episode of reproduction is a major contributor to total fitness in short-lived perennials such as B. stricta, where annual mortality rapidly reduces subsequent reproduction in older cohorts (T. Mitchell-Olds, pers. obs.).
+QUANTITATIVE GENETICS AND QUANTITATIVE TRAIT LOCUS MAPPING
+For both experiments, we determined the family-mean broadsense heritability of age and size at first flowering using the REML method in Proc Mixed (SAS version 9.2). Heritability was calculated as family-level variance/(family variance + block variance + error variance). To map QTLs, we calculated familylevel LSMEANS for the following phenotypic data: probability of flowering, flowering time, and plant size (leaf number) at first flowering in mixed model analyses that included block (field) or flat nested within block (laboratory) as random statements (SAS Proc Mixed). The probability of flowering was not analyzed for the growth chamber treatments due to the large percentage of individuals that flowered (83%). Because some families did not flower in one of the growing seasons, we mapped QTLs with family-level LSMEANS averaged across seasons in the growth chamber experiment.
+We extracted genomic DNA from one F6 sibling of each RIL using Qiagen kits (DNeasy Plant Mini Kit), and eluted in 60-μL sterilized water. DNA samples were concentrated with a speedvac to 75–100 ng/μL. We scored 96 single nucleotide polymorphisms (SNPs) through Illumina genotyping, nine SNPs with TaqMan, and an additional 62 microsatellite markers on agarose gels (Schranz et al. 2007), resulting in an average of 5.5cM spacing of the 167 molecular markers. Previous comparative genomic work using these markers (Schranz et al. 2007) allowed us to identify possible candidate genes described in Arabidopsis flowering time studies. Linkage maps were created using JOINMAP version 4 (Stam 1993), with a regression mapping approach using Haldane’s mapping function (see Table S1 for genotypic data).
+We mapped QTLs by two approaches. First, we used QTL Cartographer version 1.17 (Basten et al. 2004) for approximate analyses combining genotypic data from F6 individuals and phenotypic data from their F6 selfed full siblings, which have an 89.9% probability of having identical genotypes. Second, we performed multivariate least squares interval mapping by calculating probabilities that phenotyped individuals have a given QTL genotype conditional on the observed genotypes of their siblings at flanking markers, at each point in the genome.
+Multiple interval mapping in QTL cartographer
+We mapped QTLs and epistatic interactions between QTLs with composite interval mapping (model 6) followed by multiple interval mapping (Kao et al. 1999) for the field and growth chamber experiments. Genome-wide significance thresholds were determined at α = 0.05 by 1000 permutations for each trait (Churchill and Doerge 1994). Forward and backward stepwise regressions (P = 0.05) with a 2-cM walk speed and a 10-cM window size were used to generate the initial models for composite interval mapping, which included five markers as cofactors. We calculated 1.0
+ 774 EVOLUTION MARCH2011
+
+         and 2.0 LOD confidence limits for each QTL (van Ooijen 1992) and mapped the results using MapChart version 2.2 (Voorrips 2002). We also tested QTL by environment interactions. Transplants at the Colorado site did not flower in 2009, hence we were unable to investigate QTL × environment interactions in the field experiment.
+ences in the univariate analyses to assess whether a QTL by growth chamber room interaction was driven by photoperiod (16 vs. 12 h days: rooms 1 vs. 2) or temperature (18◦C vs. 25◦C: rooms 1 vs. 3).
+Results
+GROWTH CHAMBER EXPERIMENT
+Flowering time
+Over the course of the experiment, 83% of plants flowered. Individuals in the field and growth chamber experiments showed substantial differentiation in flowering behavior; additionally, within the growth chamber experiment, the plants in the elevated temperature treatment were grouped at a substantial distance from those in the cooler treatments, and the effects of vernalization on flowering time are apparent in the long photoperiod treatments (Fig. 1). The overall time-until-event model included significant interactions between growing season and treatments (Table 1); therefore, we present the results of each growing season analyzed separately (Fig. 2). During the first growing season, plants growing under cool temperatures (18◦C, 16 h photoperiod) had a 92% higher probability of flowering during each time period than those subjected to elevated temperature (25◦C, 16-h photoperiod; Hazard Ratio: 0.08; CL: 0.046, 0.11; Z = −12.7, P < 0.0001; Table 1, Fig. 2). Additionally, the longer vernalization treatment (six weeks) caused accelerated flowering, irrespective of photoperiod or temperature (Table 1, Fig. 2). In contrast, photoperiod did not influence flowering time (16 vs. 12 h, at 18◦C; Z = 0.28, P = 0.78).
+Multivariate least squares interval mapping (MLSIM)
+Least squares interval mapping hypothesizes a QTL locus, Q, between two flanking markers, A and B, with known recombination fractions among loci. For all possible genotypes in the F2–F6 pedigree, we calculated the probability of the eight possible gametes given parental genotypes and recombination fractions. From these gamete probabilities, we determined the probabilities for all 64 possible selfed-progeny genotypes. This procedure was applied to all possible parental genotypes in each generation, giving the frequency of each progeny genotype. Finally, for every F6 genotype, we calculated the conditional probabilities of their maternal genotypes, and then Pqm, the F6 QTL allele frequency conditional on the two flanking marker genotypes of their siblings. This procedure was conducted at 1-cM spacing throughout the genome. We implemented the algorithm from Haley and Knott (1992) using custom scripts in Perl, Python, and R.
+We performed multivariate least squares interval mapping across the genome using Pqm to predict multivariate mean flowering time of each recombinant inbred line in the laboratory and field environments and the probability of flowering in the field. By combining the functions “lm” and “manova” in R and automating the procedure with Perl code, the analysis was performed by forward stepwise regression with permutation testing of statistical significance. Permutation was done by randomizing phenotypes with respect to marker genotypes while retaining the relations among values within the phenotype and genotype vectors. For each iteration, we identified the most significant multivariate QTL and tested its genome-wide significance by comparing its observed Wilks’ lambda to the distribution of this statistic for the most significant QTLs from 1000 permuted datasets. This permutation procedure avoids the multivariate normal distributional assumptions of standard multivariate analysis of variance (MANOVA). Model building was continued until no further significant QTLs could be found.
+To dissect the relationship between QTLs and specific environmental conditions, we ran univariate analyses of variance (ANOVAs) with each trait/treatment as the response variable and Pqm values at all significant QTLs as the explanatory variables (Proc Mixed, SAS). We assessed QTL by environment interactions by analyzing whether flowering time varied as a function of treatment, Pqm value at each QTL, and all twoand three-way QTL by treatment interactions (Proc Mixed, SAS). We conducted analyses separately for each significant QTL. We examined differ-
+4 3 2 1 0
+-1 -2 -3 -4
+Figure 1. Comparison of environmental effects on flowering response. The first two principal component axes of flowering behavior are shown for recombinant inbred genotypes. Symbols: triangle: probability of flowering in the field; inverted triangle: flowering date in the field; squares: four-week vernalization treatment; circles: six-week vernalization; red: long day at 25◦C; blue: long day at 18◦C; black: short day at 18◦C. See text for details.
+FLOWERING TIME IN BOECHERA STRICTA
+               -30 -20 -10 0 10 20
+Flowering Response Axis 1
+ EVOLUTION MARCH2011 775
+          Field
+18 °C
+Long day
+25 °C
+Short day
+ Long day
+  Flowering Response Axis 2
+
+         JILL T. ANDERSON ET AL.
+Table 1. Effects of environmental conditions on time until flowering A total of 5760 individuals were included in the study (960 in each room by vernalization combination); 978 (17%) did not successfully flower over the course of two simulated growing seasons. Room refers to photoperiod and temperature (see text for details). Family (G) and the family by room by vernalization interaction (G×E) were treated as random effects; significance levels were determined via likelihood ratio tests of models with and without these effects. Significant p-values are highlighted in bold.
+ Source df
+Overall
+Year one
+χ2 P 180.3 <0.0001
+77.1 <0.0001 108.3 <0.0001
+NA NA NA NA
+4.6 0.032
+9.2 0.0024 682.2 <0.0001 580.7 <0.0001
+Year two
+χ2 P 2.8 0.25
+260.6 <0.0001 1.74 0.42
+NA NA NA NA
+17.2 <0.0001 0.84 0.36
+360.6 <0.0001 360.1 <0.0001
+   Room
+Vernalization Room×vernalization
+Year
+Year×vernalization Year×room Year×room×vernalization Planting day
+Flat (block)
+Family (G) Family×room×
+vernalization (G×E)
+The significant interaction between room and vernalization likely resulted from the more pronounced effects of vernalization on flowering time under long days than short days (Table 1, Fig. 2). Longer vernalization only increased the probability of flowering by 20% every day under 12 h days (Hazard ratio: 0.80, CL: 0.69, 0.91, Z = −3.2, P = 0.0013). In contrast, longer vernalization improved flowering success by 34% when individuals were subjected to 16 h days at 18◦C (Hazard ratio: 0.66, CL: 0.58,0.73,Z=−7,P<0.0001)andby80%in16hdays at 25◦C (Hazard ratio: 0.20, CL: 0.14, 0.26, Z = −10.4, P < 0.0001). It is possible that some of the difference in vernalization
+response could be due to unmeasured differences between growth chambers. Despite significant family-level variation in the timing of germination (χ2 = 174.1, df = 1, P < 0.0001), this trait did not influence flowering phenology during the first season, but early germination accelerated flowering in the second season (Table S2).
+During the second growing season, vernalization was the primary predictor of flowering time (Table 1), even though all plants were subjected to the same length of vernalization (six weeks) after the first season. The long vernalization treatment accelerated flowering in all treatments (Table 1, Fig. 2). During the second
+χ2 P
+2 30.4 <0.0001
+1 146.3 <0.0001 2 2.14 0.34
+1 803.5 <0.0001 1 24.7 <0.0001 2 47.6 <0.0001 2 3.5 0.17
+1 0.3 0.58
+1 58.2 <0.0001 1 470.9 <0.0001 1 455.3 <0.0001
+        Figure 2. Time until flowering differs in six growth chamber conditions. The probability of flowering (with 95% confidence intervals) for individuals in each treatment as a function of time (days) in the growth chamber during (A) season 1, and (B) season 2.
+ 776 EVOLUTION MARCH2011
+
+         Table 2. The influence of environmental conditions on plant size (leaf number) at flowering. Leaf size was only quantified for plants that successfully flowered over the course of the experiment. Room refers to photoperiod and temperature (see text for details). Flowering time was included to assess trade-offs between developmental stage (plant size) and age at first flowering. Family (G) and the Family by treatment interactions (G×E) were treated as random effects; significance levels were determined via likelihood ratio tests of models with and without these effects. Significant p-values are highlighted in bold.
+FLOWERING TIME IN BOECHERA STRICTA
+ Source
+Room
+Vernalization Room×vernalization Planting day
+Flowering time Flowering time squared Flat (Block)
+Family (G) Family×vernalization (G×E) Family×room (G×E) Family×room ×
+vernalization (G×E)
+Year one
+df
+2,196
+1,174 2,196 1,1902 1,1902 1,1902 1
+1 1 1 1
+F P
+59.9 <0.0001 0.73 0.39 4.0 0.020 9.5 0.002
+350.9 <0.0001 340.4 <0.0001 χ2 =171.9 <0.0001 χ2 =64.1 <0.0001 χ2 =0.8 0.37 χ2 =0.1 0.75 χ2=0 1
+Year two
+df F P 2,149 13.6 <0.0001
+1,149 0.05 0.83 2,149 0.35 0.70 1,1173 5.15 0.023 1,1173 0.59 0.44 1,1173 0.90 0.34
+      1 χ2 =76.8
+1 χ2 =34.6
+1 χ2=0 1
+1 χ2 =17.9 <0.0001 1 χ2=0 1
+<0.0001 <0.0001
+   season, all plants initially subjected to high temperatures (25◦C) were grown at low (18◦ C) temperatures, and we found no evidence for carry-over effects of one season of elevated temperatures. In both seasons, we found significant family-level variation (G) in flowering phenology and genetic variation in plasticity (G × E), indicating heritable variation in this key trait and in plasticity.
+Plant size at flowering
+Temperature significantly predicted plant size during both seasons: individuals in cool temperatures (18◦C) flowered at signifi-
+cantly smaller sizes than those grown at 25◦C (Table 2; Fig. S1). Vernalization and photoperiod had no significant effects on plant size at flowering (Table 2), nor did germination rate (Table S3). Plant size and the time until flowering showed a complex relationship. During the first season, we found significant linear and quadratic relationships between flowering time and plant size (Table 2; Fig. 3A). Initially, larger plants began reproducing earlier than smaller plants; however, after approximately 110 days, the relationship reversed. During the second growing season, plant size was not correlated with flowering time (Table 2).
+ Figure 3. Plant size at flowering versus flowering time. Relationship (with 95% confidence intervals) between the time until flowering, and plant size at flowering (A) for season one in the growth chamber experiment and (B) at the Montana field site. Family means are plotted for the Montana field site.
+ EVOLUTION MARCH2011 777
+
+         JILL T. ANDERSON ET AL.
+ Figure 4. Natural selection on plant age and stage at flowering in the field. Genotypic selection analysis (and 95% confidence intervals) indicating the relationship at the Montana transplant site between relative fitness (number of fruits relativized to mean number of fruits) and plant (A) age and (B) size at flowering.
+FIELD EXPERIMENT
+At the Montana field site, 42% of the experimental plants flowered. There was a negative relationship between plant size at flowering and flowering time (β = −0.14 ± 0.05; F1,148 = 8.2, P = 0.0047, Fig. 3B; genetic correlation between these two traits = −0.23). Directional selection on the fecundity component of fitness favored families with accelerated flowering (βσ = −0.24 ± 0.05; F1,147 = 26.0, P < 0.0001, Fig. 4A) and larger plant size at flowering (βσ = 0.10 ± 0.04; F1,147 = 6.5, P = 0.012, Fig. 4B); this model explained 22% of the family-mean variance in fecundity. Quadratic terms were removed from the model due to nonsignificance. Unstandardized selection gradients are presented in Table S4. We found no significant correlation between flowering time and germination time (F1,151 = 2.75, P = 0.10, N = 174 RILs, results not shown).
+QUANTITATIVE GENETICS AND QTL ANALYSES
+We found transgressive segregation for flowering phenology and plant size in the field and laboratory (Tables S5 and S6). Broadsense heritability ranged from 0.12 to 0.35 (flowering time) and 0.15 to 0.29 (plant size; Table S7). Correlations between familylevel flowering time in the field and the growth chambers were statistically significant, but low (Pearson correlation coefficients: 0.17–0.30) and correlations between plant size at flowering in the two experiments were nonsignificant (Table S8). We conducted a multiple regression model to determine whether flowering under controlled laboratory conditions predicts flowering in the field. Flowering times in the 12 h, 18◦C, short vernalization treatment (F1,154 = 5.9, P = 0.016) and 16 h, 25◦C, long vernalization treatment (F1,154 = 8.3, P = 0.0045) explained 26% of the variance in the probability of flowering in the field (Table S9). However,
+flowering time in the growth chamber did not predict flowering time in the field (Table S9).
+Multiple interval mapping (MIM) with QTL cartographer
+MIM identified 10 QTLs that influenced flowering phenology and plant size in the two experiments, but detected no evidence for epistasis (Tables S10–S12). One large-effect locus, in particular, affected the transition to flowering in the field, and flowering phenology and plant size in the growth chamber. Strongest statistical evidence for this QTL occurs at the nFT marker on linkage group two, located in the genomic region that contains the Arabidopsis floral regulator Flowering Time T (FT) (Fig. 5 and Fig. S1 and Tables S10–S12). Clearly, however, QTL co-localization with candidate genes requires subsequent experimental verification.
+Growth chamber experiment
+The QTL at the nFT locus explained 27% of the phenotypic variance in overall flowering time (averaged across treatments, LOD = 15.5; significance threshold LOD = 3.9) and 23.1% of the variance in overall plant size at flowering (LOD = 11.0; significance threshold = 7.2). Another flowering phenology QTL was located on linkage group 4 near the Bst001527 locus (additive r2 = 1.6%, LOD = 4.4) and a plant size QTL was located on linkage group 7, near locus Bst004238 (additive r2 = 6.3%, LOD = 4.01). When treatments were analyzed separately, we detected a significant QTL at or near the nFT locus for both age and size at first reproduction in all treatments, except two: (1) 16 h days, 25◦C, short vernalization, which showed no significant QTLs and (2) 16 h days, 18◦C, long vernalization. Additionally, we found a number of small effect QTLs that explained 6.5–12.5%
+ 778 EVOLUTION MARCH2011
+
+         Figure 5. QTL Cartographer results from the field and growth chamber experiments. Positions of quantitative trait loci detected in the field (hatched boxes) and growth chamber (open boxes) experiments. The 1 and 2 LOD confidence intervals are indicated by the box and bars, respectively. Growth chamber QTL shown here represent trait values averaged across treatments. The separate QTL for each treatment are enumerated in Tables S8–S10.
+FLOWERING TIME IN BOECHERA STRICTA
+  EVOLUTION MARCH2011 779
+
+         JILL T. ANDERSON ET AL.
+of the phenotypic variance in flowering time and 14–19% of the phenotypic variance in plant size at flowering in various growth chamber treatments (Tables S10–S12).
+Field experiment
+The nFT QTL explained 9.7% of the variation in the probability of flowering at the Montana field site (LOD = 4.4; significance threshold LOD = 3.5). We failed to detect any significant QTLs for flowering time. Finally, several QTLs influenced plant size (significance threshold LOD = 3.6): Bst001594 on LG 3 (additive r2 = 29%, LOD = 8.7) and TIGR3144 on LG 4 (additive r2 = 5%, LOD = 3.9).
+We tested the effect of nFT on flowering in genotypic selection analyses that excluded the few nFT heterozygous families (Proc Mixed, SAS version 9.2). At the Montana site, families homozygous for the Montana allele had a significantly greater probability of flowering than families homozygous for the Colorado allele (LSMEANs ± SE: Montana: 0.65 ± 0.03; Colorado: 0.44 ± 0.04; F1,163 = 18.6, P < 0.0001). Furthermore, homozygotes for the Montana allele at nFT showed a marginally significant acceleration of flowering by 2.2 days (Montana: 35.34 ± 0.77; Colorado: 37.56 ± 0.90; F1,146 = 3.58, P < 0.062). Clearly, the observed fitness consequences of the nFT chromosomal region may reflect effects of linked loci. However, by combining the effects of nFT on flowering with the relationship between flowering and fruit production (Fig. 4), we can estimate the fitness differences mediated through flowering time alone—a 6.6% advantage to local homozygotes.
+Multivariate least squares interval mapping (MLSIM)
+This approach detected 12 significant QTLs that influenced the transition to flowering (Table 3). We identified possible candidate loci involved in flowering time for only three of these QTLs (nFT, CO, PIE1_I); one of the remaining QTLs is close to a locus expressed in reproductive structures during floral development in Arabidopsis (NPH3; The Arabidopsis Information Network: http://www.arabidopsis.org). The nFT locus had the largest effect on flowering in the multivariate analysis; univariate analyses revealed that nFT was highly significant for all treatments in the growth chamber experiment, and had significant effects on the probability of flowering in the field. Six other QTLs from this analysis were also identified by QTL Cartographer (Table 3), including: one locus that was significant in all growth chambers and both flowering traits from the field (on linkage group 4 at 88.3 cM) and others that were significant under most conditions (e.g.,onLG5,at141.7cM;onLG6at56.6cM;onLG1at 10.6 cM).
+This analysis also detected significant QTLs not identified by QTL Cartographer, including the QTL with the second-largest effect on flowering. This QTL, in the region of PIE1_I (link-
+age group 3, 44.8cM), was significant for two growth chamber treatments, and flowering time in the field. Univariate analyses revealed five additional QTLs that were significant predictors of flowering time in the field. Markers within the confidence limits of one of these QTLs are near LEUNIG, which is involved in Arabidopsis floral development (Liu and Meyerowitz 1995). Our final analyses uncovered significant QTL by environment interactions for eight of the 12 QTLs (Table 4): QTL by vernalization treatment (PIE1_I, near NPH3), QTL by room (five loci, including regions near the CO genomic region and on LG 7 at 110.3 cM), and QTL by vernalization by room (nFT, PIE1_I, and near NPH3).
+Discussion
+We performed a large QTL mapping experiment to compare the expression of complex traits in diverse laboratory conditions and in the field environments where these genotypes originally evolved. In the laboratory, we examined 5760 plants in six combinations of day length, temperature, and length of vernalization, which are the fundamental factors known to influence the onset of flowering. These laboratory manipulations explained 26% (P < 0.0001) of the genetic variation for the probability of flowering in the field. Nevertheless, genetic correlations between laboratory and field were uniformly low and laboratory environments had little predictive power for genotypic performance in the field. Furthermore, although some QTLs were expressed in both laboratory and field environments, we also found large effect QTLs in the field that were completely absent in the laboratory. It is difficult to know how widespread this discrepancy between laboratory and field may be, as few studies have explicitly compared expression of complex traits between laboratory and field environments (but see Wilczek et al. 2009; Brachi et al. 2010). The findings in Arabidopsis and our own investigation emphasize that evolutionary studies of complex trait variation must include experiments in the natural environments of the parental populations.
+PHENOTYPIC RESPONSES TO ENVIRONMENTAL VARIATION
+In our study, genetic and environmental factors regulated the initiation of reproduction in, whereas early life-cycle transitions (germination) played only a very minor role. The timing of flowering has clear fitness consequences, as we found strong directional selection for earlier flowering in the field. The duration of vernalization was an essential predictor of flowering time in the growth chamber experiment, with longer winters accelerating flowering and shorter winters delaying flowering; this result is consistent with findings from Arabidopsis (e.g., Sheldon et al. 2000). The effect of vernalization treatment on juvenile plants in the first season carried over into the second season of the growth
+ 780 EVOLUTION MARCH2011
+
+         FLOWERING TIME IN BOECHERA STRICTA
+             Table 3. Twelve significant QTL from the multivariate multiple regression model (MLSIM), listed in a descending order of importance, based on nine flowering-date-related phenotypes. Wilks λ and permuted P-values are presented from the MANOVA approach. Univariate ANOVA results are also presented for all flowering time traits included in the MANOVA. Denominator degrees of freedom varied by trait due to different numbers of individuals that flowered in each treatment. Individuals in room 1 (16 h days, 18◦C), room 2 (12 h days, 18◦C), and room 3 (16 h days, 25◦C) were exposed to short (four weeks) and long (six weeks) vernalization treatments. Cells highlighted in bold were also significant in QTL Cartographer.
+Linkage Location Wilks’ group (cM) λ
+Permuted P-value
+Flowering Probability time of
+(F1,140) flowering
+Overall Room 1, Room 1, Room 2, Room 2, Room 3, Room 3, Candidate flowering short long short long short long gene
+2
+74.3 0.71
+(F1,157)
+0 1.23 12.1∗∗ 99.1∗∗∗
+(F1,161) 40.5∗∗∗
+(F1,162) 21.8∗∗∗
+(F1,161) (F1,160) 53.0∗∗∗ 51.0∗∗∗
+(F1,155) (F1,156)
+25.5∗∗∗ 44.0∗∗∗ FT
+3 4 5 6 2 7 3 1 6 6 7
+44.8 0.78 0
+1.1
+0.02 0.09
+MANOVA results
+Field experiment
+Greenhouse experiment: Flowering time
+88.3 0.78 0 141.7 0.79 0.002 56.6 0.81 0.004 134 0.82 0.011 110.3 0.82 0.008 148.8 0.83 0.012 10.6 0.83 0.011 111 0.83 0.016 137.4 0.81 0.002 26.7 0.81 0.005
+20.2∗∗∗ 22.6∗ ∗ ∗
+18.1∗∗∗ 8.35∗∗ 16.9∗ ∗ ∗
+16.8∗∗∗ 15.34∗ ∗
+4.11∗ 1.21
+∗P<0.05; ∗∗P<0.01; ∗∗∗P<0.0001.
+Univariate results
+4.15∗ 0.58 0.05 6.97∗∗ 7.02∗∗ 25.9∗∗∗
+6.92∗ ∗
+4.36∗ 8.96∗∗
+5.78∗ 33.0∗∗∗
+7.91∗ ∗ 14.62∗ ∗
+0.19 1.92 0.09 0.92 0.84 1.26
+0.68 0.01
+4.74∗ 1.87
+2.52 0.17
+9.07∗∗ 3.24
+2.54 11.5∗∗ 12.83∗∗
+8.38∗ ∗ 3.27 16.8∗∗∗ 4.4∗ 20.32∗∗∗ 0.01
+12.93∗∗ 6.74∗∗ 10.74∗∗ 4.75 0.24 11.58∗∗
+12.73∗∗
+2.66 0.91 10.3∗∗ NPH3 6.87∗∗ 0.13 0.38
+6.25∗ 2.44 0.11 CO
+16.4∗∗∗ 19.69∗∗∗ 0.39 3.83∗ 1.16 0.48 1.95 3.37 1.27
+date (F1,162)
+vernalization vernalization vernalization vernalization vernalization vernalization
+1.48 0.22 0.01 0.06 0.23
+6.83∗∗ 7.99∗∗
+0.49 12.44∗∗
+8.26∗∗ 8.28∗∗
+3.29 2.78 2.52 1.29 0.07 6.11∗ 0.27 4.55∗ 6.81∗∗ 0.2
+16.05∗ ∗ ∗ 0.59 PIE1 4.42∗ 8.13∗∗ 16.9∗∗∗
+ EVOLUTION MARCH2011 781
+
+         JILL T. ANDERSON ET AL.
+Table 4. QTL by environment interactions in the growth chamber experiment from the MLSIM approach. F-scores are shown with significant values highlighted in bold.
+ Linkage Location group (cM)
+2 74.3
+3 44.8 4 88.3 5 141.7 6 56.6 2 134
+7 110.3 3 148.8 1 10.6 6 111
+6 137.4 7 26.7
+Upstream marker
+nFT
+Bst001594 At2g36390 BstES0010 Rd22F R3_01 R3_19 Bst002609 Bst029595 At5g12970 Con_9624 ICE_3
+Downstream marker
+C01
+BSTES0037 Con_8935 Con_6547 BSTES0018 D08
+R3_44 Nph3 Bst001181 BstES0001 Con_c8 C11
+Candidate gene
+nFT
+PIE1
+LEUNIG NPH3
+CO
+df QTL by vernalization
+treatment
+1,848 0.95
+1,848 10.9∗ ∗ 1,847 0.04 1,848 0.95 1,848 0.01 1,848 3.11 1,848 2.84 1,848 4.33∗ 1,848 1.37 1,848 1.15 1,848 0.09 1,848 0.46
+df QTL by room
+2,848 1.63
+2,848 2.06 2,847 1.66 2,848 8.03∗ ∗ 2,848 2.24 2,848 10.00∗ ∗ 2,848 3.96∗ ∗ 2,848 0.94 2,848 7.39∗ ∗ 2,848 4.19∗ 2,848 0.03 2,848 0.36
+QTL by room by vernalization
+5.07∗ ∗ 3.07∗ 2.47 0.47 0.35 0.04 1.09 3.18∗ 2.31 0.32 1.35 2.1
+        ∗P<0.05; ∗∗P<0.01; ∗∗∗P<0.0001.
+chamber experiment, even though all individuals were subjected to the same length of vernalization in the second “winter.” Therefore, early differences in vernalization can have long-term effects on B. stricta flowering phenology. In contrast, elevated temperatures significantly delayed flowering during the first growing season, but we found no significant effect of early life-cycle temperature on flowering time during the second season. Therefore, the effects of elevated temperatures on flowering phenology appear reversible, at least on very short time scales. However, individuals grown under elevated temperatures displayed substantially divergent flowering behavior relative to individuals in the cooler treatments and those in the field, thus highlighting the profound effects of temperature on age at first flowering.
+Environmental conditions had different effects on flowering time versus plant size at first reproduction. For one, vernalization did not influence developmental stage at flowering. Rather, growth chamber room (temperature/photoperiod combination) had significant effects on plant size, and these effects were driven by temperature. Individuals grown under elevated temperatures were larger at flowering than their siblings in cooler temperatures, indicating a need to attain larger stature prior to flowering. Alternatively, plants could be larger at flowering simply because higher temperatures delay flowering. This temperature effect persisted across growing seasons, which suggests that warmer temperatures can have long-term implications for the developmental stage at first flowering.
+Age at first reproduction is a fundamental aspect of lifehistory evolution. Annual plants typically show a genetic tradeoff between age and size at first reproduction, demonstrated by a positive genetic correlation between flowering time and plant size at flowering (King and Roughgarden 1982; Stearns 1992;
+Mitchell-Olds 1996; Roff 1999; Callahan and Pigliucci 2002). Strikingly, the sign of the genetic correlation is reversed in this recombinant inbred population: in the field, early-flowering genotypes are large, whereas older plants are able to initiate flowering at smaller sizes. In the laboratory, the curvilinear relationship between size and flowering time (Fig. 3) may be an artifact of the long growing season, which has no counterpart in the field, where the maximum flowering date was just over 50 days. Plants likely experience optimal conditions for flowering over a shorter time period in the field, where the environment changes seasonally, than in the growth chamber, where the environment is constant and controlled. These results indicate that trade-offs between age and size at first reproduction are absent in this population. However, another B. stricta cross (C.-L. Huang and T. Mitchell-Olds, unpubl. data) displays the expected positive correlation between age and size at reproduction, in accordance with studies of Arabidopsis and Brassica. It is possible that the current pedigree displays mild hybrid breakdown between these distantly related Colorado and Montana genotypes. The significant directional selection for larger plant size at flowering accords with previous studies of Arabidopsis (Mitchell-Olds 1996) and other annual species (e.g., Dechaine et al. 2009).
+QUANTITATIVE TRAIT LOCUS ANALYSES
+Our QTL analyses identified several genomic regions with strong effects on age and size at first reproduction. One QTL, in particular, showed large and consistent effects across multiple environments. This locus (nFT on linkage group 2) is centered on the genomic region that contains Flowering Locus T (FT ) in A. thaliana. In Arabidopsis, FT integrates signals from all floral pathways (reviewed in Turck et al. 2008; Ehrenreich et al. 2009). The protein
+ 782 EVOLUTION MARCH2011
+
+         encoded by FT is highly conserved and FT influences flowering time in monocotyledonous and dicotyledonous plants (Kardailsky et al. 1999; Kojima et al. 2002; Bo ̈hlenius et al. 2006; Yan et al. 2006; Hayama et al. 2007; Lin et al. 2007; Turck et al. 2008). The FT protein is an important component of “florigen,” a transmissible signal that initiates reproductive development in vegetative meristems (Abe et al. 2005; Huang et al. 2005; Wigge et al. 2005; Corbesier et al. 2007; Lin et al. 2007; Shalit et al. 2009).
+In B. stricta, the nFT QTL affected the timing of flowering and plant size at flowering under diverse conditions in the laboratory and the probability of flowering in the field. Thus, the nFT QTL plays a central role in this critical life-history transition. nFT strongly influences a fundamental fitness component and is likely extremely important in the adaptive evolution of B. stricta populations. Indeed, in our Montana field site, the probability of flowering was significantly greater for RILs homozygous for the Montana allele than those homozygous for the Colorado allele at nFT . (Reproductive timing could not be analyzed in Colorado due to high levels of herbivory in 2009.) The consistent results in both field and laboratory experiments suggest that nFT is a promising candidate gene for ecological genetics in B. stricta.
+PHENOTYPIC PLASTICITY QUANTITATIVE TRAIT LOCI
+QTLs associated with adaptive phenotypic plasticity have been identified in several models systems, including Arabidopsis (Van der Schaar et al. 1997; Alonso-Blanco et al. 1998; Stratton 1998; Kliebenstein et al. 2002; Ungerer et al. 2003). The G × E interactions for flowering time and plant size in our laboratory experiment revealed significant genetic variation for plasticity. Similarly, significant QTL × E interactions identified by MLSIM suggest that different loci or patterns of gene expression are activated under contrasting conditions. It is instructive to address these QTLs in light of specific environmental conditions.
+VERNALIZATION
+In Arabidopsis, variation at FRI and FLC influences the flowering time response to vernalization. Likewise, PEP1, an ortholog of FLC, controls seasonal flowering cycles in the perennial crucifer Arabis alpina (Wang et al. 2009). Our study did not detect any QTLs near FRI or FLC, or other genes in the Arabidopsis vernalization pathway, despite the strong effect of vernalization on age at reproduction. Nevertheless, we did find two QTL by vernalization interactions near the PIE1_I and NPH3 genomic regions. In Arabidopsis, PIE1 (PHOTOPERIOD-INDEPENDENT EARLY FLOWERING1) aides FRI and the autonomous pathway in activating FLC; however, PIE1 also acts independently of FLC (Noh and Amasino 2003). Thus, PIE1_I could influence the flowering response to vernalization in B. stricta. In contrast, NPH3 is a blue light receptor involved in phototropism in Arabidopsis (Mochoulski and Liscum 1999) Whether this blue light photore-
+ceptor promotes flowering in B. stricta in response to vernalization is unknown.
+TEMPERATURE AND PHOTOPERIOD
+Recent studies have implicated genes in the autonomous pathway, such as FCA and FVE, as well as several photoreceptors in the flowering response to temperature (Blazquez et al. 2003; Halliday and Whitelam 2003). We found no evidence for significant QTLs in these regions, but we did identify QTLs that appear to be responsive to temperature. Indeed, five QTLs exhibited QTL by room interactions, which were likely due to differences in temperature, instead of photoperiod. Three of these QTLs were significant at 18◦C, but had no detectable effects or only minimal effects at 25◦C. The remaining two QTLs showed the opposite pattern: significance at 25◦ C, but not 18◦ C. One of these QTLs (LG 7, 110.3 cM) is near LEUNIG, which influences the determination of floral organ identity in Arabidopsis (Liu and Meyerowitz 1995). An additional QTL is near CONSTANS (CO), which shows a circadian pattern of gene expression in Arabidopsis: under long days, CO expression activates FT to accelerate flowering (e.g., Mouradov et al. 2002; Simpson and Dean 2002; Turck et al. 2008). The QTL by environment interaction at CO was likely driven by temperature, not photoperiod, because the QTL was significant in plants grown under cool, but not elevated temperatures. Interestingly, CO does not appear to be responsive to temperature in Arabidopsis (Blazquez et al. 2003). We were unable to identify potential candidate loci for the three remaining QTLs.
+Arabidopsis senses day length through various phytochrome and cryptochrome loci (El-Assal et al. 2001; Maloof et al. 2001; Simpson and Dean 2002; Balasubramanian et al. 2006a; Filiault et al. 2008); however, we found no evidence for QTLs near any of these loci. Instead, the region near the PIE1_I locus showed a significant relationship with flowering timing under long photoperiod days (16 h days: rooms 1 and 3) in the growth chamber as well as flowering timing in the field. It is possible that photoperiod influences the QTL × room ×vernalization interaction at this locus. Additionally, the QTL near the blue light photoreceptor NPH3 showed a significant QTL × room × vernalization interaction, which could be due, in part, to photoperiod.
+LITTLE CORRELATION BETWEEN LABORATORY
+AND FIELD RESULTS
+QTL studies in controlled laboratory conditions have greatly advanced our understanding of the genetic architecture of flowering time, other traits, and fitness components in Arabidopsis (e.g., Mitchell-Olds 1996; Alonso-Blanco et al. 1998; Ungerer et al. 2002) and natural and crop species (e.g., Bratteler et al. 2006; Hall et al. 2006; Schranz et al. 2009; Buckler et al. 2009; Blackman et al. 2010). Plants are exposed to more complex conditions in the field than in the laboratory, and field conditions can change
+FLOWERING TIME IN BOECHERA STRICTA
+ EVOLUTION MARCH2011 783
+
+         JILL T. ANDERSON ET AL.
+drastically over multiple timescales (e.g., daily, seasonally, and annually). Although spatial and temporal variation present in natural settings could alter patterns of gene expression and/or the significance of QTLs, few studies have compared genetic control of flowering time in laboratory and field environments (but see Weinig 2003a,b). Two recent studies in A. thaliana (Wilczek et al. 2009; Brachi et al. 2010) found substantial differences in the genetic architecture of flowering between laboratory and field. Similarly, we found a number of QTLs that were significant only in the field or in the laboratory (Table 3 and Tables S10–S12), despite the significance of the nFT QTL in both experiments. Consequently, evolutionary studies must examine the genetic control of flowering time in realistic field environments.
+Conclusions
+In contrast with maize, where many genes with small effects explain substantial variation in flowering time (Buckler et al. 2009), our results corroborate previous conclusions that large effect QTLs can underlie patterns of intraspecific divergence in ecologically relevant traits in natural populations (Remington and Purugganan 2003). Our nFT QTL (near the FT locus, an integrator of flowering time pathways) predicted the probability of flowering in the field, as well as age and size at first reproduction in the growth chamber experiment. Several genome regions exhibited significant QTLs for multiple traits, but were not close to known Arabidopsis flowering time genes. Furthermore, MLSIM implicated six QTLs in the timing of flowering in the field, including PIE1_I, and five others for which we cannot suggest candidate genes. These QTLs remain intriguing possibilities for research on flowering timing in this perennial species. Additionally, the low correlations between flowering in the field and under controlled conditions emphasize the importance of conducting field work and not simply relying on laboratory experiments for studying ecological genetics.
+Climate change has known effects on phenology (e.g., Inouye 2008). Models project that winter conditions are likely to decrease in severity and duration, and growing season temperatures are likely to increase in the natural range of B. stricta (Wagner et al. 2003), which could result in a mismatch between pollinator abundance and floral development if pollinators respond differently to novel conditions (Eckert et al. 2010). Additionally, reduced vernalization and warmer growing seasons could delay flowering, resulting in inadequate time for seed development prior to inclement conditions. Alternatively, increased vernalization, due to longer periods above freezing in the winter, could accelerate flowering and increase the risk of frost damage to premature flowers (Inouye 2008). Because B. stricta spans a broad elevational gradient (from 1500 m to 3700 m, T. Mitchell-Olds, pers. obs.), climatic changes could disproportionately affect higher elevation
+populations, which might currently be adapted to very short growing seasons (Wagner et al. 2003).
+ACKNOWLEDGMENTS
+We thank K. Springer and T. Aremu-Cole for assistance with the growth chamber experiment and S. Mitchell-Olds for assistance in the field. A. Manzaneda and T. Pendergast provided valuable discussion and B.-H. Song helped with DNA extractions and genotyping. Jennie Reithel, Ian Billick and colleagues at the Rocky Mountain Biology Laboratory facilitated this research in Colorado, and Nancy Wicks graciously allowed us to establish our common garden on her land. We thank Associate editor T. Juenger and three anonymous reviewers for constructive criticisms of a previous version of this manuscript. We are also grateful to the staff of the Transportation Safety Administration (TSA) at Raleigh-Durham Airport for their assistance in screening the plants we transported to our field sites. This work was supported by award R01 GM086496 from the National Institutes of Health and award EF-0723447 from the National Science Foundation.
+ 784 EVOLUTION MARCH2011
+
+         FLOWERING TIME IN BOECHERA STRICTA
+ EVOLUTION MARCH2011 787
+   Supporting Information
+The following supporting information is available for this article:
+Figure S1. Plant size varied as a function of growth chamber room in growing seasons 1 and 2.
+Figure S2. Positions of single quantitative trait loci detected in the field (hatched boxes) and growth chamber (open and filled boxes) experiments for linkage group 2 from the QTL Cartographer analysis.
+Table S1. Genotypic data of 175 recombinant inbred lines (RILs) at 201 markers.
+Table S2. Effects of environmental variables on flowering time in a time-until-event model that includes family-level germination rates.
+Table S3. Effects of environmental variables on plant size at flowering (leaf number) in a mixed model ANOVA that includes family-level germination rates.
+Table S4. Standardized and unstandardized selection gradients (±SE) from genotypic selection analyses of field data on relative fitness (silique number per family/mean silique number).
+Table S5. Recombinant inbred line and parent means (standard deviations), and maximum and minimum values for flowering time in the field and growth chamber experiments.
+Table S6. RIL means for plant size (leaf number) at flowering.
+Table S7. Broad-sense heritabilities for flowering time and plant size (leaf number) at flowering.
+Table S8. Family-level Pearson correlation coefficients between phenotypic traits (flowering time below the diagonal and plant size at flowering above the diagonal) in the field and growth chamber.
+Table S9. Results of two multiple regression models with the probability of flowering in the field or flowering time in the field as the response variable and flowering times in the growth chamber treatments as the explanatory variables.
+Table S10. Full QTL Cartographer results from growth chamber and field.
+Table S11. Growth chamber treatments only (flowering time).
+Table S12. Growth chamber QTL results for leaf number.
+Supporting Information may be found in the online version of this article.
+Please note: Wiley-Blackwell is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+ 

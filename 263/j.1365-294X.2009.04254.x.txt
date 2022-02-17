@@ -1,0 +1,329 @@
+   Molecular Ecology (2009) 18, 3020–3035 doi: 10.1111/j.1365-294X.2009.04254.x
+Comparison of quantitative and molecular genetic variation of native vs. invasive populations of purple loosestrife (Lythrum salicaria L., Lythraceae)
+YOUNG JIN CHUN,* JOHN D. NASON† and KIRK A. MOLONEY†
+*INRA, UMR 1210 Biologie et Gestion des Adventices, 17 rue Sully, BP 86510, F-21065 Dijon Cedex, France, †Department of Ecology, Evolution, and Organismal Biology, Iowa State University, Ames, IA 50011, USA
+Abstract
+Study of adaptive evolutionary changes in populations of invasive species can be advanced through the joint application of quantitative and population genetic methods. Using purple loosestrife as a model system, we investigated the relative roles of natural selection, genetic drift and gene flow in the invasive process by contrasting phenotypical and neutral genetic differentiation among native European and invasive North American populations (QST ) FST analysis). Our results indicate that invasive and native populations harbour comparable levels of amplified fragment length polymorphism variation, a pattern consistent with multiple independent introductions from a diverse European gene pool. However, it was observed that the genetic variation reduced during subsequent invasion, perhaps by founder effects and genetic drift. Comparison of genetically based quantitative trait differentiation (QST) with its expectation under neutrality (FST) revealed no evidence of disruptive selection (QST > FST) or stabilizing selection (QST < FST). One exception was found for only one trait (the number of stems) showing significant sign of stabilizing selection across all populations. This suggests that there are difficulties in distinguishing the effects of nonadaptive population processes and natural selection. Multiple introductions of purple loosestrife may have created a genetic mixture from diverse source populations and increased population genetic diversity, but its link to the adaptive differentiation of invasive North American populations needs further research.
+Keywords: AFLP, FST and QST, genetic variation, invasive species, Lythrum salicaria, quantitative trait
+Received 5 January 2009; revision received 8 April 2009; accepted 15 April 2009
+Introduction
+Elucidating mechanisms by which populations differentiate at different geographical and temporal scales is a primary theme in evolutionary biology. Of special interest are processes influencing levels of genetic variation and the role of natural selection in shaping heritable variation into adaptive differences among populations. Although phenotypical differences between populations are often assumed to be adaptive, both molecular and quantitative variation can be influenced by nonadaptive processes involving random genetic drift and gene flow
+Correspondence: John D. Nason, Fax: +1 515 294 1337; E-mail: jnason@iastate.edu
+(Wright 1931; Hartl & Clark 1989; Falconer & Mackay 1996). Founder effects, bottlenecks and admixture, in particular, can have strong impacts on the distribution of phenotypical variation within and among populations (Lande 1980; Lynch et al. 1999). Under these conditions, it can be especially challenging and interesting to determine whether heritable phenotypical differences between populations represent the outcomes of adaptive or nonadaptive processes.
+Invasive species provide excellent systems for investigating the relative roles of natural selection vs. genetic drift and gene flow in population differentiation. Invasive populations of non-native species are having major negative impacts on natural and human-managed
+Ó 2009 Blackwell Publishing Ltd
+
+landscapes (Vitousek et al. 1996; Clavero & GarciaBerthou 2005). These populations are expected to be under strong selection to adapt to environmental conditions of the invasive range and, though often relatively recently introduced, these have frequently been found to possess genetically based phenotypical differences from populations in the ancestral range (Baker & Stebbins 1965; Baker 1974; Sakai et al. 2001), indicative of rapid evolutionary change (Lee 2002). While changes in size and fecundity may be adaptive, they may also reflect high rates of genetic drift associated with founding events and postcolonization bottlenecks (Brown & Marshall 1981; Le Page et al. 2000; Lee 2002; DeWalt & Hamrick 2004). Multiple independent introductions from genetically diverse sources and subsequent admixture among them can also occur (Warwick et al. 1987; Novak & Mack 1993; Neuffer & Hurka 1999; Pappert et al. 2000; Meekins et al. 2001; Bartlett et al. 2002; Maron et al. 2004; Durka et al. 2005). Such admixture may increase genetic diversity (Novak & Mack 1993; Amsellem et al. 2000; DeWalt & Hamrick 2004) and so enhance the ability of populations to adapt to and potentially to radiate into novel environments (e.g. Sakai et al. 2001), directly contributing to significant phenotypical differentiation between populations from the invasive and native range by spurring the formation of novel recombinant genotypes (e.g. Hedge et al. 2006).
+A research programme combining ecological and genetic perspectives can potentially distinguish the relative contributions of adaptive and nonadaptive processes to population differentiation. Population genetic methods can be effective for identifying influential features of invasion history, including bottlenecks, independent introduction events and subsequent intermingling of populations during invasive spread (Cruzan 1998; Durka et al. 2005). The adaptive nature of phenotypical differentiation among populations, in turn, can be tested relative to a neutral model of quantitative genetic divergence, where neutral genetic variation is used as the null expectation for the amount of differentiation among populations in quantitative variance (Spitze 1993; Whitlock 1999). This can be achieved by contrasting neutral genetic variation among populations (FST) with its analogue for quantitative genetic traits (QST) (Spitze 1993; Whitlock 1999; McKay & Latta 2002). FST reflects population differentiation due to nonadaptive processes, including genetic drift, migration and mutation, while QST may reflect the action of natural selection, as well as these nonadaptive processes (Spitze 1993). If a quantitative trait is selectively neutral and exhibits a purely additive genetic basis and linkage equilibrium among underlying loci, QST has the same expectation as FST as the trait is affected only by random genetic drift, migration and
+mutation (Merila ̈ & Crnokrak 2001). Alternatively, if trait variation is not neutral, then QST „ FST with the direction of the difference depending on the form of selection (Reed & Frankham 2001). Stabilizing selection for a common optimal phenotype can homogenize variation across populations resulting in QST < FST, whereas disruptive selection in response to different local optima results in QST > FST (Crnokrak & Merila ̈ 2002; McKay & Latta 2002).
+The analysis of the QST ) FST contrast thus provides a useful tool for investigating the role of adaptive vs. nonadaptive processes in the spread of invasive species. When introduced populations experience new local selection pressures favouring alternative genotypes that are appropriate to the different local environments, they are expected to diverge and produce genetically distinct, locally specialized ecotypes, an important mechanism for rapid spread into novel environments (Sakai et al. 2001; Sexton et al. 2002). Invasion may be further promoted by multiple, genetically differentiated introductions and increased genetic diversity resulting from recombination between them (Ellstrand & Schierenbeck 2000), genetic reorganization following bottlenecks (Suarez & Tsutsui 2008) and release from native predators, parasites and competitors (Maron & Vila ́ 2001; Mitchell & Power 2003; Reinhart & Callaway 2006).
+The goal of this study was to investigate the relative importance of different population genetic processes and phenotypical adaptation in the invasive spread of purple loosestrife (Lythrum salicaria L., Lythraceae) in North America. Introduced from Europe in the early 1800s (Thompson et al. 1987), this aggressive invader of wetlands is having significant negative impacts, including reduction in plant biodiversity and quality of wildlife habitat as well as alteration of wetland function (Blossey et al. 2001). Research on this species has documented phenotypical differences between invasive North American and native European populations (e.g. Edwards et al. 1998; Bastlova ́ & Kveˇt 2002) with some differences shown to have a significant genetic basis (Chun et al. 2007). Nevertheless, the relative contributions of adaptive and nonadaptive processes to this differentiation have not been tested. Towards this end, this study specifically addresses the following questions: (i) Do purple loosestrife populations from the invasive provenance exhibit spatial patterns and levels of neutral variation that, relative to native populations, are indicative of single or multiple founding events, bottlenecks or population admixture? (ii) For which fitness-related traits do invasive populations exhibit significant genetically based differentiation from native populations? (iii) For which of these traits is the differentiation between invasive and native provenances adaptive or neutral? (iv) For adaptive differences, is the
+Ó 2009 Blackwell Publishing Ltd
+QUANTITATIVE AND MOLECULAR GENETIC VARIATION 3021
+
+3022 Y. J. CHUN, J. D. NASON and K. A. MOLONEY
+overall pattern of phenotypical variation indicative of disruptive or stabilizing selection?
+Materials and methods
+Seed collection and germination
+To contrast native vs. invasive populations, we examined three European regions (native provenance) and three North American regions (invasive provenance). The three study regions in North America were chosen to reflect different stages in the invasion history of purple loosestrife, with New Jersey populations as the oldest (many dated to before 1900), Michigan populations being of intermediate age (many appearing from the 1900s through the 1940s) and Iowa populations being the youngest (established after the 1940s) (Stuckey 1980; Edwards et al. 1995). Three populations from each region (18 populations in total) were chosen to represent a range of environmental (nutrient and water) conditions in the natural field (Table 1). From each population, we collected seeds from 20 plants separated by at least 3 m to ensure they were distinct genets. Seeds were obtained from at least 1000 capsules per plant and pooled into maternal families at the individual plant level. Given that plants are obligately
+outcrossing (trystylous; A ̊ gren & Ericson 1996) and sample populations were large, seeds within maternal families were considered to be half-sibs. Seeds from each half-sib family were planted in the Bessey greenhouse at Iowa State University on 2 May 2006. After 28 days of growth, eight half-sib families from each population were selected at random for amplified fragment length polymorphism (AFLP) analysis, five of which were used for a common garden experiment.
+DNA extraction and AFLP analysis
+Amplified fragment length polymorphism markers are presumably neutral and have found wide application in the analysis of genetic variation below the species level, particularly in investigations of population structure and differentiation (Mueller & Wolfenbarger 1999). Leaves were obtained from one young plant sampled from each of the eight half-sib families from the 18 study populations. We extracted genomic DNA from loosestrife using the CTAB method (Doyle & Doyle 1990) modified to minimize polysaccharides and other contaminating materials.
+Amplified fragment length polymorphism procedures were performed essentially following the protocol described by Vos et al. (1995) with only minor modifi-
+Table 1 Geographical position of sampling sites with polymorphism information content in parentheses for geographical level. n, number of individuals after sample reduction
+each hierarchical
+Number of total ⁄ private loci
+915⁄3 915⁄5
+542⁄0 1045⁄3
+1015⁄9 810⁄1
+1131 ⁄ 14 1102⁄5
+1110⁄7 1032⁄6 1113⁄2 1096⁄2 1141 ⁄ 16 1037⁄0 1068 ⁄ 10 1065⁄6 1106 ⁄ 15
+1036⁄4
+ Provenance
+North America (0.174)
+Region
+Iowa (0.139)
+Michigan (0.175)
+New Jersey (0.207)
+Potsdam (0.188)
+Switzerland (0.201)
+Tu ̈ bingen (0.188)
+Population Acronym
+Boone Folks (0.175) IABF Little South Storm Lake IALS
+(0.181)
+Manly (0.060) IAMA Kellogg Biological Station MIKB
+(0.197)
+Lake Lansing (0.188) MILL Rifle Range near Pittsford MIRR
+(0.140)
+Beaver Run (0.217) NJBR Hainville County Store NJHV
+(0.195)
+Walkill River (0.210) NJWR Golm (0.182) PDGO Grube (0.194) PDGR Potsdam (0.189) PDPO Altmatt (0.221) SWAL North Sihl Lake (0.188) SWNO Steinbode (0.193) SWST Hagelloch Tobel (0.183) TUHA Reusten ‘Hinterer See’ TURE
+(0.198)
+Unterjesingen ‘Wiesbrunn’ TUUN
+(0.181)
+Latitude 42°17¢N
+42°38¢N 43°16¢N
+42°21¢N 42°46¢N
+41°51¢N 41°09¢N
+41°15¢N 41°03¢N
+52°25¢N 52°27¢N 52°29¢N 47°20¢N 47°36¢N 47°09¢N 48°32¢N 48°33¢N
+48°31¢N
+Longitude 93°56¢W
+95°14¢W 93°07¢W
+85°21¢W 84°23¢W
+84°30¢W 74°36¢W
+74°48¢W 74°37¢W
+12°57¢E 12°57¢E 12°57¢E 07°52¢E 08°13¢E 08°43¢E 09°01¢E 08°55¢E
+08°58¢E
+n
+3 3
+1 5
+8 2
+8 8
+8 8 8 8 6 5 8 8 8
+8
+ Europe (0.192)
+ Ó 2009 Blackwell Publishing Ltd
+
+cations. Genomic DNA (􏰁200 ng) was digested with 10 units each of EcoRI and MseI, incubating at 37 °C for 3 h. Double-stranded adaptors were prepared from the following complementary single-stranded oligonucleotides: 5¢-CTCGTATACTGCGTACC-3¢ (forward) and 5¢-AATTGGTACGCAGTA-3¢ (reverse) for the EcoRI adapter pair, and 5¢-GACGATGAGTCCTGAG-3¢ (forward) and 5¢-CTACTCAGGACTCAT-3¢ (reverse) for the MseI adapter pair. Ligation reactions were performed by adding 75 pmol each of the EcoRI adapter and MseI adapter, and 20 units of T4 DNA ligase with its buffer to the digested product, and incubating overnight at 16 °C. For the preselective polymerase chain reaction (PCR), we added 10 lL of the ligation product to 40 lL of a preselective PCR mix consisting of: 13 lL dH2O, 5 lL 10X PCR buffer, 1.5 lL MgCl2 (50 mM), 4 lL dNTP (2.5 mM), 8 mL (5 pmol ⁄ lL) of each preselective primer and 0.5 lL of Taq DNA polymerase (5 U ⁄ lL). Sequences of preselective primers are: EcoRI + A: 5¢-TACTGCGTACCAATTCA-3¢ and MseI + C: 5¢-GACGATGAGTCCTGAGTAAC-3¢. Preselective PCR conditions were a preliminary 75 °C extension for 2 min followed by 20 cyclesof94°Cfor30s,56°Cfor30s,75°Cfor2min, finishing with one cycle of 60 °C for 30 min. Five microlitres of this PCR product was electrophoresed through 1% TAE-agarose gels and stained with ethidium bromide to verify adequate preselective amplification. The remaining 45 lL was diluted with 180 lL dH2O. For the selective PCR, we added 5 lL of diluted preselective PCR product to 20 lL of the selective PCR mix consisting of 11.5 lL dH2O, 2.5 lL 10X PCR buffer, 0.75 lL
+MgCl2 (50 mM), 3 lL
+(5 pmol ⁄ lL) each of two
+HEX) selective primers,
+MseI unlabelled primer and 0.25 lL of Taq DNA polymerase (5 U ⁄ lL). We performed selective PCR with four primer pairs: EcoRI + AGC (6-FAM), EcoRI + ACG (HEX), EcoRI + ACA (6-FAM) and EcoRI + AAC (HEX), each paired with MseI + CAA. The PCR profile was one cycle of 94 °C for 2 min, one annealing cycle of 94 °C for30s,65°Cfor30sand72°Cfor2min,followedby nine cycles of a 1 °C decrease in annealing temperature per cycle, followed by 35 cycles of 94 °C for 30 s, 56 °C for 30 s and 72 °C for 2 min, and a final extension at 60 °C for 30 min. For all samples, we performed duplicates of entire reactions to verify reproducibility such that the total sample size for AFLP analysis was 18 populations · eight half-sibs per population · two replicates per plant = 288. Selective PCR products were electrophoretically separated using automated sequencing gels on an ABI Prism 3100 Genetic Analyzer (Applied Biosystems) at the DNA Sequencing and Synthesis Facility at Iowa State University. Coloured gel images were analysed with ABI GeneScan Analysis 2.1
+(Applied Biosystems) software. To verify reproducibility, samples were run in a manner that permitted replicates to be visualized side by side on each gel.
+AFLP data analysis
+Of the 144 individuals, 31 yielded highly anomalous AFLP banding patterns in both replicates, and following re-extraction of DNA. As technical errors at the digestion and ⁄ or ligation step appeared to produce artefactual amplification (Mueller & Wolfenbarger 1999), they were omitted from further analysis and all subsequent analyses and results were restricted to the remaining 113 individuals (Table 1). AFLP error rates were calculated by following the procedure described by Bonin et al. (2004). A preliminary neighbour-joining cluster analysis of these individuals based on all AFLP fragments between 35 and 500 bp in length appropriately clustered replicate individuals together and within their source populations. Therefore, we used all fragments in the above range in our analyses.
+We estimated polymorphism information content (PIC) as a surrogate for population genetic diversity (Anderson et al. 1993): PIC = 2 f (1 ) f), where f is the percentage of samples in which the fragment is present. PIC was calculated separately for each polymorphic fragment to estimate genetic diversity within population level. The genetic diversity was compared between provenances and among regions within provenance using t-test. In addition, to test whether genetic diversity has decreased or increased through invasion history in North America, regression was used to test the linear relationship between the genetic diversity of invasive populations and their geographical distances (in kilometres) from the easternmost population (New Jersey Walkill River).
+Given an a priori null population model based on geography (native European vs. invasive North American provenances and regions within provenances), we tested for variation at provenance and regional levels using analysis of molecular variance (AMOVA; Excoffier et al. 1992). To take into account subtle differences in AFLP genotypes between replicates, for each individual we constructed a vector of means for each locus between replicates and calculated the squared Euclidean distance matrix among all individual vectors in the manner of Smouse & Peakall (1999) using R 2.3.1 (R Development Core Team 2006). The squared Euclidean distance data matrix was then used to evaluate a hierarchically nested AMOVA model examining how total AFLP molecular genetic variation is partitioned among provenances relative to the total populations (FRT), among populations within provenances (FPR) and within populations (FPT) using GENALEX 6.1 (Peakall & Smouse
+Ó 2009 Blackwell Publishing Ltd
+dNTP EcoRI 0.5 lL
+(2.5 mM), 0.75 lL labelled (6-FAM and (50 pmol ⁄ lL) of one
+QUANTITATIVE AND MOLECULAR GENETIC VARIATION 3023
+
+3024 Y. J. CHUN, J. D. NASON and K. A. MOLONEY
+2006). We also conducted AMOVA for each provenance separately to characterize genetic structure among regions (FGT), among populations within regions (FPG) and within populations (FPT). To test for isolation by distance within each province, we calculated FPT for each pair of populations and tested this statistic against the log10-scaled Euclidean geographical distances (in kilometres) between populations. We used Mantel (1967) test to determine significance with 9999 permutations of the data using GENALEX 6.1.
+We explored alternative models of the genetic relationships among sample populations using principal coordinate analysis and a model-based Bayesian clustering procedure. In the principal coordinate analysis, principal coordinates were extracted from the squared Euclidean genetic distance matrix described above and plotted using GENALEX 6.1. The model-based clustering analysis utilized Structure 2.2 (Pritchard et al. 2000) with 30 000 generations of burn-in and 100 000 Markov Chain Monte Carlo simulations. The Markov Chain Monte Carlo algorithm accounted for the genotypical ambiguity in dominant marker by setting the option RECESSIVEALLELES = 1 (Falush et al. 2007). We used the admixture model in which the fraction of ancestry from each cluster is estimated for each individual with the assumption that allele frequencies are correlated among populations, as suggested in Falush et al. (2003). We ran this simulation program, increasing the number of clusters (K) from 2 to 10, with the number of natural clusters in the data inferred from a plateau in the estimated posterior probability of K (Falush et al. 2003). For each successive value of K, the inferred clusters were drawn as coloured box plots using the DISTRUCT (Rosenberg 2004) program, while the increasing decomposition of clusters was graphed in the form of a tree.
+Analysis of phenotypical traits
+We conducted a common garden experiment in an open field site at the Bruner Farm, Boone, IA, USA (42°00¢N, 93°43¢W). We chose four seedlings of 2 cm in height from each of five half-sib families per population (18 populations · five half-sib families · four seedlings = 360) to reduce environmental variation in traits related to germination and pre⁄ post-transplant growth (e.g. maternal effects). On 30 May 2006, seedlings were individually transplanted into plastic pots (30 cm diameter · 25 cm depth) and placed into plastic wading pools (1.4 m diameter · 30 cm depth). The pots were filled with Sunshine LC1 potting soil (Sun Gro Horticulture Canada). As the initial nutrient charge is highly water soluble, providing the equivalent of approximately one application of a liquid fertilizer, nutrients
+were supplemented by regular fertilizer treatments as described below.
+Because the expression of heritable phenotypical variation can be environmentally dependent (Falconer & Mackay 1996), and purple loosestrife populations exhibit significant differences in reaction norms across environments (Chun et al. 2007), an experimental design growing half-sib families in a single environment would confound measurement of quantitative trait variation with environmental effects. To avoid this, we grew purple loosestrife plants in four environments, ultimately using restricted maximum-likelihood approach to decompose total quantitative trait variation into genetic and environmental components. Plants were arranged in a split-plot design consisting of five complete blocks, with four subplots within each block. Each subplot consisted of three plastic wading pools, which contained one of four environmental treatment combinations: (i) low water ⁄ low nutrient (WLNL), (ii) low water ⁄ high nutrient (WLNH), (iii) high water ⁄ low nutrient (WHNL), and (iv) high water ⁄ high nutrient (WH NH ). Three plants from each provenance were put in each wading pool (six plants per pool). Three populations from each region were distributed among three pools at random, with the restriction that only one population from each region can appear in a pool. Five half-sib families from each population were also randomized across five blocks. Four individuals from a half-sib family cannot occur within the same block, but were distributed evenly among all four environmental treatment combinations. The total number of experimental units for this experiment was five blocks · four treatment combinations = 20 units, with six regions · three populations = 18 observations per experimental unit. Pots in the high water treatments were kept at saturation, similar to standing water conditions in lakes and ponds. Low water treatments are comparable with drier, upland conditions, where plants were watered to the extent of letting the soil soak for a few hours, after which the soil was allowed to dry. Due to drought conditions at the common garden site, plants in the low water treatments were watered every day until 27 June, and then watered three times a week. In addition, 52 seedlings were killed from summer heat between 2 and 22 June and were replaced with seedlings from the same half-sib family. After that period, six plants died and were not considered in the data analysis.
+In the low nutrient treatment, no fertilizer was applied, whereas in the high nutrient treatment, 100 g of slow-release 14:14:14 N:P:K Osmocote (The Scotts Company) was applied once to a pot at the beginning of the experiment (N, 2481 mg ⁄ kg soil; P, 563 mg ⁄ kg soil; K, 1320 mg ⁄ kg soil). The Osmocote applied in the high nutrient treatment followed the manufacturer’s
+Ó 2009 Blackwell Publishing Ltd
+
+recommendation for amount and rate (one application for a 3to 4-month growing period) to be used in producing high fertilization levels (The Scotts Company). As a consequence, the low and high nutrient treatments were designed to be a reasonable approximation of low and high soil nutrient levels, respectively, that would be encountered under natural field conditions (cf., Bridgham et al. 1996; Thormann & Bayley 1997; Bedford et al. 1999).
+On 31 August 2006, after 97% of the plants had initiated flowering, we harvested the aboveground part of the plants. Belowground parts were left for a subsequent study. We randomly chose wading pools across blocks for harvesting to minimize experimental variation due to growth during the harvesting period. The following eight traits were measured for each experimental individual: (i) height, (ii) number of secondary branches, (iii) number of stems originating from the rootstock, (iv) leaf area of largest leaf, (v) number of days from sowing to the first flowering, (vi) aboveground biomass, (vii) ratio of reproductive (flowering) part to the aboveground biomass, and (viii) total number of flowers per plant. To determine (iv), we chose the largest leaf from each plant and calculated leaf area by multiplying the maximum length by width of the leaf. To determine (viii), we haphazardly sampled six short sections (5 cm) of flower stalk from each plant (two each from apical, middle and basal part of the stalk) to count the number of flowers and measure biomass, then the number of flowers per unit biomass of flower stalk was calculated. We also measured total biomass of flower stalks per plant for each individual. Total number of flowers per plant was then calculated by multiplying the number of flowers per unit biomass by total biomass of flower stalk per plant, for each individual. To determine aboveground biomass and flower stalk biomass, plants were divided into the respective parts and dried in an oven for 24 h at 60 °C to constant weight.
+Analysis of quantitative phenotypical data
+QST measures quantitative genetic variation in a manner analogous to FST (McKay & Latta 2002). A correct estimation of QST requires one to disentangle genetic variation among populations from environmental variation (Latta 2003; Pujol et al. 2008); thus, a common garden system is an excellent research design to study QST. Assuming that the inbreeding coefficient was zero, we estimated QST as: QST 1⁄4 r2BP=ðr2BP þ 2r2WPÞ, where r2BP and r2WP are the additive genetic variance among and within population respectively. As our experimental design involves multiple half-sib families nested within population, the additive genetic variance within population is four times the among-family variance (Lynch &
+Walsh 1998). Quantitative trait data were log10-transformed, except for one trait (the ratio of reproductive biomass to aboveground biomass) which was arcsinetransformed, to create variables and their residuals that were more normally distributed to satisfy assumptions of our analytical methods. We calculated QST for each of the eight quantitative traits using the variances obtained from a restricted maximum-likelihood analysis conducted using PROC MIXED in SAS 9.1 (SAS Institute Inc.) while accounting for environmental effects. To determine which traits were neutral or under disruptive ⁄ stabilizing selection, QST was contrasted with FST for each quantitative trait. FST was estimated as h(II) based on Weir & Cockerham’s (1984) method using the Bayesian approach implemented in the program HICKORY v1.1 (Holsinger & Lewis 2006). To account for the sampling error and predict the true estimation of FST and QST, we calculated 1000 values of mean FSTand QSTvalues by generating bootstrap replicates (Whitlock 2008), and tested if mean QST-values are greater than, smaller than or not significantly different with mean FST using Lewontin & Krakauer’s (1973) approach. For each iteration of bootstrap, we computed the probability of getting a QST-value greater or smaller than the predicted FST-distribution (two-tailed test), then the average probability was reported before and after applying sequential Bonferroni correction (Rice 1989) to account for multiple tests. We conducted the QST ) FST contrast for four population models in which VBP was the variance between (i) all 18 populations, (ii) the two provenances, (iii) the nine invasive populations, and (iv) the nine native populations.
+Results
+From the four selective primer pairs and 226 samples, 1864 fragments were scored, of which 284 (15.2%) were monomorphic. The number of fragments per sample ranged from 439 to 621, with an average of 546 fragments. Among the 113 individuals analysed, no clone was detected. The error rate per fragment was 0.6– 2.4%, with an average of 1.1%. Across our data set of 18 populations, observed genetic diversity was significantly smaller in the invasive provenance than that in the native provenance (Table 1, t-test: P < 0.001). Within the invasive provenance, genetic diversity decreased from the ancestral region (New Jersey, 0.207) through the intermediate region (Michigan, 0.175) to the region where purple loosestrife established most recently (Iowa, 0.139) (pairwise t-tests: P < 0.001 for all pairs of regions). However, the regression of genetic diversity on geographical distance from the easternmost population (New Jersey Walkill River) was not significant (R2 = 0.331, P = 0.105).
+Ó 2009 Blackwell Publishing Ltd
+QUANTITATIVE AND MOLECULAR GENETIC VARIATION 3025
+
+3026 Y. J. CHUN, J. D. NASON and K. A. MOLONEY
+In the principal coordinate analysis, principal coordinate axes PC1 and PC2 (Fig. 1a) together explained 57.5% of the total genetic variation, while PC2 and PC3 (Fig. 1b) together explained 38.2%. PC1 alone accounted for 34% of the total genetic variation. Populations from invasive and native provenances formed two separate groups, with invasive populations having positive PC1 scores and native populations having negative PC1 scores (Fig. 1a). Exceptionally, one population from each provenance (Potsdam Golm and Michigan Lake Lansing) was in contact with each other in the middle. PC2 and PC3 generally reflected the regional structures within each provenance (Fig. 1b). For example, populations from Michigan and Iowa had positive PC2 scores and negative PC3 scores, while European populations (Switzerland Steinbode and Potsdam Golm) had positive PC2 scores and positive PC3 scores.
+In evaluating population relationships inferred using Structure (Fig. 2), we observed a plateau of estimated
+posterior probability at K = 7 (Falush et al. 2003). In general, the pattern of clustering hierarchically divided population structure into invasive and native provenances and the regions within each. A primary exception, however, was the native Potsdam Golm population. This population clustered with populations from the invasive provenance at K = 3 before becoming a distinct cluster at K ‡ 4, a pattern consistent with the principal coordinate plot in which the Potsdam Golm population was in contact with an invasive population (Michigan Lake Lansing; Fig. 1a).
+From our geographical null model, the nested AMOVA for both provenances reflected significant genetic structure of provenances and populations, allowing 8% of the variation (P < 0.0001) to be accounted for among provenances and 19% of the variation (P < 0.0001) among populations within provenance (Table 2). Analysing provenances separately revealed almost no difference between the invasive and native provenances in population divergence: 23% and 22% of the genetic variation was partitioned among populations in the invasive and native provenances respectively. However, regional differentiation was greater in the introduced provenance (11%) than in the native provenance (5%). Population differentiation within regions was greater in the native provenance (17%) than that in the introduced provenance (12%). Population structure was comparable between invasive and native populations in that the majority of genetic variation was retained within populations. Pairwise FPT between populations were significant with a few exceptions (Table 3). The nonsignificant or less significant values involved the smallest populations after sample reduction (Iowa Boone Folks, Iowa Little South Storm Lake, Michigan Rifle Range near Pittsford, Switzerland Altmatt and Switzerland North Sihl Lake; Table 1), possibly indicating a sample effect. The correlation between FPT and geographical distance indicated significant pattern of isolation by distance for both invasive and native provenances (RXY = 0.480, P = 0.006; RXY = 0.279, P = 0.008 respectively).
+The analysis of quantitative traits resolved significant genetic differences among provenances and among populations within each provenance. Across all environmental treatments, invasive plants were generally taller, possessing greater leaf area and flowering later than native plants (Fig. 3a, d, e). Populations from Switzerland differed from other populations in native provenance by less number of branches, stems, flowers, leaf area, more reproductive: aboveground biomass ratio and early flowering (Tukey–Kramer test, P < 0.05). In the invasive provenance, populations from Michigan showed early flowering and more reproductive: aboveground biomass ratio than other populations (Tukey– Kramer test, P < 0.001). This indicates that Switzerland
+ (a)
+(b)
+Fig. 1 Principal coordinate plots displaying population structure (a) between PC1 and 2, (b) between PC2 and 3.
+Ó 2009 Blackwell Publishing Ltd
+
+Native provenance
+Among regions
+Among populations within regions Within populations
+Total
+QUANTITATIVE AND MOLECULAR GENETIC VARIATION 3027
+    Fig. 2 Estimated population structure from model-based clustering analysis. (Left) Each sample is represented by a thin vertical line, which is partitioned into K-coloured segments that represent the sample’s estimated membership fractions in K clusters. Black lines separate different populations. Populations are labelled below the figure. (Right) Clustering pattern diagram based on the highest percentage of population membership to each cluster.
+Table 2 Hierarchical nested analysis of molecular
+Source d.f.
+variance (AMOVA; Excoffier et al. 1992)
+ SS
+MS
+1176.202 354.634 131.189
+1662.025
+533.442 264.515 141.281 939.237
+491.771 324.418 124.751 940.940
+Variance % Var 14.897 8
+34.316 19 131.189 73 180.402
+20.922 11
+22.164 12 141.281 77 184.367
+7.429 5 26.969 17 124.751 78
+159.149
+Statistic FRT = 0.083
+FPR = 0.207 FPT = 0.273
+FGT = 0.113 FPG = 0.136 FPT = 0.234
+FGT = 0.047 FPG = 0.178 FPT = 0.216
+P-value <0.0001
+<0.0001 <0.0001
+<0.0001 <0.0001 <0.0001
+<0.0001 <0.0001 <0.0001
+ Invasive and native provenances
+Among provenances
+Among populations within provenances Within populations
+Total
+Invasive provenance
+Among regions
+Among populations within regions
+Within populations
+Total 44
+1 1176.202 15 5319.506 95 12462.950
+111 18958.658
+2 1066.884
+2 983.542
+6 1946.508 58 7235.563 66 10165.612
+5 1322.573 37 5227.388 7616.844
+ and Michigan populations cease vegetative growth earlier to produce more flowers than other populations in their respective provenance. The univariate ANOVA analysis indicated that purple loosestrife populations are genetically differentiated between invasive and native provenances for six out of eight traits (Table 4). Within each provenance, populations differed for all eight traits.
+The patterns of QST ) FST contrasts were shown from the analysis with four data sets: (i) all 18 populations, (ii) two provenances, (iii) nine invasive populations, and (iv) nine native populations (Table 5). Whether QST is similar, greater or smaller than FST varied depending on the quantitative traits tested and the populations included in the analysis. Before sequential Bonferroni
+corrections, QST was significantly smaller than FST for a few traits—height (invasive and native populations), number of branches (invasive populations), number of stems (all populations, native populations) and leaf area (invasive populations). Among these, only one case (the number of stems for all populations) was still significant after sequential Bonferroni corrections.
+Discussion
+Little is known about how adaptive and nonadaptive genetic processes influence the heritable phenotypical differences among natural populations. Many researchers addressing this issue indicate that adaptive processes contribute to form populations with different
+Ó 2009 Blackwell Publishing Ltd
+
+3028 Y. J. CHUN, J. D. NASON and K. A. MOLONEY
+       Ó 2009 Blackwell Publishing Ltd
+Table 3 Matrix of pairwise comparisons of population genetic distance (FPT) within each provenance. Population acronyms are as in Table 1. Population IAMA was omitted due to the insufficient number of samples after sample reduction
+Invasive IABF
+IALS 0.041
+NS ***NS****** ***NS******
+** ** ** * * ** ** ** ** ** ** ** * * ** *** ** ** *** *** *** ** ** *** *** *** *** *** *** *** *** *** *** *** *** ***
+Native
+NJBR 0.159 0.198 0.230 0.304 0.178
+NJHV 0.193 0.213 0.238 0.334 0.225 0.129 NJWR 0.149 0.178 0.200 0.270 0.165 0.125 PDGO 0.304 0.328 0.294 0.304 0.369 0.320 PDGR 0.218 0.232 0.187 0.247 0.247 0.221 PDPO 0.221 0.247 0.204 0.250 0.244 0.218 SWAL 0.242 0.252 0.209 0.290 0.261 0.221 SWNO 0.246 0.248 0.226 0.286 0.282 0.234 SWST 0.306 0.317 0.282 0.273 0.362 0.309 TUHA 0.301 0.321 0.278 0.323 0.349 0.290 TURE 0.273 0.282 0.252 0.308 0.316 0.263 TUUN 0.283 0.296 0.257 0.322 0.321 0.271
+*** *** *** *** *** *** *** *** *** *** *** *** *** 0.119 *** *** *** *** *** 0.366 0.306 *** *** *** *** 0.249 0.207 0.288 NS *** *** 0.245 0.207 0.299 0.015 *** ***
+*** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ** ** ** ***
+Invasive
+IABF IALS MIKB MILL MIRR NJBR NJHV NJWR
+Native
+MIKB 0.123 0.127
+MILL 0.238 0.248
+MIRR0.1620.1540.1570.274 ************
+NS, not significant. *P < 0.05, **P < 0.01, ***P < 0.001.
+*** * *** *** *** 0.156 * *** *** ***
+PDGO PDGR PDPO SWAL SWNO SWST TUHA TURE TUUN
+0.256 0.221 0.291 0.149 0.143 ** 0.271 0.217 0.303 0.079 0.094 0.108
+0.347 0.291 0.271 0.244 0.241 0.219 0.169 0.314 0.274 0.357 0.208 0.199 0.196 0.159 0.291 0.245 0.312 0.162 0.161 0.143 0.105 0.311 0.263 0.349 0.188 0.181 0.191 0.134
+*** *** *** 0.239 *** ***
+0.181 0.129
+0.254 0.164 0.114
+***
+
+optima (disruptive selection; Merila ̈ & Crnokrak 2001; Palo et al. 2003; Porcher et al. 2004; Le Corre 2005; Chapuis et al. 2007), while others suggest stabilizing selection (Stenøien et al. 2005; Evanno et al. 2006), or mixed results depending on the quantitative trait (Zhan et al. 2005) or habitat fragmentation (Johansson et al. 2007). This indicates that the role of nonadaptive processes is actually considerable in nature and should be carefully evaluated to assess the proportion of adaptive processes contributing to natural selection. Empirical studies examining this issue with native vs. invasive populations may allow us to evaluate the relative contribution of adaptive and nonadaptive processes affecting the formation of invasive populations, to deepen our understandings of the process of invasion. Using purple loosestrife as a model system, we first examined the population genetic variation and diversity to infer the population genetic processes involved in the process of invasion; then, we contrasted the genetic variation with quantitative trait variation to investigate how adaptive
+and nonadaptive processes influenced the formation of invasive vs. native populations.
+Interestingly, our study indicates that purple loosestrife populations introduced into North America maintained substantial molecular genetic diversity, comparable with native populations. The changes in genetic diversity after introduction to a new range may depend on the breeding system of invasive species. The impact of genetic bottlenecks and founder effects strongly limits the genetic diversity of plants relying on selfing or asexual reproduction (Baker 1967; Brown & Marshall 1981). Such species may be limited further by reduced recombination among founding genotypes and thereby maintain low genetic diversity (Lambrinos 2001). In contrast, outbreeding species often exhibit high levels of genetic diversity in both native and introduced ranges (Pappert et al. 2000). For outcrossing species in general, most of the total genetic diversity is retained within populations, while more is proportioned among populations of selfing species (Hamrick & Godt 1990).
+Ó 2009 Blackwell Publishing Ltd
+QUANTITATIVE AND MOLECULAR GENETIC VARIATION 3029
+ (a) (b)
+(c) (d)
+(e) (f)
+(g) (h)
+Fig. 3 Least square mean values (±SE) of eight trait values across all treatments for native (open circles) and invasive (solid circle) plants from each region. Region acronyms are as in Table 1.
+
+3030 Y. J. CHUN, J. D. NASON and K. A. MOLONEY
+Our results indicate that in both the invasive and native provenances, the genetic variation within populations accounted for the majority of total genetic variation (Table 2). It suggests that the founding populations may be composed of diverse mixtures of purple loosestrife lineages and⁄or that multiple episodes of introduction from different sources of native populations have produced genetically intermingled populations.
+During the invasion process, population processes such as founder effects and genetic drift may have reduced the genetic diversity of introduced purple loosestrife populations. Evidences exist that these nonadaptive processes resulted in biased frequencies of flower morphs (Eckert & Barrett 1992; Mal & LovettDoust 1997), while equal frequencies of three flower morphs are typical in native European populations (Eckert et al. 1996). Our results suggest that genetic diversity decreased during the course of invasion in North America from New Jersey through Michigan to Iowa. Rapid expansion of populations in North America could have involved founder events and drifts that ultimately reduced the genetic variability during subsequent invasion process.
+Population genetic structures of purple loosestrife populations appeared to be generally similar between invasive and native provenances. Distinct genetic entities of purple loosestrife were revealed between invasive and native provenances, with subsequent genetic subdivision at the region-wide geographical scale (Table 2; Figs 1 and 2). The pattern of isolation by distance was significant for both invasive and native provenances, which indicates that they are geographically structured and differentiated through migration and genetic drift. However, genetic variation among regions was twofold greater in the invasive than in the native provenance (Table 2). This may be due to the greater geographical range of sampled populations in the invasive than in the native provenance: mean pairwise geographical distances among populations were 624 and 297 km for invasive and native provenances respectively.
+The QST ) FST contrast is useful to evaluate the relative contribution of nonadaptive processes (genetic drift, migration and mutation) and adaptive processes (disruptive or stabilizing selection) in shaping quantitative traits. We did not find any evidence of significant differences between QST and FST, except for only one case of QST < FST for the number of stems in all populations (Table 5). This suggests stabilizing selection for a common optimum for this particular trait; however, it should be interpreted with care. Theoretical studies indicate that quantitative traits related to fitness generally have a large amount of dominance and epistatic genetic variance (Crnokrak & Roff 1995), which may cause a general decrease in QST (Whitlock 1999, 2008; Lo ́pez-Fanjul et al.
+     Ó 2009 Blackwell Publishing Ltd
+Table 4 Summary of ANOVA with P-values of the corresponding F-tests for each quantitative trait. Numerator degrees of freedom (d.f.) and denominator d.f. are presented in parentheses. Significant P-values are indicated in bold. Traits are: Height, final height at harvest; Branch, number of secondary branches; Stem, number of stems originating from the rootstock; LeafArea, leaf area of the largest leaf; NDFF, number of days from sowing to the first flowering; MassT, aboveground biomass; RatioRT, ratio of reproductive (flowering) part to the aboveground biomass; Flower, total number of flowers per plant
+Source
+Height
+0.0002 (1, 42.5)
+Branch
+0.7685 (1, 43.6)
+Stem
+0.0003 (1, 47.4)
+LeafArea NDFF
+MassT
+<0.0001 (1, 38.3)
+RatioRT
+Flower
+<0.0001 (1, 34.8)
+Water, W Nutrient, N W · N Provenance, R R·W
+<0.0001 (1, 42.5) <0.0001 (1, 42.5) <0.0001 (1, 225)
+<0.0001 (1, 43.6) <0.0001 (1, 43.6) 0.0058 (1, 232)
+<0.0001 (1, 47.4) 0.0632 (1, 47.4) 0.2609 (1, 228) 0.6305 (1, 228) 0.4092 (1, 228) 0.1598 (1, 228) 0.0108 (16, 246)
+0.0012 (1, 40.2) <0.0001 (1, 40.2) <0.0001 (1, 40.2) <0.0001 (1, 221)
+0.4304 (1, 41.6) 0.2944 (1, 41.6) 0.0511 (1, 41.6)
+<0.0001 (1, 38.3) <0.0001 (1, 38.3) <0.0001 (1, 225)
+<0.0001 (1, 35.4) 0.2795 (1, 35.4) 0.4125 (1, 35.4)
+<0.0001 (1, 34.8) <0.0001 (1, 34.8) 0.1973 (1, 219)
+R·N
+R·W·N Population within
+0.5365 (1, 225) 0.1996 (1, 225) 0.6595 (1, 225) 0.0004 (16, 259)
+0.7676 (1, 232) 0.0132 (1, 232) 0.0177 (1, 232) 0.0002 (16, 261)
+0.2833 (1, 221) 0.4031 (1, 221) 0.0301 (1, 221) <0.0001 (16, 255)
+<0.0001 (1, 231) 0.0250 (1, 231) 0.0338 (1, 231) 0.2296 (1, 231)
+0.9605 (1, 225) 0.1408 (1, 225) 0.2656 (1, 225) <0.0001 (16, 257)
+<0.0001 (1, 223) 0.0437 (1, 223) 0.0569 (1, 223) 0.9328 (1, 223)
+0.2838 (1, 219) 0.7583 (1, 219) 0.7835 (1, 219) <0.0001 (16, 254)
+provenance, P(R) R · W(P)
+R · N(P)
+R · W · N(P)
+0.8919 (16, 259) 0.2384 (16, 259) 0.7456 (16, 259)
+0.2299 (16, 261) 0.4909 (16, 261) 0.6915 (16, 261)
+0.4022 (16, 246) 0.6948 (16, 246) 0.7418 (16, 246)
+0.7505 (16, 255) 0.5661 (16, 255) 0.0195 (16, 255)
+<0.0001 (16, 264) 0.8613 (16, 264)
+0.5306 (16, 257) 0.3542 (16, 257) 0.6332 (16, 257)
+<0.0001 (16, 262) 0.7469 (16, 262)
+0.6903 (16, 254) 0.5311 (16, 254) 0.1972 (16, 254)
+0.9605 (16, 264) 0.8345 (16, 264)
+0.0221 (16, 262) 0.7534 (16, 262)
+
+QUANTITATIVE AND MOLECULAR GENETIC VARIATION 3031
+Table 5 Mean and 95% confidence limits (CL) of FST and QST for eight quantitative traits and the average probability of Lewontin & Krakauer (1973) test for (a) all populations, (b) between provenances, (c) invasive populations and (d) native populations. Bold P-values indicate where significant differences between FST and QST occurred. P < 0.025 indicates QST > FST, while P > 0.975 indicates QST < FST. Significant P-value after sequential Bonferroni correction is underlined. Trait acronyms are as in Table 4
+     FST
+Estimates
+Height Branch Stem LeafArea
+(a) All populations
+Mean 2.5% CL
+0.2250 0.2201 0.1127 0.0596 0.0766 0.0137 0.0296 0.0000 0.1431 0.0771 0.3874 0.2693 0.1560 0.0798 0.2357 0.1422 0.1214 0.0546
+(c) Invasive populations
+Mean 2.5% CL
+0.2233 0.2154 0.0311 0.0000 0.0214 0.0000 0.0670 0.0000 0.0382 0.0000 0.1807 0.0767 0.0737 0.0012 0.2087 0.0667 0.1951 0.0235
+97.5% CL 0.2301
+0.1922 0.1903 0.0864 0.2399 0.5364 0.2883 0.3686 0.2394
+97.5% CL 0.2315
+0.0944 0.1208 0.2405 0.1215 0.3899 0.2512 0.4955 0.5093
+(b) Between provenances P-value Mean 2.5% CL
+0.0832 0.0768 0.9270 0.1448 0.0854 0.9604 0.0162 0.0000 0.9971 0.0017 0.0000 0.8330 0.1394 0.0812 0.0609 0.2182 0.1669 0.7787 0.1526 0.0878 0.4416 0.0128 0.0009 0.8882 0.0011 0.0000
+(d) Native populations P-value Mean 2.5% CL
+0.1823 0.1761 0.9886 0.0201 0.0000 0.9820 0.1622 0.0196 0.9282 0.0223 0.0000 0.9780 0.0662 0.0071 0.6181 0.2537 0.1060 0.9142 0.0451 0.0000 0.5543 0.2657 0.1501 0.7123 0.1238 0.0537
+97.5% CL 0.0899
+0.2149 0.0535 0.0144 0.2134 0.2713 0.2513 0.0312 0.0087
+97.5% CL 0.1889
+0.0798 0.7349 0.1056 0.1878 0.4608 0.1546 0.4541 0.2560
+P-value 0.1945
+0.7050 0.9458 0.2041 0.1080 0.1863 0.7125 0.9574
+P-value 0.9900
+0.6395
+0.9807
+0.9017 0.2693 0.9467 0.2241 0.7089
+ QST NDFF MassT
+      FST
+RatioRT Flower
+Estimates
+Height Branch Stem LeafArea
+QST NDFF MassT
+RatioRT Flower
+ 2003; Goudet & Bu ̈chi 2006). The effects of nonadditive genetic variation thus often lead to underestimation of QST and difficulties in drawing inferences from QST < FST that we observed.
+In the process of estimating QST, we detected generally low level of phenotypical variance among and within populations. This may be due in part to the strong environmental effects, which accounted for most of the observed phenotypical variances. Indeed, phenotypical plasticity itself evolves and may be a part of adaptive process (Whitlock 2008), as previously reported for this species (Chun et al. 2007). The number and geographical scale of study populations (O’Hara & Merila ̈ 2005; Volis et al. 2005), the choice of quantitative traits and molecular marker (Merila ̈ & Crnokrak 2001; Whitlock 2008) may bias the outcome of QST ) FST analysis. Sampling error may also be attributable to the relatively large confidence intervals of QST compared with those of FST. Our study design was practically limited by lack of replication with only four plants per half-sib family randomly distributed across five blocks. In addition, generally high levels of FST from our AFLP marker may add more difficulties in detecting QST > FST (Hendry 2002; Goudet & Bu ̈chi 2006). In sum, although the
+QST ) FST analysis is an appropriate method to test the adaptive phenotypical differentiation among populations, its safe interpretation is limited by many assumptions and factors potentially leading to biased results.
+Our results indicate no significant differences between FST and QST between invasive vs. native provenance and within each provenance. However, this does not necessarily implicate the absence of adaptive genetic differentiation; instead, this suggests the difficulties in distinguishing the effect of nonadaptive population processes and natural selection (Merila ̈ & Crnokrak 2001). Our quantitative trait data (Fig. 3) indicated significant genetic variation between native and invasive provenances and among populations within each provenance (Table 4). Previous studies also support that purple loosestrife populations are known to be genetically differentiated along latitudinal gradient in both invasive (Montague et al. 2008) and native (Olsson & A ̊ gren 2002) provenances. Chapuis et al. (2007) noted that previous studies successfully detecting the evidences of disruptive selection (QST > FST) often involved populations across latitudinal or climatic gradient. In our study, the latitudinal range within invasive provenance was small in contrast to the large differences in longitude (Table 1), thus
+Ó 2009 Blackwell Publishing Ltd
+
+3032 Y. J. CHUN, J. D. NASON and K. A. MOLONEY
+suggesting the difficulties in detecting significant pattern of local adaptation among populations in this scale. A more effective way to test local adaptation would be to transplant individuals reciprocally from populations along climatic or latitudinal gradient, as well as between invasive and native provenance (e.g. Maron et al. 2004).
+There is still no explicit answer with regard to the universal invasion success of purple loosestrife in North America across a broad geographical range. Consistent differences in phenotypical traits between invasive and native plants have been reported, supporting Baker’s (1974) ‘general purpose genotype’ hypothesis. Invasive purple loosestrife populations are known to be taller with greater total biomass in North America than in Europe (Blossey & No ̈tzold 1995; Blossey & Kamil 1996; Bastlova ́ 2001; Bastlova ́ & Kveˇt 2002; Chun et al. 2007), agreeing with our results (Fig. 3). Our results revealed that invasive and native populations have comparable level of genetic diversity and similar genetic structure. It is also known that polyploidy increases genetic diversity (Soltis & Soltis 2000) and purple loosestrife populations vary in ploidy levels (Kuba ́tova ́ et al. 2008). Taken together, multiple introductions may have created a genetic mixture from diverse source populations in Europe and increased population genetic diversity facilitated by the auto-tetraploid nature of purple loosestrife (Houghton-Thompson et al. 2005). During the second half of the 19th century, purple loosestrife was introduced by European immigrants as a medicinal, horticultural and beekeeping plant (Thompson et al. 1987). Thus, it may have been repeatedly introduced, involving various genotypes from different areas in Europe (Edwards et al. 1995), and ultimately increasing genetic variation in the introduced provenance. Although population admixture and intraspecific hybrids may confer high level of genetic diversity and greater ability of responding to local selection pressure, their relationship with adaptive evolutionary changes or general increase of fitness is still inconclusive (Johansen-Morris & Latta 2006; Wolfe et al. 2007). Further, adaptation and increased fitness of genotypes may not fully explain the ultimate demographical success of purple loosestrife invasion, as the relationship with their predators and competitors in the broader context of biotic community may be also important (e.g. escape from natural enemies, Blossey & No ̈tzold 1995). More research is needed to deepen our understanding on the evolutionary consequences of adaptive population genetic process in successful invasive species.
+Acknowledgements
+We thank J.F. Wendel for the use of the facilities in his laboratory. We are grateful to R. Percifield, M.L. Collyer, J. Hawkins, L.
+Flagel, J. Triplett and L. Gutierrez for thoughtful comments and suggestions. We would also like to thank H. Dietz, C. Holzapfel, D. Landis, R. Prasse, F. Jeltsch and F. Schurr for providing seed samples. This research was funded by EEOB Department at Iowa State University and by CGRER Seed Grant Program at University of Iowa to Y.J. Chun.
+References
+Ó 2009 Blackwell Publishing Ltd
+
+This research is part of Y.J.C.’s doctoral research supervised by J.D.N. and K.A.M. Y.J.C. is currently a postdoctoral associate working with Franc ̧ois Bretagnolle at INRA, France. His interests are in the evolutionary ecology of biological invasion with particular emphasis in the population genetic and ecological processes relating to the adaptation and establishment of invasive species. J.D.N. is interested in the population and conservation genetics of plants and their associated insect herbivores and pollinators. K.A.M. focuses on the population dynamics of invasive species, specifically on the identification of the crucial demographic stages that predispose a species to be a successful invader. This study reflects our shared interest in combining ecological and genetic perspectives for investigating the adaptation of invasive species.
+QUANTITATIVE AND MOLECULAR GENETIC VARIATION 3035
+  Ó 2009 Blackwell Publishing Ltd

@@ -1,0 +1,3321 @@
+ Sysl. Biot. 49(2):306-362,2000
+Phylogenetics of Flowering Plants Based on Combined Analysis of Plastid atpB and rbcL Gene Sequences
+12813149 VINCENT SAVOLAINEN, MARK W. CHASE, SARA B. HOOT, CYNTHIA M. MORTON, -
+5611 DOUGLAS E. SOLTIS, CLEMENS BAYER, MICHAEL F. FAY, ANETTE Y. DE BRUIJN,
+1 7 10 STUART SULLIVAN, AND YIN-LONG QIU -
+1
+University of Lausanne, Lausanne 1015, Switzerland
+^Department of Biological Sciences, University of Wisconsin-Milwaukee, Wisconsin 53201, USA; E-mail: hoot@uwm.edu
+department of Botany, University of Reading, Reading RG6 2AS, UK
+department of Botany, Washington State University, Pullman, Washington 99164-4238, USA; E-mail: dsoltis@mail.wsu.edu
+6
+7
+Abstract.—Following (1) the large-scale molecular phylogeny of seed plants based on plastid rbcL gene sequences (published in 1993 by Chase et al., Ann. Missouri Bot. Gard. 80:528-580) and (2) the 18S nuclear phylogeny of flowering plants (published in 1997 by Soltis et al., Ann. Missouri Bot. Gard. 84:1-49), we present a phylogenetic analysis of flowering plants based on a second plastid gene, atpB, analyzed separately and in combination with rbcL sequences for 357 taxa. Despite some discrepancies, the atpB-based phylogenetic trees were highly congruent with those derived from the analysis of rbcL and 18S rDNA, and the combination of atpB and rbcL DNA sequences (comprising ~3000 base pairs) produced increased bootstrap support for many major sets of taxa. The angiosperms are divided into two major groups: noneudicots with inaperturate or uniaperturate pollen (monocots plus Laurales, Magnoliales, Piperales, Ceratophyllales, and AmborellaceaeNymphaeaceae-Illiciaceae) and the eudicots with triaperturate pollen (particularly asterids and rosids). Based on rbcL alone and atpB/rbcL combined, the noneudicots (excluding Ceratophyllum) are monophyletic, whereas in the atpB trees they form a grade. Ceratophyllum is sister to the rest of angiosperms with rbcL alone and in the combined atpB/rbcL analysis, whereas with atpB alone, Amborellaceae, Nymphaeaceae, and Illiciaceae/Schisandraceae form a grade at the base of the angiosperms. The phylogenetic information at each codon position and the different types of substitutions (observed transitions and transversions in the trees vs. pairwise comparisons) were examined; taking into account their respective consistency and retention indices, we demonstrate that third-codon positions and transitions are the most useful characters in these phylogenetic reconstructions. This study further demonstrates that phylogenetic analysis of large matrices is feasible. [Angiosperm; atpB; complex phylogenies; large molecular data sets; rbcL.]
+Molecular Systematics Section, Jodrell Laboratory, Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3DS, UK; E-mail: v.savolainen@rbgkew.org.uk (V.S.),
+m.chase@rbgkew.org.uk (M.W.C.), m.fay@rbgkew.org.uk (M.F.F.) Conservatoire et Jardin Botaniques, Geneva 1293, and Institute of Ecology,
+Institut fur Allgemeine Botanik, Ohnhorststrasse 18, Hamburg 22609, Germany; E-mail: c.bayer@botanik.botanik.uni-hamburg.de
+Department of Biology, Indiana University, Bloomington, Indiana 47405, USA
+As we near the end of the 20th century, systematics had gained a new perspective because of the extensive and intensive use of molecular data in evolutionary studies, In 1994 Donoghue showed that at least one
+8
+Address correspondence to this author, at Jodrell
+Laboratory.
+'Present address: Department of Botany and Micro-
+biology, Auburn University, Auburn, Alabama 36849c/inv TTCA c -i » r> -i u A
+5407, USA; E-mail: mortocy@mail.auburn.edu
+^Present address: Department of Biology, University of Massachusetts, Amherst, MA 01003-5810, USA; Email: yqiu@bio.umass.edu
+new phylogenetic hypothesis was being published every day, most of these being based on DNA data. Like other groups of organisms (and perhaps even more so at suprafamilial levels), flowering plants have been the subject of many phylogenetic studies. Despite this emphasis, many as-
+pects of higher-level angiosperm phylogeny remain uncertain, including the ini-
+t i a l branching patterns, relationships of the , , r? j . J j .•/•• Lc monocots to the dicots, and identification of
+. ' thema or rou sof
+J g P eudlCOtS and their interrelationships (see Chase et al., 1993;
+Soltis et al., 1997b; Nandi et al., 1998). 306
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000 SAVOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 307
+In 1993, 42 plant systematists published an analysis of nucleotide sequences of the plastid gene rbcL, including 499 taxa representing what was hoped would be all major lineages of seed plants (Chase et al., 1993). These authors discussed many problems concerning the classification and evolution of angiosperms as well as some aspects of conducting phylogenetic analyses of large data sets. Some workers accepted most of the relationships observed in these cladograms, whereas others argued that the accuracy of these trees was unproven and that many of the relationships were too preposterous to be seriously entertained (e.g., Takhtajan, 1997). Others maintained that the analysis itself was flawed; the trees illustrated were only a few of the thousands that existed at that tree length, and still shorter trees were likely (Rice et al., 1998). Reanalyzing the 499 taxa matrix using several years of computer time, Rice et al. (1998) found shorter trees, although the major clades depicted in the 1993 paper remained unchanged.
+Concomitantly, researchers using 18S rDNA expanded the coverage of angiosperms from that of earlier studies (Hamby and Zimmer, 1992; Nickrent and Soltis, 1995). This research resulted in the analysis of Soltis et al. (1997b), which included 223 taxa covering all major lineages of flowering plants. The 18S rDNA and rbcL topologies are highly concordant; virtually all of the same major clades and subclades are retrieved by both genes, although the branching order of major clades sometimes differs. Neither the 18S rDNA nor the rbcL analysis provided internal support (as estimated by the bootstrap/jackknife) for the spine of the tree. Indeed, the 1993 rbcL paper contained no estimates of internal support for the large analysis; it did, however, contain a smaller analysis of the eudicots, for which "decay" values (e.g., Bremer support; Bremer, 1988) were produced, and from these it was clear that little support existed for major clades within the eudicots (see Chase and Albert, 1998, for a bootstrap analysis). Chase et al. (1995) demonstrated a similar pattern of low support for major clades and higher-level relationships within the monocots.
+Taxonomically equivalent data sets of 18S rDNA and rbcL (Soltis et al., 1997a, 1999) as well as for 18S rDNA, rbcL, and atpB (Chase and Cox, 1998; Soltis et al., 1998; Hoot et al., 1995, 1997, 1999; Hoot & Douglas, 1998) have been constructed and compared across the angiosperms and for certain large subgroups of flowering plants. Significantly, combining these data sets has resulted in a higher number of strongly supported clades and greater resolution than have analyses of the individual data sets.
+Chase and Cox (1998) examined startingtree lengths relative to the shortest trees ultimately found in parsimony searches for seven matrices each of 141 taxa for rbcL, atpB, and 18S rDNA (each used alone, in pairs, and all three combined). They found that the differences between the length of starting trees and the shortest trees ultimately obtained was greatly decreased in all combined-gene compared with single-gene matrices. This was also one of the factors responsible for the decreased analysis time for the combined data sets compared with that for the individual data sets. Parsimony searches involving combined matrices actually ran to completion, whereas none of the searches using individual matrices or the pairwise combinations was ever completed (Chase and Cox, 1998; Soltis et al., 1998).
+Several studies indicated that a second plastid gene, atpB, would be a good candidate for comparison and combination with rbcL (Ritland and Clegg, 1987; Hoot et al., 1995). The rate of atpB evolution appeared to be similar to that of rbcL, and atpB was described as being easy to amplify and sequence with universal PCR primers (Hoot et al., 1995). Moreover, the atpB gene has been used successfully in phylogenetic studies at family and higher levels (Hoot et al., 1997, 1999; Hoot and Douglas, 1998; Bayer et al., 1999; Chase et al., 1999).
+The genes coding for atpB and rbcL are both located in the large single-copy region of the plastid genome; their coding sequences are on opposite strands separated by an intergenic spacer of —600-800 base pairs (bp; Savolainen et al., 1997). Different evolutionary constraints are likely to be involved because the two genes code for distinct enzymatic functions: rbcL codes for the
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 308 SYSTEMATIC BIOLOGY VOL. 49
+large subunit of the ribulose-l,5-bisphosphate-carboxylase/oxygenase, a free enzyme in the stroma, whereas atpB codes for the beta subunit of the ATP synthase, which is bound to the thylakoid-membrane (Zurawski et al., 1982). Consequently, atpB and rbcLdata represent independent data sets for which comparative analyses should be suitable. Because both are part of the same nonrecombining piece of DNA, they should have the same history.
+species is described below; not all se-
+quences were prepared in this manner (e.g.,
+some of the rbcL sequences had been gener-
+ated before widespread use of polymerase
+chain reaction [PCR]). Total DNAs were ex-
+tracted from 0.2-1.0 g leaf tissue (fresh, sil-
+ica gel-dried, or herbarium specimens) by
+using the 2 X CTAB method of Doyle and
+Doyle (1987) and then purified on 1.55 g
+1
+We present here the results of phyloge-
+netic analyses using matrices for these two
+plastid genes, atpB and rbcL (~3,000 bp total), 50°C, 1 min of extension at 72°C, and 7 min analyzed separately and in combination,
+for 357 taxa (—250 families) representing all
+major lineages of angiosperms indicated by
+the large rbcL and 18S rDNA studies (Chase
+et al., 1993; Soltis et al., 1997b). We also ex-
+plore more thoroughly the substitution pat-
+terns and quality of the phylogenetic signal
+present in both rbcL and atpB.
+MATERIALS AND METHODS
+Sampling
+The taxa used, as well as voucher infor-
+mation, references, and DNA databank ac-
+cession numbers, are provided in the Ap-
+pendix. We tried to sequence atpB from the
+for final extension) by using primers IF (5'A TGTCACCACAAACAGAAAC-3') and 1460R (5'-TCCTTTT AGT A A A AGA TTGGG CCGAG-3'; Olmstead et al., 1992). The atpB gene was amplified by the same protocol as above but using primers 2F (5'-TATGAGA ATCAATCCTACTACTTCT-3') and 1494R (5'-TCAGT ACACA A AGA TTT A AGGTCA T -3'; Hoot et al., 1995). Bovine serum albumin (0.40% w/v) was added to the PCR mix because it is useful for recalcitrant DNA samples, particularly those obtained from herbarium specimens (Savolainen et al., 1995). Amplification products were purified by using Magic minicolumns (Promega, Inc.) according to the manufacturer's proto-
+same DNA sample used previously to se-
+quence rbcL. This was not always feasible, cols. Dideoxy cycle sequencing (26 cycles:
+however, and in several instances we had to reextract DNAs. Whenever possible, we used the same species or another species from the same genus, but in some cases we used another genus from the same family (Appendix 1; see Kellogg and Linder, 1995, for some discussion on pitfalls of combining taxa). Our final sampling set comprises 357 species (714 gene sequences) representing 261 families (sensu Watson and Dallwitz, 1991; version 1997 is available on the web at http://www.keil.ukans.edu/delta) or 250 families according to a recent reclassification of the angiosperms that is based largely on the results obtained from molecular phylogenetic studies (Angiosperm Phylogeny Group [APG], 1998). We followed the APG treatment for familial and ordinal circumpscriptions and names.
+DNA Sequencing
+A standard procedure used to extract DNA and sequence rbcL and atpB for many
+10 sec of denaturation at 96°C, 5 sec of annealing at 50°C, 4 min of extension at 60°C) with dye terminators was performed in 5-|xl volumes directly on the cleaned PCR products. These reactions were then purified by simple precipitation. The resuspended sample was run on an Applied Biosystems Inc. 373A or 377 automated sequencer according to the manufacturer's protocols. Both strands were sequenced by using the amplification primers and the following additional internal primers: 636F (5'-GCGTTG G A G A G A T C G T T T C T 3 ' ) a n d 724R ( 5 ' TCGCA TGT ACCTGCAGT AGC-3' for all dicots a n d 5'-TCGCA TGT ACCYGCAGT TGC-3' for monocots) for rbcL, and 611F (5'A ACGT ACTCGTGA AGGA A A TGA TCT -3') and 766R (5'-TAACATCTCGGAAATATTC CGCCAT-3') for atpB (Hoot et al., 1995). These sequencing primers provided two 80-90% overlapping and complementary pairs of sequences. Additional atpB primers 40F (5'-TCCTCTTGTTCTTG GGGTTTCC-3'), 73F (5'-CAAATCATTGGYCCRGTACTGG
+cesium chloride gradients. The rbcL
+ml-
+gene was amplified (Gene-Amp PCR system, Perkin-Elmer 9600: 35 cycles, 1 min of
+denaturation at 95°C, 30 sec of annealing at
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000 SA VOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 309
+ATG-3'), 385R (5'-GCGCAGATCTATGAA TAGGAGACGT-3', Hoot et al., 1995) and 1186R (5'-TGTCCTGA AGTTCTTTGT A AC GTTG-3', Hoot et al., 1995) were used to sequence atpB from gymnosperms, which were used as the outgroups.
+Phylogenetic Analysis
+Sequence data were analyzed by using various versions of the PAUP* package (P AUP 4.0 d50-d63, by special arrangement with David Swofford). Most-parsimonious trees were obtained through use of the following strategies: (1) For each gene separately, 100 replicates of RANDOM taxon additions were performed, using equal weights and tree bisection-reconnection (TBR) branch swapping, with only five trees held at each step (NCHUCK = 5). The trees collectively found in these 100 replicates were then used as starting trees for new searches utilizing nearest-neighborinterchange (NNI) swapping until 3,000 trees at this length were found (MAXTREES = 3,000). (2) When both genes were analyzed together, the procedure described above was applied, but with 350 replicates of RANDOM taxon additions and holding 10 trees at each step (NCHUCK = 10); the trees collected in these replicates were then swapped on again by using TBR with only 10 trees held at each step (NCHUCK = 10) until 200 best trees were found (MAXTREES = 200). These latter trees were then finally used as starting trees in a round of NNI swapping until completion. Each of these searches typically required ~ 1,000 hrs of CPU time for an Ultrasparc Enterprise 3000 Sun Microsystems (5 X 250 MHz, 1 GB of RAM). Taking substantially more time, similar results were obtained with a Power Macintosh with 32 MB of RAM; searches on this machine lasted more than a month, even for the combined matrix of both genes. This basic search strategy has been commonly used with large data sets and has been shown to be reasonably efficient (see Chase et al., 1993; Soltis et a l ,
+1997b; Chase and Cox, 1998).
+Internal support was evaluated by using bootstrap resampling (Felsenstein, 1985). For each matrix (singly or in combination), 1,000 bootstrap replicates were performed, using the NNI swapping algorithm with
+simple addition of taxa and only 10 trees held at each step (random deletion with replacement as implemented in bootstrapping eliminates the need to perform randomization of taxon entry order; the deletion/substitution of characters alters the distance calculations, thus randomly altering the taxon-addition patterns). Each bootstrap set (1,000 replicates) typically required 6 days using a Power Macintosh (7300/166, 32 MB of RAM).
+MacClade 3.04 (Maddison and Maddison, 1992) was used to evaluate codon frequencies and to calculate various statistics (i.e., consistency index [CI] and retention index [RI] for each codon position, excluding autapomorphies for the former), and to map the morphological and chemical characters of Nandi et al. (1998) onto the combined trees. MEGA 1.0.1 (Kumar et al., 1993) was used to compare the molecular evolution of atpB and rbcL. MEGA provides widely used calculations (e.g., transitions, transversions, and so forth) that we wished to compare with tree-based values. For this purpose, 40 taxa were randomly chosen (the 40 first taxa in alphabetical order) and analyzed by pairwise comparisons without correction for multiple substitutions. LI93 also was used to calculate unbiased rates of synonymous, nonsynonymous, and overall substitutions, based on the same pairwise comparisons as above (Li, 1993). For comparison with distance-based calculations, we also calculated the number of inferred transitions and transversions (as well as their CIs and RIs), using a step matrix in P AUP* in which transversions were weighted "1" and transitions "0." From the number of transversions and their collective CI and RI, we calculated the number of transitions and their CI and RI.
+We calculated the CI and RI for transversions, transitions, and each codon position to evaluate the hypothesis that frequency is a valid basis on which to implement relative weighting (i.e., that rarer events would be more reliable in phylogeny reconstruction than more frequent ones). We used RI as the criterion to discuss relative information content of different character types (Farris, 1989). CI measures overall homoplasy, whereas RI takes into account the maximum number of changes that could have occurred on an unresolved bush and
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 310 SYSTEMATIC BIOLOGY VOL. 49
+thus measures amount of structure (or phylogenetic signal) retained on optimal trees (Farris, 1989).
+To compare the distribution of starting tree lengths with the length of optimal trees, we followed the same procedure as Chase and Cox (1998): The lengths of 5,000 starting trees (stepwise addition with random taxa order, no swapping, as implemented in PAUP*) were recorded for each data set (atpB and rbcL alone and in combination) and plotted as the percentage by which they were longer than most-parsimonious trees (i.e., those we found in each of the full heuristic searches after extensive swapping).
+RESULTS
+Molecular Evolution and Patterns of Change
+Sequences of both genes were aligned easily by eye; the combined matrix contained 1,408 characters for rbcL (1,428 bp minus the length of the IF primer) and 1,447 for atpB (1,497 bp minus the length of the 2F and 1494R primers). There were no insertions or deletions (except for some rare exceptions in atpB; these insertions were simply omitted from the matrix because they occurred only in single taxa at the 3' end of the gene). The number of variable and potentially parsimony-informative characters found in each data set, the number and length of the most-parsimonious trees obtained, and the CIs and RIs for each of the analyses performed are presented in Table 1. Data sets are available at the Systematic Biology Web site (www.utexas. edu/ftp/ depts/ systbiol /).
+Branch lengths, CIs, and RIs are shown for each partition (genes alone or in combination) by codon position (Fig. 1); most of the variation (75% and 71% for atpB and rbcL, respectively) is at third positions as
+previously reported (Chase et al., 1995; Hoot et al., 1995). Second positions experienced the fewest steps (10% in both genes), and first positions were intermediate (15% and 19% for atpB and rbcL, respectively). Whereas CIs were greater at the second positions (0.28 and 0.29, respectively) and less at third positions (0.11 for both), RIs were similar for the first (0.48 and 0.46) and second (0.46 and 0.44) positions, with the highest values at the third positions (0.75 and 0.59, respectively). In contrast, Naylor and Brown (1997,1998) found RI was lowest for third-position sites in animal mitochondrial genes. Using computer-generated data sets, Hauser and Boyajian (1997) demonstrated that RI was primarily influenced by the percentage of characters that change per node but was only weakly correlated with the number of taxa. Here, in the atpB/rbcL tree, the average rate of change (number of steps /number of variable sites) was 7.74 for first, 5.35 for second, and 20.09 for thirdcodon positions. We can thus infer that the only factor responsible for the higher RI of the third-codon positions is their distribution within the tree.
+Table 2 compares the rates of synonymous, nonsynonymous, and overall substitution for atpB and rbcL. As previously reported by Hoot et al. (1995), the overall rate of substitution is slightly higher for rbcL than atpB. This contrasts with the tree length, which is shorter for rbcL than for atpB (12,772 vs. 12,979, Table 1; for contradictory results, see Hoot et al., 1995, 1999). Tree-based estimates of sequence change are therefore at odds with those calculated a priori, in the absence of a topology, by using pairwise comparisons. Synonymous versus nonsynonymous sites do not differ significantly between rbcL and atpB.
+Transition/transversion ratios (ts/tv) for atpB and rbcL also differ. We calculated the
+TABLE 1. Comparison of indices for the various trees illustrated in Figures 5 and 6 (tree length includes uninformative characters; consistency index [CI] excludes uninformative characters).
+Data set
+atpB rbcL atpB/rbcL
+Number of variable characters
+1,023 1,051 2,074
+Number of informative characters
+787
+734 1,521
+Number of trees
+»3,000 »3,000 8,600
+Length CI RI
+12,979 0.15 0.56 12,772 0.14 0.56 25,936 0.14 0.56
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+   2000
+SA VOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 311
+ 0.5-
+Cl
+1st
+0.5-
+2nd 3rd Codon Positions
+FIGURE 1.
+and retention index (RI) for each codon position for the trees inferred from the analysis of atpB alone (hatched), rbcL alone (solid), and atpB/rbcL combined (shaded). Note that the RI for third-codon positions is higher than that for first and second positions.
+ts/tv ratio on one of the trees obtained from the analysis of the combined rbcL and atpB data set: for atpB ts/tv is 2.09, whereas for rbcL it is 1.65 (Table 3); similar ts/tv ratios were found by Hoot et al. (1995). Using instead the shortest trees from each of the
+2nd 3rd
+separate analyses affects only the second decimal place. Figure 2 shows the percentage of divergence versus the number of transitions and transversions in pairwise comparisons (independently from the recovered trees). The atpB gene exhibits the greater number of transitions, which agrees with the ts/tv ratio we calculated based on the trees (see Table 3).
+CIs and RIs for transitions and transversions (Table 3) exhibit a pattern similar to that for codon-based change. Transitions had slightly lower CIs than transversions (tsatpB=0.12andtsrbcL=0.13vs. tvatpB= 0.17 and tv rbcL = 0.15), but the RIs for transitions were higher than those for transversions (ts atpB = 0.64 and ts rbcL = 0.62 vs. tv atpB = 0.47 and tv rbcL = 0.49). Thus, the much more numerous transitions performed better (had higher RIs) than the rarer transversions.
+Phylogenetic Patterns and Support
+Neither of the two genes individually has any striking differences in the number of groups receiving bootstrap support (Figs. 3-6), but the combined matrix clearly pro-
+TABLE 3. Number of steps (length), consistency index (CI), and retention index (RI) for inferred transversions (tv) and transitions (ts) in one of the trees obtained from the analysis of the combined rbcL and atpB data set (see Results).
+2nd
+Number of steps, consistency index (CI),
+TABLE 2. Comparison of the rates of synonymous (Ks), nonsynonymous (KA), and overall rates of substitutions (Ko) between atpB and rbcL (see Materials and Methods).
+atpB:
+Length 13,089 CI 0.15 RI 0.56 rbcL:
+Length 12,847 CI 0.14 RI 0.56
+tv/ts
+tv ts tv/ts
+4230 8859 2.09 0.17 0.12
+0.48 0.64
+4852 7995 1.65 0.15 0.13
+0.49 0.62
+atpB
+0.261 ± 0.088 0.019 ± 0.007 0.092 ± 0.029
+rbcL
+0.270 ± 0.080 0.025 ± 0.007 0.098 ± 0.027
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ 312
+SYSTEMA TIC BIOLOGY VOL. 4 9
+140
+120
+"g 100
+80
+60-
+40
+20-
+FIGURE 2.
+for pairwise comparisons of atpB (solid) and rbcL (open) sequences. Note that although both genes are similar for both kinds of substitutions and no saturation is observed, atpB is slightly biased towards transitions, whereas rbcL is biased toward transversions.
+•o
+."-•ft?
+a
+D &
+A^'
+10 12 14
+% Divergence
+Percent divergence plotted against the number of transitions (squares) and transversions (triangles)
+vides more resolution and robust relationships than the individual matrices. Figures 3 and 4 present topologies found when both genes were analyzed separately and in combination, respectively (for composition of the named clades, see Figs. 5 and 6; the names of families and ordinal groups follow those recommended by the APG, 1998). Figures 5a-p present one of the 3,000 shortest trees found for atpB and rbcL analyzed separately (see Table 1; because of memory limitations, only 3,000 trees were kept; however, more trees at this length exist). Figures 6a-h present one of the 8,600 shortest trees found in the analysis of combined data (see Table 1 for tree statistics). In all figures, arrows indicate the branches that are not found in the strict consensus of the shortest trees.
+Figure 7 shows the distribution of starting tree lengths in comparison with the length of the optimal trees for atpB and rbcL alone and in combination. The shape of the curves is not smooth but rather jagged: This
+could indicate that suboptima occur locally (e.g., starting atpB trees at length 13,143 or 13,146 are more likely to be built than at 13,144 steps; the former found 77 and 76 trees at each, respectively, vs. only 62 for 13,144; see Fig. 7). The combined data set produced the greatest number of starting trees nearest to the shortest tree length (the atpB/rbcL curve is left-skewed compared with atpB or rbcL alone), which explains why combined matrices ran to completion and required less swapping time to reach optima than did the analyses involving single genes (Chase and Cox, 1998; Soltis et a l , 1998). Because we set a tree limit in each case (combined vs. single-genes), the faster analysis time exhibited for the combined matrix is strictly a factor of the tree lengths (starting vs. final), rather than the number of starting trees.
+Apart from the above considerations of molecular evolution, atpB and rbcL also differ slightly in the phylogenetic patterns inferred. We consider the trees produced by
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000
+SAVOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 313
+asterids
+eurosids
+Santalales Aextoxlcon/Berberidopsis Caryophyllales Saxifragales
+LeeaA/itis
+Gunnera Buxaceae/Trochodendracea Proteales
+Ranunculales
+monocots
+Acorus
+Ceratophyllum
+Magnolialss
+Laurales
+Piperales
+Nymphaeaceae s.l. outgroup
+asterids
+Aextoxlcon/Berberidopsis
+eurosids
+LeeaATitis
+Saxifragales
+Santalales
+Caryophyllales
+Gunnera Buxaceae/Trochodendraceae Proteales
+Ranunculales monocots
+Acorus
+Laurales
+Piperales Magnoliales Nymphaeaceae s.l. Ceratophyllum outgroup
+the combined analysis to be more accurate than trees obtained from either gene individually, given the higher levels of bootstrap support (see earlier examples presented in Hoot and Crane, 1995; Chase and Cox, 1998; Soltis et al., 1998; Hoot et a l , 1999). We are not suggesting that bootstrap support is infallible—spurious groupings with high bootstrap values are well documented (see Lecointre et al., 1993)—but for Lecointre et al. this occurred concomitantly with long branch attraction and sparse taxon sampling. We will not discuss in de-
+For descriptive purposes, we have divided the flowering plants into two major groups: (1) noneudicots with inaperturate or uniaperturate pollen (monocotyledons plus Laurales, Magnoliales, Piperales, Ceratophyllales, and the AmborellaceaeNymphaeaceae-Illiciaceae group; see Figs. 5a-d, 6a,b) and (2) eudicots with triaperturate pollen (as defined by Chase et al., 1993; see Figs. 5e-p, 6c-h). The most obvious exceptions to the monosulcate pollen characteristic of the former group are Illiciaceae and Schisandraceae, which have tricolpate pollen, but the pollen of these families is known to have been derived in a nonhomologous manner (Huynh, 1976).
+NONEUDICOTS
+The noneudicots comprise woody (e.g., Magnoliales and Laurales), herbaceous (e.g., most Chloranthaceae and Piperales), and aquatic (e.g., Ceratophyllaceae and Nymphaeaceae) taxa. Although many studies (Soltis et al., 1997b; Nandi et al., 1998), as well as the atpB tree presented here, have shown the noneudicots to be paraphyletic, this informal name is useful for describing a largely monophyletic group (if Ceratophyllum is excluded) recognized here in the rbcL and combined trees. The monocots are embedded within the noneudicots in all trees (Figs. 5a,b, 6a). In this study, the monocots have not been sampled extensively but are represented by a taxonomically diverse spectrum (Figs. 5c,d, 6b). We refer readers to Duvall et al. (1993), Soreng and Davis
+(1998), and Chase et al. (1995, 2000) for broader analyses of the monocots. However, both atpB and rbcL provide highly similar topologies, with Acorus being sister to the remaining monocots (Figs. 5c,d, 6b).
+A major difference between atpB and rbcL concerns the monophyly of the noneudicots (excluding Ceratophyllum). In the rbcL tree (Fig. 5b; Chase et al., 1993; Qiu et al., 1993), the noneudicots are monophyletic, as they
+(a)
+(b)
+Summary of the phylogenetic trees repre-
+FIGURE 3.
+senting only the major groupings inferred from the separate analysis of the atpB (a) and rbcL (b) coding sequences (see Fig. 5a-p for detailed topology). Bootstrap values >50% are indicated.
+tail the differences between the three trees
+(atpB and rbcL alone plus atpB/rbcL comare in the combined tree (Fig. 6b). However,
+bined); we stress, however, that no strongly supported and incongruent patterns were obtained. The atpB tree compares well with the rbcL trees of Chase et al. (1993); only the topologies with weak bootstrap support (<50%) vary (Qiu et al., 1993; Chase and Cox, 1998; Nandi et al., 1998).
+with atpB (Fig. 5a), 18S rDNA (Soltis et al., 1997b), and 18S rDNA/rbd (Soltis et al., 1997a), the noneudicots form a grade, with the root attached between Amborella and all other angiosperms. Because the bootstrap does not provide support >50% for either view, we argue that neither of these results
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 314
+SYSTEMATIC
+BIOLOGY
+VOL. 4 9
+100
+89
+91
+d 67
+" Fabales
+' Leea/Vitis
+' Saxifragales
+' Aextoxicon/Berberidopsis ' Caryophyllales
+' Gunnera/Myrothamnus
+' Trochodendraceae
+' Buxus/Didymeles
+• Sabia
+Proteales -Ranunculales
+monocots Magnoliales Piperales Laurales
+.Nymphaeaceae s.l. • Ceratophyllum
+outgroup (gymnosperms)
+92
+61
+r ~
+Ericales Cornales Santalales Sapindales Malvales Brassicales Myrtales Geraniales Celastraceae Oxalidales Malpighiales Zygophyllaceae Fagales Cucurbitales Rosales
+51
+— Aquifoliales
+Solanales Lamiales Gentianales Garryales Apiales
+62EAsterales Dipsacales
+euasterids I
+euasterids II
+eurosids II
+eurosids I
+FIGURE 4. Summary of the phylogenetic trees representing only the major groupings inferred from the combined analysis of the atpB/rbcL coding sequences (see Fig. 6a-h for detailed topology). Bootstrap values >50% are indicated.
+nor any of the previously published studies (Figs. 5c,d) is sister to Ceratophyllum with is reliable, and we await further data for a atpB and is alone as the sister to the mono-
+robust resolution of the problem. Relationships within the noneudicots are
+consistent in all three trees, but patterns of bootstrap support are variable. Two inconsistent patterns are those for Aristolochiaceae and Acorus. Aristolochiaceae are paraphyletic to the rest of Piperales with atpB and are monophyletic arid sister to the rest of Piperales with rbcL (Figs. 5a,b). Acorus
+cots with rbcL. In both cases, the combined tree favors the rbcL pattern, although there is <50% bootstrap support for the monophyly of Aristolochiaceae (Fig. 6a); support is greater for the position of Acorus alone as sister to the rest of the monocots: 86% for the monophyly of the monocots excluding Ceratophyllum, and 83% for the monophyly of the monocots minus Acorus (Fig. 6b).
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000
+SA VOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS
+315
+11
+12
+eudicots
+41 Annona 4GZMagnolia
+23 Eupomatia
+Annonaceae — Magnoliaceae Eupomatiaceae Degeneriaceae Himantandraceae Magnoliaceae Myristicaceae
+Calycanthaceae Lauraceae
+Monimiaceae
+Hernandiaceae Aristolochiaceae
+Saururaceae Piperaceae
+Aristolochiaceae
+Winteraceae Canellaceae
+Chloranthaceae
+Austrobaileyaceae Illiciaceae Schisandraceae
+Nymphaeaceae
+Amborellaceae Ephedraceae Gnetaceae Welwitschiaceae Ginkgoaceae Taxodiaceae Taxaceae Podocarpaceae
+Pinaceae
+2
+— monocots
+30
+100
+35 30
+21
+12
+70
+26
+9
+94
+9
+(a) atpB
+3
+e 14
+2 14 18
+100 Lu
+14
+6 fOO2
+68 3
+71 8 39913
+34 4 39
+6
+3
+14 4
+65 17
+100 41 43 100
+10 18
+4
+2 53
+Lactoris
+6 98 59
+21
+11 J
+1
+J7 18
+Liriodendron Myristica Calycanthus Idiospermum ^__ Cinnamomum Laurus Hedycarya Kibara Gyrocarpus Aristolochia
+Houttuynia Saururus Peperomia Piper Asarum
+12
+14 101)
+10
+Tasmannia
+9 4
+Degeneria rr;—Galbulimima
+4
+100 GZSaruma
+Belliolum 5 r1Drimys
+100
+16
+Canella
+r— Cinnamodendron
+U 6
+Chloranthus Sarcandra Hedyosmum
+Austrobaileya Illicium
+Schisandra Brasenia
+Nymphaea Amborella Ephedra
+j
+~
+29
+1 8
+~
+10 _T^—Gnetum
+Welwitschia
+Ginkgo
+17 ff—Metasequoia
+One of 3,000 best trees resulting from the exploratory phylogenetic analysis of atpB alone and rbcL
+FIGURE 5.
+alone for 357 taxa. For rbcL, tree length is 12,772 steps, CI = 0.14, and RI = 0.56; for atpB, tree length is 12,979 steps, CI = 0.15, and RI = 0.56. Arrows indicate branches collapsing in the strict consensus tree of all shortest trees. The numbers of steps are indicated above the branches, and bootstrap values >50% are indicated below the branches.
+49
+Taxus
+'Podocarpus Pinus Tsuga
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 316
+SYSTEMATIC BIOLOGY
+VOL. 49
+18 .. . —eudicots
+(b) rbcL JL monocots
+-Aristolochia -Lactoris ~Asarum ~Saruma ~Houttuynia 'Saururus 'Peperomia -Piper
+talycanthus '— IdIdioiosspeerrmum
+^-Cinnamomum
+: Hedycarya Gyrocarpus
+Eupomatia Knema
+Degenerfa Galbulimima Liriodendron
+59
+39
+35
+59 27
+30
+3 Illiciaceae JL Schisandra
+Ceratophyllaceae
+Ephedraceae Gnetaceae Welwitschiaceae Taxodiaceae Taxaceae Podocarpaceae Ginkgoaceae
+Pinaceae
+FIGURE 5.
+rbcL tree is presented on opposite pages to facilitate comparisons: (a, b) noneudicots, (c, d) monocots, (e, f) eudicots, (g, h) caryophyllids, (i, j) eurosids I, (k, 1) eurosids II, (m, n) asterids, (o, p) euasterids. Suprageneric nomenclature follows that published by the Angiosperm Phylogeny Group (1998).
+(Continued)
+33
+5
+Aristolochiaceae
+Saururaceae
+Piperaceae
+~1 calycanthaceae ~-J
+Lauraceae
+Monimiaceae Hernandiaceae — Annonaceae Eupomatiaceae Myristicaceae Degeneriaceae Himantandraceae
+Magnoliaceae
+Winteraceae
+Canellaceae
+Chloranthaceae
+Amborellaceae Nymphaeaceae Austrobaileyaceae
+90
+15
+^-Magnolia Belliolum
+Drimys Tasmannia Canella Cinnamodendron_ Chloranthus Sarcandra Hedyosmum
+Amborella
+Nymphaea Austrobaileya
+— Ceratophyllum A
+*-Ephedra -|22 — Gnetum
+75~li5 Welwitschia
+28
+Metasequoia — Taxus
+Podocarpus Ginkgo Tsuga Pinus
+Because of their size, the trees have been broken into eight parts each. Each atpB and
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000 SAVOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS (c) atpB: monocots
+317
+Taccaceae
+Poaceae
+Juncaceae Velloziaceae
+Stemonaceae Cyclanthaceae Araceae
+Tofieldiaceae
+Acoraceae Ceratophyllaceae
+Support for some clades is greater with
+atpB than for rbcL (e.g., bootstrap support
+for Canellaceae/Winteraceae is 94% with
+atpB and <50% with rbcL; support for the with strong support from the other gene. monophyly of Laurales is 68% with atpB vs.
+51% with rbcL). In other groups, in contrast,
+support is greater for rbcL than for atpB
+(e.g., support for the monophyly of MagnoThe eudicots consist of (1) a basal (asymliales is 64% with rbcL vs. <50% with atpB; metric) grade, comprising putatively "ansupport for the monophyly of Chlorancient" lineages with relatively few species
+FIGURE 5.
+Androcymbium Bomarea Veratrum Xerophyllum Lapageria Uoydia Nomocharis Tulipa
+Colchicaceae Alstroemeriaceae
+Melanthiaceae Philesiaceae
+Liliaceae
+CD (A
+Tricyrtis Anthericum Bulbine Asparagus Ipheion Xeronema Ixiolirion Blandfordia Rhodohypoxis Conanthera
+Tecophilaea Odontostomum
+Asphodelaceae Asparagaceae Alliaceae
+Apostasia Cypripedium Oncidium Dioscorea
+Tacca Oryza Zea
+—
+Orchidaceae
+Juncus Barbacenia Stemona Sphaeradenia Spathiphyllum Pleea
+Tofieldia _ _
+Acorus Ceratophyllum
+(Continued)
+TJ o
+«
+'—
+Anthericaceae
+A
+—
+— 01 Dioscoreaceae 5"
+> Xeronemataceae (A
+"O D) 3 Blandfordiaceae (Q
+Ixioliriaceae Hypoxidaceae Tecophilaeaceae
+fl) (D (/)
+o
+5' o o
+thaceae is 90% with rbcL vs. 59% with atpB); in all cases, groups supported by one gene are not contradicted by different groups
+Eudicots
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Lili; ale smatal
+
+ 318
+SYSTEMATIC BIOLOGY
+VOL. 49
+69
+Barbacenia Sphaeradenia Stemona Dioscorea Tacca Juncus
+Velloziaceae Cyclanthaceae Stemonaceae Dioscoreaceae Taccaceae Juncaceae
+3
+a
+0)
+h -4
+o <o 0) V)
+10
+67
+13
+95
+Orchidaceae
+68
+12 96
+Bomarea
+Lapageria Lloydia
+~~
+each, i.e., Ranunculales, Proteales, Buxaceae/Didymelaceae, Trochodendraceae, Sabiaceae; and (2) a large symmetric core clade consisting of Gunneraceae/Myroth-
+amnaceae, Dilleniaceae, Vitaceae, Santalales, Caryophyllales, Saxifragales, and Berberidopsidaceae/Aextoxicaceae plus two major subclades, eurosids and asterids (Figs. 5i-p,
+72
+i S Spathiphyllum Araceae Acorus Acoraceae
+(Continued)
+45
+10 98
+16 19
+Tecophilaea L_ 3LApostasia ~~
+2 6 Oncidium
+§ Cypripedium
+ili _ Blandfordia
+Rhodohypoxis Hypoxidaceae
+17
+100
+09
+r ^ _ H 34
+1
+14
+u
+Androcymbium
+Colchicaceae Alstroemeriaceae Philesiaceae
+Liliaceae
+Melanthiaceae
+Anthericaceae Asparagaceae Asphodelaceae Alliaceae Xeronemataceae Ixioliriaceae
+99
+10
+56 31 Nomocharis ^Tricyrtis
+FIGURE 5.
+j
+T7
+'
+r
+Veratrum Xerophyllum — Anthericum
+Asparagus Bulbine
+22 ipheion 13 Xeronema 41 Ixiolirion
+22
+27
+(d) rbcL: monocots
+Conanthera ~~
+Odontostomum Tecophilaeaceae
+t — Oryza
+^i*-Zea 1Poaceae
+8
+Pleea 1 Tofieldiaceae Tofieldia
+Blandfordiaceae
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000
+SAVOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS
+319
+12
+15 J
+10
+rosids 2
+caryophyllids
+1
+asterids
+12
+Haloragaceae
+Penthoraceae Iteaceae Pterostemonaceae Cercidiphyllaceae
+Hamamelidaceae
+Vitaceae
+Dilleniaceae
+Myrothamnaceae Gunneraceae Buxaceae
+|
+29
+Buxus Pachysandra Didymeles Tetracentron Trochodendron \ Sabia
+Lambertia ~
+Roupala
+Placospermum
+< Platanus ~
+Nelumbo _ Caulophyllum Nandina ^_ Xanthorhiza ~
+Glaucidium Hydrastis ^_ Menispermum Decaisnea Dicentra Euptelea
+Didymelaceae Trochodendraceae Sabiaceae
+Proteaceae
+Platanaceae Nelumbonaceae _
+Berberidaceae
+Ranunculaceae
+Menispermaceae Lardizabalaceae Papaveraceae Eupteleaceae
+6 83
+6
+r-— Chrysosplenium
+7
+(e) atpB: eudicots
+2 52
+I 135
+84 \1
+37 34
+47
+11 6 100 10 ii
+Peltoboykinia Saxifraga Ribes Crassula Dudleya
+3
+30
+6 98 11
+Kalanchoe Haloragis Myriophyllum^ J Penthorum
+FIGURE 5.
+(Continued)
+99
+82
+26
+11
+5
+18
+rz— Itea
+Ul Pterostemon
+19
+r * — 1I
+'
+Altingia Daphniphyllum
+Altingiaceae Daphniphyllaceae Altingiaceae Paeoniaceae
+Saxifragaceae
+Grossulariaceae Crassulaceae
+I
+18
+4 nr~
+13
+Liquidambar Paeonia Astilbe Boykinia Heuchera
+innI12 Sedum
+12
+30
+45
+33
+18
+29 44 23 28 14
+Cercidiphyllum^ Corylopsis Hamamelis Disanthus
+Leea ~ Vitis _ Dillenia Schumacheria Tetracera ^_ Myrothamnus Gunnera
+i
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 320
+SYSTEMATIC BIOLOGY
+VOL. 4 9
+—asterids
+8
+3T rosids
+(f) rbcL: eudicots
+jJLfi-Leea Vitis —
+Altingia Liquidambar „_ Corylopsis ~~ Hamamelis Disanthus •Astilbe
+~QjL Boykinia
+5f
+nanaina
+' Glaucldium i
+3o" Xanthorhiza Hydrastis J
+—Menispermum —— Duecaisne,a
+•—Euptelea
+Dicentra
+(Continued)
+Sabiaceae Nelumbonaceae Platanaceae
+Berberidaceae
+Ranunculaceae
+Menispermaceae Lardizabalaceae Eupteleaceae Papaveraceae
+19
+I si
+4 25_ Chrysosplenium " 1 ! I — u i Peltoboykinla
+1—B—I ! ,-UHeuchera Saxifraga
+Pterostemon Crassula Dudleya
+Kalanchoe
+Saxifragaceae
+L.
+Viscum Thesium Santtallum
+i-2L Gunnera
+LIL Myrothamnus
+57 14
+Olacaceae Opiliaceae
+Santalaceae J
+Gunneraceae Myrothamnaceae
+1 caryophyllids
+—
+FIGURE 5.
+Haloragis
+11 Myriophyllum^_ Haloragaceae
+R —I
+ouxus
+g rgT-Lli•Pachyyssaannddrara J
+. Didymeles
+. Tetracentron
+Vitaceae Altingiaceae
+Hamamelidaceae
+Iteaceae Pterostemonaceae
+Crassulaceae
+Penthorum
+Geranium
+Pelargonium
+Paeonia
+Ribes
+Cercidiphyllum Cercidiphyllaceae Daphniphyllum Daphniphyllaceae.
+Penthoraceae Geraniaceae
+Paeoniaceae Grossulariaceae
+Buxaceae Didymelaceae
+Trochodendron Trochodendraceae Lambertia I
+I Proteaceae
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000
+SA VOLAINEN
+ET AL.—PHYLOGENETICS OF FLOWERING PLANTS
+321
+21
+74
+Silene
+Simmondsia Simmondsiaceae (D
+16
+97
+52
+56
+Molluginaceae
+fi> o
+95
+Aextoxicon Berberidopsis Amaranthus~\
+6e-h). The same basal grade was found in previous analyses of the "lower" eudicots based on three genes—these two plastid genes plus 18S rDNA (Soltis et al., 1998; Hoot et al., 1999).
+In the separate atpB and rbcL trees, the spine of the lower eudicot portion of the tree receives no support >50%, whereas in the combined analysis three large clades are supported (Fig. 6c): (1) the dichotomy that separates Ranunculales (including Euptelea) from all other eudicots (67% for eudicots excluding Ranunculales, 94% for the monophyly of Ranunculales); (2) the eudicots excluding Ranunculales, Proteales, and Sabiaceae (69%); and (3) the core eudicots (91%, just above Trochodendraceae). Ranunculales and core eudicots are more highly supported (97% and 100%, respectively) in a study of basal eudicots with more extensive sampling for Ranunculales (Hoot et al., 1999). Other notable relationships that receive increased bootstrap sup-
+port in our combined atpB/rbcL analysis are the monophyly of Nelumbonaceae/[Proteaceae/Platanaceae] (<50% in both atpB and rbcL alone, 60% in the combined trees), Gunneraceae/Myrothamnaceae (<50% in atpB, 57% in rbcL, 80% in the combined), and Buxaceae/Didymelaceae (71% in atpB, 84% in rbcL, and 100% in the combined).
+Two groupings actually lose support in the combined tree over that in one of the individual trees: the clade consisting of Platanaceae/Proteaceae (95% in atpB, <50% in rbcL, 84% in the combined), and the monophyly of Ranunculaceae (90% in rbcL, <50% in atpB, 78% in the combined). Alternative patterns found in the individual analyses are not supported by the bootstrap, but apparently these destabilize the combined analysis, resulting in slightly decreased bootstrap percentages. Even in this situation it would be difficult to argue that this decrease in support is attributable to "hard" incongruence (Seelanan et al., 1997);
+-5
+99 26
+I—2
+29_ 24_ 89_ 10
+29
+Ercilla Phytolacca
+Rhipsalis Limeum
+J
+Phytolaccaceae
+Cactaceae o
+63
+9 3 88
+56
+20
+62
+63
+19
+1 28 Spinacia ^ 9
+98
+100
+8 6 |~~~
+Aizoaceae
+25
+Nepenthes Frankenia Plumbago
+• Polygonum •Rheum
+(Continued)
+Nepenthaceae Frankeniaceae Plumbaginaceae
+Polygonaceae
+FIGURE 5.
+(g) atpB: caryophyllids
+Aextoxicaceae Berberidopsidaceae
+Amaranthaceae Bougainvillea Nyctaginaceae
+Delosperma ~"|
+Caryophyllaceae "Rhabdodendron Rhabdodendraceae
+Drosera Droseraceae
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 322 SYSTEMATIC BIOLOGY
+(h) rbcL: caryophyllids
+VOL. 49
+FIGURE 5.
+rather, we suggest that it is due to the simple addition of an unclear pattern in one gene to a clear one in the other, resulting in less support in the combined analysis. With three genes combined (atpB/rbcL/18S rDNA), these two clades, Platanaceae/Proteaceae and Ranunculaceae, are each strongly supported (Soltis et al, 1998; Hoot et al, 1999).
+All three data sets provide evidence for a monophyletic Saxifragales (Figs. 5e,f, 6c), but in the rbcL tree, Geraniaceae are embedded within this order near Paeoniaceae. This is most likely a result of the sampling used here; in the Chase et al. (1993) rbcL tree with greater sampling, Geraniaceae appeared with the group here named Geraniales (Fig. 6f). The position of Paeoniaceae within Saxifragales is highly unstable and has little support for any particular placement (but see Soltis et al., 1997b, 1999; Soltis and Soltis, 1998, for relationships in Saxifragales). The relationship of Saxifragales to the other ma-
+jor clades is also unstable, mostly because of the short branches along the spine of the tree (Fig. 6c). As in Hoot et al. (1999), Soltis and
+Soltis (1998), and Soltis et al. (1999), the various members of the Hamamelidaceae represented here (Corylopsis, Hamamelis, Disanthus) are found in a clade consisting of Saxifragales and other assorted rosids.
+Similarly, all three data sets support an expanded Caryophyllales (74% in atpB, 84% in rbcL, and 97% in the combined; Figs. 5g,h, 6d), but their placement relative to the rosids (including Saxifragales and Vitaceae) and asterids has bootstrap values <50% in all three analyses. The expanded Caryophyllales includes a core clade consisting of Amaranthaceae, Aizoaceae, Cactaceae, Caryophyllaceae, Molluginaceae, Nyctaginaceae, a n d Phytolaccaceae. A clade of Droseraceae, Plumbaginaceae, Polygonaceae, and Nepenthaceae is also found in all three trees but exhibits only low support in the combined analysis (67%; Fig. 6d). Many of the relationships within both core Caryophyllales and this second clade are also well supported, but additional taxa not included here are also found to be related to Caryophyllales s.l. (e.g., Physenaceae and
+1 2
+Nyctaginaceae Aizoaceae
+Phytolaccaceae
+Molluginaceae Cactaceae Caryophyllaceae Frankeniaceae Droseraceae Nepenthaceae Plumbaginaceae
+|Polygonaceae
+Amaranthus Spinacia Bougainvillea Delosperma Ercilla
+Phytolacca Trianthema Schlumbergera Silene Frankenia Drosera Nepenthes Plumbago Polygonum Rheum
+Simmondsia
+Rhabdodendron Rhabdodendraceae_ Dillenia — i
+Schumacheria pilleniaceae Tetracera J
+(Continued)
+Simmondsiaceae
+o
+o •o
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000 SAVOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 323 (i) atpB: rosids (mostly eurosid I)
+eurosids II
+1
+90
+13
+18 i 15 '
+Hymenanthera ~~| Violaceae R/inorea
+10 74 36 74
+39
+2
+16
+,
+82
+24
+Celastraceae
+Stackhousiaceae Pamassiaceae Oxalidaceae ~ Connaraceae Cunoniaceae Tremandraceae Elaeocarpaceae_ Rhizophoraceae Erythroxylaceae
+Malpighiaceae
+Dichapetalaceae Euphorbiaceae Humiriaceae Medusagynaceae Ochnaceae Flacourtiaceae Goupiaceae
+100
+40
+34 98
+10
+95 16
+98
+10
+97
+33
+71
+4
+88
+—— Linum Reinwardtia
+— Betula
+FIGURE 5.
+(Continued)
+44
+Afrostyrax Brexia Celastrus
+-— Hippocratea
+21— Plagiopteron
+3
+I — Salacia
+Euonymus Stackhousia Pamassia
+•I3— Averrhoa
+Huaceae
+—
+73
+Rhamnus 98 Trema
+I
+\ 17
+,
+Heisteria Santalum
+mJ Olacaceae Opiliaceae
+Santa laceae
+23
+18 <
+~j^
+i i -
+-11Myrica
+JfiPterocarya
+11 895i
+4 C Mori/s
+51
+^
+18I in
+-22 W
+Pisum Sophora
+-2s— Xanthophyllu
+6
+11— Eucryphia
+•"* . Platytheca Sioanea
+i!_ Carallia
+3 6 Erythroxylum S—Dicella
+7oo-Ljl_ Malpighia 46
+2 1
+u
+Datisca Kedrostis
+30
+J ~|
+Rourea
+7 Dichapetalum 1 41 Euphorbia 15Humlria
+"H— Medusagyne "j7 • — Ochna
+4 I Hydnocarpus 4 i ^ Hydnocarpus
+' .. Goupia *—£Goupia
+Ait
+'—'
+Irvingiaceae Passifloraceae Turneraceae Salicaceae
+Linaceae
+Betulaceae
+Casuarinaceae
+Myricaceae
+Juglandaceae
+-g/rv/ng/a 38 „ .«
+20 i ei. Piaflss/flora _._I*"w __ 99 i "** Turnera
+Casuarina
+Fagaceae Trigonobalanus Coriariaceae
+22— Coriaria Corynocarpus
+Corynocarpaceae Datiscaceae
+Cucurbitaceae
+Rosaceae
+Elaeagnaceae Rhamnaceae Cannabaceae Ulmaceae Moraceae Urticaceae
+Fabaceae Polygalaceae
+Xerosicyos HLDryas
+54 Gaum
+23 Spiraea 1 a spiraea
+>
+31> El
+P i4 Elaeagnus
+1
+10 i 1C Humulus
+4
+87~L-43— Thesium
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 324
+SYSTEMATIC BIOLOGY
+VOL. 49
+3 eurosids II
+Afrostyrax Brexia Hippocratea Plagiopteron Salacia Celastrus Euonymus Stackhousia Parnassia Brugiera
+24~ Erythroxylum 18~ Hymenanthera"!
+Huaceae
+Celastraceae
+Stackhousiaceae Pamassiaceae _ Rhizophoraceae" Erythroxylaceae
+FIGURE 5.
+(j) rbcL: rosids (mostly eurosid I)
+25" Rinorea Passiflora
+—' Violaceae
+Turnera
+Linum
+Reinwardtia I Linaceae Irvingia
+—i
+Irvingiaceae Salicaceae Flacourtiaceae Goupiaceae
+Malpighiaceae
+Euphorbiaceae Dichapetalaceae Medusagynaceae Ochnaceae Humiriaceae _ Oxalidaceae Connaraceae Cunoniaceae Tremandraceae Elaeocarpaceae
+Zygophyllaceae
+Krameriaceae Betulaceae Casuarinaceae Fagaceae Myricaceae Juglandaceae Coriariaceae
+Cucurbitaceae Corynocarpaceae Datiscaceae
+-] Rosaceae J
+Elaeagnaceae Rhamnaceae Cannabaceae Ulmaceae Moraceae Urticaceae
+Alvaradoa
+Picramnia I Picramniaceae
+(Continued)
+__r||Hydnocarpus l-=— Goupia
+21 r 4 Dicella Malpighia
+Euphorbia Dichapetalum Medusagyne Ochna
+14 Datisca 11 r~1rDryas
+lfp-lSSpiraea 4 *rrj-Elaeagnus Rhamnus
+Humulus
+Trema 82 l__rtfMows
+—
+Boehmeria
+J
+~~| XanthophyllunU Polygalaceae
+USophora 52_ Polygala
+Passifloraceae Turneraceae
+Fabaceae
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000 SAVOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 325 (k) atpB: eurosids II
+FIGURE 5.
+(Continued)
+11
+«_
+.20 36
+Aquilari? Phaleria
+Thymelaea
+Muntingia Brassica Stanleya Megacarpea Capparis Reseda Floerkea Carica Tropaeolum Stachyurus Staphylea Clidemia Metrosideros Vochysia
+Fuchsia Punica Quisqualis Alvaradoa Picramnia Balanites Viscainoa
+2 1 -
+Acer Cupaniopsis Koelreuteria Aesculus Ailanthus Simarouba Swietenia Trichilia Citrus Poncirus
+Zanthoxylum
+Bursera Pistacia Rhus Schinus Adansonia Bombax Gossypium Ochroma Chorisia Sterculia Tilia Dombeya
+Sapindaceae
+Simaroubaceae Meliaceae
+Rutaceae
+Burseraceae Anacardiaceae
+Malvaceae
+Bixaceae
+Dipterocarpaceae ~~| Cistaceae
+_ J
+Sarcolaenaceae ] Thymelaeaceae
+Muntingiaceae 1Brassicaceae
+Resedaceae Limnanthaceae Caricaceae Tropaeolaceae Stachyuraceae Staphyleaceae Melastomataceae Myrtaceae Vochysiaceae Onagraceae Lythraceae Combretaceae Picramniaceae
+Zygophyllaceae
+Krameriaceae —i Geraniaceae ~ _ J 1Melianthaceae
+Francoaceae
+Theobroma
+Bixa Diegodendron Cochlospermum. Anisoptera Cistus Helianthemum Sarcolaena
+il_ Guaiacum 27 Krameria
+4
+8
+Geranium Pelargonium Bersama Melianthus Francoa
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 326 SYSTEMATIC BIOLOGY
+VOL. 4 9
+(I) rbcL: eurosids II
+FIGURE 5.
+(Continued)
+21
+11
+2
+-I — Aesculus
+Sapindaceae
+Simaroubaceae
+Rutaceae
+Meliaceae Burseraceae
+Anacardiaceae
+Brassicaceae
+Resedaceae Limnanthaceae Caricaceae Tropaeotaceae
+Malvaceae
+Thymelaeaceae
+Dipterocarpaceae Sarcolaenaceae
+Cistaceae
+Muntingiaceae "I
+Bixaceae
+Melastomataceae Vochysiaceae Myrtaceae Onagraceae Lythraceae Combretaceae
+~~i
+—I Melianthaceae
+Francoaceae Stachyuraceae Staphyleaceae
+! i _
+i i 29J
+8
+-I —
+-H—
+5 •I—
+1ft
+g—
+Cupaniopsis Koelreuteria Ailanthus Simarouba
+Cftros
+Poncirus
+Rufa
+Zanthoxylum
+Ptaeroxylon
+Svwefenia
+Trichilia Bursera
+Pistacia Schinus Rhus
+Megacarpea
+Stanleya Capparis Reseda Floerkea Carica Tropaeolum Ochroma Adansonia Bombax
+4 p^^ Dombeya -12— Gossypium
+21
+23
+Chorisia Sterculia Grewia Theobroma
+Berrya Aquilaria
+Phaleria
+Thymelaea ._±±Anisoptera
+-I ^ H
+7 i
+15
+212_ C/SfOS
+Sarcolaena 11 Helianthemum
+—1
+\
+i 2 _ Muntingia 8_ s/xa
+4
+Diegodendron
+Coc/j/ospem?u/nJ
+Clidemia Qualea Metrosideros
+Fuchsia 4 — Punica
+—r~ Quisqualis ~^~ Bersama
+9
+Melianthus Francoa
+4
+— Stachyurus 12 Staphylea
+~*
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000
+SA VOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 327 (m) atpB: asterids
+• euasterids
+Actinidiaceae Styracaceae
+Ebenaceae
+Sapotaceae
+l
+72
+74
+Asteropeiaceae in Morton et al., 1997; Tamaricaceae, Ancistrocladaceae, and Dioncophyllaceae in Fay et al., 1997, and Lledo et al., 1998) and require evaluation in using this combined-gene matrix.
+Rosids
+Within the rosids (61% atpB/rbcl bootstrap support), two major clades are identi-
+CyrilIa Cyrillaceae 5i ~*
+Ericaceae
+Pnmulaceae J
+20
+95
+81
+69
+se i_22—Androsace
+69
+"^ I
+4 |
+5
+12 39
+11 34 16
+Puiya
+Ternstroemia
+Cobaea • I WU I r I f Ba
+Impatiens Impatiens
+Tetramerista •Marcgravia Sarracenia
+96
+Schima -—Stuartia ——Clethra
+Theaceae Clethraceae
+FIGURE 5.
+(Continued)
+14
+22
+Clavija Maesa
+Alangium
+Corm/S
+Theophrastaceae
+Myrsinaceae
+Cornaceae ww...auCaC
+155 L ^2 0 14
+J
+5 | 7Y
+Carpenteria ~~| ^—Hydrangea J "Vdrangeaceae
+A/yssa Nyssaceae
+J 14
+Euclea
+Planchonella
+Pouteria Ptri
+-^—Manilkara ,_
+——Barringtonia ~ —— Napoleonaea
+Lecythidaceae
+Symplocos I—5—Adinandra
+Symplocaceae —•
+Ternstroemiaceae m
+Polemoniaceae
+F o u q u i e r i a c e a e Balsaminaceae Tetrameristaceae Marcgraviaceae Sarraceniaceae
+"""
+-^—Erica 7
+8 3 Anagallis -| -2—rr: a
+12
+fied in all shortest trees (neither of which, however, receives support >50%): eurosid I, composed of Celastraceae (including Hippocrateaceae plus Huaceae, Parnassiaceae, and Stackhousiaceae), Cucurbitales, Fabales, Fagales, Malpighiales, Oxalidales, and Rosales (Figs. 5i,j, 6e); and eurosid II, including Brassicales, Malvales, Myrtales, and Sapindales (Figs. 5k,l, 6f). There are also several clades that cannot be clearly as-
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 328
+SYSTEMATIC BIOLOGY
+VOL. 49
+J— euasterids
+52
+Nyssaceae
+10 r^—Carpenteria ~~H|ydrangeaceae
+18
+99
+14
+Fouquieriaceae
+Marcgraviaceae Tetrameristaceae
+Cornaceae
+14 95 93
+FIGURE 5.
+93 10
+i. i "wi
+Euclea
+Planchonella
+99
+iriaimnaii
+3f
+~"
+1 1 2 Napoleonaea
+Jdria Idria
+HL-lmpatiens
+17 Tetramerista 22—Alangium \^-Cornus 12—Nyssa
+(n) rbcL: asterids
+12—Actinidia 4 r*—Erica
+-Sarracema 21—Cyrilla
+14 —LJ2—Stuartia
+r-2B—Adinandra
+.Eurya 56 i_ix cuiya
+Actinidiaceae Ericaceae Sarraceniaceae Cyrillaceae Theaceae
+—
+—12
+31
+18 23
+yijAnagallis wo L^—Androsace
+11 Maesa 31 Clavija
+——Cobaea
+8 r—Diospyros
+Ternstroem iaceae
+Symplocaceae Clethraceae Styracaceae Prim u Iaceae
+Myrsinaceae Theophrastaceae Polemoniaceae Ebenaceae
+Sapotaceae _
+Ternstroemia Symplocos
+Styrax
+Manilkara
+Pouteria
+25 BPOarUrIiInIUgWtoInIIiOa ~1Lecythidaceae
+95 ul— Hydrangea p— Aextoxicon
+113
+1
+— Berberidopsis (Continued)
+I
+Aextoxicaceae Berberidopsidaceae
+signed to either of these major rosid group-
+ings: Geraniales (based on the 1993 rbcL tree
+and unpublished results: Francoaceae, Ge-
+raniaceae, Melianthaceae, Staphyleaceae,
+and Stachyuraceae and perhaps Crossoso-
+mataceae, Geissolomataceae, Greyiaceae,
+and Vivianiaceae), Zygophyllaceae/Kra-
+meriaceae (monophyly supported by boot-
+strap of 86% in the combined trees), and atpB, rbcL, and combined, respectively), Cu-
+Picramniaceae. The placement of Zygophyllaceae/Krameriaceae and Picramniaceae as members of eurosid I receives <50% bootstrap support in the combined analysis. Each of the other orders of the eurosid I clade is supported in the combined analysis: Celastraceae/Huaceae/Parnassiaceae/ Stackhousiaceae (<50%, <50%, 60% for
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000 SAVOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 329 (o) atpB: euasterids
+FIGURE 5.
+11 r^—"ex -,
+aTlJl—NemopanthusJ
+(Continued)
+4
+Catalpa
+Verbena |—-— Lavandula
+Borago
+~ Hydrophyllum,_
+Bouvardia
+w w jr «*i«ff w^j
+26 _. ....
+Dischidia Plumeria
+28
+j — —Antirrhinum
+~
+22
+12 _....
+Rubiaceae
+Loganiaceae
+Apocynaceae
+Scrophulariaceae Lentibulariaceae Buddlejaceae Bignoniaceae Verbenaceae
+Lamiaceae
+Acanthaceae Gesneriaceae Scrophulariaceae Oleaceae Oncothecaceae Aucubaceae Garryaceae Eucommiaceae Icacinaceae Apiaceae Araliaceae Pittosporaceae Escalloniaceae Valerianaceae
+Adoxaceae Bruniaceae
+Campanulaceae
+Rousseaceae Asteraceae Menyanthaceae Argophyllaceae Phellinaceae Icacinaceae Helwingiaceae
+Aquifoliaceae _ J
+— Utricularia
+"L-
+2 |—• Buddleja
+99 I —
+7 |
+55
+— — Prostanthera •^— Thunbergia Saintpaulia
+i 5 — Globularia Jasminum
+Oncotheca -!° Garrya
+—— Eucommia Pyrenacantha
+35 ..
+Apium Hedera Pittosporum Escallonia Valeriana Sambucus Viburnum Berzelia Campanula
+Lobelia Roussea
+39 _.. .
+Cichonum Menyanthes
+—— Corokia Phelline
+Gonocaryum
+Helwingia
+Solanaceae Convolvulaceae
+Boraginaceae
+t
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 330
+SYSTEMA TIC BIOLOGY
+VOL. 4 9
+2
+Araliaceae
+5 (&
+3
+15 too 1
+12 Aucuba I ^ Garrya
+37 Eucommia
+15
+(Continued)
+15 •
+64
+Catalpa
+Buddleja
+Lavandula
+Prostanthera Thunbergla
+Verbena Jasminum Bouvardia Rubia Coffea Cinchona Asclepias
+r Plumeria
+Bignoniaceae (0 Buddlejaceae
+•a
+26 3
+7 7
+27
+42 55 8
+2
+^
+Gonocaryum ^-1
+S 52
+5?_ Borago
+2
+5
+28
+19
+(p) rbcL: euasterids
+6 286 29
+36
+28 r
+5 100|_27 10
+13
+98
+8
+94
+2
+M 4 21
+7f 95
+Garryaceae Q
+FIGURE 5.
+1 4
+91
+23
+U
+24 ir
+Solanaceae Convolvulaceae Boraginaceae
+68324
+(D Rubiaceae 3
+1 Apocynaceae
+Loganiaceae
+Apiaceae
+77
+13
+7
+5
+18
+Nicotiana 100 L Solanum 43 Ipomoea
+11
+[24
+31
+39
+Lamiaceae
+Acanthaceae Verbenaceae Oleaceae
+12
+6
+20
+40
+Viburnum Berzelia Campanula Lobelia Roussea Cichorium Corokia Phelline Menyanthes Valeriana Helwingia
+Ilex Nemopanthus-J Escallonia
+15
+[37 5
+31
+100
+28 5fi 16
+Asteraceae Argophyllaceae Phellinaceae Menyanthaceae Valerianaceae Helwingiaceae
+Aquifoliaceae
+Escalloniaceae Aucubaceae
+M
+r*
+21 32
+Strychnos
+Apium 14 Hedera
+9
+(A
+o5T
+0) (D
+r
+L M_
+19 98
+3
+M L35
+n312 \y
+75
+2 r19 Pittosporum
+/ _5 T Sambucus —1
+Pittosporaceae in Adoxaceae
+Bruniaceae Campanulaceae
+> Rousseaceae (0
+l6
+Hydrophyllum Antirrhinum
+Scrophulariaceae Streptococcu>i Gesneriaceae
+Utricularia Lentibulariaceae
+r
+renacanf/ja
+Eucommiaceae llcacinaceae
+Oncothecaceae
+3
+01
+Oncotheca
+O
+uaster
+terid 1
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Lam ial< ian ale ale uifc rale:
+
+ 2000
+SAVOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS
+331
+54 TOO
+too 105
+15
+J4
+100
+23
+84
+14 885 87
+100
+3 6I'
+I 30 22
+nc "^"eudicots
+2
+7
+1
+15
+94
+70
+36
+5
+52
+fOO
+32 100
+"UL
+60
+Itoo"
+371
+III
+J00
+ill
+99 mj
+23
+9 Cinnamornum
+4
+63 fOO
+Canella
+7 Cinnamodendron
+18 73
+_!£_ monocots 86
+94 Annona
+Eupomatia 22 Degeneria
+61
+100
+I
+80_ fwZllnd Utxfltfam Welwitschia
+Ginkgo Metasequoia Taxus
+uiiciauuac Welwitschiaceae c
+10
+81
+24
+Hedyosmum Amborella Brasenia Nymphaea Austrobaileya
+Schisandra Ceratophyllurr Ephedra
+5
+13 95
+55 IjTlifl-iZ. Galbulimima
+53 I j J i Liriodendron 3 Magnoliaceae (A
+13 RO
+Laurus/Persea Hedycarya Kibara/Hedycarya^ Gyrocarpus
+Jo"
+15 69
+too
+9 27
+24
+78 H_83Jr—23
+Houttuynia
+Saururus Peperomia
+Piper Calycanthus Idiospermum
+Saururaceae 1 Piperaceae
+1
+| Calycanthaceae j
+4
+(a) atpBlrbcL
+c
+Annonaceae 2 u
+Eupomatiaceae (D 3
+Degeneriaceae
+I l_2_ 22
+73
+o
+_38_
+Himantandraceae un Myristica/Knema Myristicaceae —
+87l_!i Magnolia 37
+2 28 I
+7
+Belliolum
+Drimys
+f aofff af/flfcff
+~l
+t—
+Winteraceae Canellaceae
+14 74
+Lactoris
+Aristolochia Aristolochiaceae Asarum
+Saruma
+15 Chloranthus Sarcandra
+Hernandiaceae ] Chloranthaceae
+Amborellaceae
+nNvmnhapaceae llf 1I1UI IQCBVvflQ
+Austrobaileyaceae Illiciaceae Schisandraceae Ceratophyllaceae Ephedraceae
+35
+[Too
+I 101 Podocarpus
+Ginkgoaceae Taxodiaceae Taxaceae Podocarpaceae
+Pinaceae —
+(Q O
+r Iw
+50
+One of 8,600 best trees resulting from the exploratory phylogenetic analysis of atpB/rbcL combined
+FIGURE 6.
+for 357 taxa. The tree length is 25,936 steps, CI = 0.14, and RI = 0.56. Arrows indicate branches collapsing in the strict consensus tree of 2,000 shortest trees. The numbers of steps are indicated above the branches, and bootstrap values >50% are indicated below the branches. Because of its size, the tree has been broken into eight parts: (a) noneudicots, (b) monocots, (c) eudicots, (d) caryophyllids, (e) eurosids I, (f) eurosids II, (g) asterids, (h) euasterids. Suprageneric nomenclature follows that published by the Angiosperm Phylogeny Group (1998).
+uciui aucd«
+I Monimiaceae i/i
+•n
+i|O
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+'ipei'ales Laura
+
+ 332
+SYSTEMATIC BIOLOGY
+VOL. 4 9
+18
+(b)
+62
+too
+14
+97
+100 t-zz— Bomarea
+75 ., „
+12 r~—Veratrum
+Alstroemeriaceae
+Melanthiaceae Philesiaceae
+Liliaceae
+Anthericaceae Asparagaceae Alliaceae Asphodelaceae Xeronemaceae Ixioliriaceae
+10
+18
+100
+8 62
+—— Tecophilaea | Tecophilaeaceae OdontostomuQi]
+Blandfordia Blandfordiaceae Rhodohypoxis Hypoxidaceae
+12
+80
+34
+41
+Xerophyllum ' Lapageria
+12
+18 82 37
+curbitales (97%, 87%, 100%), Fabales (<50%, <50%, 89%), Fagales (98%, 94%, 100%), Malphigiales (66%, <50%, 92%), Oxalidales (90%, 93%, 100%), and Rosales (<50%, <50%, 73%). Geraniales are placed as sister to the eurosid II clade but without bootstrap support >50% (Fig. 6f). The other orders of eurosid II also receive support from these analyses (Figs. 5k,l, 6f): Brassicales (68%, 78%, 99%), Malvales (84%, <50%, 97%), Myrtales (93%, 90%, 100%), and Sapindales (85%, <50%, 100%). Many other relationships within the eurosid I and II clades also are well supported (for example, nearly all dichotomies in Brassicales, Cucurbitales, Fabales, Fagales, Geraniales,
+Myrtales, Oxalidales, Rosales, and Sapindales receive bootstrap support >50%).
+Aster ids
+An expanded asterid clade (Asteridae sensu Olmstead et al., 1992) is recovered from analysis of all three matrices. Broad analysis of 18S rDNA similarly revealed an expanded Asteridae, although some analyses showed Caryophyllales embedded in Ericales, within Asteridae s.l. (Soltis et al., 1997b). In the combined trees, this expanded asterid clade is strongly supported (92%; Fig. 6g). Cornales (52%, 74%, 96%) and Ericales (<50%, 72%, 97%) together
+29 too
+110
+??
+Dioscorea Tacca Pleea Tofieldia
+Acorus
+30
+Lloydia
+24 Nomocharis
+13
+1166 88
+12
+iZ_ Oncidium
+Spathiphyllum Araceae
+25
+33 too
+O/yza Zea
+L
+^Juncus
+48 ^-
+Poaceae
+Juncaceae Dioscoreaceae Taccaceae
+Tofieldiaceae
+Acoraceae
+FIGURE 6.
+(Continued)
+14
+99
+29
+95
+36
+Androcymbium Colchicaceae
+~g7l_3i_ Tulipa
+M
+Tricyrtis 3§— Anthericum
+iZ_ Asparagus U—lpheion
+Bulbine Xeronema Ixiolirion Conanthera ~~|
+12
+Barbacenia so Stemona
+Velloziaceae Stemonaceae Cyclanthaceae
+Orchidaceae
+50
+85
+36 100 13
+Sphaeradenia Apostasia Cypripedium
+36
+2
+i !
+44 i20r
+100
+119
+O (/) O
+2 5" (A
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000
+SAVOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 333
+25
+89
+100
+78
+60
+43
+8 67
+100
+Buxus
+Buxus Pachysandra
+Didymeles Sabia Lambertia Roupala
+—Ji Buxaceae Didymelaceae
+Sabiaceae
+~
+10
+Ribes
+^TCercidiphyllum <Cercidiphyllaceae
+24
+91
+23
+100
+18
+100
+97
+83
+19
+caryophyllids
+Vitaceae Altingiaceae
+Saxifragaceae
+Iteaceae Pterostemonaceae
+~ Crassulaceae Haloragaceae
+Penthoraceae Paeoniaceae Grossulariaceae
+4
+100
+46
+100 22 100
+94
+asterids #rosids
+(c) atpBlrbcL: eudicots
+97
+30
+60
+T
+71
+80
+8
+i too
+24
+o^
+I
+L5 —
+17 T~~
+-5^-
+2 5
+Myrothamnus Gunnera
+Tetracentron
+Myrothamnaceae Gunneraceae
+| Trochodendraceae
+7 95
+[io~
+30 76
+93
+\Hamamelidaceae Daphniphylliun Daphniphyllaceae_
+46
+Diisantthus J
+FIGURE 6.
+(Continued)
+94
+Hydrastis i-
+Menispermum ' Decaisnea
+Euptelea Dicentra
+_r^Leea —p— Altingia
+Liquidambar — — Astilbe
+Boykinia —55Cavifrana
+36
+15 H
+—Itea
+L-25. Pterostemon
+Crassula
+20 _ .,
+Kalanchoe r ^ Dudleya
+100
+115 51
+47 11 too
+27 24
+• Placospermum_ Platanus Nelumbo
+CCaauulolopphh]yllum Nandina
+Proteaceae
+Platanaceae Nelumbonaceae
+Berberidaceae Ranunculaceae
+Menispermaceae Lardizabalaceae Eupteleaceae Papaveraceae
+71
+-12— Glaucidium Xanthorhiza
+19
+32 [—7Hnalioragis
+-^MKMaylraiionopcphyoylellum
+— Myriophyllu — Penthorum — Paeonia
+J_T^~ Corylopsis ~~\ ^ — Hamamelis
+rroc/jodendrooJ
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 334
+SYSTEMATIC BIOLOGY VOL. 49
+11
+73
+98 O
+27
+99
+12
+83
+54
+70
+24
+Phytolacca Limeum/Trianthema Rhipsalis/Schlumb.
+65
+Ml_24£rci7/a
+clades. Although patterns within Cornales are fairly well supported, those within Ericales are not. Cornales should also include Grubbiaceae, Loasaceae, and probably Hydrostachydaceae (Xiang et al., 1993; Hempel et al., 1995; Morton et al., 1996), but no additional families have been found to be members of Ericales since Morton et al. (1996).
+Within the euasterids (Figs. 5o,p, 6h), there are two orders of uncertain relationships: Garryales, in which Oncotheca may not be a member (the rest have weak support as a clade: 52%, not found, 55%) and Aquifoliales (52%, not found, 55%). The monophyly of the latter and euasterid II has low bootstrap support (51% in the combined analysis). Support for euasterid II (62% in the combined trees) and the relationships therein are almost all weak (Fig. 6h); only Apiales {75%, 75%, 99%) and
+52%, 60%). Relationships within Gentianales and Solanales appear to be well resolved, whereas those within Lamiales are generally unclear. Within Lamiales, only the monophyly of all families (excluding Oleaceae) receive strong bootstrap support (91%, <50%, 91%).
+DISCUSSION
+The trees derived from analysis of a combined rbcL/atpB data set are a marked improvement in terms of support for the terminal groups identified, mostly defined as orders here and elsewhere (APG, 1998). This represents one of the first phylogenetic analyses that has dealt with combined gene matrices for such wide taxonomic sampling. Overall, the phylogenetic relationships observed with atpB compare extremely well with those of rbcL; they are
+29
+100
+88
+40
+35 Aextoxicon "L-H Berberidopsis j — ^ Amaranthus
+1 53 Spinacia
+Aextoxicaceae Berberidopsidaceae
+I Amaranthaceae
+Nyctaginaceae Aizoaceae
+Phytolaccaceae Molluginaceae o
+102
+Silene Frankenia Drosera Nepenthes
+— Plumbago
+11
+84 67
+24
+Bougainvillea 4 Delosperma
+39 40 100
+51
+FIGURE 6.
+Polygonum Rheum Simmondsia Rhabdodendron
+(Continued)
+(d) atpBlrbcL: caryophyllids
+form a clade (<50%) in the combined analy-
+sis (Figs. 5m,n, 6g), and this clade is sister to
+the clade composed of euasterid I (Sola-
+nales, Lamiales, Gentianales, and Garry-
+ales) and euasterid II (Apiales, Asterales,
+Dipsacales, and Aquifoliales; Figs. 5o,p, 6h) 98%, 100%), and Solanales (not present,
+Cactaceae Caryophyllaceae Frankeniaceae Droseraceae Nepenthaceae Plumbaginaceae
+Polygonaceae
+Simmondsiaceae Rhabdodendraceae
+D)
+Asterales (<50%, <50%, 71%) receive bootstrap support of 50% or more. In contrast, within euasterid I (<50%, 64%, 100%), many relationships are well supported: Gentianales (99%, 94%, 100%), Lamiales (92%,
+«<_
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000 SAVOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 335 (e) atpBlrbcL: rosids (mostly eurosid I)
+FIGURE 6.
+A frostyrax Brexia Hippocratea Plagiopteron
+Celastrus Euonymus i_ Stackhousia Pamassia Averrhoa Rourea/Conna. Eucryphia Platytheca Sloanea
+i—fg— Carallia/Brug.
+Huaceae Celastraceae
+Stackhousiaceae Parnassiaceae Oxalidaceae Connaraceae Cunoniaceae Tremandraceae Elaeocarpaceae— Rhizophoraceae Erythroxylaceae
+u
+^ Erythroxylum
+Dichapetalum Dichapetalaceae
+.
+4 7
+Datisca Kedrostis Xerosicyos Dryas Geu/n Spiraea Elaeagnus Rhamnus Humulus
+—i
+" I
+Datiscaceae Cucurbitaceae
+Rosaceae
+Elaeagnaceae Rhamnaceae Cannabaceae Ulmaceae Moraceae Urticaceae _
+Salix
+Salicaceae Medusagynaceae Ochnaceae
+Dicella
+Malpighia
+Euphorbia
+Humiria
+Hydnocarpus
+Goupia
+Hymenantheral Violaceae
+Rinorea Passiflora
+Irvingia Linum Reinwardtia Balanites Guaiacum Viscainoa Krameria Betula Casuarina
+y
+* J
+Passifloraceae Turneraceae Irving iaceae
+Linaceae
+Zygophyllaceae J
+Krameriaceae _ Betu Iaceae Casuarinaceae Myricaceae Juglandaceae
+L_32Tre/na
+^ Urtica/Boeh. 33j-U2P/su/n
+1
+(Continued)
+Fabaceae unjj Polygalaceae
+Picramniaceae
+^ Sophora rrr Polygala Xanthop
+py Alvaradoa Picramnia
+~ | J
+Malpighiaceae
+Euphorbiaceae Humiriaceae Flacourtiaceae Goupiaceae
+Pterocarya
+Trigonobalanus Fagaceae _ Cor/ar/a Coriariaceae Corynocarpus Corynocarpaceae
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 336 SYSTEMATIC BIOLOGY
+VOL. 49
+FIGURE 6.
+(Continued)
+(f) atpBlrbcL: eurosids II
+j j ,
+i § i l
+i Z 68
+Phaleria
+29_ Acer 2J_Aesculus
+Cupaniopsis
+Koelreuteria 2-Ailanthus
+Simarouba Citrus Poncirus Ruta Zanthoxylum Ptaeroxylon Swietenia
+^-Trichilia Bursera Pistacia Schinus
+Rhus
+S Adansonia
+\ 9_ Ochroma Bombax
+Sapindaceae Simaroubaceae
+Rutaceae
+Meliaceae Burseraceae Anacardiaceae
+Malvaceae
+Bixaceae
+Dipterocarpaceae Sarcolaenaceae
+Cistaceae
+— Muntingiaceae
+27
+Dombeya 2!L.Gossypium
+Chorisia Sterculia Tilia/Berrya
+iS_ Grewia
+19 13 14
+Theobroma Bixa
+Diegodendron Cochlospermum_
+39
+41
+52_ C/Sfl/S
+52 Helianthemum
+Muntingia
+Aquilaria
+Anisoptera Sarcolaena
+24
+j|p 36 Thymelaea i_ Thymelaeaceae
+Brassica 1—Megacarpea
+—
+Fuchsia 22-Punica
+Myrtaceae Onagraceae Lythraceae Combretaceae _ Melianthaceae
+Francoaceae Geraniaceae
+Stachyuraceae Staphyleaceae
+8
+Quisqualis
+elianthus Francoa Geranium
+, 1—52—Pelargonium
+i5Stachyurus Staphylea
+Brassicaceae i_
+Stanleya
+Capparis
+Reseda
+Floerkea
+Carica
+Tropaeolum
+Clidemia
+Vochysia/Qualea Vochysiaceae Metrosideros
+Resedaceae
+Limnanthaceae Caricaceae Tropaeolaceae _ Melastomataceae
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000
+SAVOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 337 i-euasterids
+20 92
+J5_i
+26
+100
+25 too
+JTT Actinidia Erica
+Cyrilla
+—Sarracenia JJImpatiens
+Marcgravia Tetramerista —— Symplocos
+~£j— Diospyros -^~ Euclea
+Planchonella Pouteria
+Actinidiaceae Ericaceae Cyrillaceae Sarraceniaceae Balsaminaceae Marcgraviaceae Tetrameristaceae Symplocaceae
+Ebenaceae
+20
+97 '
+Clethraceae
+96
+(g)
+31
+"
+Carpenteria Carpenteru
+Ui tf4m^*%r*n4 Hydrangea
+Nyssa
+Dillenia Schumacheria Tetracera Heisteria Opilia Santalum Thesium
+I Hydrangeaceae Nyssaceae Dilleniaceae
+Olacaceae Opiliaceae
+1Santalaceae
+37 100
+26 I ^ wo'
+29
+36
+55 — 55
+27 27
+5 24 r-g-| 24
+Anagallis
+Androsace
+Clavija
+Maesa nnaesa
+Primulaceae
+Theophrastaceae Myrsinaceae
+67
+13
+95
+n. I T "
+31 23
+40
+Adinandra
+Eu/ya
+Ternstroemia Schima
+FIGURE 6.
+1001
+4 7 57
+17
+99
+Barringtonia -24— Napoleonaea
+(Continued)
+Debates on phylogenetic methods and
+use of molecular characters in large data
+sets have been numerous (e.g., Graur et al.,
+1991; Patterson et alv 1993; Hillis etal., in studies that have demonstrated similar 1994; Mishler, 1994; Hillis, 1995,1996,1998; amounts of variability (e.g., in a previously D'Erchi et al., 1996; Graybeal, 1998; Kim, published molecular study at the same tax-
+also in general agreement with those from 18S rDNA (Soltis et alv 1997b).
+Rates of Divergence versus Phylogenetic Signal
+1998). The analyses presented here contra-
+dict several widely held ideas concerning
+molecular phylogenetics and thus have
+broad implications beyond angiosperm retion at different taxonomic levels (e.g., lationships. Taberlet et al., 1991; Graybeal, 1993; Meyer,
+8 i '
+Manilkara Sapotaceae MannKara
+Barringtonia
+j — —
+— uarnngtonia
+Lecythidaceae
+Polemoniaceae Fouquieriaceae
+Ternstroemiaceae
+Stuartia
+Styrax Styracaceae
+,—IZ— Cobaea LJZ_ /c/r/a
+Alangium Cornaceae Cornus
+Cornus
+Theaceae
+When considering potential loci to be sequenced, systematists are often interested
+onomic level). A great deal of attention has been paid to the rate of molecular evolution as a feature of prime importance for resolu-
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 338
+SYSTEMATIC BIOLOGY
+VOL. 49
+(h)
+Campanula
+Roussea
+•H .-12— Cichorium Menyanthes
+Corokia Phelline Escallonia Valeriana Gonocaryum Helwingia
+Ilex Nemopanthus
+(Continued)
+Soltis a n d Soltis,
+1998). This
+topic is
+1994;
+not clear-cut, however, for several reasons.
+naceae), the rbcL tree was actually longer than that for trnL-F. Thus, if rates estimated from pairwise comparisons are empha-
+FIGURE 6.
+As noted, pairwise comparisons indicate
+that rbcL has a slightly, but statistically insized, a different answer will be obtained
+significant, faster rate of change than atpB. The former also has more numerous variable sites (which are more important in pairwise comparisons than in tree-based methods for estimating substitution rates), but the atpB trees are longer than those from rbcL (see Hoot et a l , 1995, 1999, for differing results). Similarly, Lledo et al. (1998) found that although the noncoding trnL-F regions had approximately twice as many variable sites as rbcL (in Plumbagi-
+from that based on looking at trees. Counterintuitively, the number of steps in a tree can be greater when using a gene with lower estimated rates from pairwise comparisons. These examples illustrate that emphasizing only a generalized rate of evolution for a given gene can be misleading (Olmstead et al., 1998). Obviously, an increased number of steps reflects more detected homoplasies, but in a parsimony
+framework "homoplasy is considered as
+1 8
+Utricularia
+Lentibulariaceae Buddlejaceae Bignoniaceae
+I Lamiaceae
+Acanthaceae Verbenaceae Oleaceae
+Rubiaceae
+Nicotiana
+Ipomoea
+Borago
+Hydrophyllum
+Antirrhinum
+Globularia
+SaintpaulialStrep. Gesneriaceae
+r~£ Buddleja
+I
+Catalpa Lavandula Prostanthera Thunbergia Verbena Jasminum Bouvardia Rubia
+Coffea
+Cinchona
+Dischidia/Asclep. Apocynaceae
+Plumeria Strychnos Aucuba Garrya Eucommia Pyrenacantha Oncotheca Apium Pittosporum Hedera Berzelia Sambucus
+t
+< •
+~|Adoxaceae
+Campanulaceae
+Rousseaceae Asteraceae Menyanthaceae Argophyllaceae Phellinaceae Escalloniaceae ' Valerianaceae Icacinaceae Helwingiaceae
+JAquifoliaceae
+21
+\ 20 Viburnum
+Solanaceae
+Convolvulaceae I Boraginaceae
+I Scrophulariaceae
+Loganiaceae Aucubaceae Garryaceae Eucommiaceae Icacinaceae Oncothecaceae Apiaceae Pittosporaceae Araliaceae Bruniaceae
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000
+SA VOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 339
+Length of the rtxL data optimized on the combined tree
+I Length of the arpS data optimized on the combined tree
+Percentage longer than most parsimonious trees
+FIGURE 7. Distribution of starting tree length for both atpB and rbcL data sets alone and in combination. The percentage longer than the most-parsimonious trees was calculated by computing the length of 5,000 replicates of random taxa addition without swapping (i.e., starting trees) in comparison with the length of trees found in each full heuristic search (i.e., optima reached after extensive swapping). Median values are 1.49% longer for rbcL, 1.25% longer for atpB, and 0.82% longer for atpB/rbcL combined. Arrows indicate the length of the trees when the single genes are optimized onto the combined topology (best topology); swapping below these limits leads to ever-greater underestimates (trees that are shorter than the optimum for the combined data set).
+deserving of explanation as is homology" (Siddall and Kluge, 1997:317). Homoplasy is evidence, and the more evidence that is available, the more accurate is the resulting tree. Increased homoplasy (i.e., lower CI) does not necessarily mean a weaker signal and a lower RI.
+It is not rate that should be of interest, but rather how "decisive" a data set is (Goloboff, 1996; Davis et al., 1998). Similar ideas have emerged in other studies: Analyzing mitochondrial genes in vertebrates, Zardoya and Meyer (1996:939) stated that "performance of genes in recovering the expected . . . trees seems to be not strongly dependent on their rate of evolution and concomitant saturation processes"; they stressed that density of lineage-initiation events in time and completeness of taxon representation aremore important factors thanthe overall rate of gene evolution. To detect ancient phyletic radiations, our data indicate that using the more rapidly evolving genes would be more appropriate than using the more slowly evolving regions, which are unlikely to contain much evidence of a rapid radiation.
+Not all genes or sequence regions contain the same strength of signal for the same
+monophyletic groups. This is obvious here; for some clades it is rbcL that contains the strongest signal (e.g., bootstrap of 64% for the monophyly of Magnoliales, 90% for Chloranthaceae, 59% for the monocots), whereas for others it is atpB (e.g., bootstrap of 94% for the monophyly of Canellaceae/ Winteraceae, 68% for Laurales); Soltis et al. (1998) and Bayer et al. (1999) give a detailed analysis of the variation in signal for these genes for different clades. Thus, each separate matrix has an heterogeneous pattern of support, and no overall measure of matrix signal or rate is adequate to predict whether a specific group will receive high bootstrap support.
+Information Content in Codon Position and Substitution Type
+If the use of equally weighted analyses does not appear to be efficient at detecting a clear set of relationships (Huelsenbeck and Hillis, 1993; Hillis et al., 1994), many authors have used some form of relative weighting in the hope of improving resolution (see Albert et al., 1993; Manhart, 1994; Allard and Carpenter, 1996; Nandi et al., 1998). Our results indicate that simple down-weighting or omission of third positions or transitions (as is usually performed in weighted parsimony) is an oversimplification and may lead to loss of resolution and support. Thus, downweighting or eliminating third positions as a class is unwarranted; in fact, the reverse—giving greater weight to third positions—appears to be more appropriate. For example, even though their variation is much more frequent (75% and 71% of the variable positions in atpB and rbcL, respectively, are third positions), the RI of third positions was higher than those for the first and second positions. Yang (1996) reached this same conclusion, using mitochondrial coding sequences for hominoids, and added that the notion of saturation appeared to depend on analytical method. Similarly, Lewis et al. (1997:377), using rbcL sequences in basal embryophytes, found that "the presence of signal in third codon positions . . . means that definitions of saturation based on pairwise comparisons of sequences inadequately assess phylogenetic signal." With respect to codon positions on the rbcL and
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 340 SYSTEMATIC BIOLOGY VOL. 49 atpB trees, some of each position (including dicots. With atpB alone and in the 18S
+third) were invariant, whereas others changed many times: first positions up to 43 and 102 times, second positions up to 63 and 67 times, and third positions up to 78 and 114 times for atpB and rbcL, respectively. As stated by Olmstead et al. (1998), most studies have estimated means and, unfortunately, have ignored variance when comparing rates of genes and coding positions.
+Ts/tv weighting is probably the most common form of weighting because it can be used with coding and noncoding regions alike; transitions are often down-weighted because of their higher frequency and thus greater attendant homoplasy (see Allard and Carpenter, 1996). For atpB and rbcL, we determined both the frequencies as well as CI and RI for each type of substitution. Transitions (calculated on the trees) were more frequent (1.65 times for rbcL and 2.09 times for atpB; see Table 3), but their CIs were close to that of transversions (i.e., homoplasy for both types of substitution was similar), whereas the RIs for the more frequent transitions were actually higher, the phylogenetic signal of transitions was stronger. We are convinced that the results obtained here are unbiased by the use of Fitch parsimony (Fitch, 1971), and several workers have found that parsimonious trees derived from transversion weighting did not differ from those obtained with the data equally weighted (e.g., Allard and Carpenter, 1996; Hoot and Douglas, 1998). With respect to our data, the much higher internal support produced by the combined matrices in which nearly three-fourths of the variability could be attributed to third positions and two-thirds to transitions demonstrates that these most frequent categories of change can produce robust estimates of evolutionary relationships.
+Root of the Angiosperms
+In all phylogenetic analyses of morphological data, the noneudicots formed a grade, not a clade (Donoghue and Doyle, 1989; Loconte and Stevenson, 1991; Nandi et al., 1998; Hoot et al., 1999), but here with rbcL alone (as in Chase et al., 1993) and with rbcL/atpB combined, they (excluding Ceratophyllum) form a clade that is sister to the eu-
+rDNA/rbcL and 18S rDNA trees (Soltis et al., 1997a, 1997b), as well as in trees based on three genes (Soltis et al., 1998; Hoot et al., 1999), the noneudicots also formed a grade. In general, the traits of the noneudicots have been assumed to be plesiomorphic for the angiosperms (largely because we have all learned that these are the "archaic" or "primitive" angiosperms), and so they have been coded in such a way that monophyly was precluded. For example, in the matrix of Nandi et al. (1998), no outgroups for the angiosperms were used, and so it would have been impossible to view binary data as forming mutual synapomorphies; one character has to be plesiomorphic by default if the other is derived. However, if all or some portion of the noneudicots and the eudicots are sister taxa, as in the combined atpB/rbcL trees, then some proportion of eudicot traits could equally well be viewed as plesiomorphic for the angiosperms.
+There are two major categories of noneudicots, which were referred to as magnoliid I and II in Nandi et al. (1998). Magnoliid I (= eumagnoliids) comprises monocotyledons plus Laurales, Magnoliales, and Piperales and perhaps Chloranthaceae and Canellaceae/Winteraceae. Non-DNA characters that are frequent in eumagnoliid families (and perhaps are synapomorphies) are the presence of asarone, gibacin, licarin A, veraguensin, liriodenine, and indole alkaloids; rodor tube-shaped epicuticular waxes; trimery in the calyx (and in the androecium); successive microsporogenesis; perisperm (or nucellar-derived storage tissue), expanded stamens, and endotestal crystals (see details in Nandi et al., 1998). Many of these characters are polymorphic within the taxa in which they occur, and others are poorly sampled, but the list of possible synapomorphies is longer and more diverse than for many clades of eudicots. These features are all either absent or rare characters in eudicots, and it is likely that at least some of these are synapomorphies for the eumagnoliids. Magnoliid II contains only Amborellaceae, Austrobaileyaceae, Cabombaceae, Illiciaceae, Nymphaeaceae, and Schisandraceae. These Magnoliid
+II families are the focus of controversy because in various phylogenetic studies they
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000 SA VOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 341
+occupy different positions, including being positioned at the root within the angiosperms (making them paraphyletic). Magnoliid II are monophyletic for rbcL (Chase et al., 1993; Qiu et al., 1993; this paper), rbcL/morphology (Nandi et al., 1998), and rbcL/atpB combined (this paper); they are paraphyletic with atpB (this paper) and according to combined analyses based on three genes (Hoot et al., 1999) and 18S rDNA (Soltis et al., 1997b). They also share paraor tetracytic stomata and expanded stamen connectives with the magnoliid I noneudicots. Magnoliid II have unfused carpels filled with mucilage as potential synapomorphy, which is perhaps shared with Chloranthaceae but is not found in Illiciaceae (Endress and Igersheim, 1997). This could be interpreted as primitive within the angiosperms (Endress and Igersheim, 1997), but there is no way to determine whether filling an open cavity with mucilage was inherited from a common ancestor or was an innovation, given that all other clades of angiosperms have eliminated the cavity by postgenital fusion. Mapped onto the 18S rDNA (Soltis et al., 1997a, 1997b, 1998,1999) and our atpB trees, this character would be viewed as plesiomorphic, but on the rbcL and atpB/rbcL trees it would be an apomorphy. Many families of magnoliid II are problematic, and more data are required to resolve the rooting of the angiosperms. Not only are more gene sequence data needed, but particularly critical would be characters that can be polarized by reference to outgroups. Unfortunately, many traits such as the presence of mucilage in an unfused carpel, microsporogenesis, and chemistry are unlikely to be available from the fossil record. Most recently, Qiu et al. (1999) identified Amborella at the root of the angiosperms based on a combined analysis of five genes from the mitochondrial, plastid and nuclear genomes.
+Nonmolecular Characters and Relationships in the Eudicots
+The larger clades found in our analysis do not correspond to the distribution of many of the morphological characters used in several previous taxonomic schemes (e.g., centrifugal stamen initiation, parietal placentation). In contrast, the two major
+categories of angiosperms revealed in the combined atpB/rbcL analysis—noneudicots and eudicots (with their respective sets of familial and ordinal relationships)—have never been recognized previously. The sole character that delimits these groups is the nature of pollen development, which in the former results in uniaperturate (mostly monosulcate) pollen and in the latter triaperturate pollen.
+The eudicots, in addition to triaperturate pollen, have a secretory anther tapetum, simultaneous microsporogenesis, filaments frequently much longer than anthers (an especially pronounced feature of the higher eudicots), and two leaf traces (one in many Ericales and Myrtales). Leaf venation in which there is a single primary vein with the lateral veins terminating at the margin (often in a tooth; craspedodromous) is also typical of the lower eudicots plus Dilleniaceae, Saxifragales, and Vitaceae, thus leaving this condition as a synapomorphy that is further modified in Caryophyllales, Santalales, asterids, and rosids (not in Rosales). The unanticipated Nelumbo/Platanus/ Proteaceae clade is difficult to characterize, given the diverse habits of its member taxa, but these plants are marked by epicuticular waxes that are rodor tube-shaped, large seeds with scanty or no endosperm (the latter condition found only in one genus of Proteaceae), and alternate vessel pitting.
+The higher or core eudicots (here including Gunnera/Myrothamnus) exhibit calyx and corolla differentiation (although this is not well developed in some Saxifragales, Rosales, and members of Malpighiales such as Flacourtiaceae), calyx and corolla organs in fives (but not in Gunnera/Myrothamnus), a floral disk (but not in Caryophyllales, many Ericales, and Geraniales), nondecurrent stigmas, and antesepalous/antepetalous carpels that are partially to wholly fused (but not in some Saxifragales such as Paeoniaceae and some Crassulaceae). The general arrangement of floral organs in nearly all higher eudicots is thus quite stereotyped, but deviation (apparent reversals) from this syndrome marks subclades within several orders.
+The lower eudicots (Buxaceae, Didymelaceae, Proteales, Ranunculales, and Trochodendraceae) deviate substantially from these characteristics, and in many respects
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 342 SYSTEMATIC BIOLOGY VOL. 49
+have features otherwise typical of the noneudicots (e.g., see Nandi et al., 1998). Sabiaceae are an exception to this syndrome: They are like other lower eudicots in their craspedodromous venation and lack of ellagic acid, but their floral characters are much like those of the higher eudicots, from which, on the basis of the atpB/rbcL trees, they are excluded.
+Caryophyllales as defined here are a remarkably well-supported group that no previous classification had identified. Their characters include the presence of pinitol and ancistrocladine, a spinulose sexine, nuclear endosperm development (also typical of the rosids), lack of hypostase, starchy endosperm (although not in core Caryophyllales), alternate vessel pitting, and simple perforations of vessel end-walls.
+Although Caryophyllales form a welldefined clade, their relationships to asterids, rosids, and Saxifragales are not clear. Caryophyllales represent highly divergent members of the higher eudicots and lack several of the synapomorphies that otherwise characterize the asterids and rosids. Like most of the large and reasonably diverse clades identified here, members of Caryophyllales are highly specialized and have converged on floral and vegetative traits that are typical of other lineages; they lack, however, mucilage cavities/cells typical of the rosid/asterid clade, a hypostase in their seeds, and tricolporate pollen, features found in nearly all of the other more advanced groups. The distribution of anomalous secondary growth in Caryophyllales (e.g., Aizoaceae, Cactaceae, Caryophyllaceae, Chenopodiaceae, Didiereaceae, Dioncophyllaceae, Droseraceae, Nepenthaceae, Nyctaginaceae, Phytolaccaceae, Plumbaginaceae, Polygonaceae, Portulacaceae, Rhabdodendraceae, and Simmondsiaceae) indicates that this condition is ancestral within the order. Likewise, anomalous floral development has been reported in several families (e.g., Aizoaceae, Caryophyllaceae, Phytolaccacaeae, and Portulacaceae [Ronse Decraene et al., 1998]) such that the apparently well-organized flowers of these plants, which are diplostemonous like the rosids, have arisen from a polymerous developmental pattern and should perhaps be best described as "pseudodiplostemo-
+nous." Although Caryophyllales appear in many respects to be typical advanced eudicots in terms of habit and floral structure, they clearly have independently developed these traits, which is consistent with their isolation from the asterid/rosid clade in the atpB/rbcL trees.
+Groups of Uncertain Position
+For several groups the affinities are still not clear. The position of Zygophyllaceae is not yet well supported, but the occurrence of anthroquinones (also found in Gentianales, Myrtales, and Lamiales) indicates that their position in the combined atpB/ rbcL tree as sister to the nitrogen-fixing clade of eurosid I may be reasonable. The sister group relationship of Zygophyllaceae with Krameriaceae is well supported, although these two families are extremely divergent morphologically (Sheahan and Chase, 1996). A reticulate sexine might indicate a closer relationship with other eurosid I or II families in which this feature predominates. However, because the trait is presumably plesiomorphic, the psilate/ granulate sexine found in the nitrogenfixing clade does not exclude a sister group relationship for Zygophyllaceae/Krameriaceae.
+Vitaceae likewise fit the rosid pattern; they have the nuclear endosperm development typical of eurosid I and II and a hypostase, which is present in all rosid/asterid families except those of Ericales. Dilleniaceae share nuclear endosperm development and a reticulate sexine with the eurosids, but a hypostase is absent, as in Santalales and Caryophyllales. Aextoxicaceae, Berberidopsidaceae, and Picramniaceae are poorly studied, which precludes any hypothesis about their relationships, although the last are clearly rosids. Berberidopsidaceae (two genera: Berberidopsis from temperate South America and Streptothamnus from eastern Australia), tentatively placed near the caryophyllids, are interesting because of their primitive wood and flowers, lacking clear differentiation of calyx and corolla (Miller, 1975). That all of these represent higher eudicots is clear on the basis of general floral organization (Berberidopsidaceae being the obvious ex-
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000 SA VOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 343
+ception). However, characters exhibited by these taxa are mixtures of the traits otherwise characterizing the four major clades: asterids, Caryophyllales, rosids, and Saxifragales. As mentioned above, the lack of isomery in many of these enigmatic taxa places them outside the rosids and asterids. Santalales are isomerous, but they vary from one to more than five whorls, perhaps indicating that they too are outside the core lineages. Vitaceae are obhaplostemonous, which clearly distinguishes them from both rosids and asterids, although this was the character emphasized by some (e.g., Cronquist, 1981) to link them to Rhamnaceae, which is a member of Rosales (eurosid I). Before an overall synthesis of floral evolution in eudicots can be developed, these problematic groups must be accurately placed into the general phylogenetic scheme for angiosperms.
+Overall, the types of characters that mark clades at the interordinal levels (sensu APG, 1998) within the angiosperms are not those of gross morphology that have been the mainstay of nearly all previous classifications; stipules and stamen organization are obvious exceptions. The results of DNA sequence analyses provide evidence that many underused characters are of great systematic importance: phytochemistry, development, and anatomy. Seed anatomy (presence of hypostase) in particular appears to be a rich source of phylogenetically important information and should be more extensively studied. Considerably more chemotaxonomic work using the DNA phylogenies to focus attention on particular taxa and compounds may also prove useful.
+There is little doubt that the intuitive classifications of the past with their emphasis on weighting of selected characters are not useful in either a phylogenetic or predictive context. As compendia of characters, treatments such as those of Cronquist (1981) and Takhtajan (1997) are useful (particularly if they also contain extensive literature citations, as in Takhtajan, 1997). Fortunately, the incorporation of large numbers of DNA sequences with the extensive literature from chemotaxonomic, developmental, and anatomical studies into a phylogenetic framework offers for the first
+time a robust alternative to evolutionary classifications.
+Comparison with
+the Large 18S rDNA Phylogeny
+Chase et al. (1993) stated that no specific sampling plan guided their study. These authors tried to compile all available rbcL sequences for this first broad-scale phylogenetic analysis of angiosperms. Consequently, some plant groups were oversampled, whereas others were poorly or not represented at all. Since then, many additional sequences have been collected (especially for some rare and geographically restricted taxa), and a huge literature has been produced, which guided the sampling for this analysis. Hence, we chose 357 taxa to represent all major lineages, but this presented us with the limitations inherent in
+analysis of such large matrices. There are 863 861
+~7.5 X 10 possible rooted trees and 10 unrooted trees. Obviously, therefore, we cannot guarantee that we have found the shortest trees.
+When we started to analyze the atpB sequences, we were amazed at how the new results matched the rbcL phylogeny. Because two plastid genes provide evidence for the same groups of families, despite the computational problems related to the sizes of the matrices, this may be taken as evidence that a clear historical pattern is being detected. Such consistency is unlikely to be due to chance alone. Conversely, the 18S rDNA trees (Soltis et al., 1997b) at least present only a degree of "soft" incongruence (Seelanan et al., 1997) with the two plastid trees. Application of the random partition test (Farris et al., 1995) indicated that incongruence between 18S rDNA and either atpB or rbcL is actually lower than between the two plastid genes (Soltis et al., 1997a,1998).
+The placement of Ceratophyllum remains problematic. That Ceratophyllum should be either a monocot or sister to the monocots (with Acorus), as in the atpB tree, seems less plausible than its position as sister to the rest of angiosperms, as in the rbcL and the combined atpB/rbcL trees. Ceratophyllaceae are a cosmopolitan family (comprising a single genus and -2-30 species) of highly
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 344 SYSTEMATIC BIOLOGY VOL. 4 9
+specialized a n d reduced aquatics, lacking roots, cuticle, stomata, perianth, and woody tissues. Their affinities have been uncertain, but a placement near the base of the angiosperms compares favorably with their inaperturate pollen as well as with their floral features (Endress, 1994) and fossil record (Les, 1988).
+Using 18S rDNA sequences, Soltis et al. (1997b) also presented as problematic the placement of the paleoherbs, Chloranthaceae, Aristolochiaceae, and Lactoridaceae, plus Winteraceae. We also found some discrepancies between the atpB and rbcL trees for these same groupings. Based on atpB, Winteraceae are not close to Magnoliales but instead go within the paleoherb group mentioned above. Based on rbcL or atpB/ rbcL, Winteraceae are placed as sister to Magnoliales, and Chloranthaceae form an isolated lineage at the base of the remaining magnoliids. However, there is no bootstrap support >50% for any of these relationships in our trees.
+General patterns among eudicots are highly congruent among all molecular studies published so far. Based either on the nuclear 18S rDNA or the plastid genes, Ranunculales, Saxifragales, and Caryophyllales are well defined (corresponding, respectively, to the ranunculids, saxifragoids, and Caryophyllidae s.l. of Soltis et al., 1997b) as are the two largest clades, the rosids and asterids. Hamamelidae and Dilleniidae sensu Cronquist (1981) or Takhtajan (1997) are highly polyphyletic in the 18S rDNA trees and in the trees presented here, and these concepts should no longer be maintained (we subsume Hamamelidaceae in Saxifragales, and Dilleniaceae are still unplaced as to order). All trees contain the glucosinolate clade (Brassicales), the nitrogen-fixing clade (Cucurbitales, Fabales, Fagales, and Rosales), and the subclades of euasterids, for which the "early" versus "late sympetaly" of Erbar and Leins (1996) fits well.
+Soltis et al. (1997b) stated that "perhaps the most unusual consistent feature of the 18S rDNA trees involved the placement of Caryophyllidae s. 1. within Asteridae s. 1." Because the spines of all these separate trees, rbcL, atpB, and 18S, are without clear patterns, mostly because of their very short branches, accurate placement of Caryoph-
+yllales, Saxifragales, asterids, and rosids is not yet possible. In all the analyses here, Caryophyllales appear at the base of asterids plus rosids, but with simple branch removal and replacement experiments in MacClade (Maddison and Maddison, 1992), only a few additional steps (~l-5) are required to put Caryophyllales within any clade of asterids.
+The basic problem of the 18S rDNA result is that by itself it provides little clear pattern. The 18S rDNA trees are highly unstable and have relatively low numbers of supported groups compared with those based on rbcL and atpB (Soltis et al., 1998; Chase and Cox, 1998; Hoot et al., 1995, 1999); the trees deviate largely because 18S rDNA has fewer variable positions experiencing most of the change (Chase and Cox, 1998). Nevertheless, 18S rDNA data make a valuable contribution to angiosperm phylogenetics. The sequences represent another genome, and in studies combining 18S rDNA, atpB, and rbcL, the three genes produce substantially stronger evidence of relationships than any of the separate analyses (Hoot et al., 1995, 1999; Soltis et al., 1997a, 1998; Chase and Cox, 1998). In spite of the differences in topology, the patterns of variation in 18S rDNA appear to be the same as those in rbcL and atpB.
+Conflict with Evolutionary Classifications
+In a recently proposed system of angiosperm classification, Takhtajan (1997:3) entirely dismissed DNA studies, stating that "these [DNA studies] often point to relationships that are clearly not compatible with other data and sometimes even quite outside the realm of possibility.... Besides the random noise in DNA sequences, molecular characters are subject to evolutionary convergence, parallelism, a n d reversal; therefore molecular methods are not a panacea. Molecular evidence should be used with, not in place of, morphological evidence". The published molecular results are n o t incompatible with morphological evidence itself but rather are incongruent with some interpretations of morphology. When analyzed phylogenetically (Nandi et al., 1998), non-DNA data produced patterns similar to those found with DNA sequences. When Takhtajan (1997:3) stated that DNA
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000 SAVOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 345
+studies produced results that were "sometimes even quite outside the realm of possibility", he clearly implied that these DNAbased patterns were erroneous simply because they were in conflict with other data that he felt were more accurate. However, several morphological studies have been published that support DNA trees (e.g., see Patterson, 1988; Atcheley and Fitch, 1991; Novacek, 1992; Patterson et al., 1993; Hoot et al., 1995, 1997; Erbar and Leins, 1996; Spichiger and Savolainen, 1997; Hoot and Douglas, 1998; Rudall et al., 1998).
+We can imagine that certain DNA results upset those who hold traditional perspectives. For example, it is easy to see that Nelumbo is not morphologically similar to Platanus and Proteaceae, although molecular data indicate they form a clade; but then, what alternative is more robust? Takhtajan classified Nelumbo in a subclass of its own, Nelumbonideae; this is not a refutation of the DNA trees but rather an admission that he has no evidence of what its affinities might be. A high frequency of small suprafamilial taxa is an admission of a lack of alternative hypotheses. Takhtajan's new system (1997) recognized two monofamilial and one bifamilial subclasses, 18 monofamilial and 11 bifamilial superorders, and 135 monofamilial and 26 bifamilial orders. The number of monogeneric families among the 591 he recognized is the highest of any published system. Such high numbers of small taxa reduce the information content of his classification and leave the impression that little is known about their higher-level relationships.
+Gene sequences can create strongly supported patterns without being influenced by the multiple morphological convergences, reversals, and extreme morphological specializations that have occurred during plant evolution. For example, Aextoxicon was found with molecular data to be strongly supported in all three analyses as sister to Berberidopsis (Figs. 5g,n, 6d), but no obvious morphological features link these two genera. They probably represent specialized relics from ancient floras for which the intermediate linking taxa have simply disappeared. Nelumbo and its relationships to Platanus and Proteaceae are another example of how molecular information pro-
+vides new and radically different hypotheses that might resolve long-standing impasses.
+In the trees presented here, the results are basically of two types, which set the stage for future research: (1) groups that are well supported and sometimes drastically different from classical views, which merit further study because some evidence of this pattern is likely to have been retained during evolution (e.g., micromorphology, biochemistry, or palynology); and (2) groups that are weakly supported for which additional data are required to define their position accurately.
+An example of the first category is the clade of families here named Malpighiales; no one had previously suggested a group composed of these families, and there is no obvious suite of characters that unites all these families. Similarly, Saxifragales appear as a strongly supported clade, but their circumscription based on DNA analysis differs from that suggested by any previous author. A parallel example can be seen with the families of Brassicales: No previous taxonomist ever included all these families in the same group except Dahlgren (1975). The single clue to the common ancestry of Brassicales is mustard oils.
+Groups that fall into the second category noted above include Zygophyllaceae/Krameriaceae (Sheahan and Chase, 1996), which appear in different places in every analysis conducted, including those presented here, but never with high bootstrap support. They most often appear as the sister of the nitrogen-fixing families, as in the combined analysis (Fig. 6e). The combination of being fairly sequence-divergent (37 hypothesized substitutions) and low divergence near the rosid I and rosid II split (3,4, or 7 hypothesized substitutions; Fig. 6e) makes a robust placement unlikely until more sequence data are available. Dilleniaceae, Vitaceae, Picramniaceae, and Santalales also fall into this category.
+Prospectsfor Finding
+an Accurate Angiosperm Tree
+The flowering plants represent one of the largest groups of organisms, comprising >250,000 species in -13,000 genera and 500 families. The analysis of large data sets containing hundreds of taxa is the only way to
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 346 SYSTEMATIC BIOLOGY VOL. 49
+address the phylogeny of such a large diverse group. If obtaining only a reasonably optimal tree is unsatisfactory, then we are at an impasse. Further progress is precluded until new methods of analysis are developed or substantially greater amounts of data are available. However, an inability to recover the shortest tree is definitely less of a problem than has previously been maintained.
+extensive computing time in the attempt to find shorter trees based on any of the single genes (contrary to the admonitions of Rice et al., 1998). Rather, this analysis of a combined atpB/rbcL data set, as well as other recent analyses of atpB /rbcL /18S rDNA (Chase and Cox, 1998; Soltis et al., 1998) indicate clearly that our efforts are better placed in sequencing more taxa and genes. Finding yet shorter trees for individual genes will never recover new groups with high levels of internal support; all such well-supported groups are present in the
+If we can assume that the accuracy of a
+tree derived from combined data sets is im-
+proved over those of single genes (e.g., be-
+cause the strength of the phylogenetic sigstarting trees before swapping begins. nal has been enhanced when multiple Groups that require extensive swapping to
+genes are used; see Chase and Cox, 1998;
+Soltis et al., 1998; Hoot et al., 1999), then the
+shortest trees based on the single genes are
+actually underestimates of the length of the
+true phylogeny. Our mapping experiments
+support this hypothesis: The individual performing a bootstrap analysis does not
+atpB and rbcL trees are each roughly 0.6%
+and 0.9% (respectively) too short relative to
+the combined tree. If we map the atpB char-
+acters onto the topology produced by the
+combined atpB/rbcL matrix, the length is 110 to underestimates of levels of homoplasy,
+steps longer than that from the analysis of
+atpB alone (13,089 vs. 12,979). Similarly, if
+we map the rbcL characters onto the com-
+bined topology (Fig. 7), 75 extra steps are
+found compared with the rbcL-alone analy-
+sis (12,847 vs. 12,772 steps). In neither case
+are there important differences in CI and
+RI. Although this may not seem like a sub-
+stantial underestimate, it is in the range re-
+quired to move Ceratophyllum from sister to underestimate. We know that homoplasy Acorus to sister to the rest of the angiohas been underestimated, but we cannot
+sperms, or vice versa. Figure 7 presents the
+starting tree lengths of each of 5,000 repli-
+cates (genes alone or in combination) as the
+percentage longer than thelength of the
+most-parsimonious tree. In addition, we
+have indicated how much longer are the
+trees depicted from each individual gene undoubtedly thousands of trees at this
+when optimized onto the combined topology. These percentages represent the lower limits of the starting trees obtained for atpB or rbcL trees without swapping: Beyond these limits, further swapping leads to trees that are too short, and a more accurate topology (as found with the combined matrix) can never be recovered by continued search for yet shorter trees (see Fig. 7).
+Given that our goal is to find the true tree for angiosperms, there is no point spending
+length. Without evidence, either from internal support or congruence (these are highly correlated, e.g., in Soltis et al., 1998), we are in a quagmire from which a rigorous analysis cannot extricate us.
+If we had spent another year of computing time on analyses of each of the two individual genes, we almost certainly would have found shorter trees, but these would have added nothing to our knowledge of angiosperm relationships. Patterns for which
+be found have a high probability of being spurious because single-gene trees inevitably are underestimates. The only relationships that we can be confident about are those that have high internal support, and
+first require swapping to find the shortest tree.
+Because we can demonstrate that a data set with weak phylogenetic patterns leads
+we are also suspicious that all optimality criteria are unreliable if the patterns in the data are weak because they will also inevitably underestimate tree length (no matter which algorithm is used). A distance-based algorithm can correct the distances, but it cannot correct the relationships any better than we can when we know that the atpB tree produced by parsimony analysis is an
+know where the missed steps should be added to make a more accurate tree. Similarly, although we know roughly that the more accurate tree(s) fall near the shorter limit of the starting trees, we can suggest no method of winnowing out this tree from the
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+ 2000 SA VOLAINEN ET AL.—PHYLOGENETICS OF FLOWERING PLANTS 347
+there is bootstrap support <50% (or congruence with other analyses) are unreliable even if the shortest tree(s) can be found. This is not an argument against the application of parsimony or other optimality criteria, but rather an acknowledgment of the limitations of data sets that lack clear patterns (i.e., those with too few or conflicting characters).
+CONCLUSION
+Our purpose in this paper was not only to produce a plastid tree for the angiosperms but also to bring into focus a series of issues pertaining to the phylogeny of flowering plants and the analysis of large data sets. Here, by adding another plastid gene (atpB) for an extended sampling of flowering plants, we performed phylogenetic analyses in which numerous clades are (1) highly supported (>80% bootstrap) on the combined analysis of two plastid genes, (2) identified in the most-parsimonious trees recovered when analyzing each matrix independently, and (3) congruent with many of the clades identified by 18S rDNA. This provides convincing evidence that such analyses can provide the framework for a new classification of flowering plants that is based largely on the DNA patterns but has a great deal of corroboration from other lines of evidence (APG, 1998). These DNA-based trees are in close agreement with many morphological, anatomical, and chemical characters that were underused in earlier classifications (e.g., Cronquist, Takhtajan, etc.).
+Furthermore, we fully agree that large data sets are not as tractable as we would wish, but the increasing availability of computer power will certainly permit further analytical improvements; further, however, we have demonstrated that not obtaining the shortest possible trees is also less important than previously recognized. In spite of limitations, the large analyses thus far published demonstrate a level of congruence that is inconsistent with the notion that simply because they are large they must be highly flawed. We expect the next 5 years of molecular systematics to usher in even faster and more drastic change. As a result of this exciting period of change, evolutionary and ecological processes will be ad-
+dressed in ways previously considered speculative (e.g., see Sanderson and Donoghue, 1996; Savolainen and Goudet, 1998). In short, analyses of large data sets are not only feasible but have proven to be robust. Combining both atpB and rbcL, which together represent only —3,000 bp (with about half of these variable in two or more taxa, i.e., 1,521 sites), was useful because a clearer phylogenetic signal was detected. Yet, more characters are needed to infer robustly the branching pattern of ancient lineages such as Ceratophyllaceae and the magnoliids. Some of what might be phyletic radiations (for example, the polytomies composed of asterids, Berberidopsidaceae / Aextoxicaceae, CaryophyHales, Dilleniaceae, Santalales, Saxifragales, and Vitaceae) also require more data to be adequately estimated. The addition of 18S rDNA sequences undoubtedly greatly improved the results (e.g., Soltis et a l , 1998; Hoot et al., 1999; also see Soltis et al. [1999] for a recent phylogenetic analysis of the angiosperms based on rbcL, atpB and 18S rDNA combined), but other molecular information can be useful, for example, patterns of genome organization (Qiu et al., 1998).
+Now that we can see that the future holds the possibility for producing a robust phylogeny by the direct combination of several genes, we can also expect to improve the models of molecular evolution by optimizing various features on these well-supported phylogenetic relationships; however, the use of models to develop accurate phylogenetic estimates is itself circular and can prevent the recognition of patterns that contradict models. If individual matrices are inadequate to produce robust estimates of relationships, then estimating probabilities from the data themselves can mislead. If clear patterns of relationships can be estimated without resorting to lengthy or assumption-laden methods of analysis, particularly for large matrices such as these, why then would anyone favor particular results or have greater confidence in them just because they are based on application of a specific optimality criterion? We prefer robustness and congruence as the best measures of accuracy, and simple tree-building algorithms are more than adequate for these purposes. We need to know in more
+     Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Family Acanthaceae
+Species Thunbergia coccinea Wall.
+Voucher Chase 2539 K
+EMBL/ Citation Genbank
+Species
+Citation Chase et al., 1993
+EMBL/ Genbank
+Acoraceae Actinidiaceae Adoxaceae Adoxaceae Aextoxicaceae
+Acorus calamus L. Actinidia chinensis Planch. Sambucus nigra L. Viburnum opulus L. Aextoxicon punctatum Ruiz
+Chase 2758 K Kron 2117 NCU Chase 2509 K Chase 2519 K Chase 959 K
+this paper this paper this paper this paper this paper
+AJ235381 AJ235382 AJ235591 AJ235640 AJ235384
+Lindau
+same species
+same DNA
+Sambucus racemosa L. Viburnum acerifolia L. same DNA
+Duvall et al., 1993 Albert et al., 1992 Donoghue et al., 1992 Olmstead et al., 1992 Alverson et al., 1998
+M901625 L01882 L14066 L01959 X83986
+Aizoaceae Alliaceae
+and Pav.
+Delosperma echinatum Schwantes Ipheion dialystemon Guaglianone Bomarea hirtella Herb.
+Altingia excelsa Noronha Liquidambar styraciflua L. Amaranthus hypochondriacus L.
+Chase 2539 K Chase 744 K Chase 520 K Hoot 9225 UWM Kron 162 NCU unknown
+this paper
+this paper
+this paper
+Hoot et al., 1999 Hoot et al., 1999 this paper
+AJ235452 AJ235504
+same DNA
+same DNA
+same DNA
+unknown Liquidambarformosana Hance same species
+this paper
+Chase et al., 1995 Chase et al., 1995 Chase et al., 1993 Chase et al., 1993 Michalowski et al.,
+AJ235778 Z77253
+Alstroemeriaceae Altingiaceae Altingiaceae Amaranthaceae
+AJ235413 AF092103 AF092104 AJ235388
+Z77255 AJ131769 AJ131772 X51964
+Amaranthaceae
+Spinacia oleracea L. Amborella trichopoda Baill.
+unknown
+Zurawski et al.,
+U23082
+same species
+177U
+Zurawski et al., 1981
+J01443
+Amborellaceae Anacardiaceae
+Pistacia vera L. Rhus vernix L.
+Thien 500 NCU Terrazas sn CHAPA
+this paper Bayer et al.,
+AJ235389 AJ132282
+same DNA same DNA
+Qiu et al., 1993 this paper
+L12628 AJ235786
+Anacardiaceae
+Terrazas sn CHAPA
+Bakker et al.,
+AF035912
+same DNA
+Gadek et al., 1996
+U00440
+Anacardiaceae Artnonaceae Anthericaceae Apiaceae Apocynaceae Apocynaceae
+Schinus molle L.
+Annona muricata L. Anthericum liliago L.
+Apium graveolens L. Dischidia lanceolata Decne. Plumeria obtusa Bert.
+Anderson 13601 MICH Qiu 90031 NCU
+Chase 515 K
+Chase 2523 K
+Bakker et al., 1998 this paper
+AF035914 AJ235393 AJ235394 AJ235396 AJ235458 AJ235566
+same DNA
+same DNA
+same DNA
+same species
+Asclepias exaltata L. Plumeria inodora Jacq.
+Gadek et al., 1996
+Qiu et al., 1993
+Chase et al., 1995 Albert et al., 1992 Olmstead et al., 1993 Sennblad and Bremer,
+U39270 L12629 Z69225 L01885 L14390 X91767
+Aquifoliaceae Aquifoliaceae Araceae Araliaceae Argophyllaceae Aristolochiaceae Aristolochiaceae Aristolochiaceae Aristolochiaceae Asparagaceae Asphodelaceae Asteraceae
+Ilex crenata Thunb. Nemopanthus mucronatus Druce Spathiphyllum ivallisii Hort. Hedera helix L.
+Corokia cotoneaster Raoul Aristolochia macrophylla Lam. Asarum canadense L. Lactorisfernandeziana Phil. Sarunta henryi Oliv.
+Asparagus officinalis L.
+Bulbine succulenta Compton Cichorium intybus L.
+Chase 119 NCU
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+Hoot et al., 1999 this paper
+AJ235502 AJ235541 AJ235606 AJ235488 AJ235445 AJ235399 U86383 AJ235515 AJ235595 AJ235400 AJ235421 AJ235433
+same DNA same DNA same DNA same species same species same DNA same species same species same species same species same DNA same species
+unpubl.
+Albert et al., 1992 this paper
+Chase et al., 1993 Xiang et al., 1993 Xiang et al., 1993 Qiu et al., 1993 Chase et al., 1993 Chase et al., 1993 Qiu et al., 1993 Duvall et al., 1993 Chase et al., 1995 Kim et al., 1992
+L01928 X69747 AJ235807 L01924 L11221 L12630 L14290 L08763 L12664 L05028 AJ131947 L13640
+APPENDIX
+List of taxa used in this study, with vouchers, citation information, and EMBL/GenBank accession numbers.
+Chase 734 K Chase 724 K
+this paper this paper this paper this paper
+atpB
+rbcL
+Savolainen nmul G • Chase 201 NCU
+Chase 2743 K Chase 2752 K Qiu 91019 NCU Hoot 923 UWM Stuessy 11335 OS Chase 3077 K Chase 513 K UCI Arb. 7174 Chase 2511 K
+this paper this paper this paper this paper
+this paper
+AJ235625
+Thunbergia usambarica
+L12956
+1QR9
+1QQQ
+1 OOQ 1770
+1QQfl
+
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Family
+Species Aucuba japonica Thunb.
+V oucher
+' Citation
+EMBL/ Genbank
+Species
+Citation
+EMBL/ Genbank
+Aucubaceae Austrobaileyaceae Balsaminaceae Berberidaceae
+Austrobaileya scandens C.T.White Impatiens repens Moon Caulophyllum thalictroides (L.)
+Chase 1095 K Qiu 90030 NCU Chase 901 K Hoot 925 UWM
+this paper
+this paper
+this paper
+Hoot et al., 1999
+AJ235402 AJ235403 AJ235503 AF092108
+same species
+same DNA
+Impatiens capensis Meerb. same species
+Xiang et al., 1993 Qiu et al., 1993 Chase et al., 1993 Chase et al., 1993
+L11210 L12632 Z83142 L08760
+Berberidaceae Berberidopsidaceae Betulaceae Bignoniaceae Bixaceae
+IVlicnx.
+Nandina domestica Thunb.
+Hoot 922 UWM Chase 555 K
+Chase 2539 K
+Chase 2539 K
+Chase 243 NCU Chase 2434 K Capuron 23034 K Chase 519 K
+Chase 2746 K
+Chase 2548 K
+Chase 1534 K
+Chase 2751 K
+Chase 565 K
+Chase 2748 K Kirstenbosch 7589 Chase 2467 K Fairchild Trop Garden
+Hootetal.,1999 this paper
+this paper
+this paper
+Bakker et al., 1998 Bayer et al., 1999 Bayer et al., 1999 this paper
+L37930 AJ235409 AJ235411 AJ235428 AF035897 AJ233060 AJ233061 AJ235412 AJ235414 AJ235498 AJ132281 AF035900 AJ235531 AJ132284 AF095731 AJ235420 AF035899
+same species
+same DNA
+Betula nigra L.
+same species
+same DNA
+same DNA
+same DNA
+same DNA
+same species
+Hydrophyllum virginianum L. Brassica oleracea L Capparis hastata Jacq. Brassica oleracea L
+Hoot et al., 1995
+this paper
+Albert et al., 1992 Olmstead et al., 1992 Fay et al., 1998
+L37920 AJ235773 L01889 L11679 Y15139 Y15143 Y15138 Z73694 L11680 L01927 M88342 M95755 M88342 AJ235809 L14391 L14392 L01890
+Bixaceae Bixaceae Blandfordiaceae Boraginaceae Boraginaceae Brassicaceae Brassicaceae Brassicaceae Brassicaceae Bruniaceae Buddlejaceae Burseraceae
+Berberidopsis corallina Hook.
+Betula pendula L.
+Catalpa bignonioides Walt.
+Bixa orellana L.
+Cochlospermum intermedium Mildbr. Diegodendron humbertii Capuron Blandfordia punicea Sweet
+Fay et al., 1998
+Fay et al., 1998 Chase et al., 1995 Olmstead et al., 1992 Olmstead et al., 1992 Rodman et al., 1993 Rodman et al., 1993 Rodman et al., 1993 Chase et al., 1993 Olmstead et al., 1993 Olmstead et al., 1993 Albert et al., 1992
+Buxaceae Buxaceae Cactaceae Calycanthaceae Calycanthaceae Campanulaceae Campanulaceae Canellaceae Canellaceae Cannabaceae Caricaceae Caryophyllaceae Casuarinaceae Celastraceae Celastraceae
+same species
+same species
+Schlumbergera truncata Moran Manhart et al., unpubl.
+Celastraceae Celastraceae
+and Bonpl.
+Euonymu's alatus Siebold Hippocratea barbata Muell.
+Chase 137 NCU Chase 2971 K
+this paper this paper
+AJ235471 AJ235493
+same DNA
+Chase et al., 1993 Savolainen et al., 1997
+L13184 X69740
+Celastraceae
+Plagiopteron suaveolens Griff.
+Chase 1335 K
+this paper
+AJ235562
+Cambess. same DNA
+this paper
+AJ235787
+Borago officinalis L. Hydrophyllum canadense L. Brassica balearica Pers. Capparis spinosa L. Megacarpaea polyandra Benth. Stanleya pinnata Britton Berzelia lanuginosa Brongn. Buddleja auriculata Benth. Bursera inaguensis Britton
+this paper
+this paper
+this paper
+Bakker et al., 1998 this paper
+Buxus sempervirens L. Pachysandra procumbens Michx. Rhipsalis teres Steud. Calycanthusfloridus L. Idiospermum australiense Blake Campanula trachelium Brot. Lobelia angulata Forst.
+Canella winterana Gaertn. Cinnamodendron ekmanii Sleumer Humulus lupulus L.
+Carica papaya L.
+Silene nutans L.
+Casuarina litorea L.
+Brexia madagascariensis Thouars Celastrus orbiculatus Humb.
+64-269 D
+Hoot 921 UWM
+Hoot 917 UWM
+Chase 2545 K
+Qiu 94155 NCU
+Qiu 91042 NCU
+Chase 2546 K
+Chase 2540 K
+Qiu 90017 NCU
+Qiu 47067 NCU
+Chase 2749 K
+Chase 2508 K
+Chase 2292 K
+Chase 215 NCU Schwerdtfeger 25471 B Chase 2274 K
+Hoot et al., 1999 Hoot et al., 1999 this paper
+this paper
+AF092110 AF092111 AJ235581 AJ235422 AJ235500 AJ235423 AJ235524 AJ235424 AJ235435 AJ235495 AF035901 AJ235601 AJ235427 AJ235419 AJ235429
+Hoot et al., 1999
+AF093717 AJ235815 M83543 L14291 L12651 L13861 L01931 AJ131928 AJ235776 U02729 M95671 M83544 L01893 L11176 AJ235775
+atpB
+rbcL
+APPENDIX (CONTINUED)
+Bayer et al., 1999 Hoot et al., 1999 this paper
+Bakker et al., 1998
+same species
+same species
+Buddleja davidii Franch same DNA
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+Bakker et al., 1998 this paper
+same DNA
+same DNA
+Campanula ramulosa Wall. Lobelia erinus L.
+same DNA
+same DNA
+same species
+same species
+Silene gallicaL.
+same DNA
+same DNA
+same DNA
+Chase et al., 1993 Qiu et al., 1993 Olmstead et al., 1992 Albert et al., 1992 Qiu etal., 1993
+this paper this paper this paper
+this paper
+Chase et al., 1993 Rodman et al., 1993 Manhart et al., unpubl. Albert et al., 1992 Morgan and Soltis, 1993 this paper
+-
+Hippocratea richardiana
+Chase et al., 1993
+
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Family
+Species Salacia pallescens Oliv.
+Voucher
+Citation
+EMBL/ Genbank
+Species
+Citation
+EMBL/ Genbank
+Celastraceae Ceratophyllaceae Cercidiphyllaceae
+Van Der Laan 373 WAG Qiu 91027 NCU Olmstead 90-016 COLO
+this paper
+this paper
+Hoot et al., 1999
+AJ235589 AJ235430 AF092112
+same DNA same species same species
+this paper
+Les et al., 1991 Olmstead et al., 1992
+X69754 M77030 L11673
+Chloranthaceae Chloranthaceae Chloranthaceae
+Siebold and Zucc. Chloranthus japonicus Siebold Hedyosmum arborescens Sw. Sarcandra grandiflora Subr.
+Chase 204 NCU Chase 338 NCU Qiu 92002 NCU
+this paper this paper this paper
+AJ235431 AJ235490 AJ235593
+same DNA same DNA same DNA
+Qiu et al., 1993 Qiu et al., 1993 Qiu et al., 1993
+L12640 L12649 L12663
+Cistaceae Cistaceae Clethraceae Colchicaceae Combretaceae Connaraceae Convolvulaceae Coriariaceae Cornaceae Cornaceae Cornaceae Corynocarpaceae Crassulaceae
+and Henry
+Cistus revolii Coste and Soulie Helianthemum grandiflorum DC. Clethra arborea Vent. Androcymbium ciliolatum Schltr. Quisqualis indica L.
+Rourea minor Leenk.
+Ipomoea mauritiana Jacq. Coriaria myrtifolia L.
+Alangium sp.
+Cornus mas L.
+Nyssa sylvatica Marsh. Corynocarpus laevigatus Forst. Crassula marnierana Huber and
+Chase 525 K Chase 524 K Chase 902 K Chase 272 NCU Chase 128 NCU Chase 1221 K Chase 2525 K Chase 245 NCU Chase 2541 K Chase 2520 K Chase 2530 K Chase 236 NCU Morgan 2152 WS
+Bakker et al., 1998 Bakker et al., 1998 this paper
+this paper
+AF035902 AF035907 AJ235438 AJ235391 AJ235576 AJ235585 AJ235505 AJ235443 AJ235386 AJ235444 AJ235545 AJ235446 AJ235447
+same DNA
+same DNA
+Clethra alnifolia
+same DNA
+same DNA
+Connarus conchocarpus F.Muell. Ipomoea coccinea
+Fay et al., 1998
+Fay et al., 1998
+Kron and Chase
+Chase et al., 1995
+Albert et al., 1992 Morgan and Soltis, 1993 Olmstead et al., 1993 Albert etal., 1992
+Y15140 Y15141 L12609 Z72265 L01948 U06798 L14400 L01897 L11209 L11216 L11228 X69731 L01899
+Crassulaceae Crassulaceae
+Jacobsen
+Dudleya viscida Moran Kalanchoe daigremontana Hamet
+Huntington 62801 BG Morgan 2151 WS
+this paper this paper
+AJ235461 AJ235510
+same DNA same DNA
+Morgan and Soltis, 1993 Morgan and Soltis, 1993
+L11182 L11189
+Crassulaceae Cucurbitaceae Cucurbitaceae Cunoniaceae Cyclanthaceae Cyrillaceae Daphniphyllaceae Datiscaceae Degeneriaceae Dichapetalaceae
+Sedum nudum Aiton
+Kedrostis nana Cogn. Xerosicyos danguyi Humb. Eucryphia milliganii Hook. Sphaeradenia pendula Hammel Cyrilla racemiflora L. Daphniphyllum sp.
+Chase 2459 K
+Chase 274 NCU
+Chase 321 NCU
+Chase 2528 K
+Chase 222 NCU
+Chase 2531 K
+Wagner et al. 6599 HAST Chase 2745 K
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+Hoot et al., 1999 this paper
+AJ235600 AJ235511 AJ235648 AJ235470 AJ235607 AJ235449 AF092118 AJ235450 AJ235451 AJ235455
+Sedum rubrotinctum Clausen same DNA
+Xerosicyos decaryi Guillaumin Eucryphia lucida Druce
+Albert et al., 1992
+this paper
+Swensen, 1996
+Albert etal., 1992 Chase et al., 1993 Albert et al., 1992 Albert et al., 1992 Chase et al., 1993
+Qiu et al., 1993 Savolainen et al., 1997
+L01956 AJ235782 U59824 L01918 AJ235808 L01900 L01901 L21939 L12643 X69733
+Didymeleaceae
+Didymeles perrieri Leandri Dillenia retusa Thunb.
+A ndrianantonnina 387 MO
+Hoot et al., 1999
+AF092119
+same DNA
+Hoot et al., 1999
+AF094541
+Dilleniaceae Dilleniaceae Dilleniaceae Dioscoreaceae
+Schumacheria sp.
+Tetracera asiatica Hoogl. Dioscorea polygonoides Plum.
+Chase 2103 K Chase 308 NCU Chase 1238 K Chase 197 NCU
+this paper
+Hoot et al., 1999 this paper
+this paper
+AF095732 AF092121 AJ235622 AJ235456
+Dillenia indica L. same DNA same DNA same DNA
+Albert et al., 1992 Hoot et al., 1999 this paper
+Chase et al., 1993
+L01903 AF095734 AJ235796 AJ235803
+Ceratophyllum demersum L. Cercidiphyllum japonkum
+.
+CtllU X ClilCl
+Datisca cannabina L. Degeneria sp.
+Dichapetalum brownii Baill.
+Qiu 1202-55 NCU Fison s.n. 10/8/93 K
+this paper this paper
+same DNA same species same species same species same DNA Dichapetalum
+crassifolium
+and Bompl.
+atpB
+rbcL
+APPENDIX (CONTINUED)
+this paper this paper this paper this paper this paper this paper this paper this paper this paper
+same DNA
+Alangium chinense Harms same species
+Nyssa ogeche Marsh.
+same DNA
+same DNA
+Xiang et al., 1993 Xiang et al., 1993 Xiang et al., 1993 Savolainen et al., 1997 Albert et al., 1992
+Chnc\
+L .
+1993
+
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Family
+Species Anisoptera marginata Korth.
+Voucher
+Citation
+EMBL/ Genbank
+Species same DNA
+Citation
+EMBL/ Genbank
+Dipterocarpaceae Droseraceae Ebenaceae Ebenaceae Elaeagnaceae Elaeocarpaceae Ephedraceae Ericaceae Erythroxylaceae
+Drosera communis A.St.-Hil. Diospyros kaki Thunb. Euclea natalensis DC. Elaeagnus sp.
+Chase 2486 K Chase 2582 K Chase 920 K Goldblatt 9275 MO Chase 2414 K Chase 343 NCU none
+Bakker et al., 1998 this paper
+this paper
+this paper
+AF035918 AJ235459 AJ235457 AJ235468 AJ235462 AJ235603 AJ235463 AJ235465 AJ235466
+Drosera spathulata Labill. Diospyros virginiana L. same DNA
+Elaeagnus angustifolia L. Sloanea latifolia Schumann same DNA
+Fay et al., 1998
+Chase et al., 1993 Kron and Chase, 1993 Morton et al., 1997 Soltis et al., 1995 Alverson et al., 1998 Chase et al., 1993 Kron and Chase, 1993 Chase et al., 1993
+Y15144 L13168 L12613 Z80186 U17038 AF022131 L12677 L12617 L13183
+Escalloniaceae Eucommiaceae Euphorbiaceae Eupomatiaceae Eupteleaceae Fabaceae
+Escallonia sp.
+Eucommia ulmoides Oliv.
+Euphorbia polychroma Kerner Eupomatia bennettii Muell.
+Euptelea polyandra Siebold et Zucc. Pisum sativum L.
+63-251E Chase 2499 K Chase 2755 K Chase 102 NCU Qiu 90022 NCU Qiu 90026 NCU unknown
+this paper
+this paper
+this paper
+this paper
+Hoot et al., 1997 Zurawski et al.,
+AJ235467 AJ235469 AJ235472 AJ235473 U86384 X03852
+Escallonia coquimbensis Remy same species
+same DNA
+same DNA
+Morgan and Soltis, 1993 Albert et al., 1992
+Chase et al., 1993
+Qiu et al., 1993
+L11183 L01917 L13183 L12644 L12645 X03853
+Fabaceae Fagaceae Flacourtiaceae Fouquieriaceae Francoaceae Frankeniaceae Garryaceae Geraniaceae Geraniaceae Gesneriaceae Ginkgoaceae Gnetaceae Goupiaceae Grossulariaceae Gunneraceae
+Sophora toromiro Skottsb. Trigonobalanus verticellatus Forman Hydnocarpus heterophylla Blume Idria columnaria Kellogg
+Francoa appendiculata A.Juss. Frankenia pulverulenta L.
+Garrya elliptica Douglas
+Geranium sanguineum L. Pelargonium cotyledonis L'Her. Saintpaulia ionantha Wendl.
+Ginkgo biloba L.
+Gnetum gnemon L.
+Goupia glabra Aubl.
+Ribes speciosum Pursh.
+Gunnera hamiltonii Kirk, ex W.S.
+Chase s.n. K
+Chase 595 K
+Chase 1278 K
+U. California, Irvine Arb. Chase 2502 K
+this paper
+this paper
+this paper
+this paper
+Bakker et al., 1998 this paper
+AJ235605 AJ235631 AJ235496 AJ235501 AF035905 AJ235475 AJ235478 AF035906 AF035911 AJ235588 AJ235480 AJ235482 AJ235484 AJ235583 AF093374
+Sophora davidii Kom. same species
+same DNA
+same DNA
+Kass and Wink, 1995 Chase et al., 1993 this paper
+Morton et al., 1996 Soltis et al., 1990
+Z70138 AJ235812 AJ235781 Z80210 L11184 Z97638 L01919 L14695 L14704 L14409 AJ235804 L12680 AJ235780 L11204 L11186
+Haloragaceae Haloragaceae Hamamelidaceae
+Haloragis aspera Lindl. Myriophyllum exalbescens Fernald
+' Chase 453 K
+Broch 30 Aug 1991 WS Reznicek 9239 MICH
+this paper
+this paper
+Hoot et al., 1999
+AJ235487 AJ235538 AF093377
+Haloragis serra Brongn. same DNA
+same DNA
+Conti et al., 1996 Morgan and Soltis, 1993 Hoot et al., 1999
+U26325 L11195 AF094548
+Hamamelidaceae Hamamelidaceae Helwingiaceae Hernandiaceae Himantandraceae Huaceae
+Disanthus cercidifolia Maxim. Hamamelis virginiana L. Helwingia japonica Dietr. Gyrocarpus americana Jacq. Galbulimima belgraveana Sprague Afrostyrax sp.
+Hoot 9221 UWM Hoot 910 UWM Chase 1104 K Chase 317 NCU Qiu 90034 NCU Cheek 5007 K
+Hoot et al., 1999 Hoot et al., 1999 this paper
+this paper
+AF093378 AF093380 AJ235492 AJ235486 AJ235477 AJ235385
+same DNA
+Hamamelis mollis Oliv. same species
+same DNA
+same DNA
+same DNA
+Hoot et al., 1999 Albert et al., 1992 Xiang et al., 1993 Qiu et al., 1993 Qiu et al., 1993 this paper
+AF094549 L01922 L11226 L12647 L12646 AJ235771
+Sloanea berteriana Choisy Ephedra tweediana C.A.Mey. Erica sicula Guss. Erythroxylum confusum Britton
+Chase 892 K
+Fairchild Trop Garden
+this paper this paper this paper this paper this paper
+Erica australis L. same DNA
+Ham naill.
+Corylopsis pauciflora Siebold. and Zucc
+Collenette 6/93 K Chase 1098 K Chase 125 NCU Chase 2477 K Chase 700 K Chase 2489 K Chase 208 NCU Prevost 3031 CAY Chase 2542 K Chase 562, K
+this paper
+Bakker et al., 1998 Bakker et al., 1998 this paper
+this paper
+this paper
+this paper
+this paper Hootetal.,1999
+Francoa sonchifolia Cav. same DNA
+same species
+Geranium cinereum Cav. same species Streptocarpus holstii Engl. same species
+Fay et al., 1997
+Albert et al., 1992
+Price and Palmer, 1993 Price and Palmer, 1993 Olmstead et al., 1993 Chase et al., 1993
+Chase et al., 1993
+this paper
+Morgan and Soltis, 1993 Morgan and Soltis, 1993
+atpB
+rbcL
+APPENDIX (CONTINUED)
+1Q8£
+this paper this paper
+same DNA same species
+Chase et al., 1993 Zurawski et al., 1986
+same DNA
+same DNA
+Ribes aureum Pursh Gunnera manicata Linden
+
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Family
+Species Humiria balsaminifera Aubl.
+Voucher
+EMBL/ Citation Genbank
+Species
+Citation
+EMBL/ Genbank
+Humiriaceae Hydrangeaceae Hydrangeaceae Hypoxidaceae
+Carpenteria californica Torr. Hydrangea macrophylla Torr. Rhodohypoxismilloides Hilliard
+Anderson 13654 MICH Chase 2497 K
+Chase 2537 K
+Chase 479 K
+this paper this paper this paper this paper
+AJ235494 AJ235426 AJ235497 AJ235582
+same DNA same species same species same DNA
+Albert et al., 1992
+Soltis et al., 1990 Morgan and Soltis, 1993 Chase et al., 1995
+L01926 L11177 L11187 Z77280
+Icacinaceae Icacinaceae Illiciaceae Iteaceae Ixioliriaceae Juglandaceae Juncaceae Krameriaceae Lamiaceae
+and B.L.Burtt
+Gonocaryum Morale Sleum. Pyrenacantha malvifolia Engl. lllicium parviflorum Michx. Itea virginica L.
+Ixiolirion tataricum Herb. Pterocaryafraxinifolia Spach funcus effusus L.
+Krameria ixine L.
+Lavandula bipinnata Kuntze
+Chase 1294 K Chase 683 K Naczi 2784 MICH Ware 9401 WS Chase 489 K Chase 860 K Chase 200 NCU Lift 1 NY
+this paper
+this paper
+Hoot et alv 1997 Hoot etal., 1999 this paper
+this paper
+this paper
+this paper
+this paper
+AJ235483 AJ235575 U86385 AF093383 AJ235507 AJ235572 AJ235509 AJ235514 AJ235519
+same DNA
+same DNA
+same species
+same species
+same DNA
+same DNA
+same DNA
+Krameria lanceolata Torr. Lavandula angustifolia Moench
+this paper
+this paper
+Qiu et al., 1993 Soltis et al., 1990 Chase et al., 1995 this paper
+Chase et al., 1993 Chase et al., 1993 Kaufman and Wink,
+AJ235779 AJ235791 L12652 L11188 Z73704 AJ235790 L12681 Y15032 Z37404
+Lamiaceae Lardizabalaceae Lauraceae
+Prostanthera ovalifolia R.Br. Decaisneafargesii Franch. Cinnamomum camphora Nees
+Chase 2522 K Reznicek 9236 MICH Qiu 102 NCU
+this paper
+Hoot et al., 1995 this paper
+AJ235571 L37926 AJ235436
+Prostanthera rotundifolia R.Br. same DNA
+same DNA
+Olmstead et al., 1993 Hoot et al., 1995
+Qiu et al., 1993
+L14408 L37916 L12641
+Lauraceae Lecythidaceae Lecythidaceae
+Laurus nobilis Cav.
+Qiu 94209 NCU Chase 328 K Chase 329 K
+this paper this paper this paper
+AJ235518 AJ235407 AJ235540
+Persea americana Mill. same DNA
+same DNA
+Golenberg et al., 1990 Morton et al., 1996 Morton et al., 1996
+X54347 Z80174 Z80173
+Lentibulariaceae Liliaceae Liliaceae Liliaceae Liliaceae Limnanthaceae Linaceae Linaceae Loganiaceae Lythraceae Magnoliaceae Magnoliaceae Malpighiaceae Malpighiaceae Malvaceae
+Utricularia biflora Roxb. Lloydia serotina Sweet Nomocharis pardanthina Planch. Tricyrtis latifolia Maxim.
+Chase 143 NCU Jones sn K
+Chase 934 K
+Chase 548 K
+Chase 438 K Reznicek 8609 MICH Chase 111 NCU Chase 230 NCU Chase 2538 K
+this paper this paper
+AJ235636 AJ235523 AJ235543 AJ235630 AJ235633 AF035904 AJ235521 AJ235577 AJ235613 AJ235574 AJ235522 AJ235526 AJ235453 AJ235527 AJ233050
+same DNA
+same DNA
+same DNA
+Tricyrtis affinis Makino same DNA
+Albert et al., 1992 Chase et al., 1995 Chase et al., 1995 Shinwari et al., 1994 Chase etal., 1995 Chase et al., 1993 Fay et al., 1997
+L13190 Z77294 Z77295 D17382 Z77292 L12679 Z75681 Z13188 L14410 L10223 X54346 AJ131927 AJ235802 AJ235784 AJ233115
+Malvaceae Malvaceae Malvaceae Malvaceae
+r eii'ier
+Bombax ceiba L.
+Chorisia speciosa A..St.-Hil. Dombeya tiliacea Planch. Gossypium hirsutum L.
+Chase 3049 K Chase 3188 K Chase 273 UCI Chase 3014 K
+Bayer et al., 1999 Bayer et al., 1999 Bayer et al., 1999 Bayer et al., 1999
+AJ233051 AJ233052 AJ233075 AJ233052
+Bombax buonopozense P.Beauv. same DNA
+same DNA
+Gossypium robinsoni F.Muell.
+Chase et al., 1993 Bayer et al., 1999 Bayer et al., 1999 Chase et al., 1993
+AF022118 AJ233116 AJ233125 L13186
+and Eberm.
+Barringtonia asiatica Kurz
+Napoleonaea vogelii Hook, and PlanrH
+X lciiU-Il.
+Tulipa kolpakowskiana Baker Floerkea proserpinicoides Willd. Linum perenne Guss. Reinwardtia indica Dumort. Strychnos nux-vomica L.
+this paper
+this paper
+this paper
+Bakker et al., 1998 this paper
+same DNA
+same DNA
+same DNA
+same species Punica granatum L. same species
+Punica protopunica Balf. Liriodendron tulpifera L. Magnolia tripetala L.
+Dicella nucifera Chodat Malpighia coccigera L. Adansonia rubrostipa Jum. and
+Chase 1905 K
+Qiu 94126 NCU
+Qiu 3 NCU
+Anderson 13607 MICH Mathaei BG 20626 MICH Chase 3043 K
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+Bayer et al., 1999
+same DNA same DNA same DNA same DNA
+Fay et al., 1997 Olmstead et al., 1993 Conti et al., 1993 Golenberg et al., 1990 Qiu et al., 1993 Chase et al., 1993
+this paper
+Bayer et al., 1999
+Upson sn RNG
+atpB
+rbd
+APPENDIX (CONTINUED)
+1QQ4
+
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Family
+Species Grewia occidentalis L.
+Voucher
+EMBL/ Citation Genbank
+Species
+Citation
+EMBL/ Genbank
+Malvaceae Malvaceae Malvaceae Malvaceae Malvaceae Marcgraviaceae
+Ochroma pyramidale Urb. Sterculia apetala Karsten Theobroma cacao L.
+Tilia platyphyllos Scop. Marcgravia rectiflora Triana
+Chase 3042 K Chase 244 NCU Chase 352 K Chase 3016 K Chase 3018 K Chase 331 NCU
+Bayer et al., 1999 Bayer et al., 1999 Bayer et al., 1999 Bayer et al., 1999 Bayer et al., 1999 this paper
+AJ233105 AJ233055 AJ233089 AJ233090 AJ233113 AJ235529
+same DNA
+same DNA
+Sterculia tragacantha Lindl: same species
+Tilia americana L.
+same DNA
+Bayer et al., 1999 Bayer et al., 1999 Alverson et al., 1998 Chase et al., 1993 Chase et al., 1993 Morton et al., 1996
+AJ233152 AJ233118 AF022126 AF022125 AF022127 283148
+Medusagynaceae Melanthiaceae Melanthiaceae Melastomataceae Meliaceae Meliaceae Melianthaceae Melianthaceae
+and 1 lancn.
+Medusagyne oppositifolia Baker
+Chase 670 K
+Chase 551 K
+Chase 527 K
+Chase 2534 K
+Chase 250 K
+Chase 552 K Kirstenboch 385/83
+U California, Irvine Arb
+this paper this paper this paper this paper this paper this paper this paper this paper
+AJ235530 AJ235638 AJ132285 AJ235439 AJ235616 AJ235629 AJ235410 AJ235532
+same DNA
+Veratrum parviflorum Michx. same DNA
+same DNA
+same DNA
+same DNA
+same DNA
+same species
+Fay et al., 1997 Chase et al., 1993 Chase et al., 1995 this paper
+275670 AJ235813 AJ131949 AJ235777 U39080 U39082 AJ235774 pers.
+Menispermaceae Menyanthaceae Molluginaceae Monimiaceae Monimiaceae Moraceae Muntingiaceae Myricaceae Myristicaceae Myrothamnaceae Myrsinaceae Myrtaceae
+Menispermum canadense L. Menyanthes trifoliata L. Limeum sp.
+Hedycarya arborea Forst. Kibara sp.
+Naczi 2837 (MICH) Chase 3501 K
+Hoot 983 UWM Qiu 90028 NCU Coode 7879 K Chase 2512 K Chase 346 NCU Chase 2500 K
+Hoot et al., 1999 this paper
+Hoot et al., 1999 this paper
+AF093384 AJ235533 AF093385 AJ235489 AJ235512 AJ235536 AF035908 AJ233068 AJ235539 'AF093386 AJ235525 AJ235535
+same species
+same species
+Trianthema portulacastrum L. same DNA
+Hedycarya arborea Forst. Morus alba L.
+same DNA
+same species
+Knema latericia Elmer
+same DNA
+same DNA
+same DNA
+Hoot etal., 1999 Olmstead et al., 1993 Manhart et al., unpubl. Qiu et al., 1993
+Qiu et al., 1993
+Albert et al., 1992
+Fay et al., 1998
+Albert et al., 1992
+Qiu et al., 1998
+Qiu et al., 1999
+Morton et al., 1996
+this paper
+AF093726 L14006 M62572 L12648 L12648 L01933 Y15146 L01934 L12653 AF060707 Z80203 AJ235785
+Nelumbonaceae Nepenthaceae Nyctaginaceae Nymphaeaceae Nymphaeaceae Ochnaceae Olacaceae Oleaceae Onagraceae Oncothecaceae Opiliaceae Orchidaceae Orchidaceae Orchidaceae
+and Muell.
+Nelumbo lutea Pers. Nepenthes alata Blanco Bougainvillea glabra Choisy Brasenia schreberi Gmelin Nymphaea odorata Aiton Ochna multiflora DC. Heisteria parvifolia Sm. Jasminum polyanthum Franch. Fuchsia procumbens Cunn. Oncotheca balansae Baill. Opilia sp.
+Apostasia stylidoides Rchb. Cypripedium calceolus Walt. Oncidium excavatum Lindl.
+Hoot 9212, UWM Chase 145, NCU Chase 2485 K
+Qiu 91031 NCU
+Qui 91029 NCU Chase 229 NCU Cheek 5985 K
+Chase 2474 K
+Chase 2530 K
+Jaffre 3238 NOU Chase 1902 K Clements 4843 CANB Chase O-714 K
+Hoot etal., 1999 this paper
+this paper
+this paper
+AF093387 AJ235542 AJ235415 AJ235418 AJ235544 AJ235546 AJ235491 AJ235508 AJ235476 AJ235549 AJ235550 AJ235397 AJ235448 AJ235548
+same species
+same DNA
+same species
+same species
+same species
+Ochna serrulata Walp. same DNA
+Les et al., 1991
+Albert et al., 1992 Manhart et al., unpubl. Les et al., 1991
+Les et al., 1991
+Chase et al., 1993
+this paper
+Albert et al., 1992 Conti et al., 1993
+this paper
+this paper
+Chase et al., 1995 Chase et al., 1993 Olmstead et al., 1992
+M77032 L01935 M88340 M77028 M77031 Z75273 AJ131771 L01929 L10220 AJ131950 AJ131773 Z73705 Z73706 AF074201
+Veratrum viride Aiton Xerophyllum tenax Nutt. Clidemia petiolaris Triana Swietenia macrophylla King Trichilia emetica Vahl Bersama lucens Szyszyl. Melianthus major L.
+Gadek et al., 1996 Gadek et al., 1996 this paper
+Gadek et al., 1996
+Morus nigra L.
+Muntingia calabura L.
+Myrica cerifera L.
+Myristica fragans Houtt. Myrothamnusflabellifolius Welw. Maesa myrsinoides LeV. Metrosideros nervulosa Moore
+Qiu 92014 NCU Winter 72RAV Chase 309 K Chase 2451 K
+this paper
+this paper
+this paper
+Bayer et al., 1999 this paper
+Chase O-86 K
+same DNA
+Cypripedium irapeanum Lex. same DNA
+atpB
+rbcL
+APPENDIX (CONTINUED)
+Hoot et al., 1999 this paper
+this paper
+this paper this paper this paper this paper this paper this paper this paper this paper this paper this paper
+Jasminum suavissimum Lindl. Fuchsia cyrtandroides Moore same DNA
+same DNA
+
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Family
+Species Averrhoa carambola L.
+V oucher
+Citation
+EMBL/ Genbank
+Species same species
+Citation
+EMBL/ Genbank
+Oxalidaceae Paeoniaceae Papaveraceae Parnassiaceae Passifloraceae Penthoraceae Phellinaceae Philesiaceae Phytolaccaceae Phytolaccaceae Picramniaceae Picramniaceae
+Paeonia mlokosewitschi Lomakin Dicentra chrysantha Walp. Parnassia palustris L.
+Passiflora coccinea Aubl. Penthorum sedoides L.
+Chase 214 NCU Chase 505 K Chase 534 K Fay sn K
+this paper this paper this paper this paper this paper this paper this paper this paper this paper this paper this paper this paper
+AJ235404 AJ235551 AJ235454 AJ235552 AJ235553 AJ235555 AJ235557 AJ235517 AJ235464 AJ235558 AJ235387 AJ235559
+Paeonia tenuifolia L. Dicentra spectabilis Lem. Parnassiafimbriata Banks Passiflora auadrangalis L. same DNA
+same DNA
+same DNA
+same DNA
+Phytolacca americana L. same DNA
+same DNA
+Price and Palmer, 1993 Chase et al., 1993 Chase et al., 1993 Soltis et al., 1990 Albert et al., 1992 Soltis et al., 1990
+L14692 L13687 L08761 L01939 L01940 L11197 X69748 Z77301 AJ235800 M62567 AF123277 pers.
+Pinaceae
+Pinus thunbergiana Franco Tsuga canadensis Carr.
+unknown
+Wakasugi et al.,
+D17510
+same species
+Tsuga heterophylla Sarg.
+Wakasugi et al., 1994
+comm. D17510
+Pinaceae Piperaceae Piperaceae Pittosporaceae Platanaceae Plumbaginaceae Poaceae
+Peperomia obtusifolia Miq.
+Piper betle L.
+Pittosporum fairchildii Cheeseman Platanus occidentalis L. Plumbago zeylanica L.
+Chase 2514 K Qiu 94135 NCU Qiu 91048 NCU Chase 2468 K Qiu P90005 NCU Chase 994 K unknown
+this paper
+this paper
+this paper
+this paper
+Hoot et al., 1997 this paper Hiratsuka et al., 1QRQ
+AJ235632 AJ235556 AJ235560 AJ235561 U86386 AJ235565 X15901
+Peperomia obtusifolia Miq. same DNA
+Pittosporum japonicum Hort. same DNA
+Chase et al., 1993
+Qiu et al., 1993
+Qiu et al., 1993
+Morgan and Soltis, 1993 Albert et al., 1992 Giannasi et al., 1992 Hiratsuka et al., 1989
+X63659 L12661 L12660 L11202 L01943 M77701 X15901
+Poaceae Podocarpaceae Polemoniaceae Polygalaceae Polygalaceae Polygonaceae Polygonaceae Primulaceae Primulaceae Proteaceae Proteaceae
+Podocarpus milanjianus Rendl. Cobaea scandens Cav. Polygala cruciata L. Xanthophyllum sp.
+unknown
+Chase 2482 K
+Chase 961 K
+Chase 155 NCU Coode 7760 K
+Chase 896 K
+Chase 926 K
+Chase 1910 K
+Chase 954 K
+Natl. Trop. BG Hawai Douglas 110 MEL
+Maier et al., 1995 this paper
+this paper
+this paper
+X86563 AJ235567 AJ235440 AJ235568 AJ235646 AJ235569 AJ235580 AJ235390 AJ235392 AJ235516 AF060391
+same species
+Podocarpus gracilior Pilg. same DNA
+same DNA
+same DNA
+same DNA
+Rheum X cultorum Anagallis arvensis L. same DNA
+same species
+same DNA
+Maier et al., 1995 Bousquet et al., 1992 Morton et al., 1996 Albert et al., 1992 this paper
+X86563 X58135 Z83143 L01945 AJ235799 AJ235789 M77701 M88343 AJ235772 L11190 AF093729
+Proteaceae
+and Francis
+Roupala macrophylla Pohl
+Douglas 131 MEL
+Douglas, 1998 Hoot and
+AF060416
+same DNA
+Hoot et al., 1999
+AF093728
+Pterostemonaceae Ranunculaceae
+Pterostemon rotundifolius Ramirez Glaucidium palmatum Siebold
+Jordan s.n. HO Hoot 924 UWM
+Douglas, 1998 this paper
+Hoot et al., 1999
+AJ235573 AF093375
+same DNA same DNA
+Morgan and Soltis 1993 Hoot & Crane, 1995
+L11203 L75848
+Ranurtculaceae Ranunculaceae Resedaceae
+and Zucc.
+Hydrastis canadense L.
+Xanthorhiza simplicissima Marshall Reseda alba L.
+Naczi 2883, MICH Qiu 91030 NCU Chase 3017 K
+Hoot etal., 1999 Hoot et al., 1999 Bayer et al., 1999
+AF093382 AF093394 AJ132283
+same DNA same DNA same species
+Hoot & Crane, 1995 Chase et al., 1993 Rodman et al., 1993
+L75849 L12669 L11359
+Phelline comosa Labill. Lapageria rosea Ruiz and Pav. Ercilla volubilis A.Juss. Phytolacca dioica L. Alvaradoa amorphoides Liebm. Picramnia pentandra SW.
+Chase 2475 K Hayden 2232 WS Savolainen pcol G Chase 181 NCU Chase 2526 K Chase 2535 K 21621 UNSW 21620 UNSW
+this paper
+Chase et al., 1995 this paper
+Rettig et al., 1992 Fernando et al., 1995 Fernando et al., 1995
+Oryza saliva L. Zea mays L.
+Plumbago capensis Thunb. same species
+Polygonum sachalinense Schmidt Rheum pinchonii Pierre
+Anagallis tenella L.
+Androsace spinulifera Knuth Lambertia inermis R.Br. Placospermum coriaceum White
+this paper this paper this paper this paper this paper this paper Hoot and
+this paper
+Giannasi et al., 1992 Chase et al., 1993
+this paper
+Morgan and Soltis, 1993 Hoot et al., 1999
+atpB
+rbcl
+APPENDIX (CONTINUED)
+1QQA 1:7 :^±
+
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Family
+Species
+V oucher
+EMBL/ Citation Genbank
+Species
+Citation
+EMBL/ G e n b a n k
+Rhabdodendraceae Rhamnaceae Rhizophoraceae Rosaceae
+Rhabdodendron amazonicum Rhamnus cathartica L.
+Carallia brachiata Merill.
+Dryas drummondi Richardsons Geum sp.
+Ribeiro 1187 K Chase 100 NCU Chase 2151 K
+Chase 917 K
+Chase 2507 K
+Chase 2503 K Mauritius Sugar Res.
+this paper this paper this paper this paper this paper this paper this paper
+AJ235578 AJ235579 AJ235425 AJ235460 AJ235479 AJ235608 AJ235586
+same DNA
+same DNA
+Bruguiera gymnorhiza same DNA
+Geum chiloense Balb. Spirea vanhouttei Zabel same DNA
+Fay et al., 1997
+Chase et al., 1993
+Conti et al., 1996 Swensen, 1996
+Albert et al., 1992 Morgan and Soltis, 1993 this paper
+Z97649 L13189 U26320 U59818 L01921 L11206 AJ235792
+Rosaceae Rosaceae Rousseaceae
+Spiraea betulifolia Pall. Roussea simplex Sm.
+Rubiaceae Rubiaceae
+Bouvardia glaberrina Engelm.
+Tnct inst.
+this paper this paper
+AJ235416 AJ235434
+same DNA same DNA
+Manen and Natali, 1995 Bremer et al., 1995 Manen and Natali, 1995 Manen and Natali, 1995 Chase et al., 1999 Chase et al., 1993 Gadek et al., 1996
+X81093 X83630 X81095 X81104 AJ238407 AJ235806 pers.
+Rubiaceae Rubiaceae Rutaceae Rutaceae Rutaceae
+Natali and Manen 5 G 916690 G
+Chase 2473 K
+Chase 117 NCU Baker s.n. cult KIRST
+this paper
+this paper
+Chase et al., 1999 Chase et al, 1999 Chase et al., 1999
+AJ235441 AJ235587 AJ238408 AJ238409 AF066848
+same DNA same DNA same DNA same DNA same DNA
+Rutaceae Rutaceae Sabiaceae Salicaceae Santalaceae Santalaceae Sapindaceae Sapindaceae Sapindaceae Sapindaceae Sapotaceae Sapotaceae Sapotaceae Sarcolaenaeaceae Sarraceniaceae Saururaceae Saururaceae Saxifragaceae Saxifragaceae
+Ruta graveolens L.
+Zanthoxylum monophyllum
+Sabia swinhoei Hemsl.
+Salix reticulata L.
+Santalum album L.
+Thesium humile V ahl.
+Acer saccharum L.
+Aesculus pavia Castigl.
+Cupaniopsis anacardioides Radl. Koelreuteria paniculata L a x m . Manilkara zapota Royen Planchonella pohlmanniana Burkill Pouteria macrantha Baehni Sarcolaena sp.
+Sarraceniaflava L.
+Houttuynia cordata
+Saururus chinensis Hort. ex Lond. Astilbe taquetii K o i z d .
+Boykinia rotundifolia P a r r y
+Chase 510 K
+Chase 332 K
+Wagner 6518 HAST Chase 840 K
+Chase 1349 K
+M. M. A. Ghanik s.n. K Chase 106 NCU
+Chase 503 K
+Chase 217 NCU
+Chase 115 NCU
+Chase 342 NCU
+Chase 3184 K
+Chase 1370 K
+Chase 903 K
+Chase 144 NCBG Reznicek 9238 MICH Qiu 91023 NCU
+Soltis and Soltis 2477 WS GornaU 101 UBG
+Bakker et al., 1998 Bakker et al., 1998 Hoot et al., 1999 this paper
+AF035913 AF035919 AF093395 AJ235590 AJ235592 AJ235624 AF035893 AF035894 AF035903 AJ235513 AJ235528 AJ235398 AJ235570 AJ233070 AJ235594 AF093397 AJ235596 AJ235401 AJ235417
+same DNA
+same DNA
+Sabia s p .
+same DNA
+same species
+same DNA
+same DNA
+same DNA
+same DNA
+same DNA
+same DNA
+same DNA
+Pouteria eerwah Baehni same DNA
+Gadek et al., 1996
+Gadek et al., 1996
+Chase et al., 1993
+this paper
+Nickrent and Soltis, 1995 this paper
+comm.
+Saxifragaceae
+Wendel s.n. ISC
+this paper
+AJ235432
+•\qq-i Lyyo
+Saxifragaceae Saxifragaceae Saxifragaceae Schisandraceae
+Peltoboykinia tellimoides Saxifraga retusa Gouan. Schisandra sphenanthera
+H a r a
+R e h d e r
+Hoot 932 UWM
+Nikko Bot. Gard. Japan Chase 778 K
+Qiu 94165 NCU
+Hoot et al., 1999 this paper
+this paper
+this paper
+AF093399 AJ235554 AJ235597 AJ235599
+Heuchera micrantha Douglas same DNA
+Saxifraga integrifolia Hook
+Soltis et al., 1990
+Soltis et al., 1993 Morgan and Soltis, 1993 Qiu et al., 1993
+L01925 U06213 L01953 L12665
+Cinchona pubescens
+Coffea arabica L.
+Rubia tinctorum L.
+Citrus paradisi Macfad. Poncirus trifoliata Raf. Ptaeroxylon obliquum Radlk.
+Natali and Manen 3 G McDowell 4613 DUKE
+Chrysosplenium iowense R y d b . Heuchera sanguinea E n g e l m .
+same DNA
+Johnson and Soltis,
+L19935
+and Wilson
+V ahl.
+T h u n b .
+this paper
+this paper
+Bakker et al., 1998 Bakker et al., 1998 Bakker et al., 1998 this paper
+this paper
+this paper
+this paper
+Bayer et al., 1999 this paper
+Hoot et al., 1999 this paper
+this paper
+this paper
+same DNA
+same species Saururus cernuus L. same DNA
+same DNA
+Chase et al., 1993 Gadek et al., 1996 Chase et al., 1993 Gadek etal., 1996 Albert et al., 1992 this paper
+Morton et al., 1996 Fay et al., 1998 Albert et al., 1992 Chase et al., 1993 Chase et al., 1993 Soltis et al., 1990
+L12662 AJ235793 L26077 AJ235797 L01881 U39277 L13182 U39283 L01932 AJ235788 Z80188 Y15147 L01952 L08762 L14924 L11173 L11175
+H u b e r
+P .Wilson
+U39281 U39282
+atpB
+rbcL
+APPENDIX (CONTINUED)
+same DNA
+Savigny
+Morgan and Soltis,
+1QQ4
+
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Family
+Species Antirrhinum majus L.
+Voucher
+Citation
+EMBL/ Genbank
+Species same DNA
+Citation
+EMBL/ Genbank
+Scrophulariaceae Scrophulariaceae Simaroubaceae Simaroubaceae Simaroubaceae Simmondsiaceae Solanaceae Solanaceae • Stachyuraceae
+Globularia salicina Lam.
+Ailanthus altissima L.
+[rvingia malayana Oliv.
+Simarouba glauca DC.
+Simmondsia chinensis C.K.Schneid. Nicotiana tabacum L.
+Chase 2570 K
+Chase 2547 K
+Chase 126 NCU Simpson 2638 K Tomlinson 21623 UNSW Boyd et al. 3355 F unknown
+this paper
+this paper
+this paper
+this paper
+this paper
+Hoot et al., 1999 Deno et al., 1983 this paper
+AJ235395 AJ235481 AF035895 AJ235506 AJ235602 AF093401 V00162 AJ235604 AJ235609
+Globularia cordifolia L. same DNA
+same DNA
+same DNA
+Olmstead et al., 1992 Oxelman, unpubl. Chase et al., 1993 Fernando et al., 1995 Fernando et al., 1995 Fay et al., 1997
+L11688 AJ001764 L12566 AF123278 U38927 AF093732 Z00044 L14403 AJ235794
+Stackhousiaceae Staphyleaceae Stemonaceae Styracaceae Symplocaceae Taccaceae Taxaceae Taxodiaceae
+^ucc.
+Stackhousia minima Hook.f.
+Molloy s.n. CHR Chase 116 NCU Chase 258 NCU Chase 960 K Chase 1374 K Chase 175 NCU Chase 2527 K Chase 2516 K
+this paper this paper this paper this paper this paper this paper this paper this paper
+AJ235610 AJ235611 AJ235612 AJ235615 AJ235617 AJ235618 AJ235619 AJ235534
+same DNA
+same DNA
+same DNA
+Styrax americana Lam. Symplocos paniculata Miq. same DNA
+this paper
+Gadek et al., 1996 Chase et al., 1995 Kron and Chase, 1993 Kron and Chase, 1993 Chase et al., 1993 Chase et al., 1993 Chase et al., 1993
+AJ235795 AJ238406 AJ131948 L12623 L12624 AJ235810 AJ235811 AJ235805
+Tecophilaeaceae Tecophilaeaceae Tecophilaeaceae Ternstroemiaceae Ternstroemiaceae Ternstroemiaceae Tetrameristaceae Theaceae Theaceae Theophrastaceae Thymelaeaceae Thymelaeaceae
+and Cheng
+Conanthera campanulata Lindl. Odontostomum hartwegii Tore. Tecophilaea cyanocrocus Leyb. Adinandra dumosa Jack
+Eurya japonica Thunb. Ternstroemia stahlii Krug and Urb. Tetramerista sp.
+Schima superba Gardn. and Champ. Stuartia pseudocamellia Maxim. Clavija eggersiana Mez.
+Aquilaria beccariana Tiegh.
+Phaleria capitata Jack
+Chase 523 K Chase 491 K Chase 447 K Chase 1379 K Chase 1448 K Axelrod 4538 UPR Coode 7925 K Chase 261 NCU Chase 964 K Chase 216 K Chase 1380 K Chase 1383 K
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+Bayer et al., 1999 Bayer et al., 1999
+AJ235442 AJ235547 AJ235620 AJ235383 AJ235474 AJ235621 AJ235623 AJ235598 AJ235614 AJ235437 AJ233079 AJ233096
+same DNA
+same DNA
+same DNA
+same DNA
+same DNA
+same DNA
+same DNA
+same DNA
+same DNA
+same DNA
+same DNA
+Phaleria chermsideana
+Chase et al., 1995 Chase et al., 1995 Chase et al., 1995 Morton et al., 1996 Morton et al., 1996 Morton et al., 1996 Morton et al., 1996 Morton et al., 1996 Morton et al., 1996 Kron and Chase, 1993 Fay et al., 1998
+Z77311 Z77314 Z73709 Z83149 Z80207 Z80211 Z80199 Z80208 Z80209 L12608 Y15149 U26332
+Thymelaeaceae Tofieldiaceae Tofieldiaceae Tremandraceae Trochodendraceae Trochodendraceae Tropaeolaceae Turneraceae Ulmaceae Urticaceae Valerianaceae
+Chase 1882 K Chase 152 NCU Fay sn K
+Chase 179 NCU Qiu 90009 NCU Qiu 90026 NCU Chase 2518 K Chase 220 NCU Chase 335 NCU Chase 2754 K Chase 2524 K
+AJ235626 AJ235564 AJ235627 AJ235563 AF093422 AF093423 AF035917 AJ235634 AJ235628 AJ235635 AJ235637
+same DNA same DNA
+Fay et al., 1998
+Chase et al., 1993
+this paper
+Chase et al., 1993 Chase et al., 1993 Albert et al., 1992 Price and Palmer, 1993 Fay et al., 1997
+Y152151 AJ131774 AJ235798 L01944 L12668 L01958 L14706 Z75691 U03844 AJ235801 L13934
+Solarium nodiflorum Desv. ex Dun. Stachyurus praecox Siebold and
+Chase 2372 K Chase 900 K
+this paper
+same DNA
+same species
+Lycopersicon esculentum Mill. same DNA
+Lin et al., 1986 Olmstead et al., 1993 this paper
+Staphylea trifoliata Marsh Stemona japonica Franch. and Sav. Styrax japonica Siebold and Zucc. Symplocus costata Choisy
+Tacca chantrieri Andre
+Taxus baccata L.
+Metasequoia glyptostroboides Hu
+Taxus media Rehder same species
+Thymelaea hirsuta Endl.
+Pleea tenuifolia Michx.
+Tofieldia calyculata Wahlenb. Platytheca verticellata Baill. Tetracentron sinensis Oliv. Trochodendron aralioides Siebold Tropaeolum tricolor Lindl. Turnera ulmifolia L.
+this paper
+this paper
+this paper
+this paper
+Hoot et al., 1999 Hoot et al., 1999 Bakker et al., 1998 this paper
+C T WViito \_. 1. VVIUtt.
+Trema micrantha Blume Urtica dioica L. Valeriana officinalis L.
+this paper this paper this paper
+same DNA
+Boehmeria nivea Gaudich. same species
+Chase et al., 1993 Chase et al., 1993 Olmstead et al., 1992
+atpB
+rbcl
+APPENDIX (CONTINUED)
+same DNA
+same DNA
+same species
+same species Tropaeolum majus L. same DNA
+Conti et al., 1996
+
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+Family
+Species Barbacenia elegans Pax
+V oucher
+EMBL/ Citation Genbank
+Species
+Citation
+EMBL/ Genbank
+Velloziaceae Verbenaceae Violaceae Violaceae Viscaceae Vitaceae Vitaceae Vochysiaceae Welwitschiaceae Winteraceae Winteraceae Winteraceae Xeronemaceae Zygophyllaceae Zygophyllaceae Zygophyllaceae
+Verbena scabrido-glandulosa Turrill. Hymenanthera alpina Oliv.
+Rinorea bengalensis Kuntze
+Viscum album L.
+Chase 253 K Chase 2460 K
+this paper this paper
+AJ235406 AJ235639 AJ235499 AJ235584 AJ235642 AJ235520 AJ235643 AJ235644 AJ235645 AJ235408 AF093425 AF093424 AJ235647 AJ235405 AJ235485 AJ235641
+same DNA
+Verbena bonariensis L.
+Chase et al., 1995 Olmstead et al., 1993 Fay et al., 1997
+Alverson et al., 1998 Nickrent and Soltis, 1995 this paper
+AJ131946 L14412
+Leea guineensis G.Don.
+Vitis aestivalis Michx.
+Vochysia rufescens W.A.Rodrigues Welwitschia mirabilis Hook. Belliolum sp.
+Drimys winteri Forster and Forster Tasmannia lanceolata Smith Xeronema callistemon Oliv. Balanites maughamii Sprague Guaiacum sanctum L.
+Viscainoa geniculata Greene
+Chase 501 K Chase 2148 K Sheahan sn K Chase 712 K Chase 226 NCU Litt 14 NY Geneva Bot Gard Qiu 90025 NCU Nickrent 3013 SIU Raleigh 109 MEL Chase 653 K Sheahan sn K Chase 133 NCU Sheahan sn K
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+this paper
+Hoot etal., 1999 Hoot et al., 1999 this paper
+same DNA
+Rinorea crenata Blake same species
+same DNA
+same DNA
+Qualea sp.
+same species
+same DNA
+same DNA
+Tasmannia insipida DC. same DNA
+same DNA
+same DNA
+same DNA
+Albert et al., 1992 Olmstead et al., 1992 Chase et al., 1993
+Qiu et al., 1993
+Albert et al., 1992
+Albert et al., 1992
+Chase et al., 1995 Sheahan and Chase, 1996 Chase et al., 1993 Sheahan and Chase, 1996
+Z75692 AJ237591 L26078 AJ235783 L01960 U02730 AJ235814 L12633 L01905 L01957 Z69235 Y15016 AJ131770 Y15029
+atpB
+rbcL
+APPENDIX (CONTINUED)
+this paper this paper this paper

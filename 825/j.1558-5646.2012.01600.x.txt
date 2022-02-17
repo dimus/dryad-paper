@@ -1,0 +1,219 @@
+    ORIGINAL ARTICLE
+doi:10.1111/j.1558-5646.2012.01600.x
+THE GENETIC BASIS OF BEHAVIORAL ISOLATION BETWEEN DROSOPHILA MAURITIANA AND D. SECHELLIA
+Daniel R. McNabney1,2
+1Department of Biology, University of Rochester, Rochester, NY 14627
+2E-mail: daniel.mcnabney@rochester.edu
+Received April 14, 2011
+Accepted January 24, 2012
+Data Archived: Dryad:doi:10.5061/dryad.7b5s1s4r
+Understanding how species form is a fundamental question in evolutionary biology. Identifying the genetic bases of barriers that prevent gene flow between species provides insight into how speciation occurs. Here, I analyze a poorly understood reproductive isolating barrier, prezygotic reproductive isolation. I perform a genetic analysis of prezygotic isolation between two closely related species of Drosophila, D. mauritiana and D. sechellia. I first confirm the existence of strong behavioral isolation between D. mauritiana females and D. sechellia males. Next, I examine the genetic basis of behavioral isolation by (1) scanning an existing set of introgression lines for chromosomal regions that have a large effect on isolation; and (2) mapping quantitative trait loci (QTL) that underlie behavioral isolation via backcross analysis. In particular, I map QTL that determine whether a hybrid backcross female and a D. sechellia male will mate. I identify a single significant QTL, on the X chromosome, suggesting that few major-effect loci contribute to behavioral isolation between these species. In further work, I refine the map position of the QTL to a small region of the X chromosome.
+KEY WORDS: Behavioral genetics, prezygotic isolation, QTL mapping, sexual isolation, speciation.
+According to the Biological Species Concept (Mayr 1942), speciation is characterized by the evolution of reproductive isolation between populations. Barriers that cause reproductive isolation can act either prezygotically or postzygotically. Studying the genetic basis of each type of barrier contributes to our understanding of the process of speciation.
+The last two decades of work in the genetics of speciation have focused largely on postzygotic isolating barriers. This work has partly resolved the causes of several patterns, including Haldane’s rule (Coyne and Orr 2004) and the large effect of the X chromosome on postzygotic isolation (reviewed in Masly and Presgraves 2007). In addition, several genes that cause postzygotic isolation between species have been identified at the DNA sequence level: Xmrk2 (Wittbrodt et al. 1989), OdsH (Ting et al. 1998), Nup96 (Presgraves et al. 2003), Hmr (Barbash et al. 2003), JYAlpha (Masly et al. 2006), Lhr (Brideau et al. 2006), Nup160
+⃝C 2012 The Author(s). 1 Evolution
+(Tang and Presgraves 2009), Ovd (Phadnis and Orr 2009), and Prdm9 (Mihola et al. 2009). Analysis of these genes has allowed at least three important conclusions. First, these genes have a variety of functions within species, including encoding DNA-binding proteins and structural proteins. Second, these genes are often rapidly evolving. For instance, Hmr, which causes hybrid inviability between Drosophila melanogaster and its sibling species, has experienced nonsynonymous substitutions at a rate that is over five times higher than that of the average X-linked gene (Barbash et al. 2003). Third, in most cases, this rapid evolution is caused by positive natural selection, as revealed by molecular population genetic analyses (reviewed in Coyne and Orr 2004). Postzygotic isolation between lineages thus appears to be an epiphenomenon of adaptive evolution within lineages (although this adaptation may involve genetic conflict; reviewed in Presgraves 2010).
+     
+    DANIEL R. MCNABNEY
+Prezygotic isolating barriers to gene flow include ecological isolation, mechanical isolation, gametic isolation, and behavioral isolation. Prezygotic isolating barriers are known to be at least as important as postzygotic isolating barriers in preventing gene flow between species (Mayr 1963; Coyne and Orr 2004). In the genus Drosophila, allopatric pairs of species evolve preand postzygotic isolating barriers at similar rates (Coyne and Orr 1989, 1997). Sympatric species pairs, however, show a different pattern, with prezygotic isolation evolving much faster than postzygotic isolation. This pattern probably reflects the action of reinforcement in sympatry (Coyne and Orr 1989, 1997). In birds, speciation is completed far more quickly than the evolution of postzygotic isolation, which implies that prezygotic barriers evolve long before postzygotic barriers (Price and Bouvier 2002).
+Across taxa, a variety of traits give rise to behavioral isolation. Examples include preference for specific courtship songs in frogs, crickets, and flycatchers (Ryan and Rand 1993; Shaw 2000; Uy et al. 2009a); courtship behaviors in wolf spiders (Stratton and Uetz 1986); color patterning in cichlids (Seehausen 1997); body shape in finches (Ratciliffe and Grant 1983a,b); and pheromones in moths (Roelofs et al. 2002). Little, however, is known about the genes that give rise to trait differences or mating preferences for those differences between (but see Uy et al. 2009b). Consequently, we cannot at present answer a number of simple questions about the genetic basis of behavioral isolation, including: Is the genetic basis of behavioral isolation simple or complex, that is, does behavioral isolation arise from a few genetic changes or from many? Do any patterns, loosely analogous to the large effect of sex chromosomes on postzygotic isolation, characterize the evolution of behavioral isolation (Reinhold 1998; Ritchie and Phillips 1998; Coyne and Orr 2004; Masly and Presgraves 2007)? Do the genes that cause behavioral isolation diverge rapidly and/or show evidence of a history of positive natural selection, as do many of the genes that cause postzygotic isolation?
+Even in model systems such as Drosophila, little is known about the genetics of behavioral isolation. Although it is clear that a variety of characters can contribute to behavioral isolation in flies—including courtship song (Liimatainen and Hoikkala 1998; Yamada et al. 2002), wing pigmentation (Yeh et al. 2006), and cuticular hydrocarbons (reviewed in Ferveur 2005)—and while some genetic studies have been performed (reviewed in Markow and O’Grady 2005), few have identified small chromosome regions or individual genes that cause behavioral isolation.
+The D. simulans clade provides a promising group in which genetic studies of behavioral isolation can be performed. This group includes three species—D. simulans, D. sechellia, and D. mauritiana—that diverged from each other approximately 250,000 years ago (Kliman et al. 2000; McDermott and Kliman 2008). Interspecific crosses between members of the group
+produce sterile hybrid males but fertile hybrid females, allowing genetic analyses of reproductive isolation.
+Despite a large number of studies of behavioral isolation among members of the D. simulans clade—especially of pheromonal differences (Coyne 1989, 1992, 1993, 1996a,b; Moehring et al. 2004; Gleason et al. 2005)—few have identified particular genes that contribute to prezygotic isolation. In a study of the genetic basis of prezygotic isolation between D. mauritiana and D. sechellia, Coyne and Charlesworth (1997) concluded that a behavior, not pheromones, plays an important role in prezygotic isolation between these species. Through cuticular hydrocarbon transfer and flash-freezing experiments, they showed that D. sechellia males require an (unknown) female behavior to elicit courtship. When Coyne and Charlesworth (1997) transferred cuticular hydrocarbons between species, D. sechellia males courted only females having the correct species identity (D. sechellia), unlike D. mauritiana males who courted and mated with females having a D. mauritiana cuticular hydrocarbon profile, regardless of true female species identity. Also unlike D. mauritiana males, who court and attempt to mate flash-frozen females as long as these females have an appropriate cuticular hydrocarbon profile, D. sechellia males do not court flash-frozen females regardless of female species identity or cuticular hydrocarbon profile. Together, these results almost certainly imply that cuticular hydrocarbons are not sufficient to induce courtship by D. sechellia males. Instead, some currently unknown female behavior is most likely required. Given the genetic and genomic tools available in these species, this system provides an excellent opportunity to investigate the genetic basis of behavioral isolation.
+Here, I analyze behavioral isolation between D. mauritiana females and D. sechellia males. I first confirm that behavioral isolation exists in this direction of the species cross. Next, I genetically analyze hybrid females to understand the genetic basis of behavioral isolation. In particular, I screen a collection of introgression lines between the two species to search for genes of large effect on behavioral isolation. I also perform a backcross analysis using microsatellite markers that are distributed throughout the genome to search for quantitative trait loci (QTL) that give rise to behavioral isolation.
+Materials and Methods
+FLY STOCKS
+All flies were reared in 8-dram vials containing cornmeal-agar media at 24◦ under a 12 h: 12 h light/dark cycle. All experiments employed the genome sequence strain of D. sechellia (14021– 0248.21) and either of two D. mauritiana strains, one that is wild type (Synthetic; Coyne 1989) and another that carries the white (w) mutation (14021–0241.60). I chose these stocks as the D. sechellia genome (14021–0248.21) has been sequenced
+ 2 EVOLUTION 2012
+    
+    (Consortium 2007) and the genome of D. mauritiana w (14021– 0241.60) is currently being sequenced (D. Presgraves, pers. comm.). Using stocks whose genomes have been sequenced simplifies the development of molecular markers and, ultimately, the identification of candidate genes.
+To test the dominance of behavioral isolation between D. mauritiana and D. sechellia, I crossed D. sechellia (14021– 0248.21) females and D. mauritiana w (14021–0241.60) males to create F1 females. I tested these phenotypically wild-type F1 females with D. sechellia males (14021–0248.21) using the behavioral isolation assay described below and calculated an overall dominance coefficient, h, for behavioral isolation.
+For all crosses and tests, I collected males and females as virgins. To ensure sexual maturity, all flies were aged for three days (at 24◦, under a 12 h: 12 h light/dark cycle in uncrowded conditions) before performing tests of behavioral isolation. For genetic mapping experiments, all tests of behavioral isolation involved crossing recombinant hybrid females to wild type, not white, D. sechellia males.
+BEHAVIORAL ISOLATION ASSAY
+Accurate genetic mapping requires large sample sizes. This, in turn, requires an efficient, high-throughput assay of behavioral isolation. For this reason, I scored not any particular trait but behavioral isolation per se. I scored behavioral isolation as a binary trait: females were either mated or unmated. To test for behavioral isolation, I aspirated one virgin female and one virgin male into a food-containing vial for 72 h at 24◦ under a 12 h: 12 h light/dark cycle. After this time, I separated males and females and dissected the female reproductive tract in 1X PBS. I scored female reproductive tracts for the presence of sperm in the spermathecae and/or seminal receptacles using a compound microscope with dark field optics. The presence of sperm in either or both of the sperm storage organs indicated that the female had mated, whereas its absence from both organs indicated that she had not mated.
+INTROGRESSION LINE SCREEN
+Fifty hybrid introgression lines, created in previous work by Masly and Presgraves (2007), were available to me. These lines contain fairly small (on average ∼1.5 Mb) regions of D. mauritiana genetic material that is homozygous (or hemizygous) in an otherwise D. sechellia genetic background. I performed a rapid, rough screen of these lines to search for any chromosomal regions that have a large effect on behavioral isolation. Given the introgression lines available, I tested approximately half of the genome for its role in behavioral isolation (see Table 2 for a list of introgression lines tested along with cytological positions). Females from any introgression line harboring genetic material that affects behavioral isolation should show a reduction in insemination by D. sechellia males. For each introgression line, I tested approximately
+20 females with D. sechellia males using the behavioral isolation assay described above. Pairs were tested for 24 h. For any introgression line that showed insemination rates below 75%— suggesting the possible presence of a large-effect QTL—I performed a second round of tests.
+QTL ANALYSIS
+I also performed a full QTL mapping study. I created a backcross mapping population by crossing D. sechellia (14021-0248.21) females to D. mauritiana w (14021-0241.60) males. The resulting F1 hybrid females were then backcrossed to D. mauritiana w (14021-0241.60) males to create a population of hybrid backcross females. These females were tested for behavioral isolation from D. sechellia wild-type (14021-0248.21) males using the assay described above.
+Using relevant markers and the backcross female mapping population, I created linkage maps of each major chromosome (X, 2, 3) using JoinMap 4.0 (van Ooijen 2006). Sets of markers that met the most stringent logarithm (base 10) of odds (LOD) threshold value of 10 were used to create linkage groups and JoinMap’s maximum likelihood approach was then used to generate linkage maps. The order of all marker loci in all linkage maps matches known physical locations based on the published D. sechellia genome (Consortium 2007).
+Using composite interval mapping (CIM; Zeng 1994), I mapped QTL involved in behavioral isolation with Windows QTL Cartographer version 2.5 (Wang et al. 2010). I used standard CIM settings for a forward–backward regression method including 2 cM intervals between tests and a window size of 10 cM. Minor changes to these parameter values had no effect on results. Permutation of the data (N = 1000 permutations) was used to determine the significance threshold with a 5% experiment-wise Type I error rate.
+TEST FOR EPISTASIS
+To test for epistasis among identified QTL, I used a standard statistical test for interactions with binary traits, a log linear model in PROC CATMOD of SAS v9.2 (SAS Institute, Cary, NY, see Moehring et al. 2004 as an example).
+GENETIC MARKERS
+In the QTL analysis, I used 43 genetic markers distributed over the four Drosophila chromosomes (Table S1). This included one visible marker and 42 microsatellite markers. Sixteen markers reside on the X chromosome, 13 on the second chromosome, 13 on the third chromosome, and one on the small nonrecombining fourth chromosome.
+Eight of the microsatellite markers were previously identified (Masly and Presgraves 2007) and I designed the remaining 34 microsatellite markers using the D. sechellia genome sequence
+GENETICS OF BEHAVIORAL ISOLATION
+ EVOLUTION 2012 3
+    
+   DANIEL R. MCNABNEY
+Table 1. Behavioral isolation between D. mauritiana and D. sechellia.
+INTROGRESSION LINE SCREEN
+To search for chromosomal regions that might harbor large-effect genes causing behavioral isolation between D. mauritiana females and D. sechellia males, I screened a collection of introgression lines between these species. If an introgressed region plays a role in behavioral isolation, insemination rates between females from that line (which is homozygous for D. mauritiana material in that region) and D. sechellia males should be reduced relative to control crosses between D. sechellia females and D. sechellia males. I tested 13 X-linked introgression lines and 37 autosomal introgression lines. None of the lines showed a significant reduction in insemination rate (Table 2). In particular, no line showed insemination rates below 70%, and only three lines showed insemination rates below 75% (corresponding to a region on 2L and a region on 3L).
+Although this rough screen could only detect major-effect QTL, it appears that no such genes reside in chromosomal locations included in the existing set of hybrid introgression lines.
+QTL ANALYSIS
+I therefore turned to a QTL backcross mapping approach. To create a mapping population, I crossed D. sechellia females to D. mauritiana males. Because the D. sechellia trait is dominant, I backcrossed the resulting F1 females to D. mauritiana males. This yielded a backcross female mapping population with two possible genotypes at a given locus: D. mauritiana homozygotes and D. mauritiana/D. sechellia heterozygotes. I screened 3569 backcross females, 12% of whom mated with D. sechellia males. Given this low insemination frequency and given that isolation was scored as a binary trait (mated vs. unmated), I increased statistical power to identify QTL by selective genotyping; in particular, I genotyped a nearly equal ratio of inseminated and uninseminated females (e.g., Xu and Atchley 1996; Moen et al. 2009). This approach yielded a backcross mapping population of 432 inseminated females and 430 uninseminated females, for a total mapping population of 862 backcross females.
+It is clear that much of the genome has little or no effect on behavioral isolation (Fig. 1). The X chromosome, however, has a large effect on isolation. Figure 1 shows a single, highly significant QTL on the X chromosome. Four autosomal peaks that neared significance were also detected, one on chromosome arm 2L, one on chromosome arm 3L, and two on chromosome arm 3R (Fig. 1). Using a single marker on the fourth chromosome, no effect was found (F = 1.19, P = 0.276).
+Although I initially genotyped only six markers on the X chromosome, I increased marker density to 16 markers to better resolve the location of the X-linked QTL. The QTL, hereafter referred to as behavioral isolator on the X (bix), resides near the center of the X chromosome, between cytological bands 9 and 13. This region corresponds to approximately 24.2 cM and includes
+ Female
+sech
+maur w
+maur (Synthetic) maur w
+maur (Synthetic) F1 (sech X maur w)
+Male
+sech
+maur w
+maur (Synthetic) sech
+sech
+sech
+% Inseminated N 92 214
+  86
+96 130 1 220 2 211 73 204
+216
+   Stocks used: D. sechellia (14021-0248.21), D. mauritiana w (14021-0241.60), D. mauritiana (Synthetic).
+maur = D. mauritiana; sech = D. sechellia.
+(Consortium 2007) and the software Tandem Repeats Finder (Benson 1999). I designed primers for each potential microsatellite marker using the software Primer3 (Rozen 2000). Each primer contains an incorporated 5′ fluorescent label used for genotyping the resulting polymerase chain reaction fragments on an ABI 3700 automated capillary sequencer (Applied Biosystems, Foster City, CA) at the Functional Genomics Center at the University of Rochester. Genotypes were assigned automatically using GeneMapper (Applied Biosystems) and verified by eye.
+Results
+CONFIRMATION OF BEHAVIORAL ISOLATION
+As expected, conspecific pairs of both D. mauritiana and D. sechellia mate at a high frequency under assay conditions (Table 1, lines 1, 2, and 3). Also as expected, D. mauritiana females and D. sechellia males mate at a significantly lower rate compared to either conspecific test (Table 1, for example: lines 1 vs.4;χ2 =359,P≤0.0001;lines1vs.5;χ2 =341,P≤0.0001). Visual observations confirm that D. sechellia males do not readily court D. mauritiana females (not shown). The presence vs. absence of white in females does not affect mating frequency between D. mauritiana females and D. sechellia males (Table 1, lines 4 vs. 5; χ2 = 0.21, P = 0.65).
+To determine the genetic dominance of behavioral isolation, I tested F1 females produced by crossing D. sechellia females to D. mauritiana males for behavioral isolation from D. sechellia males. Drosophila sechellia males mate with F1 females at a high frequency, nearing, although not equal to, that of pure D. sechellia females (Table 1, line 6). Thus, behavioral isolation is mostly recessive with a dominance coefficient of h = 0.21 (ranges from 0 to 1, with 1 meaning complete dominance, Falconer and MacKay 1996). Put conversely, females that carry only one dose of the D. sechellia genome are mated by D. sechellia males at frequencies that are nearly comparable to that of wild-type D. sechellia females.
+ 4 EVOLUTION 2012
+    
+   Table 2.
+Name
+Neneh2(A)
+Neneh2(B) 2U1(C) L1C(A) L1C(B) 4R1(B) Becky1(B)
+2 × 2-G30 401(A) 3G1(A) 4J1(A) Pandora1(A) 3L1(A) 2Z1(A) 4G5(A) 4G5(B) 464C(A) 3Q1(A) 3Q1(B) G2(A) G2(B) V1(A) Rylah1(B) Rylah1(C) 2H1(A) 2J1(A) 2J1(B) 4×1(B) Bart1(B) 2Q2(B) Dee1(A) Dee1(B) 2H3(B) 4N2(B) Emma1(A) D1(B) E4(A) Ernie1(A) 2U2(B) 4Z3(A) 4I3(B) 3J1(B) Q1(A) 2K3(A) 2K3(B) YAR1(A) YAR1(B) 2M1(A) I1(A)
+I1(B)
+arm position
+X 01EF
+X 01EF
+X 03
+X 03A
+X 03A
+X 04B
+X 04B
+X 06EF
+X 07A
+X 07CD
+X 09A
+X 13B
+X 18DE
+2L 33EF
+2L 33F-34A 2L 33F-34A 2L 34DE
+2L 35EF-36A 2L 35EF-36A 2L 35F
+2L 35F
+2R 42B
+2R 44D
+2R 44D
+2R 45DE 2R 45DE 2R 45DE 2R 47A
+2R 47F-48A 2R 50CD 2R 57A
+2R 57A
+3L 63C
+3L 65A
+3L 65CD 3L 66D
+3L 67BC 3L 67F-68A 3L 71A
+3L 71F-72A 3L 75C
+3L 78CD 3L 79F
+3R 82A 3R 82A 3R 86AB 3R 86AB 3R 96E 3R 99D 3R 99D
+Inseminated N 96 25
+100         22
+88          24
+76          21
+85          20
+80          20
+81          21
+89          27
+91          23
+96          23
+93          27
+79          19
+81          21
+71          28
+83          18
+71          72
+89          19
+81          21
+84          25
+100         20
+100         21
+83          59
+85          20
+79          19
+76          21
+92          25
+83          24
+80          20
+100         20
+85          20
+75          20
+86          22
+77          57
+85          20
+81          21
+100         19
+95          22
+100         20
+95          20
+100         20
+95          21
+85          20
+72          102
+75          65
+76          21
+100         21
+92          26
+85          20
+88          26
+95          19
+Introgression line screen.
+Chromosome Cytological %
+shown in Figure 1, bix is highly significant with a peak likelihood ratio score of LR = 147. It is worth noting that the bix region was not included in the existing collection of hybrid introgression lines analyzed earlier (the two closest lines, 4J1(A) and Pandora1(A), have breakpoints outside of the relevant region).
+Comparing the frequency with which hybrid females that are homozygous vs. heterozygous at the marker under the highest point of the bix peak (microsatellite marker 131) mate with D. sechellia males (26% vs. 65%, respectively), bix has a ∼40% effect on insemination frequency. (Given that these data derive from a mapping population with selective genotyping, a marker could have shown complete association with isolation: 0% of marker homozygotes and 100% of marker heterozygotes could have been inseminated, yielding an overall frequency of ∼50% insemination among genotyped backcross females). Marker 131 thus shows ∼40% of the maximum effect that could have been detected in the experiment. This is equivalent to a 10.9 standard deviation effect on behavioral isolation (Moehring et al. 2004). Adjusting for selective genotyping by taking into account the true backcross female insemination rate, I estimate that bix has a ∼4.1 standard deviation effect on behavioral isolation.
+As the hybrid backcross population segregated for white, I also used CIM to analyze my dataset separately within each phenotypic class (wild-type females only or white-eyed females only). In all cases, I obtained the same result: a single significant X-linked QTL at the same approximate position, with no significant autosomal QTL.
+WITHOUT SELECTIVE GENOTYPING
+Although selective genotyping improves statistical power to detect QTL when affected (e.g., inseminated) individuals are rare, it can, in principle, bias linkage maps and QTL findings (Lin and Ritland 1996; Manichaikul and Broman 2009). Although these problems sometimes arise when multiple QTL are linked—and I observed only a single significant QTL—I nonetheless tested whether localization of bix was biased by selective genotyping. In particular, I randomly sampled genotyped backcross individuals in such a way to yield a reduced mapping population that shows the true frequency of inseminated backcross females (12%): in particular, I analyzed 59 inseminated and 430 uninseminated backcross females. I then re-performed X chromosome linkage map construction and X chromosome CIM using this reduced dataset. Given the rarity of inseminated females, I have far less statistical power in this reduced analysis. Nonetheless, I can at least ask if the mapping results at bix change qualitatively.
+They do not. The new X chromosomal linkage map is nearly identical to that from the previous analysis (Fig. S1) and CIM yields essentially the same bix peak in both the original and reduced datasets (Fig. S2). Although the peak from the reduced dataset does not reach significance (as expected given the
+GENETICS OF BEHAVIORAL ISOLATION
+                            Introgression line females were tested with D. sechellia (140210248.21) males for 24 h. Further tests were performed if the insemination rate of the introgression line females fell below 75%.
+roughly 4 Mb of DNA (∼2% of the genome) (Consortium 2007). The two-LOD support interval includes 11.3 cM of this peak. Extrapolating from the homologous region from D. melanogaster, I estimate that ∼120 genes reside in the two-LOD support interval for bix (Tweedie et al. 2009). As expected from the dramatic peak
+ EVOLUTION 2012 5
+    
+   DANIEL R. MCNABNEY
+ LRO
+88.8
+59.2
+49.5
+29.6
+0.0
+148
+118
+4 Mb
+X chromosome Chromosome 2 Chromosome 3
+ 131 102 188
+2016 cM 0000
+ Figure 1. QTL mapping of behavioral isolation between hybrid backcross females and D. sechellia males identified by composite interval mapping. Markers are indicated by white triangles on the x-axis. The marker associated with the highest point of the QTL peak, marker 131, is highlighted. The significance threshold at LR = 49.5 was determined by permutation (N = 1000) of the data. The two-LOD support interval is shown as a black bar beneath the QTL on the X chromosome.
+rarity of affected individuals), it again centers over microsatellite marker 131 and has the same approximate boundaries. Selective genotyping did not, therefore, distort the mapping of bix.
+TEST FOR EPISTASIS
+I tested for pairwise interactions among significant and nearsignificant QTL (see Materials and Methods for procedure). Although tests for epistasis that involve markers having nonsignificant main effects are obviously unorthodox (and statistically somewhat dubious), the above analysis leaves enough behavioral isolation unexplained that it seemed worth asking if the reason might involve strong epistasis between bix and other chromosomal regions, that is, other chromosomal regions only have an effect when on a specific genetic background. (I also tested for epistasis between all combinations of the near-significant QTL. As a negative control, I tested a microsatellite marker that showed no association with prezygotic isolation with each significant and near-significant QTL.) I found no significant pairwise interactions among any of the regions tested (results not shown).
+Discussion
+Although we have come a long way in understanding the genetic basis of postzygotic isolation (Coyne and Orr 2004; Presgraves 2010), we know far less about the genetic basis of prezygotic isolation, and especially, behavioral isolation. In this study, I analyze the genetic basis of behavioral isolation between D. mauritiana females and D. sechellia males. I obtain three main results.
+First, I confirm that behavioral isolation between D. mauritiana females and D. sechellia males is strong. Second, I show that behavioral isolation between these species is phenotypically recessive. (Put differently, the D. sechellia trait that underlies behavioral isolation is dominant in hybrid females: D. sechellia males mate with F1 females and with D. sechellia females at similar rates). The recessivity of prezygotic isolation between species of Drosophila appears to be common (Noor 2000).
+Third, behavioral isolation between D. mauritiana females and D. sechellia males involves a large-effect QTL on the X chromosome. Despite my large mapping population and many diagnostic markers, QTL mapping reveals that most regions of the genome have little or no detectable effect on prezygotic isolation (Fig. 1). Instead, a single X-linked QTL, bix, explains approximately 40% of the prezygotic isolation that could be detected in my analysis. However, as bix cannot account for the total prezygotic isolation seen between pure D. sechellia and pure D. mauritiana individuals, other genetic factors must be involved. Indeed many such factors, each of small effect, might exist, explaining why they are not readily detected in my analysis. Increased sample size and a denser marker map could help identify other small effect factors. The lack of epistasis between bix and the nonsignificant peaks suggests that epistasis alone does not explain the remaining 60% of the phenotypic variation.
+Genetic studies of behavioral isolation between members of the D. simulans group, mostly analyses of pheromonal differences, have identified relatively few genetic regions that cause behavioral isolation (Coyne 1989, 1992, 1993, 1996a,b; Coyne
+ 6 EVOLUTION 2012
+    Likelihood Ratio
+
+    and Charlesworth 1997; Moehring et al. 2004; Gleason et al. 2005). These genetic regions typically have a moderate effect on behavioral isolation, with a few regions having a large effect. Genetic analyses between members of the D. simulans group, therefore, suggest that a modest number of major-effect loci may contribute to behavioral isolation in this species group.
+Studies of the genetic architecture of behavioral isolation in other taxa have shown varied results. Hawaiian crickets (Shaw et al. 2007; Ellison et al. 2011) and Nasonia wasps (Velthuis et al. 2005) show a more complex genetic basis to behavioral isolation whereas Lepidoptera sometimes show differences at single regions that lead to behavioral isolation (Dopman et al. 2004; Kronforst et al. 2006; Gould et al. 2010). Thus far, no clear pattern that characterizes the genetic architecture of behavioral isolation across taxa has appeared.
+A few limitations of this study should be noted. First, I have performed a genetic analysis of behavioral isolation per se, not of a specific trait that underlies this isolation. But as Coyne and Charlesworth (1997) concluded that a difference in female behavior underlies prezygotic isolation between D. mauritiana females and D. sechellia males, my analysis almost certainly has identified a QTL involved in this requisite female behavior. (Although I cannot formally rule out the possibility that the QTL identified here plays a role in other aspects of courtship.)
+The behavioral trait that underlies prezygotic isolation may involve a visual cue. Mating experiments in the dark involving D. sechellia males show significantly lower insemination rates compared to mating experiments in the light (Cobb et al. 1989; Sakai et al. 1997). This suggests that D. sechellia males may respond to a visual behavior performed by D. sechellia females. Although we cannot currently identify the key courtship behavior(s), several behaviors are known to differ among species belonging to the D. simulans clade, including extrusion of the genitalia (Cobb et al. 1989): D. sechellia females extrude their genitalia, whereas D. mauritiana females do not. Also, hybrid F1 females extrude their genitalia (pers. obs.), thus showing dominance relations that mirror that of behavioral isolation per se, providing a plausible, although unproven, basis for behavioral isolation. Of course, we cannot exclude the possibility that courtship in D. sechellia involves the presentation of multiple behaviors, only some of which involve visual cues.
+Second, this study considers only the female side of behavioral isolation between D. mauritiana and D. sechellia. My results imply nothing about the genetic basis of the male side of behavioral isolation, for example, the number or location of the loci that underlie the preference of D. sechellia males for D. sechellia females.
+Historically, QTL studies have often suffered from an inability to connect QTL peaks that span considerable chromosomal regions to individual genes. Given the genetic tools available in
+the D. simulans group, fine-mapping studies appear feasible in the present case. Future work will focus on identifying the gene(s) that contribute to behavioral isolation, as well as on identifying the behavioral difference that underlies prezygotic isolation, between D. mauritiana and D. sechellia.
+ACKNOWLEDGMENTS
+I thank M. V. Cattani, J. Fry, R. Harrison, D. Lambert, C. Meiklejohn, A. Sweigart, R. Unckless for helpful discussions and/or comments. I thank D. Presgraves for fly stocks and advice. I also thank two reviewers and the editor for their helpful comments and suggestions. I especially thank H. A. Orr for guidance and support. This work was supported by National Institutes of Health grant GM51932 to H. A. Orr.
+GENETICS OF BEHAVIORAL ISOLATION
+ EVOLUTION 2012 7
+    

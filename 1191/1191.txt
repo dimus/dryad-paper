@@ -1,0 +1,229 @@
+    Molecular Ecology Resources (2012) 12, 323–332 doi: 10.1111/j.1755-0998.2011.03106.x
+Development of a 44K SNP assay focussing on the analysis of a varroa-specific defence behaviour in honey bees
+(Apis mellifera carnica)
+A. SPO ̈ TTER,* P. GUPTA,* G. NU ̈ RNBERG,† N. REINSCH† and K. BIENEFELD*
+*Institute for Bee Research Hohen Neuendorf e.V., Friedrich-Engels-Straße 32, 16540 Hohen Neuendorf, Germany, †Research Unit Genetics and Biometrics, Research Institute for the Biology of Farm Animals (FBN), Wilhelm-Stahl-Allee 2, 18196 Dummerstorf, Germany
+Abstract
+Honey bees are exposed to a number of damaging pathogens and parasites. The most destructive among them, affecting mainly the brood, is Varroa destructor. A promising approach to prevent its spread is to breed for Varroa-tolerant honey bees. A trait that has been shown to provide significant resistance against the Varroa mite is hygienic behaviour, a behavioural response of honey bee workers to brood diseases in general. This study reports the development of a 44K SNP assay, specifically designed for the analysis of hygienic behaviour of individual worker bees (Apis mellifera carnica) directed against V. destructor. Initially, 70 000 SNPs chosen from a large set of SNPs published by the Honey Bee Genome Project were validated for their suitability in the analysis of the Varroa resistance trait ‘uncapping of Varroa-infested brood’. This was achieved by genotyping of pooled DNA samples of trait bearers and two trait-negative controls using next-generation sequencing. Approximately 36 000 of these validated SNPs and another 8000 SNPs not validated in this study were selected for the construction of a SNP assay. This assay will be employed in following experiments to analyse individualized DNA samples in order to identify quantitative trait loci (QTL) involved in the control of the investigated trait and to evaluate and possibly confirm QTL found in other studies. However, this assay is not just suitable to study Varroa tolerance, it is as well applicable to analyse any other trait in honey bees. In addition, because of its high density, this assay provides access into genomic selection with respect to several traits considered in honey bee breeding. It will become publicly available via AROS Applied Biotechnology AS, Aarhus, Denmark, before the end of the year 2011.
+Keywords: honeybee,hygienicbehaviour,SNPassay,Varroadestructor Received 27 April 2011; revision received 16 August 2011; accepted 8 September 2011
+Introduction
+The reproduction of Varroa takes place in capped brood cells of honey bees, and the damage caused to colonies is mainly a consequence of the infestation of host bee pupae. In the capped brood cell, mites puncture the host’s integument in order to suck haemolymph. In doing so, they are weakening and shortening the life span of bees upon which they feed (Schneider & Drescher 1987). Moreover, several viral diseases are transmitted by Varroa destructor. Among others, levels of acute bee paralysis virus (ABPV), slow paralysis virus (SPV), black queen cell virus (BQCV), deformed wing virus (DWV), cloudy wing virus (CWV) and Kashmir bee virus (KBV) have been correlated with mite levels in colonies (Ball 1985; Allen et al. 1986; Ball & Allen 1988; Allen & Ball 1996; Correspondence: Andreas Spo ̈ tter, Fax:+49-(0)-3303-293840; E-mail: andreas.spoetter@rz.hu-berlin.de
+Martin 1998; Nordstro ̈m et al. 1999; Bakonyi et al. 2002; Chen et al. 2004). Consequently, Varroa poses a serious concern and threat to the Apis mellifera beekeeping industry. In fact, infestation of colonies by Varroa is the most serious problem for beekeeping worldwide.
+Different strategies are employed to fight Varroa. The first is to keep the mite population within certain boundaries with the help of acaricides. However, their efficiency depends strongly on weather conditions and the time of application; residues of these substances are later found in bee products, and furthermore, mites are developing resistance against them (Milani 1999). Additional disadvantages connected with these chemical treatments are high costs and labour. The second strategy is to breed honey bees that show a higher degree of tolerance against Varroa compared to the currently existing lines.
+An important factor in these efforts is the hygienic behaviour of honey bees. Hygienic behaviour is defined
+Ó 2011 Blackwell Publishing Ltd
+
+324 A. SPO ̈ TTER ET AL.
+as the ability of honey bee workers to detect and remove pupae infected with brood diseases before the causative organism reaches the infectious stage, thus limiting the spread of infection. There is evidence that the stimulus for hygienic behaviour against V. destructor is possibly based on odours originating from infected hosts (Spivak et al. 2003, Martin et al. 2002; Navajas et al. 2008).
+It has long been known that hygienic behaviour confers resistance against American Foulbrood (Woodrow & Holst 1942) and chalkbrood (Gilliam et al. 1983). More recently, it has also been demonstrated that hygienic bees detect and remove brood infested with V. destructor (Boecking & Drescher 1992; Spivak 1996). The achieved effect is an interruption of the reproductive cycle of the mite (Rath & Drescher 1990; Fries et al. 1994).
+The heritability of hygienic behaviour was estimated approximately 0.2 by Boecking et al. (2000) and approximately 0.6 by Harbo & Harris (1999) and Lapidge et al. (2002). The estimation of heritabilities in honey bees is methodically difficult because of their reproductive peculiarities (polyandry, haploid drones) (Bienefeld & Pirchner 1990). Despite the different results of the three studies, they show that the trait is heritable to some degree and suggest that there is some potential to propagate the expression of this trait by selective breeding of bees.
+Unfortunately, conventional breeding methods are not suitable to reach this aim because the behaviour is observable only in workers (only queens are fertile), occurs in a very low frequency and is difficult to measure. A promising way to address this problem is to take advantage of the honey bee genome sequence (Honeybee Genome Sequencing Consortium 2006) in connection with molecular genetic methods. The strategy of choice is to genotype a high number of genetic markers and apply them in linkage studies to identify quantitative trait loci (QTL) for hygienic behaviour and ultimately the causative genes. First steps were already taken in the molecular genetic unravelling of hygienic behaviour. However, to date, no study employing a large-scale SNP assay was accomplished.
+In his now classic study of behavioural genetics, Rothenbuhler (1964) proposed that the two components of hygienic behaviour, uncapping and removal, are under separate genetic control, each component controlled by a single unlinked Mendelian locus. This two-locus model is, however, presumably an oversimplification. Moritz (1988) re-evaluated Rothenbuhler’s data and found it to be more suggestive of three loci than of two, whereas Lapidge et al. (2002) proposed a quantitative pattern of inheritance for the trait, involving seven loci. Recently, Oxley et al. (2010) identified six QTL. A comparison between the two last-mentioned studies is not possible because different genetic maps
+were used. Nonetheless, all authors agree that there is a strong genetic component involved in the control of hygienic behaviour and that variation in this trait is controlled by a small number of loci influencing possibly a bee’s sensitivity to the stimulus and setting a certain threshold for every worker when to engage in hygienic behaviour. The genetic predisposition for a heightened detection of abnormal brood odours may, therefore, facilitate the expression of hygienic behaviour in a colony (Spivak et al. 2003). Consequently, and even though hygienic behaviour can also be influenced to some extent by environmental factors (Thompson 1964; Momot & Rothenbuhler 1971), the elucidation of gene variants controlling this behaviour and its propagation by breeding techniques seems to be a promising approach in the fight against V. destructor.
+In this study, we describe the validation of a large set of SNPs for A. mellifera carnica. This set was taken from a list (file: ‘amel_v3_asm_snps.dbsnps.gz’ accessible under the URL: www.hgsc.bcm.tmc.edu/ftp-archive/ Amellifera/snp/) published by the Honey Bee Genome Project (www.hgsc.bcm.tmc.edu/project-species-i-Apis mellifera.hgsc?pageLocation=Apis mellifera). Furthermore, we demonstrate the utilization of these SNPs for the development of a 44K SNP assay for the honey bee, with a special focus on its suitability for analysing the varroa resistance trait ‘uncapping of Varroa-infested brood’ but also applicable to study any other trait. Information concerning the SNPs used for this assay was deposited in the Dryad repository (DRYAD entry doi: 10.5061/dryad.8635cs4h).
+The goal of this article is to introduce a method of how best to identify and verify SNPs to address a specific applied objective. Moreover, we would like to announce that the designed assay will become commercially available to the public, presumably before the end of the year 2011. It will be obtainable through AROS Applied Biotechnology AS, Aarhus, Denmark.
+Materials and methods
+Selection of SNPs to test for their suitability as markers for hygienic behaviour in association studies and capture microarray design
+In this study, about 70 000 SNPs were analysed for their suitability as genetic markers in future association studies. As source for SNP position selection and array design, SNP regions identified and published within the scope of the Honey Bee Genome Project were taken from a file listing over one million SNPs (file: ‘amel_v3_asm_snps.dbsnps.gz’ accessible under the URL: www.hgsc.bcm.tmc.edu/ftp-archive/Amellifera/ snp/).
+Ó 2011 Blackwell Publishing Ltd
+
+In this file, each SNP is represented by a central SNP position, flanked by 250 bp of genomic sequence on each side. Only those SNPs assigned to physical linkage groups (synonymic to the 16 honey bee chromosomes) were further considered, and a repeat masking filter was applied, to avoid design of oligos with ambiguous genomic localization further downstream. The relatively low GC content of the bee genome (34%) posed a particular challenge to effective oligo design, however.
+From the remaining SNP region set, 77 565 regions with an as even distribution as possible over the 16 linkage groups were selected. Approximately 75% of the genome was covered with a wider average distance of nearly 4 kb between SNP locations, whereas 25% had a denser spacing of nearly 2 kb (Table 1). Denser spacing was chosen for nine genomic regions because a preliminary study based on 245 microsatellite loci (M. Brink, M. Solignac, K. Bienefeld, unpublished data) identified QTL for the trait ‘removal of Varroa-infested brood’ in these regions.
+Table 1 Distribution of the selected 70 000 SNPs over the genome of the honey bee
+Using a proprietary algorithm, approximately 12 60mer oligos were designed per SNP region, some spanning the SNP position, others flanking the SNP position either on the one or the other side. Those oligos covering the position were represented in both annotated allelic SNP versions. The designed oligos were submitted for the production of Agilent 1 Million feature microarrays according to standard Agilent methods. The final, discontinuous target region had a size of approximately 15 567 MBp, corresponding to about 6.6% of the total bee genomic sequence (approximately 236 MBp).
+Defence behaviour bioassays and phenotyping
+For one run of the defence behaviour bioassay, 2000 worker bees were marked individually after hatching and transferred to one caged experimental comb (Thakur et al. 1997). These combs were derived from unrelated and undiseased virtually Varroa-free colonies. The observation area of each of these combs consisted of 169 brood cells (approximately 10 · 10 cm). Of these cells, 45 were artificially infested with one Varroa mite by cutting a slot in the cap, inserting the mite with the help of a small paint brush, and resealing the cell. Seven cells were empty, 75 cells were left untreated (normal controls), and 43 cells were opened and resealed without inserting a mite (controls for the effect of cap manipulation).
+The caged experimental combs were integrated into the hive of a helper colony in order to provide the experimental bees with sufficient warmth and an environment as natural as possible in these experiments that were carried out in 14 runs over the years 2005 (five runs), 2007 (seven runs) and 2008 (two runs). In front of the comb, an infrared camera was installed and the actions on the observation area of the comb were recorded for 7 days. The infrared camera enabled the execution of the experiments in the absence of visible light, thus providing the bees with conditions as natural as possible in order not to disturb them during observations. The recordings were inspected by two independent persons and scanned for hygienic behaviour. Bees that started to open a cell were designated as ‘beginner’ and bees that expanded an existing hole were designated as ‘helper’.
+Animals
+The honey bees (A. m. carnica) used in this experiment
+were analysed for hygienic behaviour against V. destructor in the years 2005, 2007 and 2008 using the defence behaviour bioassay described above. To compensate for age effects on ‘uncapping of Varroa-infested brood’, freshly emerged worker bees (0–12 h old) were individually labelled and used for the defence behaviour bioassays at the age of 4 days. The first 4 days the bees of the
+1 1-3039230 785
+3039231-8453574 (QTL)* 8453575-9418716 9418717-16819942 (QTL)* 16819943-29934090
+2 1-12503099 (QTL)* 12503100-16072177
+3 1-13621520
+4 1-12256690
+5 1-14500692
+6 1-11206827
+11206828-17739083 (QTL)*
+7 1-9515997
+9515998-12848973 (QTL)*
+8 1-13189223
+9 1-11082907
+10 1-12642577
+11 1-14521977
+12 1-4003353 (QTL)*
+4003354-11309010
+13 1-5247544
+5247545-10266737 (QTL)*
+14 1-9976661
+15 1-6643609 (QTL)* 6643610-10159687
+16 1-3196392 3196393-6242592 (QTL)*
+6242593-7072872 Total
+2796 250 3821 3387 6456 922 3518 3165 3743 2894 3373 2457 1721 3406 2862 3265 3750 2067 1887 1355 2592 2576 3431 908 825 1573 215 70 000 SNPs
+SNP ASSAY FOR VARROA TOLERANCE IN HONEY BEES 325
+ Linkage
+group Region of linkage group (chromosome) (bp)
+No. of SNPs in region
+  *Putative quantitative trait loci (QTL) identified in a preliminary study (not published).
+Ó 2011 Blackwell Publishing Ltd
+
+326 A. SPO ̈ TTER ET AL.
+same run were allowed to get used to each other. They were kept together in a caged comb that was integrated into a colony in order to provide warmth and a natural environment. After this time, the bees show a calm and normal behaviour when inspected with the help of an infrared camera.
+Most of the colonies (approximately 80%) used as sources for experimental animals belonged to a line selected for Varroa tolerance since 1997 in the Institute for Bee Research Hohen Neuendorf, Germany. The other colonies were obtained from breeders distributed over the whole of Germany. These colonies were also bred for Varroa tolerance based on accordant breeding values (http:// www2.hu-berlin.de/bienenkunde/ZWS/). Whatsoever, success of these conventional breeding efforts, based on phenotypic records alone, was limited so far.
+Pool design
+From this population of about 28 000 tested bees, the 50 top performing individuals were selected for the trait bearer DNA pool A. These bees were the best 50 regarding the number of their uncapping actions directed against Varroa-infested cells. They started at least one uncapping of a Varroa-infested cell and helped in at least one other uncapping event. Furthermore, the number of their uncapping and helping actions directed against Varroa-infested cells was at least twice as high as their actions directed against control cells.
+Two control DNA pools, B and C, were employed. For the control DNA pool B, for every bee from pool A, a worker was selected that descended from the same queen, but never showed hygienic behaviour. This design was chosen in order to counterbalance differences between the pools A and B, which are only because of population stratification. Consequently, by a comparison of these pools, only differences in hygienic behaviour but not in other traits should be identified.
+The second control DNA pool, C, consisted of worker bees from completely unhygienic colonies, from which not a single bee had ever displayed hygienic behaviour during our experiments. This pool was analysed to find also causative genes that have a low degree of penetrance. In such a case, most likely, no significant differences between pools A an B would be identified. However, by a comparison of pool A with pool C, this could be different because pool C consisted of individuals stemming from colonies in which the investigated trait was never observed. A reason for this lack of hygienic behaviour could be that the causative alleles may not segregate in these colonies. Thus, different allele frequencies between A and C are expected. Moreover, the individuals used to assemble pool C were derived from all over Germany. So, as an additional result, the analysis of
+pool C should yield valuable information about allele distributions and degree of polymorphism of the A. m. carnica populations relevant in Germany. The consideration of this information during assay design ensures an improved usefulness of the SNP chip for the subspecies A. m. carnica as compared to the consideration of information from pool A and B alone.
+DNA extraction and pool preparation
+The NucleoSpin Tissue kit (Macherey-Nagel, Du ̈ ren, Germany) was used to extract DNA from honey bee heads and thoraces stored in ethanol (96%).
+Purity and concentration of the DNA samples were inspected on 0.8% agarose gels and measured photometrically at an optical density of 260 ⁄ 280 using a NanoDrop 2000 (NanoDrop products, Wilmington, DE, USA). DNA samples were only used if OD260⁄280 was between 1.7 and 2.1 and the degree of DNA degradation was small.
+Prior to DNA pool assembly, working solutions from all DNA samples (20 ng ⁄ lL) were produced. Sample concentrations were controlled again using a NanoDrop 2000 and adjusted if necessary. From each DNA sample, 400 ng (20 lL) was used to assemble the pools. Each of the three pools consisted of 50 individual DNAs. Consequently, each pool contained 20 lg DNA in a volume of 1000 lL.
+Sequencing library preparation and sequence capture
+Each DNA pool was subjected separately to a standard illumina sequencing library preparation, with the only difference that a different, self-assembled single-read adaptor was used for each library. Each adaptor contained a different 4-bp barcode tag at the end, ligating to genomic fragments, allowing multiplexing of samples in the same flow cell channels later on during sequencing, and enabling the tracing back of individual reads to the three DNA pools by a sorting based on the first four base calls.
+After adapter ligation and a gel fractionation of fragments with a size range between 150 and 250 bp, the material was amplified to yield about 5 lg of DNA, respectively. Amplification was carried out with limited cycle numbers and in multiple reactions to avoid the risk of biases in fragment representation.
+This material was hybridized, individually for each sample, to the customized 1 million feature Agilent array representing honey bee SNP positions, following the protocol of Hodges et al. (2009) with slight adaptations. After washing and elution of captured DNA, it was amplified carefully again, just to obtain sufficient material for subsequent illumina sequencing.
+After quantitation, DNA from the three capture libraries was mixed at equimolar concentrations to establish a template for illumina sequencing.
+Ó 2011 Blackwell Publishing Ltd
+
+Illumina sequencing and read mapping
+SNP ASSAY FOR VARROA TOLERANCE IN HONEY BEES 327 v2 1⁄4 ða 􏰇 d 􏰀 b 􏰇 cÞ2n
+ The pooled, barcoded sequencing libraries were loaded onto a full illumina flow cell channel, and then singleend-sequenced with 72-bp reads on a Genome Analyzer GA-IIx, using Chrysalis 36 cycles v4.0 chemistry and the RTA SCS.2.6 ⁄ CASAVA 1.6 data analysis pipeline.
+Data analysis
+To be taken into consideration for the statistical analysis, the SNP data had to fulfil two criteria. First, SNPs had to be biallelic. For SNPs with three or four alleles, the two alleles with the highest frequencies were treated as real alleles if they corresponded with the reference alleles from the SNP list (www.hgsc.bcm.tmc.edu/ftp-archive/ Amellifera/snp/). In such a case, the two alleles with the minor frequencies were treated as sequencing errors and discarded. Second, the number of analysed sequences per SNP (coverage depth) had to be at least 15-fold. Although, a 20-fold SNP coverage depth is an established criterion for reliable base-calling (Bentley et al. 2008; Wang et al. 2008), Bentley et al. found that reducing the depth to 15-fold still gives 97% coverage of genotype positions and only 1.27% of heterozygous sites are undercalled. The lower coverage depth of 15-fold was employed in this study to assure consideration of the highest possible number of validated SNPs for the assay to be developed without compromising quality.
+Chi-square tests
+For identifying SNPs potentially associated with the trait ‘uncapping of Varroa-infested brood’, the allele frequencies of SNPs between pools A and B and pools A and C were tested SNP by SNP for significant differences of allele frequencies between pools by employing Pearson’s chi-square test for the comparison of dichotomic data in two independent samples.
+For each SNP, the null hypothesis of equal allele frequencies in two compared pools was H0: p1 ) p2 = 0, where p1 and p2 are the allele frequencies in both pools. It was tested against the two-sided alternative of a nonzero difference. The underlying contingency table for each test is as follows:
+ða þ cÞðb þ dÞða þ bÞðc þ dÞ
+together with the associated P-values. To account for multiple testing, the proportion of falsely rejected null hypotheses pFDR (Storey 2002) was calculated separately for all comparisons between pools A and B as well as pools A and C; up to a pFDR of 0.05 SNPs were reported as differing significantly in their frequency between pools. The latter calculations were made with the help of the MULTTEST procedure of the SAS statistical software package (SAS 2003, 9.1; Inst., Inc., Cary, NC, USA).
+Selection of additional SNPs for the 44K SNP assay not validated for their suitability as markers for hygienic behaviour
+In this study, additional SNPs not validated for their suitability as markers for hygienic behaviour were used for the design of the 44K SNP assay. These were integrated in a way to generate an even distribution across the genome of the total quantity of SNPs considered for the assay. As source for position selection and array design, again the list published by the Honey Bee Genome Project was used. In addition, for the validated SNPs, only those SNPs assigned to physical linkage groups were considered, and a repeat masking filter was applied, to avoid design of oligos with ambiguous genomic localization further downstream.
+Results
+Sequencing
+A total of 94 884 156 reads (6 831 659 232 bp) were obtained, from which approximately 36% were assigned to pool A, approximately 34% to pool B and approximately 30% to pool C.
+After mapping reads back to the target regions in the bee genome, we found approximately 25% to be ‘on target’, corresponding to an enrichment factor of about 4–5·. When looking at the distribution of coverage for the individual SNP regions, 52% of positions to be covered were found to be between 20· and 500·; 36% had a coverage between 1· and 19·, while 12% were covered by no reads. When systematically analysing the GC content of regions with high coverage in comparison with those of bad coverage, a clear trend was observed—with decreasing GC content, the mean coverage goes down. Obviously, capture efficiency is strongly dependent on the GC content of the target region, and the low values for the bee genome contribute to results that are not as optimal as seen, for example, for human or mouse genomes.
+  Sample A Sample B
+Sum of columns
+Allele 1
+a
+c
+a + c
+Allele 2
+b
+d
+b + d
+Sum of lines a + b
+c + d n
+ Thereof, a chi-squared test statistics with a single degree of freedom was calculated as
+Ó 2011 Blackwell Publishing Ltd
+
+328 A. SPO ̈ TTER ET AL. SNP genotyping
+The number of polymorphic SNPs with a coverage of 15 or greater is 36 212 genome-wide. The distribution of polymorphic SNPs over the 16 honey bee chromosomes is shown in Table 2.
+A relation to the investigated trait is exhibited by the significant SNPs in Tables 2 and 3. The number of SNPs whose allele frequencies between DNA pools A and B deviate significantly (pFDR < 0.05) is 1929 genome-wide. Between DNA pools A and C, this number is 7778.
+The number of SNPs with significant (pFDR < 0.05) allele frequency deviations between pools A and B as well as pools A and C is 813 genome-wide (Table 3).
+The distribution of these SNPs over the 16 honey bee chromosomes is displayed graphically in Figs S1–S16 (Supporting information), in order to visualize clusterings in certain genomic regions. Such clusterings would serve as evidence for the involvement of the respective region in the control of the investigated trait as long as it is not because of an unbalanced marker distribution in the experimental design. An unbalanced distribution of SNPs analysed in this experiment exists in regions for which putative QTL regions were identified (Table 1) in a preliminary study (data not published). In these regions, the marker density was chosen twice as high (one SNP per 1936 bp) as in the rest of the genome (one
+Table 2 Number of identified polymorphic and significant (pFDR < 0.05) SNPs per chromosome and genome-wide
+Table 3 Number of identified SNPs that are significant (pFDR < 0.05) between pools A and B as well as pools A and C per chromosome and genome-wide. Display of their overall
+number and their fraction with rectified same allele
+Number of significant (pFDR < 0.05) SNPs between pools A and B as well as pools
+Chromosome A and C.
+1 132 2 99 3 36 4 62 5 39 6 55 7 26 8 17 9 31 10 86 11 42 12 52 13 55 14 26 15 33 16 22 Overall 813
+effects relying on the
+Number of significant (pFDR < 0.05) SNPs between pools A and BaswellaspoolsA and C, with effects of the same direction.
+91 83 33 48 31 49 20 13 25 69 38 39 46 24 29 17
+655
+    Number of polymorphic SNPs with a coverage of
+Chromosome 15 or greater
+1 5565
+2 4242
+3 2029
+4 2093
+5 2195
+6 2505
+7 1469
+8 1606
+9 1697
+10 2133
+11 1944
+12 2117
+13 2148
+14 1485
+15 1844
+16 1140
+Overall 36212
+Number of significant SNPs (pFDR < 0.05) from comparisons of A and B pools.
+317 221 92 137 114 122 68 50 70 194 96 112 124 79 77 56 1929
+Number of significant SNPs (pFDR < 0.05) from comparisons ofAandC pools.
+1224 936 461 488 450 519 302 267 372 521 408 431 446 321 421 211 7778
+SNP per 3872 bp). However, these putative QTL regions span large regions of the respective chromosomes. An accumulation owing to a higher marker density in these regions can easily be distinguished from narrower defined marker clusters, which are maybe due to possible causative genes. Indeed, such clusters are discernible over the genome more or less obvious. Partially, they are located within the putative QTL regions mentioned above (Table S1, Supporting information). Quite striking are, for example, regions on chromosome 1 at 20.5 Mio. bp (Figure S1B, Supporting information) and on chromosome 4 at 2 Mio. bp (Figure S4, Supporting information).
+A further evidence for an association between a marker and the analysed trait would be that the effect between pools A and B as well as pools A and C tends in the same direction. That means the allele with the higher frequency and the allele with the lower frequency are the same between pools B and C. Genome-wide, 655 such markers were identified (Table 3).
+The distribution of pFDR-values (Figs 1 and 2) in pFDR-value classes (from <0.05 to <1.00 in 0.05 steps) is not even as would be expected for a random distribution. In fact, it is at least twice as high for pFDR-values below 0.05 compared to any other class between DNA pools A and B. Between pools A and C, the difference is at least
+  Ó 2011 Blackwell Publishing Ltd
+
+ 6000 5000 4000 3000 2000 1000
+0
+Number of SNPs per pFDR-value class for the comparison of DNA pools A and B.
+10 000 9000 8000 7000 6000 5000 4000 3000 2000 1000 0
+pools
+Fig. 1
+Number of SNPs per pFDR-value class for the comparison of DNA pools A and C.
+threefold. This indicates the existence of real effects in the investigated sample.
+SNP assay development
+Overall, 44 000 SNPs were considered for the assay construction. Of this set, 36 000 SNPs have been validated and were found to be polymorphic in our tested populations. After false discovery rate testing, of these 36 000 SNPs, 813 SNPs were significant between pools A and B as well as pools A and C, while 1116 SNPs were only significant between pools A and B and 6965 SNPs were only significant between pools A and C (pFDR < 0.05). These three subsets can be tested independently or together. Such an independent analysis is also possible for other subsets like for the 655 SNPs that show an effect between poolsAandBaswellaspoolsAandCthattendsinthe same direction.
+Eight thousand SNPs were selected from the SNP list (file: ‘amel_v3_asm_snps.dbsnps.gz’ accessible under the URL: www.hgsc.bcm.tmc.edu/ftp-archive/Amellifera/ snp/) published by the Honey Bee Genome Project without prior validation. They were chosen with the objective
+to achieve an equidistant spacing between all SNPs considered for this assay.
+The statistical analyses conducted (chi-squared test, FDR-test) yielded SNPs for the design of an assay specifically designed to study Varroa tolerance in honey bees but not restricted to that trait. As a by-product, they also allow a preliminary estimation of the number of genomic regions involved in the regulation of the investigated trait (Table 4). At a pFDR < 0.05, 1929 SNPs are significant for the comparison between DNA pools A and B. At a pFDR < 10)9, seven of these SNPs are still significant. For the comparison between DNA pools A and C, the number of SNPs at pFDR < 0.05 and pFDR < 10)9 are 7778 and 120, respectively. The number of SNPs significant between pools A and B as well as pools A and C is 813 (pFDR < 0.05) and 1 (pFDR < 10)9), respectively.
+Discussion
+In contrast to chalkbrood and American Foulbrood, a large part of Varroa-infested brood survives. It seems obvious to speculate that Varroa infestation provides a smaller stimulus for hygienic behaviour than other brood diseases where brood is literally rotting. That means, the stimulus threshold of reaction to the odours of Varroainfested brood needs to be lower compared to other brood diseases. Consequently, the specific Varroa defence behaviour bioassay employed in this study should be better suited to investigate hygienic behaviour against Varroa than the freeze-killed brood assay (Spivak 1996; Spivak & Reuter 1998) or the pin-killed brood assay (Spivak & Downey 1998; Morais et al. 2009) used in other investigations of hygienic behaviour in honey bees as a defence mechanism against brood diseases.
+To our knowledge, this is the first time in honey bees that next-generation sequencing (Illumina Genome
+Fig. 2
+Ó 2011 Blackwell Publishing Ltd
+SNP ASSAY FOR VARROA TOLERANCE IN HONEY BEES 329 Table 4 Significant SNPs (pFDR < 0.05) for the trait ‘uncapping
+of Varroa-infested brood’
+Number of significant SNPs comparing DNA
+P-value <
+0.05 1929
+0.01 755 0.001 219 0.0001 106 0.00001 53 0.000001 30 0.0000001 17 0.00000001 10 0.000000001 7
+A and B as well as AandC AandC
+7778 813 4266 217 2171 51 1229 25
+728 9 446 4 304 4 201 3 151 1
+A and B
+
+330 A. SPO ̈ TTER ET AL.
+Analyzer GA-IIx) was used in order to validate a large set of SNPs, followed by the use of the most suitable SNPs for the design of a large-scale custom genotyping SNP assay (Affymetrix SNP Array 6.0) to be evaluated in following experiments with individualized DNA samples. A similar approach was used by Ramos et al. (2009) for the design of a SNP genotyping assay in the pig. Whatsoever, there are some differences between the two studies. The first is that Ramos et al. discovered the SNPs for their assay themselves, while we validated SNPs from an existing list and used them for our SNP chip. The second difference is that Ramos et al. seem to place an emphasis on the presence of between-breed polymorphisms on their assay (they used four different breeds and wild boar), while we capitalize on within-subspecies polymorphisms for A. m. carnica, because it is a honey bee race with great economical and ecological importance worldwide.
+The SNP assay described here is not the first one for the honey bee. Whitfield et al. (2006) have also developed a genome-wide SNP assay. However, this assay consists just of 1536 SNPs that were selected based mainly on spacing criteria. The 44 000 SNPs of our assay were partially preselected for their influence on Varroa-specific defence behaviour from a pool of 70 000 SNPs. Thus, it is much better suited for its purpose, which is primarily to serve as a tool to analyse Varroa-specific defence behaviour. Of course, the assay is not limited to this goal but can be used to analyse any trait. SNPs are evenly distributed across the genome; the total amount of SNPs contained in this assay is high in relation to the comparatively small honey bee genome, and there are no gaps between the SNPs that would restrict its application only to certain genomic regions.
+The number of significant SNPs between pools A and C is higher than between pools A and B. Likewise, the arithmetic mean of the P-values is smaller for the comparison between pools A and C than for the comparison between pools A and B (data not shown). This conforms to the expectations because between the nonrelated individuals of pools A and C, more effects are anticipated, which are based on population stratification. However, possibly also effects are found in the A–C comparison, which could not be identified in the A–B comparison because of incomplete penetrance of the investigated trait. Such effects between pool A and the nonrelated sample C, consisting of individuals from colonies that never showed hygienic behaviour against varroa, could be based on the fact that in pool C, the causative alleles are not segregating.
+The primary goal of this study was the identification of a large number of SNPs that are potentially associated with the trait ‘uncapping of Varroa-infested brood’. The criteria for SNP selection for the assay, particularly the pFDR of <0.05, were chosen in a way that favours a
+certain amount of false-positive SNPs. In this study, a preselection of SNPs was conducted. These SNPs were used to construct an assay specifically for the analysis of Varroa tolerance in the honey bee. They will be evaluated in following experiments applying more stringent criteria. For these future experiments, it would be counterproductive to apply a higher degree of stringency (pFDR of 0.01 and smaller) for the preselection because of the danger to exclude a large amount of SNPs, owing to their identification as false negatives, which are actually associated with the investigated trait.
+Accordingly, all SNPs showing significant differences in their allele frequencies between DNA pools A and B and A and C were considered for the construction of the SNP assay described here. Additionally, all validated polymorphic SNPs with a coverage of at least 15 and 8000 unvalidated SNPs were chosen for assay design in order to increase the usefulness of the assay for the study of other traits.
+Future results from the SNP assay can be used as selection criteria for breeding of Varroa-resistant honey bees. However, it seems sensible not to capitalize on Varroa resistance alone. There are many highly important traits in bee breeding like honey yield, calmness and swarming tendency for which best linear unbiased prediction (BLUP; Henderson 1988) breeding values are already calculated to increase accurateness of and response to selection decisions (Bienefeld et al. 2007). An important aim of this project is to integrate the results of the developed SNP chip assay in these breeding value estimations. This would make the assay a very useful tool for genomic selection and hence breeding of Varroa-resistant and well-performing honey bees.
+Conclusions
+Selective breeding for Varroa-tolerant honey bees is a promising approach in the fight against V. destructor. Here, we described the development of a SNP assay containing 44 000 SNPs partially preselected for Varroa tolerance. This assay will be a valuable tool in the identification of QTL regions for the trait ‘Varroa-specific defence behaviour’ and should also facilitate the future discovery of QTL for other traits. The identification of QTL is the first step in the dissection of a trait and can lead to the identification of trait-influencing genes.
+Moreover, the assay is highly relevant for honey bee breeding because it constitutes a useful resource to improve genetic evaluation in the honey bee.
+Acknowledgements
+The study was financially supported by the Federal Ministry of Food, Agriculture and Consumer Protection, Germany (Grant
+Ó 2011 Blackwell Publishing Ltd
+
+332 A. SPO ̈ TTER ET AL. Data Accessibility
+Information about SNPs used for the assay described here has been deposited in the Dryad repository: DRYAD entry doi: 10.5061/dryad.8635cs4h
+Supporting Information
+Additional supporting information may be found in the online version of this article.
+Fig. S1 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 1).
+Fig. S2 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 2).
+Fig. S3 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 3).
+Fig. S4 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 4).
+Fig. S5 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 5).
+Fig. S6 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 6).
+Fig. S7 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 7).
+Fig. S8 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 8).
+Fig. S9 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 9).
+Fig. S10 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 10).
+Fig. S11 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 11).
+Fig. S12 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 12).
+Fig. S13 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 13).
+Fig. S14 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 14).
+Fig. S15 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 15).
+Fig. S16 Distribution of SNPs with differing allele frequencies between DNA-pools A and Bas well as A and C (pFDR < 0.05) on chromosome 16).
+Table S1 Clustering of SNPs in certain genome regions.
+Please note: Wiley-Blackwell is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+Ó 2011 Blackwell Publishing Ltd

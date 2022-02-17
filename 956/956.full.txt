@@ -1,0 +1,366 @@
+  Climatic forcing of Quaternary deep-sea benthic communities in the North Pacific Ocean
+Author(s) :Moriaki Yasuhara, Gene Hunt, Thomas M. Cronin, Natsumi Hokanishi, Hodaka Kawahata, Akira Tsujimoto, Miho Ishitake
+Source: Paleobiology, 38(1):162-179. 2012.
+Published By: The Paleontological Society
+DOI: http://dx.doi.org/10.1666/10068.1
+URL: http://www.bioone.org/doi/full/10.1666/10068.1
+BioOne (www.bioone.org) is a nonprofit, online aggregation of core research in the biological, ecological, and environmental sciences. BioOne provides a sustainable online platform for over 170 journals and books published by nonprofit societies, associations, museums, institutions, and presses.
+Your use of this PDF, the BioOne Web site, and all posted and associated content indicates your acceptance of BioOne’s Terms of Use, available at www.bioone.org/page/ terms_of_use.
+Usage of BioOne content is strictly limited to personal, educational, and non-commercial use. Commercial inquiries or rights and permissions requests should be directed to the individual publisher as copyright holder.
+       BioOne sees sustainable scholarly publishing as an inherently collaborative enterprise connecting authors, nonprofit publishers, academic institutions, research libraries, and research funders in the common goal of maximizing access to critical research.
+
+Paleobiology, 38(1), 2012, pp. 162–179
+Climatic forcing of Quaternary deep-sea benthic communities in the North Pacific Ocean
+Moriaki Yasuhara, Gene Hunt, Thomas M. Cronin, Natsumi Hokanishi, Hodaka Kawahata, Akira Tsujimoto, and Miho Ishitake
+Abstract.—There is growing evidence that changes in deep-sea benthic ecosystems are modulated by climate changes, but most evidence to date comes from the North Atlantic Ocean. Here we analyze new ostracod and published foraminiferal records for the last 250,000 years on Shatsky Rise in the North Pacific Ocean. Using linear models, we evaluate statistically the ability of environmental drivers (temperature, productivity, and seasonality of productivity) to predict changes in faunal diversity, abundance, and composition. These microfossil data show glacial-interglacial shifts in overall abundances and species diversities that are low during glacial intervals and high during interglacials. These patterns replicate those previously documented in the North Atlantic Ocean, suggesting that the climatic forcing of the deep-sea ecosystem is widespread, and possibly global in nature. However, these results also reveal differences with prior studies that probably reflect the isolated nature of Shatsky Rise as a remote oceanic plateau. Ostracod assemblages on Shatsky Rise are highly endemic but of low diversity, consistent with the limited dispersal potential of these animals. Benthic foraminifera, by contrast, have much greater dispersal ability and their assemblages at Shatsky Rise show diversities typical for deep-sea faunas in other regions.
+Statistical analyses also reveal ostracod-foraminferal differences in relationships between environmental drivers and biotic change. Rarefied diversity is best explained as a hump-shaped function of surface productivity in ostracods, but as having a weak and positive relationship with temperature in foraminifera. Abundance shows a positive relationship with both productivity and seasonality of productivity in foraminifera, and a hump-shaped relationship with productivity in ostracods. Finally, species composition in ostracods is influenced by both temperature and productivity, but only a temperature effect is evident in foraminifera. Though complex in detail, the global-scale link between deep-sea ecosystems and Quaternary climate changes underscores the importance of the interaction between the physical and biological components of paleoceanographical research for better understanding the history of the biosphere.
+Moriaki Yasuhara.* School of Biological Sciences, Swire Institute of Marine Science, and Department of Earth Sciences, University of Hong Kong, Hong Kong SAR, China; Department of Paleobiology, National Museum of Natural History, Smithsonian Institution, Washington, D.C. 20013-7012; Center for Advanced Marine Core Research, Kochi University, Nankoku, Kochi 783-8502, Japan. *Present address: School of Biological Sciences, University of Hong Kong, Hong Kong SAR, China. E-mail: moriakiyasuhara@gmail.com or yasuhara@hku.hk
+Gene Hunt. Department of Paleobiology, National Museum of Natural History, Smithsonian Institution, Washington, D.C. 20013-7012, U.S.A.
+Thomas M. Cronin. Natsumi Hokanishi. Hodaka Kawahata.
+U.S. Geological Survey, National Center, Reston, Virginia 20192, U.S.A.
+Earthquake Research Institute, University of Tokyo, Bunkyo-ku, Tokyo 113-0032, Japan Atmosphere and Ocean Research Institute, University of Tokyo, Kashiwa, Chiba 277-8564,
+Japan
+Akira Tsujimoto. Faculty of Education, Shimane University, Matsue, Shimane 690-8504, Japan
+Miho Ishitake. Sumika Chemical Analysis Service, Ltd., Analysis Service Marketing Division, Chiba Group,
+Sodegaura, Chiba 299-0266, Japan
+Accepted: 29 June 2011
+Supplemental materials deposited at Dryad: doi:10.5061/dryad.clq30
+Introduction
+Starting with pioneering studies by Hessler and Sanders (Hessler and Sanders 1967; Sanders 1968; Sanders and Hessler 1969), nearly fifty years of accumulated investigation into the deep-sea benthos have revealed some general ecological patterns. Abundance of deep-sea benthic communities decrease exponentially with depth (Rex et al. 2006;
+Rex and Etter 2010), and it is widely believed that this and other abundance gradients are related to variation in particulate organic carbon flux to the seafloor (Smith et al. 1997; Rex et al. 2006; Rex and Etter 2010). Faunal composition also shows strong depth zonation (Carney 2005), and species diversity usually increases to a mid-bathyal maximum before decreasing again (Rex 1973, 1981; Rex
+’ 2012 The Paleontological Society. All rights reserved.
+0094-8373/12/3801–0010/$1.00
+
+et al. 2005; Rex and Etter 2010). Perhaps most surprisingly, many taxa show latitudinal gradients of decreasing alpha diversity from the tropics to the poles, although the gradient may be stronger in the Northern Hemisphere (Rex et al. 1993, 2000, 2005; Culver and Buzas 2000; Stuart et al. 2003; Corliss et al. 2009; Yasuhara et al. 2009b; Rex and Etter 2010).
+Despite these advances in documenting pattern, the underlying drivers that structure diversity and faunal patterns are still controversial (Stuart et al. 2003; Carney 2005; Rex et al. 2005; Yasuhara and Cronin 2008; Corliss et al. 2009; Yasuhara et al. 2009b; Tittensor et al. 2011). Uncertainty remains in part because these faunal patterns likely have complex causes, reflecting not only species’ present-day tolerances for environmental factors (e.g., temperature, productivity) but also spatial and bathymetric differences in speciation, extinction, and dispersal (Rex et al. 2005; Jablonski et al. 2006), acting within a biogeographic template (McClain et al. 2009b; McClain and Barry 2010).
+There is growing evidence from multiple taxonomic groups that climate change can be a consistent driver of deep-sea biodiversity and ecosystem patterns (Danovaro et al. 2004; Ruhl and Smith 2004; Hunt et al. 2005; Wollenburg et al. 2007; Ruhl et al. 2008; Yasuhara and Cronin 2008; Yasuhara et al. 2008b; Smith et al. 2009; Glover et al. 2010). Recent micropaleontological studies have demonstrated a link between glacial-interglacial Milankovitch cycles and deep-sea species diversity during the late Quaternary and mid-Pliocene, generally with a glacial-low and interglacial-high species diversity pattern (Cronin and Raymo 1997; Cronin et al. 1999; Yasuhara and Cronin 2008; Yasuhara et al. 2009b for ostracods; Ohkushi et al. 2000; Hunt et al. 2005 for foraminifera). However, almost all evidence for this link between Plio-Pleistocene climate cycles and deep-sea diversity comes from the North Atlantic Ocean, and it is not certain if such phenomena are truly global. One exception is the study of North Pacific deep-sea foraminifera by Ohkushi et al. (2000), which in this paper we reanalyze in conjunction with new ostracod data. Deep-sea foraminiferal faunal composition and abundance have been
+used extensively to reconstruct late Quaternary paleoceanography, and thus it is well recognized that they can be related to climate cycles (Thomas et al. 1995; Nees et al. 1999; Ohkushi et al. 2000; Kawagata 2001; Rasmussen et al. 2002; Loubere and Fariduddin 2003; Ujiie ́ 2003). In this paper, we take micropaleontological records commonly used for paleoceanographic inference and subject them to a battery of paleoecological analyses in an attempt to disentangle potential environmental drivers of biotic change in the deep-sea benthic ecosystem.
+Crustacean Ostracoda and unicellular Foraminifera are both important components of deepsea benthos (Gooday et al. 1992; Shimanaga et al. 2000; Brandt et al. 2007; Yasuhara and Cronin 2008). Their calcareous shells are abundantly preserved, and both taxa have a rich fossil record accessible though deep-sea coring (e.g., Thomas and Gooday 1996; Cronin and Raymo 1997; Wollenburg et al. 2007; Yasuhara et al. 2008b, 2009a). Ostracods and foraminifera span similar size ranges, and in the deep sea, they are thought to exploit the same food source—particulate organic matter that sinks from shallower depths (Gooday 1994, 2003b; Didie ́ and Bauch 2002; Cronin and Dwyer 2003; Schellenberg 2007; Yasuhara and Cronin 2008). Despite these and other similarities, these taxa differ importantly in several respects. Ostracods are composed of many thousands of cells and almost all marine ostracods reproduce sexually (Chaplin et al. 1994; Butlin et al. 1998; Ikeya and Kato 2000; Horne et al. 2002), whereas foraminifera are unicellular and have complex life cycles with sexual and asexual stages (Goldstein 1999; Gooday 2003b). Of particular evolutionary and ecological importance is the contrast in dispersal potential. Ostracods lack a dispersal stage, and most deep-sea taxa cannot swim (Brandt et al. 2007). In contrast, benthic foraminifera disperse widely and at least some species maintain genetic continuity over vast distances (Pawlowski et al. 2007; Alve and Goldstein 2010). Because these taxa are taphonomically similar but have different biological characteristics, comparing their patterns over time may help to test general ecological hypotheses. Nonetheless, with a
+CLIMATIC FORCING OF DEEP-SEA ECOSYSTEM 163
+
+164 MORIAKI YASUHARA ET AL.
+ FIGURE 1. Locality map (A) and close-up of core locations (B).
+very few exceptions (Steineck and Thomas 1996; Webb et al. 2009), studies do not jointly report both ostracod and foraminiferal faunal records from the same site.
+Here we analyze Shatsky Rise benthic paleoecological records for the last 250 Kyr from two nearby cores NGC 104 and NGC 102 (Fig. 1). The North Pacific generally lacks the carbonate sediments that bear abundant benthic ostracods and foraminifera because the seafloor is below the carbonate compensation depth in most regions. Its relatively shallow bathymetry makes the Shatsky Rise (Fig. 1) an exception and thus provides a rare opportunity to investigate North Pacific deepsea ecosystem dynamics using calcareous benthic microfossils. These microfossil data show glacial-interglacial shifts in overall abundances, and species diversities that are low during glacial intervals and high during interglacials. These patterns have been commonly documented in the North Atlantic Ocean, suggesting that the climatic forcing of the deep-sea ecosystem is widespread, and
+possibly global in nature. In addition, we observe unique characteristics of remote oceanic plateau ecosystems and possible differences in environmental drivers of ecological (i.e., species diversity, faunal composition, and abundance) changes among taxonomic groups and regions.
+Materials and Methods
+Cores and Chronology
+Gravity core NGC 104 (32u10.049N, 157u59.99E) was collected at a water depth of 2665 m on the Shatsky Rise, northwestern Pacific, during the NH95-1 Cruise of RV Hakurei-Maru. This site is in the path of North Pacific Deep Water (Kawabe et al. 2009) and its water depth is close to the lysocline of this region (,2600 m) and well above the carbonate compensation depth. The sediments consist of calcareous ooze.
+Marine isotope stages (MIS) 1–7 of the last 250 Kyr were examined for benthic ostracod faunal diversity, abundance, and composition. Large-volume (,50–100 g dry weight)
+
+CLIMATIC FORCING OF DEEP-SEA ECOSYSTEM 165
+ samples were wet-sieved and ostracods were picked from the .150-mm size fraction. This size fraction retains adults and juveniles from late molt stages from most deep-sea species (Yasuhara et al. 2009b). Specimens were identified to species level where possible, although species of Krithe were lumped together for analysis (species-level identification of this genus can be difficult and there are only a few species of this genus per sample). Benthic foraminiferal census data are from the nearby core NGC 102 (32u19.849N, 157u519E, 2612 m water depth) (Ohkushi et al. 2000), which is located only 23 km away (Fig. 1). Ohkushi et al. (2000) picked foraminiferal specimens from the .75-mm size fraction.
+The chronology of core NGC 104 was established with correlation of the planktic foraminiferal (Globorotalia inflata) d18O record to the composite oxygen isotope record from the LR04 stack (Lisiecki and Raymo 2005) (Fig. 2, Supplement Tables S1, S2) by using the software AnalySeries version 2.0.4.2 (Paillard et al. 1996). The chronologies of other cores used in this paper were also updated to the LR04 stack (Fig. 2, Supplement Tables S3, S4). Many sediment cores are now available on the Shatsky Rise (e.g., Ohkushi et al. 2000; Yamane 2003; this study) and comparison of their planktic foraminiferal d18O records enabled us to improve the chronology of our analyzed cores. The correlation is based on obvious d18O features that are common to many d18O series from this region as well as the LR04.
+Measures of Biotic State
+From census data at these two sites— ostracods at NGC 104 and benthic foraminifera at NGC 102—we calculated variables related to the diversity, abundance, and composition of these faunas. Following many other deepsea studies, we measured diversity as E(Sn), the expected number of species in samples rarefied to n individuals. The sampling threshold, n, was set higher for foraminifera because they are typically more abundant than ostracods (n 5 100 for ostracods and n 5 200 for foraminifera; Supplement Tables S5, S6). For ostracods, diversities were calculated from
+FIGURE 2. d18O curves showing the result of LR04-based chronology (Supplement Tables S1–4): LR04 stack (A) and d18O curves from the sites NGC 104 (B), NGC 102 (C), and TR163-31P (D). Ostracod, foraminiferal, and bottomwater temperature records are from cores NGC 104, NGC 102, TR163-31P, respectively.
+three-sample moving sums of the census data set because of relatively low sample sizes, though results are similar if samples are not lumped.
+We measured abundance as accumulation rates of benthic foraminifera (BFAR) and ostracods (BOAR), metrics commonly used for microfossils from cores (e.g., Thomas et al. 1995). These accumulation rates measure the number of individuals deposited per cm2 of ocean floor per thousand years, and are calculated as the product of the number of specimens per gram of sediment, the sediment bulk dry density, and the linear sedimentation rate (Supplement Tables S7, S8).
+In order to explore changes in ostracod faunal composition, we performed nonmetric multidimensional scaling (MDS) on BrayCurtis distances calculated from square-root transformed relative species abundances. We focused analyses on the first axis of this ordination because it was similar across data transformations (square-root, fourth-root, raw relative abundances) and across different
+
+166 MORIAKI YASUHARA ET AL.
+ordination methods (including detrended correspondence analysis). As such, we interpret it as capturing a primary signal of compositional variation through time in each fauna. Because the ostracods and foraminifera are from different samples, ordinations were performed separately for each group.
+Proxies for Environmental Change
+We used proxies to infer three aspects of environmental conditions through this interval: productivity, seasonality of productivity, and bottom-water temperature. Productivity was measured as mass accumulation rate of Corg (MAR Corg), which reflects particulate organic carbon flux to the ocean floor, and thus food supply for benthic organisms. MAR Corg is widely used as a paleo-productivity proxy (e.g., Maeda et al. 2002). Using organic carbon data from NGC 102 (Kawahata et al. 1999; Ohkushi et al. 2000), we computed MAR Corg values as 1000 3 (Corg/100) 3 DBD 3 LSR, where Corg is weight percent of organic carbon, DBD is dry bulk density, and LSR is linear sedimentation rate (as per the updated age model, Supplement Table S3). Seasonality of productivity was measured as the relative abundance of the ‘‘phytodetritus group’’ of benthic foraminifera, Epistominella exigua and Alabaminella weddellensis (Sun et al. 2006). Productivity and seasonality proxies were not from the same exact samples as the faunal data, and so we used linear interpolation of the proxy curves to assign environmental values to faunal samples on the basis of their ages.
+Bottom-water temperature data are available from the Pacific core TR163-31P (3u359S, 83u579W, 3205 m water depth), which is based on Mg/Ca ratios in benthic foraminifera (Martin et al. 2002). Site TR163-31P is far from the Shatsky Rise, but late Quaternary deep-ocean temperature shows concordant trends within the Pacific Ocean (Elderfield et al. 2010; Martin et al. 2002). Because the temperature curve is at a much higher resolution than the faunal data, it was smoothed with a cubic spline to eliminate high-frequency variation as described by Hunt et al. (2005), and the spline function was used to calculate temperatures for samples from their ages.
+Correlation to a temperature curve from a distant location is reasonable here because changes in deep-water temperature are largely global, reflecting the temperature of waters sinking at high latitudes (Zachos et al. 2001; Sosdian and Rosenthal 2009; Elderfield et al. 2010). Deep ocean circulation propagates temperature changes in these source waters through most of the world ocean.
+Testing Environmental Drivers
+We used regression models to test temperature, surface productivity, and seasonality of productivity because these factors have been considered as the promising candidates in studies of modern and fossil deep-sea environments (Thomas and Gooday 1996; Cronin and Raymo 1997; Gooday 2003a; Rex et al. 2000, 2006; Wollenburg and Kuhnt 2000; Carney 2005; Hunt et al. 2005; Yasuhara and Cronin 2008; Corliss et al. 2009; Yasuhara et al. 2009b; Rex and Etter 2010; Tittensor et al. 2011). Linear relationships with deep-sea species diversity have been reported for temperature (mainly positive) and seasonality of productivity (negative) (Hunt et al. 2005; Corliss et al. 2009). Both linear (mainly negative) and hump-shaped relationships have been observed for productivity (Wollenburg and Kuhnt 2000; Levin et al. 2001; Gooday 2003a; Tittensor et al. 2011). Furthermore, benthic abundance and faunal composition are also known to be related to at least some of these environmental parameters (Didie ́ et al. 2002; Gooday 2003a; Carney 2005; Rex et al. 2006; Sun et al. 2006; Yasuhara et al. 2008b; Alvarez Zarikian et al. 2009; Rex and Etter 2010). Thus, we considered models covering all these combinations, using multiple regression to evaluate potential correlates of diversity, faunal composition, and abundance (Tables 1–6).
+The independent variables in the regressions were temperature, productivity, and seasonality of productivity (in part, see below). Because hump-shaped relationships between diversity and productivity have been reported frequently in prior studies, we included a quadratic term for productivity in the models as well. Regression models were run separately for ostracods and foraminifera,
+
+Model
+1 E(S100),P+P2 +SP
+2 E(S100),P+P2
+3 E(S100),T+P+P2
+4 E(S100) , 1
+5 E(S100),T+P+P2 +SP
+6 E(S100) , SP
+7 E(S100) , T
+8 E(S100) , P
+9 E(S100) , T
+10 E(S100) , P
+11 E(S100) , T
+12 E(S100) , T
+AICc T Coef. 76.3 —
+76.7 — 76.8 0.423 77.9 — 79.0 0.241 79.2 — 79.6 0.254 80.5 — 81.9 0.114 82.0 — 82.4 0.261 84.9 0.114
+P Coef. 0.226
+0.201 0.220
+—
+0.229
+— —
+0.002 —
+0.002 20.003 0.000
+P2 Coef. 20.008
+20.008 20.009
+SP Coef. 20.019
+—
+p r2 0.034 0.320
+0.055 0.223 0.040 0.309 — — 0.059 0.339 0.278 0.049 0.365 0.034 0.943 0.000 0.532 0.053 0.560 0.049 0.665 0.035 0.745 0.053
+Akaike weight
+0.244 0.200 0.198 0.112 0.063 0.059 0.049 0.031 0.015 0.015 0.012 0.003
+CLIMATIC FORCING OF DEEP-SEA ECOSYSTEM 167
+TABLE 1. Regression models of ostracod species diversity E(S100) as a function of temperature (T), surface productivity (P: linear; P + P2: potentially hump-shaped relationships), and seasonality of surface productivity (SP). E(S100) ,1: null model. AICc: small-sample Akaike Information Criterion. T Coef., P Coef., P2 Coef., SP Coef.: coefficient for each variable. Bold: p , 0.05.
+   + SP
++ SP
++P
++ P + SP
+20.009 — — — — — — —
+20.013 20.013 — — 20.010 20.013 — 20.010
+— ——
+ and within each taxon, separately across the three measures of biotic state: rarefied diversity, abundance (BFAR/BOAR), and composition (measured as the score on the first MDS axis). All models tested the ability of the environmental variables to predict biotic variables.
+The Akaike information criterion (AICc, to indicate the small sample version) was used to measure model support in a way that balances goodness-of-fit and model complexity, and Akaike weights were used to summarize proportional support for all candidate models (Anderson et al. 2000). AICc and related approaches facilitate consideration of all models to the degree to which they are supported by data without undo emphasis on rejection of a null hypothesis. We also considered parameter estimates averaged over all models, proportional to the support that each model receives (Anderson et al. 2000) (Tables 7, 8). This approach accounts for uncertainty in model selection and thus leads to appropriately broader confidence intervals
+than relying only on the single, best-supported model.
+We did not assess seasonality of productivity in the foraminiferal analyses (except those of the abundance) because it is not independent of foraminiferal diversity and composition. If the fauna is largely occupied by only a few phytodetrital species, rarefied diversity will be depressed and species composition will obviously be affected. Corliss et al. (2009) were able to use satellite-derived estimates of the seasonality in their study of modern foraminifera, but we currently lack downcore proxies that are independent of the benthic foraminiferal fauna.
+Analyses reported here were implemented in the R programming language (R Development Core Team 2010), using functions from the R packages Vegan (Oksanen et al. 2010) for diversity and compositional analyses and MuMIn (Barton ́ 2009) to perform the model averaging. Raw census data and Supplement Tables are deposited at Dryad (doi:10.5061/ dryad.c1q30).
+TABLE 2. Regression models of foraminiferal species diversity E(S200) as a function of productivity. Abbreviations as in Table 1. Bold: p , 0.05.
+temperature and surface
+  Model 1 E(S200) , 1
+AICc
+201.0 201.0 202.0 203.0 203.0 203.0
+T Coef. P Coef. ——
+P2 Coef. p r2 —— —
+Akaike weight
+0.292 0.291 0.167 0.095 0.085 0.069
+ 2 E(S200) , T
+3 E(S200) , T
+4 E(S200) , T
+5 E(S200) , P
+6 E(S200) , P
++ P + P2 +P
++ P2
+2.531 — — 3.614 20.639 0.017 2.923 20.067 —
+— 20.001 — — 20.434 0.013
+0.133 0.076 0.108 0.198 0.275 0.088 0.991 0.000 0.366 0.069
+ 
+168 MORIAKI YASUHARA ET AL.
+TABLE 3. Regression models of ostracod faunal composition (nonmetric multidimensional scaling first axis: MDS1) as a function of temperature, surface productivity, and seasonality of surface productivity. Abbreviations as in Table 1. Bold: p , 0.05.
+  Model
+1 MDS1,T +P+P2
+2 MDS1,T
+3 MDS1,T +P+P2 +SP
+4 MDS1,p + P2 + SP
+5 MDS1,P + P2
+6 MDS1 , SP
+AICc T Coef. 213.2 20.107
+211.5 20.113 210.4 20.093 210.4 — 210.3 —
+29.7 — 29.4 20.088 29.1 20.108 28.4 — 27.5 — 26.9 — 26.8 20.085
+P Coef. 0.029
+—
+0.028 0.027 0.027
+—
+— 20.002 — 20.002 20.003 20.001
+P2 Coef. SP Coef. p r2 20.001 — 0.010 0.318
+—— 0.024 0.154 20.001 0.001 0.024 0.323 20.001 0.003 0.033 0.257 20.001 — 0.044 0.188
+— 0.004 0.062 0.108 — 0.002 0.064 0.168 — — 0.074 0.159 — ——— — 0.004 0.157 0.116 — — 0.370 0.026 — 0.002 0.136 0.171
+Akaike weight
+0.356 0.149 0.088 0.086 0.080 0.062 0.053 0.045 0.032 0.020 0.015 0.014
+ 7 MDS1,T
+8 MDS1,T
+9 MDS1,1
+10 MDS1,P
+11 MDS1,P
+12 MDS1,T
++SP +P
++SP +P+SP
+ Results and Discussion
+Oceanic Plateau Ecosystem
+Modern Shatsky Rise ostracod and foraminiferal diversities are ,7 (E[S100]) and ,35 (E[S200]), respectively (Figs. 3, 4). For foraminifera, this diversity is comparable to that observed at similar latitude in the North Atlantic (Fig. 3), and it is also similar to foraminiferal diversity at another North Pacific oceanic plateau, Hess Rise (Fig. 3). In contrast, modern ostracod diversity is considerably lower on the Shatsky Rise than in the temperate North Atlantic (Fig. 3). The two faunas also differ in their levels of endemism. Most (.80%) foraminiferal species encountered at NGC 102 are known from elsewhere (Ohkushi et al. 2000), but all 19 ostracod species recovered at NGC 104 are currently undescribed and perhaps endemic.
+It is conceivable that these modern faunal patterns relate to environmental conditions at Shatsky Rise. For example, compared to sites of similar depth and latitude in the North Atlantic, sites NGC 102 and 104 have lower dissolved oxygen levels (,2.5 ml/l versus
+,6 ml/l) and slightly lower bottom-water temperature (,2uC versus ,3uC) (Garcia et al. 2006; Locarnini et al. 2006). However, dissolved oxygen concentrations usually affect marine benthos only when lower than ,2.0 ml/l in shallow-marine ecosystems (Diaz and Rosenberg 2008; Levin et al. 2009) and ,0.5 ml/l in the deep sea (Levin 2003) and many foraminiferal species can tolerate much lower levels.
+A potentially more plausible explanation for these faunal patterns is the isolation of this oceanic plateau (,2000 km) surrounded by very deep seafloor (.5000 m) (Fig. 1). Although recent research suggests that ostracods can survive below the carbonate compensation depth (4400 m in northwestern Pacific [Berger et al. 1976]) and at least some abyssal species (or closely related species complexes) may have pan-abyssal distribution (Yasuhara et al. 2008a), they lack a dispersal stage and most taxa do not swim. Moreover, recent ecological and molecular studies suggest that ostracods, like nematodes and isopods, have lower gene flow and dispersal than foraminifera (Alve and Goldstein 2003; Brandt et al. 2007; Pawlowski et al.
+TABLE 4. Regression models of foraminiferal faunal composition (nonmetric multidimensional scaling first axis:
+MDS1) as a function of temperature
+and surface productivity. Abbreviations as in Table 1. Bold: p , 0.05.
+  1 MDS1,T
+2 MDS1,T
+3 MDS1,T
+4 MDS1,1
+5 MDS1,P
+6 MDS1,P
++ P
+Model
+AICc 211.2
+T Coef. 20.2121
+P Coef. 0.0060
+Akaike weight
+0.476 0.373 0.136 0.010 0.003 0.002
+P2 Coef. —
+— 0.0013 — 0.751 0.004 — 20.0113 0.0004 0.522 0.045
+p r2 0.003 0.339
+0.003 0.268
+0.009 0.346 — — — — —
+ 210.7 +P+P2 28.7 23.5 21.1 +P2 0.2
+20.1768 20.2053
+— 0.0004
+— 0.0002
+ 
+CLIMATIC FORCING OF DEEP-SEA ECOSYSTEM 169 TABLE 5. Regression models of ostracod abundance (benthic ostracod accumulation rate: BOAR) as a function of
+temperature, surface productivity, and
+seasonality of surface productivity. Abbreviations as in Table 1. Bold: p , 0.05.
+  Model
+1 BOAR,P+P2
+2 BOAR,T+P+P2
+3 BOAR,P+P2 +SP
+4 BOAR,T+P+P2 +SP
+5 BOAR,P
+6 BOAR,T+P
+7 BOAR,P+SP
+8 BOAR,T+P+SP
+9 BOAR,1
+10 BOAR,T
+11 BOAR,T+SP
+12 BOAR , SP
+AICc
+196.0 197.0 198.0 198.0 202.0 204.0 204.0 204.0 208.0 209.0 210.0 211.0
+T Coef. —
+1.155 — 2.157 — 1.123 — 2.370
+P Coef. 1.141
+1.124 1.137 1.095 0.278 0.259 0.291 0.273
+P2 Coef. 20.028
+20.028 20.028 20.027 —
+— — — — — — —
+SP Coef. p r2 — 0.000 0.417
+— 0.001 0.439 0.020 0.001 0.421 0.070 0.001 0.471 — 0.004 0.238 — 0.011 0.259 0.033 0.014 0.249 0.088 0.012 0.309
+— — — — 0.161 0.063 0.068 0.228 0.094 20.002 0.968 0.000
+Akaike weight
+0.475 0.218 0.131 0.129 0.021 0.009 0.007 0.007 0.001 0.001 0.000 0.000
+ —— 1.920 — 2.929 —
+——
+ 2007; Lecroq et al. 2009; Branda ̃ o et al. 2010). As a result, deep-sea ostracod taxa may only rarely reach and colonize this oceanic plateau, depressing its diversity. Lacking genetic connection to other deep-sea populations, the colonizing populations would have diverged to produce a mostly endemic ostracod fauna. Much higher diversities and lower levels of endemism than those in the Shatsky Rise are known from the North Atlantic and Southwest Pacific Ocean basins (Whatley and Ayress 1988; Jellinek and Swanson 2003). In addition, the diversity and degree of endemism of ostracods at Shatsky Rise are similar to those on isolated North Pacific seamounts (Larwood and Whatley 1993; Boomer and Whatley 1995; Whatley and Boomer 1995), but low ostracod abundance of these seamounts prevents direct comparison of diversity to Shatsky Rise. No Shatsky Rise ostracod species is identical to any species reported from these seamounts. Benthic foraminiferal assemblages at Shatsky Rise retain
+typical levels of diversity and low endemicity presumably because their dispersal potential keeps these populations demographically connected to deep-sea populations elsewhere. This hypothesized cause for Shatsky Rise faunal patterns can be tested with faunal data from other North Pacific oceanic plateaus and seamounts.
+Glacial-Interglacial Ecosystem Changes
+Species Diversity.—Both ostracod and foraminiferal diversities are generally higher during interglacial periods (MIS 1, 5, 7) than in glacial periods (MIS 2–4, 6) (Fig.4). Positive diversity peaks correspond well to the peak interglacial periods represented by the global stack of the deep-sea foraminiferal d18O curve (Lisiecki and Raymo 2005) (Fig. 4). Thus, the microfossil data reveal that deepsea species diversity has been modulated by orbital-scale climate changes not only in the Atlantic and but also in the Pacific, suggesting
+TABLE 6. Regression models of foraminiferal abundance (benthic foraminiferal accumulation rate: BFAR) as a function of temperature, surface productivity, and seasonality of surface productivity. Abbreviations as in Table 1. Bold: p , 0.05.
+  Model
+1 BFAR,P+SP
+2 BFAR,T+P+SP
+3 BFAR,P+P2 +SP
+4 BFAR,T+P
+5 BFAR,T+P+P2 +SP
+6 BFAR,P
+7 BFAR,T+P+P2
+8 BFAR,P+P2
+9 BFAR,1
+10 BFAR,T
+11 BFAR , SP
+12 BFAR,T+SP
+T Coef. P Coef. P2 Coef. SP Coef.
+p r2 Akaike weight 0.000 0.857 0.483
+0.000 0.861 0.186 0.000 0.858 0.121 0.000 0.841 0.089 0.000 0.863 0.045 0.000 0.817 0.040 0.000 0.842 0.026 0.000 0.817 0.011
+—— 0.000 0.320 0.034 0.000 0.803 0.002 0.000 0.584 0.038 0.000
+AICc
+558.0 —
+ 425.6 — 434.2 — 451.8 20.8 427.8 — 481.1 21.4 401.2 — 485.9 21.7 414.5 20.4
+— — — 211.5 1593.0 — — 17.3
+560.0 2576.3
+561.0 —
+562.0 21183.7
+563.0 2641.5
+563.0 —
+564.0 21253.8
+566.0 —
+614.0 ——— 615.0 1327.0 — —
+51.0
+41.9
+51.3
+— 41.3 — — — — —
+616.0 618.0
+ 
+170 MORIAKI YASUHARA ET AL.
+ TABLE 7. Ostracod model-averaged parameter estimates and confidence intervals (CI). Bold: CIs that exclude zero.
+  Coefficient Lower CI Ostracod diversity E(S100)
+Upper CI
+0.003 0.388 0.0136 0.521
+20.00593 1.75
+0.0654 2.41
+0.000525 0.051 0.00368 0.052
+ P2 20.00583 P 0.153 SP 20.00651 T 0.116
+Ostracod abundance BOAR
+20.0147 20.0824 20.0266 20.288
+P2 P
+SP T
+20.0265 20.0472 1.09 0.433 0.0126 20.0402 0.56 21.29
+FIGURE 3. Comparison between modern coretop (5 Holocene) North Atlantic and Shatsky Rise species diversities. A, Foraminiferal diversity. B, Ostracod diversity. Solid circle, North Atlantic diversity; gray circle, Shatsky Rise diversity; gray square, Hess Rise foraminiferal diversity, which is calculated from Ujiie ́ (2003) census data. Regression lines for North Atlantic diversity (p 5 0.0002, r2 5 0.9135 for ostracods; p 5 0.0009, r2 5 0.2327 for foraminifera). North Atlantic foraminiferal diversities E(S200) are calculated from Sun et al. (2006) census data (see Corliss et al. 2009). See Supplement Table S9 for North Atlantic ostracod E(S100).
+elevated (Fig. 4). Thus, depressed species diversity in glacial intervals cannot be the result of selective dissolution and removal of thin-shelled species during these intervals.
+Faunal Composition and Abundance.—The ostracod ordination first axis shows systematic glacial-interglacial variation. In particular, interglacial peaks in the global oxygen isotope stack record correspond well with negative peaks in MDS1 (Fig. 5). MDS1 scores track temporal trends of the two dominant genera, Krithe and Henryhowella, and are especially tightly correlated with the latter (Fig. 5; MDS1 versus Henryhowella: r2 5 0.651; MDS1 versus Krithe: r2 5 0.267). The foraminiferal MDS first axis also shows similar glacial-interglacial variation, although the correspondence is perhaps noisier than for the ostracods. MDS1 is highly correlated with the relative abundance of two of the three dominant foraminifera species, Alabaminella weddelensis and Uvigerina peregrina (Fig. 6; MDS1 versus Alabaminella weddelensis: r2 5 0.415; MDS1 versus Epistominella exigua: r2 5 0.015; MDS1 versus Uvigerina peregrina: r2 5 0.722).
+Both benthic foraminiferal (BFAR) and ostracod accumulation rates (BOAR) are generally higher during peak glacial and stadial periods represented by the global d18O stack (Fig. 7). These systematic glacial-interglacial
+Ostracod faunal composition MDS1
+P2 20.000598 P 0.0171 SP 0.000778 T 20.0736
+20.00172 20.0169 20.00213 20.199
+ that the climatically driven interglacial-high and glacial-low diversity pattern is largely global. A few exceptions to this pattern have been reported from the subpolar North Atlantic (Thomas et al. 1995; Didie ́ et al. 2002; Yasuhara and Cronin 2008), but these patterns may be related to Heinrich icerafting events during glacial periods (see Yasuhara and Cronin 2008 for details).
+This interglacial-high and glacial-low biodiversity pattern is not a preservational artifact of glacial-interglacial scale shifts in lysocline depth. Carbonate dissolution, as measured by the fragmentation rate of planktic foraminifera (see Ohkushi et al. 2000), clearly shows increased dissolution during interglacial periods, when species diversity is
+TABLE 8. Foraminiferal model-averaged parameter estimates and confidence intervals (CI). Bold: CIs that exclude zero.
+  Coefficient
+Foraminiferal diversity E(S200) P2 0.004
+P 20.143
+T 1.620
+ Foraminiferal abundance
+Lower CI 20.009
+20.618 22.210
+BFAR
+21.8
+332.0
+28.4 21210.0
+Upper CI
+0.017 0.331 5.450
+1.4
+535.0
+89.4 660.0
+0.0002
+0.0127
+20.0720
+P2 P
+SP T
+20.2 434.0 40.5 2274.0
+Foraminiferal faunal composition MDS 1
+P2 P T
+0.0000 20.0001
+0.0029 20.0069 20.1950 20.3180
+ 
+CLIMATIC FORCING OF DEEP-SEA ECOSYSTEM 171
+  FIGURE 4. Relationship between North Pacific deep-sea species diversity and paleoclimatic and paleoceanographic proxy records. A, Deep-sea oxygen isotope curve (LR04 global stack [Lisiecki and Raymo 2005]). B, Ostracod species diversity E(S100). C, Foraminiferal species diversity E(S200). D, Benthic foraminiferal Mg/ Ca-based bottom-water temperature (BWT) (Martin et al. 2002). E, Productivity proxy of mass accumulation rate of organic carbon (MAR Corg). F, Relative abundance of phytodetritus species (Epistominella exigua and Alabaminella weddellensis), proxy of seasonality of productivity. G, Carbonate dissolution index, planktic foraminiferal fragmentation (FRAG) (see Ohkushi et al. 2000). The oxygen isotope curve represents global climate changes, and the lower isotope values indicate warmer, interglacial intervals. Marine isotope stages (MIS) are labeled and interglacial periods are shaded.
+faunal and abundance changes further support a global nature of ecosystem response to orbital-scale climate changes. However, it is also true that the time series of these environmental and faunal parameters differ from each other, and thus it may be possible to disentangle possible causal relationships between
+FIGURE 5. Relationship between climate change and ostracod faunal composition, showing deep-sea oxygen isotope curve (Lisiecki and Raymo 2005) (A), relative abundance of Krithe (B) and Henryhowella (C), and MDS first axis (D).
+them. The next section presents one approach, multiple regression, for doing so.
+Regression Models to Evaluate Potential Drivers of Deep-Sea Ecological Change
+Species Diversity.—Ostracod diversity is most strongly predicted as a quadratic function of productivity (Table 1, Fig. 8). The three models that receive more support than the null (intercept only) model all include a squared productivity term, and in all of these models, this term is significant (Table 1). The coefficient for the squared productivity term is negative, indicating an intermediate maximum with respect to productivity, i.e., a hump-shaped relationship (although the confidence interval slightly overlaps with zero; Table 7). All other models receive minimal support, and in particular there is little evidence for relationships between diversity and either temperature or seasonality of productivity (Table 1, Fig. 8).
+For foraminiferal diversity, there is weak indication that diversity increases linearly with
+
+172 MORIAKI YASUHARA ET AL.
+  FIGURE 6. Relationship between climate change and foraminiferal faunal composition, showing deep-sea oxygen isotope curve (Lisiecki and Raymo 2005) (A); relative abundance of Epistominella exigua (B), Alabaminella weddelensis (C), and Uvigerina peregrine (D); and MDS first axis (E).
+temperature (models 2 and 3 in Table 2; Fig. 8). However, environmental proxies have low predictive power for foraminiferal diversity; the best-supported causal model receives slightly less support than the null model (Table 2), and no model-averaged coefficients are significantly different from zero (Table 8). Seasonality of productivity, which was not included in our models for foraminifera, may play a role here, because seasonality has been shown to be an important determinant of modern deep-sea benthic foraminiferal diversity in the North Atlantic Ocean (Corliss et al. 2009). Although foraminiferal diversity and seasonality have a significant and negative relationship in our data set (Ohkushi et al. 2000), it is difficult to rule out mathematical artifact as a cause (see ‘‘Materials and Methods’’).
+Other published case studies report different correlates of diversity from those found
+FIGURE 7. Relationship among climate change, surface productivity and abundance. A, Deep-sea oxygen isotope curve (Lisiecki and Raymo 2005). B, MAR Corg. C, Benthic ostracod accumulation rate (BOAR). D, Benthic foraminiferal accumulation rate (BFAR). MAR Corg is a proxy for particulate organic carbon flux to the ocean floor, i.e., food supply. BFAR was calculated from the new age model.
+here: diversities often show significant positive relationship with temperature both in ostracods (Cronin and Raymo 1997; Cronin et al. 1999; Yasuhara and Cronin 2008; Yasuhara et al. 2009b) and foraminifera (Hunt et al. 2005), and foraminiferal diversity can have a hump-shaped relationship with productivity (Wollenburg and Kuhnt 2000; Gooday 2003a). We found no significant correlation between seasonality of productivity and ostracod diversity in any models, but a recent study of modern deep-sea foraminifera found a negative effect of seasonality on diversity (Corliss et al. 2009). Different factors may therefore dominate in different regions and/or taxonomic groups.
+Faunal Composition.—The regressions of ostracod faunal composition (MDS1) parallel the ostracod diversity result, which suggest faunal composition as a quadratic function of productivity (Table 3, Fig. 9). Four of the five best-supported models include a significant squared productivity term (Table 3). This hump-shaped relationship implies that faunas at low and high levels of productivity are more similar to each other than either is to faunas
+
+FIGURE 8.
+(A), temperature (B), and seasonality of productivity (C). Linear and/or second-order polynomial regression lines are shown, but these may not correspond to the bestfitting model (see Tables 1, 2, 7, and 8 for detailed statistical results).
+during intervals of intermediate productivity. The two dominant genera may be driving this pattern: Krithe is most abundant at intermediate levels of food availability, and Henryhowella shows the opposite pattern (Fig. 10). Didie ́ et al. (2002) suggested that another ostracod taxon, Eucythere, peaks in abundance at intermediate levels of productivity. Although this genus is too rare in our study to evaluate this claim in detail, such patterns may be fairly common. If so, this would require reconsideration of the practice of assuming linear relationships between the relative abundance of productivity-indicator taxa and surface productivity (Cronin et al. 1995; Yasuhara et al. 2008b; Alvarez Zarikian et al. 2009). Instead, approaches that consider the niche position of taxa along gradients (Holland 2003) may be more informative.
+The quadratic relationships between productivity and relative abundances of these taxa are somewhat at odds with recent suggestions that Krithe is an indicator of low-food conditions and Henryhowella indicates ample food supply (Didie ́ et al. 2002). We must therefore regard the environmental preferences of even these very common genera as still uncertain. Nonlinear patterns between productivity and relative abundance may complicate attempts to infer general relationships because the form of the relationship will change depending on the productivity range of a particular locality.
+In addition to productivity, several models support a significant relationship between ostracod MDS1 and temperature (models 1, 2, and 8 in Table 3; Fig. 9), a result consistent with previous suggestions (Cronin et al. 1996, 2002; Didie ́ and Bauch 2000; Didie ́ et al. 2002; Alvarez Zarikian et al. 2009).
+All foraminiferal faunal composition (MDS1) models including the temperature term receive moderate and similar amounts of model support, and this term is significant in all of these models. No other models receive more than minimal support (Table 4), and only the coefficient for the temperature term is significantly different from zero when averaged across models (Table 8, Fig. 9). This result suggests that foraminiferal composition can be strongly modulated by temperature, even though this factor is often emphasized
+CLIMATIC FORCING OF DEEP-SEA ECOSYSTEM 173
+ Species diversity as a function of productivity
+
+174 MORIAKI YASUHARA ET AL.
+  FIGURE 9. Faunal composition (MDS1) as a function of productivity (A), temperature (B), and seasonality of productivity (C). Linear and/or second-order polynomial regression lines are shown, but these may not correspond to the best-fitting model (see Tables 3, 4, 7, and 8 for detailed statistical results).
+FIGURE 10. Relative abundance of dominant ostracod genera Krithe and Henryhowella as a function of productivity (A), temperature (B), and seasonality of productivity (C). Linear and/or second-order polynomial regression lines are shown.
+
+less than food-related parameters by researchers (Hayward et al. 2002; Gooday 2003a). However, we note that two of three dominant foraminiferal species, Alabaminella weddelensis and Epistominella exigua, are known as indicator species for seasonal productivity (Sun et al. 2006), but we cannot evaluate seasonality in these analysis.
+Abundance.—Accumulation rates for ostracods (BOAR) and foraminifera (BFAR) differ in their relationship to environmental factors. For ostracods, all models that receive more than negligible support indicate a humpshaped relationship between abundance and productivity (Table 5). Only the coefficient for the squared productivity term is significantly different from zero, and its negative value indicates an intermediate maximum with respect to productivity (Table 7, Fig. 11). In contrast, model fits suggest that BFAR increases linearly with productivity (Tables 6, 8, Fig. 11). In addition to productivity, several models support a significant positive relationship between BFAR and seasonality of productivity (models 1 and 3 in Table 6; note that a slightly negative regression line is shown in Figure 11 based on simple linear regression [5 model 11 in Table 6, insignificant], but the multiple regression results revealed the positive relationship, i.e., the coefficient for the seasonality term is positive in models 1 and 3), although the confidence interval slightly overlaps with zero (Table 8). These results indicate benthic-pelagic coupling (close link between benthic and planktic ecosystems) for the last 300 Kyr and support studies showing that deep-sea ecosystems are sensitive to changes in flux of organic matter (Gooday 1988; Kitazato et al. 2000). In foraminifera, pulsed organic matter input (i.e., high seasonality of productivity) should strongly enhance reproduction of opportunistic species (5 ‘‘phytodetritus species’’) and, consequently, may positively affect total foraminiferal abundance, suggesting higher sensitivity of foraminifera to seasonality of productivity than ostracods. Moreover, the linear relationship between BFAR and productivity supports the widespread use of BFAR as a proxy for surface paleoproductivity (e.g., Nees et al. 1999; Herguera 2000;
+FIGURE 11.
+of productivity (A), temperature (B), and seasonality of productivity (C). Linear and/or second-order polynomial regression lines are shown, but these may not correspond to the best-fitting model (see Tables 5–8 for detailed statistical results).
+CLIMATIC FORCING OF DEEP-SEA ECOSYSTEM 175
+ Abundance (BOAR and BFAR) as a function
+
+176 MORIAKI YASUHARA ET AL.
+Rasmussen et al. 2002; Gooday 2003a), but taking into account seasonality of productivity may be important for development of better paleoproductivity proxy using foraminiferal abundance. Because greater surface productivity translates into more food for benthic organisms, the decrease in ostracod abundances at very high productivity values may be somewhat surprising. It remains to be seen if this pattern is general, but if so, it might relate to niche differences between ostracods and foraminifera in their preference for habitats with relatively abundant food and possibly lower oxygen concentrations.
+Conclusions
+Climatically driven deep-sea biodiversity and ecosystem changes occur not only in the North Atlantic but also in the North Pacific Ocean during late Quaternary glacial-interglacial cycles. Ostracod and foraminiferal species diversities, faunal compositions, and abundance are all sensitive to late Quaternary climate change. Diversity in both taxa is systematically lower during glacial periods and higher during interglacials on Shatsky Rise, which is similar to patterns from the North Atlantic Ocean. These Shatsky Rise microfossils also provided insights into unique characteristics of remote oceanic plateau ecosystems. In modern Shatsky Rise, ostracod diversity is depressed but foraminiferal diversity is comparable to that of similar latitude North Atlantic sites. These differences, along with the much greater endemicity of the ostracod fauna, are likely explained by the isolation of this oceanic plateau and the poor dispersal ability of ostracods compared to foraminifera.
+At Shatsky Rise, ostracod diversity is a hump-shaped function of surface productivity, whereas there is a weak tendency for foraminiferal diversity to increase linearly with bottom-water temperature. Relative abundance of dominant ostracod species and MDS first axis showed systematic glacialinterglacial changes, suggesting response of faunal composition to orbital climate changes. The multiple regression results suggested that these faunal composition patterns are explained as a quadratic function of productivity and a linear function of temperature in
+ostracods and foraminifera, respectively. BFAR and BOAR were higher during glacials and lower during interglacials, but BFAR is a linear function of productivity and seasonality of productivity, whereas BOAR declines at very high productivity values.
+These findings underscore the global-scale link between deep-sea ecosystems and climate change, and highlight differences in biotic response across different taxonomic groups and different regions of the ocean. More broadly, these analyses support the utility of combining biological and macroecological perspectives (Brown and Maurer 1989; Jablonski et al. 2003; McClain et al. 2009a) with paleoceanographic data to better understand the history of the biosphere.
+Acknowledgments
+We thank K. Ohkushi for foraminiferal data; H. Okahashi and C. Sanford for continuous support; A. Kuroyanagi for help with samples; J. Repetski, C. Bernhardt, S. Holland, A. J. Gooday, and S. A. Schellenberg for valuable comments; and P. Wagner, B. J. MacFadden, L. H. Oviedo, and N. Atkins for editing. This work was supported by a Smithsonian Postdoctoral Fellowship, a Smithsonian Marine Science Network Postdoctoral Fellowship, and the Japan Society for the Promotion of Science Postdoctoral Fellowships for Research Abroad (to M.Y.).
+Literature Cited

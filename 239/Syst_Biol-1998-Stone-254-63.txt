@@ -1,0 +1,159 @@
+Syst. Biol . 47(2) : 254± 263, 1998
+Landmark-Based Thin-Plate Spline Relative Warp Analysis of Gastropod Shells
+J. R. STONE1
+Department of Zoology, University of Toronto, Toronto, Ontario, Canada M5S 3G5
+Abstract.Ð In the analysis of organismal form, landmark-based geometrical morphometrics now are preferred to traditional morphometrics by many systematists. However, certain forms have eluded geometrical morphometric analysis because landmarks on them are difficult to de® ne; this situation is a problem of logistics rather than an inadequacy of the landmarkbased approach. In this article, a landmark-based geometrical morphometric analysis is performed on one such form (the gastropod shell), and the results obtained are compared to those obtained using more traditional methods of morphometric analysis. [Gastropods; geometric morphometrics; landmarks; principal components; thin-plate spline.]
+Mathematical patterns embedded within organismal forms have fascinated the human intellect since antiquity, and the gastropod shell has been the subject of much of this attention (Thompson, 1917). During the past few decades, morphometricians, in general, and conchologists, in particular, have endorsed the use of multivariate statistical techniques to describe organismal and shell forms, respectively.
+During the past decade, there has been a revolution in biometrical analysis (Rohlf and Marcus, 1993; though its roots may be found in ® fteenth century renaissance thought [Bookstein, 1993]), and traditional morphometrics have been replaced by landmark-based geometrical morphometrics. The advantage of the landmarkbased approach is that form and geometry remain integrated throughout analysis, whereas with traditional techniques organismal form is reduced to a mere set of numbers (Bookstein et al., 1985).
+Some groups of biometricians have remained unswayed by the revolution because of logistic difficulties. For example, gastropod conchologists have been sluggish in adhering to the new
+ÐÐÐÐÐ
+1 Present address: Department of Ecology and
+Evolution, State University of New York, Stony Brook, New York 11794-5245, USA.
+E-mail: stone@life.bio.sunysb.edu
+geometrical techniques primarily because the gastropod shell seems unsuitable to the approach: It is difficult to identify landmarks on shells (Johnston et al., 1991). It is possible, however, and, in this article, a de® nition and thin-plate spline relative warp analysis of landmarks of gastropod shells is presented. This approach is compared to other, more traditional methods of morphometric analysis that use multivariate statistical techniques as descriptors of shell form.
+DIFFERENT ANALYTICAL APPROACHES TO A PARTICULAR EVOLUTIONARY SCENARIO
+Imagine that there existed a genus (named Conchus) containing three species and that two of these species shared closer kinship to one another than either did to the third (Fig. 1). Imagine also that the older extant species (Conchus conchus) had a particular shell shape, that one of the more recent sister species (C. stoutoconchus) had a shell that coiled more loosely, with relatively wider whorls, and that the other more recent sister species (C. slendoconchus) had a shell that coiled more tightly, with relatively narrower whorls (Fig. 1). Morphometricians and conchologists strive to quantify these diƒerent forms and, if at all possible, to do so in a manner that yields a maximum amount of information.
+Currently, and in a general sense, at least three approaches to the analysis of
+254
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+1998 STONEÐ LANDMARK-BASED ANALYSIS OF SHELLS 255
+  FIGURE 1. Evolutionary relationships and shells of hypothetical gastropod genus Conchus.
+shell form are available : traditional morphometrics (e.g., Murray, 1982; Janson and Sundberg, 1983), mathematical modeling (e.g., LoÈ vtrup and LoÈ vtrup, 1988 ; Ackerly, 1989), and landmark-based geometrical morphometrics (e.g., Ackerly, 1990 ; Johnston et al., 1991 ; W agner, 1995). Traditional morphometrics consists of subjecting measurements of shell and aperture heights and widths (e.g., h, d and ah, aw in Fig. 2) to some type of ordination analysis, such as principal components analysis or discriminant function
+FIGURE 2. Graphical representation of the projected aperture trajectory of a gastropod shell with variables used in various morphometric analyses labeled.
+analysis, to group shell forms in multivariate space. Mathematical modeling consists of using only a few parameters to describe shell form (e.g., O, T, H, and V in Fig. 2); statistical analysis of observed parameter values, or their distribution in morphological space, serves to diƒerentiate among shell forms. Geometrical morphometrics consists of analyzing data representing particular points de® ned by some rule (landmarks) on shell surfaces ; identifying these points on gastropod shells has been highly taxon speci® c, ranging from sets of seven varix± suture intersections on the surface of shells of Epitonium (Johnston et al., 1991) to points of possible functional signi® cance on the perimeter of apertures of Paleozoic gastropod shellsÐ the sinus apex being the probable location of the anus, for example (Wagner, 1995). But it is possible to de® ne landmarks of shells in a more general sense.
+LANDMARKS ON GASTROPOD SHELLS
+Johnston et al. (1991) warned that, other than the protoconch± teleoconch boundary (marking metamorphosis) and gerontic features of gastropods with determinate growth, both of which leave de® nite morphological evidence on shell surfaces, the identi® cation of homologous landmarks on shells might be highly subjective and arbitrary. For example, the accretion of calcium carbonate through an angular revolution of 2p radians (the arbitrary concept of a whorl) need have no biological reality a priori, though whorls often are used to de® ne growth stages of gastropods (Johnston et al., 1991).
+Nevertheless, there are practical advantages to using whorls in morphometric analyses of gastropod shells (Stone, 1995). For example, sectioning shells close to the coiling axis (line labeled h in Fig. 2), with the plane of section at a ® xed angle to the plane of the ® nal aperture, into two half-shells (sets of half-whorls) provides a convenient means of obtaining morphometric data (the same data may be obtained from a
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+256 SYSTEMATIC BIOLOGY VOL . 47
+ radiograph of the shell, a procedure whereby the specimen remains intact). Moreover, because a shell is accreted by the animal living inside as it ages, a shell contains a complete record of ontogeny for its owner, and whorls provide an objective means of dividing this ontogenetic information for the analysis of shape and size.
+For every aperture outline of a sectioned shell (ellipses in Fig. 2), there exists one point that is unique in that it can be de® ned in an objective, reproducible manner and is size independent: the centroid. The path in space traversed by the sequence of aperture centroids fromtheapextothe®nallipofashellis termed the aperture trajectory (Stone, 1995). If the positions of shell apertures are considered at only half-whorl intervals, the trajectory is projected onto a plane, and successive projected aperture centroids can be connected graphically, thereby forming a zig-zag pattern (Fig. 2). The sequence of points from the apex of the shell, through each projected centroid, back (perpendicularly) to the coiling axis, and up to the apex constitute easily obtained, objective, reproducible, geometrically de® ned (Type II, SUNY at Stony Brook Internet site, http :// life.bio.sunysb.edu) landmarks that can be analyzed to describe shell form.
+These landmarks diƒer from those involved in geometrical morphometric analyses of insect wings (Rohlf, 1993), ® sh bodies (Fink and Zelditch, 1995), or mammal skulls (Zelditch et al., 1992), for example, in which the physical parts of organisms that are represented by landmarks change with ontogeny. Gastropods accrete, rather than grow, their shells, so points on shell surfaces accumulate in time. The aperture trajectory, therefore, provides a record of shell accretion throughout the life of the animal inside, beginning at the apex (top of the spire, Fig. 2) and culminating at the ® nal apertural lip (of the body whorl, Fig. 2). Therefore, the landmarks of an adult shell contain developmental information, in addition to information concerning the
+® nal result of the developmental process (i.e., how, in addition to what, the shape came to be).
+METHODS
+In this article, a comparison is made among the results of a principal components analysis of traditional morphometric shell variables (shell width [d], shell height [h, really length], aperture width [aw], and aperture height [ah], Fig. 2), a principal components analysis of parameters obtained from mathematical modeling of shells (O, T, H, and V for each of four whorls, Fig. 2Ð parameters shown for only the ® nal whorl; Stone, 1995), and a geometrical morphometric, thin-plate spline relative warp analysis of projected aperture trajectory landmarks (numbered 1 to 9, Fig. 2).
+The ``specimens’’ analyzed consisted of 30 individuals (15 of each of C. stoutoconchus and C. slendoconchus) simulated by computer. The simulations were performed using the computer program CerioShell (Stone, 1995). Initially, a shell of C. conchus was simulated (on the basis of an actual specimen of Polinices heros (Say 1822)) and the parameters in the model were varied continuously to evolve holotype specimens of C . stoutoconchus and C. slendoconchus (O 5 0.012q 1 ́50 5 H, T 5 0.012q 1 ́50 5 V, respectively, where q is the angular rotation about the coiling axis [Stone, 1995]). Then the 30 individual specimens to be analyzed were simulated, using a modi® ed version of the model contained in CerioShell: at each growth stage, an error term was added to each of the four aspects of shell form aƒected by changes of the four parameters (O, aƒecting the oƒset of an aperture from the coiling axis; T, aƒecting the translation of an aperture along the coiling axis; H, aƒecting the horizontal expansion of an aperture, perpendicular to the coiling axis; and V, aƒecting the vertical expansion of an aperture, parallel to the coiling axis ; Fig. 2). Each error term was normally distributed and constrained to be within the range of plus or minus 5% of the value of that particular aspect
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+1998 STONEÐ LANDMARK-BASED ANALYSIS OF SHELLS 257
+ of holotype shell form, the actual number from within the range being selected by a random number generator. Data sets containing the appropriate measurements for the various analyses were constructed (matrices containing data analyzed in this article are available at the SSB World Wide Web site, http:// www.utexas.edu/depts/systbiol/).
+There are two advantages to using simulated data that greatly outweigh the disadvantage of their nonreality. First, the amount of morphological variation of shells within either species is constrained to vary within 5% (absolute magnitude) throughout shell growth. This limits the noise inherent in the data, facilitating the detection of biological signals of form by analyses. Second, there is complete knowledge about the historical interrelationships among the three species. In both a morphometric and evolutionary sense, therefore, this ® ctitious data set is more complete than is a data set obtained from measurements of actual specimens, and, consequently, results from diƒerent analyses can be compared to examine how much information is yielded by each, with certainty.
+Principal components analyses of logtransformed traditional morphometric shell data and parameters obtained from mathematical modeling of shells were performed on variance-covariance matrices. The eigenvectors and associated eigenvalues are displayed in Tables 1 and 2.
+Relative warp analysis (Bookstein, 1991) describes shape change as the deformation of landmarks from a refer-
+ence con® guration into those of each member in a group of specimens of interest. First a matrix of data derived from squared interlandmark distances of the reference con® guration is calculated ; this matrix is known as the bending energy matrix. Eigenvalues of the bending energy matrix yield eigenvectors known as principal warps. The magnitude of such eigenvalues corresponds inversely to scale, such that large eigenvalues describe small-scale features of bending (i.e., deformation of landmarks in close proximity to one another) and vice versa. At least three eigenvalues will equal zero. These correspond to affine components of deformation (translation, rotation, and dilation), which are of in® nite scale. Eigenvectors obtained from a principal components analysis of scores of projections of principal warps, or partial warps, are known as relative warps. Given p landmarks in an analysis, there will be (p2 3) principal warps with nonzero eigenvalues and the lesser of (n2 1) or 2(p2 3) relative warps, where n is the number of specimens in the analysis (Rohlf [1993a] provides a mathematical treatment of all of these concepts.)
+The transformation of the reference landmark con® guration into the various specimens by relative warps can be displayed conveniently, using the physical metaphor of a thin-plate spline; that is, the change of the reference con® guration can be analogized to that of an in® nitely thin, uniform metal plate constrained at landmark coordinates but otherwise free to adopt the form that minimizes bending energy.
+TABLE 1. Principal components of traditional morphometric shell variables. The eigenvalues of each component and the percentage of variance accounted for by each component are listed in the ® nal two rows.
+Variables PC1 PC2 PC3
+PC4
+0.804 0.241 0.420 0.421 0.000218 0.12%
+d 0.503 h2 0.505 aw 0.503 ah 2 0.488
+0.174 99.38%
+2 2
+0.186 2 0.257 0.522 2 0.687 0.729 0.199 0.40902 0.650 0.000594 0.000281 0.34% 0.16%
+2
+2 2
+2
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+258 SYSTEMATIC BIOLOGY VOL . 47
+ TABLE 2. The ® rst four principal components of parameters obtained from mathematical modeling of shells. The eigenvalues of each component and the percentage of variance accounted for by each component are listed in the ® nal two rows.
+Parameters PC1 PC2 PC3 PC4
+O1 T1 H1 V1 O2 T2 H2 V2 O3 T3 H3 V3 O4 T4 H4 V4
+2
+2 0.457 0.165 0.041 0.045 0.288 0.323 0.175 0.153 0.203 0.558 0.088 0.278 0.154 0.032 0.218 0.098 3.452
+99.78%
+0.456 2 0.451 2 0.330 2 0.258 0.004 0.147 0.069 0.226 0.075 2 0.251 2 0.004 0.271 2 0.140 0.016 0.268 0.336 0.135 0.151 0.186 0.274 0.254 2 0.329 0.417 0.236 0.169 0.173 0.161 0.144 0.390 0.222 0.288 2 0.213
+0.00208 0.00162 0.06% 0.05%
+2 2
+0.461 0.240 0.243 0.259 0.001 0.491 0.316 0.216 0.201 0.022 0.173 0.144 0.057 0.129 0.254 0.200 0.00156 0.05%
+Projected aperture landmarks of the 30 specimens were transformed to shape coordinates (Bookstein, 1991), with the points joining the apex of the shell to the most abapical point on the coiling axis (landmarks 1 and 9, Fig. 2) forming the baseline, using the computer program XY (Baylac, 1993). Shape coordinates describe shape variation without reference to size variation (Bookstein, 1991). The shape coordinates were subjected to thin-plate spline relative warp analysis, using shape coordinates of the holotype specimen of C. conchus as the reference con® guration. The exponential weighting parameter (a ) was assigned a value of zero, giving equal weight to distances at all scales (Procrustes analysis), and specimens were superimposed by leastsquares Procrustes alignment with respect to the reference con® guration. The analysis was performed using the computer program TPSRW (Rohlf, 1993).
+RESULTS
+The analysis of traditional morphometric shell variables yielded four principal components, which together account for all of the variance of the data
+(Table 1). The
+(PC1) describes shape and distinguishes between wide shells with wide apertures (d and aw) and long shells with long apertures (h and ah). The separation of species is clear (Fig. 3a): C. stoutoconchus (specimens 1± 15) scores higher on PC1 than does C. slendoconchus (specimens 16± 30). This component accounts for the overwhelming majority (99.38%) of the variance, leaving little to be accounted for by the remaining three. The second component (PC2) describes size, as all coefficients are unidirectional (have the same sign); the third component distinguishes between small shells with large apertures and large shells with small apertures; and the fourth component distinguishes between long shells with wide apertures and wide shells with long apertures. There is no clear separation of species on any of these latter components.
+The analysis of parameters obtained from mathematical modeling of shells yielded 16 principal components, of which only the ® rst 2 are considered here. Together, these account for 99.84% of the variance of the data. The ® rst principal component (PC1) distinguishes shells having minimally oƒset initial
+2
+2
+2
+2
+2
+2 2
+2 2
+2
+2
+2
+2
+® rst principal component
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+1998
+STONEÐ LANDMARK-BASED ANALYSIS OF SHELLS 259
+  FIGURE 3.
+plots of traditional morphometric shell variables (a; eigenvalues and eigenvectors in Table 1) and parameters obtained from mathematical modeling of shells (b; eigenvalues and eigenvectors in Table 2). Individual points labeled with specimen numbers (1± 15, Conchus stoutoconchus ; 16± 30, Conchus slendoconchus).
+whorls (small O1) and minimally translated later whorls (small T3) from shells showing opposite ontogenetic trends. As with the traditional morphometric analysis, the separation of species is clear (Fig. 3B): C. stoutoconchus (specimens 1± 15) scores higher on PC1 than does C. slendoconchus (specimens 16± 30). Again, the ® rst component accounts for the overwhelming majority (99.78% ) of the variance, leaving little to be explained by the others : The second component (PC2) distinguishes shells with maximally oƒset (O1) and minimally translated (T1) initial whorls and minimally vertically expanded (V3) and maximally horizontally expanded (H4) later whorls from shells showing opposite ontogenetic trends.
+The landmark-based geometrical morphometric analysis yielded (92 35 ) 6
+principal warps, [2(92 3)5 ] 12 partial warps (of which only 10 are signi® cantly diƒerent from zero according to the computer algorithm), and (therefore) 10 relative warps (Table 3). Eigenvalues of the ® rst two relative warps are greater than eigenvalues of other relative warps by a factor of approximately 10 and, so, are the only relative warps considered in this article.
+The ® rst relative warp is contributed to predominantly by the x (longitudinal, or vertical in Fig. 2) component of principal warp 6, whereas the second relative warp is contributed to predominantly by the y (transverse, or horizontal in Fig. 2) component of principal warp 5 (Table 3). Because the loadings of other principal warps on these relative warps are much lower (Table 3), the relative warps are aligned with the principal warps, and the thin-plate splines (Fig. 4) graphically describe relative warp deformations as well as approximate relative warp loadings (vectors in Fig. 4) simultaneouslyÐ an incidental, economical, and fortunate summary of the data ! (Ordinarily, thinplate splines depict how the reference con® guration would appear under a pure transformation, a transformation along one relative warp axis with no transformation along any of the others, whereas vectors represent relative warp loadings pointing in directions of maximum variation of the joint scatter among the specimens. Transformations and vectors might be oriented diƒerently.)
+The ® rst relative warp (Fig. 4a) represents a longitudinal compression of the initial stages of the aperture trajectory (landmarks 1 through 6) and a longitudinal extension of later stages (landmarks 7 through 9), or, biologically, a longitudinal contraction of the spire and expansion of the body whorl. The second relative warp (Fig. 4b) represents a lateral extension of the initial stages of the aperture trajectory and a lateral compression of later stages, or, biologically, a lateral expansion of the spire and contraction of the body whorl (Fig. 2). A scatterplot of the second relative warp (RW2) against the
+Principal
+components
+(PC) space
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+260 SYSTEMATIC BIOLOGY VOL . 47
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+TABLE 3. Normalized relative warps for projected aperture trajectory landmark data of gastropod shells. Principal warps are rows and relative warps are columns. The eigenvalues for the relative warps are listed at the bottom.
+5y: 6x: 6y:
+2
+1 2 3 4 5 6 7 8 9 10
+1x: 2 0.06241 0.00474
+1y: 2 0.00572 2 0.06020
+2x: 0.06860 2 0.01270
+2y: 2 0.00868 2 0.10107
+3x: 2 0.06021 0.02348
+3y: 2 0.02211 2 0.14257
+4x: 0.01225 0.01715
+4y: 2 0.03409 2 0.24670
+5x: 0.28663 2 0.03860
+2 2
+0.01721 0.01379 0.14164 0.03169 0.31739 0.11406 0.89294 0.11109 0.20737 0.03506 0.08246 0.06317
+2 2
+0.02203 2 0.01177 0.00668 0.00621 0.01139 0.04858 0.24854 2 0.07135 2 0.73117 0.00057 2 0.18314 2 0.07762 0.87481 0.18445 2 0.05316 0.04390 2 0.18456 2 0.24103 0.31787 2 0.05389 2 0.30477 0.20684 0.89268 2 0.02182 0.09021 2 0.16794 0.53558 0.04610 2 0.24155 0.01380 0.09739 0.06982 2 0.11040 0.08312 2 0.04260 2 0.05876 0.01017 0.00841 0.00594
+2 0.01236 0.15856 0.10822 0.07063 0.20294 2 0.25106
+2
+0.25017 0.04889 0.48608 0.29193 0.24366 0.04620 0.03165 0.10276 0.62665 0.20349 0.22970 0.23152 0.00210
+0.20166 0.39379 0.07547 0.41552 0.07372 0.35302 0.02561 0.12698 0.05192 0.31601 0.00232 0.61360 0.00194
+2 0.10528 2 0.80516 0.94311 2 0.11840 0.05621 0.49006 0.16074 0.15663
+2 2 2
+2 2
+2 2 2
+00.01964
+2 2
+2
+2 0.16921 0.76110 00.08117 2 0.12244 2 0.81975 0.03126 2 0.05408 2 0.02206 2 0.23492 0.00345 2 0.20756 2 0.26184 0.00259 2 0.32651 0.03678 0.09471 2 0.37039 2 0.35959 0.00448 0.00278
+2 2
+2
+
+1998 STONEÐ LANDMARK-BASED ANALYSIS OF SHELLS 261
+  FIGURE 4. Relative warps (RW) of projected aperture trajectory landmarks (eigenvalues and principal and relative warps in Table 3) displayed as thin-plate splines (RW1 in a, RW2 in b ; positive deformation at top, landmarks with vectors representing positive deformation in middle, and negative deformation at bottom). Shell orientation is rotated 90° with respect to that in Figure 2 (i.e., the shell apex is at the left).
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+262 SYSTEMATIC BIOLOGY VOL . 47
+  FIGURE 5. Scatterplot of the second relative warp (RW2) against the ® rst relative warp (RW1) of projected aperture trajectory landmarks (eigenvalues and principal and relative warps in Table 3).
+® rst relative warp (RW1) unambiguously separates species (Fig. 5) : C . slendoconchus (specimens 16± 30) scores higher on both relative warps than does C. stoutoconchus (specimens 1± 15).
+DISCUSSION
+Because shells represent ontogenetic records of their owners, diƒerences in shell shape between closely related species may represent variations of shared developmental programs. The examination of shell shape, therefore, may be a biologically informative comparative technique, as opposed to a procedure whereby multivariable data sets merely are summarized numerically.
+In this article, the application of three methods of analysis to a sample of 30 specimens representing two closely related, congeneric species is presented. All three analyses successfully reveal that the specimens can be clustered into proper, distinctive groups. However, the type of information obtained from the three methods diƒers: The traditional morphometric analysis distinguishes species by contrasting gross aspects of shell dimensions (wide shells and apertures versus long shells and apertures); the analysis of parameters obtained from mathematical modeling of shells distinguishes species by contrasting ® ne
+aspects of ontogeny (shells with minimal initial oƒset and later translation versus shells with opposite ontogenetic trends); and the thin-plate spline relative warp analysis of projected aperture trajectory landmarks distinguishes species by contrasting general ontogenetic trends (contractions and expansions of the spire with respect to expansions and contractions of the body whorl).
+The diƒerences among the results obtained from the various techniques, therefore, are manifested in terms of scale. The traditional morphometric analysis provides information concerning large-scale variation of shape, the cumulative result of ontogeny. The analysis of parameters obtained from mathematical modeling provides information concerning ® ne-scale variation, the individual components of ontogeny. And the thin-plate spline relative warp analysis provides information concerning intermediate-scale variation, the ontogenetic trends among the specimens. Which method should be used in any given study depends entirely on the type of information sought.
+The disadvantage of using mathematical shell model parameters or projected aperture trajectory landmarks to analyze shell shape is that both restrict analysis to shells with equal numbers of whorls; otherwise, homology among whorls of diƒerent specimens and comparisons between various parameters and corresponding landmarks are difficult to determine. In such cases, then, the traditional morphometric analysis may the only means of comparing shape. The analysis of parameters obtained from mathematical modeling provides the best resolution of individual ontogeny, and so may be the method best suited to examine individual, intraspeci® c variation. And, according to the results of the analysis presented here, the landmarkbased geometrical morphometric analysis, which describes general ontogenetic trends among specimens, may aƒord the best means of distinguishing gastropod shells of diƒerent species.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012
+
+1998 STONEÐ LANDMARK-BASED ANALYSIS OF SHELLS 263
+ The landmark-based approach described in this article marks new application of geometrical techniques. Heretofore, these techniques have been applied to forms at a particular stage of ontogeny (juveniles, adults, etc.), and ontogenetic information could be summarized only by using a reference con® guration of a juvenile as a basis for deformations of adult forms (e.g., Zelditch et al., 1992). The landmarks used in this study record individual ontogenetic trajectories, so data summaries generate, as opposed to merely capture, shape.
+ACKNOWLEDGMENTS
+T. Dickinson assisted in the warping of my ideas; P. Ross, N. Talent, and J. Ager, who were warped along with me, provided support; D. Adams, W. Algharabiebeh, S. Busilacchi, S.-F. Shiao, and D. Slice (the ``slice of life’’) provided comments; and F. J. Rohlf provided comments and suggestions.
+REFERENCES
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 11, 2012

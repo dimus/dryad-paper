@@ -1,0 +1,164 @@
+  Generic Indicators for Loss of Resilience Before a Tipping Point Leading to Population Collapse
+Lei Dai et al.
+Science 336, 1175 (2012);
+DOI: 10.1126/science.1219805
+This copy is for your personal, non-commercial use only.
+   If you wish to distribute this article to others, you can order high-quality copies for your colleagues, clients, or customers by clicking here.
+Permission to republish or repurpose articles or portions of articles can be obtained by following the guidelines here.
+The following resources related to this article are available online at www.sciencemag.org (this information is current as of June 8, 2012 ):
+Updated information and services, including high-resolution figures, can be found in the online version of this article at:
+http://www.sciencemag.org/content/336/6085/1175.full.html
+Supporting Online Material can be found at: http://www.sciencemag.org/content/suppl/2012/05/30/336.6085.1175.DC1.html
+This article cites 26 articles, 3 of which can be accessed free: http://www.sciencemag.org/content/336/6085/1175.full.html#ref-list-1
+This article appears in the following subject collections: Microbiology http://www.sciencemag.org/cgi/collection/microbio
+ Science (print ISSN 0036-8075; online ISSN 1095-9203) is published weekly, except the last week in December, by the American Association for the Advancement of Science, 1200 New York Avenue NW, Washington, DC 20005. Copyright 2012 by the American Association for the Advancement of Science; all rights reserved. The title Science is a registered trademark of AAAS.
+Downloaded from www.sciencemag.org on June 8, 2012
+
+ Generic Indicators for Loss of Resilience Before a Tipping Point Leading to Population Collapse
+Lei Dai,1* Daan Vorselen,2* Kirill S. Korolev,1 Jeff Gore1†
+Theory predicts that the approach of catastrophic thresholds in natural systems (e.g., ecosystems, the climate) may result in an increasingly slow recovery from small perturbations, a phenomenon called critical slowing down. We used replicate laboratory populations of the budding yeast Saccharomyces cerevisiae for direct observation of critical slowing down before population collapse. We mapped the bifurcation diagram experimentally and found that the populations became more vulnerable to disturbance closer to the tipping point. Fluctuations of population density increased in size and duration near the tipping point, in agreement with the theory.
+Our results suggest that indicators of critical slowing down can provide advance warning of catastrophic thresholds and loss of resilience in a variety of dynamical systems.
+REPORTS
+perturbations becomes longer (11, 18) and hence the system becomes more correlated with its past, leading to an increase in autocorrelation. In addition, the perturbations accumulate and result in an increase in the size of the fluctuations (10). Other statistical indicators, such as skewness, have also been proposed as warning signals because of the change in stability landscape before bifurcations (19).
+An increase in variance or autocorrelation of fluctuations of the system has been observed to precede a regime shift in a lake ecosystem (13), abrupt climate change (9, 14), transitions in coordinated biological motion (20), and the cascading failure of the North America Western Interconnection power system in 1996 (21); these findings suggest the existence of bifurcation-type tipping points and associated critical dynamics in many systems. Because the complex dynamics underlying these systems makes it difficult to determine the nature of the transitions, studies in controlled systems are required. Recent studies in laboratory water fleas (12) and cyanobacterial monoculture (16) measured the warning signals under controlled conditions. However, the transition in the deteriorating-environment experiment of water fleas, probably due to a transcritical bifurcation, was noncatastrophic (fig. S1). Moreover, in both systems the tipping points were not determined directly by experiments. Thus, neither study constituted a demonstration of early warning signals before an experimentally mapped fold bifurcation in a live system. Such a study can also test directly the possibility of using critical slowing down to indicate loss of ecological
+Stable fixed point
+Unstable fixed point
+Extinction
+1000 1500 2000 Dilution factor
+Natural populations can experience catastrophic collapse in response to small changes in environmental conditions, and recovery after such a collapse can be exceedingly difficult (1, 2). Tipping points marking population collapse and other catastrophic thresholds in natural systems may correspond to
+1Department of Physics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA. 2Department of Physics and Astronomy, VU University, 1081 HV Amsterdam, Netherlands.
+*These authors contributed equally to this work.
+†To whom correspondence should be addressed. E-mail: gore@mit.edu
+a fold bifurcation in the dynamics of the system (3–6). Even before crossing a tipping point, a system may become increasingly vulnerable to perturbations due to loss of “ecological resilience” (i.e., size of the basin of attraction) (4, 7). There has been a growing interest in the possibility of using generic statistical indicators, primarily based on critical slowing down, as early warning signals of impending tipping points in various systems (8–16). In dynamical systems theory, critical slowing down refers to the slow recovery from small perturbations in the vicinity of bifurcations (8, 17). As the system approaches a bifurcation, the time needed to recover from
+A 6 10
+105
+Dilution factor 750
+B
+6 10
+105
+Dilution factor 1400
+E106 5
+10
+4 10
+3 10
+0
+44 10 10
+33 10 10
+02460246
+Day
+C 101 00
+Day
+D101 10 10
+nt+1/nt Population density (cells/μl)
+Population density (cells/μl)
+Downloaded from www.sciencemag.org on June 8, 2012
+10−1
+10−1
+345 345
+Unstable fixed point
+Stable fixed point
+0
+500
+10 10 10 10 10 10 nt (cells/μl) nt (cells/μl)
+Fig. 1. Cooperative growth of yeast in sucrose leads to bistability and a fold bifurcation. (A to D) Individual populations started at different initial densities were grown in 2% sucrose with daily dilutions into fresh media [(A) and (C), dilution factor 750; (B) and (D), dilution factor 1400]. Small populations below a critical density (an unstable fixed point) went extinct (red traces), whereas larger populations converged (blue traces) and maintained a stable density (a stable fixed point). As shown in (C) and (D), the stable and unstable fixed points
+can be identified as fixed points at which the ratio of population densities between subsequent days nt+1/nt = 1, where nt is the population density at day t (t = 1 to 6). As the daily dilution factor is increased, the two fixed points approach each other. (E) The stable and unstable fixed points measured by experiments are shown as symbols (fig. S3); the lines represent a typical fit given by the two-phase growth model (fig. S4). A fold bifurcation occurs at a dilution factor where the stable and unstable fixed points “collide” and annihilate.
+www.sciencemag.org SCIENCE VOL 336 1 JUNE 2012 1175
+
+ REPORTS
+resilience, as suggested previously in models (11). Here, we present an experimentally constructed bifurcation diagram and clear evidence of both loss of resilience and critical slowing down before a fold bifurcation leading to population collapse.
+A catastrophic threshold may underlie the collapse of many natural populations subjected to a deteriorating environment. Likely examples are the collapse of sardine stocks off California and Japan in the late 1940s and the collapse of the Canadian cod fishery in the 1990s (1, 2). One reason for such sudden collapse is that the per capita growth rate of many populations is maximal at intermediate densities and negative at low densities—a phenomenon called the strong Allee effect (22). At high population densities, the per capita growth rate is reduced because of resource competition; at low population densities, the per capita growth rate can be negative because of difficulties in finding mates, forming groups for hunting or predator avoidance, or engaging in other cooperative behaviors. The Allee effect has been observed across many species and has major impacts on the dynamics and viability of populations (23, 24). As the environment deteriorates, a population subject to a strong Allee effect is pushed across a fold bifurcation, beyond which it enters a catastrophic collapse that can be difficult to reverse. Near the bifurcation, a population becomes less resilient because the basin of attraction around the stable state shrinks, elevating the
+A
+chance of extinction by stochastic perturbations. The approach of catastrophic thresholds and the accompanying loss of resilience can occur without a substantial preceding drop in population density; they are also difficult to predict because of incomplete understanding of the population dynamics and the lack of field data to determine model parameters (25). Thus, finding early warning signals before the catastrophic collapse of a given population has important implications for successful environmental management (4, 26).
+We used the cooperative growth of budding yeast in sucrose to realize the Allee effect. Yeast cells hydrolyze sucrose outside of the cell, hence yeast can benefit from the hydrolysis products of other cells in the population (27). This cooperative breakdown of sucrose makes the per capita growth rate of yeast ~40% higher at intermediate cell densities than at low cell densities (fig. S2), thus displaying the desired Allee effect.
+We observed bistability in population density by starting yeast cultures with a wide range of initial cell densities and performing daily di-
+lutions into fresh media. During the daily dilution, only a small fraction (e.g., 1 in 750, for dilution factor 750) of the population was transferred to the new media with 2% sucrose. This is equivalent to introducing a mortality rate and led to a negative growth rate at low initial cell densities. Therefore, cultures starting below a critical density went extinct, whereas cultures starting at higher initial densities survived and reached a finite stable fixed point (Fig. 1, A and B). As a result of stochastic perturbations, we found that replicate populations starting near the critical density (unstable fixed point) split, with some populations surviving and others going extinct. An analysis of the change in population density between subsequent days as a function of the density on the first day allowed for the identification of both stable and unstable fixed points for a given dilution factor (Fig. 1, C and D). As expected, the cooperative growth of yeast populations in sucrose led to maximal growth at intermediate densities.
+Performing these experiments for eight different daily dilution factors (28), we mapped out
+1176
+1 JUNE 2012 VOL 336 SCIENCE www.sciencemag.org
+B 106 105
+104
+3 10
+Dilution factor
+250 500
+750
+825
+0.15 0.1 0.05 00
+40 Salt shock 20
+0
+0 2 4 6 8 10
+Deviationt (105 cells/μl)
+0
+tion (dilution factor 1400) 8 is closer to the bifurcation.
+(B to E) Plots of dilution 6 factor versus coefficient
+of variation (B), standard 4 deviation (C), autocorre2 lation time (D), and skew-
+ness (E). Both the size
+Frequency
+Deviationt (105 cells/μl) C 0.2
+Frequency
+0 2 4 6 8 10 Day
+Fig. 2. The resilience of yeast populations decreases with dilution factor. The populations were grown at fixed daily dilution factors and stabilized during the initial 4 days. (A) Sodium chloride (30 g/liter) produced a salt shock during day 5. (B) Populations at low dilution factors were able to recover; those at higher dilution factors were pushed across the unstable fixed point by the perturbation and went extinct.
+500 1000 1500
+Dilution factor
+500 1000 1500
+and the time scale of the
+fluctuations of the popu-
+lation density increased before the fold bifurcation; no systematic change in skewness was observed. Indicators were calculated on the basis of an ensemble of at least 46 replicate populations over a span of 5 days after they converged to the stable fixed point. Deviation was calculated by subtracting the sample mean on each day. Data shown in the histogram include 5 days; t = 1 to 4 for temporal correlation plots. Error bars are SEs given by bootstrap (28).
+A
+Dilution factor 750
+Dilution factor 1400
+0.4 0.2
+−0.2
+−0.4 −0.4
+0.4
+0.2 00
+−0.2
+0
+0.2
+0.4 0 0.1 0.2
+−0.2
+−0.4
+−0.4 −0.2
+0 0.2
+0.4 0 0.1 0.2
+Fig. 3. Critical slowing
+down leads to increasing variation and autocorre-
+lation time in population
+density near the fold bifurcation. (A) Changes
+in the distribution and temporal correlation of deviations from the sta-
+ble fixed point. One con-
+dition (dilution factor
+750) is far from the biD 10 furcation; another condi-
+B 0.25 0.2 0.15 0.1 0.05
+500 1000 1500 0 Dilution factor
+E1 0.5
+0
+−0.5
+0−1
+Population density (cells/μl) [NaCl] (g/L)
+Autocorrelation time (days) Coefficient of variation
+Skewness Standard deviation (105 cells/μl)
+Deviation t+1 (105 cells/μl)
+Downloaded from www.sciencemag.org on June 8, 2012
+0 500 1000 1500 0 Dilution factor
+Dilution factor
+
+ an experimental bifurcation diagram describing yeast growth in sucrose (Fig. 1E). At small dilution factors (250), yeast populations were always able to reach a stable nonzero fixed point. At intermediate dilution factors (500 to 1600), the population displayed bistability due to cooperative growth, with one stable fixed point at a finite population density and the other at extinction. As the dilution factor (i.e., the mortality rate) was increased, the population density at the nonzero stable fixed point decreased and the population density at the unstable fixed point increased (Fig. 1, C to E). A fold bifurcation occurred where the stable and unstable fixed points “collide” and annihilate. For higher dilution factors, populations always collapse, as extinction is the only stable state. We constructed a simple deterministic model of yeast growth based on the experimentally observed slow exponential growth at low population densities and faster logistic growth at higher population densities (figs. S2 and S4). With this simple two-phase growth model, we were able to fit the experimental bifurcation diagram using parameter values that agree well with those measured in independent experiments (table S1).
+Closer to the bifurcation, we expect the population to become more vulnerable to perturbations (4, 11). In our experimental bifurcation diagram, loss of ecological resilience is manifested as the shrinking basin of attraction between the stable and the unstable fixed points (Fig. 1E). Natural disturbances are then more likely to push the population across the unstable fixed point, leading to extinction. We tested the resilience of yeast populations at different dilution factors by a salt shock of sodium chloride for 1 day (Fig. 2). As expected, populations at low dilution factors were able to recover from the perturbation, whereas those at higher dilution factors were not able to withstand the shock and went extinct. The decreasing capacity of a population to recover from perturbations without shifting to an alternative state provides an empirical demonstration of loss of resilience before a tipping point.
+We then used our experimental system to test whether theoretically predicted early warning signals can be observed before the fold bifurcation. Once the populations at different dilution factors reached equilibrium (stable fixed points), we tracked the fluctuations of population density for 5 days and calculated the proposed early warning signals over an ensemble of at least 46 replicate yeast populations (28). Upon approach of the fold bifurcation, we observed a clear increase in the size of the fluctuations (Fig. 3, A to C). Both the coefficient of variation and the standard deviation began to increase substantially around dilution factor 1000, well before the bifurcation. The coefficient of variation increased by more than a factor of 4; the standard deviation more than doubled.
+We also measured the autocorrelation time, which characterizes the typical time scale of
+correlation between fluctuations at different points in time. The autocorrelation time increased markedly for dilution factors larger than 1200, from less than 2 days to more than a week (Fig. 3, A and D). In addition, we estimated the characteristic return time to the stable fixed point by fitting an exponential relaxation (fig. S5). We observed a clear increase in return time, which in theory equals the autocorrelation time (11, 18).
+The observation that fluctuations of population density became larger and more correlated clearly indicated critical slowing down. Moreover, our experimental observations were supported by simulations of a stochastic difference equation based on the two-phase model of yeast growth (fig. S6). Previous studies in different systems, including a whole-ecosystem experiment in lakes (13), laboratory cyanobacterial monoculture (16), and paleoclimate data (9, 14), revealed early warning indicators before a fold bifurcation predicted by models. Our study with an experimentally constructed fold bifurcation revealed all the indictors associated with critical slowing down. The observation of early warning signals in various systems lends support to the notion that critical slowing down is a universal phenomenon preceding transitions in complex systems.
+A primary advantage of laboratory experiments is that they enable comparison of the quality of different early warning signals in a well-controlled system. With this goal in mind, we tested skewness, a suggested early warning signal not based on critical slowing down (19). The skewness, which measures the asymmetry of fluctuations in population density, is expected to increase in magnitude near the fold bifurcation because of asymmetrical changes in the stability landscape. Indeed, there has been some experimental support for the change in skewness as an early warning signal (12, 13). However, in our data there was no systematic change in skewness (Fig. 3E). Stochastic simulations of yeast growth suggest that no change in skewness should be detectable with our sample size (fig. S7). Moreover, as the dilution factor is increased in the model, both sides of the stability landscape become flatter and the magnitude of skewness actually decreases, in contrast to previous theoretical arguments (19). Thus, both the experimental data and simulation suggest that skewness is not a good warning signal in our system.
+Our results show that critical slowing down can provide early warning signals for loss of resilience before a fold bifurcation that leads to catastrophic population collapse. Ecosystem management depends on monitoring and maintaining resilience, because loss of resilience renders ecosystems more vulnerable to undesirable shifts (4, 7, 11, 29, 30). Our results and work by others (12, 13, 16) suggest that a set of generic indicators may aid in the sustainable management of fragile ecosystems. Signals of critical slowing down based on time series demand ob-
+REPORTS
+servations over a long span, which are often difficult to obtain in the field; therefore, if other indicators based on spatial structure can be identified, they could be complementary to the early warning signals studied here.
+www.sciencemag.org SCIENCE VOL 336 1 JUNE 2012 1177
+Acknowledgments: We thank members of the Gore lab for valuable suggestions on the manuscript. Supported by a Pappalardo Fellowship (K.S.K.), an NIH R00 Pathways to Independence Award, an NSF CAREER Award, a Sloan Research Fellowship, and the Pew Scholars Program.
+The data reported in this paper are deposited in the Dryad Repository (http://dx.doi.org/10.5061/dryad.p2481134).
+Supplementary Materials
+www.sciencemag.org/cgi/content/full/336/6085/1175/DC1 Materials and Methods
+Supplementary Text
+Figs. S1 to S9
+Table S1 References (31–33)
+30 January 2012; accepted 27 April 2012 10.1126/science.1219805
+Downloaded from www.sciencemag.org on June 8, 2012

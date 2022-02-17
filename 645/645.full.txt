@@ -1,0 +1,309 @@
+   Molecular Ecology (2011) 20, 1829–1844 doi: 10.1111/j.1365-294X.2011.05028.x
+Genetic signature of population fragmentation varies with mobility in seven bird species of a fragmented Kenyan cloud forest
+TOM CALLENS*†, PETER GALBUSERA‡, ERIK MATTHYSEN§, ERIC Y. DURAND–, MWANGI GITHIRU†, JEROEN R. HUYGHE** and LUC LENS*
+*Terrestrial Ecology Unit, Department of Biology, Ghent University, K.L. Ledeganckstraat 35, B-9000 Ghent, Belgium; †Ornithology Section, Department of Zoology, National Museums of Kenya, Nairobi, Kenya; ‡Centre for Research and Conservation, Royal Zoological Society of Antwerp, Antwerp, Belgium; §Evolutionary Ecology Group, Department of Biology, University of Antwerp, Antwerp, Belgium; –Department of Integrative Biology, University of California, Berkeley, CA 94720, USA; **Center of Medical Genetics, University of Antwerp, Antwerp, Belgium
+Abstract
+Habitat fragmentation can restrict geneflow, reduce neighbourhood effective population size, and increase genetic drift and inbreeding in small, isolated habitat remnants. The extent to which habitat fragmentation leads to population fragmentation, however, differs among landscapes and taxa. Commonly, researchers use information on the current status of a species to predict population effects of habitat fragmentation. Such methods, however, do not convey information on species-specific responses to fragmentation. Here, we compare levels of past population differentiation, estimated from microsatellite genotypes, with contemporary dispersal rates, estimated from multi-strata capture–recapture models, to infer changes in mobility over time in seven sympatric, forest-dependent bird species of a Kenyan cloud forest archipelago. Overall, populations of sedentary species were more strongly differentiated and clustered compared to those of vagile ones, while geographical patterning suggested an important role of landscape structure in shaping genetic variation. However, five of seven species with broadly similar levels of genetic differentiation nevertheless differed substantially in their current dispersal rates. We conclude that post-fragmentation levels of vagility, without reference to past population connectivity, may not be the best predictor of how forest fragmentation affects the life history of forest-dependent species. As effective conservation strategies often hinge on accurate prediction of shifts in ecological and genetic relationships among populations, conservation practices based solely upon current population abundances or movements may, in the long term, prove to be inadequate.
+Keywords: Afrotropical, birds, dispersal, genetic clustering, genetic differentiation, landscape connectivity, Taita Hills
+Received 5 October 2010; revision revised 24 November 2010; accepted 2 December 2010
+Introduction
+Habitat loss and fragmentation are considered key drivers of biodiversity loss (Turner 1996), in particular in historically stable, species-rich ecosystems such as tropical rainforests (Laurance et al. 2002; Waltert et al. 2005;
+Correspondence: Luc Lens, Fax: +32 9 264 8794; E-mail: Luc.Lens@UGent.be
+Kirika et al. 2008). While habitat fragmentation may affect population dynamics in diverse and complex ways (Lewis 2006), long-term viability of species often hinges on their genetic population structure (Frankham et al. 2002). Habitat fragmentation can affect the genetic structure of populations both directly and indirectly, i.e. by restricting gene flow, reducing neighbourhood effective population sizes and⁄or increasing the levels of genetic drift and inbreeding in small, isolated habitat
+Ó 2011 Blackwell Publishing Ltd
+
+1830 T. CALLENS ET AL.
+remnants (reviewed in Frankham et al. 2002). The extent to which habitat fragmentation leads to population fragmentation, however, depends on properties of the landscapes in which suitable habitat patches are embedded and of the taxa that depend on these patches for their survival or reproduction (Caizergues et al. 2003). Along these lines, levels of genetic differentiation are generally lower in more connective landscapes, defined as the degree to which landscape elements facilitate movements between resource patches (Taylor et al. 1993), and in taxa that can cross hostile habitats more easily, such as birds (Crochet 2000; Ehrich et al. 2001; Ehrich & Stenseth 2001; Goossens et al. 2001). Because birds are considered a highly vagile group able to transverse wide spans of unsuitable habitat, their degree of within-species genetic structuring has been underappreciated in the past, especially so in montane species and tropical forest specialists (e.g. Brown et al. 2004; Moore et al. 2008 and references therein). However, a number of avian genetic studies did show high levels of population differentiation over small spatial scales, either as a result of severe philopatry, narrow habitat requirements or a ground-dwelling lifestyle with restricted flight ability (Avise 1996; Brown et al. 2004).
+When key habitat of sedentary or specialist species becomes progressively fragmented, dispersal among remnant subpopulations may become disrupted and, in turn, affect population viability and rates of local adaptation (Hanski & Gilpin 1991). Dispersal and gene flow therefore comprise key processes underlying the regulation, persistence and adaptive evolution of spatially structured populations in heterogenous landscapes (Slatkin 1987; Hanski & Gilpin 1991; Frankham 1997; Hanski 1998; Whitlock & McCauley 1999). However, not all species appear to be equally sensitive to fragmentation (Van Houtan et al. 2006, 2007; Sekercioglu 2007), so it is of high importance to determine which species are more prone to extinction to improve future conservation actions. Commonly, researchers use information on the current status of a species (e.g. patch occupancy, current dispersal; Lens et al. 2002), but these methods do not imply any information on the speciesspecific response to fragmentation. For example, a species can have built up an ‘extinction debt’, which can result into a higher vulnerability for future extinctions (Tilman et al. 1994; Hanski & Ovaskainen 2002; Bulman et al. 2007), while other species might be more buffered from the loss of genetic diversity caused by fragmentation (Howeth et al. 2008). An alternative approach, therefore, is to infer species-specific responses to habitat fragmentation from genetic data which can provide information on historical processes prior to the date of sampling (Wilmer & Wilcox 2007; Lada et al. 2008; Howeth et al. 2008; Oddou-Muratorio & Klein 2008;
+Pavlacky et al. 2009). Genetic differentiation among populations is traditionally measured by Wright’s (1931) FST or its derivates GST, G0ST, and Dest (Hedrick 2005b; Hedgecock et al. 2007; Jost 2008; Waples et al. 2008). These estimates are considered to reflect historical rates of geneflow integrated over multiple generations (Allendorf & Luikart 2007), although geneflow estimates can be biased in case of mutation-drift (Hedrick 2005b) or migration-drift (Whitlock & McCauley 1999; Lowe & Allendorf 2010) disequilibrium. Genetic estimates that (indirectly) reflect past population connectivity may be particularly informative when combined with direct estimates of contemporary dispersal rates among a restricted number of focal populations (Koenig et al. 1996; Whitlock & McCauley 1999; Faubet et al. 2007), thereby allowing an evaluation of changes in mobility over time (Howeth et al. 2008; Lowe & Allendorf 2010).
+Here, we report on a study of the genetic signature of population fragmentation in seven sympatric, forestdependent bird species of a Kenyan cloud forest archipelago that were earlier shown to differ in their response to forest fragmentation, as inferred from postfragmentation levels of mobility and patch occupancy (Lens et al. 2002). A diverse set of genetic parameters ⁄ tests were used to infer signals of bottlenecks (deviation from mutation ⁄ drift equilibrium) and changes in gene flow over time (migration ⁄ drift equilibrium). We compare species-specific levels of genetic population differentiation using Dest (Jost 2008), representing historic dispersal rates averaged over time (Bohonak 1999; Allendorf & Luikart 2007; Palsboll et al. 2007), and compare these with contemporary dispersal rates based on multi-strata mark-recapture analysis (data from Lens et al. 2002). Ultimately we assess whether the magnitude of genetic effects is correlated with loss of mobility.
+Materials and methods
+Study area and species
+The Taita Hills (SE Kenya, 03°20¢S, 38°15¢E) represent the northernmost part of the Eastern Arc Mountains biodiversity hotspot of Kenya and Tanzania (Lovett & Wasser 1993). They cover an area of c. 250 km2 and are isolated from other highlands by over 80 km of semiarid plains in either direction (Lovett 1985). During the last 200 years, indigenous forest cover in the Taita Hills decreased by c. 98%, and forest remnants are mainly located at hilltops and ridges and isolated by small holder cultivation plots and exotic plantation forests (Lens et al. 1999; Adriaensen et al. 2006; Pellikka et al. 2009). Three larger forest fragments (86–220 ha) and
+Ó 2011 Blackwell Publishing Ltd
+
+eight small ones (2–8 ha) are located on two mountain isolates (Dabida: 9 fragments; Mbololo: 2 fragments) separated by a low-altitude valley (Fig. 1; Brooks et al. 1998; Pellikka et al. 2009). Smaller fragments are most heavily disturbed, mainly as a result of logging, pole cutting and cattle grazing (Chege & Bytebier 2005). Among the three largest fragments, Chawia forest (CH, 86 ha; Dabida isolate) is most heavily degraded, Ngangao forest (NG, 120 ha; Dabida isolate) is intermediately degraded, and Mbololo forest (MB; 220 ha; Mbololo isolate) is most pristine (Brooks et al. 1998; Lens et al. 1999). The three largest fragments are inhabited by all
+seven study species, whereas the cluster of smaller fragments hosts subsets of these species only (based on breeding evidence during 1996–2001 in Lens et al. 2002), and analyses in this study are restricted to breeding populations in fragments CH, NG and MB.
+Between 1996 and 2009, a total of 5002 individuals of seven forest-dependent species were trapped (no use of tape luring or artificial feeders), marked, measured and blood-sampled in fragments CH, NG and MB: Stripecheeked greenbul (Andropadus milanjensis striifacies; 626 ind), Cabanis’s greenbul (Phyllastrephus cabanisi placidus; 679 ind), Taita thrush (Turdus helleri; 491 ind),
+GENETIC SIGNATURE OF POPULATION FRAGMENTATION 1831
+  Fig. 1 Map of the study area indicating the geographical position in Kenya and the location of three large indigenous forest fragments (Mbololo, Chawia, Ngangao) and eight small ones (fragment Sagala falls outside the figure boundary).
+Ó 2011 Blackwell Publishing Ltd
+
+1832 T. CALLENS ET AL.
+White-starred robin (Pogonocichla stellata helleri; 2262 ind), Taita white-eye (Zosterops (poliogaster) silvanus; 323 ind), Olive sunbird (Nectarinia olivacea changamwensis; 493 ind), and Yellow-throated wood-warbler (Phylloscopus ruficapilla minullus; 128 ind). P. ruficapilla, T. helleri, A. milanjensis, P. cabanisi and N. olivacea are presumed forest specialists, while Z. silvanus and P. stellata are presumed forest generalists (Bennun et al. 1996).
+DNA extraction and genotyping
+Upon capture of an individual, we collected 2–3 lL of blood from its brachial vein and stored it in 95% ethanol or DMSO. DNA was isolated either by boiling in a 5% Chelex solution (Biorad) after an incubation period of 90 min at 55 °C in the presence of 100 lg proteinase K (ethanol storage) (Walsh et al. 1991) or by a normal phenol–chloroform extraction in the presence of 100 lg proteinase K (DMSO storage) (details in Galbusera et al. 2000). PCR amplification was executed in a 10-lL reaction volume containing approximately 100 ng DNA, 1· buffer (75 mM Tris–HCl pH 9.0, 20 mM (NH4)2SO4, 0.01% Tween 20), 0.5 U Taq polymerase (Eurogentec), 200 lM dNTPs (GIBCO), 1.0–3.0 mM MgCl2 (product size ranges and optimal reaction conditions in Appendix 1) and 250–500 nM of each primer from 4 to 10 variable microsatellite markers. Starting from the original PCR conditions, variable MgCl2, template DNA concentrations and annealing temperatures were tested in a gradient PCR device (PC-960G Gradient Thermal Cycler; Labotechnic). Genotypes were scored on a 6% acrylamide gel in an automatic sequencer (ALF express; Pharmacia Biotech) or on an ABI 3130 Genetic Analyzer (Applied Biosystems), and microsatellite lengths were determined with GeneMapper Software v4.1. Microsatellite data for all species have been deposited in the Dryad data repository (doi: 10.5061/dryad.8054).
+Genetic analysis
+Presence of null alleles was tested with program MICROCHECKER 2.2.3 by running 10 000 Monte Carlo simulations and calculating 95% confidence intervals (Van Oosterhout et al. 2006). Deviation from Hardy– Weinberg equilibrium and linkage disequilibrium per locus were tested with program GENEPOP 4.0 (Raymond & Rousset 1995; Rousset 2008). Apart from the following marker*population combinations, all loci were consistent with Hardy–Weinberg equilibrium (all P > 0.05 after Bonferonni correction, Rice 1989): P. stellata: WBSW9 (P = 0.0016) and Pat14 in population CH (P = 0.0019); GF5B in population MB and NG (P < 0.002). Apart from WBSW9 and GF5B in P. stellata, none of the loci showed null alleles (removing both loci
+did not change our results; see also Galbusera et al. 2004). No linkage disequilibrium was detected between any pair of loci after correction for multiple testing (Rice 1989).
+Observed and expected levels of heterozygosity were calculated with GENALEX 6.4 (Peakall & Smouse 2006), while allelic richness corrected for sample size was calculated with FSTAT 2.9.3.2 (Goudet 1995). To infer levels of population genetic differentiation, we calculated overall and pairwise Dest values across all loci with SMOGD 1.2.5 (Crawford 2009). This estimate is increasingly considered more accurate than traditional ones such as FST (Wright 1951, 1965) and GST (Nei 1973; Nei & Chesser 1983) in accounting for differences in allelic diversity, especially for highly polymorphic microsatellite markers and in cases where assumptions for traditional calculations (e.g. migration ⁄ drift equilibrium) are violated (Jost 2008). For the sake of comparison, we also presented FST values (Wright 1951, 1965) calculated with GENEPOP 4.0 using parameter h (Weir & Cockerham 1984; Raymond & Rousset 1995; Rousset 2008). To test whether relationships between genetic population differentiation and contemporary dispersal rates differed between fragments located on the same mountain isolate (NG–CH) or two different isolates separated by a dry valley (MB–NG, MB–CH), we performed an analysis of covariance in SAS 9.2 (SAS Institute, 2002–2008).
+The genetic population structure of each species was inferred from a Bayesian admixture model implemented in TESS 2.3. This procedure earlier proved to be more powerful than nonspatial algorithms, especially in weakly differentiated populations (Chen et al. 2007; Durand et al. 2009). To properly assess the genetic population structure of each species, we explored a wide range of values for the number of genetic clusters, K (varying from 1 to 9), and assessed the fit of the model to the data for each value (Francois & Durand 2010). A total of 100 independent iterations (each 50 000 sweeps long and discarding the first 30 000 sweeps) were run for each value of K. Model fits were compared with the Deviance Information Criterion (DIC, Spiegelhalter et al. 2002), a penalized measure of fit accounting for model complexity (models with lower DIC values fit data better). DIC values averaged over 100 independent iterations were plotted against K, and K-values for which DIC values first reached a plateau were selected (procedure similar to ‘logarithm of evidence’ in STRUCTURE; Evanno et al. 2005). The 10 runs with lowest DIC values for the selected K-value were retained and their admixture estimates were averaged using CLUMPP version 1.1.1 (Jakobsson & Rosenberg 2007), applying the greedy algorithm with random input order and 1000 permutations to align the runs and calculate G¢ statistics. Results were visualized using DISTRUCT 1.1 (Rosenberg 2004).
+Ó 2011 Blackwell Publishing Ltd
+
+Deviation from mutation ⁄ drift equilibrium was tested by comparing levels of heterozygosity calculated from observed allele frequencies (sensu Nei et al. 1975; Nei 1987) with those expected under equilibrium with program Bottleneck 1.2.02 (Piry et al. 1999). As the mutation model underlying our microsatellite markers was unknown, data were analysed under two different model assumptions: two-phase model (TPM) and stepwise mutation model (SMM; Luikart & Cornuet 1998; Di Rienzo et al. 1994; Jarne & Lagoda 1996; Piry et al. 1999). When modelling TPM models, combinations of 95% single-step mutations and 5% multistep mutations were used, with a variance of 30 among multiple-step mutations (104 replications; Piry et al. 1999).
+Deviation from migration ⁄ drift equilibrium was tested by comparing the relative likelihoods of ‘geneflow ⁄ drift’ and ‘drift only’ models with the program 2MOD, using a MCMC procedure with 105 iterations and a burn-in of 104 (Ciofi et al. 1999). Time intervals between population founding and population sampling were assumed sufficiently short such that effects of mutations were negligible (drift only), while mutation rates were assumed much smaller than migration rates (geneflow⁄drift). Data were analysed under both models, and Bayes factors were calculated to infer decisive power estimates of the most likely models (Jeffreys 1961; Goodman 1999).
+Contemporary dispersal rates
+Contemporary dispersal rates were available for each of the seven study species from Lens et al. (2002), based on capture–recapture histories of 3089 individuals trapped and individually marked in the large fragments CH, NG and MB between 1996 and 2002. Individual recapture histories were generated using time intervals of 1 month. A total of 889 individuals were captured– recaptured in two or more months, and among these, 47 individuals were captured–recaptured in two or more fragments. Monthly probabilities of betweenfragment dispersal were estimated from multistrata mark-recapture recapture models in program MARK (White & Burnham 1999). Based on Akaike’s Information Criteria (AIC), the most parsimonious model was selected from a candidate set in which monthly probabilities of survival, recapture and dispersal were modelled simultaneously. Because distances differed between pairs of fragments (MB–NG, 11.3 km; MB–CH, 19.4 km; NG–CH, 10.9 km) and estimates of dispersal might be biased by differences in abundance between fragments for the different species, multistrata models were constructed that estimated monthly dispersal probabilities between each pair of fragments irrespec-
+tive of the direction of dispersal. In a final step, we regressed pairwise dispersal probabilities against pairwise distances between the three forest fragments for each species, then used the intercept of each regression equation as the species-specific measure of contemporary dispersal (see Lens et al. 2002 for details on candidate models). Contemporary dispersal rates were positively correlated with contemporary geneflow rates estimated with BAYESASS 1.3 (Wilson & Rannala 2003) (F1,5 = 9.93, P = 0.025). Species-specific estimates were based on 3 000 000 iterations, a burn-in of 999 999, a sampling frequency of 2000, and a delta–value of 0.15. Because of the large confidence intervals (probably resulting from the low number of individuals and markers compared to those recommended by Wilson & Rannala 2003) and the fact that geneflow estimates are difficult to interpret when levels of genetic differentiation are low (Faubet et al. 2007), contemporary mobility was inferred from rates of dispersal, rather than geneflow, that were based on larger data sets, multiple recapture events and multiple years.
+Results
+Genetic population structure
+Genetic differentiation was highly variable among the seven study species, as shown by strong differences in both pairwise (between populations CH, NG and MB) and overall estimates of Dest (Table 1, see FST values for comparison). Dest estimates were very low (close to 0) in N. olivacea, markedly high (0.2–0.4) in T. helleri, and intermediate in the remaining species. Figure 2 depicts the level of genetic clustering for each study species with barplots per individual visualizing the inferred admixture proportions within each fragment. Individuals of T. helleri, P. ruficapilla and P. cabanisi were assigned to three genetic clusters corresponding to the three forest fragments (see Appendix 2 for details on model choice). Cluster differentiation was strong for T. helleri and P. ruficapilla but lower for P. cabanisi (Fig. 2). Individuals of A. milanjenis, P. stellata and Z. silvanus were assigned to two genetic clusters, in each case with one cluster consisting of populations CH and NG, and the other consisting of population MB, with the highest differentiation in A. milanjensis and the lowest differentiation in P. stellata (Fig. 2). Individuals of N. olivacea were assigned to a single panmictic cluster. Overall, strong genetic clustering corresponded with strong genetic differentiation (high Dest) and vice versa (Fig. 2, Table 1). In all species except for P. cabanisi, pairwise genetic differentiation between populations CH–NG, located on the same isolate, was consistently lower than between populations CH–MB and NG–MB,
+Ó 2011 Blackwell Publishing Ltd
+GENETIC SIGNATURE OF POPULATION FRAGMENTATION 1833
+
+1834 T. CALLENS ET AL.
+Table 1 Levels of genetic differentiation across loci between populations Chawia (CH), Mbololo (MB) and Ngangao (NG) as inferred from overall Dest and FST values (bold font) and harmonic means of the pairwise values (regular font), for seven bird species of the Taita Hills (SE Kenya)
+models (Table 4). In all other species, ‘migration ⁄ drift’ models were more likely than pure drift models, whereby evidence for migration⁄drift equilibrium ranged from decisive to substantial in T. helleri, P. stellata, A. milanjensis, N. olivacea, but was weak in Z. silvanus and P. cabanisi.
+Change in mobility over time
+Figure 3 relates species-specific levels of genetic population differentiation and patch occupancy to contemporary dispersal rates. N. olivacea showed the lowest level of genetic differentiation, the highest levels of patch occupancy and contemporary dispersal, and a single genetic cluster. T. helleri, in contrast, showed very strong genetic differentiation, very low levels of patch occupancy and contemporary dispersal, and three genetic clusters. The other five species were distinguished by broadly similar levels of genetic differentiation and two or three genetic clusters, but varied strongly in contemporary dispersal (ranging from zero in P. ruficapilla to relatively high in Z. silvanus) and patch occupancy (3–8 forest fragments occupied). Relationships between genetic differentiation and contemporary dispersal did not differ when fragments were located on the same or different mountain isolates (F1,11.2 = 1.04, P = 0.3286).
+Discussion
+Loss of gene flow because of reduced dispersal, and reduction in effective population size because of genetic drift, can re-distribute genetic variability among spatially structured populations over the course of a few generations only (Harrison & Hastings 1996). Within the isolated Taita Hills of South-East Kenya, severe fragmentation of the original indigenous forest cover resulted in varying levels of population subdivision among seven sympatric, ecologically related forest bird species. There was strong consensus among species in the geographical patterning of genetic variation, reflecting the important role of landscape structure in genetic clustering and population differentiation (Storfer et al. 2007). For instance, in all three species that comprise two genetic clusters, cluster MB was consistently separated from cluster NG–CH and between-cluster genetic differentiation was always higher than within-cluster differentiation. The strong isolation of populations in fragment MB from those in fragments CH and NG is likely due to the presence of a low-altitude valley that reduced gene-flow levels even prior to human-induced deforestation (Brooks et al. 1998; Pellikka et al. 2009). When combining information on past and current mobility, however, the level of correspondence between
+ Dest
+CH MB
+Nectarinia olivacea
+FST
+CH MB
+0.009
+0.001 0.006
+0.025
+0.008 0.039
+0.049
+0.019 0.065
+0.114
+0.010 0.096
+0.040
+0.043 0.040
+0.083
+0.066 0.133
+0.250
+0.113 0.207
+  Overall
+0.001
+0.034 0.064 0.036 0.058 0.058 0.356
+located on two
+P = 0.019; Fig. 1, Table 1).
+Overall
+0.006
+0.024 0.044 0.076 0.042 0.095 0.207
+  MB 0.002
+NG 0.00003 Pogonocichla stellata
+MB 0.029
+NG 0.015 0.054 Zosterops silvanus
+MB 0.057
+NG 0.022 0.086 Andropadus milanjensis MB 0.049
+NG 0.002 0.055 Phyllastrephus cabanisi MB 0.054
+NG 0.044 0.041 Phylloscopus ruficapilla MB 0.048
+NG 0.021 0.062 Turdus helleri
+MB 0.422
+NG 0.204 0.362
+0.0007
+ different
+isolates (F1,11.1 = 7.48;
+Genetic equilibria and bottlenecks
+Levels of allelic richness and observed and expected heterozygosity did not significantly differ among populations (Nonparametric Friedman test: all Fr between 1.556 and 4.571, all P > 0.05; see values in Table 2). Values of allelic richness and HO in populations MB and NG of P. ruficapilla were low compared to all other species. However, because of large variability in number and type of microsatellite markers among species, this difference could not be tested statistically. Levels of heterozygosity significantly exceeded those expected under mutation-drift equilibrium (Table 3) in population CH of species T. helleri (Wilcoxon test; TPM: P = 0.008; SMM: P = 0.016), populations MB and NG of P. ruficapilla (MB: TPM and SMM: P = 0.02; NG: TPM and SMM: P = 0.008) and population NG of Z. silvanus (TPM: P = 0.03; not significant after clustering with population CH; Appendix 3). None of the other populations or clusters showed evidence of heterozygosity excess. In P. ruficapilla, ‘drift only’ models were 16.8 times more likely than ‘migration ⁄ drift equilibrium’
+Ó 2011 Blackwell Publishing Ltd
+
+ Chawia
+Chawia
+Chawia
+Chawia
+Chawia
+Chawia
+Chawia
+Mbololo
+Pogonocichla stellata
+Mbololo
+Zosterops silvanus
+Mbololo
+Andropadus milanjensis
+Mbololo
+Phyllastrephus cabanisi
+Mbololo
+Phylloscopus ruficapilla
+Mbololo
+Turdus helleri
+Mbololo
+Ngangao
+Ngangao
+Ngangao
+Ngangao
+Ngangao
+Ngangao
+Ngangao
+GENETIC SIGNATURE OF POPULATION FRAGMENTATION 1835 Nectarinia olivacea
+Fig 2. Admixture proportions for seven bird species of the Taita Hills (SE Kenya) as inferred from Bayesian genetic clustering. Each bar represents an individual sample with colour codes reflecting the likelihood of belonging to one of the inferred genetic clusters.
+both sources of information was only weak. While two species clearly stood out as having either low or high mobility according to both historic and current estimates (T. helleri and N. olivacea, respectively), five other species showed highly variable current dispersal rates despite broadly similar levels of genetic population differentiation.
+The most contrasting species pair in terms of current and historic mobility was P. ruficapilla and T. helleri, both highly sedentary species with (near) zero current dispersal but relatively low and very high levels of genetic differentiation, respectively. While genetic differentiation, reflecting geneflow over many generations, cannot be compared in absolute terms with dispersal
+Ó 2011 Blackwell Publishing Ltd
+
+1836 T. CALLENS ET AL.
+Table 2 Population-level allelic richness and heterozygosity in seven bird species of the Taita Hills (SE Kenya) with N = number of original samples; loci = number of loci; AR = allelic richness corrected for sample size (number of samples between
+Table 3 Population-level excess of heterozygote genotypes in three populations of seven bird species of the Taita Hills (SE Kenya) with CH = Chawia; MB = Mbololo; NG = Ngangao. Wilcoxon-based levels of significance are shown for different mutation models (P < 0.05 indicated in bold)
+brackets); HO = observed heterozygosity; HE = erozygosity
+expected het-
+ Population Species
+N Loci 30 8
+30 7 30 4 30 7 60 10 26 7 18 6 30 8 31 7 29 4 30 7 42 10 27 7
+152 6 30 8 30 7 29 4 30 7 49 10 35 7 67 6
+AR
+4.1 8.7 5.5 3.1 6.0 3.3 4.0 4.0 7.2 4.0 3.3 5.4 2.6 4.5 4.2 7.4 6.0 3.4 6.4 2.3 5.4
+HO HE
+Species
+Population
+TPM*
+0.680 0.629 0.809 0.594 0.992 0.766 0.438 0.156 0.031 0.711 0.594 0.656 0.754 0.246 0.862 0.148 0.020 0.008 0.008 0.781 0.578
+SMM†
+0.844 0.727 0.902 0.973 1.000 0.973 0.938 0.156 0.563 0.766 0.656 0.711 0.862 0.313 0.947 0.148 0.020 0.008 0.016 0.977 0.922
+   Chawia
+Mbololo
+Ngangao
+Nectarinia olivacea Pogonocichla stellata Zosterops silvanus Andropadus milanjensis Phyllastrephus cabanisi Phylloscopus ruficapilla Turdus helleri Nectarinia olivacea Pogonocichla stellata Zosterops silvanus Andropadus milanjensis Phyllastrephus cabanisi Phylloscopus ruficapilla Turdus helleri Nectarinia olivacea Pogonocichla stellata Zosterops silvanus Andropadus milanjensis Phyllastrephus cabanisi Phylloscopus ruficapilla Turdus helleri
+(30) (30) (29) (30) (42) (26) (18) (30) (30) (29) (30) (42) (26) (18) (30) (30) (29) (30) (42) (26) (18)
+Nectarinia olivacea CH 0.48 0.50 MB 0.65 0.71 NG 0.53 0.59 Pogonocichla stellata CH 0.41 0.39 MB 0.64 0.61 NG 0.56 0.52 Zosterops silvanus CH 0.68 0.62 MB 0.51 0.49 NG 0.57 0.64 Andropadus milanjensis CH 0.49 0.51 MB 0.45 0.44 NG 0.63 0.62 Phyllastrephus cabanisi CH 0.44 0.44 MB 0.59 0.59 NG 0.49 0.47 Phylloscopus ruficapilla CH 0.60 0.67 MB 0.66 0.65 NG 0.46 0.44 Turdus helleri CH 0.61 0.58 MB 0.45 0.42 NG
+0.67 0.66
+ *Two-Phase Model. †Stepwise Mutation Model.
+ events that may not result in reproduction
+1987; Koenig et al. 1996; Thompson & Goodman 1997; Whitlock & McCauley 1999; Hedrick 2005a; Holsinger & Weir 2009; Lowe & Allendorf 2010), contrasting both estimates suggests that P. ruficapilla suffered a severe relative loss of mobility over time. While both species showed evidence of a genetic bottleneck in one or more populations, P. ruficapilla was the only species that also showed evidence of migration ⁄ drift disequilibrium, hence confirming our interpretation of a recent decrease in gene flow among its remnant populations. Lack of evidence for a similar decrease in gene flow in T. helleri suggests that the extremely low mobility of this critically endangered species is not of recent origin. Earlier, radio-telemetric data showed that individuals forage and move strictly within indigenous forest boundaries, with no evidence of excursions into the landscape matrix (Lehouck et al. 2009). Such a strong dependence of T. helleri on prime indigenous forest matches with its exceptionally high level of stress sensitivity inferred from spatio-temporal patterns in tarsus asymmetry, a presumed proxy of environmental stress (Lens et al. 1999). Stress-sensitive forest specialists such as T. helleri can be expected to have become locked in very early in the fragmentation process, which is thought to have
+(Slatkin Table 4 Species-level likelihood
+rium’ and ‘drift only’ models. Bayes factors are calculated as ratios of most to least likely models and translated into levels of decisive power following Jeffreys (1961). The single species that shows strong evidence for migration-drift disequilibrium is indicated in bold
+ Species
+Phylloscopus ruficapilla Turdus helleri
+Pogonocichla stellata Andropadus
+milanjensis Nectarinia olivacea Zosterops silvanus Phyllastrephus
+cabanisi
+Drift
+only Bayes model factor
+Migration-drift equilibrium model
+1123
+19 945 19 446 17 514
+15 101 13 311 11 490
+equilib-
+16.8 (Strong)
+362.6 (Decisive) 35.7 (Very strong) 7.0 (Substantial)
+3.1 (Substantial) 2.0 (Weak)
+1.4 (Weak)
+of
+‘migration ⁄ drift
+ been ongoing for several hundred years in the Taita Hills (Pellikka et al. 2009). In contrast, more generalist low-mobility species, such as P. ruficapilla, may have been able to persist longer in degraded forest patches, allowing gene flow to continue for a longer time during
+18 877
+55 554 2486
+4899 6689 8510
+ Ó 2011 Blackwell Publishing Ltd
+
+0 0.05 0.1 0.15 0.2 0.25 0.3 0.35
+  0 0.001
+0.002 0.003
+0.004 0.005 0.006 0.007
+0.008
+Contemporary dispersal
+Fig 3. Genetic population differentiation versus contemporary dispersal in seven bird species of the Taita Hills (SE Kenya). Species abbreviations are No, Nectarinia olivacea; Ps, Pogonocichla stellata; Zs, Zosterops silvanus; Am, Andropadus milanjensis; Pc, Phyllastrephus cabanisi; Pr, Phylloscopus ruficapilla; Th, Turdus helleri. High Dest values correspond to low levels of historic geneflow. Values in brackets indicate numbers of genetic clusters (bold font) and forest patches occupied (regular font); • no mutation ⁄ drift or migration ⁄ drift disequilibrium; mutation ⁄ drift disequilibrium only; mutation ⁄ drift and migration ⁄ drift disequilibrium. Contemporary dispersal rates (w– values corrected for species-specific recapture⁄survival probabilities and inter-fragment distances) and patch occupancy data from Lens et al. (2002).
+   Pr (3,3) Pc (3,7)
+Th (3,4)
+Zs (2,8)
+No (1,10) Ps (2,11) Am (2,6)
+the fragmentation process. However, progressing deterioration of these small stepping-stone patches (an estimated 50% of indigenous forest cover was lost to agriculture and admixture with secondary growth and exotic plantations between 1955 and 2004; Pellikka et al. 2009) may have resulted in a strong and recent reduction in mobility, explaining the migration ⁄ drift disequilibrium of P. ruficapilla with evidence for a recent bottleneck in fragment MB, the largest, most pristine, but also most isolated fragment of the Taita archipelago.
+Two other species with intermediate levels of genetic differentiation, P. stellata and P. cabanisi, showed low to moderate dispersal rates, suggesting (moderate) losses in mobility over time, however without evidence for migration ⁄ drift disequilibrium. While individuals of P. cabanisi were assigned to three genetic clusters, P. stellata showed only two clusters. Such a difference in genetic clustering among two species with comparable contemporary dispersal rates may result from variation in sensitivity to habitat disturbance. Unlike all other study species, P. cabanisi forages and breeds in small family groups (T. Callens, unpublished data). Group living species are thought to exceed the carrying capacity of small and disturbed habitat remnants more easily and pay higher costs of biotic interactions near habitat edges and in the landscape matrix than pair living species (Van Houtan et al. 2006). This may explain
+why P. cabanisi is currently absent from nearly half of the Taita forest remnants (Lens et al. 2002). In contrast, P. stellata breeds in most of the small forest patches, including highly degraded forest remnants as small as 0.2 ha (Spanhove et al. 2009). Given such tolerance to degraded habitat, P. stellata dispersers from large, intact forest fragments may regularly settle in small, degraded remnants scattered across the landscape, resulting in step-wise gene flow between the larger fragments. Alternatively, discrepancies between historic and current estimates of mobility might result from a downward bias in dispersal estimates, e.g. because fledglings are only captured post-dispersal (see Van Treuren et al. 1999). In P. cabanisi, 127 nestlings (ringed 2007–2009) yielded 26 retraps, none of which originated from another fragment, while in P. stellata, 282 nestlings (ringed 2002–2005) yielded 50 retraps, 5 of which originated from another fragment (T. Callens & T. Spanhove, unpublished data). While these limited data sets prevent us from formally testing variation in timing of natal dispersal between both species, they do suggest that the accuracy of dispersal rates estimated from postfledgling mark-recapture data may differ among species (see Desante 1995; Thomson et al. 1999). Yet, given that dispersal estimates used to infer current mobility rates in this study were statistically corrected for betweenspecies heterogeneity in survival and recapture rates and did not comprise recapture events of ringed nestlings (Lens et al. 2002), they are still considered valid for comparison of relative mobility rates.
+Results from this study hence confirm the conclusion from other multi-species studies that sympatric forest birds may differ strongly in genetic signature of forest fragmentation (Bates 2002; Brown et al. 2004; Burney & Brumfield 2009). More importantly, our study shows that such differences may also appear among species with broadly similar levels of current mobility. In line with this, Van Houtan et al. (2006, 2007) hypothesized that post-fragmentation levels of vagility may not be the best predictor of how forest fragmentation affects the life history of forest-dependent species. Rather, species which range more widely pre-fragmentation, e.g. those that track unpredictable food resources or frequently join (mixed-species) flocks, may be more vulnerable to post-fragmentation extinction compared to species that do not cross gaps as often. Earlier, we proposed that conservation tactics in the fragmented Taita ecosystem may fail unless they include action both within sites, to minimize habitat deterioration, and across sites within the landscape, to maximize dispersal (Lens et al. 2002). As part of a series of conservation initiatives funded by Conservation International, over 150000 indigenous tree seedlings have been raised in community-owned tree nurseries since 2006.
+Ó 2011 Blackwell Publishing Ltd
+GENETIC SIGNATURE OF POPULATION FRAGMENTATION 1837
+Genetic differentiation (Dest)
+
+1838 T. CALLENS ET AL.
+To address within-site issues, initial efforts are being undertaken to restore disturbed sections within the indigenous forest fragments. For between-site action, priority areas for reforestation within the matrix were selected based on a combination of least-cost modelling analysis (where we quantified landscape connectivity and identified likely dispersal corridors linking the indigenous fragments; Adriaensen et al. 2006), forest ecology (silvicultural) characteristics and sociological aspects (Githiru & Lens 2007). Findings from the current study provide evidence that habitat isolation results in reduced genetic connectivity, but most importantly show that not all species are equally sensitive. Combining landscape, demographic and behavioural data with population genetic data, such as presented here, therefore helps to determine which species may be most prone to extinction, and hence, to rationalize conservation action at species level (Pavlacky et al. 2009; Lowe & Allendorf 2010). For instance, while conservation action for P. ruficapilla should primarily focus on the restoration of landscape connectivity through creation of small (stepping-stone) forest patches, such action may not suffice for T. helleri unless combined with habitat-restoration programmes in all occupied forest fragments. For P. stellata and P. cabanisi, the apparent loss in current versus historic mobility and different patterns of genetic clustering merely act as an early warning system against future losses in gene flow and genetic variation.
+Acknowledgements
+We thank T. Spanhove, V. Lehouck, M. Chovu, S. Karimi, T. Brooks, D. Gitau, T. Imboma, J. Kageche and P. Kariuki for field assistance, T. Schenck, A. Van Vlaslaer and V. Vandomme for genotyping, H. Matheve for GIS mapping, C. Vangestel for statistical assistance, P. Pellikka for assistance with remote sensing data, B. Bytebier for logistic support and R.C.K. Bowie for sharing unpublished (at the time of testing) sequences of the primer set Pfi04 and Pfl54. Three anonymous reviewers provided constructive comments that significantly improved the quality of the manuscript. Fieldwork and genetic analyses were funded by research grants G0258.01 (to EM), G.0055.08 (to LL) and G.0149.09 (to S. Van Dongen) of the Fund for Scientific Research (FWO) – Flanders, by Flemish Interuniversity Council project 02⁄6⁄7-338-607 (to W. Verheyen), and through contacts facilitated by FWO research community WO.037.10N (to F. Volckaert). TC was supported by a doctoral grant from the Flemish Agency for Innovation by Science and Technology, EYD was supported in part by a grant from the US NIH, GM40282, to M. Slatkin.
+References
+Ó 2011 Blackwell Publishing Ltd
+
+1842 T. CALLENS ET AL. Pogonocichla stellata
+ Pat14 Mcyl4 Ltmr6 Gf6 WBSW2 WBSW9 GF5B
+Parus atricapillus Malurus cyaneuss Chiroxiphia linearis Geospiza fortis Plocepasser mahali Plocepasser mahali Geospiza fortis
+Otter et al. 1998
+Double et al. 1997 McDonald & Potts 1994 Petren 1998
+McRae & Amos 1999 McRae & Amos 1999 Petren 1998
+Double et al. 1997 Gibbs et al. 1999 Degnan et al. 1999 Bensch et al. 1997
+Neumann & Wetton 1996 McRae & Amos 1999 Dawson et al. 2000 Double et al. 1997
+McRae & Amos 1999 Otter et al. 1998 Dawson et al. 1997
+Richardson et al. 2000 Sefc et al. 2001
+Mundy & Woodruff 1996 Mundy & Woodruff 1996 Double et al. 1997 Dawson et al. 2000 Dawson et al. 2000
+R. C. K. Bowie, unpublished data R. C. K. Bowie, unpublished data McRae & Amos 1999
+Gibbs et al. 1999 Otter et al. 1998 Degnan et al. 1999 Ishibashi et al. 2000 Bensch et al. 1997 Bensch et al. 1997 Dawson et al. 1997
+McDonald & Potts 1994 Dawson et al. 2000 Otter et al. 1998
+Petren 1998
+Li et al. 1997 Griffith et al. 1999
+143–173 132–152 190–198 138–154 125–131 102–122 199–227
+137–161 166–168 110–120 222–246
+164–168 226–234 165–171 134–138 162–176 136–138 151–157
+236–353 276–312 164–220 191–200 131–159 157–169 152–164 139–201 222–251 212–230
+154–162 117–125 177–191 136–140 229–233 214–218 152–154
+214–226 115–125 141–171 199–227 100–172 266–274
+50 1.5 55 1.0 54 2.0 56 2.5 54 1.5 54 1.5 57 1.5
+55 2.5 60–51 (‘touchdown’) 2.5 57 1.5 55 2.0
+50 2.0 45 1.0 50 1.0 55 2.5 46 1.0 50 1.0 52 1.0
+57 2.0 57 2.0 50 1.5 50 1.5 55 1.5 53 1.0 53 2.0 57 1.5 57 2.0 45 1.0
+60–48 (‘touchdown’) 2.5 55 1.0 55 1.5 55 1.5 52 1.0 55 2.0 50 1.5
+55 2.0 52 2.0 54 1.5 57 1.5 55 1.5 57 2.5
+Zosterops silvanus
+Mcyl4 Malurus cyaneus
+Cu28 Catharus ustulatus Zl12 Zosterops lateralis Pocc1 Phylloscopus occipitalis
+Andropadus milanjensis
+Pdo1 WBSW2 Pc3 Mcyl4 WBSW11 Pat14 Dpu16
+Passer domesticus Plocepasser mahali Parus caeruleus Malurus cyaneus Plocepasser mahali Parus atricapillus Dendroica petechia
+Phyllastrephus cabanisi
+Ase18 Acrocephalus sechellensis Indigo41 Vidua chalybeata
+Ls1 Lanius ludovicianus
+Ls2 Lanius ludovicianus
+Mcyl4 Malurus cyaneus
+Pc3 Parus caeruleus
+Pc4 Parus caeruleus
+Pfi04 Phyllastrephus cabanisi Pfl54 Phyllastrephus cabanisi WBSW2 Plocepasser mahali
+Phylloscopus ruficapilla
+Cu02 Pat43 Zl18 Mslp4 Pocc1 Pocc8 Dpu16
+Turdus helleri
+Ltmr6 Pc3
+Pat 43 GF5B Mjg1Te Pdo5
+Catharus ustulatus Parus atricapillus Zosterops lateralis Locustella pryeri Phylloscopus occipitalis Phylloscopus occipitalis Dendroica petechia
+Chiroxiphia linearis Parus caeruleus
+Parus atricapillus Geospiza fortis Aphelocoma ultramarina Passer domesticus
+ *Species for which the primer was originally developed.
+Ó 2011 Blackwell Publishing Ltd
+
+GENETIC SIGNATURE OF POPULATION FRAGMENTATION 1843
+Appendix 2
+Bayesian admixture model selection in TESS 2.3. For each study species, DIC values are plotted against K-values (maximal number of clusters). Values corresponding to DIC values that first level off, are selected.
+Pogonocichla stellata Zosterops silvanus
+                              23456789 23456789
+Kmax Kmax Andropadus milanjensis Phyllastrephus cabanisi
+                                      23456789 23456789
+Kmax Kmax Phylloscopus ruficapilla Turdus helleri
+                          Ó 2011 Blackwell Publishing Ltd
+23456789 23456789
+Kmax Kmax
+DIC
+DIC
+DIC
+2100 2150 2200 2250 2300 2350 2400
+1940 1960 1980 2000 2020
+3900 3950 4000 4050 4100 4150
+DIC
+DIC
+DIC
+7100 7150 7200 7250 7300 7350
+7850 7900 7950 8000 8050 8100
+1600 1650 1700 1750
+
+1844 T. CALLENS ET AL. Appendix 3
+Cluster-level excess of heterozygote genotypes in seven bird species of the Taita Hills (SE Kenya) with CH = Chawia, MB = Mbololo and NG = Ngangao. Wilcoxon-based levels of significance are shown for different mutation models (all P > 0.05).
+ Species
+Nectarinia olivacea Pogonocichla stellata
+Zosterops silvanus Andropadus milanjensis
+*Two-Phase Model. †Stepwise Mutation Model.
+Population Cluster
+CH–MB–NG CH–NG
+MB
+CH–NG
+MB CH–NG MB
+TPM* SMM†
+0.770 0.809 0.656 0.980 0.992 1.000 0.563 0.906 0.156 0.156 0.656 0.766 0.531 0.656
+  Ó 2011 Blackwell Publishing Ltd

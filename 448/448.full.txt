@@ -1,0 +1,354 @@
+  Syst. Biol. 46(3):426-440, 1997
+PHYLOGEOGRAPHY AND MOLECULAR SYSTEMATICS OF THE PEROMYSCUS AZTECUS SPECIES GROUP (RODENTIA: MURIDAE) INFERRED USING PARSIMONY AND LIKELIHOOD
+1234 JACK SULLIVAN, JEFFREY A. MARKERT, AND C. WILLIAM KILPATRICK
+laboratory of Molecular Systematics, Smithsonian Museum Support Center, 4210 Silver Hill Road, Suitland, Maryland 20746, USA; E-mail: sullivan@onyx.si.edu
+department of Ecology and Evolutionary Biology, University of Connecticut, Storrs, Connecticut 06269-3043, USA department of Zoology, University of New Hampshire, Durham, New Hampshire 03824, USA department of Biology, University of Vermont, Burlington, Vermont 05405, USA
+Abstract.—Mice of the Peromyscus aztecus species group occur at mid to high elevations in several mountain ranges in the highlands of Middle America (Mexico and Central America), a region of high endemicity. We examined the biogeography of this group by conducting phylogenetic analyses of 668 bp of the mitochondrial cytochrome b (cyt b) gene. Phylogenetic analyses under both parsimony and likelihood frameworks produced the same topologies, but estimates of nodal support were artificially high in weighted parsimony analyses. This difference is attributed to the inability of parsimony to optimize branch lengths when evaluating topologies. These data indicate that the P. aztecus-like populations from south and east of the Isthmus of Tehuantepec currently assigned to P. a. oaxacensis represent a distinct species, with genetic distances as high as 0.091. In addition, P. hylocetes is strongly divergent from Mexican populations of P. aztecus (genetic distances of 0.044-0.069), supporting the recognition of this taxon as a distinct species. The history of divergence in this group can be explained by a series of apparently early to middle Pleistocene vicariance events associated with glacial cycles. The Sierra Madre Occidental and Cordillera Transvolcanica each appear to be faunistically isolated, the Isthmus of Tehuantepec appears to have been a strong Pleistocene barrier, and the Sierra Madre Oriental has affinities with the Sierra Madre del Sur and the highlands of central Oaxaca. [Cytochrome b; highlands; maximum likelihood; Middle America; parsimony; Peromyscus; phylogeography; vicariance.]
+The several mountain ranges in central and southern Mexico and northern Central America are characterized by high levels of endemism (e.g., Fa and Morales, 1993; Flores-Villela, 1993), which presumably result from the interaction between past climatic fluctuations and the region's rugged topography. These ranges include the Sierra Madre Occidental extending southward in western Mexico, the Sierra Madre Oriental extending southward in eastern Mexico, the Cordillera Transvolcanica running east to west through central Mexico, the Sierra Madre del Sur running along the southwestern coast, the southern highlands in central Oaxaca, and the mountains of Chiapas and northern Central America. There are extensive pine/oak and cloud forests at moderate to high elevations in each of these ranges, and these forests are currently separated by xeric valleys, resulting in several essentially isolated habitat islands for montane biota at tropical latitudes.
+Deer mice of the Peromyscus aztecus species group (Carleton, 1989) have sets of populations on each mountain range and therefore are likely to be useful for studying the montane biogeography of the region. We consider this group to contain four species, two of which are morphologically divergent from the others; P. winkelmanni is known only from two very restricted areas in Michoacan and Guerrero (Fig. 1), and P. spicilegus inhabits the flanks of the Sierra Madre Occidental. The P. aztecus I P. hylocetes complex comprises the rest of the group and includes two species that are differentiated genetically (Sullivan and Kilpatrick, 1991). Peromyscus hylocetes is monotypic and occupies mid to high elevations in the Cordillera Transvolcanica (Fig. 1), whereas P. aztecus includes several subspecies (Carleton, 1979). Peromyscus a. aztecus occurs in the Sierra Madre Oriental, P. a. evides occurs in the Sierra Madre del Sur, P. a. oaxacensis occurs in the highlands of central Oaxaca, across the Isthmus of
+426
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997
+SULLIVAN ET AL.—PHYLOGEOGRAPHY OF MONTANE PEROMYSCUS 427 Distribution:
+62-
+71
+66_
+P. a. aztecus
+P. a. evides
+P. a. oaxacensis P. hylocetes
+P. spicilegus
+P. winkelmanni
+Sierra Madre Oriental
+Sierra Madre del Sur
+Oaxacan, Chiapan, Guatemalan Honduran,& El Salvadoran Highlands
+Cordillera Transvolcanica
+Sierra Madre Occidental
+Two restricted areas in Michoacan & Guerrero
+Bootstrap analysis of the combined Peromyscus aztecus group data set from Sullivan and Kilpatrick
+FIGURE 1.
+(1991). Morphological characters were treated as unordered following Bradley and Schmidly (1987), chromosomal characters were coded following Smith (1990), and allozyme characters were coded following Sullivan and Kilpatrick (1991). Numbers above the branches represent bootstrap values (500 replicates). This tree was rooted using several P. boylii group taxa.
+Tehuantepec in the mountains of Chiapas (Mexico), and south to Guatemala, Honduras, and El Salvador (Fig. 1), and P a. cordillerae is known from two localities in El Salvador.
+(cyt b) gene to explore further phylogenetic relationships and species boundaries within the group and to make phylogeographic inferences about this region of high endemicity. We used both likelihood and parsimony methods under a variety of evolutionary models and weighting schemes.
+MATERIALS AND METHODS
+Specimens Examined
+These taxa (with the exception of P. a.
+cordillerae) have been examined for varia-
+tion in morphology (Bradley and Schmidly,
+1987), chromosomes (Smith, 1990), and al-
+lozymes (Sullivan and Kilpatrick, 1991),
+and a combined cladistic analysis of these
+data sets (Sullivan and Kilpatrick, 1991)
+suggested that P. winkelmanni is basal, fol-
+lowed by P. spicilegus, and that P. hylocetes
+is the sister species to P. aztecus (Fig. 1).
+Further, these data sets indicate strong dif-
+ferentiation of P. hylocetes relative to P. az-Dos Aguas (2); Guerrero, Filo de Caballo tecus, as evidenced by fixed differences in (1); P. spicilegus (n = 3): Michoacan, 10.7
+allozymes, chromosomal inversions, and certain morphological characters (Sullivan and Kilpatrick, 1991). This divergence, however, has not been recognized in recent classifications; Musser and Carleton (1993), for example, continued to consider P. hylocetes a subspecies of P. aztecus. The previous studies were somewhat limited in that little of the variation observed was phylogenetically informative even when analyzed in combination, as indicated by rather low bootstrap values in the reanalysis (Fig. 1) of the combined data matrix from Sullivan and Kilpatrick (1991). In the present study, we examined sequence variation of the mitochondrial cytochrome b
+km E Uruapan (2); Jalisco, 8.1 km W Villa Carranza (1); P. hylocetes (n = 5): Michoacan, 3.6 km W Mil Cumbres (1); Michoacan, 4.9 km S Los Azufres (1); Michoacan, Puerto Garnica (2); Morelos, 2.43 km W Huitzilac (1); P a. aztecus (n = 3): Veracruz, 8.9 km N Huatusco (1); Veracruz, Teocelo (2); P a. oaxacensis (n — 6): Oaxaca, 1.6 km N Llano de las Flores (2); Oaxaca, 2.1 km
+S Llano de las Flores (1); Guatemala; Zacapa, 2 km N San Lorenzo (3); P a. evides (n = 3): Oaxaca, 9.7 km E Juquila (2); Oaxaca, 4.9 km S Suchixtepec (1); P boylii rowleyi (n = 2): Durango, 29.2 km W Ciudad Durango (2). This last taxon was included as an outgroup because the P boylii species
+Twenty-five specimens were examined from the following localities (all in Mexico, except where noted). Peromyscus winkelmanni (n = 3): Michoacan, 19.3 km WSW
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  428 SYSTEMATIC BIOLOGY VOL. 46
+group appears to be the sister taxon to the P. aztecus species group based on morphology (Carleton, 1977), allozymes (Sullivan et alv 1991), and other mitochondrial DNA (mtDNA) sequences (S. K. Davis, pers. comm.). With the exception of the P. a. oaxacensis sample from Guatemala, these individuals have been examined previously for variation in morphology (Bradley and Schmidly, 1987), chromosomal banding pattern (Smith, 1990), and allozymes (Sullivan and Kilpatrick, 1991).
+Data Collection
+D. L. Swofford). Genetic distances were calculated following Tamura and Nei (1993). This distance was chosen to facilitate comparison of divergence levels with those reported for other closely related species of Peromyscus (Sullivan et al., 1995).
+Phylogenetic analyses were conducted under both parsimony and likelihood frameworks. Under the likelihood framework, the goal is to find not only the optimum topology but also the combination of topology (including branch lengths), model of DNA substitution, and parameter values that yields the best likelihood score. Because estimates of model parameters can be topology dependent (Sullivan et al., 1996), we used an iterative procedure to first evaluate models and optimize model parameters on an initial set of trees and then conduct a maximum-likelihood (ML) search under the fully defined substitution model. Initial trees were obtained by an exact search (branch and bound) using
+DNA was extracted from approximately
+10 mg of liver tissue using the DTAB/
+CTAB procedure of Gustincich et al.
+(1991). One microliter of each extraction
+was used for polymerase chain reaction
+(PCR) amplification of an approximately
+750-bp fragment of the cyt b gene. This gene
+was selected because it has been informative
+for phylogenetic analyses of other closely re-
+lated species of Peromyscus (Sullivan et al., parsimony with equal weights. Minimum-
+1995). Primers were as follows: L-14115: 5'-
+GATATGAAAAACCATCGTTG-3'; L-14553:
+5' -CT ACCA TGAGGACA A A T A TC-3';
+H-14541: 5'-CAGAATGATATTTGTCCTCA-
+3 ' ; H 1 4 9 6 3 : 5'-GGC A A A T A GG A A R T A T
+CATT-3' (numbers correspond to Mus; Bibb Jukes and Cantor, 1969), Kimura two pa-
+et al., 1981). Because of the age and history of some of the tissues, initial amplifications were diluted 1/100, and 1 |xl was used for nested amplification. Double-stranded PCR products were purified using the shrimp alkaline phosphatase protocol following the manufacturer's instructions (U.S. Biochemical/Amersham), and 3.5 jxl were used as template for standard dideoxy sequencing reactions. Some PCR products were sequenced using dye-labeled terminators and automated sequencing (Applied Biosystems). Sequences were aligned by eye using ESEE (Cabot and Beckenbach, 1989); alignment was straightforward because no gaps were required. These sequences are available via GenBank under accession numbers U89965-U89983.
+Data Analyses
+All analyses were conducted using PAUP* (test version 4.0d46-d53; written by
+rameter (K2P; Kimura, 1980), HasegawaKishino-Y ano (HKY85; Hasegawa et al., 1985), and general time reversible (GTR, equals REV of Yang, 1994a). In addition, four models of among-site rate variation were examined: equal rates assumed at all sites; a proportion of sites estimated to be invariable and equal rates assumed at variable sites (I; Hasegawa et al., 1985); rates at all sites assumed to follow a discrete approximation of the gamma distribution (F; Yang, 1994b); and some sites assumed to be invariable with gamma-distributed rates at variable sites (I+r; Gu et al., 1995). Thus, 16 models were examined, each of which is a special case of the most parameter-rich model, GTR+I+T. The order of complexity of these models is as follows: GTR+I+F > GTR+I = GTR+r > GTR > HKY85+I+r > HKY85+I = HKY85+F > HKY85 > K2P+i+r > K2P+I = K2P+r = jc+i+r
+> K2P = JC+I = JC+r > JC.
+length topologies produced by this analysis were used to evaluate likelihood models and estimate model parameters for use in ML searches. The following substitution models were examined: Jukes-Cantor (JC;
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 SULLIVAN ET AL.—PHYLOGEOGRAPHY OF MONTANE PEROMYSCUS 429
+Under the ML framework, the likelihood score provides an objective criterion of goodness of fit between the evolutionary model and the data that is comparable across nested models (topology is held constant). This property provides a means for choosing among reconstruction models for subsequent searches of tree space and is a major advantage for likelihood methods relative to parsimony. The optimality criterion in parsimony (tree length) is not directly comparable across weighting schemes, making choice of weighting schemes under the parsimony framework, and therefore choice among topologies produced by different weighting schemes, somewhat arbitrary (Swofford et al., 1996).
+An ML search (heuristic search with 10 random input orders, TBR branch swapping) was conducted using the fully defined model with parameters as determined above. Nodal support was estimated via bootstrap analyses (Felsenstein, 1985; 100 replicates); however, to expedite ML bootstrap analyses, three nearly redundant sequences (<1% uncorrected sequence divergence) were eliminated (Paa4053, Pae3439, Pao3516; see Appendix). Separate bootstrap analyses were conducted under several different models. First, a realistic model was used (HKY85+T) in which the ratio of transitions to transversions (Ti/Tv) and gammadistribution shape parameter (a) were fixed to values estimated from the original data set for analysis of each of the replicates. In addition, bootstrap analyses were conducted using several simpler models (HKY85, K2P, and JC, all assuming equal rates across sites). In the bootstrap analyses under the two HKY85 models (gamma distributed and equal rates), base frequencies were recalculated for each replicate.
+Additional parsimony analyses were conducted using step matrices to downweight transitions by factors of 2, 5, and 10, and especially rapidly evolving sites were downweighted by successive weighting (Farris, 1969) using maximum rescaled consistency indices (RC; base weight of 10) across multiple equal-weight trees. Estimates of nodal support for parsimony
+analyses were derived via bootstrap analysis using 500 replicates for analyses weighted equally, those weighted with step matrices, and those weighted successively.
+RESUL TS
+Genetic distances (Tamura and Nei, 1993) among these 668-bp sequences ranged from 0.003 to 0.126 substitutions per site. There were 147 variable sites, 95
+of which were parsimony informative. Within the aztecus I hylocetes complex, distances ranged up to 0.091 substitutions per site, but divergence levels were not partitioned along species boundaries (Fig. 2). All of the intraspecific distances that exceeded interspecific distances involved comparisons of the P. a. oaxacensis sample from east of the Isthmus of Tehuantepec with samples of P. aztecus from west of the Isthmus (including P. a. oaxacensis from Oaxaca).
+Initial parsimony analysis based on equal weights produced eight equally parsimonious trees (238 steps, consistency index of 0.59, retention index of 0.80). Parsimony analyses with transitions downweighted by factors of 2, 5, or 10 produced four equally parsimonious trees (a subset of the eight equal-weight parsimony trees), whereas successive weighting of variable sites resulted in two equally parsimonious trees (a subset of the four step-matrix trees). There was generally strong nodal support in the weighted parsimony analyses (Fig. 3).
+Each of the eight equal-weight parsimony trees was evaluated under the likelihood criterion for several models of evolution. For all models, either parsimony tree 6 had the best likelihood score or trees 5 and 6 were tied for best likelihood score (Table 1). These two trees are the same as the two trees found by successive weighting in the parsimony analyses. Tree 6 was then used to evaluate models for use in a likelihood search (Fig. 4). Because it is the most general and parameter-rich model, the GTR+I+F model was expected to provide the best likelihood score. This was indeed the case (In L = -2048.39893); how-
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  430
+SYSTEMATIC BIOLOGY
+VOL. 46
+10 -r-
+6--
+4-
+I1 ii! !
+0.005 0.010 0.015 0.020 0.025 0.030 0.035 0.040 0.045 0.050 0.055 0.060 0.065 0.070 0.075 0.080 0.085 0.090 0.095 0.100
+Tamura-Nei (1993) Distance
+FIGURE 2. The distribution of pairwise genetic distances (Tamura and Nei, 1993) within the Peromyscus aztecus/P. hylocetes complex. 0 = within-species comparisons; • = between-species comparisons. Sequence divergence does not partition along species boundaries, and all intraspecific distances that exceed interspecific distances involve the P. a. oaxacensis sample from Guatemala.
+2-
+ever, this model has five more free parameters than does the HKY85+F model (In L = -2053.01088). A standard likelihood-ratio test indicated that the improvement in likelihood score associated
+with the additional parameters of the 2
+GTR+I+T model is not significant (x [5] = 9.224, P > 0.05). Although use of the chisquare approximation can be problematic (Goldman, 1993), Yang et al. (1995) showed that it appears reasonable when the models being compared are fairly similar, and hence it provides a useful heuristic for choosing among nested reconstruction models. The HKY85+I model has the same
+but does not fit the data as well (x [5] = 12.025, P < 0.05). Therefore, we interpret this result as indicating that HKY85+F is the best model for these data in terms of the trade-off between goodness of fit and parameter economization (Fig. 4).
+Estimates of a ranged from 0.1392 to 0.1458 and Ti/Tv estimates ranged from 9.154 to 9.564 across the eight parsimony trees (Table 2). A heuristic ML search assuming an HKY85+F model of evolution, with a = 0.1458 and Ti/Tv = 9.564, recov-
+ered the same two topologies as the successive-weights parsimony analyses (parsimony trees 5 and 6).
+In all analyses, P winkelmanni was basal and P spicilegus was the sister species to the aztecus I hylocetes complex (Fig. 3). Within the P . aztecus I hylocetes complex, the P a. oaxacensis sample from east of the Isthmus of Tehuantepec was basal, and the P hylocetes samples formed a sister clade to the rest of the P aztecus samples, with P a. evides samples nested within P a. oaxacensis from Oaxaca (Fig. 3).
+DISCUSSION
+Methods of Phylogenetic Inference
+The two phylogenetic methods used here have somewhat different logical frameworks. Under parsimony, the approach is to find the topology that minimizes character conflict (i.e., hypotheses of convergence, reversals, parallelisms), whereas under likelihood the approach is to find the topology, branch lengths, and model parameters describing nucleotide substitution with the highest probability of producing the observed data (under that
+number of parameters as does HKY85+F 2
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997
+SULLIVAN ET AL.—PHYLOGEOGRAPHY OF MONTANE PEROMYSCUS 431
+E 95 34
+.0095
+I 91 70
+.0112
+.0000
+.0032
+.0099
+92 64
+.0123
+H 100 »' .0088
+.0032
+C 82 74
+.0016
+0000 .0049
+77 .0065 .0044
+B 95 97
+.0311
+.0032
+.0000
+.0128
+.0129
+D 69
+K 100 100 .0487
+68 .0116 .0033
+.0000
+.0589 J
+100 100
+.0428
+.1240
+0252
+fiR
+A 100 99
+.0272
+F 92 100
+.0020
+61 .0004
+P. a. aztecus (1)
+P. a. aztecus (1)
+P. a. aztecus (1)
+P. a. evides (2)
+P. a. ewctes(i)
+P. a. oaxacensis (2) P. a. oaxacensis (1) P. fty/ocefes(1)
+P ./)y/ocefes(1)
+P. fty/ocefes(1)
+P. /?y/ocefes(1)
+P. a. oaxacensis (3) P. spicilegus (2)
+P. winkelmanni (1) P. winkelmanni (1) P. winkelmanni (1) P.boylii{2)
+G 8 2
+b i 0016
+.0000
+.0048
+Phylogenetic analyses of Peromyscus aztecus group cytfcdata. This topology is the strict consensus
+FIGURE 3.
+of two equally likely trees (In L = -2053.01088) found assuming an HKY85+T model of evolution, with Ti/Tv
+= 9.564 and a = 0.1457. This tree is identical to the strict consensus of two trees found using parsimony with successive weights and differs from the strict consensus of eight equally parsimonious trees (238 steps) found using equal weights in that the equal-weight consensus fails to unite P. a. evides samples. Numbers following taxon names indicate the number of individuals with identical sequences; numbers above branches represent bootstrap values, with the upper number from weighted parsimony analyses (500 replicates) and the lower from maximum-likelihood (ML) analyses (100 replicates) assuming an HKY85+F model with a and Ti/Tv fixed to values estimated for the original data set. The single bootstrap value above the branch uniting P. a. evides sequences is from parsimony. Numbers below branches represent ML estimates of branch lengths for both ML trees under the HKY85+F model (collapsed branch has a length of zero). Letters denote nodes shown
+in Table 3. • = P. hylocetes samples; E] = samples currently assigned to P. aztecus.
+model). Although these approaches differ somewhat, there are conditions under which they are expected to yield the same topology based on theoretical grounds (e.g., Goldman, 1990). However, there are conditions under which parsimony is expected to be an inconsistent estimator of phylogeny, whereas ML is expected to be a consistent estimator (e.g., Huelseneck,
+1995), and there are cases in which an optimal tree under one criterion is suboptimal under the other (e.g., Sullivan and Swofford, 1997).
+In our analyses of cyt b data, both parsimony and ML analyses converged to the same topologies (Fig. 3). Specifically, parsimony searches using successive weighting found the same two topologies as did
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  432
+SYSTEMATIC BIOLOGY VOL. 46
+73 O
+CO
+00 ON ^D ON oo co rH CN rH
+r^ \O ^* CN in ON CO NO VO NO I N ON
+CN co in oo NO
+a,
+ID
+01 "2H
+f—H "
+O. —' 73 5*O
+••Sc
+oo.a
+1-1 73 WO
+s!E
+OOONCN\DtN\0
+oooNtniNaNCNooooocN'*'*NO
+ON oo in NO in NO CN OO T~H OO IN CO rH co LO ^~^ i—ICNCOinlNONOrHsOCOCNVOrHOONO
+tN ^^ CO CN IN I~~< CO CN CO CN 00 ON ON CN CO in
+the likelihood search under HKY85+r. DeBry and Abele (1995) observed a correlation between likelihood and parsimony scores for several real data sets, and McGuire and Huelsenbeck (pers. comm.) have shown by simulation that using parsimony with successive weights can lead to an increase in the probability of recovering the model tree relative to unweighted parsimony when evolutionary rates across sites follow a gamma distribution. It is unclear how general a phenomenon this convergence of successive-weights parsimony and likelihood will be, but this relationship should hold as long as the (eventual) ML tree is among the set of initial trees from which successive weights are derived.
+The major difference among these analyses relates to estimates of nodal support. Heavy weighting of transversions by step matrices a n d application of successive weights in parsimony analyses are attempts to accommodate the same biological phenomena as use of a realistic model of evolution (such as HKY85+F) in a likelihood analysis: differences in rate between substitution types (in this case transitions and transversions) and differences in rate of evolution across sites. These two approaches had rather different effects on estimates of nodal support. In the parsimony analyses, weighting of transversions led to a general increase in bootstrap values relative to equal weights, and application of successive weights led to further increase in bootstrap values (particularly nodes C, D, E, G, and I; Table 3). However, using increasingly realistic reconstruction models for likelihood analyses resulted in fluctuating bootstrap values for node E (Table 3) and higher support for nodes C, D, and I and had virtually no effect on other nodes.
+The higher bootstrap values produced by weighted parsimony analyses should not be taken as evidence favoring its use relative to likelihood but as evidence that parsimony bootstrap analysis often overestimates the actual support for some nodes (Yang et al., 1995). Parsimony tends to underestimate the amount of evolution
+CO
+co CN in ON
+COCNCNCNrHO _ ___ ___ CNCNCNCNCNCNCNCNCNCNCNCNCNCNCNCN
+cN^^o
+«* ^f< a N cy\ cn oo
+tNfNIDtNm^Cfi^l'fNjvOCJNrHOO
+iNco ONON OO
+COMtN N(| NNN
+"*^CNOONCOON_... intvcooooo
+v^ ^* r-~* ^ rH 00 CO ON ON iNCNcNinoNco^o'" CTDOOflO ONINo ooCNin•>*
+CN -* oo oo •* oo in
+»c\oinn if)inin . rrrOOOr-(OOO CNCNCNCNCNCNCNCNCNCNCNCN
+rHVO'tCOOOtNCOCNOOrHOCNlNOONO
+COCNCNCNrHrHrHrHrHOOOrHOOO CNCNCNCNCNCNCNCNCNCNCNCNCNCNCNCN
+CN00COIN.COCO ON in NO in o in • oo ON oo m ^
+NO in o
+ON oo in oo oo q ON CO ON r~< id
+IN! CN 'tf CN IN _ _ _
+00 CO •* CN
+CN vC CNCNrHOrHCOrHOOOrHOOO CO CN
+CN CN CNCNCNCNCNCNCNCNCNCNCNCNCNCN
+ON ON in ^^ co co
+___cNininin
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997
+2350 2300
+SULLIVAN ET AL.—PHYLOGEOGRAPHY OF MONTANE PEROMYSCUS 433 Invariable Sites +
+ Topology
+a Ti/Tv
+Equal Rates Invariable Sites
+r-Distributed Rates r-Distributed Rates
+FIGURE 4.
+tree that consistently had the highest or tied for the highest likelihood scores across models (parsimony tree 6; Table 1). See text for model abbreviations. The HKY85+F model provides the best compromise between goodness of fit (as indicated by likelihood score) and parameter economization.
+Model
+Comparison and selection of models. Likelihood scores were calculated for each model using the
+that has occurred on long branches (especially terminal branches), a phenomenon that is attributable to the inability of parsimony methods to optimize branch lengths in evaluating trees and that is exacerbated by the presence of among-site rate variation. This underestimation in turn may lead to overestimates of the length of internal branches (Waddell, 1995; Yang, 1996) and hence to erroneous esti-
+3
+TABLE 2. Parameter estimates derived using eight
+equally parsimonious topologies found using equal weights.
+mation of support for internal nodes. Choice of optimization strategy under parsimony (i.e., ACCTRAN vs. DELTRAN) will not influence this error because parsimony cannot estimate unobserved substitutions (multiple substitutions along a branch) regardless of optimization strategy. The conclusions of Waddell (1995) and Yang (1996) were based on simulations and are supported by our results for P. aztecus group cyt b data, the observations of Frati et al. (1997) for collembolan (Insecta) cytochrome oxidase II data, and those of DeBry and Abele (1995) for three 18S ribosomal RNA data sets.
+Phylogeographic Implications
+The effect of Pleistocene climatic fluctuations on the distribution of the floral zones of Middle America, including the conifer belt, was apparently quite dramatic. Toledo (1982) suggested that Mexican lowlands were occupied by pine/oak and cloud forests during dry and wet Pleistocene cold periods, respectively. This hy-
+1 0.1418
+2 0.1418
+3 0.1392
+4 0.1392
+5 0.1458
+6 0.1457
+7 0.1433
+8 0.1432
+9.154 9.154 9.147 9.147 9.564 9.564 9.556 9.558
+' The HKY85 + F model of evolution was assumed, and parameters were optimized simultaneously with branch lengths. Ti/Tv = transition/transversion rate.
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  434 SYSTEMATIC BIOLOGY VOL. 46
+TABLE 3. Comparison of bootstrap values estimated under three parsimony weighting schemes and four likelihood models. Nodes as labeled on Figure 4. EW = parsimony with equal weights; SM = parsimony with a step matrix to downweight transitions by a factor of 10 to 1; SW = parsimony with successive weights (base weight of 10, maximum RC).
+Parsimony Node EW SM
+A 100 99 B 99 94 C 53 74 D 49 65 E 55 75 F 91 90 G 60 59 H 94 94 I 66 68
+SW
+100 95 82 92 95 92 82 100 91 100 100
+JC
+100 99 42 33 27 100 66 93 51 100 100
+Likelihood K2P HKY85
+HKY85+T
+100 100 K 100 100
+100 100 99 100 100 97 70 73 74 50 63 64 58 58 34 98 99 100 68 71 69 94 97 97 58 74 70 100 100 100 100 100 100
+J
+pothesized descent of temperate biota to lower altitudes is corroborated by evidence of the descent of alpine flora (McDonald, 1993) and evidence of distributions of fossil vertebrates (e.g., Findley, 1953). In addition, evidence from fossilized wood rat (Neotoma) middens suggests that deserts in northern Mexico and the southwestern United States were occupied by pinyon/ juniper/oak woodlands during late Pleistocene cold periods (e.g., Van Devender, 1990a, 1990b), consistent with the descent of montane woodlands further south hypothesized by Toledo (1982). Therefore, currently disjunct temperate pine/oak and cloud forests found on different mountain ranges apparently experienced many cycles of range expansion/contraction during the Pleistocene, with at least some expansions resulting in an ephemerally contiguous temperate biota.
+This complex history of Pleistocene habitat fragmentation/amalgamation cycles provides a context for the biogeographical interpretation of the sequence data collected here. First, the basal P. winkelmanni currently appears to exist only in relictual populations, probably remnants of a formerly more widespread distribution in the mountains along the southwestern coast of Mexico. This species is currently known only from two restricted, disjunct areas in Michoacan and Guerrero (Smith et al., 1989; Sullivan and Kilpatrick, 1991), both
+of which are above 1,800 m and are separated by the Balsas River Valley (<300 m; Fig. 5). It is very unlikely that post-Pleistocene dispersal could account for the apparently disjunct nature of the distribution. Second, P. spicilegus is the sister species of the aztecus I hylocetes complex, suggesting the isolation of the Sierra Madre Occidental from the rest of the region (Fig. 5). Third, the samples from the Sierra Madre Oriental (P. a. aztecus), Sierra Madre del Sur (P. a. evides), and southern plateau (P. a. oaxacensis from Oaxaca) form a monophyletic group, indicating that these regions bear close faunistic affinities, to the exclusion of the Cordillera Transvolcanica fauna (P. hylocetes; Fig. 5). In addition, the samples from the Sierra Madre del Sur (P. a. evides) nest within the samples from the central Oaxacan highlands (P. a. oaxacensis from Oaxaca), suggesting gene flow between these regions (Fig. 5). The very low level of divergence among these samples (D = 0.002-0.008) is consistent with divergence having occurred very recently. Fourth, P. a. oaxacensis samples from Guatemala and El Salvador are distinct from the rest of the aztecus/hylocetes complex, indicating that the Isthmus of Tehuantepec represents a strong biogeographic barrier. The divergence levels involved are quite high (D = 0.075-0.091) and suggest that the isthmus may have separated these populations very early in the Pleistocene.
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  1997 SULLIVAN ET AL.—PHYLOGEOGRAPHY OF MONTANE PEROMYSCUS 435
+ FIGURE 5. Distributions and phylogeography of Peromyscus spicilegus (•, blue; S. M. Occidental), P. hylocetes (*, lavender; Cordillera Transvolcanica), P. aztecus aztecus (A, red; S. M. Oriental), P. a. evides (•, tan; S. M. del Sur), and P. a. oaxacensis ( + , yellow; Oaxacan, Chiapan, Guatemalan, Honduran, and El Salvadoran highlands). Peromyscus winkelmanni is known from only two areas (T).
+This observation is congruent with discontinuities in other taxa across the isthmus. For example, Engstrom et al. (1981) observed karyotypic differentiation across the isthmus in the harvest mouse Reithrodontomys sumichrasti, Brumfield and Capparella (1996) documented a fixed allozyme difference between brown-throated and southern house wrens(Troglodytes brunneicollis and T. musculus) where the two come together near the isthmus, and Rzedowski (1978) identified the isthmus as
+a floristic boundary.
+The isolation of the Cordillera Transvol-
+are largely discordant and the zone of sympatry between them involves the northern end of the distribution of the P. aztecus group and the southern extreme of the A. tigrinum complex. Therefore, phylogeographic congruence should, perhaps, not be expected. Other urodele groups are restricted to montane forests in the Middle American highlands, and Darda (1994) suggested that the middle Tertiary orogenic events that formed the Cordillera Transvolcanica divided the region into northern and southern faunal components. This hypothesis is based on allozyme data for several species in the bolitoglossine salamander genus Chiropterotriton and predicts an association of taxa found on the Sierra Madre Oriental, Sierra Madre Occidental, and Cordillera Transvolcanica rather than the relationships we have found among the P. aztecus group (Fig. 5). However, Darda
+canica from the Sierra Madre Oriental ob-
+served here conflicts with the observations
+made by Shaffer and McKnight (1996)
+from mtDNA control region (d-loop) se-
+quences in the Ambystoma tigrinum com-
+plex (tiger salamanders). These authors ob-
+served greater divergences among
+salamanders from the Cordillera Transvol(1994) found numerous fixed differences canica than between salamanders from between these components, suggesting a
+this range and those from the Sierra Madre Oriental and interpreted these observations as evidence of very recent dispersal from the transvolcanic range. However, the geographic ranges for these two groups
+much older divergence than is likely for the P. aztecus group. Therefore, the P. aztecus data are complementary to those of Darda (1994) in that his biogeographic hypotheses relate to older events than do the
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  436 SYSTEMATIC BIOLOGY VOL. 46
+hypotheses presented here. A set of broadly codistributed taxa of similar expected age and similar habitat requirements will be required to test the predictions of the P aztecus group phylogeography.
+Taxonomic Implications
+for other closely related yet clearly distinct species of Perotnyscus. For example. Sullivan et al. (1995) found genetic distances (also based on cyt b) of 0.040-0.046 between P leucopus and P gossypinus and 0.065-0.071 among P keeni, P. polionotus, and P melanotis. Although genetic distances are not sufficient to determine taxonomic status, P hylocetes and P aztecus in Mexico have apparently maintained their distinctness during the probable contact associated with range expansion during Pleistocene cold periods. Thus, the requirements of the biological species concept are met, as indicated by the reciprocal monophyly between P hylocetes and Mexican P aztecus in both nuclear (Sullivan and Kil-
+The most striking result from these anal-
+yses is that the sample of P. a. oaxacensis
+from Guatemala is clearly distinct from the
+rest of the aztecus/hylocetes complex. Ge-
+netic distances involved are very high
+(0.075-0.091), this sample clearly is basal
+to the rest of the complex (Fig. 3), and it
+does not bear any particular affinities to
+the P. a. oaxacensis samples from Oaxaca
+(Fig. 2). Neither its inclusion under the
+subspecies name oaxacensis nor its inclupatrick, 1991) and mtDNA (Fig. 3) marksion in P. aztecus is supported by the seers. In addition, there are diagnostic fixed quence data. Musser (1969) synonymized differences among these taxa, meeting the P. hondurensis with P. oaxacensis, and Carler-equirements of the phylogenetic species
+ton (1979) subsequently subsumed P. oaxacensis into a polytypic P. aztecus. The affinities of the populations in Guatemala with those from Honduras (especially the type locality of hondurensis), El Salvador (including P. a. cordillerae), and the highlands of Chiapas need to be addressed to resolve the status of the aztecus-like populations from east of the Isthmus of Tehuantepec.
+For the most part, however, these data support the taxonomic recommendations of Sullivan and Kilpatrick (1991) rather than those of Carleton (1979) and Musser and Carleton (1993). In particular, the separation of P. hylocetes from Mexican populations of P. aztecus observed in morphological, chromosomal, and protein electrophoretic data is confirmed by the cyt
+concept (Cracraft, 1983). Moreover, these differences come from diverse congruent data sets, suggesting that P hylocetes and Mexican P aztecus meet genealogical concordance (Baum and Shaw, 1995) or cohesion (Templeton, 1989) species criteria. Therefore, regardless of the species concept to which one adheres, the available evidence supports the recognition of P. hylocetes as distinct from P. aztecus (after the removal of the populations from east of the Isthmus of Tehuantepec).
+Summary
+Several studies have demonstrated the importance of phylogeographic considerations in conservation genetics (reviewed by Avise, 1994), and the high degree of endemism in the highlands of Middle America makes understanding the biogeography of this region particularly important. We can now begin to use the phylogeography of the P aztecus group to draw inferences about the Pleistocene biogeography of the region. It appears that the evolution of this species group occurred by a series of vicariance events, likely coinciding with multiple glaciation cycles. Pero-
+b sequences; the new data support the rec-
+ommendation of Sullivan and Kilpatrick
+(1991) that the aztecus-like populations
+from the Cordillera Transvolcanica be re-
+instated as P. hylocetes. One of Carleton's
+(1979) lines of evidence for subsuming P.
+hylocetes into P. aztecus was that these taxa
+exhibit levels of morphological divergence
+similar to those exhibited within other
+species of Perotnyscus. However, the genetic
+distance between P. hylocetes and Mexican myscus winkelmanni is the relictual descenP. aztecus (0.044-0.069) is equal to or greatdant of the first of these events, and P er than that found between cyt b sequences spicilegus split next in the Sierra Madre Oc-
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 
+  440
+SYSTEMATIC BIOLOGY
+VOL. 46
+Pbrl965 Paa2204 Paa23S Paa4053 Pae3407 Pae3439 Pao34194 Pao3516 Pao2117 Ph2040 Ph2781 Ph2035 Ph4229 Ph2853 PS4217 PS3253 Pw3287 Pw3286 Pw3388
+Pbrl965 Paa2204 Paa235 Paa4053 Pae3407 Pae3439 Pao34194 Pao3516 Pao2117 Ph2040 Ph2781 Ph2035 Ph4229 Ph2853 Ps4217 PS3253 Pw3287 Pw3286 Pw3388
+Pbrl965 Paa2204 Paa235 Paa4053 Pae3407 Pae3439 Pao34194 Pao3516 Pao2117 Ph2040 Ph2781 Ph2035 Ph4229 Ph2853 Ps4217 Ps3253 PW3287 PW3286 PW3388
+GGA TTCKXGT AGACA AGGCA ACCCT A ACCCGA TTTTTCGCA TTTC^^ GGATTCTCAGTAGATAAAGO^CCTAACCrGATTCTTCGraTTT^
+GGGTTCK^GT AGACAAGGCAACCCT AACCCGA TTCITCGC^^
+T AGACAAAGCAACCET AACrcGA TTCITCGC^^
+GGATTCTCAGTAGAOVAGGCAACCCTAACCCGATTCrrcGCATTCCACTTCATCCTACCATTCAT^ GGATTCTCaGTAGACAAAGCAACCCTAACCCGATTCTTCGCATTa^CTTCaTCCTCCCGTT^ GGATTCTCAGTAGAOVAAGCAACCCTAACCCGATTCTTCGCATTCCACTTCATCCTCCCGTTCA^
+TACACGAAACAGGATCTAATAACCCATCAGGACTCAACTCCGACGCAGA<»AAAT
+TA^CXaUV ACAGGATCTAATAACXICATCAGGACrc^CTC^ TACACGAAACAGGATCTAATAACCCaTCaGGACTCAACrCCGACGCAGACaAAATCCCrTTCCACCXC^ TAa\CGAAACAGGATCTAACAACCCATCAGGACTOUVCTa:GACGCAGACAAAATCCCrTTCCACC^
+T ACACSAAACaGGA TaaUVaU^CCA TCaGGGCTT AACTCCGACGCAGACAAAA TCCCTTrCCACCXTT A^^
+IACTCTTCC TACTCTTCC
+rACTCTTCC
+TACTCTTCC
+CCTACTATTGATAGCTCTC»TAATTTTG<3TTTTATTTTTCCXaGAT^
+TCCXaGATC^^
+CCTGCT A TT AA T AGTTCT<aT AA TTTTQOTTTT A TITTTCCCAGA T A TT^^
+ATATTCT^^ ATATTC^^
+T^^
+TTTTRXaGATATTC^^ TTTTTCCCaiGA T A TTCT(^^
+TTTTTCCCAiGATATTC^^
+CCTACTATTAATAGCTCTCATAATTTTGXSTTTTATTTTTCCXaGATATTCT^ CCT ACT A TT AA T AGCTCTS^T AA TTrTQGTITrA TTTTTCCCAGA T A TTCT^ (XTACrATTAATAGCTCKaTAATTTTQGTrTTATTTTTCCCaGATAl^^
+764
+  Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+ 

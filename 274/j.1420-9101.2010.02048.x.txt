@@ -1,0 +1,642 @@
+    Behavioural and biomaterial coevolution in spider orb webs
+A. SENSENIG*, I. AGNARSSON* & T. A. BLACKLEDGE*
+*Department of Biology and Integrated Bioscience Program, University of Akron, Akron, OH, USA Department of Biology, University of Puerto Rico-R ́ıo Piedras, San Juan, PR, USA
+Keywords:
+biomechanics; functional morphology; silk;
+tensile properties;
+web.
+Abstract
+Mechanical performance of biological structures, such as tendons, byssal threads, muscles, and spider webs, is determined by a complex interplay between material quality (intrinsic material properties, larger scale morphology) and proximate behaviour. Spider orb webs are a system in which fibrous biomaterials—silks—are arranged in a complex design resulting from stereotypical behavioural patterns, to produce effective energy absorbing traps for flying prey. Orb webs show an impressive range of designs, some effective at capturing tiny insects such as midges, others that can occasionally stop even small birds. Here, we test whether material quality and behaviour (web design) co-evolve to fine-tune web function. We quantify the intrinsic material properties of the sticky capture silk and radial support threads, as well as their architectural arrangement in webs, across diverse species of orbweaving spiders to estimate the maximum potential performance of orb webs as energy absorbing traps. We find a dominant pattern of material and behavioural coevolution where evolutionary shifts to larger body sizes, a common result of fecundity selection in spiders, is repeatedly accompanied by improved web performance because of changes in both silk material and web spinning behaviours. Large spiders produce silk with improved material properties, and also use more silk, to make webs with superior stopping potential. After controlling for spider size, spiders spinning higher quality silk used it more sparsely in webs. This implies that improvements in silk quality enable ‘sparser’ architectural designs, or alternatively that spiders spinning lower quality silk compensate architecturally for the inferior material quality of their silk. In summary, spider silk material properties are fine-tuned to the architectures of webs across millions of years of diversification, a coevolutionary pattern not yet clearly demonstrated for other important biomaterials such as tendon, mollusc byssal threads, and keratin.
+Introduction
+Mechanical performance of biological structures is determined by interactions between their intrinsic material properties, larger scale morphologies, and behavioural utilization. Many studies link interspecific differences in performance with variation in morphology or physiology (Bennett & Huey, 1990; Losos, 1990a; Garland & Losos, 1994). However, few systems allow for reliable characterization of both intrinsic and macro-scale properties of
+Correspondence: Andrew Sensenig, Department of Biology and Integrated Bioscience Program, University of Akron, Akron, OH 44325-3908, USA. Tel.: (240) 320 7282; fax: 330 972 8445; e-mail: andrew6@uakron.edu
+structures in relation to organism performance (Madrell, 1998). Hence, we lack a broad understanding of the pathways by which natural selection modifies material properties in conjunction with morphology and behaviour.
+The intrinsic properties of many biomaterials appear relatively fixed across large clades, which could reflect strong past selection on them. For instance, the strength of collagenous tendon varies only about two-fold (50–120 MPa) across mammals and birds despite substantial locomotory and body size differences (Pollock & Shadwick, 1994). Keratin in birds differs about three-fold in stiffness, with apparent selection for stiffness in flight feathers (Bonser & Purslow, 1995; Cameron et al., 2003).
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856
+JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY 1839
+doi:10.1111/j.1420-9101.2010.02048.x
+
+1840 A. SENSENIG ET AL.
+In the byssal attachment threads of mussels, strength ranged from 13 to 48 MPa, extensibility from 0.5 to 0.8, and stiffness from 35 to 137 MPa (Brazee & Carrington, 2006), suggesting at most four-fold variation in the intrinsic properties of this collagenous polymer. This conservation of intrinsic quality is surprising because of the diverse roles played by these biomaterials and suggests that natural selection often quickly optimizes material properties, which subsequently change little through evolutionary time (Summers & Koob, 2002). This conservation also suggests that changes in the macroarchitecture or behavioural utilization of structures may play dominant roles in performance evolution. Such changes are evident in the evolution of bone microstructure and skeletal design in relation to the novel biomechanical challenges posed during the origin of flight in birds (Emmanuel De et al., 2005) and bats (Swartz et al., 1992). Furthermore, performance is conserved during evolutionary shifts in body size primarily through changes in the quantity of material rather than quality for a variety of supporting tissues (Anderson et al., 1979).
+If the effects of both biomaterial properties and macrostructural architecture on performance can be reliably quantified in a given system, three possible evolutionary scenarios could result. First, if selection for a particular performance trait dominates, we predict that
+material properties and macrostructures (such as the growth patterns of bones or the shapes of spider webs) would evolve in the same direction. Second, if selection for performance is relatively weak then improvement in biomaterials may allow novel evolutionary shifts in structures while maintaining performance or, conversely, macrostructural improvement may compensate for decreased biomaterial quality. Third, if selective forces are diverse, material properties and macrostructure could evolve independently; this is equivalent to the null hypothesis of no relationship between these contributors to performance.
+Spider orb webs are an excellent system with which to test these hypotheses because of the noteworthy variability in biomaterial properties of silks and the architectures of webs (Craig, 1987; Griswold et al., 1998; Opell & Bond, 2001; Swanson et al., 2007). Orb spiders utilize two types of fibrous silks as the primary structural components of their webs (Comstock, 1940) (Fig. 1). Major ampullate (MA) dragline silk provides a dry and stiff framework and radial support threads upon which a highly elastic capture spiral is attached. The capture spiral consists of an adhesive coating of aggregate silk glue surrounding a core pair of flagelliform (Flag) fibres. Both MA and Flag silks are incredibly tough energy absorbing materials, but they also exhibit extraordinary variation.
+  (a) (b)
+Hh
+Hub
+Free zone
+Capture area
+dh
+       5 cm
+Radius
+Mesh width
+Hub
+Free zone
+Capture area
+Sticky spiral
+Radius
+ Hv
+Hru Hrl
+ru
+rl
+dv
+    Fig. 1 (a) Typical spider orb web. The supporting frame, hub and radii are spun from major ampullate dragline silk, while the capture spiral is spun from core fibers of flagelliform silk surrounded by aqueous glue. Architectural parameters were measured from photographs or directly from webs. The perimeters of the hub and free zone that both lack capture spiral threads, and capture area are partially outlined with dashed lines in lower left quadrant of the web. (b) Definitions of architecture parameters used to estimate total silk volume and mesh width: Vertical diameter (dv) of the capture area, horizontal diameter of the capture area (dh), upper radial length (ru), lower radial length (rl), upper free zone length (Hru), lower free zone length (Hrl), free zone vertical diameter (Hv), and free zone horizontal diameter (Hh). Capture area is delimited by the outermost sticky spirals.
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856 JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Flag silks are ten times more extensible than MA silks. Furthermore, the extensibility of Flag silk varies approximately three-fold among species whereas tensile strength varies approximately 10-fold (Swanson et al., 2007). Web spinning behaviours are equally diverse. Spiders control the diameters of silk fibres (Blackledge et al., 2005a; Boutry & Blackledge, 2008), the overall sizes of webs (Krink & Vollrath, 2000), and the spacing of silk threads within webs (Sandoval, 1994), all of which can strongly influence prey size and capture rates (Blackledge & Zevenbergen, 2006; Blackledge & Eliason, 2007). Moreover, these behaviours are easily quantified by measuring their outcome – the structures of webs. Orb webs function during prey capture in a three step process – initially intercepting flying insects, then stopping their tremendous kinetic energy, and finally adhering to insects long enough for the spiders to subdue their prey (Eberhard, 1990). We focus here on the second stage of this process, the stopping potential of orb webs, because it has the clearest links between the spinning behaviours of spiders and the material properties of silks. The stopping potential of an orb web is limited by the toughness of silk threads and how they are spaced within a web, and as such the theoretical maximum performance can readily be estimated for any web by summing the capacity of all threads in a web to absorb energy. In reality, however, all of the silk in a web will never perfectly deform simultaneously during prey impact. Therefore, this ‘maximum’ measure of stopping potential clearly overestimates performance. However, it correlates extremely closely with actual measurements of energy absorption during prey impacts in real webs (r2 = 0.98; see methods) such that it meaningfully estimates variation in this critical aspect of web performance. Spiders clearly capture many insects that are small and slow such that they are unlikely to greatly challenge the mechanical performance of webs. However, both modelling of fitness and empirical evidence demonstrate that the bulk of biomass captured over a spider’s lifetime comes, not from these abundant and easily captured insects, but rather from very large, rare prey (Venner & Casas, 2005). The dependence of orb spiders upon the capture of a tiny number of exceptionally large insects means that the evolution of web function is likely shaped primarily by how webs deal with the extreme demands presented by these prey (Blackledge & Eliason, 2007). Thus, orbweaving spiders represent an evolutionary system where a quantifiable performance trait is clearly linked to fitness and has the potential to evolve through changes in both intrinsic quality of biomaterials and the behavioural uses of those biomaterials. In this study, we assess performance of orb webs spun by an evolutionarily diverse set of 22 species of spiders (Table S1). We characterize the historical pattern of change in orb web performance in a phylogenetic context and identify the dominant pathways by which behaviour, materials, and web stopping potential have evolved.
+Methods
+Performance measures the ability of an animal to execute a behaviour or the effectiveness of an animal at accomplishing a particular task (Arnold, 1983). Orb webs facilitate prey capture by first intercepting insects, then absorbing their kinetic energy of flight, and finally adhering to the insects long enough for spiders to subdue them. We focus on the stopping potential of orb webs because we hypothesize that this is a primary factor shaping both the evolution of silk properties and orb web spinning behaviours of spiders (Craig, 1987; Lin et al., 1995). Stopping potential reflects how orb webs perform under the extreme prey capture events that likely determine spider fitness. Increasing evidence suggests that orb spiders depend primarily upon the capture of rare, but large, prey for fitness (Venner & Casas, 2005) and that capture of these large insects is determined primarily by the orb web itself (Blackledge & Eliason, 2007). We estimate the maximum kinetic energy that can be absorbed by a web as the combined breaking energies of all silk threads within the capture area. We then standardize the total energy absorbable by the capture area of the web to define the stopping potential of an orb web as the average breaking energy of silk per unit area. There are clearly localized differences across an orb in the spacing and structures of threads that will influence stopping potential and that would result in localized failure of threads. Our goal in this study is to provide an objective estimate of the maximum stopping performance of orb webs that can be compared across spiders varying two orders of magnitude in body size. To determine if this estimate accurately characterizes variation in actual performance among webs, we conducted high speed video analysis (500 fps) of energy absorption by orb webs across several species included in this study (see Methods). Our stopping potential correlates very accurately with actual measures of maximum energy absorbed by webs across four species of spiders (r = 0.99, P = 0.01). Thus stopping potential provides a reasonable measure of the relative variability of a critical aspect of orb web function, which is both reliably computed and compared across diverse spiders.
+Aerial damping is also hypothesized to play a major role in energy absorption by orb webs, largely based upon computer modelling for a single species (Lin et al., 1995). However, ongoing research in our laboratory clearly disputes the importance of aerial damping for most orb webs, particularly for higher energy prey. We conclude this based upon studies that measure thread deformation during prey impact and calculate the actual energy absorbed by silk in webs based upon characterization of the material properties of various silk components. Our investigations reveal that aerodynamic drag contributes < 10% of the total work performed during prey capture across many species. Instead, most of the energy absorbed during impacts is attributed to work
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856
+JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Coevolution of behaviour and silk 1841
+
+1842 A. SENSENIG ET AL.
+performed by the internal hysteresis of silk threads in the capture areas of webs.
+Spider species
+We measured the material and structural properties of silk and the web architecture for 22 species of orb-
+weaving spiders (Table S1). Taxa were chosen to reflect a broad diversity of typical orb web shapes and sizes, to include the most commonly studied genera, and to include the maximum range of body sizes that we could investigate (Fig. 2). We include species from most major lineages of orb-weaving spiders, concentrating on the most speciose family Araneidae from which we have
+ (a) (b)
+(c)
+(e)
+Fig. 2 Examples of architectural diversity across orb-weaving spiders. Insets of the capture areas are shown to scale to illustrate variation
+in thread spacing. There was an eight fold difference in mesh width across the species sampled. Relative silk quantity (red meter) and silk quality (green meter) of the silk, as identified by Principal component analysis Factor 1 scores respectively, are plotted for each species.
+(a) Nephila sp., large web area with fine mesh and high number of radii. Nephila is exceptional among large spiders in that it maintains the high density mesh typical of smaller spider species and has lower quality silk than predicted for its size. (b) Caerostris darwini, large web area with broad mesh and few radii. (c) Leucauge venusta, small web with fine mesh. (d) Larinioides cornutus, medium size web with broad mesh.
+(e) Mangora gibberosa, small web with fine mesh. (f) Cyclosa conica, small web area with fine mesh and high number of radii.
+(d)
+(f)
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856 JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+sampled broadly across the family. We confine our study to adult and penultimate females because of the substantial ontogenetic variation in web architecture in most species (Eberhard, 1986b; Japyassu & Ades, 1998; Kuntner & Agnarsson, 2009).
+We collected many species near the University of Akron’s Dr Paul E. Martin Center for Field Studies and Environmental Education at the Bath Nature Reserve, OH (USA) and nearby localities. Nephila and Gasteracantha were sent to us from Gainesville, FL (USA). Caerostris was collected in Madagascar. Zygiella x-notata and Nuctenea umbratica were collected in Slovenia. Spiders were housed in cages that varied in size depending on the species. Most spiders were housed in 40 · 40 · 10 cm screen cages with removable plexiglass sides, or similarly sized circular cages. The large Nephila were housed in larger (80 · 80 · 20 cm), but otherwise identical cages. A few species (Gasteracantha, Micrathena, and Verrucosa) rarely built webs in cages and were instead released in a greenhouse. The webs of most spiders were examined within 1–5 days of transport to the laboratory.
+Phylogeny for independent contrasts
+We constructed a DNA-based phylogeny to determine the historical relationship among species. This allowed us to compare web and silk evolution using independent contrasts (IC) (Felsenstein, 1985; Garland et al., 1992) as implemented in the PDAP module (Garland et al., 1999; Garland & Ives, 2000), in the evolutionary analysis package Mesquite (Maddison & Maddison, 2008). Our phylogeny included only the taxa in this study because an exhaustive analysis of relationships among orbweaving spiders is beyond the scope of this study and a thorough phylogenetic analysis of Araneidae and relatives is underway elsewhere (T.A. Blackledge et al., unpubl. data). However, we used an existing phylogeny (Blackledge et al., 2009b) and preliminary analyses of a larger data matrix of Araneidae (T.A. Blackledge et al., unpubl. data) to guide taxon choice, emphasizing exemplars scattered across the phylogenetic tree to maximally represent different taxonomic groups.
+We selected the cribellate orb-weavers Deinopis spinosa and Uloborus diversus as outgroups (Blackledge et al., 2009b). The methods are described in detail elsewhere (Agnarsson & Blackledge, 2009; Blackledge et al., 2009b), but in short we sequenced partial fragments for two mitochondrial (16S, cytochrome oxidase I [COI]) and three nuclear (18S, 28S, H3) loci, providing roughly 4150 bp of data. Because no length variation occurred in the protein coding COI and H3 loci, their alignment was trivial. We used ClustalX to align ribosomal fragments, and then slightly edited the ends of the sequences in BioEdit (Hall, 1999). We selected two sets of gap opening and extension costs of 8 ⁄ 2 and 24 ⁄ 6, with transitions weighted at 0.5 based on parameter performance in the context of more exhaustive analyses (T.A. Blackledge
+et al., unpubl. data). We also performed an alignment in OPAL, using the default settings, for comparison (Wheeler & Kececioglu, 2007). Gaps were treated as missing data in subsequent analyses.
+We performed three sets of analyses on each of the three alignments. Maximum parsimony (MP) was implemented in TNT 1.1 (Goloboff et al., 2003). We analysed matrices using heuristic searches with 500–10 000 random additions and TBR branch swapping retaining 10–1000 trees per iteration. Analyses were performed under ‘rule 3’ (collapsing branches when minimum length = 0). Support was assessed using jackknife analyses (1000 replicates). A maximum likelihood (ML) analysis was conducted in Garli 0.96 (Zwickl, 2006). Default settings were used, and we conducted three sets of 20 replicates for each dataset because the best topology was achieved a majority of the time for each dataset. Support was assessed using bootstrap analyses (1000 replicates). We performed a Bayesian phylogenetic analysis using MrBayes V3.1.2 (Huelsenbeck & Ronquist, 2001), after using Modeltest 3.6 to select from among 56 potential models of base substitutions (Posada & Crandall, 1998). The best fitting model was GTR + G + I for all loci. Four Markov Chain Monte Carlo chains were run simultaneously for 10 000 000 generations and sampled every 1000 generations. We discarded the first 2 000 000 generations as ‘burn-in’ and computed posterior probabilities from the majority rule consensus tree of the remaining post-burn in trees. Support was assessed using posterior probability values.
+Web architecture
+The placement of threads within webs by spiders plays a critical role in determining prey capture and energetic gain (Herberstein & Heiling, 1998; Blackledge & Zevenbergen, 2006; Blackledge & Eliason, 2007). Web architecture was measured from digital photographs of webs (Langer & Eberhard, 1969; Blackledge & Gillespie, 2004; Zschokke & Herberstein, 2005). For a few spiders in the greenhouse, it was difficult to obtain clear photographs of entire webs so that architecture was instead measured directly using techniques described in (Blackledge et al., 2003). We measured the vertical diameter of the capture area (dv), horizontal diameter of the capture area (dh), upper radial length (ru), lower radial length (rl), upper free zone length (Hru), lower free zone length (Hrl), free zone vertical diameter (Hv), and free zone horizontal diameter (Hh) (Fig. 1).
+The total size of the capture area of a web determines the number of insects that fly through it and are potentially intercepted. Capture area is delimited by the outermost sticky spirals. Web capture area was measured directly from photographs of laboratory webs or was calculated for webs that were difficult to photograph (greenhouse, shelves) using the Adjusted Radii-Hub formula (Blackledge & Gillespie, 2002):
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856
+JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Coevolution of behaviour and silk 1843
+
+1844 A. SENSENIG ET AL.
+A 1⁄4 1⁄21=2pr2 􏰃 1=2pðHr Þ2􏰅 þ 1⁄21=2pr2 􏰃 1=2pðHr Þ2􏰅 c au u al l
+where
+Ac 1⁄4 capture area, and rau 1⁄4 ðru þ dh =2Þ=2 and ral
+1⁄4 ðrl þ dh=2Þ=2:
+The density of threads within webs influences the number and sizes of insects likely to be intercepted, the ability of webs to absorb the kinetic energy of flying insects, and the effectiveness with which webs retain insects long enough to be captured by spiders (Eberhard, 1986a, 1988; Blackledge & Zevenbergen, 2006). Therefore, we counted the number of radii in orbs and the number of spiral threads along four axes (top, bottom, left, and right). Mesh width, the distance between adjacent capture spirals, was calculated along each axis and then averaged (Herberstein & Tso, 2000).
+Silk structure
+Spiders exert significant control over the diameters of silk threads as they are spun (Eberhard, 1986a, 1988; Ortlepp & Gosline, 2008), and thread diameter also scales phylogenetically and ontogenetically with body size (Osaki, 1999; Ortlepp & Gosline, 2008). To determine how this structural variation affects web performance, we collected silk from both the radii (MA silk) and capture spirals (Flag silk) of webs. Radii were collected across 16-mm gaps in cardboard holders from each cardinal axis of webs and secured with cyanoacrylate (SuperglueÔ). We then collected capture spiral from the four outermost rows in the south sectors of webs, for materials testing and photography. Capture spiral was collected onto cardboard holders across 11-mm gaps and secured with water soluble glue (ElmersÔ) for testing. Additional samples were collected directly onto glass microscope slides to measure the diameters of the flagelliform silk axial fibres. The structure of the glue droplets was preserved by suspending a spiral fibre across a microscope slide with raised supports. We then measured the average size of glue droplets and computed the number of droplets per mm of thread from digital photographs taken at 100· magnification. We measured the diameters of fibres from photographs taken using polarized light at 1000· magnification (Blackledge et al., 2005a).
+The diameter of a hypothetical thread that would be equivalent in cross-sectional area to the two strands of fibres that typically compose a thread was calculated as:
+pffiffiffiffiffiffiffi dh1⁄42 2rss
+where rss was the measured radius of a single strand, assuming equal radius of each strand. In the rare instances in which we observed four stranded radial or capture threads, all four strands were assumed to be equal diameter. In this case:
+dh 1⁄4 4rss
+The average hypothetical thread diameter for a specific web and specific silk type was then calculated as the average of the four collected thread samples.
+Total volume of capture spiral Flag silk was calculated by first determining the total length of the capture spiral, typically designated as capture thread length (CTL) (Sherman, 1994)(Fig. 1b):
+CTL 1⁄4 pðSnÞ1⁄2ðru þ dh þ rlÞ=4 􏰃 ðHru þ Hh þ HrlÞ=4􏰅
+The factor in the brackets represents the average width of the capture area and is estimated by subtracting the average free zone radius along the four cardinal axes from the average capture area radius along the four cardinal axes. Sn is the average # spirals along the four web axes.
+Volume of spiral thread was then computed as: Vsp 1⁄4 ðCTLÞpðdh sp=2Þ2
+where Vsp is the total spiral thread volume, and dh_sp is the hypothetical spiral thread diameter.
+Total radial thread volume was calculated as: Vrad 1⁄4 ðru þ dh þ ruÞ=4ðRnÞpðdh rad=2Þ2
+where Vrad is total radial thread volume, Rn is the radii count, and dh_rad is the hypothetical radial thread diameter.
+Biomaterial properties
+We characterized the intrinsic material properties of both radial and capture spiral silks using a Nano Bionix test system (Agilent Technologies, Oak Ridge, TN, USA), previously described in (Blackledge et al., 2005b; Blackledge & Hayashi, 2006; Agnarsson & Blackledge, 2009). For each tensile sample, we generated forceextension curves of silk by extending card-mounted samples at 10% ⁄ s. The Young’s Modulus was measured for both spirals and radials as the slope of the force ⁄ extension curve during the initial extension of the silk fibre, a region in which the relationship between force and extension was approximately linear (Gosline et al., 1999). As extension continued, radial fibres exhibited a distinct yield, at which point the slope sharply decreased. Yield strength in radial threads was calculated as the amount of force ⁄ cross-sectional area required to pull a thread to the end of the linear region of the stress ⁄ strain curve (Vogel, 2003). At high extension for both radial and spiral threads, the force rose rapidly before the fibre broke. Strength was then calculated as the amount of force required to break a fibre relative to the instantaneous cross-sectional area of the fibre, assuming constant volume during extension (Vollrath et al., 2001; Guinea et al., 2006). Extensibility, or strain, was calculated as the natural log of the breaking length divided by the original length. Toughness, or the energy
+  a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856 JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+absorbed by a fibre prior to rupture, was calculated as the area under the stress-strain curve divided by the sample volume.
+The third phase of prey capture, prey retention, requires the glue droplets of the spiral threads to sufficiently adhere to the prey as it struggles and hangs in the web. The sticky glue droplets on the edges of a contacted surface contribute most to the adhesion, but droplets on the interior of surfaces also contribute to the adhesive force, a mechanism known as the suspension bridge model of glue adhesion (Opell & Hendricks, 2007). The total adhesive force on a particular insect will depend on the surface features of the insect and number of droplets contributing to the suspension bridge (Opell & Schwend, 2007). We quantified glue adhesive capabilities by applying a capture spiral to a standard 2-mm-wide strip of sandpaper and then measured the force required to pull the capture silk from the sandpaper contact (Agnarsson & Blackledge, 2009). From this single thread adhesive force (Fg), we calculated a web stickiness ⁄ area, a property analogous to our stopping performance criteria of energy absorbed ⁄ area. This stickiness per area was defined as:
+Sta 1⁄4 ðFgÞðCTLÞ=Ac=Cg:
+Sta is the stickiness per area, Fg is the adhesive force of the glue, Cg is the length of contact with force transducer (2 mm), and Ac is the capture area of the web. We express stickiness per unit area of webs because this best represents the total adhesiveness that could be applied to an insect of a given size. The relative humidity was 40–60% during most tensile tests and glue volume measurements; a range which is relevant to natural conditions in which webs catch prey and comparable to other studies (Opell, 2002; Opell et al., 2009).
+Summarizing variation using PCA
+Features of web architecture and thread structure, radial silk material properties, and spiral silk tensile and adhesive properties were quantified (Tables S2–S4). Many of these variables were highly correlated with one another, so that selection of specific variables for simple univariate regressions might only subsample the trends present in the data. Principal component analysis (PCA) (Statistica 8.0, StatSoft, Tulsa, OK, USA) was therefore used to find the dominant patterns of covariation within a set of exclusively architecture ⁄ thread diameter variables, and then separately within a set of exclusively material property variables. Regression of these two sets of PCA factors then allowed us to quantify covariation between architecture and material properties. Architecture variables were chosen for the architecture PCA and material properties for the material PCA if they directly contributed to our defined performance criteria of maximal potential energy absorption per web area (Table 1). For example, increasing extensibility of silk would increase the computed energy absorbed, if all other web properties
+were held constant. Hence, extensibility of silk was included in the PCA. Stickiness of silk would not directly impact the computed energy absorbed, and hence was not included in the PCA.
+To account for common ancestry as an explanation of phenotypic similarity of related species, we used IC in parallel with analysis of the raw (nonphylogenetically corrected) architecture and material variation (Garland et al., 1992). ICs of each node in the phylogeny were first computed for selected raw architecture (radial diameter, spiral diameter, capture area, mesh width, and radial count) and material variables (spiral and radial strength, strain, and toughness), and then these sets of IC values (not shown) were analysed in principal component analyses (PCA) (Midford et al., 2005; Maddison & Maddison, 2008; Revell, 2009). To ensure PCA through the origin, a column of IC’s of opposite sign was constructed for each variable’s initial column of IC’s, and this ‘doubled’ set of columns was used for the PCA (Ackerly & Donoghue, 1998). As in the PCA of raw architecture and material variation, the IC PCAs were performed separately on the architecture IC’s and material IC’s.
+Multiple regression
+We used multiple regression, implemented in Statistica 8.0, to determine how PCA factors correlated with stopping potential. Stopping potential was log transformed to normalize. Separate regression analyses were conducted using the PCA factors generated from the raw data and the IC analysis. For the IC analysis, multiple regression was through the origin, as required for IC analysis (Garland et al., 1992). The distribution of all PCA factors was normal (Wilks W normality test P > 0.05) except for Material IC 4 and Material Raw 2. We transformed these two factors with the power transform: x = 1 ⁄ (x0 + 3)0.25. The addition of three before taking the quarter power was necessary to positivize all of the species or node loadings.
+Univariate regression
+We then tested the three hypotheses for the relationship between behaviour and material-related performance evolution using univariate regression of important PCA factors generated from the material property and architecture ⁄ structure datasets. There are three potential patterns by which web architecture and silk material properties could evolve with orb web performance– concerted changes for maximum performance increase, compensatory changes under relaxed selection, or independent evolution of each property set (null hypothesis). Because spider size closely correlates with many aspects of web architecture and silk, we performed a second set of analyses on the residuals of PCA factors regressed against the natural log of body weight. Regressions performed using these residuals then determined
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856
+JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Coevolution of behaviour and silk 1845
+
+1846 A. SENSENIG ET AL.
+Table 1 Factor score coefficients of PCA and multiple regression statistics. Factor score coefficients of PCA
+    Architecture coefficients
+Web area (cm2) Radii count
+Radial diameter (um) Spiral diameter (um) Mesh width (mm)
+% variation of eigenvalue Multiple regression: t statistic
+(d.f.17), P
+Material coefficients Radial strength (MPa)
+Radial strain (ln mm mm)1) Radial toughness
+Spiral strength (MPa)
+Spiral strain (ln mm mm)1) Spiral toughness
+% variation of eigenvalue Multiple regression: t statistic
+(d.f.17), P
+Raw
+Factor1 ‘quantity’
+0.76 )0.69 0.79 0.75 0.87
+60
+9.9, < 0.001
+Factor1 ‘quality’
+0.88 0.45 0.82 0.88 0.38 0.84
+55
+)4.6,< 0.001
+Factor2 ‘density’
+)0.07 0.61 0.42 0.59 )0.41
+21
+)3.6, 0.002
+Factor2 ‘tradeoff across silk types’
+0.09 0.73 0.48
+)0.34 )0.41 )0.42 21
+0.6, 0.55
+Factor3
+0.65
+0.22 )0.16 )0.21 )0.07
+11 )3.6,0.002
+I.C. Bayesian 8 ⁄ 2
+Factor1 Factor2
+‘quantity’ ‘density’ Factor3
+  Material factors 1–3 and Architecture factors 1–3 on raw and phylogenetically corrected (IC) variables. ‘raw’ refers to PCA with nonphylogenetically corrected variables; I.C. refers to PCA after variables were corrected for phylogeny using the method of IC (Garland et al., 1992). Bold columns indicate factors significantly correlated with estimated energy per area (P < 0.05) in a multiple regression that included the first four PCA factors of each set. Raw material factor regression, F4,17 = 13, P < 001. IC material factor regression, F4,17 = 7.7, P < 001. Raw architecture factor regression, F4,17 = 31, P < 001. IC architecture factor regression, F4,17 = 12, P < 001. IC, independent contrasts; PCA, Principal component analysis.
+whether trends indicating either concerted performance enhancement or compensation were caused primarily by allometric scaling with spider size.
+Measuring actual performance of webs
+We tested the maximum performance of webs (e.g. total energy absorbed during prey impact) with digital video of the impacts of balsam wood projectiles (300–500 mg) shot into webs at 1–2 m s)1. A Fastec TroubleShooter camera (Fastec Imaging Inc., San Diego, CA, USA) captured the relevant approximately 300-ms interval of impact to break at a rate of 500 frames per second. The kinetic and potential energy change of the projectile was computed by tracking the block position and speed in the 2D plane of its trajectory using ProAnalyst 1.5.3 software (Xcitex, Inc., Cambridge, MA, USA). The projectiles spanned a range of realistic sizes for relatively large insect prey and directly contacted at least one radial and five spiral threads. Hence, the ability of webs to remove kinetic energy from the projectiles was because of the combined function of silk material properties and architecture. We only measured impacts that broke through webs to determine the maximum possible performance.
+To track web motion after impact, we digitized selected radial ⁄ spiral junctions and used the autotracking feature of ProAnalyst to follow these points in each frame. We tracked a radial ⁄ spiral junction position at the free zone, at a point halfway between the free zone and outer spiral, and at the outer spiral for all radii. This marking designated an inner and outer radii segment, whose extension could be tracked over time and associated with a force. The length of a spiral segment Sli was measured as the separation of radial points on adjacent radii. This length was associated with a local number of threads for calculation of the spiral tensile force in that region. The amount of work performed by all silk threads in the web was then calculated based upon their measured displacements and the amount of work performed by individual silk threads from those same webs during toughness testing on the Nano Bionix tensile test system. This estimate of energy was found to be comparable to the drop in energy of the projectile when breaking through the web. Furthermore, we estimated aerodynamic drag for several web impacts and found it to < 10% of the total energy absorbed.
+We present a brief summary of our aerodynamic drag estimation methods. Reynolds number is the ratio of
+)0.05 0.29 )0.04 )0.25 0.83 )0.17
+14
+5.3,< 0.001
+0.88 0.27 0.87 0.93 0.17 0.87
+54
+)2.7, 0.01
+0.78 )0.72 0.83 0.71 0.74
+0.01 0.59 0.58 0.05 0.47 0.04 0.56 )0.36
+)0.51 )0.27 58 23 11
+)5.2,< 0.001
+)2.8, 0.01
+Factor2 ‘tradeoff across silk types’
+0.07 0.76 0.37
+)0.22 )0.61 )0.33
+21 )0.8,0.46
+3.5, 0.003
+Factor3 ‘strain’
+)0.07 0.52 0.03 )0.16 0.76 )0.10
+15
+)4.4,< 0.001
+ Factor3 Factor1 ‘strain’ ‘quality’
+  a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856 JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+inertial to viscous forces for a particular motion in a fluid such as air or water. Large animals operate at high Reynolds numbers where inertia dominates the motion, whereas single cellular organisms operate in a regime where viscous force is so high that inertia can be ignored. Spider silk moves through the air during prey impacts at speeds that place the process within the intermediate Reynolds number regime of fluid dynamics, where both inertia and viscosity are important. Reynolds number is defined as:
+Re 1⁄4 ud=c
+where Re = Reynolds number, u = speed of thread (1– 5 m s)1), d = thread diameter (1–6 lm), and c is the kinematic viscosity of air (16 * 10)6 m2 s)1). Typical Re for silk threads moving at the highest velocities during impact range from Re = 0.3–2. Empirical formulas for drag on a cylinder moving normal to flow at intermediate Reynolds number regimes are derived from wind or
+water tunnel experiments (Tritton, 1988). The drag coefficient Cd was a function of Reynolds number and was approximated as:
+Cd 1⁄4 10=Re
+Drag on each silk increment was calculated as:
+D 1⁄4 Cd 0:5qu2dSl
+where D is the drag force, u = speed of thread, q = density of the fluid, Sl is the total spiral length associated with a discrete web feature, and Cd = drag coefficient.
+Total length of silk in a local region was computed as: Sl 1⁄4 SliSn=3
+where Sli = single spiral segment length (m), and Sn = average number of spirals from hub to edge of web. The energy dissipation by aerodynamics (lJ) for each region and time increment was calculated as a force multiplied by a displacement:
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856
+JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Coevolution of behaviour and silk 1847
+                                                                                                     Fig. 3 Phylogeny of focal species based upon preferred topology (Bayesian analysis of data aligned in ClustalW using gap opening and extension costs of 8 and 2 respectively). Sensitivity analysis summarized at each node for three different analytical approaches and three different alignment methods as follows. (MP) maximum parsimony, (ML) maximum likelihood, (b) Bayesian, (8 ⁄ 2) Clustal alignment gap open ⁄ extension costs, (24 ⁄ 6) Clustal alignment gap open ⁄ extension costs, and (opal) Opal alignment in Mesquite using default parameters. Support values summarized as: dashed box indicates clade not recovered while solid boxes indicate
+low ⁄ medium ⁄ high (white ⁄ gray ⁄ black) degrees of jackknife (MP: < 50 ⁄ < 75 ⁄ > 75), bootstrap (ML:< 50 ⁄ < 75 ⁄ > 75), and posterior probability (B < 75 ⁄ < 99 ⁄ 100) support.
+Support values 8/2 24/6 opal
+Deinopis spinosa Uloborus diversus Leucauge venusta Tetragnatha versicolor Zygiella xnotata Nephila clavipes Caerostris darwini Micrathena gracilis Verrucosa arenata Argiope aurantia Argiope trifasciata Mangora gibberosa Eustala sp.
+Cyclosa conica Gasteracantha cancriformis Metepeira sp.
+Neoscona domiciliorum Neoscona arabesca Neoscona crucifera Larinioides cornutus Nuctenea umbratica Araneus diadematus Araneus marmoreus Araneus trifolium
+                                                                          MP ML B
+                                                   
+1848 A. SENSENIG ET AL.
+   1.00
+1
+3 4
+10.0 08.5
+0.85 0. 0.55
+0.
+0.98 1.00
+1.00
+1.00
+10.0 1.00 10.0
+Deinopis spinosa Uloborus diversus Leucauge venusta Tetragnatha versicolor Zygiella xnotata Nephila clavipes Caerostris darwini Micrathena gracilis Verrucosa arenata Argiope aurantia Argiope trifasciata Mangora gibberosa Eustala sp.
+Cyclosa conica Gasteracantha cancriformis Metepeira sp. Neoscona domiciliorum Neoscona arabesca Neoscona crucifera Larinioides cornutus Nuctenea umbratica Araneus diadematus Araneus marmoreus Araneus trifolium
+2
+7 9
+12 13
+16 17
+19 20
+21
+ Weight (mg)
+0.88
+10
+1.
+10.0
+1.00
+10.0 1.00 1.
+1.00 1.00
+5 6
+ 08.8 10.0
+1.
+Stopping potential (uJ cm–2)
+4–9 9–15 15–21 21–27 27–32 32–38 38–44 44–50 50–56 56–61 61–67
+11
+18
+8
+  8–71
+71–134
+134–197
+197–260 1.00 260–323
+323–387
+387–450 0.81 450–513
+513–576
+576–639 0.99 639–702 1.00
+10.0
+10.0
+10.0 10.0
+10.0
+      1.00
+0 0 0 08 8 8 8. . . . 1 1 1 1 1 . 0 0
+14
+     15
+    1.00
+0.
+      1.00
+Fig. 4 Spider body weight evolution is depicted on the left tree, and stopping potential (estimated breaking energy per web area) of webs on the right tree. Tree topology is from Fig. 3. Nodes are labeled with arbitrary numbers on right tree, for reference in scatterplots of independent contrasts values (Figs 6 and 8). High stopping potential has evolved at least four times (indicated by circle on branch of higher stopping potential), both in basal Orbiculariae and in higher clades, particularly within Araneus and Argiope. Evolutionary shifts in orb web performance closely resemble changes in spider body size.
+A 1⁄4 DSd
+where the increment of the spiral region displacement
+was calculated as:
+Sd 1⁄4 u=f
+where u = thread speed (m ⁄ s), and f = camera frame rate (500 frames s)1).
+In summary, the velocity of each point of the discretized web was used to calculate an instantaneous Re number, drag, and aerodynamic energy dissipation. These quanta of energy dissipation were then summed over the entire impact time and web capture area, to derive the total work performed by air in slowing the silk.
+Results
+Phylogeny
+The different analyses produced topologies that were nearly identical to one another with two exceptions (Fig. 3). The placement of Caerostris relative to Zygiella and Nephila varied between MP, ML and Bayesian analyses, and among alignment parameters. Second,
+the placement of the Mangora ⁄ Eustala ⁄ Cyclosa ⁄ Gasteracantha clade as sister to (1) Argiope, or (2) a clade containing Araneus, differed between ML and other analyses. We selected the Bayesian analysis of the 8 ⁄ 2 alignment as our primary topology for presentation in this paper, because it agreed with the majority of other analyses, and with preliminary analyses of a larger dataset (T.A. Blackledge et al., unpubl. data). However, we also performed regression using two additional topologies chosen because they represent the alternative topologies to the Bayesian 8 ⁄ 2 hypothesis: TNT Opal, and Garli 24 ⁄ 6. Notably, in the TNT Opal topology, Nephila and Caerostris are sister taxa, whereas in the Garli 24 ⁄ 6 topology Metapeira is sister group to the genus Araneus. We present regression results for additional topologies only if there is disagreement between Bayesian 8 ⁄ 2 and the raw ‘star’ phylogeny.
+Summarizing variation using PCA
+Principal component analysis grouped web architecture and silk structure variation into five factors, of which Arch factors 1–3 are presented in Table 1. The first two Arch factors explained > 80% of the architectural
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856 JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+variation. Arch factor 1 described 58% of the overall variation in web architecture and silk diameter (60% in the raw analysis). This factor was loaded heavily by variables that scaled strongly with spider body size and silk investment, including the diameters of threads and overall web size (Table 1). We therefore refer to Arch 1 as ‘silk quantity’. Larger spiders also tended to use fewer radii and spin larger mesh widths. This would normally decrease total silk volume in webs, but larger spiders also substantially increase web area and thread diameters. Thus, Arch1 described an increase in the total web size as well as total silk material per area in webs (Table 1). Arch 2 explained 23% (21% raw) of the architectural variation and described ‘silk density’ – the degree to which spiders with similar sized webs used more or less silk volume.
+Principal component analysis grouped variation in the material properties of MA and Flag silk into six factors. The first three material factors explained > 80% of the total variation among species and are presented in Table 1. The Material 1 factor ‘silk quality’ identified concerted enhancement of energy absorption for all properties in the material dataset, describing 54% (55% raw) of material variation. Thus, strength, strain, and toughness of spiral and radial threads all correlated positively with Material 1 ‘silk quality’. The factor Material 2 ‘tradeoff across glands’ captured 21% (21% raw) of material variation and identified a trend of high performance spiral threads occurring with low performance radial threads. The factor Material 3 ‘silk strain’ captured 15% (14% raw) of material variation and identified high covariation in strain of both spirals and radials that occurred independent of their strength and toughness.
+Univariate regression and performance
+Stopping potential correlated highly with real web performance in four species of orb spiders (r = 0.99) (Fig. 5b), although it consistently overestimated realized performance approximately seven-fold. Regardless, stopping potential provides a precise measure of the relative performance of different spiders’ webs.
+To assess whether behaviour and biomaterial-related web performance co-evolve, Architecture factors (Arch 1, 2) were regressed against the Material factors (Material 1, 2, 3). Furthermore, to control for possible effects of body size, these analyses were repeated using the residuals of each PCA factor regressed on spider body weight.
+Univariate regression of ‘silk quality’ PCA factor Material 1 against ‘silk quantity’ Arch 1 was significant (IC Bayesian 8 ⁄ 2, r = 0.77, F1,19 = 27.8, P < 0.001, raw, r = 0.80, F1,20 = 34.8, P < 0.001) (Fig. 6a,b). The correlation between Material 1 and Arch 1 remained even after controlling for spider weight, with the residuals of the Arch 1 axis then representing primarily ‘mesh
+sparseness’ (reciprocal of length of radial and spiral threads per web area) and the residuals of the Material 1 factor representing those quality improvements beyond that associated with body weight (IC Bayesian 8 ⁄ 2, r = 0.64, F1,19 = 13.4, P = 0.002, raw r = 0.66, F1,20 = 15.2, P < 0.001) (Fig. 6c,d). This correlation was
+Coevolution of behaviour and silk 1849
+ (a)
+3
+2.5
+2
+1.5
+1
+Relative stopping potential
+20 40 60 80 100 120
+  Am Nph Nc
+Nd
+Ad
+Lar Gas Nu
+Mic Na Met
+Zy Cy
+At Ca
+Aga
+         Agt
+      (b) 9
+8
+7
+6
+5
+4
+3
+2 10
+Log (stopping potential)
+Araneus trifolium
+Argiope trifasciata
+Larinioides cornutus
+Tet
+Ver
+Leu
+    Eu Mang
+  0.5
+0.5 1 1.5 2
+    Verrucosa arenata
+ 10 20 30 40 50 60 70 Stopping potential (μJ cm–2)
+Fig. 5 Realized performance and stopping potential of orb webs. Stopping potential was estimated from the breaking energy of silk in quasi-static tensile tests and the volume of silk per web area. (a) Stopping potential increased with spider body weight (r = 0.75,
+P < 0.0001). Color scale units = log (stopping potential) · 100 – 60. (b) Stopping potential correlated highly with actual performance of webs (r = 0.99, P = 0.014). Sample size for lowest to highest energy taxa: n = 1, 6, 2, 1. Letter codes for species, with sample size: Araneus diadematus Ad(4), Araneus marmoreus Am(5), Araneus trifolium At(7), Argiope aurantia Aga(17), Argiope trifasciata Agt(9), Caerostris darwini Ca(7), Cyclosa conica Cy(5), Eustala sp. Eu(3), Gasteracantha cancriformis Gas(11), Larinioides cornutus Lar(26), Leucauge venusta Leu(12), Mangora gibberosa Mang(9), Metepeira labyrinthea Met(9), Micrathena gracilis Mic(15), Neoscona arabesca Na(15), Neoscona crucifera Nc(5), Neoscona domiciliorum Nd(4), Nephila clavipes Nph(13), Nuctenea umbratica Nu(7), Tetragnatha versicolor Tet(4), Verrucosa arenata Ver(8), Zygiella x-notata Zy(8).
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856
+JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Actual energy absorbed/total web capture area (μJ cm–2)
+Log (body weight)
+
+1850 A. SENSENIG ET AL.
+  6 (a) 4
+2 0
+82
+Ca Ver
+Raw PCA data
+Relative stopping potential
+20 40 60 80 100 120
+4 (b)
+5 Nu
+Gas
+At 69 Aga
+IC PCA Data
+             18
+16 0 202 12
+14 21 1
+Ad Lar
+      Met Agt Nc Leu NdAm
+         Nph Na
+         Mic
+Cy Mang
+Zy
+Eu
+Tet
+ 3 15 19 –2 –217 104
+       –4
+11
+7
+13
+–4
+   –6
+–4 –2 0 2 4 6 –4 –2 0 2 4
+      4 (c) 2
+0
+–6
+‘quantity’ Arch 1 IC ‘quantity’ Arch 1 raw
+18 3 (d) 2065 2
+14 17 1
+9
+38 1 Lar
+      Ver
+Nu
+  Gas
+Ca
+             2
+16 1012 LeuEuTet
+     15 0AdZy
+         19
+21
+11
+13
+Met At Aga AgtNc
+–1 Cy
+  –2 4
+–4
+7
+–6
+–6 –4 –2 0 2 4
+‘mesh sparseness’ resids Arch 1 IC
+Mic
+Nd
+Na
+          –2
+Am Nph
+Mang
+       –3
+–3 –2 –1 0 1 2
+‘mesh sparseness’ resids Arch 1 raw
+  Fig. 6 Concerted evolution of orb web performance through changes in both material properties of silk and web macrostructure. (a) principal component analysis (PCA) factors Arch 1 and Material 1 were positively correlated (independent contrasts (IC) values from Bayesian 8 ⁄ 2 phylogeny, r = 0.73, P < 0.001). Point labels correspond to node numbers in Fig. 4. (b) Raw PCA factors Arch 1 and Material 1 correlated significantly (r = 0.73, P < 0.001). Species abbreviations are given in Fig. 5. Color scale units = log (stopping potential) · 100 – 60. (c, d) The residuals of Material 1 regressed vs. log (body weight) were plotted against the residuals of Arch 1 vs. log (body weight), in order to remove the effect of body size. ‘Mesh sparseness’ increased with ‘size adjusted quality’. (c) IC values from Bayesian 8 ⁄ 2 phylogeny (r = 0.63, P = 0.002) (d) Raw values (r = 0.73, P < 0.001). [Correction added on 1 September 2010, after first online publication: ‘‘quality’’ changed to ‘‘quantity’’ in x-axis labels of Fig. 6(a) and (b).]
+still significant after excluding the distinct outlier in the IC analysis (node 7) (raw P = 0.03) (Fig. 6c). To supplement the PCA analyses, we present the relationships of select raw variable that contribute significantly to these general trends (Figs 7 and 9). Spiral strain increased with spiral diameter (IC Bayesian 8 ⁄ 2, r = 0.83, F1,19 = 40.5, P < 0.001, raw r = 0.93, F1,20 = 120, P < 0.001) (Fig. 7b), illustrating the more general trend of increasing material quality with spider size. Spiral strength increased with mesh width (IC Bayesian 8 ⁄ 2, r = 0.80, F1,19 = 33.6, P < 0.0001, raw r = 0.83, F1,20 = 44.6, P < 0.001) (Fig. 9b), illustrating the more general trend of quality increasing with mesh sparseness.
+‘Silk strain’ Material 3 was also significantly correlated with ‘silk density’ Arch 2 (IC Bayesian 8 ⁄ 2, r = 0.73,
+F1,19 = 21.3, P < 0.0001, raw r = 0.83, F1,20 = 40.6, P < 0.0001). As silk density (thread volume per web area) increased and thus improved performance, ultimate strain of both radial and spiral fibres also increased. To examine the raw variables underlying this trend, we plotted spiral strain as a function of silk volume per area (IC Bayesian 8 ⁄ 2, r = 0.55, F1,19 = 8.4, P = 0.009, raw r = 0.82, F1,20 = 42.5, P < 0.0001) (Fig. 7c), finding that indeed spiral strain increased with silk volume per area. This pattern was thus indicative of concerted contributions to performance by architecture and material properties. We created a ‘mesh density’ (length of radial and spiral threads per web area) axis by taking the residuals of Arch 2 onto body weight, a procedure which mostly removed the effect of thread diameter because of the
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856 JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+‘size adjusted quality’ resids Material 1 IC ‘quality’ Material 1 IC
+‘size adjusted quality’ resids Material 1 raw ‘quality’ Material 1 raw
+
+high correlation of diameter with body weight. We then found that ‘size adjusted silk strain’ (residuals of Material 3) also increased with ‘mesh density’ (IC Bayesian 8⁄2, r = 0.63, F1,19 = 12.5, P = 0.002, raw r = 0.77, F1,20 = 29.2, P < 0.001).
+Material 1 PCA factor was not significant when regressed on Arch 2 PCA factor (IC Bayesian 8 ⁄ 2, r = )0.36, F1,19 = 2.9, P = 0.10, raw, r = )0.29, F1,20 = 1.8, P = 0.19). Analysis of the residuals onto body weight of these factors revealed a significant negative correlation. Size adjusted ‘quality’ (residuals of Material 1 onto body weight) decreased with increasing ‘mesh density’ (residuals Arch 2 onto body weight) (IC Bayesian 8⁄2, r= )0.89, F1,19 = 70.7, P < 0.001, raw, r = )0.80, F1,20 = 35.8, P < 0.001) (Fig. 8c, d). This represented a second derivation of the compensatory relationship between ‘quality’ and ‘quantity’ previously discovered by correlation of Material 1 and Arch 1. The relationship is most intuitively captured by plotting spiral strength against mesh width (Fig. 9b) and radial strength against number of radial spokes in the web (Fig. 9a).
+Material 3 ‘strain’ and Arch 1 ‘quantity’ were not significantly correlated (IC Bayesian 8 ⁄ 2 r = 0.27, F1,19 = 1.5, P = 0.23, raw r = 0.29, F1,20 = 1.8, P = 0.20), and were thus not depicted in a figure. ‘Size adjusted strain’ (residuals of Material 3 onto body weight) and ‘mesh sparseness’ (residuals Arch 1 onto body weight) were negatively correlated in all topologies except Bayesian (IC Bayesian 8 ⁄ 2 r = )0.34, F1,19 = 2.5, P=0.13, raw r=)0.53, F1,20 =7.9, P=0.01, IC TNT Opal r=)0.55, F1,19 =8.2, P=01, IC Garli 24⁄6 r= )0.40, F1,19 = 3.6, P = 0.07).
+Stickiness per area increased with stopping potential (IC log⁄log Bayesian 8⁄2, r = 0.54, F1,19 = 7.7, P = 0.01, raw r = 0.66, F1,20 = 15.3, P < 0.001) (Fig. 9c). This suggested another trend of concerted evolution towards improved function, in that webs with high stopping potential also improved stickiness to better retain the large insects that are arrested (Agnarsson & Blackledge, 2009).
+Discussion
+Two major components in the evolution of performance are changes in the intrinsic properties of biomaterials and modifications in how those biomaterials are used behaviourally. However, data relating material properties to performance evolution are scarce, with a few notable exceptions (Bertram & Gosline, 1987; Pollock & Shadwick, 1994; Summers & Koob, 2002). The degree to which function is enhanced by changes in biomaterial properties per se vs. structural or behavioural changes is largely unknown, yet critical for understanding the origin of evolutionary novelties and patterns of diversification. The function of orb webs as energy dissipating traps is clear, and the contributions of both behaviour (web architecture) and material properties of silk (silk
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856
+JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Coevolution of behaviour and silk 1851
+  1.8 (a) 1.6
+1.4
+1.2 1
+Gas
+Tet Leu
+Nc
+Relative stopping potential
+20 40 60 80 100 120
+At Aga
+Nph
+        Ver
+Am Agt
+Ad Lar
+Nu
+Ca
+    Cy Zy Eu
+Na Met
+Mic
+Nd
+          0.8 Mang
+0.5 1 1.5 2 2.5 3 3.5
+2000 (b) 1500 1000
+Spiral diameter (um)
+Nu
+Met
+Nph
+Ca Ver
+Gas
+2000
+    Lar Nc Agt Ad Aga
+Tet
+  At
+    Leu Am
+     Zy
+Na Eu
+Mic
+  Nd
+ 500
+0
+1000 1200
+ Cy Mang
+   1.8
+(c)
+1.6 1.4
+At Aga
+1400 1600 1800
+Radial strength (MPa)
+      Nc Agt
+Nu
+Nd
+Ca
+Mic
+0.8 01234
+Silk volume/area (mm3 cm–2) x 10–4
+Fig. 7 Examples of individual variables associated with concerted improvement in web performance, as identified by the significant relationship between principal component analysis (PCA) factors ‘quality’ Material 1 and ‘quantity’ Arch 1. (a) Spiral strain increased with spiral diameter (r = 0.93, P < 0.001). (b) Spiral strength increased with radial strength (r = 0.67, P < 0.0001). Species abbreviations are given in Fig. 5. (c) Examples of individual variables contributing to the concerted improvement identified especially
+by PCA factor ‘strain’ Material 3 increasing with ‘density’ Arch 2 (graph of these PCA factors is not shown). Spiral strain increased with silk volume per web area (raw r = 0.82, P < 0.0001).
+Nph Am
+Ad
+    Zy
+Ver
+Lar
+ 1.2
+1 Eu
+Tet Leu
+Cy
+Na Met
+         Gas Mang
+    Spiral strain (ln mm mm–1) Spiral strength (MPa) Spiral strain (ln mm mm–1)
+
+1852 A. SENSENIG ET AL.
+ IC PCA data
+Raw PCA data
+Relative stopping potential
+20 40 60 80 100 120
+ 6 (a) 4
+2 0
+–210 Cy
+(c)
+4 18 2
+5
+(d)
+3 Ver Nu
+Gas
+4 (b)
+2 Nu Ver
+      5
+Ca
+Gas At Lar Ad
+Aga Am Agt
+        18
+6
+8 9
+        1
+20 16
+2
+14 21 19
+0
+Tet
+Nc EuEuZyNd
+    12
+LeuMet
+     Nph
+         315 –2NaMic 17 4
+        –4 –6
+11 13
+7
+–4 Mang –6
+        –4 –2 0 2 4 –2 –1 0 1 2 3 ‘silk density’ Arch 2 IC ‘silk density’ Arch 2 raw
+         62 14 20
+    1 121792
+Ca 1 Lar
+8
+      0 316
+15 0Eu
+Met
+Tet Leu At Ad
+    10
+19 Zy
+          –2
+–4
+21
+Nc Aga Nd Am
+Agt 411 –1 Na Cy
+           13
+Mic
+Nph
+ –2 –3
+‘mesh density’ resids Arch 2 IC ‘mesh density’ resids Arch 2 raw
+Fig. 8 Compensatory evolution of orb web performance indicated by decreased material quality of silk when architectural density increased. (a, b) Material 1 principal component analysis (PCA) factor was regressed on Arch 2 PCA factor. Architectural variation in silk
+volume ⁄ area correlated with improvement in material properties prior to controlling for spider body weight. (c, d) Residuals were computed from regressions against log (body weight) to control for differences in spider size. ‘Mesh density’ (residuals of Arch 2) negatively correlated with ‘size adjusted quality’ (residuals of Material 1), indicating a compensatory relationship between behavioral changes in web spinning and silk quality. Species abbreviations are given in Fig. 5 and point labels correspond to node numbers in Fig. 4.
+  Mang
+ 7
+–6
+–4 –2 0 2 4 –2 –1 0 1 2
+     biomechanics) to stopping potential are readily quantifiable. Across a phylogenetically and ecologically diverse set of 22 species of orb-weaving spiders (Fig. 4), we find a primary pattern of concerted evolution where behavioural and biomechanical traits contribute to evolutionary shifts in estimated stopping potential of webs. Spiders that spin webs with the potential for high kinetic energy absorption produce both higher performing silk and relatively larger quantities of thick silk threads (Figs 6a, b and 7a, b). After adjusting for body size, we find a secondary trend of compensatory evolution where silk quality trades off with web architecture in determining estimated stopping potential (Figs 6c, d, 8c, d and 9a, b).
+The effect of spider size is fundamental to understanding orb web evolution. Large spiders spin relatively better performing webs using better silk, with their webs absorbing up to 12 times more kinetic energy per
+area than the webs spun by smaller spiders (Figs 5a and 6b). The multiple origins of large spider body size in our data show that this pattern is consistent across diverse lineages of orb spiders. Multiple investigations of web function and performance suggest that while orb webs capture numerous small prey, they are optimized to target large, high value prey items because of the large energetic return from such prey (Venner & Casas, 2005; Blackledge & Eliason, 2007). Stopping potential therefore appears to be a dominant force in spider web evolution, possibly driven by the demands of capturing ever larger insects as fecundity selection favours evolution of larger body sizes (Prenter et al., 1999; Blackledge et al., 2009a).
+The residuals of the PCA factors regressed against spider body mass allowed us to control for the effect of spider size evolution. This revealed a significant positive
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856 JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+‘size adjusted quality’ resids Material 1 IC ‘quality’ Material 1 IC
+‘size adjusted quality’ resids Material 1 raw ‘quality’ Material 1 raw
+
+correlation between Arch 1 residuals and the silk quality residuals, indicating a compensatory relationship between relative web size and silk quality (Fig. 6c, d). The same compensatory trend was also revealed by the negative correlation between silk quality and the residuals of Arch 2 PCA, an axis of ‘mesh density’ (Fig. 8c, d). In other words, both these correlations show that spider species spinning relatively large and sparse webs, with relatively few radii and wide mesh width, do so by using relatively high performing silk (e.g. compare Verrucosa, Nuctenea, and Caerostris vs. Nephila and Mangora) (Fig. 9a,b). However, improved silk quality does not compensate completely for the effect of spreading silk more thinly across webs within similarly sized species. For instance, Verrucosa silk is significantly tougher and stretchier than that of similarly sized Micrathena. However, Verrucosa spreads the same amount of silk over a nearly two times larger web than Micrathena, resulting in estimated stopping potential that is only 60% that of Micrathena.
+Other criteria, besides stopping potential and interception rates, undoubtedly influence the evolution of web architecture, and diverse selective forces could promote multiple patterns of coevolution. For example, stickiness correlates with capture spiral strength, so that threads are likely to release, rather than break, when prey pull on them (Agnarsson & Blackledge, 2009). Increased travel time for spiders attacking prey in larger webs (Eberhard, 1989), visibility of huge orb webs or thick silk to both prey and predators (Craig, 1986), and whole web structural support in windy environments (Wirth & Barth, 1992) may all be important. Radii also have the important role of keeping individual rows of capture spiral from adhering together. The highly compliant capture silk is stretched easily in the wind, and the retention potential of webs suffers if rows of capture silk stick together. Thus, in smaller webs with very tight meshes, a larger number of radii may be necessary to hold the capture silk in place. In contrast, the large mesh width in some big webs may reduce the need for radii to prevent the capture spiral from sagging and deforming, in part explaining why larger spiders tend to spin webs with fewer, thicker, radii.
+Spider orb webs present a particularly tractable system in which to test the relative roles of material vs. behavioural changes during performance evolution. While larger spiders spin higher performing webs, material properties and spinning behaviours show a compensatory correlation among similarly sized species. Stronger silks, from both MA and Flag silk glands, tend to be used in the spinning of webs with sparser, and hence ‘weaker’, architectures. Most biological systems only hint at coevolution between materials and morphology. For example, the byssal attachment threads of the mussel Mytilus californianus are thicker and superior in strength, extensibility, stiffness, and resiliency compared to its sister species M. trossulus, which occurs in more hydro-
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856
+JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Coevolution of behaviour and silk 1853
+  2000
+(a)
+Ca
+Ver
+Gas
+Aga Met
+Relative stopping potential
+20 40 60 80 100 120
+    1800
+1600
+1400
+1200
+1000
+Nu At
+Tet Am
+Lar
+Na
+Nph Agt
+Mic
+Cy
+Mang
+         Eu Ad
+ Nc
+Leu
+     Nd
+Zy
+  10 20 30 40 50
+2000 (b) 1500 1000
+Nu
+Number of radii in web
+   Ca Ver
+At Lar Nc
+Am Aga Tet
+Nd Eu
+Zy
+Na
+Mic
+Cy
+       Ad Leu
+Met
+Agt Gas
+          500
+    Mang
+(c)
+Nph
+0 02468
+300
+250
+200
+150
+Ver
+Mesh width (mm)
+Ad
+Am Nc
+Nph
+     Nu
+Aga At
+Ca
+  Zy
+Lar
+     100
+Met Na
+Nd Agt
+     50 Mang Eu
+Mic Gas
+     Cy 0 Tet Leu
+0 20 40 60 80
+Energy at break/web area (μJ cm–2)
+Fig. 9 (a, b). Specific variables contributing to the compensatory evolution between web architecture and silk properties (shown in Fig. 8). (a) Radial strength decreased with number of radii in webs (r = )0.57, P = 0.005). (b) Spiral strength increased with mesh width (r = 0.83, P < 0.0001). (c) Stickiness per area increased with stopping potential (r = 0.66, P < 0.001). This suggests another trend of concerted evolution toward improved function, in that webs with high stopping potential also improve stickiness, likely allowing better retention of difficult to capture large insects.
+Stickiness/area (μN cm–2)
+Spiral strength (MPa) Radial strength (MPa)
+
+1854 A. SENSENIG ET AL.
+dynamically sheltered sites (Bell & Gosline, 1996, 1997). Classic scaling relationships, such as the allometric expansion of bone cross-sections in large vertebrates (Galilei, 1638; Carrano, 1998) and many comparative locomotion performance studies; e.g. mammals (Alexander, 1984) and lizards (Losos, 1990b), are based on the assumption that intrinsic material properties are typically invariant. However, here we show that evolution of silk material properties is critical for understanding orb web performance, suggesting that material property variation and behaviour need to be considered together in many other biological systems.
+Acknowledgments
+We thank Rachel Stevenson for assisting with the measurements of web architecture and Marlena Abraham, Sarah Anderson, Taylor Gondek, and Jacki Stegner for assisting with the measurements of silk diameters. Matjaz Kuntner collected spiders in Slovenia. This research was supported by National Science Foundation awards DBI-0521261, DEB-0516038 and IOS-0745379 to TAB. This is publication no. 25 of the University of Akron Field Station and was conducted under permit 2005-004.
+References
+a 2010 THE AUTHORS. J. EVOL. BIOL. 23 (2010) 1839–1856 JOURNAL COMPILATION a 2010 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY

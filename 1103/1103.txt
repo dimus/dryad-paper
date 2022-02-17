@@ -1,0 +1,368 @@
+    Molecular Ecology Resources (2012) 12, 48–56 doi: 10.1111/j.1755-0998.2011.03055.x
+COI is better than 16S rRNA for DNA barcoding Asiatic salamanders (Amphibia: Caudata: Hynobiidae)
+YUN XIA,*† HAI-FENG GU,*† RUI PENG,* QIN CHEN,* YU-CHI ZHENG,* ROBERT W. MURPHY‡§
+and XIAO-MAO ZENG*
+*Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, China, †Graduate University of Chinese Academy of Sciences, Beijing, 100049, China, ‡State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming 650223, China, §Centre for Biodiversity and Conservation Biology, Royal Ontario Museum, 100 Queen’s Park, Toronto, Ontario M5S 2C6, Canada
+Abstract
+The 5¢ region of the mitochondrial DNA (mtDNA) gene cytochrome c oxidase I (COI) is the standard marker for DNA barcoding. However, because COI tends to be highly variable in amphibians, sequencing is often challenging. Consequently, another mtDNA gene, 16S rRNA gene, is often advocated for amphibian barcoding. Herein, we directly compare the usefulness of COI and 16S in discriminating species of hynobiid salamanders using 130 individuals. Species identification and classification of these animals, which are endemic to Asia, are often based on morphology only. Analysis of Kimura 2-parameter genetic distances (K2P) documents the mean intraspecific variation for COI and 16S rRNA genes to be 1.4% and 0.3%, respectively. Whereas COI can always identify species, sometimes 16S cannot. Intraand interspecific genetic divergences occasionally overlap in both markers, thus reducing the value of a barcoding gap to identify genera. Regardless, COI is the better DNA barcoding marker for hynobiids. In addition to the comparison of two potential markers, high levels of intraspecific divergence in COI (>5%) suggest that both Onychodactylus fischeri and Salamandrella keyserlingii might be composites of cryptic species.
+Keywords: China,crypticspecies,Japan,SouthKorea,speciesidentification Received 27 December 2010; revision received 30 June 2011; accepted 4 July 2011
+Introduction
+DNA barcoding has the potential to identify species (Hebert et al. 2003, 2004a). The 5¢ region of cytochrome c oxidase I (COI) gene is recommend as the universal and standard barcoding marker for all animals (Hebert et al. 2004b; Ward et al. 2005; Hajibabaei et al. 2006; Ratnasingham & Hebert 2007). However, attempts to sequence COI in amphibians often fail because this fragment tends to be highly variable. Further, observed levels of divergence often fail to separate intraspecific and interspecific divergences.
+Vences et al. (2005a) report that the universal primers for COI can yield very little success in sequencing frogs because of high levels of mutations in the priming sites. These attributes complicate the application of COI to barcoding amphibians (Hawkins et al. 2007; Vences et al. 2005a, b). Consequently, Vences et al. (2005b) advocate using the mitochondrial gene 16S rRNA (16S) as a
+Correspondence: Xiaomao Zeng, Fax: 86 028 85241980; E-mail: zengxm@cib.ac.cn
+standard DNA barcoding marker to complement COI for amphibians and even other vertebrates.
+Compared to COI, 16S is highly conserved and this attribute facilitates the design of universal primers. Further, its robustness to PCR amplification meets the requirements of variable laboratory conditions. Nowadays, many researchers use 16S as the DNA barcoding marker for biodiversity estimates and species discovery in amphibians (e.g. Fouquet et al. 2007; Vences et al. 2008; Lotters et al. 2009; Vieites et al. 2009).
+The use of 16S for DNA barcoding amphibians is controversial, and this fragment has been applied to a few families only. Although COI is quite variable in amphibians, amplification of the gene fragment can be obtained using modified primers. This gives COI a great potential for science and conservation (Smith 2008; Smith et al. 2008).
+Most barcoding studies for amphibians focus on COI, only a few use 16S, and no study directly compares the relative effectiveness of these markers using the same group of amphibians. The ideal barcoding gene should have an observable gap between intraand interspecific levels of divergence and, most important, correctly
+Ó 2011 Blackwell Publishing Ltd
+
+identify species (Hebert et al. 2004b; Meyer & Paulay 2005). Frequently, intraand interspecific divergence values for 16S overlap. This precludes determination of a threshold value to distinguish candidate species (Vences et al. 2005a; Fouquet et al. 2007; Vieites et al. 2009). Because the relative value of COI and 16S has not been evaluated in amphibians, it is difficult to successfully argue the superiority of one over the other.
+The Asiatic salamanders, Family Hynobiidae, are an ancient lineage and the third largest family of extant Caudata (Wake 2009; Frost 2010). The phylogenetic relationships of the species are well studied molecularly, and new species are now known (Kim et al. 2003; Tominaga et al. 2006; Zeng et al. 2006; Zhang et al. 2006; Fu & Zeng 2008; Lai & Lue 2008; Tominaga & Matsui 2008; Wei et al. 2009; Peng et al. 2010). Ironically, the morphological identification of species almost always remains problematic because many early descriptions are vague and incomplete, especially for sibling species (Zhao & Adler 1993; Zeng 2004). In this case, DNA barcoding might serve to provide heretofore elusive diagnoses. Herein, we compare the utility of COI and 16S for DNA barcoding, including species identification.
+Materials and methods
+Samples collection
+We collected a total of 130 specimens from 20 of the estimated 54 species of hynobiid salamanders using two or more individuals of each species from different localities (Table S1, Supporting Information). We included the new species of Batrachuperus and Pseudohynobius. All specimens were stored in 95% ethanol at )20 °C from the time of euthanization until sequencing. All sample collection followed Animal Use Protocols approved by the Chengdu Institute of Biology Animal Care Committee. Species-level identification was based on the original morphological descriptions, locality data and additional information (Zhao & Adler 1993; Fei 1999; Fei et al. 2006).
+Molecular methods
+Total DNA was extracted from either muscle or liver by the SDS-proteinase K ⁄ phenol-chloroform extraction method (Sambrook & Russell 2001). A 680-bp partial fragment of COI was amplified using the primers LCO1490 (5¢-GGTCAACAAATCATAAAGATATTG-3¢) and HCO2198 (5¢-TAAACTTCAGGGTGACCAAAAAATCA-3¢) (Folmer et al. 1994). A 16S rRNA fragment was amplified using the published primers: L02510 (5¢-CGCCTGTTTATCAAAAACAT-3¢) (Palumbi 1996) and H03063 (5¢-CTCCGGTTTGAACTCAGATC-3¢) (Rassmann 1997). The 25 lL polymerase chain reaction (PCR)
+mixture contained 0.5–1.0 lL of DNA template, 2.5 lL 10· PCR buffer, 0.4 lL of each primer (10 pm ⁄ uL), 1.8 lL MgCl2, 1.4 lL dNTPs and 0.15 lL of Extaq DNA polymerase (TaKaRa Bio, Dalian, China). PCR conditions consisted of 3 min at 95 °C, followed by 35 cycles of 30 s at 95°C,30sat53°C,40sat72°Candafinalextensionat 72 °C for 7 min. DNA sequencing was performed in both directions using the primers described previously on an ABI 3730 automatic DNA sequencer.
+Complete mtDNA sequences of hynobiids in GenBank (Table S2, Supporting Information) were complemented by both COI and 16S rRNA sequences form our data set. The Chinese giant salamander, Andrias davidianus (Family Cryptobranchidae), was chosen as the outgroup because it is the sister group of the Hynobiidae.
+Sequences were initially aligned using BIOEDIT v. 7.0.5.3 (Hall 1999). Alignment of the 16S sequences was verified using secondary structure (Cannone et al. 2002). The accuracy of COI as a barcode was assessed using the latest taxonomy (Xiong et al. 2007; Frost 2010). Nucleotide saturation was tested by plotting numbers of transitions and transversions against Kimura-2-parameter distance (K2P) (Kimura 1980) using DAMBE v. 5.2.5 (Xia & Xie 2001). For COI, each codon position was tested separately, and combined. MEGA v. 4.0 (Tamura et al. 2007) was used to calculate sequence divergences and to create a neighbour-joining (NJ) tree based on the K2P model. Nodal support was estimated using 10 000 bootstrap pseudoreplicates. We also utilized MEGA to obtain a frequency distribution for intraand interspecific genetic divergences.
+Results
+Cytochrome c oxidase I was successfully sequenced from 116 of 130 individuals (89.2%), while 16S was successfully sequenced from 118 samples (90.8%). Sequences were not obtained from a few specimens because of either a low quality of DNA or amplification failure. Including 22 COI sequences from GenBank, the data set consisted of 138 specimens representing 31 species. The aligned data contained 582 nucleotide positions without gaps or stop codons; 248 positions varied. All new sequences were deposited in GenBank (Table S1, Supporting Information accession numbers JN165778– JN165893). The data set for 16S included 140 aligned sequences (22 from GenBank) for 31 species. The fragments contained 472 aligned nucleotide positions of which 126 positions were variable (Table S1, Supporting Information accession numbers JN165894–JN166011).
+Saturation
+When all codon positions were compared, COI appeared to have reached a plateau of saturation at 10–12% overall
+Ó 2011 Blackwell Publishing Ltd
+DNA BARCODING OF ASIATIC SALAMANDERS 49
+
+ 50 Y. XIA ET AL.
+divergence (Fig. 1a). This result was attributed to the third codon position (Fig. 1b,c). In contrast, 16S did not exhibit saturation in either transitions or transversions (Fig. 1d).
+Genetic divergences
+The level of DNA sequence divergence as a function of taxonomic hierarchy was summarized in Table 1. The mean intraspecific divergence of COI for all species of hynobiids was 0.014, and most were <0.05, the exceptions being Onychodactylus fischeri (0.061) and Salamandrella keyserlingii (0.058) (Tables 1 and S3, Supporting Information). Intraspecific distance values ranged from 0 to 0.061, whereas interspecific distances ranged from 0.007 to 0.165. In comparison, genetic divergence of 16S was much lower with mean conspecific, congeneric and confamilial genetic distances of 0.003, 0.029 and 0.060, respectively (Table 1).
+The level of divergence of COI among congeneric species was about eight times higher than intraspecific genetic distance, and the divergence among confamilial taxa was obviously higher than that between congenerics (Table 1). In contrast, the mean divergence of 16S among congeneric species was about 10 times higher than intraspecific genetic distance, and the divergence among confamilial taxa was two times higher than that of
+(a)
+0.15 Transitions 0.12 Transversions
+0.10 0.07 0.05 0.02 0.00
+0.0000 0.0454 0.0908 0.1362 0.1816 0.2270 0.2724
+(c)
+0.36 Transitions 0.30 Transversions
+0.24 0.18 0.12 0.06 0.00
+0.0000 0.1933 0.3866 0.5799 0.7732 0.9665 1.1598
+congenerics. Nevertheless, both genes overlapped in intraspecific and interspecific genetic divergences (Fig. 2).
+Tree-based identification
+A phenetic NJ tree from K2P distances illustrates COI levels of genetic divergence among intraand interspecific hierarchical units. All individuals of a species clustered together (Fig. 3). Thus, COI barcodes correctly identified all species. Most species clusters were strongly supported. Intraspecific divergences within O. fischeri and S. keyserlingii were >0.05, and each species was comprised of two strongly supported lineages. Two pairs of sister species, Hynobius formosanus and Hynobius arisanensis, and Hynobius yangi and Hynobius leechii, had distances below 0.02, and together these groups were more similar to each other than to any other species in the genus. Some newly described and putative species – Pseudohynobius jinfo, Pseudohynobius guizhouensis, Pseudohynobius kuankuoshuiensis and Batrachuperus sp1 – formed strongly supported lineages in the NJ tree, and they were clearly separated from their sister species.
+In contrast to the COI tree, the NJ tree based on 16S did not clearly diagnose some taxa. Individuals of the following six of the 31 target species (19.4%), based on
+(b)
+0.057
+0.047 Transversions
+0.038 0.028 0.019 0.009 0.000
+0.0000 0.0118 0.0237 0.0355 0.0473 0.0591 0.0710
+(d)
+0.07 Transitions 0.06 Transversions
+0.05 0.04 0.02 0.01 0.00
+0.0000 0.0202 0.0404 0.0606 0.0808 0.1009 0.1211
+Fig. 1
+Kimura’s-2-parameter distance
+Transitions and transversions plotted against Kimura-2-parameter distance for the cytochrome c oxidase I (COI) and 16S barcoding regions in the Hynobiidae. (a) All nucleotides of COI; (b) codon positions 1 and 2 of COI; (c) codon position 3 of COI; (d) 16S. Transitions at the third codon positions of COI are saturated.
+Transitions
+Ó 2011 Blackwell Publishing Ltd
+
+DNA BARCODING OF ASIATIC SALAMANDERS 51
+Table 1 Comparison of COI and 16S genetic divergences (Kimura-2-parameter distance) for three taxonomic levels in the Hynobiidae COI 16S
+   Level of comparison Taxa Minimum
+Species 31 0 Genus 9 0.007 Family 1 0.131
+COI, cytochrome c oxidase I.
+Maximum Mean Taxa 0.061 0.014 31
+Minimum Maximum Mean 0 0.019 0.003
+  the taxonomy of Fu & Zeng (2008), did not cluster with their respective groups but rather grouped with other species and with strong support (Fig. 4): Batrachuperus pinchonii, B. karlschmidti, Pseudohynobius jinfo, P. flavomaculatus, Hynobius leechii and H. yangi. Most of the remaining species belonged to Batrachuperus and Hynobius, the most speciose hynobiid genera, and the relationships of many of these species did not enjoy strong support. Indels in apparent loop regions of 16S made the determination of homologies difficult. If ambiguous regions were deleted, the tree-based genetic distance approach of 16S would have distinguished even fewer species (data not shown).
+Our results discovered that the universal primers LCO1490 and HCO2198 (Folmer et al. 1994) designed for insects amplified COI in most Asiatic salamanders. High levels of nucleotide variability in priming sites of COI in some frogs reduced sequencing success to 50–70% (Vences et al. 2005b). We achieved 89.2% success because the priming regions exhibited little variation. Notwithstanding, successful amplification of COI was also influenced by both DNA degradation, in some individuals, and primer mismatch. Regardless, the use of alternative COI primers and methods should have increased the level of success (Smith et al. 2008). The alternative use of 16S for amphibians would have created incompatibilities with other data sets and consequently doubled the required effort and expense within the global barcoding effort (Marshall 2005). Whereas a single, universal primer set may amplify unknown specimens for most groups of animals, for example, identify the prey of a mosquito by sequencing ingested blood, the sequencing of two genes might not be feasible when the amount of tissue is extremely limited.
+Vences et al. (2005a) suggest that, in amphibians, DNA may be too saturated with mutations to differentiate genetically divergent populations from potentially new species. Upon plotting transitions and transversions against pairwise K2P for both 16S and COI, only transitions in the third codon position of COI appeared to be saturated (Fig. 1). Although saturation could have precluded the use of COI for resolving genealogical relationships among genera (Smith et al. 2008), this variation appeared to be informative at the level of species (Fig. 3). In comparison, 16S had less variation and frequently, the data could not unambiguously define many species (Fig. 4).
+Tree-based identification
+The standard COI barcode successfully identified currently recognized hynobiid species (Fig. 3), including the
+Ó 2011 Blackwell Publishing Ltd
+0.165 0.119 0.235 0.184
+9 0.003 1 0.029
+Primer and barcode variation
+0.056 0.029 0.1 0.06
+ Discussion
+ 0.7 0.6 0.5 0.4 0.3 0.2 0.1
+0
+1 2 3 4 5 6 7 8 91011121314151617
+COI K2P distance (%)
+0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1
+0
+0.5 1 1.5 2 2.5 3 3.5 4 4.5 5 5.5 6
+16S rRNA K2P distance (%)
+Distribution of the intraspecific and interspecific genetic variabilities (Kimura-2-parameter distance) of cytochrome c oxidase I and 16S.
+   Fig. 2
+Intraspecific Interspecific
+  Intraspecific Interspecific
+             Percentage
+Percentage
+
+52 Y. XIA ET AL.
+Fig. 3 Neighbour-joining tree of Kimura-2-parameter distances based on mtDNA cytochrome c oxidase I. Bootstrap values (10 000 pseudoreplicates) are given above the nodes.
+following new species whose descriptions were based on morphology, ecology and molecular data (allozymes and DNA sequence divergences): Hynobius guabangshanensis (Shen et al. 2004), Hynobius maoershanensis (Zhou et al. 2006), Pseudohynobius kuankuoshuiensis (Xu et al. 2007), Pseudohynobius jinfo (Wei et al. 2009), Pseudohynobius guizhouensis (Li et al. 2010), Batrachuperus taibaiensis (Song et al. 2001) and Batrachuperus sp1 (Fu & Zeng 2008). Although the allozyme data did not support recognition of B. taibaiensis (Fu & Zeng 2008), this likely resulted from incomplete lineage sorting of the nuDNA genes. Recognition of the species was strongly supported by matrilineal genealogical relationships and geographical distance from Batrachuperus tibetanus.
+Our barcoding corresponds to most of the current taxonomic arrangements. The results are consistent with the inclusion of Hynobius yunanicus and H. mantchuricus as junior synonyms of Pachyhynobius shangchengensis and Hynobius leechii, respectively (Zeng & Fu 2004; Xiong et al. 2007; Nishikawa et al. 2010). Low levels of mtDNA divergences between some species of Hynobius in Taiwan, and in South Korea⁄Japan, such as Hynobius formosanus and H. arisanensis, and H. yangi and H. leechii, respectively, indicate that COI may not serve to identify some species. Morphological and molecular data cannot clearly diagnose some Taiwanese Hynobius, most of which occur sympatrically (Lee et al. 2006; Lai & Lue 2008). Hynobius in South Korea and Japan face the same situation (Tominaga et al. 2005; Kim et al. 2007; Nishikawa et al. 2007). The limited ability of COI to diagnose these species might be a consequence of rapid diversification as reflected in incomplete lineage sorting (Tominaga et al. 2006; Lai & Lue 2008). The data could also reflect the introgressive acquisition of an itinerant mitochondrial genome via hybridization.
+Sometimes used as a barcoding marker for amphibians, 16S is not as effective in diagnosing species as COI. Several species of Batrachuperus, Pseudohynobius and Hynobius cannot be identified using 16S (Fig. 4) including Batrachuperus pinchonii, B. karlschmidti, Pseudohynobius jinfo, P. flavomaculatus, Hynobius leechii and H. yangi. However, the extremely low genetic divergences between some species indicate that too few positions vary to robustly recover the underlying gene tree (Funk & Omland 2003). In salamanders, slowly evolving 16S is expected to have less resolving power than rapidly evolving ND1, ND2 and COI (Weisrock et al. 2001; Samuels et al. 2005). For recent radiations, 16S may be evolving too slowly to provide accurate species identification
+78 XM503 70 XM504
+     99 55
+99 99
+XM871 XM2007
+XM880
+NC 008083 XM882 XM879 ZYC1401 ZYC1402
+Batrachuperus pinchonii
+         53
+69
+63
+66
+XM1372
+NC 008077
+                 98
+79
+89
+71
+99
+61 XM120
+83 XM122 99 XM685 XM715
+LC103 99 LC104 NC 008085
+99 XM200 XM201 XM156 XM158
+87 XM1407 LC165 99 LC160 96 LC168
+Batrachuperus londongensis
+Batrachuperus taibaiensis Batrachuperus karlschmidti
+Batrachuperus tibetanus
+ 99
+91
+93
+NC 012430
+XM1290 XM1311 XM1309
+           99
+XM1073 99 XM1074
+Batrachuperus yenyuanensis Batrachuperus sp1
+ 65 FJ532058 99 XM3323 XM3365
+Pseudohynobius puxiongensis
+Pseudohynobius shuichengensis
+     77 XM1081 99 XM1082
+FJ532060
+        Pseudohynobius kuankuoshuiensis
+  83
+99
+XM2832 Pseudohynobius guizhouensis 99 ZYC824
+     99
+ZYC828 BMS2001071502
+200087 XM3182
+Pseudohynobius jinfo
+   99
+58 XM1135 81 XM2107
+   97 51
+XM1136 99 FJ532059
+Pseudohynobius flavomaculatus
+    XM1882 XM1802
+XM1804 99 XM1879
+99
+99
+99
+99   NC 008082
+53 XM2057
+75 XM2059
+NC 008091 Paradactylodon gorganensis
+      XM1880 Salamandrella keyserlingii 91 XM2055
+  XM2056
+   NC 008090 98 ZYC918
+Paradactylodon mustersi
+Liua tsinpaensis
+Liua shihi
+        99
+99
+99
+99
+69
+ZYC922 ZYC915 NC 008081 ZYC1008
+XM285 ZYC1011
+ZYC1031 XM1155 XM1156
+      55
+60 XM1228
+83 XM2043 XM2044
+NC 008078 XM897 XM1153 XM1226 XM1152
+XM1162 ZYC1033
+XM868
+XM1224
+          NC 004021 Ranodon sibiricus 95 XM2017
+    XM2018 XM2049
+  99
+74 XM2036
+XM2020
+Pachyhynobius shangchengensis
+Hynobius arisanensis Hynobius formosanus
+   67 99
+77
+NC 008080 XM2048
+NC 009335 NC 008084 97 XM2215 83 XM2216
+        XM2865 93 XM2864
+81 XM3290 XM3289
+99 JF227 91 JF228 JF301
+Hynobius yiwuensis
+      95
+62
+63
+80
+99
+64
+88
+61
+99 JF302
+99 XM2127
+NC 008076
+       60 99
+Hynobius amjiensis Hynobius maoershanensis
+Hynobius guabangshanensis
+Hynobius chinensis
+Hynobius quelpartensis Hynobius yangi
+Hynobius leechii
+Onychodactylus fischeri
+NC 004926 Andrias davidianus
+XM2142
+NC 013762
+XM2251
+XM2252 83 XM2250 71 XM2257
+NC 010224 NC 013825
+XM2136 XM2000112 XM200095 98 XM1867
+XM1905 XM2000100 XM2000101 XM2000119 XM2000109 XM200099 XM1868
+NC 008079 XM2047 XM2000111 XM2000107 XM2120
+     99
+        99
+             66 XM2131
+XM2000106 XM2000105 XM2000117
+99   NC 008089 XM2019
+ 68
+   99
+XM2065 99 XM1682 68 XM2066
+   0.02
+ Ó 2011 Blackwell Publishing Ltd
+
+DNA BARCODING OF ASIATIC SALAMANDERS 53
+Fig. 4 Neighbour-joining tree of Kimura-2-parameter distances based on mtDNA 16S. Bootstrap values (10 000 pseudoreplicates) are given above the nodes.
+(Fu et al. 2001; Tominaga et al. 2006; Fu & Zeng 2008; Tominaga & Matsui 2008). Further, tree-based identifications using 16S may require the use of secondary structure to obtain alignments, and this creates an additional layer of complexity for barcoding.
+Intraand interspecific genetic divergences
+Ideally, interspecific divergence should be about 10 times higher than intraspecific divergence (Hebert et al. 2004a). In hynobiids, intraand interspecific genetic divergences do not fall into separate intervals. An obvious ‘barcode gap’ does not occur in either COI or 16S (Table 1, Fig. 2). Regardless, for COI, the overlaps between intraand interspecific variations will not affect identification in a thoroughly sampled evaluation (Meyer & Paulay 2005). In contrast, 16S cannot reliably diagnose species.
+The absence of a distinct barcode gap between intraand interspecific divergence values provides a challenge when using a single gene fragment in amphibians (Vences et al. 2005b; Smith et al. 2008). The extent of overlap in COI in hynobiids is minimal compared to some other amphibians. This is most likely caused by a variety of factors including unisexuality in Ambystoma, introgressive hybridization in Bufo and insufficient taxonomic investigation in Triturus (Smith et al. 2008). Not surprising, divergence overlap also occurs in many other taxa, for example blue butterflies (Wiemers & Fiedler 2007), corals (Shearer & Coffroth 2008) and gastropods (Puillandre et al. 2009).
+Because a barcode gap does not exist, a divergence threshold value cannot identify new candidate species of hynobiids. Application of a threshold will certainly misrepresent the correspondence between recently isolated populations and reproductively isolated lineages (Hickerson et al. 2006). Although thresholds have been proposed in amphibians – 5% for 16S and 10% for COI (Fouquet et al. 2007; Vences et al. 2005a, b) – the use of thresholds to define species is arbitrary and it must be rejected in hynobiids (Meyer & Paulay 2005). That said, high levels of intraspecific divergence in few hynobiids species might help discover cryptic species (Funk & Omland 2003). Geographically distant populations displaying genetically distinct lineages can focus future research on candidate new species (Fouquet et al. 2007). In our analysis, Onychodactylus fischeri from two locations (Table S1, Supporting Information) clearly separate into strongly supported clusters (Figs 3 and 4). These populations may represent a case of cryptic speciation. An identical situation exists for Salamandrella keyserlingii in north-eastern China.
+XM879 ZYC1401
+XM871 ZYC1402 XM882 XM880 XM503 XM504 NC008083 XM1372 XM120 XM122
+NC008077
+NC012430 61 XM156
+XM158 XM200
+XM201 NC008085
+LC165
+LC168 82 LC160
+XM1407 95 LC103 LC104
+XM2007
+   71
+59
+52
+Batrachuperus pinchonii
+Batrachuperus longdongensis
+Batrachuperus yenyuanensis
+Batrachuperus tibetanus
+        52
+Batrachuperus karlschmidti Batrachuperus pinchonii
+Batrachuperus sp1
+Batrachuperus taibaiensis
+  96
+XM1290 XM1309 XM1311 XM685
+ 98 XM715
+76 XM1081
+ 99
+FJ532060 XM1082 75 XM3365
+99 FJ532058 XM3323
+Pseudohynobius shuichengensis
+Pseudohynobius puxiongensis
+Pseudohynobius kuankuoshuiensis
+  99 XM1074 XM1073
+ 81
+89 56
+XM2048 XM2036 XM2017
+99 XM2020 XM2018
+XM2049 NC008080
+ XM2832 Pseudohynobius guizhouensis ZYC828 Pseudohynobius jinfo
+  53
+84 ZYC824 BMS20010715020
+Pseudohynobius jinfo
+   98
+XM1136 FJ532059 XM1135 200087 XM3182
+Pseudohynobius flavomaculatus
+Pachyhynobius shangchengensis
+    88
+XM2057 NC008082
+XM2056 XM2059 XM2055
+ 97
+99
+99
+60 97
+88 98
+Salamandrella keyserlingii
+Liua tsinpaensis
+64 93
+XM1879 XM1880
+73 XM1802 XM1804
+99 XM1882 XM2107
+ZYC918 ZYC922 ZYC915 NC008081
+     64 XM2043 XM2044
+95 XM284 XM285
+ 96 XM1221 XM1152 XM1155 XM1224
+53
+XM897 ZYC1008 XM868 ZYC1031
+53 XM1153 NC008078
+XM1226 XM1162 ZYC1033 XM1228 ZYC1011 XM1156
+Liua shihi
+  NC009335 NC008084 XM2257
+81 XM2251
+Hynobius arisanensis Hynobius formosanus
+Hynobius chinensis
+Hynobius maoershanensis Hynobius guabangshanensis
+          55
+XM2252 XM2250
+XM2127 93 XM2142 NC013762
+JF227 59 JF228
+XM3289 66 XM3290
+JF301 JF302
+Hynobius yiwuensis
+    79
+62 XM2865
+     54
+63 60
+XM2864 XM2215
+81 XM2216 NC008076
+Hynobius amjiensis Hynobius quelpartensis
+NC010224
+      99
+XM1868 XM2000107 XM2120 XM2000100 XM200099 XM2000105 XM2000106 XM2047 XM2000117 XM2000109
+      66   XM2000112 XM2000119
+XM2131 XM1867 XM2136 XM200095 XM1905 XM2000101 XM2000111
+NC008079 NC013825
+Hynobius leechii
+Hynobius leechii
+         NC008091 NC008090
+Hynobius yangi Paradactylodon gorganensis
+   90
+98
+Paradactylodon mustersi NC004021 Ranodon sibiricus
+     99
+99   XM2019 NC008089
+XM2066 Onychodactylus fischeri XM2065
+XM1682
+NC004926
+  Andrias davidianus
+ 0.01
+ Ó 2011 Blackwell Publishing Ltd
+
+54 Y. XIA ET AL. Monophyly and barcoding
+Often, species recognition is tied to the concept of a taxon being monophyletic (e.g. Funk & Omland 2003). When using mtDNA, violations of monophyly are often attributed to incomplete lineage sorting when geographical or genetic isolation is invoked to justify a species’ recognition. Although the presence of a single lineage can support recognition of a species – the null hypothesis – it cannot be used to reject the null hypothesis.
+The strict, macroevolutionary concept of monophyly may not apply in microevolutionary studies, and, in fact, it might have lead to much confusion via ‘phylogeography’ (Murphy & Me ́ndez de la Cruz 2010). Phylogeographic (genographic) studies are based on the maternal history of individuals. Paternal history does not play a role. In sexually reproducing organisms, paternal and maternal genealogies are never the same and sometimes they substantially differ (e.g. Rubinoff & Holland 2005). Being composites of two histories, by definition, all individuals are ‘polyphyletic’ or better termed ‘polygenealogical’; they have one history from the maternal lineage, and another is paternal.
+A species is a hypothesis irrespective of the species concept being applied (Mayden 1997). In microevolutionary biology, the null hypothesis states that gene flow is relatively unabated, and this null is tested using the principles of Hardy–Weinberg expectations. In contrast, the null hypothesis macroevolutionary systematics states that gene flow is not freely occurring, if at all. The null hypotheses for macroand microevolutionary studies are the antitheses of one another, and scientifically phylogeography sensu Avise et al. (1987) cannot bridge the gap between population genetics (microevolution) and systematics (macroevolution) because no null hypothesis exists on the bridge (Murphy & Me ́ndez de la Cruz 2010). To differentiate between these two disciplines, the same terminology should be avoided, and in macroand microevolutionary studies, macroevolutionary terms such as ‘monophyletic’ should be replaced with ‘monogenealogical’ in microevolutionary studies. Because all sexually reproducing individuals are polygenealogical, as are unisexual species of hybrid origin, no species should be required to be monogenealogical from either the maternal or paternal perspective (Murphy & Me ́ndez de la Cruz 2010). Given these observations, the concept of monophyly should be removed from a species’ recognition when barcoding.
+Conclusions
+DNA barcoding seeks to provide a convenient, accurate and valid tool for species identification, and any candidate gene must suit this qualification. Use of a single,
+universal gene has many advantages, especially as barcoding applications expand to ecological questions and in the identification of illegally imported parts of organisms. Our results indicate that the standard barcoding marker – COI – can identify species of Asiatic salamanders. In contrast, 16S cannot do so because of low levels of genetic divergences. DNA barcoding can fail to identify species when introgression, incomplete lineage sorting and complex species are involved (Smith et al. 2008; Vences et al. 2005a, b). Regardless, it can identify lineages, as it does in Asiatic salamanders, and consequently aid taxonomy (Moritz & Cicero 2004).
+Although intraand interspecific genetic divergences overlap, tree-based methods can distinguish species in unidentified samples. For the ecologist and taxonomist alike, DNA barcoding will provide a powerful tool for species identification, biodiversity assessments, the association of larva and adult morphologies and suggest the occurrence of cryptic species (Vences et al. 2008; Vieites et al. 2009).
+Acknowledgements
+We thank Mian Hou, Li-Yan Qing, Yue-Ying Chen, Cheng Li, Guan-Hu Wu, Shu-Jun Zhang, Bin Lu and Jian-Li Xiong for the sample collection. We also thank Jia-Tang Li for improving an earlier version of the manuscript and two anonymous reviewers for helpful comments. This research was supported by the National Natural Sciences Foundation of China (NSFC-30870287 and NSFC-30900134) and by the Chinese Academy of Sciences (09C3011100, KSCX2-EW-J-22 and KSCX2-YW-Z-0906). Manuscript preparation was supported, in part, by the Natural Sciences and Engineering Research Council of Canada (A3148).
+References
+Ó 2011 Blackwell Publishing Ltd

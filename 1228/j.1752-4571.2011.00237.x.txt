@@ -1,0 +1,408 @@
+                                   ORIGINAL ARTICLE
+Phylogeny meets ecotoxicology: evolutionary patterns of sensitivity to a common insecticide
+John I. Hammond,1 Devin K. Jones,1 Patrick R. Stephens2 and Rick A. Relyea1
+1 Department of Biological Sciences, University of Pittsburgh, Pittsburgh, PA, USA
+2 Odum School of Ecology, University of Georgia, Athens, GA, USA
+Keywords
+amphibian decline, anuran, contaminant, ecotoxicology, nontarget.
+Correspondence
+John I. Hammond, Department of Biological Sciences, University of Pittsburgh, Pittsburgh, PA 15260, USA.
+Tel.: 505 277 3021;
+fax: 505 277 0304; e-mail: jih36@pitt.edu
+Received: 7 December 2011 Accepted: 13 December 2011
+doi:10.1111/j.1752-4571.2011.00237.x
+Introduction
+Abstract
+Pesticides commonly occur in aquatic systems and pose a substantial challenge to the conservation of many taxa. Ecotoxicology has traditionally met this challenge by focusing on short-term, single-species tests and conducting risk assessments based on the most sensitive species tested. Rarely have ecotoxicology data been examined from an evolutionary perspective, and to our knowledge, there has never been a phylogenetic analysis of sensitivity, despite the fact that doing so would provide insights into patterns of sensitivity among species and identify which clades are the most sensitive to a particular pesticide. We examined phylogenetic patterns of pesticide sensitivity in amphibians, a group of conservation concern owing to global population declines. Using the insecticide endosulfan, we combined previously published results across seven species of tadpoles and added eight additional species from the families Bufonidae, Hylidae, and Ranidae. We found significant phylogenetic signal in the sensitivity to the insecticide and in the existence of time lag effects on tadpole mortality. Bufonids were less sensitive than hylids, which were less sensitive than the ranids. Moreover, mortality time lags were common in ranids, occasional in hylids, and rare in bufonids. These results highlight the importance of an evo-
+Pesticide use can offer economic benefits by controlling pest species and increasing crop yields, but it can also lead to aquatic contamination because of direct overspray, drift, atmospheric transport, agricultural and residential runoff, misuse, and improper disposal (Harris et al. 1998a; McConnell et al. 1998; LeNoir et al. 1999; Wan et al. 2005; Gilliom and Hamilton 2006). For example, surveys done by the U.S. Geological Survey across 51 major river basins and groundwater found at least one pesticide at every sample site (Gilliom and Hamilton 2006). This contamination creates challenges in understanding the population and community effects on nontarget taxa (Harris et al. 1998a; Rohr and Crumrine 2005; Boone et al. 2007; Relyea and Diecks 2008; Relyea and Hoverman 2008; Rohr et al. 2008; Relyea 2009).
+The most common approach to determine potential lethal effects on nontarget taxa is to conduct singlespecies experiments over short time frames (e.g., 1to
+a 2012 Blackwell Publishing Ltd
+1
+lutionary perspective
+and offer important insights for conservation.
+4-day exposures) to generate dose–response curves and estimate LC50 values (i.e., the pesticide concentration that causes 50% mortality). These tests typically focus on a few model organisms (i.e., a bird, mammal, fish, and invertebrate) as part of the registration process and attempt to identify the most sensitive species within each group. The underlying assumptions are species have very little intraspecific variation in sensitivity, hence any population is a good estimate of the species as a whole, and that by estimating the impact on a few sensitive species, one can extrapolate the impact on all species within the group and, in some cases, other distantly related groups. While this approach has been helpful in estimating the potential direct impacts of pesticides, it leaves large gaps in our understanding of species and population sensitivities. In some cases, species within a group have very similar sensitivities to a given pesticide (e.g., invertebrates Ashauer et al. 2011; amphibians Relyea and Jones 2009), while in other cases, species within a group as well as populations within a species can differ in sensitivity by
+Evolutionary Applications ISSN 1752-4571
+
+Phylogenetic pattern of endosulfan sensitivity
+Hammond et al.
+several orders of magnitude (e.g., invertebrates, Wan et al. 2005; Ashauer et al. 2011; amphibians species, Jones et al. 2009; amphibian species and populations, Bridges and Semlitsch 2000). When sensitivity varies widely among species, it would be helpful to know whether populations within a species have similar sensitivities, whether there are patterns in sensitivity that may guide a priori predictions about which species are more likely to be affected by a pesticide exposure, and which pesticide might be responsible if only some species within a group are declining. These questions are best answered by incorporating an evolutionary perspective across large scales.
+A successful method of investigating large-scale evolutionary patterns in species traits is to take a comparative approach. A comparative approach overlays a species’ trait values onto phylogenetic trees to determine whether species possess similar traits attributable to a shared history or convergence (e.g., Felsenstein 1973; Winermiller 1991; Richman and Price 1992; Schluter 1994; Losos 1996; Losos et al. 1998; Pagel 1999; McPeek and Brown 2000; Richardson 2001; Stephens and Wiens 2004). This approach has rarely been used in toxicology studies and usually has compared only a few closely related species (e.g., Strumbaurer et al. 1999). This is despite the fact that phylogenetic inference would be useful in addressing many ecotoxicological questions including which species are at greatest risk should contamination occur in an area and which contaminant is most likely to be responsible for causing the decline of certain species when habitats become contaminated and only a few of the species in a clade decline.
+While taking a phylogenetic approach to pesticide sensitivity would be insightful for many organisms, amphibians are of particular interest. Amphibians are experiencing worldwide population declines, and pesticides have been implicated as one of several potential causes (Alford and Richards 1999; Blaustein and Kiesecker 2002). Pesticides can have substantial lethal effects on individuals (e.g., Relyea and Jones 2009); they can also cause increased sensitivity to parasites (Rohr et al. 2008), reduced growth and survival through community interactions (Relyea and Diecks 2008), synergistic effects through multiple stressors (Taylor et al. 1999) and mixtures (Hayes et al. 2006), have breakdown products that can be more toxic than the parent compounds (Sparling and Fellers 2007), can be endocrine disruptors potentially leading to feminization of males (Hayes et al. 2002), and can bioaccumulate in individuals (Hopkins et al. 1998). These toxic effects of pesticides can happen over short to long temporal scales.
+Our knowledge of amphibian sensitivity to most pesticides is poor because the registration of most pesticides does not require any amphibians to be tested. Instead, the sensitivity of aquatic stages of amphibians is estimated from studies of fish (Jones et al. 2004). The underlying
+assumption is that setting maximum contamination levels in nature, based on the most sensitive fish species, simultaneously protects aquatic amphibians. Hence, there is a substantial need to conduct toxicity tests on amphibians, over both short and long terms, particularly for those pesticides for which there is evidence of high toxicity.
+Recent studies have discovered that one of the most toxic pesticides for amphibians is the insecticide endosulfan. Endosulfan can cause high rates of mortality at extremely low concentrations (i.e., <1 ppb), and the mortality differs widely among amphibian species (Berrill et al. 1998; Jones et al. 2009; Relyea 2009). For example, 6 ppb of endosulfan added to wetland mesocosms caused 84% mortality in Rana pipiens tadpoles but had no effect on Hyla versicolor tadpoles (Relyea 2009). In a study designed to quantify the LC50 values across a range of species, Jones et al. (2009) found that amphibian LC504-d estimates range from 0.9 to 112 ppb and more closely related species seem to share similar sensitivities. Moreover, the researchers found that, for several tadpole species, endosulfan caused substantial lag effects between the time of exposure and the time of death. Unlike toxic effects attributed to factors like bioaccumulation (e.g., Hopkins et al. 1998) or endocrine disruption (e.g., Hayes et al. 2002), endosulfan can cause death of tadpoles several days after the exposure has ended (Jones et al. 2009). Collectively, these studies suggest that there may be phylogenetic patterns in the sensitivity of amphibians to endosulfan and in the existence of mortality lag effects.
+Here, we expanded the original set of LC50 values for seven species estimated by Jones et al. (2009) to 15 species across the Bufonidae, Hylidae, and Ranidae families to permit a phylogenetic analysis of amphibian endosulfan sensitivity. For one species (Rana sylvatica), we also examined endosulfan sensitivities among six populations to estimate within-species variation in sensitivity and help interpret the amount of variation observed within versus among species. We tested the following hypotheses: (i) amphibian populations will differ in their sensitivity to endosulfan; (ii) amphibian species will differ in their sensitivity to endosulfan; (iii) amphibian species will differ in their occurrence of mortality lag effects; and (iv) differences in LC50 values and mortality lag effects will exhibit phylogenetic patterns.
+Materials and methods
+Pesticide background
+Endosulfan is an organochlorine insecticide that excites the neuromuscular system, can damage eye and gill tissues, and is a potential endocrine disruptor (Harris et al. 2000; Rossi 2002; Bernabo` et al. 2008). Example application rates on crops such as corn, cotton, and lettuce average approximately 1.2 kg/ha in California USA during
+2
+a 2012 Blackwell Publishing Ltd
+
+Hammond et al.
+Phylogenetic pattern of endosulfan sensitivity
+2008 (http://www.pesticideinfo.org/Detail_ChemUse.jsp? Rec_Id=PC35085). Expected aqueous concentrations range from 700 ppb in pond water 10 m away from targeted application sites to 4 ppb in pond water 200 m away (sprayed from a nozzle 3–4 m above the ground; Ernst et al. 1991). It has been reported at 0.5 ppb in ponds near apple orchards in Ontario, Canada (Harris et al. 1998a), 2.5 ppb in Australian aquatic environments (Muschal 2001), and the US EPA (Rossi 2002) estimated the range of expected environmental concentration (EEC) for surface drinking water at 0.5–23.9 ppb. Endosulfan has also been detected in surveys of amphibians and fish tissues and is highly toxic (i.e., 100 < LC50 < 1000 ppb) or very highly toxic (i.e., LC50 < 100 ppb) to fish, amphibians, and crustaceans (Berrill et al. 1998; Leight and Van Dolah 1999; Sparling et al. 2001; Rossi 2002; Wan et al. 2005; Jones et al. 2009; Relyea 2009).
+Species-level variation experiment
+All animals were collected as newly oviposited egg masses from around the United States. Species from California, Florida, North Carolina, Oregon, and Tennessee were shipped overnight to the University of Pittsburgh’s Pymatuning Laboratory of Ecology in ice chests containing cold packs. Species from Michigan and Pennsylvania were collected and driven to the laboratory. Egg masses were hatched in covered outdoor culture pools containing well water, and the hatchlings were fed daily with rabbit chow (ad libitum).
+To examine the lethality of endosulfan to tadpoles, we used the methods detailed in the study by Jones et al. (2009). In brief, we exposed each species to a range of concentrations over a 4-day period to quantify traditional LC504-d values. We subsequently moved the tadpoles from all treatments into clean water for an additional 4day to estimate potential lag effects. For each species, except Rana aurora, we employed a randomized block design that contained two blocks (laboratory shelf heights) and two replicates of each treatment per block. Treatments included a negative control (water), a vehicle control (ethanol) due to endosulfan’s low solubility in water, and six nominal concentrations of endosulfan (1, 5, 10, 50, 100, and 500 ppb). The amount of ethanol added for the vehicle control was set to equal the amount of ethanol in the 500 ppb endosulfan concentration treatment (ethanol concentration = 0.5%). For R. aurora, we had fewer individuals available and therefore replicated each treatment three times using a single experimental block. All species were of similar sizes or similar developmental stages (Gosner 1960) (Appendix Table A2).
+For each species, tadpoles were tested as groups of 10 animals held in 1-L plastic containers filled with 500 mL of carbon-filtered, UV-irradiated well water. The water
+was changed daily and the pesticide was reapplied. Large volumes of each concentration solution (2.75 L) were prepared each day by adding different amounts of a concentrated stock solution (0.1 mg a.i./mL; technical-grade endosulfan, 99% purity Chem Services Inc., West Chester, PA, USA) to separate containers and then distributing these nominal solutions to the appropriate experimental units. To achieve nominal concentrations of 1, 5, 10, 50, 100, and 500 ppb, we added 27.5, 137.5, 275, 1375, 2750, and 13 750 lL of the stock solution to the 2.75 L of water. At 24-h intervals, we quantified survival, removed any dead individuals, and changed the water. Prior to the 48-h water change, we measured temperature (across all species temperature ranged from 17.3 to 21.9°C; within each species experimental units ranged 0.5–1.6°C) and pH (across all species ranged from 8.0 to 8.5).
+For each species at each of the four exposure water changes, we collected a 125 mL sample of each nominal concentration in a precleaned glass amber jar and mixed them together to create 500 mL per exposure level per species. To analyze the concentration of endosulfan used in the eight, single-species experiments, we pooled the samples across five species, then across two species, and finally across the remaining single species. The three sets of pooled samples were shipped to the Mississippi State Chemical Laboratory (Mississippi State, MS) for independent analysis (excluding the ethanol vehicle controls). For the five-species pooled sample (Bufo americanus, R. pipiens, R. aurora, R. sphenocephala, and R. sylvatica), actual endosulfan concentrations were 0.5, 1.7, 3.2, 20.2, 38.0, and 162.0 ppb (henceforth referred to as 0.5, 2, 3, 20, 38, and 162). For the two-species pooled sample (Pseudacris feriarum and Pseudacris triseriata), actual endosulfan concentrations were 0.4, 0.9, 2.1, 14.3, 17.5, and 109.2 ppb (henceforth referred to as 0.4, 1, 2, 14, 18, and 109 ppb). For the final water sample (Rana boylii), actual endosulfan concentrations were 0.8, 2.5, 3.2, 16.4, 38.0, and 145.4 ppb (henceforth referred to as 1, 2, 3, 16, 38, and 145). No endosulfan was detected in any control.
+After the initial 4-day exposure, all animals were transferred to clean water for an additional 4 days. During this postexposure period, we changed the water every 24 h and fed the tadpoles a 2% mean per-capita ration of ground Tetramin fish flakes (Tetra, Blacksburg, VA, USA). Daily mortality checks continued every 24 h. After 8 days, we recorded survival and euthanized the remaining tadpoles in 2% MS-222. Animal bodies and experimental water were disposed of in accordance with university protocols for environmental health and safety.
+Population-level variation experiment
+Next, we investigated variation in sensitivity among six populations of R. sylvatica. Five of the populations were
+a 2012 Blackwell Publishing Ltd
+3
+
+Phylogenetic pattern of endosulfan sensitivity
+Hammond et al.
+from northwestern Pennsylvania and one was from Eastern Michigan. All populations were at least 20 km apart, which generally assures population differentiation (Newman and Squire 2001). We used the same methods described above with the following changes. We used alterations of temperature (by moving eggs between the indoor laboratory and outdoor ambient air) to cause the eggs from all populations to hatch within 24 h. By standardizing development time post hatching across all populations, we removed any effect of age which can alter sensitivities (e.g., Jones et al. 2010). This allowed us to include the natural variation in development and growth rate commonly found in R. sylvatica populations (Relyea 2002), and allowed us the ability to test all populations at the same time. For each population, we transferred 200 hatchlings to 90-L pool containing well water. The hatchlings were fed 5 g of rabbit chow weekly until the start of the experiment (see Appendix Table A3 for initial tadpole mass and developmental stage).
+We used nominal concentrations of 10, 50, 100, and 500 ppb and renewed the treatments daily. We did not employ an ethanol vehicle control due to the size of the experiment and because our single-species experiments generally show little difference between the water controls and ethanol controls. Each day, we quantified survival, removed any dead individuals, and monitored temperature (range = 19.7–20.2°C) and pH (range = 8.0–8.3). The experiment was ended after a 2-day exposure, rather than a 4-day exposure, because the lower concentrations were showing increasing mortalities with the higher concentrations showing 100% mortality. To generate LC50 estimates with confidence intervals, at least two concentrations are needed with nonzero or 100% mortality.
+At each water change, 500 mL was sampled and placed in a precleaned glass amber jar for testing. To determine the actual concentrations, we pooled samples across both days and shipped them for independent analysis (see above). Actual concentrations were 5.3, 23.3, 54.0, and 287.0 ppb (henceforth referred to as 5, 23, 54, and 287) with no detectable endosulfan in the control.
+Statistical analysis
+Species-level variation experiment
+To determine how the range of endosulfan concentrations affected tadpole survival in the single-species experiments, we used the proportion of individuals surviving in an experimental unit as our response variable. Because of low variance in the lowest and highest concentrations (i.e., either 100% or 0% survival across all replicates, respectively), we rank-transformed the survival data and used these ranks as the response variable in a repeatedmeasures analysis of variance (rm-anova). Our repeated
+measure was time and ranged from day 1 to 8. Next, we tested for the lowest observable effect concentration (LOEC). There are many logically ways of comparing the controls to the pesticide gradient, in this case the two control treatments were never significantly different in survival (P > 0.10). Hence, we chose to use one-tailed Dunnett’s tests to compare survival in the water control and each endosulfan concentration treatment at the 4and 8-day time points.
+To estimate the LC10, LC50, and LC90 estimates at 4and 8-day intervals, we used probit analyses to fit a sigmoid-shaped curve to the data after adjusting for control mortality (smoothing the average mortality and using Abbott’s formula; Finney 1971). We also did this for the seven species reported by Jones et al. (2009). In three cases, this produced 8-day concentration mortalities lower than their 4-day counterparts as a result of differences in mortality in the controls. We adjusted the three 8-day estimates back to their 4-day estimates to reflect no decrease in mortality. On the basis of these LC50 estimates, we tested whether the 4and 8-day estimates were significantly different by comparing the overlap between the 84% confidence intervals. Simulation tests have shown this method approximates an a = 0.05 (Payton et al. 2003).
+Population-level variation experiment
+We used similar methods to the single-species experiments except the data focused on the proportion of individuals surviving on day 2. Given there was no mortality in the controls, no adjustments were needed to generate LC50 estimates.
+Phylogenetic analysis
+Phylogenetic signal can be defined as a pattern of trait variation whereby more closely related species have more similar traits (i.e., trait disparity among species is correlated with phylogenetic distance). We tested for phylogenetic signal in pesticide susceptibility using a standard measure of phylogenetic signal: Blomberg’s K (Blomberg et al. 2003). Blomberg’s K is defined as the ratio of observed phylogenetic dependence to the phylogenetic dependence expected under a Brownian motion model of character evolution (Blomberg et al. 2003). It varies between zero and ¥, with values of zero indicating phylogenetic independence, values <1 indicating weaker phylogenetic dependence (i.e., weaker signal) than expected under Brownian motion, and values >1 indicating greater phylogenetic dependence than expected.
+Blomberg’s K was calculated for LC504-d and LC508-d estimates using the software package Picante v1.2 (Kembel et al. 2010), implemented in R v2.10.1. Two phylogenetic trees were used to quantify phylogenetic distance among species. One tree was based on previous
+4
+a 2012 Blackwell Publishing Ltd
+
+Hammond et al.
+Phylogenetic pattern of endosulfan sensitivity
+studies of anuran phylogeny and assumed a speciational model of trait evolution (i.e., all branch lengths were set to one), and the other tree was estimated via maximum likelihood from 2500 bp of mitochondrial sequence data obtained from GenBank (see Appendix Fig. A1). The methods used to create these two trees are detailed in Appendix A1. To determine whether values of Blomberg’s K for pesticide sensitivity were statistically significant, we performed a permutation procedure implemented in Picante where the variance of phylogenetically independent contrasts of observed data is compared with the variance of contrasts estimated from data shuffled randomly across the tips of the tree (Blomberg and Garland 2002; Kembel et al. 2010). Each test used 10 000 random permutations of the data.
+To determine whether the time lag showed significant phylogenetic signal, we used the method of Maddison and Slatkin (1991) where the number of evolutionary transitions a character shows when mapped onto a tree is compared with number of the transitions it shows when shuffled randomly across the tips of a tree and reconstructed. By shuffling a character hundreds of times, it is possible to generate a null distribution of the number of evolutionary steps expected when the character states observed among a set of species vary independently of phylogeny. The presence or absence of a statistically significant difference between LC504-d and LC508-d values, based on comparing 84% confidence intervals in LC50 in each species, was coded as a discrete character: (0), no significant time lag (i.e., confidence intervals overlapped); (1), significant time lag (confidence intervals do not overlap). The presence or absence of a time lag was then reconstructed
+for interior nodes using maximum likelihood (Schluter et al. 1997). The number of evolutionary steps exhibited by the time lag was calculated by counting the number of branches on which the character state with the highest likelihoods differed between an ancestral and descendant node, or where the state with the highest likelihood on an ancestral node differed from the character state assigned to a tip taxon. The time lag was then shuffled randomly without replacement among tips 1000 times, repeating the likelihood reconstruction and counting up the number of evolutionary steps during each randomization.
+Results
+Species-level variation experiment
+We began by examining the effects of different endosulfan concentrations on the survival of eight species of tadpoles. Generally, the control treatments had excellent survival within each species (above 93% survival after 4 and 8 days) with only one species, P. feriarum, having lower survival (83%) and only after 8 days (see Appendix 2A). The rmanovas for all species indicated significant effects of endosulfan concentration, time, and their interaction (all P-values <0.05) with no block effect on survival (all P-values >0.13). Endosulfan significantly reduced survival in all species, and its effect was dose-dependent (Table 1, Fig. 1).
+Next, we explored species-level variation in LC50 estimates. After 4 days of exposure, R. pipiens, B. americanus, and P. triseriata had LC504-d estimates of 50–55 ppb, while R. sylvatica and P. feriarum had LC504-d estimates of 25– 35 ppb. The most sensitive species were R. boylii, R. aurora, and R. sphenocephala with LC504-d estimates below 15 ppb.
+Table 1. The estimated LC10, LC50, and LC90 values (with 84% confidence intervals) for 15 species of tadpoles. Estimates were made after a 4day exposure to a range of endosulfan concentrations followed by a subsequent exposure to 4-day of clean water. All units are in ppb. Species in boldface font have significantly different 4and 8-day LC50 estimates. Underlined species are estimates from a previous study using the same methods (Jones et al. 2009).
+ Species
+Bufo boreas
+Bufo americanus Pseudacris triseriata Pseudacris feriarum Pseudacris regilla Pseudacris crucifer Hyla versicolor
+Rana pipiens
+Rana sphenocephala Rana sylvatica
+Rana clamitans
+Rana catesbeiana Rana aurora
+Rana cascadae
+Rana boylii
+LC104-d
+7.0 (4.4, 10.0) 19.6 (14.6, 24.2) 22.0 (16.3, 27.7)
+2.9 (1.8, 4.2)
+2.7 (1.8, 3.8) 22.0 (15.1, 29.1)
+2.4 (1.7, 3.0) 13.0 (9.0, 17.0) 0.7 (0.5, 0.9) 2.6 (1.5, 3.9) 2.0 (1.6, 2.4) 0.4 (0.2, 0.6) 2.3 (1.6, 2.6) 4.8 (3.6, 5.9) 2.5 (1.7, 3.3)
+LC504-d
+67.7 (52.2, 91.0) 55.5 (46.9, 67.2) 56.4 (46.4, 69.1) 25.5 (21.3, 31.4) 21.3 (17.0, 26.9) 112 (89.4, 146) 9.0 (7.6, 10.7) 51.0 (42.1, 63.1)
+2.8 (2.3, 3.4) 31.4 (23.8, 42.6)
+3.3 (2.8, 3.7) 1.3 (1.0, 1.6) 3.7 (3.3, 4.8)
+15.0 (12.7, 17.9) 13.0 (10.6, 16.1)
+LC904-d LC108-d
+LC508-d LC908-d
+ 653 (399, 1296) 157 (119, 236) 144 (112, 203)
+88.6 (64.1, 144) 165 (114, 271) 571 (383, 1000)
+33.8 (25.9, 48.4) 199 (143, 322) 11.4 (8.5, 17.2) 379 (226, 779)
+5.2 (4.6, 6.1) 4.4 (3.5, 5.9) 6.1 (4.7, 12.6)
+47.4 (37.4, 64.0) 67.6 (49.6, 101)
+7.1 (4.8, 9.7) 20.1 (15.2, 24.5) 21.7 (16.2, 27.2)
+2.9 (1.8, 4.2) 1.7 (1.1, 2.4) 0.8 (0.4, 1.4) 1.1 (0.7, 1.5) 4.4 (2.8, 6.1) 1.0 (0.8, 1.2) 2.0 (1.5, 3.9) 1.7 (1.4, 2.1) 0.2 (0.1, 0.3) 1.6 (1.3, 1.8) 6.0 (5.5, 6.1) 0.9 (0.6, 1.3)
+43.4 (35.1, 54.6) 53.0 (45.1, 63.8) 53.6 (44.2, 65.7) 25.3 (19.5, 33.8) 13.9 (11.1, 17.5) 26.0 (18.9, 37.0)
+6.0 (4.9, 7.3) 28.0 (22.3, 35.4)
+1.9 (1.7, 2.1) 25.1 (19.1, 33.7)
+3.1 (2.7, 3.5) 0.9 (0.7, 1.2) 2.4 (2.2, 2.7) 6.7 (6.5, 7.1) 5.4 (4.4, 6.6)
+264 (184, 432) 140 (107, 207) 132 (103, 185) 218 (135, 430) 114 (79.0, 187) 823 (420, 2120)
+33.2 (24.5, 50.0) 178 (122, 297) 3.6 (3.1, 4.6) 312 (189, 626)
+5.4 (4.7, 6.4) 3.6 (2.8, 5.0) 3.7 (3.2, 4.5) 7.6 (7.1, 9.0)
+30.6 (22.1, 46.9)
+        a 2012 Blackwell Publishing Ltd
+5
+
+ Phylogenetic pattern of endosulfan sensitivity Hammond et al.
+1 0.8 0.6 0.4 0.2 0
+1 0.8 0.6 0.4 0.2 0
+1 0.8 0.6 0.4 0.2 0
+1 0.8 0.6 0.4 0.2 0
++* +* +* +*
+B. americanus
+B. boreas P. triseriata P. feriarum
+P. regilla
+R. pipiens
+R. catesbeiana
+P. crucifer
+H. versicolor
+0 1
+10 100500 0
+1 10 100500 0
+Endosulfan concentration (ppb)
+1 10 100500
++* *++*
+Mortality
+R. sphenocephalus
+R. sylvatica
+R. clamitans
++* *+ +* +*
+R. aurora
+R. cascadae
+R. boylii
+*+ *+ +* *+
+Figure 1 The mortality (means ± 1 SE) of tadpoles when exposed to a range of endosulfan concentrations. Dotted lines indicate mortality after a 4-day exposure to different endosulfan concentrations. Solid lines indicate mortality after a 4-day exposure to different endosulfan concentrations followed by 4-day exposure in clean water. The lowest observable effect concentration (LOEC; compared to the control) is indicated by a plus (+) for mortality after 4 days and an asterisk (*) for mortality after 8 days. Species underlined are from a previous study (Jones et al. 2009).
+Finally, we addressed whether each species experienced a lag effect in mortality (i.e., postexposure mortality). After 4 days of exposure followed by 4 days in clean water, B. americanus and P. triseriata had LC508-d estimates of 50–55 ppb, while R. pipiens, R. sylvatica, and P. feriarum had LC508-d estimates of 25–30 ppb (Table 1, Fig. 1). The most sensitive species were R. boylii, R. aurora, and R. sphenocephala with LC508-d estimates below 6 ppb. On the basis of 84% confidence of these LC508-d estimates, four of the eight species (R. sphenocephala, R. pipiens, R. aurora, and R. boylii) experienced significant lag effects.
+Population-level variation experiment
+The anovas for all six R. sylvatica populations indicated significant effects of endosulfan concentration (all P-values <0.01). For populations 1 through 4, a 2-day
+exposure to endosulfan increased mortality relative to controls at all concentrations of the insecticide. For populations 5 and 6, only the 23, 54, and 287 ppb concentrations caused significantly more death than the control (Fig. 2). All populations had 100% survival in the controls.
+The LC50 estimates range from 13.2 to 23.5 ppb (Table 2). On the basis of 84% confidence intervals, only the most and least sensitive populations were significantly different from each other. Thus, these populations tend to have similar sensitivities to endosulfan, and any single population’s estimate appears to be a good indicator for the other populations.
+Phylogenetic analysis
+Using Blomberg’s K as our measure of phylogenetic signal, the LC504-d and LC508-d estimates both had values of
+6
+a 2012 Blackwell Publishing Ltd
+1 10 100500 0
+
+Hammond et al.
+Phylogenetic pattern of endosulfan sensitivity
+ R. sylvatica Populations
+   +
+*
+                                     1 2 3 4 5 6
+                          1
+0.8
+0.6
+0.4
+0.2
+0
+            0 1 10 Endosulfan concentration (ppb)
+100 500
+Figure 2 The mortality (means ± 1 SE) of Rana sylvatica tadpoles from six populations when exposed to a range of endosulfan concentrations. The lowest observable effect concentration (LOEC; compared to the control) is marked with a plus (+) for populations 1 through 4 and an asterisk (*) for populations 5 and 6.
+Table 2. The estimated LC102-d, LC502-d, and LC902-d values (with 84% confidence intervals) for six populations of Rana sylvatica tadpoles. All units are in ppb.
+tree, respectively. This difference was highly significant for both trees, with a P-value of 0.003 (i.e., only in 3 of 1000 randomizations did we observed five or fewer evolutionary steps) on the mtDNA tree and a P-value of 0.007 on the equal-length-branches tree. Mortality time lags were common in ranids, occasional in hylids, and rare in bufonids.
+Discussion
+On the basis of current EPA categories (Carey et al. 2008), endosulfan can be categorized as ‘very highly toxic’ to all eight species examined in this study (LC504-d and LC508-d < 100 ppb). Moreover, in half of the species, survival after a 4-day exposure was not indicative of survival after another 4 days in clean water. Most interestingly, when combined with the seven species from Jones et al. (2009), we found that the species-level variation in sensitivity to endosulfan contains a phylogenetic signal.
+Endosulfan shows similar highly toxic effects to other organisms. Among the few tests that have been conducted on other amphibians, LC504-d estimates range from 1.8 to 4700 ppb across a variety of Bufo and Rana species (Gopal et al. 1981; Vardia et al. 1984; Harris et al. 1998b; Bernabo` et al. 2008). Studies of fish and invertebrates have similar LC50 estimates: Morone saxatilis (striped bass) Oncorhynchus mykiss (rainbow trout), and Lepomis macrochirus (bluegill sunfish) range from 0.1–1.7 ppb; Gammarus palustris and Hyalella azteca (amphipods) range from 0.4 to 5.7 ppb (Leight and Van Dolah 1999; Wan et al. 2005); and Procambarus clarkii (red swamp crayfish) has an estimate of 120 ppb (Leight and Van Dolah 1999). The general pattern is that endosulfan is highly toxic (1000 ppb >LC50 > 100 ppb) to very highly toxic (LC50 < 100 ppb) for most aquatic organisms.
+When estimating lethal concentrations, it is important to determine how the estimates compare to EEC. Estimates from wind-blown overspray indicate that aqueous endosulfan concentrations can range from 700 ppb at 10 m from the target site to 4 ppb at 200 m from the target site (Ernst et al. 1991). Actual endosulfan concentrations found in ponds near apple orchards in Ontario, Canada, were 0.53 ppb (Harris et al. 1998a) and reached 2.5 ppb in the Gwydir River basin in Australia (Muschal 2001). A recent model by the US EPA (2002) estimated the EEC of surface drinking water at 4.5–23.9 ppb for acute exposures and 0.5–1.5 ppb for chronic exposures. Collectively, these estimates suggest that tadpoles and many other aquatic organisms will often be exposed to endosuflan concentrations that cause substantial mortality.
+How much mortality would we predict to occur at EEC among the 15 species of tadpoles considered in this study? Using the EPA chronic exposure and our LC508-d
+ Population LC102-d
+1 2.4 (1.2, 3.7)
+2 6.1 (4.3, 7.9)
+3 4.5 (2.8, 6.2)
+4 9.6 (6.5, 12.1)
+5 6.6 (4.4, 8.6)
+6 5.6 (3.4, 7.9)
+LC502-d
+13.2 (10.0, 16.8) 14.6 (12.1, 17.3) 15.9 (12.9, 19.3) 19.7 (16.6, 22.5) 17.4 (14.4, 20.5) 23.5 (19, 28.7)
+LC902-d
+73.5 (52.6, 4119) 34.7 (28.7, 45.2) 56.1 (43.4, 80.5) 40.3 (34.2, 51.8) 45.9 (37.3, 61.3) 98.3 (72.9, 152)
+  K between zero and one, indicating some phylogenetic signal but less than expected under Brownian motion (i.e., partial phylogenetic dependence; Fig. 3). The signal observed for the LC504-d values was significant on the tree estimated from equal-length branches (K = 0.443, P = 0.034) but not on the tree generated from mitochondrial data (K = 0.552, P = 0.164). The signal observed for the LC508-d values was significant regardless of which tree was used (equal length K = 0.458, P = 0.042; mitochondrial data K = 0.743, P = 0.033). In general, bufonids were less sensitive than hylids and hylids were less sensitive than the ranids.
+The phylogenetic analysis of the time lag showed five evolutionary transitions on the tree based on mtDNA (Fig. 3) and six transitions on the tree based on equallength branches. In comparison, the randomized data showed an average of 10.39 and 10.35 transitions on each
+a 2012 Blackwell Publishing Ltd
+7
+Mortality
+
+Phylogenetic pattern of endosulfan sensitivity
+Hammond et al.
+  (A)
+4 day LC50 0–20 20–40
+40–60 60–80 80–100 100–120
+(B)
+8 day LC50 0–10 10–20
+20–30 30–40 40–50 50–60
+(C)
+Lag
+No lag Lag
+B. boreas
+B. americanus
+P. triseriata P. feriarum P. regilla
+P. crucifer H. versicolor
+R. sylvatica
+R. clamitans R. catesbeiana
+R. aurora
+R. cascadae
+R. boylii
+B. boreas
+B. americanus
+P. triseriata P. feriarum P. regilla
+P. crucifer H. versicolor
+R. sylvatica
+R. clamitans R. catesbeiana
+R. aurora
+R. cascadae
+R. boylii
+B. boreas
+B. americanus
+P. triseriata P. feriarum P. regilla
+P. crucifer H. versicolor
+Figure 3 Maximum likelihood reconstruction of the mtDNA tree for (A) LC504-d estimates, (B) LC508-d estimates (please note the change in scale), and (C) presence and absence of statistically significant time lag (area of each color is proportional to the likelihood of each character state for a given ancestral node).
+R. sylvatica
+R. clamitans R. catesbeiana
+R. aurora
+R. cascadae
+R. boylii
+R. pipiens
+R. sphenocephala
+ R. pipiens
+R. sphenocephala
+ R. pipiens
+R. sphenocephala
+estimates, exposed populations would experience approximately 10% mortality in six of the tadpole species (R. sphenocephala, R. sylvatica, P. regilla, H. versicolor, P. crucifer, and R. clamitans) and 50% mortality in one
+tadpole species (R. catesbeiana; Jones et al. 2009). Using EPA acute exposure and our LC508-d estimates, exposed populations would experience approximately 10% mortality in three tadpole species (P. triseriata, B. americanus, and B. boreas), 50% mortality in six tadpole species (R. pipiens, P. crucifer, P. feriarum, R. sylvatica, P. regilla, and H. versicolor), and 90% mortality in six tadpole species (R. cascadae, R. boylii, R. clamitans, R. aurora, R. sphenocephala, and R. catesbeiana). In short, the estimated EEC values for endsulfan suggest that a large proportion of exposed amphibians would die from direct toxicity. Of course, the true effect of endosulfan exposure on amphibian populations in nature is difficult to estimate because of the additional stressors including competition, predation, and disease, and whether mortality from endosulfan would be additive or compensatory with other causes.
+The lag effects of endosulfan observed in the current study appear to be a common phenomenon. Previous laboratory experiments by Berrill et al. (1998) found mortality increased dramatically after a single exposure to endosulfan over a 4-day period when B.americanus, R. sylvatica, and R. clamitans tadpoles were transferred to clean water for an additional 5–10 days. Although the concentrations (three between 40 and 365 ppb per species) and postexposure periods differed among the three species, mortality increased from 10% during the 4-day exposure period to 30% to 100% by the end of the postexposure period. In a mesocosm experiment, R. pipiens tadpoles exposed to endosulfan experienced 84% mortality, but this mortality took several days to develop, again suggesting a lag effect (Relyea 2009). Collectively, these studies suggest that the endosulfan continues to cause mortality well after direct exposure in many species of amphibians.
+The lag effect in LC50 estimates presents a serious applied problem. While the mechanism underlying the lag effect is not known, the existence of the phenomenon means that traditional LC50 studies will underestimate endosulfan’s lethality to amphibians and potential other species. In P. crucifer, for example, the LC508-d value is approximately one-fourth the concentration of the LC504d value. Plainly stated, the concentration that will kill 50% of the tadpoles is one-fourth the concentration we would estimate from a traditional LC504-d test. Given that regulatory agencies such as the US EPA set the ‘Level of Concern (LOC)’ for pesticides in nature at 5% or 10% of an animal’s LC50 estimate (for listed and nonlisted species, respectively), the existence of lag effects means that the LOC would be set four times too high for species such as P. crucifer. Incorporation of lag effects into standard toxicity test will provide more accurate estimates of environmental impacts for some pesticides.
+8
+a 2012 Blackwell Publishing Ltd
+
+Hammond et al.
+Phylogenetic pattern of endosulfan sensitivity
+Past studies of endosulfan effects on larval amphibians have noted substantial differences in sensitivities among species. The current study represents the first phylogenetic analysis of amphibian sensitivity to a pesticide and confirms previous suggestions of phylogenetic patterns for sensitivity to the insecticide endosulfan (Berrill et al. 1998; Jones et al. 2009; Relyea 2009). We found the phylogenetic signal for the LC504-d and LC508-d estimates exhibit similar patterns. In general, bufonids were the least sensitive group, followed by the hylids, which show large amounts of variation, and the ranids, which are generally highly sensitive. The ranid exceptions are R. pipiens and R. sylvatica, which were the least sensitive species of ranids and had LC508-d estimates that were similar to P. crucifer and P. feriarum. The mechanism driving these patterns is currently unknown, but it is likely linked to some aspect of conserved physiology within each clade, given that the insecticide has only been in use for the past 57 years.
+Other pesticides show different patterns when tested across multiple species. For example, Relyea and Jones (2009) compared glyphosate sensitivity for nine species of anurans and four species of salamanders and found little variation between species (LC504-d for anurans = 0.8– 2.0 ppm, LC504-d for salamanders = 2.7–3.2 ppm). Even without a formal phylogenetic analysis, it appears that glyphosate sensitivity has no phylogenetic signal. Interestingly, those nine anuran species were also assayed in the current study and show large amounts of variation in their sensitivity to endosulfan (LC504-d 1.3–112 parts per billion). The insecticide carbaryl also shows substantial interspecific variation within the ranids (Bridges and Semlitsch 2000). However, when ten populations of R. sphenocephala were assayed for population-level variation, the intraspecific variation was larger than the interspecific variation (Bridges and Semlitsch 2000). This high level of intraspecific variation creates inference problems because any single population may not reflect the species’ mean and any likely phylogenetic signal is a product of the specific populations sampled not necessarily a specieslevel difference.
+We found little intraspecific variation among the populations of R. sylvatica exposed to endosulfan. The six populations all showed similar sensitivities, with only the least (LC502-d = 23.5 ppb) and most sensitive (LC502d = 13.2 ppb) being significantly different. Endosulfan is commonly, though not heavily, used in Pennsylvania and Michigan (United States Geological Survey http://water. usgs.gov/nawqa/pnsp/usage/maps). These populations potentially have different exposure histories, yet still have similar sensitivities. More work though needs to be done on pesticides assaying population differences in general and specifically across historic pesticide use gradients.
+The endosulfan LC504-d and LC508-d estimates exhibited phylogenetic signal, but less signal than expected under a Brownian motion model of character evolution (i.e., a value of K <1; Blomberg et al. 2003). The evolutionary implications of partial phylogenetic dependence or weak phylogenetic signal have not been well explored in the literature. Previous studies have shown that behavioral traits and group traits such as population density and geographic range size tend to show phylogenetic signal that is weaker than observed in highly heritable traits under strong selection such as body mass or fecundity (Blomberg et al. 2003; P. R. Stephens and J. L. Gittleman unpublished data). LC50 estimates are hard to classify as being either heritable or as products of either strong or weak selection because it depends on whether the specific population shares an exposure history with the pesticide. If the population has no exposure history, the LC50 estimate should be heavily influenced by ecological factors and phylogeny. However, if the population has been repeated exposed to high concentrations, the LC50 estimate can also be influenced by selection. Unfortunately for most populations, past and current exposure histories are unknown.
+Exposure histories can become even more confounding when comparing among distantly related species because of propagation of variation with each species’ estimate, potentially not reflecting a true mean. However, many of these species co-occur and hence share a common exposure history. For example, B. americanus and R. clamitans were collected from the same pond as were P. crucifer and H. versicolor. Despite living in the same location and having potentially overlapping tadpole stages, these species have very different sensitivities to endosulfan.
+The demonstration of phylogenetic patterns in sensitivity to endosulfan and time lags in mortality represents a critical step in our ability to predict the impact of the pesticide. For example, our results demonstrate that more closely related species share similar levels of sensitivity. Thus, at least for endosulfan, common closely related species may be used as surrogates for species of conservation concern. Furthermore, large-scale comparisons of other traits such as habitat use or disease tolerance can now be compared with pesticide sensitivity in a more rigorous manner using the same comparative methods that have been used to investigate patterns of evolutionary diversification in ecological traits (e.g., Winermiller 1991; Richman and Price 1992; Schluter 1994; Losos 1996; Losos et al. 1998; McPeek and Brown 2000; Richardson 2001; Stephens and Wiens 2004). These results argue that more research from a phylogenetic perspective on pesticide sensitivity is likely to generate key insights into the diversification of ‘resistance’ traits in amphibians and to have major implications for amphibian conservation.
+a 2012 Blackwell Publishing Ltd
+9
+
+Phylogenetic pattern of endosulfan sensitivity
+Hammond et al.
+ Appendix A1: The assembly of phylogenetic trees
+The first tree was assembled by hand in Mesquite (Maddisson and Maddison 2010). Relationships among species of Pseudacris and Hyla were based on the studies of Wiens et al. (2006) and Moriarty and Cannatella (2004), relationships among species of Rana were based upon Wiens et al. (2009), and relationships among genera were based upon Hoegg et al. (2004). A speciational model of evolution was used to assign branch lengths to this tree, with all branches assigned a length of 1.
+A second tree and branch lengths were also directly estimated for these species using a 2500 base pair region of mitochondrial sequence data that includes 12S, 16S, and adjacent transfer RNAs obtained from GenBank (ncbi.nlm.nih.gov/Genbank/index.html). Table A1 contains a list of accession numbers and sequence sources. Initial sequence alignments were generated using MUSCLE v3.8.31 (Edgar 2004), with some adjustments made by eye and regions of uncertain alignment excluded using Se-Al 2.0 (Rambaut 2008). Analyses of sequences were performed using RAxML v6.0.0 (Stamatakis et al. 2008), using maximum likelihood and a GTR model (general time reversible) model of sequence evolution. This is the only model of sequence evolution implemented in RAxML, and so no model fitting procedures were performed. Based on Hoegg (2004) and Wiens et al. (2009) two species of Heleophryne, H. regis and H. purcelli, were used as the outgroup to the other genera during analysis. The topology of the tree obtained using maximum likelihood was identical to that constructed based on previously published studies, save that the positions of Pseudacris crucifer and P. regilla were reversed (Fig A1).
+Table A1: GenBank accession numbers of sequences used for phylogenetic analyses.
+B. boreas
+100
+Accession number
+DQ283180 AY680211 AY843738 EF472219 AY843737 AY843735 AY843682 DQ283123 AY779251 DQ283387 DQ283185 DQ283257 DQ283189 AY779197 AY779192 DQ283115.1 AY843593.1
+Scientific name
+Bufo boreas
+Bufo americanus Pseudacris triseriata Pseudacris feriarum Pseudacris regilla Pseudacris crucifer Hyla versicolor
+Rana pipiens
+Rana sphenocephala Rana sylvatica
+Rana clamitans Rana catesbeiana Rana aurora
+Rana cascadae
+Rana boylii Heleophryne regis Heleophryne purcelli
+Reference
+Frost et al. 20051
+Pauly et al. 20042 Faivovich et al. 20053 Lemmon et al. 20074 Faivovich et al. 20053 Faivovich et al. 20053 Faivovich et al. 20053 Frost et al. 20051
+Hillis and Wilcox 20055 Frost et al. 20051
+Frost et al. 20051
+Frost et al. 20051
+Frost et al. 20051
+Hillis and Wilcox 20055 Hillis and Wilcox 20055 Frost et al. 20051 Faivovich et al. 20053
+Figure A1 (A) Tree with highest likelihood from a maximum likelihood analysis of mitochondrial sequence data (outgroup not shown). Numbers to the right of each node indicate the proportion of 1000 bootstrap pseudoreplicates that each clade occurred in; values of <50% are not shown and (B) Equal-length-branch tree assembled based on previous studies of anuran phylogeny.
+(A)
+B. americanus
+substitutions 0.1
+(B)
+94
+100 R. cascadae
+R. boylii
+R. sphenocephala R. pipiens
+R. sylvatica
+R. catesbeiana
+R. clamitans R. aurora
+R. cascadae
+100
+98
+87 91
+P. triseriata
+100
+P. feriarum P. regilla
+P. crucifer H. versicolor
+100 100
+R. sylvatica
+R. clamitans
+100
+R. catesbeiana R. aurora
+100
+R. pipiens
+R. sphenocephala
+ R. boylii
+B. americanus B. boreas
+P. regilla H. versicolor
+P. crucifer
+P. triseriata
+P. feriarum
+   a 2012 Blackwell Publishing Ltd
+
+Hammond et al.
+Phylogenetic pattern of endosulfan sensitivity
+Appendix A2: Single Species data
+Bufo americanus survival in the water and vehicle controls was 100% after both 4 and 8 days (Fig. 1). After 4 days, the 20, 38, 162 ppb concentrations experienced significantly more death than the control. After 8 days, the same endosulfan concentrations were significantly different from the control. Based on these results, the LC50 estimates were 55.5 ppb after 4days, and 53.0 ppb after an additional 4-days in clean water (Table 1). Endosulfan had no significant lag effect on mortality of B. americanus.
+In P. triseriata, survival in the water and vehicle controls was 100% after both 4 and 8 days (Fig. 1). After 4 days, only the 109 ppb concentration had significantly more death than the control. After 8 days, the 109 ppb endosulfan concentration was still the only concentration significantly different from the control. The LC50 estimates were 56.4 ppb after 4 days and 53.6 ppb after an additional 4 days in clean water (Table 1). Based on these data, endosulfan had no significant lag effect on mortality of P. triseriata.
+For P. feriarum, survival in the water and vehicle controls was initially very good but declined over time (100% and 92% after 4 days; 82% and 82% after 8 days, respectively; Fig. 1). After 4 days, the 14, 18, and 109 ppb concentrations exhibited significantly greater mortality than the control. After 8 days, only the 109 ppb concentration was different from the control because of the control mortality adjustment. Based on these results, the LC50 estimates were 25.5 ppb after 4 days and 25.3 ppb after an additional 4 days in clean water (Table 1). Endosulfan had no significant lag effect on mortality of P. feriarum.
+For R. pipiens survival was excellent in the water and vehicle controls (100% and 100% after 4 days; 100% and 98% after 8 days, respectively; Fig. 1). After 4 days, the 20, 38, and 162 ppb concentrations caused significantly more death than the control. After 8 days, the 3, 20, 38, and 162 concentrations were significantly different from the control. Based on these data, the LC50 estimates were 51.0 ppb after 4 days of endosulfan exposure and 28.0 ppb after an additional 4 days in clean water (Table 1). R. pipiens tadpoles experienced a significant lag effect to endosulfan exposure.
+Rana sphenocephala, survival in the water and vehicle controls was excellent (100% after both 4 and 8 days; Fig. 1). After 4 days, the 2, 3, 20, 38, and 162 ppb concentrations caused significantly more death than the control. After 8 days, the same concentrations again were significant different from the control. The LC50 estimate was 2.8 ppb after 4 days, but 1.9 ppb after an additional 4 days in clean water, which is significantly lower based on the 84% confidence intervals (Table 1). R. sphenocephala mortality exhibited a small lag effect following exposure to endosulfan.
+Rana sylvatica survival in the water and vehicle controls was high over the first 4 days (93% and 95% respectively) but declined over the following 4 days (85% and 83%; Fig. 1). After the first 4 days, concentrations of 3, 38, and 162 (but not 20) ppb caused significantly more death than the control. After 8 days, only the 38 and 162 ppb concentrations were significantly different from the control. The LC50 estimates were 31.4 ppb after 4 days and 25.1 ppb after 8 days (Table 1). Based on these data, R. sylvatica experience no significant lag effect.
+Rana aurora also experienced high survival in the water and vehicle controls (97% and 100% after 4 days; 93% and 97% after 8 days, respectively; Fig. 1). After 4 days, the 20, 38, and 162 ppb concentrations had significantly more death than the control. After 8 days, the 3, 20, 38, and 162 ppb concentrations had significantly more death than the control. The LC50 estimate was 3.7 ppb after 4 days and 2.4 ppb after an additional 4 days in clean water (Table 1). Based on these data, R. aurora mortality exhibited a small lag effect following exposure to endosulfan.
+For R. boylii, survival in the water and vehicle controls was 100% after both 4 and 8 days (Fig. 1). After 4 days, tadpoles exposed to 3, 16, 38, and 145 ppb of endosulfan had significantly greater death than the control. After 8 days, 2, 3, 16, 38, and 145 ppb concentrations were significantly from the control. Using these data, the LC50 estimates were 13.0 ppb after 4 days and 5.4 ppb after four more days in clean water (Table 1). Based on these data, R. boylii experienced a lag effect of endosulfan exposure.
+Table A2: The species of tadpoles used in the endosulfan experiments including common and family name, number of egg masses, initial mass (mean ± 1 SE), and developmental stage. Underlined species are estimates from a previous study (Jones et al. 2009).
+ Scientific name
+Bufo boreas
+Bufo americanus Pseudacris triseriata Pseudacris feriarum Pseudacris regilla Pseudacris crucifer Hyla versicolor
+Rana pipiens
+Rana sphenocephala Rana sylvatica
+Rana clamitans Rana catesbeiana Rana aurora
+Rana cascadae
+Rana boylii
+Common name
+Western toad
+American toad
+Western chorus frog Southeastern chorus frog Pacific tree frog
+Spring peeper
+Gray tree frog
+Northern leopard frog Southern leopard frog Wood frog
+Green frog
+American bullfrog Red-legged frog
+Cascades frog
+Foothill yellow-legged frog
+Family
+Bufonidae Bufonidae Hylidae Hylidae Hylidae Hylidae Hylidae Ranidae Ranidae Ranidae Ranidae Ranidae Ranidae Ranidae Ranidae
+Egg masses
+10
+12
+10
+20
+10
+28
+30
+10
+8 10 15 15 13 3 8
+Mass (mg)
+63±3 38±2 53±3 52±3 83±3 27±3 59±3 44±2 41±2 48±2 44±3 40±6 56±3 63±4 45±2
+Gosner stage
+26
+27
+29
+29
+26
+26
+26
+25
+25
+26
+25
+25
+25
+27
+25
+  a 2012 Blackwell Publishing Ltd
+13
+
+Phylogenetic pattern of endosulfan sensitivity Hammond et al.
+Table A3: The populations of R. sylvatica used in the population endosulfan experiment including number of egg masses, initial mass (mean ± 1 SE), and developmental stage.
+ Population
+1 2 3 4 5 6
+Egg masses
+10 10 10 10
+9 7
+Mass (mg)
+158±10 221±22 144±8 172±17 243±17 157±8
+Gosner stage
+28
+30
+28
+28
+29
+28
+  14
+a 2012 Blackwell Publishing Ltd

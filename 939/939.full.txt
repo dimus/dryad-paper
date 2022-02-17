@@ -1,0 +1,234 @@
+   Molecular Ecology (2011) 20, 4490–4502 doi: 10.1111/j.1365-294X.2011.05284.x
+Evidence for morphological and adaptive genetic divergence between lake and stream habitats in European minnows (Phoxinus phoxinus, Cyprinidae)
+HE ́ LE` NE COLLIN and LUCA FUMAGALLI
+Laboratoire de Biologie de la Conservation, De ́partement d’Ecologie et Evolution, Biophore, Universite ́ de Lausanne, CH-1015 Lausanne, Switzerland
+Abstract
+Natural selection drives local adaptation, potentially even at small temporal and spatial scales. As a result, adaptive genetic and phenotypic divergence can occur among populations living in different habitats. We investigated patterns of differentiation between contrasting lake and stream habitats in the cyprinid fish European minnow (Phoxinus phoxinus) at both the morphological and genomic levels using geometric morphometrics and AFLP markers, respectively. We also used a spatial correlative approach to identify AFLP loci associated with environmental variables representing potential selective forces responsible for adaptation to divergent habitats. Our results identified different morphologies between lakes and streams, with lake fish presenting a deeper body and caudal peduncle compared to stream fish. Body shape variation conformed to a priori predictions concerning biomechanics and swimming performance in lakes vs. streams. Moreover, morphological differentiation was found to be associated with several environmental variables, which could impose selection on body and caudal peduncle shape. We found adaptive genetic divergence between these contrasting habitats in the form of ‘outlier’ loci (2.9%) whose genetic divergence exceeded neutral expectations. We also detected additional loci (6.6%) not associated with habitat type (lake vs. stream), but contributing to genetic divergence between populations. Specific environmental variables related to trophic dynamics, landscape topography and geography were associated with several neutral and outlier loci. These results provide new insights into the morphological divergence and genetic basis of adaptation to differentiated habitats.
+Keywords: adaptive divergence, genome scan, geometric morphometrics, lake–stream, natural selection, outlier loci
+Received 14 March 2011; revision received 3 August 2011; accepted 12 August 2011
+Introduction
+Natural selection is an important evolutionary process shaping phenotypic and genetic variation in nature. At small temporal and spatial scales, geographically localized natural selection can drive local adaptation, especially in heterogeneous and fragmented habitats (Williams 1966; Endler 1986; Schluter 2000; Kawecki & Ebert 2004). Local adaptation often results in adaptive
+Correspondence: He ́le`ne Collin, Fax: +41 (0) 21 692 41 65; E-mail: helene.collin@unil.ch
+phenotypic and genetic divergence of populations (Endler 1986; Schluter 2000) and might initiate speciation (Rice 1987; Kawecki & Ebert 2004; Kirkpatrick & Barton 2006). Identifying traits and genes under selection, as well as ecological factors that are responsible for it, is essential to understand local adaptation or even provide new insights into ecological speciation (Rundle & Nosil 2005). Cases of local adaptation showing adaptive phenotypic divergence have been well documented in numerous taxa using QST vs. FST or PST vs. FST approaches (e.g. Saether et al. 2007; Leinonen et al. 2009; Antoniazza et al. 2010), environment–phenotype
+Ó 2011 Blackwell Publishing Ltd
+
+correlations, measurements of selection, phenotypic or genetic manipulations and reciprocal transplants (Endler 1986; Schluter 2000; Kawecki & Ebert 2004). In contrast, studies focusing on adaptive genetic divergence, in particular using genome scans, are less common. This approach allows the identification of loci under selection, even in wild populations for which conducting genetic crosses is not necessarily feasible (Nosil et al. 2009; Butlin 2010).
+Population genomics has proven to be a valid methodology to detect adaptive genetic divergence, especially in nonmodel species (reviewed in Nosil et al. 2009). Genome scans examining numerous loci allow the detection of adaptive genetic divergence through the identification of loci with atypical levels of genetic differentiation (outlier loci) (Luikart et al. 2003; Storz 2005; Stinchombe & Hoekstra 2007; Nosil et al. 2009). Genome scans also allow the separation of loci in different classes with ecological relevance (neutral loci and loci potentially under selection in particular environments; Wilding et al. 2001; Bonin et al. 2006; Egan et al. 2008; Nosil et al. 2008; Butlin 2010). Divergent environmental conditions driving local adaptation are usually hard to characterize. Studies including methods correlating ecological variables (i.e. putative selective forces) and genetic data, however, are becoming more widespread. Joost et al. (2007) developed a logistic regression model to find loci whose genetic pattern was explained by particular environmental variables. For example, Manel et al. (2009) assessed with this approach the role of host–plant association on the adaptation of the insect Hylobius abietis. The authors concluded that abiotic factors, such as climatic variables, played a significant role in explaining adaptation processes in this species rather than particular host–plant association.
+Local adaptation results in genetic differentiation and phenotypic divergence, for example morphological divergence. Geometric morphometrics examines quantitative shape variation in biological forms and can be combined with statistical analyses to identify ecological variables responsible for shape divergence (Adams et al. 2004; Mitteroecker & Gunz 2009). In fishes, body shape is often used as a proxy for an adaptive phenotype, as it is strongly associated with habitat, and can affect fitness (Walker 1997; Spoljaric & Reimchen 2007; Langerhans 2008; Aguirre 2009; Langerhans & Reznick 2010). Fish body shape evolves according to differences in ecological strategies between populations or species in terms of food, habitat type and predation regimes (Alexander 1974; Brinsmead & Fox 2002; Marcil et al. 2006a,b).
+A good illustration of morphological adaptation in fish is the adaptation to lake and stream habitats. Bio-
+mechanical considerations allow for a priori predictions about shape variation. In some cases, because of different hydrological demands, stream fish are expected to have shallower body to reduce drag in the current (Webb 1984; Ryder & Pesendorfer 1989; McLaughlin & Grant 1994; Brinsmead & Fox 2002; McGuigan et al. 2003). For example, this expectation has been confirmed in rock bass (Ambloplites rupestris) and pumpkinseed fish (Lepomis gibbosus) (Brinsmead & Fox 2002). In other cases, it has been shown that some stream fish species tend to have a deeper body in accordance with their foraging habits. A well-known example is the stickleback (Gasterosteus aculeatus), where lake fish display a more streamlined body than stream fish do (Hendry et al. 2002; Berner et al. 2008, 2009; Aguirre 2009). The same pattern was also observed in juvenile sockeye salmon (Pavey et al. 2010). As illustrated above, previous studies on fish body shape adaptation to lake and stream habitats have supported two different hypotheses, depending on how fishes interact with their environment.
+This study focuses on genetic and morphological variation in the European minnow (Phoxinus phoxinus). This small cyprinid fish is distributed in most of Europe (Frost 1943; Pedroli et al. 1991; Kottelat 2007; Kottelat & Freyhof 2007). In Switzerland, it occupies contrasting habitats such as lakes and streams (Pedroli et al. 1991). This species has been paid little attention despite its large distribution (Frost 1943) and its ecological impact when introduced to new areas, where it can become invasive and drastically modify native ecosystems (from benthos to native fish species such as brown trout; Naestad & Brittain 2010; Museth et al. 2010). Based on morphological characters, Kottelat (2007) recently identified three potential new species in the south of France and in Greece: P. bigerri, P. septimaniae and P. strymonicus. This discovery highlighted the capacity of P. phoxinus for diversification in Europe. Therefore, the European minnow is a good candidate to study adaptation processes.
+In this study, we used a multifaceted approach based on the quantification of genetic (genome scan approach) and morphological variation (geometric morphometrics) between lake and stream minnow populations in Switzerland to answer the following questions: (i) Does P. phoxinus body shape vary between habitats (lake and stream), and, if so, (ii) Which alternative prediction does this species follow concerning morphological adaptation to lake and stream habitats? (iii) Does natural selection act on particular candidate loci responsible for local adaptation between divergent environments? (iv) What are the environmental factors putatively promoting divergent selection between populations and habitats?
+Ó 2011 Blackwell Publishing Ltd
+ADAPTIVE DIVERGENCE IN EUROPEAN MINNOW 4491
+
+4492 H. COLLIN and L. FUMAGALLI Methods
+Study sites, sampling and environmental data
+A total of 11 populations of Phoxinus phoxinus were sampled in stream or lake habitats from the Rhone drainage, and one population from the Rhin drainage (Orbes) in the south-western Swiss Alps, at an altitude ranging from 373 to 2654 m and with Euclidian geographical distances separating populations ranging from 6 to 113 km (Fig. 1). Between 18 and 22 individuals per sampling site were collected with minnow traps during summer 2008 and 2009. Characteristics of each sampled population are summarized in Table S1 (supporting information). Adult minnows were anesthetized with AQUI-SÒ (AQUI-S New Zealand Ltd, Lower Hutt, New Zealand) and immediately stored in absolute ethanol for further analyses. We also recorded in the field with a LabQuest system (Beaverton, OR, USA) or collected from the University of Lausanne GIS database (http://www2.unil.ch/sig/geocatalog/), a data set containing a total of 20 environmental variables (for a description, see Table S3, supporting information).
+Geometric morphometrics
+Fish were scanned on a Canon 360 numeric scanner, using a standardized procedure (10 fish per scan all in the same position in a 9 · 12 cm frame on the scan window). Using TPSDIG2 software (Rohlf 1999), 12 land-
+marks (most anterodorsal point of premaxilla; indentation at the posterodorsal end of head; anterior and posterior insertion of dorsal fin; dorsal, median and ventral insertion of the caudal fin; anterior insertion of the anal fin; posterior and anterior intersection of pectoral fin; intersection of the operculum with ventral and dorsal body profile) were superimposed around the body to assess body shape variation (TPSDIG2; Rohlf 1999). Procrustes fits were obtained using a full procrustes fits procedure (MORPHOJ; Klingenberg 2011) that orthogonally projects landmarks data to a tangent space (Dryden & Mardia 1998), and specimens were aligned. Affine and nonaffine shape components (partial warps) were obtained from procrustes fits using PAST (Hammer et al. 2001) and served as body shape variables for further analyses. To identify the effect of habitat (lakes and streams) on body shape independent of allometry, and by taking into account a potential population effect, we conducted a MANCOVA on body shape variables with centroid size as a covariate, and habitat and population nested within habitat as factors in R (R Development Core Team, 2008) using the ‘manova’ function (‘stats package’). We extracted canonical variate scores with the ‘candisc’ function (‘candisc’ package) (Friendly & Fox 2010). To visualize the origin of shape variation between lake and stream fishes, transformation grids were generated from the canonical scores (MORPHOJ; Klingenberg 2011). We also examined the prediction of minnow classification into their respective lake and stream habitat based on their
+    LeGr Br Or
+Li
+Ic
+       Ta
+La Il
+Lu
+   Va
+ Fig. 1 Location map of the 11 lake and stream populations sampled in the south-western Swiss Alps. Stream populations are indicated by grey dots, and lake populations by black dots.
+Ó 2011 Blackwell Publishing Ltd
+
+morphology using a discriminant function analysis (MORPHOJ; Klingenberg 2011). Sex was determined for 30% of the individuals used for morphometrics analysis, to test for a potential effect of sex on shape variation. We used a MANCOVA on partial warps, with centroid size as a covariate (to control for allometric effect), sex, habitat and population as factors and their interaction.
+We finally conducted a redundancy analysis (RDA) to explore patterns of correlation between mean population canonical variate one scores (response variable) and the environmental variables using the ‘rdaTest’ library in R (Legendre & Durand 2010; http://www. bio.umontreal.ca/legendre/indexEn.html). We built a correlation biplot that focuses on the relationship among variables along two main axes (RDA1 and RDA2). An overall test of the canonical relationship was generated from the RDA results using 999 permutations (Legendre & Legendre 1998).
+AFLP genotyping
+Genomic DNA was extracted from muscle tissue using Gentra Puregene Qiagen kit according to the manufacturer’s instructions. DNA concentration was adjusted to 50ng⁄lL. We used the protocol described in Paris et al. (2010) to generate AFLP markers. The AFLP method includes several steps: digestion of genomic DNA by two restriction enzymes (EcoRI and MseI), ligation of specific adaptors, preselective PCR using primers specific to each adaptor and finally selective PCR using multiple primer pairs containing two selective base pairs. Table S2 (supporting information) presents sequences of adaptors and primer pairs used in this study. Selective PCR products obtained with 14 different primer pairs were separated by electrophoresis on a 3100 ABI capillary automated sequencer (Applied Biosystems, Carlsbad, CA, USA). Polymorphic peaks were automatically analysed using GENEMAPPER version 4.0 software (Applied Biosystems). A matrix with presence ⁄ absence of peaks (coded 0 ⁄ 1) was generated, and the assignment of 0⁄1 was manually cross-validated two times. We randomized individuals and populations across plates to control for a potential plate factor on peak intensities that may influence AFLP data analyses. Thirty-eight individuals from the different populations analysed were replicated independently three times, from the extraction step to genotyping. All loci that were not 100% reproducible across the 38 individuals were removed from the analysis. For data analysis, populations were assumed to be in Hardy–Weinberg equilibrium, and nonpolymorphic loci across populations below 5% and above 95% level were removed.
+Outlier detection
+Loci potentially under selection were detected using two commonly employed methods. The first is the BAYESCAN software (Foll & Gagiotti 2008). The method uses reversible jump Markov Chain Monte Carlo and is based on the estimation of the Bayesian posterior probability of a locus to be under selection or not. Two models are implemented: one model includes selection and the other does not. Detection levels depend on the estimation of a Bayesian factor (BF), i.e. the ratio between the posterior probability of the model with selection and the model without selection. Consequently, BF favours one model over the other. To detect outlier loci between lake and stream habitats, we conducted three analyses: (i) a global analysis including all populations, (ii) a ‘lake specific’ analysis including only lake populations and (iii) a ‘stream specific’ analysis including only stream populations. All loci identified as outliers in the global analysis and not in either the analysis containing only lakes or only streams were considered as outlier loci associated with different habitats, i.e. lake–stream habitat. Therefore, the data set was partitioned into nonoutliers (loci never detected under selection in any of the three analyses), habitat-specific outliers (loci detected to be under selection in the global analysis and not in lake-specific or the stream-specific analysis) and other outliers (all other loci). These data sets will be referred to ‘classes’ of loci hereafter. Calculations were made on the BioHPC compute cluster at the Computational Biology Service Unit (CBSU) of Cornell University (http://cbsuapps.tc.cornell.edu/BayeScan.aspx).
+BAYESCAN defines several levels of outlier detection, the choice of which can potentially affect further biological conclusions. We tested for potential influence of the detection level on the main results with an ANOVA model conducted on FST values of data sets from the three classes of loci, and for the three different detection levels. The main conclusions on outlier identification being unaffected by the detection level; for clarity we based our conclusions on a ‘strong’ detection level corresponding to a BF >10 and a posterior probability >0.91 as defined in BAYESCAN. However, we report in the tables and figures the results from multiple levels of detection: ‘strong’, ‘very strong’ and ‘decisive’. Choosing a ‘strong’ level of selection allows the detection of loci under weaker selection, but it could have an effect on population’s adaptive divergence.
+Second, to complement the analysis with BAYESCAN, we also conducted an outlier detection on all pairs of populations with two different levels of detection (0.95 and 0.99), using the program DFDIST implemented in the selection detection workbench for dominant markers MCHEZA (Antao & Beaumont 2011). Loci identified as
+Ó 2011 Blackwell Publishing Ltd
+ADAPTIVE DIVERGENCE IN EUROPEAN MINNOW 4493
+
+4494 H. COLLIN and L. FUMAGALLI
+outliers in more than one lake–stream pairs were classified as ‘habitat-specific outlier loci’, whereas all other loci detected as outliers were classified as ‘other outlier loci’. Results of candidate loci detection using both BAYESCAN and DFDIST are presented in Table S4 (supporting information).
+Association between genetic data and environmental variables using a correlative approach
+To identify selection pressures potentially influencing the population genetic structure at nonoutlier loci and the other outlier loci (nonhabitat-specific outlier loci), we used a spatial correlative approach to identify loci associated with the environmental variables. Univariate logistic regression analysis between the frequency of AFLP bands and these variables was implemented in MATSAM V2 (Joost et al. 2007, 2008). This software is based on individual data and does not depend on a theoretical population genetics model. The significance of the logistic regression model for each locus is based on a likelihood ratio (G) test and Wald tests (Hosmer & Lemeshow 2000; Joost et al. 2007) and is corrected for multiple comparisons with a Bonferroni confidence threshold of 6.48.10)7 (Shaffer 1995; Joost et al. 2007). Bonferroni correction being extremely conservative, we are very confident on the detection of association between environmental variables and particular loci. However, some important loci might not be detected to be associated with specific environmental variables.
+Population genetic structure
+We investigated general patterns of population structure using the software AFLP-SURV (Vekemans 2002). We first estimated Wright’s FST and 99% confidence intervals were obtained based on 1000 random permutations of individuals among populations to test whether the observed FST value follows the null hypothesis of no genetic differentiation among populations. One thousand bootstrapped Nei’s genetic distance matrices between populations were calculated to generate unrooted phylogenetic trees for the neutral loci, as well as for habitat-specific outliers. A neighbour-joining 50% majority-rule consensus tree was estimated in PHYLIP 3.68 (Felsenstein 2004).
+We tested for isolation by adaptation (IBA; Nosil et al. 2008) for the different classes of loci to determine whether habitat type or morphological differentiation was affecting neutral genetic structure, adaptive genetic structure or both. We thus created two populationbased matrices representing (i) habitat type coded as follows: 0 attributed to pairs of stream–stream and lake–lake populations and 1 to pairs of lake–stream
+populations; (ii) morphological differentiation using a matrix of Euclidean distance from CV scores between pairs of populations. We first conducted Mantel tests on the habitat type matrix or morphological data matrix and FST matrix for each class of loci, and then partial Mantel tests controlling for Euclidian geographical distance. We also tested for isolation by distance (IBD) comparing matrices of Euclidian geographic distance and FST matrix for each class of loci with Mantel tests and partial Mantel tests controlling for morphology and habitat type. All Mantel tests for IBD and IBA were conducted using the ‘vegan’ library in R (Oksanen et al. 2008) with 999 permutations.
+Results
+Morphological differentiation
+The MANCOVA revealed significant effects of centroid size (F = 2.62, d.f. = 20,122, P = 0.001), and habitat type (F = 2.52, d.f. = 20,122, P = 0.001). The interaction between centroid size and habitat type was not significant (Wilks’s k = 0.17, P = 0.214), and we also found no effect of population nested within habitat type (Wilks’s k = 0.19, P = 0.162). The first habitat canonical loading (CV1) derived from the MANCOVA analysis revealed morphological variation mainly in body depth and caudal peduncle depth, with stream fish being shallower than lake fish (Fig. 2A). Despite no population effect has been highlighted by the MANCOVA analysis, some CV1 variation was observed within lake habitat. The discriminant function analysis revealed that 82% of the fish were correctly assigned to their habitat of origin based on their morphological characters. The 18% unclassified fish remaining correspond to lake fish with intermediate morphologies and belong to La, Le, Li and Ta populations. The MANCOVA revealed that shape variation was significantly affected by habitat (F = 3.68, d.f. = 1, 18, P=0.008), but not by sex (F=0.67, d.f.=1, 18, P = 0.803) nor by the interaction between sex and habitat(F=1.49,d.f.=1,18,P=0.198).
+The RDA revealed that 58% of the variance observed in the data set was explained by RDA axis 1 (Fig. 2B). Along RDA1, environmental variables explained 97% of the variation in CV1. Stream-like morphologies were positively associated with high productive sites at lower elevation and negatively correlated with higher altitudinal sites and topography. The most extreme lake-like morphologies (from Lu, Il, Va and Ic populations) showed inverse correlations to those observed for stream-like morphologies. RDA axis 2 and CV1 highlighted heterogeneity in body shape within lakes and identified intermediate morphological variation from Li, Le, Ta and La lake populations, for which no evident
+Ó 2011 Blackwell Publishing Ltd
+
+correlation was found with the environmental variables analysed in this study. However, RDA2 showed some, but not significant implication of landscape topography (landscape curvature and landscape aspect) and mean number of frost days per year on within lake body shape variation.
+Outlier detection using a Bayesian genetic approach
+A total of 1930 AFLP loci were found to be polymorphic and repeatable. We used a Bayesian method to detect candidate loci under divergent selection (BAYESCAN; Fig. 3), supplemented by another commonly used Bayesian approach (DFDIST). Results are reported in Table 1, showing the class of loci, the number of loci detected for each class, the overall loci FST value and the possible inferences of each class of loci for different selection detection levels. For a ‘strong’ level of detection in BAYESCAN, 1747 loci (90.5% of all loci) presented no signature of selection (nonoutliers) and therefore were inferred to be neutral. The FST value associated
+with this class of loci was 0.04 and was significant (P < 0.01 under a neutral scenario where populations consisted of a random assemblage of individuals), indicating genetic differentiation between populations at the neutral level. The detection of outliers specific to lake– stream habitat (habitat-specific outliers) revealed 56 loci (2.9% of all loci) with a significant FST of 0.14 (P < 0.01). Finally, we identified 127 ‘other outliers’ (6.6% of all loci) with a significant FST value of 0.15 (P < 0.01) and which inferences were considered as ‘between-stream and between-lake differentiation’. In these 127 other outliers, 19 were specific to between-stream differentiation and 108 to between-lake differentiation. Similar results were observed with DFDIST, except for the habitatspecific outliers, for which only 26 and 6 loci were detected as under selection at confidence detection levels of 95% and 99%, respectively, with significant FST values of 0.16 and 0.21 (P < 0.01).
+We identified an overlap between the two outlier loci detection methods. Ninety-two ‘other outliers’ and 24 ‘habitat-specific outliers’ were common to the DFDIST
+Ó 2011 Blackwell Publishing Ltd
+ADAPTIVE DIVERGENCE IN EUROPEAN MINNOW 4495
+ Fig. 2 (A) Deformation diagram showing the shape changes outlined by the 12 landmarks of this study and pictures illustrating stream and lake Phoxinus phoxinus mean morphology according to Canonical Variate 1 (CV1) scores extracted from MANCOVA analysis. Stream populations are indicated by grey dots, lake populations by black dots. Mean CV1 scores per population are also indicated. Lake-like and stream-like fish morphologies differ mainly in body depth and caudal peduncle depth. (B) Redundancy analysis correlation biplot showing the relationship between CV1 (black arrow) and environmental variables. Explanatory environmental variables are represented by grey arrows which length indicated the strength of correlation between variables and CV1 ordination score. Angles between variables reflect their degree of correlation.
+
+ 4496 H. COLLIN and L. FUMAGALLI
+Global analysis Stream analysis Lake analysis
+Genetic differentiation
+0.0 0.1 0.2 0.3 0.4
+0.0 0.1 0.2 0.3 0.4
+0.0 0.1 0.2 0.3 0.4
+0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 P ( = 0)
+Fig. 3 Bayesian test for divergent selection on 1930 AFLP loci and 11 populations implemented in BAYESCAN. The three panels show from left to right: the ‘global analysis’, where all populations are considered, the ‘stream analysis’ conducted only on stream populations and the ‘lake analysis’ including only lake populations. Outliers are defined according to different levels of detection indicated by vertical lines: strong (solid line, P(a = 0) = 0.91), very strong (dashed line, P(a = 0) = 0.95) and decisive evidence for selection (dotted line, P(a = 0) = 0.99). The first ‘strong’ level was used in the present study to detect habitat-specific outlier loci.
+Table 1 Classification of the 1930 loci after detection of outliers using BAYESCAN and DFDIST, and their possible inferences. Number of loci and FST values for each class of loci are given for three detection levels in BAYESCAN: ‘strong’(S), ‘very strong’ (VS) and ‘decisive’, (D); and two detection levels in DFDIST: ‘0.95’ and ‘0.99’
+Class of locus
+Nonoutliers Habitat-specific
+outliers Other outliers
+BAYESCAN
+Number of loci S—VS—D
+1747—1815—1857 56—32—18
+127—83—55
+FST S—VS—D
+0.04—0.06—0.06 0.14—0.16—0.16
+0.15—0.17—0.19
+DFDIST
+Number of loci 0.95–0.99
+1672–1864 26–6
+232–60
+FST 0.95–0.99
+0.04–0.05 0.16–0.21
+0.12–0.17
+Possible inferences
+Neutral
+Under selection associated
+with lake–stream
+environment Between-stream and
+between-lake differentiation
+and BAYESCAN analysis, at the lowest selection detection levels (‘strong’ for BAYESCAN, and 95% confidence for DFDIST).
+Association between genetic data and environmental variables using a correlative approach
+We used the approach implemented in MATSAM, correlating 20 environmental variables and patterns of 1747 nonoutlier AFLP loci, and 127 other outlier AFLP loci (nonhabitat-specific outlier loci). After correction for
+multiple tests (Bonferroni correction), we found 2% of other outliers (nonhabitat-specific outlier loci) and 1.8% of neutral loci associated with particular environmental variables: latitude, longitude, mean number of frost days per year, coldest month temperature, diurnal range of temperature, primary productivity, soil pH, altitude, landscape aspect, landscape curvature, mean yearly rainfalls and watershed area. Results are presented in Fig. 4. Some loci were linked to multiple environmental variables, and we identified 39 other outlier loci in common with the BAYESCAN analysis, and 30 with DFDIST.
+Ó 2011 Blackwell Publishing Ltd
+
+Population genetic structure
+Reconstruction of phylogenetic trees from Nei’s genetic distances on neutral loci and habitat-specific outliers produced two different topologies (Fig. 5). Tree topology based on habitat-specific outliers supported association of populations by ecology (lakes vs. streams), while the neutral tree did not. FST values for neutral loci were 0.05 for lakes and 0.02 for streams (P < 0.01). We tested for IBD and IBA for the different class of loci using Mantel and partial Mantel tests (Table 2). The nonoutlier loci showed a significant pattern of IBD according to simple Mantel test with Euclidian geographic distance and in a
+partial Mantel with geography and controlling for habitat type. We also detected some IBA at nonoutlier loci when testing for correlations with morphology (P = 0.03 and P = 0.06 for simple and partial Mantel tests controlling for geography, respectively). As expected, a strong and significant IBA pattern on habitat-specific outliers for morphology and habitat type was highlighted (P = 0.02 and P = 0.01, respectively), as well as a significant IBD pattern (P = 0.02). Finally, we found some but inconsistent evidence for IBD and IBA for habitat type on other outliers. Detailed results are reported in Table 2.
+Discussion
+We combined different methods to study phenotypic and genetic differentiation in European minnows (Phoxinus phoxinus) living in contrasting habitats (lakes and streams). We identified (i) different body shape between lake and stream fish, (ii) a set of candidate loci influenced by divergent selection in lake and stream populations, (iii) loci with significant association with environmental variables characterizing different habitats, which could be an additional source for divergent selection and (iv) patterns of IBD and IBA showing that both neutral processes and selection play a role in European minnow population differentiation.
+Morphological differentiation between lake and stream fish
+Different types of fish morphology were identified, corresponding to lake and stream environments. Lake
+ADAPTIVE DIVERGENCE IN EUROPEAN MINNOW 4497
+35 30
+25 22 20
+15
+10
+6
+5 0
+  32
+ 28
+    13
+16
+14
+10
+Neutral
+Other outliers
+11
+8
+5
+23233
+101011
+  10
+   7
+            Fig. 4 Frequency bar plot of the number of loci associated with environmental variables using MATSAM program. Black bars represent the number of loci from the ‘neutral’ class of loci detected with BAYESCAN associated with particular environmental variables, and grey bars reflect the number of loci associated with environmental variables for the ‘other outlier’ class of loci (nonhabitat-specific outlier loci) detected to be under selection with BAYESCAN. The other variables of the 20 measured in total (conductivity, dissolved oxygen, temperature, turbidity, geotechnic, slope, watershed variety, watershed majority) showed no association with AFLP loci.
+  (A) (B)
+Br
+Va Le Gr
+ Or IlGr 75
+     Lu
+100 Le La 63 100
+ Li
+997264Br Li83 Ta
+76
+100
+Or
+100
+Ic
+78
+100
+Lu
+ Ic
+95
+Il
+Va
+  Ta La
+Fig. 5 Neighbour-joining trees based on Nei’s genetic distances between populations for two classes of loci identified, A-Neutral loci and B-Habitat-specific outliers. Stream populations are circled. The numbers besides the nodes reflect bootstrap values.
+Ó 2011 Blackwell Publishing Ltd
+Latitude
+Longitude
+Number of frost days
+Coldest month temperature
+Diurnal range
+Primary productivity
+Soil pH Altitude Aspect Curvature Yearly rainfalls Watershed area
+Number of loci
+
+4498 H. COLLIN and L. FUMAGALLI
+Table 2 Results of simple and partial Mantel tests for IBD and IBA. R statistics are given, and P-values have been estimated with 999 permutations. R and P-values in bold indicate the relationships that are significant
+ IBD Simple
+Geography
+Nonoutliers
+R = 0.31
+Partial
+Geography controlling for habitat
+R=0.34
+IBA Simple
+Habitat Morphology R=0.02 R=0.37
+P=0.48 P=0.03 R=0.39 R=0.74
+      Geography controlling
+for morphology
+R=0.15 P=0.16
+R=0.29 P=0.05
+and stream P. phoxinus differ in body depth and caudal peduncle depth. The present study shows that lake minnows tend to have a deeper body, and stream fish a shallower body. This result is supported by the previous studies, showing that under different ecological conditions stream fish have a shallower body (Webb 1984; Ryder & Pesendorfer 1989; McLaughlin & Grant 1994; Brinsmead & Fox 2002; McGuigan et al. 2003). At least three main nonexclusive hypotheses could explain such a pattern of morphological differentiation between lakes and streams: (i) different diets between lake and stream fish, (ii) different predation regimes and (iii) different water velocity.
+First, feeding habits of P. phoxinus living in European lakes vs. streams have been sparsely but consistently documented (Frost 1943; Michel & Oberdorff 1995). Lake P. phoxinus were found to feed mainly on crustaceans (cladocerans) that are free-living organisms in the water column, but not on plants. Stream P. phoxinus were found to feed mostly on insect larvae and pupae (chironomids) that are living in the mud, sometimes on adult insects and plants. We detected a correlation between morphology (CV1) and environmental variables such as watershed area, soil pH, primary productivity and mean yearly rainfalls. Variations in these parameters in freshwater systems involve several changes along the food web and influence habitat complexity. This could result in diet differences between lake and stream fish, and consequently to variation in morphology, by affecting trophic-related traits. In particular, primary productivity has also been shown to affect fish metabolism, physiology and development, leading to differences in morphology (Roy et al. 2004; Sonin et al. 2007). In addition, differences in primary
+Partial
+Habitat controlling
+for geography
+R = )0.16 P = 0.15
+R = 0.23 P = 0.10
+R = )0.30 P=0.08 P = 0.01
+Morphology controlling
+for geography
+R=0.24 P=0.06
+R=0.63 P<0.01
+R=0.10 P=0.26
+ P=0.03 R = 0.48
+P = 0.01 R = 0.35
+P = 0.02
+IBA, isolation by adaptation; IBD, isolation by distance.
+P = 0.04 Habitat-specific outliers
+R = 0.39
+P = 0.02 Other outliers
+P=0.02 P=0.01 R = )0.18 R=0.22
+R = 0.26 P = 0.07
+R=0.17
+P=0.14 P=0.14
+ productivity, watershed area and soil pH in freshwater systems can affect community structure, and higher primary productivity favours the occurrence of salmoniformes fish species (Mehner et al. 2005). The presence of such fish species might increase predation pressures, known to have an impact on fish morphology. With high predation pressure, fish sometimes display deeper posterior bodies to increase burst swimming in the presence of predators (Walker & Bell 2000; Langerhans & DeWitt 2004; Langerhans 2008). Indeed, in the studied populations, predation by trout is higher in lakes than in streams owing to massive stocking with trout alevins in lakes (fish guards, personal communication). Finally, water velocity has been proposed as a main factor shaping morphology in fish. Two studies reported that body shape tends to be shallower in high-velocity water (streams in our case) potentially to reduce drag in the water column compared to low-velocity water (lakes), where fish show a deeper body (Langerhans et al. 2003; Haas et al. 2010). The variation in morphology between lakes and stream was strongly associated with several environmental variables characterizing each habitat type. As minnows are mainly found in streams at low altitude, and in lakes at high altitude, it is not surprising that CV1 was associated with variables such as the number of frost days, altitude, temperature and diurnal range temperature. An interesting feature of the morphological analysis is the heterogeneity in body shape observed within lakes partially explained by some environmental variables we measured (landscape curvature, landscape aspect and mean number of frost days). Nevertheless, other ecological characteristics that were not on focus in the present study might also influence within lakes morphological heterogeneity.
+Ó 2011 Blackwell Publishing Ltd
+
+Importantly, body shape differentiation between stream and lake minnows could be the result of heritable differences, phenotypic plasticity or, most likely, a combination of genetic and environmental effects (McGuigan et al. 2003; Ostbye et al. 2005; Sharpe et al. 2008; Haas et al. 2010; Pfenning et al. 2010; Hendry et al. 2011). However, we found IBA linked to fish morphology at all classes of loci, indicating a possible genetic basis to the morphological variation observed between lake and stream fish.
+Neutral and adaptive genetic divergence
+Using Bayesian approaches, we identified three categories of loci: neutral, habitat-specific outliers and other outliers. Separating loci potentially under divergent selection (to different habitats) from neutral loci allows the assessment of both neutral and adaptive genetic divergence in P. phoxinus populations. However, comparing neutral and outlier FST values between the present study and data from the literature is complex, as the background genetic divergence between species and between populations within a species is highly variable. Instead, the ratio of habitat-specific outliers FST to neutral FST could provide a better measure of adaptive and neutral genetic divergence and can be directly compared between studies. In our case, this ratio is 3.5, which is lower, but of similar magnitude to what was found in other studies using AFLP markers to test for genetic differentiation between populations occupying different habitats (Nosil et al. 2008; ratio = 4.8; Egan et al. 2008; ratio = 4.1; Galindo et al. 2009, ratio = 4.4).
+The present study revealed that 2.9% of loci (habitatspecific outliers) are potentially under divergent selection between lake and stream habitats. These results are consistent with past work using very similar approaches to examine parallel adaptive divergence in association with different ecological parameters (Wilding et al. 2001; Campbell & Bernatchez 2004; Bonin et al. 2006; Egan et al. 2008; Nosil et al. 2008; Paris et al. 2010). When examining NJ trees from neutral loci, complex neutral genetic structure is revealed, and populations are not clustered by ecology (lakes vs. streams), nor by geography, contrarily to the tree based on lake– stream-specific outliers. Such tree pattern has already been shown in other genome scans exploring different ecological conditions, for example in parapatric morphs of Littorina saxatilis (Wilding et al. 2001).
+We also found ‘other outliers’ (6.6% of all loci) potentially being under divergent selection. These loci have a global FST of similar magnitude to the FST values associated with habitat-specific outliers. Therefore, lake and stream habitat might not be the only potential source of selection causing adaptive divergence in the
+studied populations. In fact, lakes and streams differ in several environmental characteristics. We tried to identify these additional potential pressures associated with different habitats by correlating 20 environmental variables, characteristic of each population, with genetic data. We found a total of 76 loci (42 other outliers and 34 neutral loci) associated with one or several environmental variables (Fig. 4). Several loci, mainly other outliers, were linked to altitude (mean number of frost days per year, coldest month temperature, mean diurnal temperature range and altitude). European minnows are distributed along a wide range of altitudes and therefore could have adapted to specific altitudinal ecological conditions. Moreover, we highlighted a correlation between environmental variables involved in freshwater trophic dynamics (primary productivity, soil pH, yearly rainfalls and watershed area), essentially other outlier loci. As mentioned above, we identified morphological variation between lake and stream fish potentially attributable to different diet. These results suggest that trophic adaptation might not only be of particular importance in shaping phenotypic divergence in minnow populations, but also genetic differentiation. In particular, primary productivity has an influence on fish community composition and abundance and potentially determines minnow population demographic and genetic structure through the production of differential prey resources (McCauley & Kalff 1981; Mehner et al. 2005; Weber et al. 2010). Two of 20 environmental variables highlighted potential influence of topography on population genetic differentiation. Landscape aspect and curvature are two measures of habitat morphology, which have an impact on fish population structure and density (Weber et al. 2010). Several nonoutliers and other outlier loci were associated with geography (latitude and longitude), suggesting a pattern of IBD and IBA between populations. Partial Mantel tests confirmed general, if somewhat variable, evidence of IBD and IBA at both neutral loci and other outliers, suggesting that divergent selection acting between and within habitats encouraged limited gene flow between P. phoxinus populations (Nosil et al. 2008; Thibert-Plante & Hendry 2010). In our case, IBA to lake–stream habitat and to morphology was found at habitat-specific outliers, as we could have expected, but the overall results suggest that habitat is certainly not the only selection force promoting genetic adaptive divergence in P. phoxinus.
+Conclusions and further directions
+The present work, based on an original combination of a genome scan approach and morphometrics, presents strong evidence for morphological and adaptive genetic
+Ó 2011 Blackwell Publishing Ltd
+ADAPTIVE DIVERGENCE IN EUROPEAN MINNOW 4499
+
+4500 H. COLLIN and L. FUMAGALLI
+divergence in European minnows associated with fragmented and ecologically different habitats. This is of particular importance as the European minnow is a key species in freshwater systems in Europe, and its genetic characteristics have received little attention so far. Morphological variation observed between lake and stream minnows in the Swiss Alps could be attributed to either phenotypic plasticity or heritable differences. To validate one of these two hypotheses, further work such as common garden experiments or translocations will be needed. The use of independent methods to detect as many ecologically relevant loci as possible, and identify potential selection pressures, provided a global understanding on the causes and consequences of divergent selection within and between habitats in Swiss Phoxinus phoxinus populations. We think that in the future, sequence analysis of outlier loci is needed to find (i) the physiological function of these outliers, (ii) particular traits underlying adaptive divergence in minnow’s ecotypes and finally (iii) selection at the sequence level on candidate loci.
+Acknowledgements
+We thank P. Christe, A. Hirzel, S. Joost, M. Kalbermatten, B. Langerhans, M. Paris, M. Pompini, D. Roy and W. Salzburger for help with analyses, S. Antoniazza, A. Brelsford, S.P. Egan, J. Galindo, J. Goudet, V. Helfer, A. Hendry, P. Nosil, J. Raeymaekers, P. Taberlet and E. Taylor for useful discussions, comments and reviews on the manuscript. We also thank the ‘‘Services de la Faune’’ from the cantons of Valais and Vaud, L. Anex, Y. Crettenand and J.M. Trolliet for help with sampling. This work was conducted in compliance with the Swiss laws on animal experimentation under authorization number 2049 delivered by the Swiss Veterinary Services. The study was supported by a Swiss National Science Foundation grant (3100A0-109852) to LF and a ‘‘Socie ́te ́ Academique Vaudoise’’ grant to HC.
+References
+Ó 2011 Blackwell Publishing Ltd

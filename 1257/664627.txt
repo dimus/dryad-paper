@@ -1,0 +1,399 @@
+  The University of Chicago
+The Role of Physical Barriers in the Location of Avian Suture Zones in the Guiana Shield, Northern Amazonia.
+Author(s): Luciano Nicolas Naka, Catherine L. Bechtoldt, L. Magalli Pinto Henriques, and Robb T. Brumfield
+Reviewed work(s):
+Source: The American Naturalist, Vol. 179, No. 4 (April 2012), pp. E115-E132 Published by: The University of Chicago Press for The American Society of Naturalists Stable URL: http://www.jstor.org/stable/10.1086/664627 .
+Accessed: 19/06/2012 12:50
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at . http://www.jstor.org/page/info/about/policies/terms.jsp
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+         http://www.jstor.org
+The University of Chicago Press, The American Society of Naturalists, The University of Chicago are collaborating with JSTOR to digitize, preserve and extend access to The American Naturalist.
+
+ vol. 179, no. 4 the american naturalist april 2012
+ E-Article
+The Role of Physical Barriers in the Location of Avian Suture Zones in the Guiana Shield, Northern Amazonia
+Luciano Nicolas Naka,1,* Catherine L. Bechtoldt,2 L. Magalli Pinto Henriques,3 and Robb T. Brumfield1
+1. Museum of Natural Science and Department of Biological Sciences, Louisiana State University, Baton Rouge, Louisiana 70803; 2. Programa de Colec ̧o ̃es e Acervos Cientı ́ficos, Colec ̧a ̃o de Aves, Instituto Nacional de Pesquisas da Amazoˆnia (INPA), Avenida Andre ́ Arau ́jo 2936, Bairro Petro ́polis, Manaus 69060, Brazil; 3. INPA, Avenida Andre ́ Arau ́jo 2936, Bairro Petro ́polis, Manaus 69060, Brazil
+Submitted July 28, 2011; Accepted November 28, 2011; Electronically published February 29, 2012
+Online enhancements: appendix table and figures, PDF file. Dryad data: http://dx.doi.org/10.5061/dryad.tr94hm86.
+ abstract: Suture zones represent natural forums in which to examine the role of geography and ecology in the speciation process. Here, we conduct a comparative analysis designed to investigate the location of avian phylogeographic breaks and contact zones in the Guiana Shield, northern Amazonia. We use distributional and genetic data from 78 pairs of avian taxa to address whether phylogeographic breaks and contact zones are associated with contemporary landscape features. Using spatially explicit statistical models, we found that phylogeographic breaks and contact zones are not randomly distributed throughout the landscape. In general, geographic breaks cluster along physical barriers (rivers, nonforested habitats, and small mountain ranges), whereas contact zones aggregate where these barriers either break down or are easier to overcome, such as around rivers’ headwaters. Our results indicate that although major Amazonian rivers are often key determinants of taxon boundaries, the “riverine barrier effect” is a synergistic consequence of the wide lower reaches of some rivers, coupled with nonriverine landscape features at the headwaters. Our data suggest that ancestral refugia are not necessary to explain current distribution patterns and that pairs of codistributed taxa do not seem to be the result of simultaneous diversification processes.
+Keywords: biogeography, contact zones, hybrid zones, mid-domain effect, phylogeographic breaks.
+ speciation process itself. Suture zones, geographic regions containing disproportionally high numbers of phylogeographic breaks, contact zones, and hybrid zones (Anderson 1948; Remington 1968; Swenson and Howard 2004, 2005), represent natural forums to examine the comparative role of geography and ecology in the speciation process. Within suture zones, genetically distinct populations either remain physically isolated along sharp geographic breaks or come into contact. In contact, pairs may remain reproductively isolated or hybridize. The most important feature of suture zones, however, is that they offer complementary views of the historical and contemporary factors affecting the generation and maintenance of species diversity, relying on multiple and independent evolutionary lineages.
+The location of suture zones and their relationship to the origins and rearrangements of species distributions have captured the attention of biologists in temperate regions since the mid-twentieth century, when Anderson (1948) suggested that North American hybrid zones cluster in hybrid landscapes. Such landscapes could result either from human interference or from natural transitional areas, such as environmental ecotones (Barton and Hewitt 1985). Remington (1968) proposed that hybrid zones should cluster along foothills or mountain passes, which are presumably midpoints between past putative refugia, following postglacial biological expansions. Further research on hybrid zones supported these ideas and invoked similar causes for the location of suture zones in Europe and North America (Hewitt 1996, 1999). Studies have consistently pointed to historical climatic changes and physical barriers as responsible for current distribution patterns at temperate latitudes (Hewitt 2004; Peters et al. 2005; Swenson and Howard 2005; Price 2010; Sonsthagen et al. 2011).
+In Amazonia, where mountain ranges do not represent major biogeographical barriers and ice sheets did not affect the landscape directly (Bush 1994; Colinvaux et al. 2000),
+ Introduction
+Speciation by geographic isolation is considered the main mode of diversification in vertebrates (Mayr 1963; Coyne and Orr 2004; Price 2008). Therefore, understanding how geographic and ecological landscape features inhibit dispersal and gene flow is vital to gaining insight into the
+  * Corresponding author. Present address: Centro de Estudos da Biodiversidade, Universidade Federal de Roraima, Boa Vista, Brazil; e-mail: lnaka1@ lsu.edu.
+Am. Nat. 2012. Vol. 179, pp. E115–E132. 􏱞 2012 by The University of Chicago. 0003-0147/2012/17904-53219$15.00. All rights reserved.
+DOI: 10.1086/664627
+ 
+ E116 The American Naturalist
+ wide Amazonian rivers have been invoked as barriers to dispersal and their narrow headwaters as natural places where parapatric taxa could come into secondary contact (Wallace 1852; Sick 1967; Hershkovitz 1977; Capparella 1988; Ayres and Clutton-Brock 1992). Geographic expansions from past forest refugia have also been suggested to be important in the current distribution of contact zones, particularly within interfluvia and at the headwaters of large Amazonian rivers (Haffer 1969, 1974; Brown and Ab’Saber 1979).
+A prominent avian suture zone was recently characterized in the Guiana Shield, northern Amazonia, where two distinct avifaunas come into contact (Naka et al. 2006; Naka 2011). In the region bounded by the Rio Negro and the Rio Branco (fig. 1), approximately 100 pairs of closely related forest-dwelling avian taxa replace one another geographically (Haffer 1974; Naka 2011). Haffer (1974, 1987) noted that these two river drainages held “many contact zones” and separated “conspicuously different eastern and western populations.” However, the importance of this region is emerging only now as more data accumulate on species distributions.
+Here, we make use of this extraordinary biogeographical setting, in one of the most biologically diverse regions on earth, to conduct a comparative analysis designed to pin down the location of avian phylogeographic breaks and contact zones and to study the role of rivers and other nonriverine landscape features in determining their geographic positions. We use distributional and genetic data from pairs of taxa that replace each other in the terra firme forests of the Guiana Shield to address whether geographic breaks and contact zones are randomly distributed across the landscape, are associated with contemporary landscape features, or can be explained by the geometric constraints of the landscape. These data are then used to assess common patterns of phylogeographic replacements and to investigate which areas appear to be potential contact zones, where further studies should be directed. Finally, we analyze our results in light of current models of Amazonian diversification and hypothesize as to whether the described distribution patterns are the result of simultaneous diversification processes.
+Methods
+Study Area
+The Guiana Shield is a vast (2.5 million-km2) area situated atop heavily weathered Precambrian rocks that cover much of northern South America, north of the Amazon and the Japura ́-Caqueta ́ rivers and east of the llanos of eastern Venezuela and Colombia (fig. 1; Osmonson et al. 2000; Hammond 2005). The Guiana Shield contains some of the
+ world’s last pristine lowland forests, primarily because of the low human population density, which is comparable to that found in Siberia or northern Canada (Hammond 2005). The region is also environmentally and topographically complex, with flooded forests (va ́rzeas and igapo ́s), the largest patches of savannas and white-sand forests (campinas and campinaranas) known in Amazonia, and the spectacular tabletop mountains known as tepuis. Within the Guiana Shield, which is a geological unit, there are at least four described areas of avian endemism (Cracraft 1985), including the Guianan area of endemism, which occupies the eastern half of the geological area (fig. 1; Naka 2011). Other described areas of endemism within the Guiana Shield are the Imer ́ı, the Jau ́ , and the Pantepui (Cracraft 1985; Borges and da Silva 2012). The large interfluvium delimited by the Rio Branco (the westernmost boundary of the Guianan area of endemism) and the upper Rio Negro and Orinoco has been recently described as an avian transitional zone, not included within any area of endemism (Naka 2011).
+Selection of Taxa and Distributional Database
+At least 88 avian taxa are endemic to the terra firme forests of the Guianan area of endemism (Naka 2011). Most of these endemics form pairs of allopatrically or parapatrically distributed taxa, in which closely related species or subspecies replace each other along the edges of this area of endemism. This study is based on the distribution patterns of 78 pairs of taxa, 61 of which are supported by both phylogenetic and phenotypic data; 17 are supported by phenotypic data only. To assess whether phenotype is an adequate proxy for genotype, we determined whether phenotypically distinct populations also formed reciprocally monophyletic clades (see “Molecular Data and Phylogenetic Analyses”). We interpreted the formation of phenotypically similar clades as evidence of congruence in the signals of the genotypic and phenotypic data sets. We assembled an approximately 28,000-record distributional data set based on museum specimens, published sources, audio recordings, and data obtained from our own fieldwork in the region. For a detailed description of the database and its sources, see Naka (2011). Georeferenced distributional data were archived in Microsoft Access 2007 and imported into ArcGIS 9.3.1 (Environmental Systems Research Institute [ESRI], Redlands, CA) to build distribution maps.
+Molecular Data and Phylogenetic Analyses
+We obtained tissue samples of 122 avian taxa (61 pairs) from throughout the Guiana Shield, including the Guianan, Jau ́, Napo, and Imerı ́ areas of endemism and the
+ 
+ Amazonian Suture Zones E117
+ Figure 1: General location of the Guiana Shield (outlined in yellow) in northern South America, as defined by Osmonson et al. (2000). Four lowland areas of endemism—the Guianan, the Imerı ́, the Napo, and the Jau ́ —are located within the Guiana Shield geologic unit. The light-blue area with the dashed outline represents an area of overlap between the Napo and Jau ́ areas (Borges and Silva 2012). The Pantepui area of endemism, restricted to montane areas, is not shown.
+ transitional zone between the Branco and Negro rivers. Samples were either collected by L.N.N. or borrowed from museum collections (as noted in the acknowledgments). We also downloaded available sequences from GenBank when appropriate (data available online). All samples used in this study have associated vouchers in museum collections. We used an average of 14 􏱠 4.7 individuals per pair for our analyses (table 1; a list of samples is available online). We added at least two closely related outgroup species per pair of taxa to root the trees in phylogenetic analyses.
+To obtain a common measurement of genetic structure across a wide array of taxa, we sequenced the complete protein-coding mitochondrial gene NADH dehydrogenase subunit 2 (ND2). This gene is well suited for assessing population structure in both recently diverged and older avian taxa (Price 2008; Zink and Barrowclough 2008). Although using a single locus has inherent limitations, particularly because of the stochastic nature of gene coalescence (Edwards and Beerli 2000; Arbogast et al. 2002; Brumfield et al. 2003), we opted for maximizing the taxonomic breadth and the number of samples of this study over collecting data from more loci. The effect of using a
+ single locus in our study was to make the statistical tests conservative, because any significant signal would have to overcome the vast noise introduced by coalescent stochasticity. More practically, because the coalescent times of nuclear genes are, on average, four times as long as those of the mitochondrion, a multilocus approach would have required a large number of independent loci to identify the phylogeographic structure of recently diverged populations. This was beyond the scope of our study.
+Genomic DNA was extracted from ∼25 mg of fresh tissue with Qiagen DNeasy Tissue Kits, following the manufacturer’s instructions (QIAGEN, Valencia, CA). The complete ND2 gene was amplified according to standard PCR protocols with the following primers: L5215 for the light strand (Hackett 1996) and H6313 for the heavy strand (Sorenson et al. 1999). Internal primers (H5766 and L5758) were used when needed to resolve ambiguous reads (Sorenson et al. 1999). PCR amplifications were performed in 25-mL volumes consisting of 2.5 mL of template DNA (∼50 ng), 1 mL of each primer (10 mM), 1 mL of dNTPs (10 mM: 2.5 mM each of dATP, dTTP, dCTP, and dGTP), 2.5 mL of 10# reaction buffer with MgCl2 (15 mM), 0.1 U of Taq DNA polymerase (5 U/mL AmpliTaq, Applied
+ 
+       E118
+Table 1: Seventy-eight pairs of avian taxa showing patterns of geographic replacement in the terra firme forests of the Guiana Shield. Corrected genetic distance
+Family, pair of taxa (east/west)
+Reciprocal monophyly
+(east/west)
+Psophiidae:
+Psophia crepitans crepitans/P. c. ochroptera-napensisc
+N
+Yesd
+Psittacidae:
+Brotogeris chrysoptera/Brotogeris cyanopterae Pyrilia caica/Pyrilia barrabandi
+BN 1.99 B 7.83
+(.30) (.57)
+.27 (10) 1.09 (7)
+.50 (9) .60 (5)
+Yes Yes
+79/97 100/80
+Trochilidae:
+Topaza pella/Topaza pyra
+Phaethornis superciliosus superciliosus/P. s. insolitus Thalurania furcata furcata/T. f. nigrofasciataf
+BN 7.63 N 10.82 B 5.74
+(.16) (.27) (.13)
+.98 (3) .17 (12) .18 (6)
+.06 (6) .02 (10) .16 (6)
+Yes Yes Yes
+85/99 78/100 99/100
+Trogonidae:
+Trogon rufus rufus/T. r. sulphureusc
+B 1.89 N 2.33
+(.10) (.20)
+.00 (2)
+.43 (5) .20 (4)
+Yes Yes
+100/100
+Momotidae:
+Momotus momota momota/M. m. microstephanus
+1.01 (9)
+71/79
+Galbulidae:
+Galbula albirostris albirostris/G. a. chalcocephala Galbula dea dea/G. d. brunneicepsc,f
+B 7.67 B 8.17
+(.37) (.31)
+.26 (6) .26 (8)
+.67 (14) .14 (4)
+Yes Yes
+100/82 99/100
+Bucconidae:
+Notharchus macrorhynchos/Notharchus hyperrhynchus Monasa atra/Monasa morphoeuse
+B
+BN 8.45
+(.19) (.23)
+.13 (3) .65 (3)
+.85 (4) 3.44 (3)
+Yes Yes
+96/05 94/100
+Capitonidae:
+Capito niger/Capito auratus
+B 7.65
+Ramphastidae:
+Ramphastos tucanus tucanus/R. t. cuvieri Ramphastos vitellinus vitellinus/R. v. culminatus Selenidera piperivora/Selenidera nattereri Pteroglossus aracari/Pteroglossus pluricinctus
+B B B
+Picidae:
+Veniliornis cassini/Veniliornis affinise
+Piculus flavigula flavigula/P. f. magnus Celeus undatus/Celeus grammicus
+Celeus elegans elegans/C. e. jumanus
+Celeus torquatus torquatus/C. t. occidentalis
+BN 8.50 N 1.97 B 1.95 B .77
+(.07) (.09) (.11) (.16) (.16)
+.23 (6) .06 (9) .08 (2) .10 (2) .59 (7)
+.10 (2) .27 (7) .17 (10) .36 (10) .10 (2)
+Yes Yes No No Yes
+98/100 100/55
+Furnariidae:
+Synallaxis rutilans dissors/S. r. confinis Automolus infuscatus cervicalis/A. i. badius
+N 1.67 B 3.65
+(.10) (.12)
+.18 (10) .26 (4)
+.26 (6) .64 (10)
+No Yes
+Location of breaka
+Between populations (SD)
+(sample East
+size) West
+Relationship between phenotype and genotypeb Bootstrap support
+BN 2.76
+(1)
+(1)
+BN 1.12
+72/69 97/100
+Within populations
+
+  E119
+Automolus rubiginosus obscurus/A. r. venezuelanus B
+Xenops minutus ruficaudus/X. m. remoratus Dendrocolaptidae:
+N 6.34 (.11)
+.18 (25)
+.04 (5) Yes
+100/100
+Dendrocincla fuliginosa fuliginosa/D. f. phaeochroa
+Dendrocincla merula merula/D. m. bartletti
+Sittasomus griseicapillus axillaris/S. g. amazonusf
+Glyphorynchus spirurus spirurus/G. s. rufigularis
+Dendrocolaptes certhia certhia/D. c. radiolatus
+Dendrocolaptes picumnus picumnus/D. p. validus N
+.06 (11)
+1.91 (20) Yes .63 (4) Yes
+100/90 99/87
+Xiphorhynchus pardalotus/Xiphorhynchus ocellatus Xiphorhynchus guttatus polystictus/X. g. guttatoidese Lepidocolaptes albolineatus albolineatus/L. a. duidae
+N 5.26 (.18) BN 6.36 (.40) B 6.90 (.78)
+.25 (9) .63 (12) .16 (5)
+.45 (4) Yes .42 (7) Yes .84 (6) Yes
+99/100 100/100 100/96
+Thamnophilidae:
+Cymbilaimus lineatus lineatus/C. l. intermedius
+Frederickena viridis/Frederickena unduligera N
+.16 (5)
+.53 (8) Yes
+100/88
+Thamnophilus murinus cayennensis/T. m. murinus
+Thamnophilus amazonicus divaricatus/T. a. cinereiceps
+Epinecrophylla gutturalis/Epinecrophylla haematonota
+Myrmotherula guttata/Myrmotherula hauxwelli
+Myrmotherula axillaris axillaris/M. a. melaenae
+Myrmotherula menetriesii cinereiventris/M. m. pallida B
+2.17 (2) Yes .99(7) No
+95/100 100/100 100/100
+Hypocnemis cantator/Hypocnemis flavescens
+Cercomacra cinerascens immaculata/C. c. cinerascens
+Cercomacra tyrannina saturatior/C. t. tyranninae
+Myrmoborus myotherinus ardesiacus/M. m. elegansc
+Percnostola rufifrons rufifrons/P. r. minor
+Schistocichla leucostigma leucostigma/S. l. infuscata
+Pithys albifrons albifrons/P. a. peruvianus
+Gymnopithys rufigula/Gymnopithys leucaspis
+Willisornis poecilinotus poecilinotus/W. p. duidaee
+Grallaria varia varia/G. v. cinereiceps B
+.81 (12) .06 (6) .08 (17) .05 (5) .24 (9) .12 (4) .24 (16) .48 (13) .77 (10)
+.16 (20) Yes .14 (10) Yes .16 (5) Yes
+100/100 93/86 100/95 77/98 100/96 99/100
+Formicariidae:
+Myrmothera campanisona campanisona/M. c. dissors
+B 2.84 (.13)
+.19 (3)
+.24 (4) Yes
+90/99
+Tyrannidae:
+Zimmerius acer/Zimmerius gracilipese
+Hemitriccus zosterops rothschildi/H. z. zosterops
+Todirostrum pictum/Todirostrum chrysocrotaphum N
+.38 (8) .85 (7)
+.63 (12) Yes .40 (4) Yes
+63/93 68/100
+Tolmomyias assimilis neglectus/T. a. examinatus Tolmomyias poliocephalus sclateri-klagesi/T. p.
+B 5.31 (.22)
+.29 (9) .19 (6)
+.08 (5) Yes
+100/100 99/99
+poliocephalusc,f
+Platyrinchus coronatus gumia/P. c. coronatus BN
+.17 (2) Yes
+Onychorhynchus coronatus coronatus/O. c. castelnaui Terenotriccus erythrurus erythrurus/T. e. venezuelensis
+N 8.18 (.17) BN 8.15 (.87)
+.15 (3) .19 (3)
+.58 (4) Yes 2.08 (5) Yes
+100/100 91/100
+B 6.05 (.17) B 4.37 (.07) N 1.63 (.17) B 8.53 (.23) N 2.14 (.35)
+.11 (7) (1) .37 (6) .77 (6)
+.16 (16) Yes .10 (10) Yes .82 (5) No
+100/97 100/100
+B 2.73 (.16)
+N 1.95 (.12) B 4.29 (.17) B 7.36 (.13) N 9.08 (1.04)
+.12 (11) .57 (4) .26 (4) .19 (2) .31 (18)
+.09 (10) Yes .10 (15) Yes .12 (6) Yes
+100/93
+BN 1.18 (.70)
+B 9.04 (.73)
+B 1.95 (.27) BN 1.88 (.10)
+N 2.72 (1.24) B 5.35 (.15) B 1.9
+N 1.26 (.17) N 2.29 (.58)
+2.20 (8) Yes .13 (7) Yes .09 (2) Yes .32 (13) No .58 (9) No .49 (23) No
+BN 10.82 (.76)
+BN 12.93 (.47) B 1.23 (.43)
+N 2.98 (.13)
+
+        E120
+Table 1 (Continued)
+Family, pair of taxa (east/west)
+Phoenicircus carnifex/Phoenicircus nigricollis
+Location of breaka
+Between populations (SD)
+East .25 (3)
+West 1.36 (5)
+Reciprocal monophyly Yes
+(east/west) 100/96
+Tyranneutes virescens/Tyranneutes stolzmanni Pipridae:
+B B
+11.34 (.46)
+Lepidothrix serena/Lepidothrix coronatac Tityridae:
+B
+Schiffornis turdinus turdinus/S. t. amazonus
+B BN
+9.69 (.18) 8.75 (.22)
+.12 (14) .14 (3)
+.20 (12) .15 (4)
+Yes Yes
+100/100 99/100
+Iodopleura fusca/Iodopleura isabellae Incertae sedis:
+Piprites chloris chlorion/P. c. tschudiic Vireonidae:
+N
+1.65 (.20)
+.19 (4)
+1.23 (4)
+No
+Hylophilus muscicapinus/Hylophilus hypoxanthus
+N B
+11.34 (.71) 13.34 (.82)
+.83 (6) .51 (7)
+.13 (3) .57 (13)
+Yes Yes
+73/100 100/98
+Hylophilus ochraceiceps luteifrons/H. o. ferrugineifrons Troglodytidae:
+Microcerculus bambla bambla/M. b. albigularis-caurensis
+B B
+10.13 (.47) 12.89 (.68)
+.06 (3) 1.44 (7)
+.51 (7) .98 (13)
+Yes Yes
+100/100 100/100
+Pheugopedius coraya coraya/P. c. griseipectus Polioptilidae:
+Microbates collaris torquatus/M. c. collarisc,f
+B B
+2.99 (.32)
+.38 (2)
+1.20 (12)
+Yes
+100/100
+Polioptila guianensis guianensis/P. g. facilisc Thraupidae:
+Tachyphonus surinamus surinamus/T. s. brevipes Tangara mexicana mexicana/T. m. media Hemithraupis flavicollis flavicollis/H. f. aurigularis
+BN B B
+1.52 (.13) 5.01 (.07) 6.94 (.01)
+.31 (6) (1) .00 (2)
+.29 (9) .10 (2) .39 (3)
+Yes Yes Yes
+75/64 100/98 100/100
+Fringillidae:
+Euphonia cayennensis/Euphonia rufiventris
+B
+a Location of break according to phylogenetic and phenotypic data. When no genetic data is presented, phenotypic data alone were used.
+b We tested for reciprocal monophyly among similar-looking populations. The existence of reciprocal monophyly suggests concordance between phenotypic and genotypic patterns, where absence of monophyly suggests lack of concordance or introgression (also suggested by existence of putative hybrids). Bootstrap support is based on 100 replicates under a maximum likelihood approach (see “Methods”).
+c Pairs not used in the phenotypic-break analyses.
+d Genetic data from Ribas et al. (2012).
+e Pairs of taxa with breaks located within the Rio Branco/Rio Negro interfluvium, away from obvious physical barriers.
+f Location of break based on phylogenetic data alone, because phenotypic breaks were uncertain.
+Corrected genetic distance
+Within populations (sample size)
+Relationship between phenotype and genotypeb Bootstrap support
+
+ Amazonian Suture Zones E121
+ Biosystems [ABI], Foster City, CA), and 17.9 mL of sterile distilled H2O. Thermocycler protocols for PCR consisted of an initial denaturation of 2 min at 94􏱟C followed by 35 cycles of 30 s at 94􏱟C, 30 s at 50􏱟C, and 2 min at 72􏱟C, with a final extension of 5 min at 72􏱟C. PCR products were purified with 20% polyethylene glycol, and cycle sequence reactions were completed with a Big Dye terminator Cycle Sequencing Kit, version 3.1 (ABI). Cycle sequence reactions were cleaned with Sephadex (G-50 fine) columns and electrophoresed on an ABI 3100 Genetic Analyzer. Consensus sequences were compiled from both forward and reverse sequences, and complementary strands were aligned and edited with Sequencher, version 4.6 (GeneCodes, Madison, WI). The entire length of each sequence was examined by eye to confirm base calls and inspected carefully for gaps, insertions, or deletions. To corroborate the absence of pseudogenes, we confirmed that all codons translated into amino acids and that no stop codons occurred within open reading frames. Sequences have been deposited in GenBank under accession numbers JQ445210–JQ446040 (available online).
+To establish whether phenotypic breaks based on plumage were corroborated by genetic data, we reconstructed phylogenetic trees with maximum likelihood methods, using the Genious implementation of PHYML (Drummond et al. 2010; Guindon and Gascuel 2003). We determined whether the deepest split among populations coincided with putative physical dispersal barriers, such as mountain ranges, rivers, and nonforested habitats. Optimal finitesites substitution models of DNA evolution for each pair were determined with the Akaike Information Criterion (AIC), as implemented in MODELTEST 3.6 (Posada and Crandall 1998; see Naka 2010). Average levels of pairwise uncorrected and corrected genetic distances (including calculations for input into MODELTEST), standard deviations, means, and medians were calculated directly from the distance matrices obtained with PAUP*4.0 (Swofford 2001). Because mean values of uncorrected and corrected genetic distances were positively correlated (Pearson’s product-moment correlation: 0.97; t62 p 29.6, P ! .0001), we present only corrected values. Statistical analyses were performed with R (R Core Development Team 2008) unless otherwise stated.
+Location of Phenotypic Breaks and Contact Zones
+We used the distributional database presented by Naka (2011) to map the location of geographic breaks and contact zones. Geographic breaks were determined by including locality data for each pair of taxa in a single map and then drawing a polygon to connect the easternmost (for western taxa) and westernmost (for eastern taxa) records of each pair with the minimum-convex-polygon
+ method (Swenson 2008). Given incomplete sampling and large gaps without records for some taxa, we had to exclude nine pairs from the break analyses (see table 1). We found that polygons represent breaks better than lines for our data set; because of incomplete sampling, polygons can incorporate the uncertainty associated with the exact position of the break.
+Pairs were considered “in contact” when (1) specimens or field observations documented that the two taxa occur in syntopy (actual contact), (2) both taxa were found at nearby localities (!20 km apart) in a continuous habitat (virtual contact), or (3) phenotypically intermediate birds (i.e., birds with intermediate plumage patterns or coloration, suggesting hybridization) were reported in the literature (e.g., Zimmer 1934; McCarthy 2006; del Hoyo et al. 1992– 2008) or found in ornithological collections. For intermediate-looking specimens found in collections, we restricted our analyses to areas located in the geographically intervening regions between two taxa ranges (parapatric-contact zones). In cases where we found a large amount of morphological variation within the range of a given taxon, we did not include intermediate birds as putative hybrids, and in many cases we even excluded those taxa as potential pairs (see table A1, available online). To assess potential areas of contact, we also included pairs of taxa that occur in continuous habitats within a distance of less than 100 km, but these were analyzed separately. To map contact zones, we created circular buffers of radius 50 km around points of contact (location of sympatry, locality for a putative hybrid, or the midpoint between nearby localities) and used these circles in the spatial analyses.
+Spatial Clustering of Phenotypic Breaks and Contact Zones
+We used two methods to assess whether geographic breaks and contact zones were geographically clustered across our study area: (1) the Getis-Ord statistics (Getis and Ord 1992; Ord and Getis 1995) and (2) a recently developed algorithm based on cellular automata (Gotelli et al. 2007). The Getis-Ord general G (global) statistic, which has been used to map suture zones in North America (Swenson and Howard 2004, 2005; Rissler and Smith 2010), identifies whether high or low grid-cell values cluster across the landscape. The local G statistic identifies the location of these potential clusters. Both global and local G were calculated in ArcGIS, version 9.3.1 (ESRI). To conduct these analyses, we converted phenotypic breaks (polygons) and contact zones (50-km-radius circles) into raster layers at a resolution of 5-km2 cells (0.0450􏱟). Overlaying the raster layers for each pair of taxa produced a map layer containing the number of breaks or contact zones as a value for each cell in the landscape. Separate map layers were created for phenotypic breaks and contact zones. In both
+ 
+ E122 The American Naturalist
+ analyses, each pair of taxa contributed a single layer, which could vary in size (breaks) but had an equal weight in the analyses. Rasters were then converted to features to calculate global and local Getis-Ord statistics with the Spatial Statistics Tools in ArcGIS. The cellular-automata method, implemented in BioGeoSim (Gotelli et al. 2007), has been used to test for the mid-domain effect and effects of environmental gradients on species diversity (Rahbek et al. 2007), and it has been recommended as a way to test for spatial clustering of species distributions (Swenson 2008). BioGeoSim simulates the stochastic origin and spread of a species’ geographic range in a landscape, using dispersal algorithms and assuming the geometric constraints of the study area (Jetz and Rahbek 2001; Rahbek et al. 2007). We used geographic-break and contact-zone polygons, rather than species ranges, in the BioGeoSim analyses. We used the spreading-dye dispersal algorithm to generate a null distribution of two-dimensional simulated breaks and contact zones that could be compared to the empirical data. BioGeoSim places a point randomly in the study area and allows it to grow in random directions until it reaches the same size as each of the observed ranges. In this way, the program creates a set of polygons with random shapes and locations but with the same size distribution as the observed species pairs. BioGeoSim then sums overlapping polygons, resulting in an estimate of the statistical expectation of overlap for breaks or contact zones (two separate analyses in our study) in each grid cell. We assumed a homogeneous landscape, where a simulated range can expand to each cell with equal probability, and we also separately evaluated a situation in which the spread of simulated breaks and contact zones varied, depending on the amount of forest cover in neighboring cells (Rahbek et al. 2007), classified on the basis of MODIS leaf area index (LAI) annual maximum values (Myneni et al. 2002; Saatchi et al. 2008; see fig. A1, available online). LAI values ranged from 0 to 67 across our study area, and we converted these values to probabilities by dividing each cell’s LAI value by the maximum within our study area. Cells with probability values of 0 were given a value of 0.01 to distinguish them from regions outside our study area in BioGeoSim simulations. For simulations of the spread of phylogeographic breaks, probabilities ranged from 0.01 for forested cells with the greatest LAI values to 1.0 for nonforested cells with low LAI values (breaks are more likely to spread across nonforested habitats). For simulations of contactzone spread, probabilities ranged from 1.0 for spread to the most-forested cells to 0.01 for spread to nonforested cells (contact zones are more likely to occur in forested habitats). We used 300 repetitions, 1,000 iterations, a constant random-number seed for all analyses, and an 8-cell contiguous dispersal pattern across a 10-km2-resolution grid (166 # 278 cells). A goodness-of-fit deviation statistic
+ was calculated by comparing the observed matrix to each of the expected-richness matrices (􏷳(observed richness 􏱛 expected richness)2). The standardized effect-size reports how many standard deviations the observed deviation statistic is from the average null deviation statistic, and the r2 shows how well the average simulated model explains the observed richness distribution. Null models successfully explaining observed distribution patterns should have r2 and slope values close to 1.0. BioGeoSim also allowed us to test whether the observed distribution of breaks and contact zones across the study area could be explained by the geometrical phenomenon of shapes clustering near the center of a study area, or the “mid-domain effect” (Colwell and Hurtt 1994; Colwell et al. 2004). For simplicity, we present our clustering analyses as summarized hotspot maps for contact zones and breaks, created by overlaying break and contact-zone rasters for each pair of taxa. Local G-statistic outputs are available in figures A2 and A3, available online.
+Results
+Phylogeographic Patterns
+We identified 78 pairs of forest-dwelling avian taxa (24 species pairs and 54 subspecies pairs, from 22 families) that show patterns of geographic replacement in the Guiana Shield, as suggested by breaks in genetic and/or phenotypic variation (table 1). An additional 25 pairs of taxa that also have described phenotypic variation in the region were excluded from the analyses because (1) morphological differences were ambiguous (i.e., specimens could not be separated with confidence in the hand) or (2) we lacked sufficient distributional data to create reliable maps (table A1).
+Using all available evidence (distributional and phylogenetic data), we recovered three consistent replacement patterns. While most (76 of 78) pairs of taxa replace one another along the lower Rio Negro, only ∼25% of them (21 pairs) are also separated by the upper portions of that river (table 1). Among the 55 pairs that are divided by the lower but not the upper Rio Negro, most (42) are separated by another large river, the Rio Branco, and its associated savannas (the Roraima-Rupununi savannas and the Gran Sabana; table 1). The remaining 13 pairs replace one another within the Rio Branco/Rio Negro interfluvium (table 1; fig. 2). Two additional pairs not divided by the lower Rio Negro (Brotogeris chrysoptera/Brotogeris cyanoptera and Myrmotherula axillaris axillaris/M. a. melaena) also have their breaks located within the Rio Branco/Rio Negro interfluvium.
+These patterns remain similar when phylogenetic data alone are used (table 1; fig. 2). The lower Rio Negro represents the most important phylogeographic break in the
+ 
+ Amazonian Suture Zones E123
+ Figure 2: Three main phylogeographic patterns among 61 pairs of avian taxa in the lowland terra firme forests of the Guiana Shield. Three examples of actual trees are presented for each pattern. Each branch tip represents a single individual, whereas the deepest node (depicted by the B [Branco], N [Negro], or BN [Branco/Negro]) had bootstrap support higher than 85% (100 replicates).
+  Guiana Shield (dividing genetically distinct populations of 59 out of 61 pairs of taxa). Farther upstream, however, the middle and upper Rio Negro constitute a far weaker phylogeographic barrier for birds, bounding only 17 pairs of
+taxa (fig. 2A). The Rio Branco and associated savannas cluster 31 phylogeographic breaks (fig. 2B), whereas 13 pairs exhibit phylogeographic breaks within the Rio Branco/Rio Negro interfluvium (fig. 2C). In all 61 cases, phylogeo-
+ 
+ E124 The American Naturalist
+ graphic breaks were accompanied by diagnosable phenotypic breaks, and in general, phenotypically distinct populations were also reciprocally monophyletic in terms of their mitochondrial DNA (mtDNA; table 1). We found that phenotypically distinct populations were not reciprocally monophyletic in 9 of the 61 cases but that in general, the nonmonophyly applied to a single misplaced individual. Five of these nine cases occurred in pairs that seem to hybridize or show signs of introgression elsewhere (table 1). The general concordance of phenotypic and genotypic patterns suggests that these two different sources of information validate each other and support a strong general pattern.
+Levels of genetic divergence (corrected values) across breaks ranged from 0.77% (between two subspecies of Celeus woodpeckers) to 13.3% (between two subspecies of Hylophilus greenlets; table 1). Mean levels of corrected genetic differentiation between species pairs (n p 17, range: 1.95–12.9, mean: 7.54􏱠3.16) were significantly higher than those between subspecies pairs (n p 44, range: 0.77–13.3, mean: 4.76 􏱠 3.48; unequal-samples ttest: t31.87 p 2.98, P p .005), although the distributions overlapped. The corrected genetic distances between taxon pairs were not significantly different among the three phylogeographic patterns (table 2; one-way ANOVA: F2,58 p 1.37, P p .26).
+Location of Geographic Breaks and Contact Zones
+Both the general G (Zg p 36.9, P ! .001) and cellularautomata approaches detected that geographic breaks in the Guiana Shield cluster along the lower Rio Negro, along the Rio Branco and in its associated open country (the aforementioned savannas), and on the middle Rio Negro, the Sierra de Lema, and the upper Rio Caron ́ı (fig. 3). Geographic breaks also occur within the Rio Branco/Rio Negro interfluvium (fig. 3). Cellular-automata results did not vary significantly between analyses using homogeneous backgrounds and those using LAI-classified backgrounds, so for this and all subsequent analyses we report only results from null simulations using the classified background, since it is more biologically relevant. The observed richness of breaks
+ per cell was consistently greater than randomly generated richness distributions (observed deviation statistic, 1.36 # 106; mean expected, 8.47 # 104; SD, 2.51 # 104; standardized effect size, 50.7), and null models were unsuccessful in explaining the observed distribution pattern of geographic breaks (slope p 0.718, r 2 p 0.0499). The null-model simulation also indicated that the mid-domain effect does not account for the distribution of breaks across the study area. Local Getis-Ord analysis revealed a significant spatial clustering of breaks along both the lower Rio Negro and the Rio Branco and its associated savannas (grid cells with Zgi ≥ 1.96, P ! .05; fig. A2). The region west of the Rio Branco, within the Rio Branco/Rio Negro interfluvium, also exhibited more breaks than expected by chance (Zgi ≥ 1.96, P ! .05).
+We found the highest numbers of contact zones and potential contact zones clustering in the Gran Sabana, the upper Rio Caron ́ı, the headwaters of the Orinoco and Negro rivers, and on the lower Rio Caura (fig. 4). Because we are interested in highlighting geographical areas that deserve further sampling and may represent important evolutionary hotspots, we include areas of potential contact in figure 4. These data incorporate localities where pairs occur within 100 km in continuous habitat, for a total of 27 pairs in potential contact, with 99 individual contact zones (each pair may have more than one area of contact; table A2, available in Dryad). This hotspot map highlights the importance of at least nine areas within the Rio Negro/Rio Branco interfluvium where future research should be directed.
+For spatial analyses, we excluded potential contact zones and found at least 21 pairs of taxa that appear to either hybridize or come into contact in the Guiana Shield (table A2, available in Dryad; fig. A2). We mapped 71 individual contact zones from these 21 pairs of taxa (some pairs come into contact in more than one location) and found significant clustering across the study area (Zg p 7.89; P ! .001; fig. A3). The observed number of contact zones per cell was consistently greater than the distribution generated in the cellular-automata approach (observed deviation statistic, 9.78 # 103; mean expected, 4.17 # 103; SD p 437,
+ Table 2: Summary statistics of pairwise genetic distance for 61 pairs of replacing taxa in the Guiana Shield
+  Location of phylogeographic breaka
+Lower Rio Negro
+Upper Rio Negro
+Rio Branco
+Rio Branco/Rio Negro interfluvium
+No. pairs
+59 17 31 13
+Range
+Genetic divergenceb Mean 􏱠 SD
+ .77–13.34 1.26–11.34 .77–13.34 1.12–12.93
+Median 5.60 􏱠 3.61 5.33
+4.33 􏱠 3.47 2.33 5.98 􏱠 3.43 5.74 6.10 􏱠 4.06 7.63
+ a Species were grouped per phylogeographic pattern (see fig. 2).
+b Genetic distances refer to corrected values and are expressed in percentage.
+ 
+ Amazonian Suture Zones E125
+ Figure 3: Geographical patterns of phenotypic breaks within the Guiana Shield (outlined in yellow), based on the overlap of the distributions of 69 pairs of avian taxa endemic to lowland terra firme forests. White lines refer to national borders. Warmer colors indicate a higher number of breaks. Localities and landscape features mentioned in the text include: 1, Roraima-Rupununi savannas; 2, Gran Sabana; 3, Sierra de Lema; 4, Rio Caron ́ı; 5, Rio Paragua; 6, Rio Caura; 7, upper Orinoco; 8, Yavita-Pimichim; 9, Can ̃o Casiquiare; 10, upper Rio Negro; 11, middle Rio Negro; 12, lower Rio Negro.
+ standardized effect size, 12.8). Randomly generated contact zones across our study area did not successfully explain observed patterns (slope p 􏱛2.49, r 2 p 0.0513). Similar to the break analysis, the mid-domain effect did not account for a significant amount of the variation in the distribution of contact zones across our study area. The local Getis-Ord analysis identified the headwaters of the Negro and the Orinoco as the region where contact zones cluster significantly more than expected at random (Zgi ≥ 1.96, P ! .05; fig. A3). Including potential contact zones in the analyses did not change the overall conclusions about clustering patterns but did emphasize the importance of the Gran Sabana, the Roraima-Rupununi savannas, and the lower Caura, in addition to the headwaters of the Negro and Orinoco rivers.
+Putative hybrids identified for 13 pairs (table A2, available in Dryad) are mainly located within the Gran Sabana and in the Rio Negro/Rio Orinoco headwater region. Putative hybrids were concentrated taxonomically into three
+ groups: toucans (three species, two in the genus Ramphastos), woodpeckers (four species, three in the genus Celeus), and thamnophilid antbirds (four species, three representing a single clade of ant-following antbirds). In addition, a woodcreeper (Xiphorhynchus guttatus) has been shown to have a well-defined hybrid zone on the upper Orinoco (C. A. Marantz, personal communication).
+Discussion
+Location of Geographic Breaks
+Large Amazonian rivers have been long recognized as important biogeographical barriers for vertebrates (Wallace 1852). Many studies have demonstrated that rivers help define avian distribution patterns (e.g., Haffer 1974; Capparella 1988; Hayes and Sewlal 2004), and not surprisingly, all Amazonian areas of endemism are defined by at least one large river (Cracraft 1985; Borges 2007; Naka 2011).
+ 
+ E126 The American Naturalist
+ Figure 4: Geographical patterns of potential contact zones within the Guiana Shield (outlined in yellow), based on the overlap of 100 individual contact zones identified in this study (data available in Dryad). Localities with a high number of potential contact zones (14) include Sierra de Pacaraima (1), Gran Sabana and upper Rio Caron ́ı (2), Rio Paragua (3), lower Rio Caura (4), Puerto Ayacucho (5), San Fernando de Atabapo (6), Yavita-Pimichim (7), San Carlos do Rio Negro (8), and Rio Ventuari–upper Orinoco (9).
+ Our results from the Rio Negro indicate that although major Amazonian rivers are often key determinants of taxon boundaries, this effect is largely restricted to the lower, wider reaches of the river.
+The Rio Negro appears to be a remarkable case, where only ∼25% of the taxa divided by its lower portions (which may reach up to 10 km in width in some parts) remain divided at the much narrower upper reaches of the river (∼1–2 km wide). Our data show that the Rio Branco, a poorly known and seldom cited Amazonian river, is an equally important barrier for the avifauna, dividing the ranges of at least 43 pairs of taxa (table 1). It is at the headwaters of those rivers that other landscape features, such as open country or small mountain ranges, become important in the location of phenotypic and phylogeographic breaks. Therefore, the Rio Negro’s “riverine barrier effect” is actually the cumulative effect of the wide lower reaches of the river and of other smaller riverine and nonriverine landscape features farther upstream.
+Our analyses revealed spatial clustering in the location of phenotypic breaks and contact zones, meaning that
+ these were not randomly distributed across the landscape. Furthermore, observed clustering could not be explained by the geographic constraints of the study domain (Colwell and Hurtt 1994; Colwell and Lees 2000). Lack of influence of the mid-domain effect was also evident in the location of contact zones in Palearctic hotspots (Aliabadian et al. 2005). Most of the breaks we identified were in fact associated with a feature of the landscape, but a small portion of the breaks (8 of 78 pairs) occurred in continuous forest within the Rio Branco/Rio Negro interfluvium.
+Phenotypic and phylogenetic breaks in the absence of geographic barriers have been reported elsewhere, but taxon replacements within interfluvia remain poorly documented in Amazonia, except for particular case studies (Haffer 1974; Isler and Whitney 2011). Explanations of such patterns generally come from three main perspectives: (1) a historical point of view implies that breaks should be located at midpoints of past forest refugia (Simpson and Haffer 1978; Hewitt 1999, 2000, 2004; Moritz et al. 2009); (2) an ecological standpoint suggests that poor habitat quality and ecological gradients may reduce individual
+ 
+ Amazonian Suture Zones E127
+ dispersal, even in continuous habitats (Endler 1977, 1982); and (3) a population genetics, stochastic perspective indicates that genealogies can be influenced by genetic drift and that phylogeographic breaks may arise in the absence of physical or ecological barriers (Irwin 2002). Although historical explanations seem likely in temperate regions, where glaciers clearly affected the landscape and their retreat allowed range expansions to occur (Webb and Bartlein 1992; Weir and Schluter 2004), it is unclear whether forest refugia and subsequent expansions could account for current distribution patterns in Amazonia. The idea that current suture zones in Amazonia are related to the original location between forest refugia dates back to the origins of the refuge hypothesis itself. Haffer (1969) proposed that during cold (and dry) periods of the Pleistocene (a date pushed back to the Tertiary in more recent works), Amazonian forest refugia were isolated within savannadominated landscapes. According to this hypothesis, subsequent forest expansions allowed animals and plants to expand their ranges, and assuming a relatively similar rate of dispersal between sister taxa, suture zones would tend to occur at midpoints between past refugia (Haffer 1969; Simpson and Haffer 1978). Although we did not include projections into past climates and geographies, our results strongly argue against this scenario; first, most pairs we studied (90% of our sample) have breaks associated with contemporary landscape features, and those few pairs that meet within the interfluvium differ widely in mtDNA sequence divergence (from 1.18% to almost 13%), suggesting a differential timing of diversification. Furthermore, the once-accepted notion that suture zones in birds (Haffer 1969, 1974, 1987), plants (Prance 1973), lizards (Vanzolini 1973), and butterflies (Brown et al. 1974) are spatially concordant throughout the Amazon has been heavily criticized. Not only does the existence of such refugia remain a point of contention (Bush 1994; Colinvaux et al. 1996), but the geographic concordance of suture zones for many suites of taxa has actually been shown to be lower than that expected by chance (Beven et al. 1984).
+It also seems unlikely that the breaks identified in this study can be explained by the stochastic nature of gene coalescence. Under such an alternative hypothesis, we would expect to find few geographically congruent breakpoints, and phenotypic breaks would not necessarily be associated with genealogies (table 1). In sum, our results, combined with past studies that also document nonuniform divergence times among codistributed taxa (Whinnett et al. 2005; Rull 2007; Bates et al. 2008; Antonelli et al. 2009; Dasmahapatra et al. 2010), suggest that the mechanisms and timing of Amazonian diversification are idiosyncratic. Akin to its hydrological role, the lower Rio Negro acts as a catchment for organisms that cannot cross it. We predict that future biogeographic studies of taxa
+ replacements within other Amazonian interfluvia may also find that smaller-scale landscape features represent important biogeographic barriers that inflate the effect of the lower, wider portions of large Amazonian rivers.
+Location of Contact Zones
+Despite the strength of the “physical barrier effect” in isolating populations, we found that at least 25% of the taxon pairs we examined (21 of 78 pairs) come into direct contact and that 13 of these seem to hybridize. Spatial analyses indicate that two areas contain disproportionately high numbers of contact zones: (1) the Rio Negro–Rio Orinoco divide on the Colombian-Venezuelan border (localities 5– 9 in fig. 4; also fig. A3) and (2) the region north of the Gran Sabana and around the headwaters of the Rio Caron ́ı, in Venezuela (localities 1–3 in fig. 4). These regions share the fact that they are located in areas of continuous forest, where barriers are easier to overcome. In fact, many species seem to circumnavigate the open areas around the Gran Sabana through a network of forest patches and gallery forests, which provide opportunities for “stepping-stone” dispersal across the region. Besides those areas indicated above, we found that the lower Rio Caura, the middle Rio Paragua, and the Sierra de Pacaraima (fig. 4) also have more than four individual contact zones. Future studies of contact and hybrid zones should be directed toward these regions.
+Suture Zones and General Diversification Processes
+Although much research has highlighted the difference in evolutionary processes faced by organisms in temperate versus tropical regions (e.g., Hewitt 2001; Lessa et al. 2003), our data suggest that the processes acting on both biotas may be similar, at least in terms of their response to geographic barriers. In temperate regions, contact and hybrid zones often aggregate in areas that are easier to disperse through, such as mountain passes (Hewitt 1999). We found that headwaters of Amazonian rivers in the Guiana Shield may be biogeographically analogous, at least in this regard, to mountain passes in the temperate zone. Our data provide evidence that species’ responses to geographic boundaries may follow common themes, regardless of the climatic zone, in that breaks cluster along physical barriers and contact zones aggregate where these barriers break down or are easier to overcome.
+Understanding the location of avian phylogeographic breaks and contact zones is relevant to the debate on general modes of diversification (Moritz et al. 2000). Although speciation by geographic isolation is the most widely accepted mode of vertebrate diversification (Cracraft and Prum 1988; Coyne and Price 2000; Coyne and Orr 2004;
+ 
+ E128 The American Naturalist
+ Price 2008), the relative importance of allopatric, parapatric, and sympatric speciation remains controversial (Lynch 1989; Chesser and Zink 1994; Barraclough and Vogler 2000; Losos and Glor 2003; Graham et al. 2004; Phillimore et al. 2008). Results from our study corroborate one of the main predictions of the allopatric-speciation model, that there should be “geographic concordance of species borders with existing geographic or climatic barriers” (Coyne and Orr 2004, p. 92). The concordance of significant genealogical partitions across multiple codistributed taxa could result from three independent phenomena: (1) spatial and temporal congruence, in which many pairs of taxa share a common history and show signs of simultaneous divergence (Avise 2000); (2) spatially congruent patterns generated at different times, in which independent lineages were affected by similar factors and hence show common distributional patterns, even if no simultaneous divergence has occurred (Hafner and Nadler 1990); and (3) spatial and temporal pseudocongruence, in which apparently similar distribution patterns are actually the result of different processes acting at different times (Soltis et al. 2006). It is tempting to consider relatively similar patterns to be the result of common diversification mechanisms, as is generally implied by most Amazonian diversification models (refuge, riverine barriers, sea-leveltransgressions hypotheses, etc.). We recognize that the “general patterns” here described are not completely identical, but they are similar enough to suggest a common origin, shaped by similar factors. However, given the disparate levels of mitochondrial divergence within each phylogeographic pattern (table 2), it seems unlikely that they are the result of simultaneous diversification processes. In fact, application of a well-calibrated molecular clock for mitochondrial genes (which are believed to diverge at roughly 2% per million years; Weir and Schluter 2008) indicates that the diversification events found in the pairs studied span through the Pleistocene, Pliocene, and even Upper Miocene.
+Although physical barriers seem to play a fundamental role in the location of both contact zones and phylogeographic breaks in the Guiana Shield, we did not consider how ecological factors might have influenced observed patterns. Endler (1977, 1982) and Tuomisto and Ruokolainen (1997) proposed that current environmental variables and ecological conditions may be fundamental in delimiting current suture zones, suggesting that parapatric speciation was possible across steep environmental gradients without the need for allopatric separation of ancestral populations. Under this hypothesis, Amazonian centers of endemism should correspond to zones of relative environmental uniformity, whereas suture zones should correspond to areas of environmental change. Preliminary analyses from the suture zone associated with the Rio Branco suggest that
+ this region may be located along an environmental ecotone. Ecological-niche models and comparative null approaches for a limited number of pairs suggest significant levels of niche divergence between taxa, as well as significantly different environmental characteristics for phylogeographic-break regions versus pairs’ ranges (data not presented). These preliminary results suggest that environmental variables cannot be ruled out as an additional factor in the location of suture zones. Combining large distributional and molecular data sets like ours in an ecological-niche modeling framework would allow both a test of whether suture zones are located along environmental gradients and an estimate of the strength of ecogeographic isolation based on multiple pairs of taxa (Sobel et al. 2010). This approach is currently being pursued (C. L. Bechtoldt and L. N. Naka, unpublished manuscript) to explore the potential ecological mechanisms underlying the location of contact zones and phenotypic breaks.
+Phenotype as a Proxy for Genotype: Does Taxonomy Matter?
+The data set presented here represents one of the largest comparative molecular and distributional data sets ever compiled for a group of vertebrate organisms in the Amazon basin. We found a tight association between the geographic location of breaks inferred from genetic (mitochondrial) data and those from phenotypic (plumage) data, regardless of whether current taxonomy validates these taxa as species or as subspecies. In our study, we treated diagnosable subspecies as valid operational taxonomic units, on par with species, primarily because neglecting subspecies pairs would ignore basic taxonomic units, which are important for biogeographic and evolutionary studies (Cracraft 1985). We believe that current taxonomy, although in need of refinement in terms of the ranking of species versus subspecies (see Isler et al. 2007 and Tobias et al. 2008 for a compelling example), is useful for establishing biogeographic patterns and testing hypotheses (Cicero 2010; Fitzpatrick 2010; Remsen 2010). Nonetheless, future changes in the taxonomic rank of any of the taxa examined here would not affect our conclusions, because we examined taxon pairs as geographical replacements, regardless of taxonomic rank.
+In terms of the relationship between taxonomy and the level of genetic divergence, we found that, on average, species pairs had significantly higher mitochondrial genetic distances than subspecies pairs, although the ranges of the two groups overlapped. The lowest genetic distance between species pairs examined was ∼2%, which agrees with genetic distances recently suggested to indicate specieslevel taxa (Hebert et al. 2004; Aliabadian et al. 2009). However, genetic distances among subspecies pairs in our
+ 
+ Amazonian Suture Zones E129
+ data set were as high as 13%. The incongruence of having such high levels of genetic divergence in subspecies pairs is likely due to the fact that some of the subspecies pairs may represent good biological species. Yet the stochastic nature of gene coalescence (Edwards and Beerli 2000; Arbogast et al. 2002; Brumfield et al. 2003; Balloux 2010) and the difficulty of differentiating between recently isolated populations and reproductively isolated lineages (Hickerson et al. 2006) prevent us from supporting the 2% rule for ranking biological species, as suggested elsewhere (Hebert et al. 2004). Our results clearly indicate that the taxonomic ranks of many taxon pairs in our database merit further examination and revisions. For pairs that remain isolated and do not come into contact, analyses of ecogeographical divergence may indicate whether isolation has resulted in ecological speciation (Sobel et al. 2010), whereas studies in vocal or behavioral variation may suggest the formation of prezygotic reproductive barriers. For those pairs that do come into contact, the careful study of population interactions in contact zones can provide critical assessments of gene flow and reproductive isolation for making sound taxonomic revisions (Remsen 2010).
+Acknowledgments
+We are grateful to the institutions and people involved in collecting and vouchering bird specimens and their valuable tissues. Six ornithological collections provided the bulk of the samples. Specifically, we would like to thank D. Dittmann from the Museum of Natural Science, Louisiana State University (LSUMZ); M. Cohn-Haft and I. Macedo from the Instituto Nacional de Pesquisas da Amazoˆnia; A. Aleixo and F. Poletto from Museu Paraense Emı ́lio Goeldi (MPEG); P. Capainolo, J. Cracraft, P. Sweet, and T. Trombone from the American Museum of Natural History; J. Dean, C. M. Milensky, and G. Graves from the National Museum of Natural History; and J. Bates and D. Willard from the Field Museum of Natural History. Those institutions also provided distributional data for the locality database. Distributional data were also provided by M. Alvarez (Instituto Humboldt, Colombia), D. Caro (ProAves), and G. Stiles (Instituto de Ciencias Naturales) from Colombia; K. Garrett (Los Angeles County Museum of Natural History); F. Lima (MPEG, Brazil); A. Nieves (Coleccio ́n Biolo ́gica Rancho Grande, Venezuela), J. V. Remsen (LSUMZ); and M. Robbins (Kansas University). We are particularly indebted to M. Lentino, Y. Lo ́pez, and M. Mart ́ınez (Coleccio ́ n Ornitolo ́ gica Phelps) and C. Rodner and family for their hospitality in Caracas. We thank W. Buermann, J. McCormack, and H. Thomassen for sharing remote-sensing data, and J. Roach and A. Whitehead for sharing their lab facilities. Collecting permits in Brazil
+ were issued by the Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais. Essential logistic support in Brazil was provided by A. Lambert, A. Lisboa, B. Ribeiro-Lisboa, I. Rocha Santos, A. Galdino de Souza, and B. de Campos Souza. Fieldwork counted on the help of M. Ancia ̃es, P. Benham, S. H. Borges, J. P. Boubli, G. A. Bravo, I. T. Macedo, F. Pontual, and M. F. Torres. Financial support for fieldwork, lab work, and equipment was provided by Conselho Nacional de Desenvolvimento Cient ́ıfico e Tecnolo ́ gico (CNPq) through grant 486253/2006–6 to L.M.P.H. and by grants to L.N.N. by the American Museum of Natural History (Frank Chapman Memorial Fund), the American Ornithologists’ Union, IdeaWild, Louisiana State University (LSU), and Sigma Xi. This material is also based on work supported by the National Science Foundation under grant 1011512 to L.N.N. (Doctoral Dissertation Improvement Grant) and grants 0400797 and 0841729 to R.T.B. This article is derived from a PhD dissertation submitted by L.N.N. to LSU, and he is very grateful to his advisors R.T.B. and J. V. Remsen and committee members M. Hellberg, K. Mathewson, R. Stevens, and P. C. Stouffer. Earlier versions of the manuscript benefited from insightful comments from S. Claramunt, S. Heard, M. Hellberg, C. A. Marantz, J. V. Remsen, J. Weir, and an anonymous reviewer. During part of L.N.N.’s doctoral studies, he was generously supported by a doctoral international scholarship from the Instituto Internacional de Educac ̧a ̃o do Brasil (programa Bolsas de Estudo para a Conservac ̧a ̃o da Amazoˆnia) and an overseas doctoral fellowship (CNPq grant 202131/2006–8).
+Literature Cited
+ 
+ E132 The American Naturalist
+    Two subspecies of the white-plumed antbird that replace each other across the Rio Negro but come into contact at its headwaters. Top left, Pithys albifrons albifrons. Top right, P. a. peruvianus. Bottom left, lower Rio Negro near Manaus, where it can be up to 15 km wide. Bottom right, Rio Negro near Sa ̃o Gabriel da Cachoeira. Top left photograph by Erik I. Johnson. All other photographs by Luciano Naka.
+  

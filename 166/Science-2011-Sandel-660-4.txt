@@ -1,0 +1,131 @@
+  The Influence of Late Quaternary Climate-Change Velocity on Species Endemism
+B. Sandel et al.
+Science 334, 660 (2011);
+DOI: 10.1126/science.1210173
+This copy is for your personal, non-commercial use only.
+   If you wish to distribute this article to others, you can order high-quality copies for your colleagues, clients, or customers by clicking here.
+Permission to republish or repurpose articles or portions of articles can be obtained by following the guidelines here.
+The following resources related to this article are available online at www.sciencemag.org (this information is current as of June 8, 2012 ):
+Updated information and services, including high-resolution figures, can be found in the online version of this article at:
+http://www.sciencemag.org/content/334/6056/660.full.html
+Supporting Online Material can be found at: http://www.sciencemag.org/content/suppl/2011/10/05/science.1210173.DC1.html http://www.sciencemag.org/content/suppl/2011/10/06/science.1210173.DC2.html
+A list of selected additional articles on the Science Web sites related to this article can be found at:
+http://www.sciencemag.org/content/334/6056/660.full.html#related
+This article cites 40 articles, 10 of which can be accessed free: http://www.sciencemag.org/content/334/6056/660.full.html#ref-list-1
+This article has been cited by 3 articles hosted by HighWire Press; see: http://www.sciencemag.org/content/334/6056/660.full.html#related-urls
+This article appears in the following subject collections: Paleontology http://www.sciencemag.org/cgi/collection/paleo
+ Science (print ISSN 0036-8075; online ISSN 1095-9203) is published weekly, except the last week in December, by the American Association for the Advancement of Science, 1200 New York Avenue NW, Washington, DC 20005. Copyright 2011 by the American Association for the Advancement of Science; all rights reserved. The title Science is a registered trademark of AAAS.
+Downloaded from www.sciencemag.org on June 8, 2012
+
+ REPORTS
+The Influence of Late Quaternary
+Climate-Change Velocity on
+Species Endemism
+B. Sandel,1,2* L. Arge,2 B. Dalsgaard,3 R. G. Davies,4 K. J. Gaston,5 W. J. Sutherland,3 J.-C. Svenning1
+The effects of climate change on biodiversity should depend in part on climate displacement
+rate (climate-change velocity) and its interaction with species’ capacity to migrate. We estimated
+Late Quaternary glacial-interglacial climate-change velocity by integrating macroclimatic shifts since the Last Glacial Maximum with topoclimatic gradients. Globally, areas with high velocities were associated with marked absences of small-ranged amphibians, mammals, and birds. The association between endemism and velocity was weakest in the highly vagile birds and strongest in the weakly dispersing amphibians, linking dispersal ability to extinction risk due to climate change. High velocity was also associated with low endemism at regional scales, especially in wet and aseasonal regions. Overall, we show that low-velocity areas are essential refuges for Earth’s many small-ranged species.
+changing climate, climate-change velocity is more biologically relevant than are traditional macroclimatic anomalies (13, 16, 19, 20). Furthermore, because climate-change velocity incorporates finescale topoclimate gradients it captures the important buffering effect of topographic heterogeneity on climate change (21). For example, a given temperature change should have very different biological consequences depending on topographic context: In flat areas, considerable movement is required to track a 1°C increase in temperature, whereas a short shift uphill could be sufficient in mountains. Thus, species distributed in topographically homogenous landscapes will experience higher climate-change velocities and therefore require stronger dispersal abilities to track climate change than those of species in heterogeneous landscapes.
+High climate-change velocities are likely to be associated with incomplete range filling and species extinctions (22). Not all species, however,
+1Ecoinformatics and Biodiversity Group, Department of Bioscience, Aarhus University, Aarhus 8000 C, Denmark. 2Center for Massive Data Algorithmics (MADALGO), Department of Computer Science, Aarhus University, Aarhus 8000 C, Denmark. 3Conservation Science Group, Department of Zoology, University of Cambridge, Cambridge CB2 3EJ, UK. 4School of Biological Sciences, University of East Anglia, Norwich NR4 7TJ, UK. 5Environment and Sustainability Institute, University of Exeter, Cornwall TR10 9EZ, UK.
+*To whom correspondence should be addressed. E-mail: brody.sandel@biology.au.dk
+Anthropogenic climate change is a major threat to Earth’s biodiversity and the ecosystem services it provides (1). As climate changes, the conditions suitable for local persistence of a particular species move across the surface of the Earth, driving species responses both to recent warming (2–4) and to long-term natural climate cycles (5–8). Species with strong dispersal abilities inhabiting relatively stable climates may track climate fairly closely. Conversely, species with weak dispersal abilities relative to the rate of climate change may fail fully to oc-
+Fig. 1. Global maps of (A) climate-change velocity since the Last Glacial Maximum (21,000 years ago); proportional endemism of (B) amphibians, (C) mammals, and (D) birds; and (E) relationships of past and predicted future climate-change velocity. Velocity is highest in northeastern North America and north-central Eurasia; these same areas display low or no endemism (the black line delimits areas that were glaciated at LGM). Mountain ranges and other low-velocity regions exhibit higher endemic richness of amphibians, mammals, and birds. Rank-transformed velocity since the LGM and rank-transformed velocities until 2080 show similar spatial patterns, but there are areas of important mismatch. Orange areas, where velocities in the past have been low but predicted future velocities are expected to be high, are a particular conservation concern.
+cupy climatically suitable areas (9–14) and may even go extinct, despite appropriate habitat being present elsewhere (15–17).
+Climate-change velocity is a measure of the local rate of displacement of climatic conditions over Earth’s surface (18). It integrates macroclimatic shifts with local spatial topoclimate gradients and is calculated by dividing the rate of climate change through time by the local rate of climate change across space, yielding a local instantaneous velocity measure. By describing the local rate at which species must migrate to track
+  660
+4 NOVEMBER 2011
+VOL 334
+SCIENCE
+www.sciencemag.org
+Downloaded from www.sciencemag.org on June 8, 2012
+
+ are at equal risk from high velocity (20). Strong dispersers should be most able to maintain distributional equilibrium with climate conditions and are therefore likely to occupy more of their potential range and avoid extinction. Species with small ranges are at particular risk of extinction (20); they often have small population sizes and densities (23) and are less likely to occupy refuges that remain suitable during climate oscillations (15, 16, 24). Range size may also reflect other species characteristics that influence resilience to climate fluctuation, with widespread species tending to have broad climatic tolerances (25), generalist strategies (23), and strong dispersal capabilities (23). Hence, high-velocity regions should have fewer small-ranged species and fewer species with poor dispersal ability (16).
+To test these hypotheses, we used reconstructions of mean annual temperature at the Last Glacial Maximum (LGM; 21,000 years ago) to calculate a global map of climate-change velocity from the LGM to the present (26) and tested the effects of velocity on patterns of range size and species richness of amphibians, mammals, and birds (27). The difference between the LGM and the present is one of the strongest climatic shifts in all of the Quaternary (28), and its spatial pattern is probably similar to the spatial patterns of earlier climate cycles (16). Our analysis revealed that the LGM-to-present climate-change velocity exhibits marked geographic variation, with peaks in northeastern North America and
+north-central Eurasia (Fig. 1A). Velocities tended to be lower in the Southern Hemisphere and in mountainous areas.
+Globally, small-ranged (< 250,000 km2; hereafter termed “endemic”) amphibians, mammals, and birds are concentrated where climate-change velocity is low (Fig. 1, B to D) [results were not sensitive to the particular definition of small ranges (27)]. In high-velocity northeastern North America and north-central Eurasia, endemic species are nearly absent, whereas low-velocity areas often harbor highly endemic faunas. For all species groups, low-velocity sites are more likely to harbor endemic species than are high-velocity sites (Fig. 2, insets; logistic regression with spatial filters: n = 2000 grid cells, all P < 0.0001). In addition, among regions (10° × 10° equivalents) containing at least one endemic species, velocity is strongly and negatively related to the proportion of amphibian [bivariate regression; n = 188 regions, coefficient of determination (r2) = 0.283, P < 0.001], mammal (n = 231 regions, r2 = 0.328, P < 0.001), and bird (n = 240 regions, r2 = 0.385, P < 0.001) species that are endemic (Fig. 2). We excluded glaciated areas (Fig. 1A) from this analysis, but investigations showed that results were not sensitive to this decision.
+It is widely accepted that modern climate influences species distributions and diversity, whereas the role of historical determinants is less clear (23). We therefore examined models that incorporated descriptions of modern climate, the spa-
+REPORTS
+tial pattern of modern climate conditions, and climate-change velocity. The spatial pattern of modern climate conditions was summarized by calculating, for each grid cell, the total area of land within a 1000-km radius that had a mean annual temperature (MAT) within 1°C and mean annual precipitation (MAP) within 100 mm of that focal cell (24). The extent of analogous modern climate exerted strong influences on endemism, reflecting the fact that regionally rare climates are likely to contain small-ranged species (Table 1) (24). Endemism of all three groups was negatively related to productivity and to two measures of seasonality. In models that considered all variables together while controlling for spatial autocorrelation [simultaneous autoregressive models (SARs)], velocity was a highly significant negative predictor of endemism for all groups, and for the amphibians was second in importance only to the extent of analogous climate. We examined the effect of adding terms to this model to describe the interaction of velocity and modern climate descriptors. Including these terms generally had small effects on other coefficient estimates, and only one such interaction was significant (velocity × precipitation seasonality for amphibians), so these interactions were not considered further. We examined all subsets of the full SAR models and compared them using Akaike’s Information Criterion (AIC). For all groups, models incorporating velocity were always strongly preferred over equivalent models without velocity (mean AIC improvement: amphibians, 29.6; mammals, 38.5; and birds, 39.0). Across the full model set with and without climate-change velocity, there was high support for velocity as part of the best model (summed Akaike weights for velocity > 0.989 for all groups). These results show that past climate-change velocity and modern climate act together to determine global patterns of endemism.
+Because velocity incorporates fine-scale topographic effects on climate stability, it should also contribute to within-region variation in endemism. To test this, we divided the world into regions (10° × 10° equivalents) and asked whether velocity was correlated with endemism within these regions. For all three species groups, high-velocity areas within regions were associated with low endemism (global means of within-region correlation coefficients: amphibians, r = –0.160; mammals, r = –0.157; and birds, r = –0.091, all P < 0.01) (Fig. 3). This overall pattern is consistent with the loss of small-ranged species in high-velocity regions, but the local importance of velocity showed strong geographic variation. Velocity should have the strongest impact where the climate is sometimes highly suitable for a given group, potentially favoring the generation and maintenance of endemic diversity (29). In contrast, regions characterized by generally unfavorable conditions are expected to contain few endemics, whether or not velocity is low. In addition, the ability of species to cope with temperature fluctuations is thought to vary spatially, with species in highly seasonal
+ Fig. 2. The relationship between climate-change velocity and proportional endemism for (A) amphibians, (B) mammals, and (C) birds at a global scale within 10° × 10° regions, considering only unglaciated areas. Relationships are shown separately for the Northern (red) and Southern Hemispheres (blue) and for the global relationship (black line). Insets depict the relationship between velocity and the presence or absence of any small-ranged species. For each of 25 velocity quantiles, the blue bars indicate the proportion of locations with that velocity where small-ranged species occur. The black line displays a logistic regression fit to the relationship.
+www.sciencemag.org
+SCIENCE
+VOL 334
+4 NOVEMBER 2011 661
+Downloaded from www.sciencemag.org on June 8, 2012
+
+ REPORTS
+662
+4 NOVEMBER 2011 VOL 334 SCIENCE www.sciencemag.org
+areas tolerating a wider temperature range (30). We tested these hypotheses by identifying the modern climatic variables that most strongly control the within-region correlation of velocity and endemism patterns (table S9). For all three species groups, the models with the lowest AIC scores contained a single significant predictor and were consistent with the above predictions; velocity was particularly important for amphibians and mammals where precipitation was high [amphibians, n = 125 regions, standardized regression coefficient (b) = –0.185, P = 0.0465; mammals, n = 149 regions, b = –0.259, P = 0.0018) and for birds where temperature seasonality was low (n = 135 regions, b = 0.334, P = 0.0102) (Fig. 3).
+Although a comprehensive test has thus far been lacking, the importance of climate-change velocity for a group should depend on the dispersal abilities of its species. Hence, of the taxa analyzed, birds should be best at tracking highvelocity changes, whereas amphibians should be worst (9). Indeed, the importance of velocity in determining global patterns of endemism decreased from amphibians (standardized b = –0.288) to mammals (standardized b = –0.216) to birds (standardized b = – 0.183) (Table 1). Furthermore, velocity was most tightly correlated with patterns of within-region endemism for amphibians and least correlated for birds. Lending additional support to the importance of dispersal ability, velocity was also more tightly associated with patterns of nonvolant mammal endemism (standardized global b = –0.166, P = 0.0058, mean local r = –0.165) than with bat endemism (standardized global b = –0.135, P = 0.0670, mean local r = –0.034). Global patterns of endemism were wellcorrelated among the three groups, suggesting that overall they respond to similar drivers. However, regions with low amphibian endemism relative to avian endemism (which are correlated, r = 0.681) tended to have high velocity, indicating that amphibians respond more strongly than do birds to climate change (multiple regression of amphibian endemism against velocity and avian endemism, n = 183 regions, standardized bvelocity = –0.281, P = 0.0010). Similar results were obtained for amphibian endemism relative to mammalian endemism (r = 0.693, n = 185 regions, bvelocity = –0.283, P = 0.0010) and mammalian endemism relative to avian endemism (r = 0.819, n = 212 regions, bvelocity = –0.175, P = 0.0028). Richness of the lowest three range-size quartiles in amphibians is low relative to the equivalent avian richness (n = 175 regions, bvelocity = –0.247, P = 0.0031) and mammal richness (n = 173 regions, bvelocity = – 0.333, P < 0.0001) in high-velocity regions. As expected given their low dispersal ability, amphibian assemblages in high-velocity regions were thus particularly depauperate of endemic species relative to bird and mammal assemblages.
+The focal relationship between velocity and endemism is corroborated by other patterns in the distributions of all three groups. At both global and regional spatial scales, high velocity was associated with larger median range sizes, lower
+Table 1. Relationships of seven predictor variables to global patterns of proportional endemism for amphibians, mammals, and birds. GVI, generalized vegetation index; MAT, mean annual temperature; MAP, mean annual precipitation; TS, temperature seasonality; PS, precipitation seasonality; Extent, the regional extent of analogous climate; and Velocity, Late Quaternary climate-change velocity. Five comparative measures were used: the coefficient of determination from bivariate regressions (r2), standardized regression coefficients estimated from ordinary least-squares multiple regression (OLS), simultaneous autoregressive models using all predictors (SAR), the reduced SAR model with the lowest AIC score (SARreduced), and Akaike weights based on SAR models. Blank cells indicate variables that were not included in the reduced model. Figures in text are based on the full SAR models, which were most consistently successful at removing residual spatial autocorrelation. The effect of the change in MAT between LGM and present (Anomaly) and topographic heterogeneity (TH) were tested by replacing velocity in all models with each of these variables. *P < 0.05, **P < 0.01, ***P < 0.001.
+r2 GVI 0.227***
+MAT 0.002 MAP 0.090*** TS 0.068*** PS 0.073*** Extent 0.415*** Velocity 0.283***
+Anomaly 0.082***
+TH 0.134*** Mammals
+GVI 0.253*** MAT 0.158*** MAP 0.203*** TS 0.313*** PS 0.039** Extent 0.538*** Velocity 0.328***
+Anomaly 0.187*** TH 0.023*
+Birds
+GVI 0.297*** MAT 0.102*** MAP 0.137*** TS 0.348*** PS 0.036** Extent 0.446*** Velocity 0.385***
+Anomaly 0.222*** TH 0.015
+OLS
+– 0.185** 0.010
+– 0.125
+– 0.018
+– 0.233*** – 0.439*** – 0.252*** – 0.203**
+0.230**
+– 0.169*** 0.228** – 0.215**
+– 0.180
+– 0.194*** – 0.490*** – 0.199*** – 0.155**
+0.092
+– 0.237*** 0.065
+SAR
+– 0.196** 0.008
+– 0.115 0.001
+– 0.244*** – 0.414*** – 0.288*** – 0.213**
+0.260***
+– 0.160*** 0.216*
+– 0.190* – 0.182
+– 0.173*** – 0.467*** – 0.216*** – 0.158**
+0.106*
+– 0.212*** 0.021
+– 0.303*** – 0.549*** – 0.120*
+– 0.323*** – 0.183*** – 0.121*
+0.086*
+SARreduced
+– 0.198** – 0.11
+WeightAIC
+0.989 0.294 0.460 0.312 0.997 1.000 1.000 0.979 0.998
+0.993 0.882 0.736 0.597 0.929 1.000 0.998 0.975 0.646
+1.000 0.284 0.999 1.000 0.838 1.000 0.989 0.733 0.726
+ Amphibians
+variation in range size within assemblages, reduced richness of species with range size below the median, and weaker, inconsistent, and sometimes positive relationships for richness of species with larger range sizes (figs. S1 to S6 and tables S1 to S6 and S9).
+High velocities have been proposed to be associated with incomplete range filling and species extinctions (10, 17, 22). Although we found no evidence for reduced range sizes with higher velocities, the decline in endemism and inferred importance of dispersal ability are consistent with the extinctions hypothesis. However, it may be that velocity per se is not driving endemism but simply correlates with other variables that do have a direct mechanistic link. Alternatively, a direct mechanistic link between velocity and endemism may not require species extinctions. We considered several such alternative hypotheses and show that none are consistent with the data.
+High-velocity areas may coincide with those where analogous climate conditions have most expanded since the LGM; low endemism in these areas may occur because species in such areas have expanded their range size accordingly. Climate expansion since the LGM was highly correlated with the extent of modern analogous conditions (r = 0.794) but was a weaker predictor of endemism in all cases (compare Table 1 with table S12). Furthermore, the range expansion hypothesis predicts that the groups with strongest dispersal ability (birds) should have expanded their ranges most and therefore should show the strongest relationships to velocity, which is contrary to our results. It is also possible that velocity appears to be an important predictor, not because of a mechanistic link but only because it is derived from another variable that does have a direct link. However, climate-change velocity was a better predictor than either of its components
+– – – – – –
+0.317*** 0.500*** 0.183*** 0.369*** 0.194*** 0.148*** 0.074
+– 0.182
+– 0.173*** – 0.467*** – 0.216*** – 0.158**
+0.106* – 0.213***
+– 0.302*** – 0.565*** – 0.114* – 0.320*** – 0.180*** – 0.119*
+0.081*
+– – – –
+0.241*** 0.411*** 0.289*** 0.207*** 0.285***
+–
+– 0.190*
+0.160*** 0.216*
+ Downloaded from www.sciencemag.org on June 8, 2012
+
+ Fig. 3. The global pattern of within-region fit of climate-change velocity to patterns of endemism. (A) Within each 10° × 10° region, circle size indicates the numberofspeciesgroupsforwhichvelocitywassignificantly(P<0.05)associated with endemism. The color of the circle corresponds to the mean correlation
+coefficient across all groups present within that region. (B to D) Globally, strong within-region correlations between velocity and endemism were associated with high precipitation (amphibians and mammals) and low temperature seasonality (birds). Envelopes around each line show the 90% confidence interval.
+(topographic heterogeneity and macroclimate anomaly) and was the only one with consistent predictive power across scales (Table 1), which suggests that topographic heterogeneity and anomaly both contain important and complementary information. High endemism and low velocity occur not only in mountains but also in macroclimatically stable, relatively flat regions (such as portions of the Amazon basin and central Africa). At the same time, high-velocity mountain areas harbor low endemism (such as the Altai mountains of northern Mongolia and some mountains in the western United States).
+Does a direct role of velocity depend on extinctions, and are alternatives consistent with the data? Dynesius and Jansson (15) proposed three interrelated mechanisms linking climate stability and patterns of richness and range size: (i) Instability may select for increased dispersal ability and generalism, leading to large ranges; (ii) gradual speciation rates may be reduced in unstable areas, producing a lack of young, small-ranged species; and (iii) small-ranged species may have gone extinct in unstable areas. Underlying all of these hypotheses is the process of lineage extinction across a range of evolutionary scales, from selection acting on within-species lineages to the extinction of newly diverging or full species (31). In principal, reduced speciation rates [explana-
+tion (ii)] might instead be due to high rates of gene flow among populations in unstable, shifting climates. However, this mixing should be most pronounced for strongly dispersing species. In contrast, lineage extinctions at all levels should have the strongest effects on weak dispersers, which is consistent with our results. Thus, elevated extinction rates—likely across a range of evolutionary scales (31)—appear to best explain the association of low endemism with high velocity (17, 22).
+Our results have important implications for conservation in a world that is increasingly experiencing elevated climate-change velocities (18). Areas that have experienced high velocities in the past are on average also expected to experience high velocities over the next century (Fig. 1E and fig. S7). As we have shown, these areas are already missing small-ranged species, suggesting that most of the remaining species may cope well with future changes. However, there are important mismatches between the spatial patterns of past and future climate change; areas with low velocities in the past, high concentrations of endemic species, and high velocities into the future are a particular conservation concern. These areas include western Amazonia, where concentrations of endemic species that have experienced relatively low-velocity changes in the past may be faced with rapid climate shifts in the near future.
+Taken together, these results indicate that past climate changes have left important legacies in contemporary range size and species richness patterns, supplemented by the influences of modern climate and its spatial pattern. Small-ranged species constitute most of Earth’s species diversity (23); our findings show that these species, especially those from less vagile groups, are sensitive to climate movements and are concentrated in areas where possibilities for tracking past climate changes have been greatest. This conclusion also suggests that small-ranged, weakly dispersing species in previously stable regions experiencing high future climate-change velocities will be at greatest extinction risk from anthropogenic climate change.
+www.sciencemag.org SCIENCE VOL 334 4 NOVEMBER 2011
+REPORTS
+Downloaded from www.sciencemag.org on June 8, 2012

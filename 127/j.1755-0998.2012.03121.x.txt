@@ -1,0 +1,263 @@
+    Molecular Ecology Resources (2012) 12, 549–561 doi: 10.1111/j.1755-0998.2012.03121.x
+De novo characterization of the Timema cristinae transcriptome facilitates marker discovery and inference of genetic divergence
+AARON A. COMEAULT,* MATHEW SOMMERS,* TANJA SCHWANDER,† C. ALEX BUERKLE,‡ TIMOTHY E. FARKAS,* PATRIK NOSIL* and THOMAS L. PARCHMAN‡
+*Department of Ecology and Evolutionary Biology, University of Colorado, Boulder, CO 80303, USA, †Center for Ecology and Evolutionary Studies, University of Groningen, 9700CC Groningen, The Netherlands, ‡Department of Botany, University of Wyoming, Laramie, WY 82071, USA
+Abstract
+Adaptation to different ecological environments can promote speciation. Although numerous examples of such ‘ecological speciation’ now exist, the genomic basis of the process, and the role of gene flow in it, remains less understood. This is, at least in part, because systems that are well characterized in terms of their ecology often lack genomic resources. In this study, we characterize the transcriptome of Timema cristinae stick insects, a system that has been researched intensively in terms of ecological speciation, but for which genomic resources have not been previously developed. Specifically, we obtained >1 million 454 sequencing reads that assembled into 84 937 contigs representing approximately 18 282 unique genes and tens of thousands of potential molecular markers. Second, as an illustration of their utility, we used these genomic resources to assess multilocus genetic divergence within both an ecotype pair and a species pair of Timema stick insects. The results suggest variable levels of genetic divergence and gene flow among taxon pairs and genes and illustrate a first step towards future genomic work in Timema.
+Keywords: geneflow,isolationwithmigration,next-generationsequencing,speciation,transcriptome Received 3 November 2011; revision received 6 January 2012; accepted 13 January 2012
+Introduction
+The causes of speciation are a central and long-standing topic in evolutionary biology (Darwin 1859; Dobzhansky 1937, 1940; Mayr 1947, 1963) and have received renewed interest over the last two decades (Coyne & Orr 2004). One hypothesis that has received particular attention is that adaptation to different ecological environments, via divergent natural selection, can drive the evolution of reproductive isolation. This hypothesis of ‘ecological speciation’ (for reviews see Schluter 2001; Rundle & Nosil 2005; Schluter 2009; Nosil 2012) has now seen widespread support from theoretical work (Kirkpatrick 2001; Kirkpatrick & Ravigne ́ 2002; Gavrilets 2004), laboratory evolution experiments (reviewed in Rice & Hostert 1993), comparative studies (Funk et al. 2006) and detailed case studies in nature (Funk 1998; Rundle et al. 2000; Jiggins et al. 2001; Rundle & Nosil 2005 for review; Langerhans et al. 2007; Nosil 2007).
+The systems used to study ecological speciation tend to be ecologically well characterized, but lack genomic
+resources (some notable exceptions aside, such as threespine stickleback; Peichel et al. 2001; Colosimo et al. 2005; Chan et al. 2010). Thus, although we now have convincing evidence for ecological speciation in nature, and the number of systems with genomic resources is growing, the genetic basis of ecological speciation remains relatively poorly understood (reviewed in Schluter & Conte 2009). Here, we take steps towards filling this gap by developing genomic resources for Timema cristinae walking stick insects. The genus Timema is comprised of approximately 20 species of herbivourous walking stick insects found throughout California (Vickery 1993; Sandoval et al. 1998; Crespi & Sandoval 2000). Numerous studies of Timema have focused on the role of ecology, such as adaptation to different host plant species, in processes such as adaptive radiation and speciation (Crespi & Sandoval 2000; Nosil 2007; Supporting information for more detail on species included in this study). Timema cristinae, in particular, has been studied intensively in terms of adaptive divergence and ecological speciation (see Nosil 2007 for review), but to date has largely lacked genomic resources (160 sequences currently at NCBI).
+Correspondence: Aaron A. Comeault, Fax: E-mail: aaron.comeault@colorado.edu
+(303) 492 8699;
+Ó 2012 Blackwell Publishing Ltd
+
+550 A. A. COMEAULT ET AL.
+The study presented here has two main objectives. First, we characterize the transcriptome of T. cristinae using sequences obtained from 454 pyrosequencing of a normalized cDNA library (Margulies et al. 2005; Ellegren 2008; Holt & Jones 2008; Hudson 2008; Vera et al. 2008; Wheat 2010). The de novo assembly of transcriptome sequences is facilitated by greater coverage depth for the much smaller number of nucleotides in the transcriptome than in the whole genome (Bouck & Vision 2007; Emrich et al. 2007). Indeed, recent studies have demonstrated highly successful de novo assemblies of 454 EST data for organisms with few or no prior genomic resources (e.g. Novaes et al. 2008; Vera et al. 2008; Hahn et al. 2009; Kristiansson et al. 2009; Meyer et al. 2009; Schwarz et al. 2009; Parchman et al. 2010; Fraser et al. 2011; Garg et al. 2011; Martin & Wang 2011). Transcriptome sequencing projects also have the advantage of focusing on the protein-coding fraction of the genome where much of the functional variation might be expected to reside (Bouck & Vision 2007). The generation of such large-scale sequence data will enable the application of genome-wide analyses to taxa that are of ecological interest, but that previously have lacked genomic resources (Wheat 2010).
+Second, we utilize the T. cristinae transcriptome assembly to develop primers for nuclear loci that can be amplified, by PCR, in different species of Timema. We then gather Sanger sequence data from these loci to characterize the nature of genetic divergence and gene flow within an ecotype pair and a species pair of Timema stick insects. Such multilocus data sets can provide powerful insight into speciation, for example, by providing information on the extent to which genetic divergence occurred in the presence of substantial gene flow, as well as information on the effective population size and the time since population divergence was initiated (Wakeley & Hey 1997; Hey 2006; Wakeley 2008).
+The analyses presented here add to a growing body of literature that takes advantage of closely related taxon pairs, which differ in levels of reproductive isolation, to make inferences on how the process of speciation unfolds (Coyne & Orr 1989; Funk et al. 2006; Berner et al. 2009; Nosil et al. 2009; Stelkens et al. 2010; Merrill et al. 2011; Rosenblum & Harmon 2011). The overall results demonstrate the feasibility of rapidly and inexpensively developing novel genomic resources and show how such resources can readily be utilized for population-level insights in evolution.
+Methods
+Transcriptome characterization
+cDNA library construction. A normalized cDNA library was prepared from RNA extracted from ten adult
+specimens of Timema cristinae. The specimens were collected from ten different localities spanning the species’ range in the vicinity of Santa Barbara, California. Five specimens were from the host Adenostoma (population abbreviations following past work, HVA, OUTA, OGA, BTA, OCA) and five specimens from the host Ceanothus (population abbreviations, PC, R12C, PRC, MC, PEC) (Nosil 2007). Procedures were as follows. To minimize sequencing of gut microbes, live insects had their gut intestinal tracts removed. Specimens were then immediately placed in a tared 2-mL tube containing 300 lL RLT Buffer (Qiagen RNeasy Mini Kit), 1% 2BME and a 5-mm steel bead. Upon placing each tissue sample in a tube, it was subject to disruption and homogenization using the TissueLyserII at 20 Hz for 6 min. Total RNA was isolated using the Qiagen RNeasy protocol. RNA was quantified using NanoDrop spectrophotometry, and RNA integrity was verified through analysis using BioRad Experion RNA Standard Sensitivity Chip (BioRad, Inc.). For cDNA synthesis, 1 lg of total RNA was used as per Evrogen’s Mint Universal cDNA Synthesis Kit Protocol II.
+Approximately 750 ng of double-stranded cDNA was used for normalization as per the specifications of the Evrogen Trimmer Direct cDNA Normalization Kit. Following normalization, gene-specific primers were designed for amplification in real-time PCR assays of Actin (a highly expressed gene) and HSP70 (a gene with low expression). These assays were used as an indicator of normalization. Initially, PCR assays were optimized using RT reagents, conditions and 5 ng of normalized cDNA with reaction products run on a 2% agarose gel. Real-time PCR assays were carried out on Roche 480 Light cycler using Roche LightCycler 480 Sybr Green I Master Mix. Differences in the Ct values of HSP70 relative to Actin for both control cDNA (hybridized but not normalized) and normalized cDNA were calculated. Results indicate a change as a result of normalization of 5.2 cycles between Actin and HSP70. The normalized cDNA collection was then sequenced on a preliminary quarter-plate run and a final full-plate run on a 454 GS XLR Titanium platform at the Roy Carver Center for Genomics, University of Iowa.
+454 primer sequences and all sequences resulting from cDNA synthesis reagents were trimmed from reads prior to assembly. In addition, long poly(A) regions were screened from reads prior to assembly. As for past studies involving de novo transcriptome assembly (Weber et al. 2007; Vera et al. 2008; Parchman et al. 2010; Wheat 2010), we used Seqman Ngen (DNAstar, Inc.) to assemble reads into contigs. The assembly was run with a minimum match size of 19 nucleotides, match percentage of 90%, mismatch penalty of 18 and gap penalty of 30. Further information on this assembly is available upon request. The resulting contigs and remaining singletons
+Ó 2012 Blackwell Publishing Ltd
+
+were then combined into a single set for the following analyses, except where noted otherwise.
+We determined annotations for the 454 EST sequence collection using local BLASTx (Altschul et al. 1997) to align the consensus sequences from the assembled contigs and the singleton sequences to the UNIREF50 15.4 (Suzek et al. 2007) annotated protein database using an E value threshold of 10)10. UNIREF50 is a large protein database representing nonredundant protein clusters from the UniProt and UniParc exhaustive annotated protein databases. BLAST results were parsed and passed through a custom Perl pipeline that summarized information and produced tab-delimited tables containing accession numbers, gene name, taxonomic ID, query length, ortholog sequence length, sequence alignment, E value and bit score for each protein matching to the 454 EST sequences. To determine the number of unique genes represented in the Timema 454 EST collection, these files were then filtered for redundancy in protein accessions. The taxonomic identities of BLAST hit accessions were hierarchically organized utilizing custom Perl scripts to examine the taxonomic distribution of EST annotations.
+Molecular marker detection and characterization. We used custom Perl scripts to locate di-, triand tetranucleotide SSRs (simple sequence repeats) in the 454 EST sequences with a minimum of four contiguous repeating units. SSRs that represent good candidates for PCR amplification were identified and primers for those regions were constructed using the program BatchPrimer3 (see Supporting information) (You et al. 2008). We determined which SSRs occurred in coding sequences of genes by extracting the aligned portions of sequences having BLAST matches to annotated protein-coding orthologs from UNIREF50 and then using the same algorithm as above to detect SSRs in either the aligned (i.e. protein coding) and remaining portions of these contigs. We also identified SNPs in contigs with high coverage depths using the SNP reporter feature in Seqman Pro (DNASTAR, Inc., see Supporting information for details). We validated SNPs in a subset of annotated contigs using Sanger sequencing (see Supporting information and population genetic study below).
+Population genetic study
+Experimental design and sampling. To explore patterns of genetic divergence between populations at two differing stages of speciation (i.e. host ecotypes vs. species pair), we conducted a population genetic study of divergence between two ecotypes of T. cristinae as well as between the species Timema californicum and Timema poppensis. To examine the effects of geographical arrangement on patterns of genetic divergence, a focal popula-
+tion of the Ceanothus ecotype of T. cristinae was compared to one adjacent (i.e. parapatric) and one distant (i.e. allopatric) population of the Adenostoma ecotype. Likewise, the species T. californicum was compared to one parapatric and one allopatric population of T. poppensis.
+We collected 23 to 26 specimens from each of the six populations included in this study between March and June 2010. We sampled individuals from parapatric ecotypes of T. cristinae from one Ceanothus and one adjacent Adenostoma population (N34 29.309 W119 47.180 and N34 29.305 W119 47.191, respectively) along with an allopatric Adenostoma population collected from N34 30.464, W119 47.694. We sampled individuals from parapatric populations of T. poppensis and T. californicum along Summit Road, California (N37 133.43 W122 05.271) and individuals from an allopatric population of T. poppensis along Tin Barn Road, California (N38 37.100 W123 17.322). Once collected, all samples were stored in 100% ethanol and stored at )20 °C.
+Molecular methods. DNA was extracted from three to six legs of individual Timema using Qiagen DNeasy Blood and Tissue Kits (Qiagen, Valencia, CA, USA). PCR primers for nuclear loci were developed based on the transcriptome sequences described above. Briefly, we developed approximately 14 000 primer pairs along contigs contained in the characterized transcriptome (Appendix S2). We then haphazardly chose and screened a subset of 48 of these primer pairs across all three species included in this study. Upon initial screening, over 50% of these primer pairs resulted in consistent amplification in T. cristinae and a subset of four primer pairs produced amplified product in all three species. We selected these four primer pairs for use in this study. Finally, we used UNIREF50, SWISSPROTBLAST and BLASTN databases and query engines to determine annotations of the sequenced amplicons of these four nuclear loci.
+The four nuclear loci we developed from the assembled transcriptome (Tc_nuc235, Tc_nuc9172, Tc_nuc10854 and Tc_nuc11144) and one mitochondrial locus (CO1) were amplified for 23–26 individuals from our six study populations using primers and reaction conditions described in the Supporting information. We were unable to obtain genetic sequence data for CO1 in the allopatric population of T. poppensis. Chromatograms obtained from these individuals had multiple overlapping peaks, potentially due to mutations that influence the specificity of CO1 primers or copies of this locus present in the nuclear genome. This problem was also observed for 13 individuals from the parapatric T. poppensis population. None of the CO1 sequences collected from individuals of T. cristinae and T. californicum indicated the presence of nuclear copies. For example, PCR products produced a single band in check gels,
+Ó 2012 Blackwell Publishing Ltd
+TIMEMA TRANSCRIPTOME 551
+
+552 A. A. COMEAULT ET AL.
+multiple fluorescence peaks were not observed in any of the sequences, and edited sequences lacked indels and stop codons and aligned with high identity to arthropod CO1 sequences from GenBank. All ambiguous CO1 sequences from T. poppensis were excluded from further analyses. The remaining high-quality sequences were aligned and edited using GENEIOUS 5.3.4 (Drummond et al. 2011). For nuclear loci, positions were scored as heterozygous when double fluorescence peaks were unambiguously observed at a given nucleotide site (i.e. a 40% ⁄ 60% to 50% ⁄ 50% overlap in two bases). The gametic phase of individuals at nuclear loci was resolved using PHASE 2.1.1, which uses Bayesian methods for haplotype reconstruction from genetic sequence data (Stephens et al. 2001; Stephens & Donnelly 2003).
+Population structure. We used ARLEQUIN 3.5.1.2 (Excoffier & Lischer 2010) to calculate the following population genetic summary statistics: numbers of haplotypes (h), genetic diversity (expected heterozygosity for a diploid individual, Nei 1987), per cent of polymorphic sites (S) and Tajima’s D (Tajima 1983). We also used Arlequin to generate estimates of FST between each population for each individual locus. Arlequin uses an AMOVA framework and produces estimates of FST based on a distance matrix computed on the number of mutations between different haplotypes for each locus (Weir & Cockerham 1984; Excoffier et al. 1992; Weir 1996).
+Estimating gene flow. We used the isolation with migration model as implemented in the program IMa (Hey & Nielsen 2004; Hey & Nielsen 2007) to estimate levels of gene flow at individual loci that showed evidence for divergence between populations. We inferred genetic divergence from FST estimates that differed significantly from zero (Table 4). For those loci that lacked pairwise FST estimates significantly greater than zero, gene flow estimation in IMa was not possible (i.e. led to a lack of convergence of Markov chains and flat posterior probability distributions). For such undifferentiated loci, we thus infer gene flow as likely being high, thereby constraining differentiation at these loci.
+IMa uses coalescent-based Bayesian Markov chain Monte Carlo (MCMC) simulations under a model of isolation with migration to estimate six demographic parameters: migration rate between the two populations in question (m1, m2), population size of the two extant populations and their most recent common ancestor (h1, h2, hA), and the time the two extant populations diverged from their most recent common ancestor (t), all scaled by the mutation rate per gene (u). Assumptions of the IMa model include selective neutrality of loci, free recombination among loci, no recombination within loci and a simple population history of divergence from a common
+ancestor lacking gene flow from other sources. Two of the loci had values of Tajima’s D that are consistent with selection, but only in a single population for each locus (see Table 3). Thus, consistent evidence for departures from neutrality was not detected (see Discussion for further consideration of this issue). Intralocus recombination was tested for using the program IMgc (Woerner et al. 2007). One locus (Tc_nuc235) showed evidence for recombination, and the longest nonrecombining region of this locus (343bp) was extracted for all IMa analyses. While divergence from a single common ancestor is highly likely between both the ecotype and species pair, included in this study it is difficult to rule out gene flow from other sources. Unsampled populations exchanging migrants with the populations included in this study may therefore influence our estimates of gene flow (Strasburg & Rieseberg 2010), and interpretation of gene flow estimates should be made with caution.
+Simulations in IMa were run for a minimum of 20 million generations following an initial burn-in period of one million generations. Metropolis coupling was carried out using five Markov chains, a two-step heating scheme with heating parameters of 0.05 and 2.0, and 10 swap attempts between chains per generation. A minimum of three independent IMa runs were carried out for each locus to ensure convergence of parameter estimates. A total of 100 000 trees were saved from each run. To statistically test the fit of models with different migration histories between T. californicum and T. poppensis to our data, we used 30 000 trees saved from IMa runs carried out on the complete nuclear data set to conduct likelihood ratio tests (LRTs) as implemented in the program IMa (Hey & Nielsen 2007).
+Results
+Transcriptome characterization
+Assembly and annotation. Sequencing of the normalized cDNA template on the 454 GS XLR Titanium platform produced 1 344 463 sequences averaging 388 bases in length (Fig. S1, Supporting information). After removing long poly(A) regions and primer sequences, 1 309 855 sequences averaging 369 bp in length (median: 423 bp) remained for assembly; 923 423 of these reads assembled into 84 937 contigs, with 386 432 unassembled reads remaining as singletons. The average read length of the singleton sequences (292 bp) was substantially shorter than sequences that assembled into contigs (381 bp), indicating read length influenced assembly. The average contig length was 607 bases (min = 19, max = 4428), with an average of 11 reads (min = 2, max = 3675) assembled per contig (Fig. 1a). The mean coverage depth per nucleotide position in the assembled contigs was 5.7
+Ó 2012 Blackwell Publishing Ltd
+
+ (a)
+(b)
+101 102 103
+Number of reads/contig
+0
+20 000 40 000
+1
+10 100 1000
+Average contig coverage depth
+Characteristics of the transcriptomic data and analyses. (A) Contig length as a function of the number of sequences assembled into each contig. The marginal histograms depict the frequency distributions of the number of sequences assembled into contigs and the frequency distribution of contig length. (B) Comparison of Timema cristinae contigs to orthologous UNIREF50-coding sequences. Shown is the ratio of T. cristinae contig length to UniRef ortholog length as a function of contig coverage depth. The dotted line corresponds to a ratio of one, above which 454 contigs are as long or longer than the BLAST-matched UNIREF50 orthologs. The contour lines correspond to the density of points in the plot.
+Fig. 1
+(min = 1, max = 574), indicating substantial coverage depth. As would be expected, contig length increased as a function of coverage depth and the number of reads assembled into each contig (Fig. 1a), and the assembly produced a substantial number of long and deeply covered contigs. For example, 7335 contigs had greater than 10· average coverage depth per nucleotide position, and 8136 contigs were >1000 bp in length.
+BLAST annotation of contig consensus sequences and singleton sequences to a large number of unique genes indicates that this 454 EST collection probably represents a substantial portion of the genes in T. cristinae; 37 952 (45%) of the contig consensus sequences had BLAST hits to annotated proteins in UNIREF50 (Table 1). A substantial portion of the singleton sequences also had BLAST matches to the annotated protein databases, indicating that these unassembled sequences still provide valuable sequence information and improve overall transcriptome coverage breadth. In many cases, multiple sequences (both contigs and singletons) had BLAST matches to the same protein. After correcting for redundancy, the combined set of contig consensus sequences and singleton sequences had matches to 18 282 unique proteins in UNIREF50 (Table 1).
+As expected, the vast majority of BLAST hits were to known arthropod proteins (Table 2). A relatively large percentage of the significant BLAST hits were also to other animal proteins, which is likely due to high representation of these taxa in UNIREF50 rather than contamination of our RNA with other animal RNA. BLAST matches to fungal, viral or bacterial accessions were rare, indicating some,
+Table 1 Numbers and percentages of 454 ESTs in the assembled contigs, singletons and the combined sequence set with matches to known proteins in BLASTx searches of the UNIREF50 annotated protein database
+Ó 2012 Blackwell Publishing Ltd
+Matches to database Matches to
+unique proteins
+Contigs (84 937)
+37 952 (45%) 12 808
+Singletons (386 432)
+150 501 (39%) 12 762
+Combined set (471 369)
+188 452 (40%) 18 282
+TIMEMA TRANSCRIPTOME 553
+Contig length (bp)
+102 103 104 0 20 000 40 000
+454 contig length/Uniref ortholog length
+0.01 0.1 1 10
+Table 2 Number and percentages of unique best BLASTx matches of 454 EST contigs, singletons and the combined sequence set to UNIREF50 grouped by taxonomic category
+Taxonomic Contigs
+Singletons Combined
+category
+Arthropod Other animal Fungi
+Plant Protozoa Bacteria Virus
+Other
+(12 808)
+7940 (62.0%) 3410 (26.6%) 203 (1.6%) 122 (1.0%) 181 (1.4%)
+69 (0.5%)
+13 (0.1%) 869 (6.7%)
+(12 762)
+7401 (57.9%) 3508 (27.5%) 342 (2.7%) 100 (0.7%) 208 (1.7%) 117 (1.0%)
+26 (0.2%) 1060 (8.3%)
+set (18 282)
+10 704 (58.5%) 5301 (28.9%)
+387 (2.1%) 248 (1.4%) 192 (1.1%) 175 (1.0%)
+28 (0.1%) 1247 (6.8%)
+but very little, presence of xenobiotic RNA in our samples. Many of the 454 contig sequences were sufficiently long to cover full or nearly full gene transcripts (Fig. 1b).
+
+554 A. A. COMEAULT ET AL.
+Molecular marker characterization. Both SSRs and SNPs were abundant in the 454 EST sequences, representing a valuable source of molecular markers. More than 50 000 di-, triand tetranucleotide repeats were discovered in contigs and unassembled singletons (for details see Table S1, Supporting information); 4492 SSRs occurred in contigs with BLAST matches to UNIREF50. Of these, 4067 occurred in coding regions as judged by the part of contigs aligning to protein-coding-region sequences, with the remainder occurring in UTRs. Despite the large number of SSRs observed in coding regions, coding regions covered the majority of these contigs, and the density of SSRs per sequence length was lower in coding (0.0012 SSRs per bp) than in noncoding regions (0.0032 SSRs per bp). We designed high-quality PCR primers for 15 278 of the SSRs detected in the T. cristinae ESTs representing a substantial resource for molecular and ecological studies in T. cristinae and closely related species. Detailed information on SSR loci including primer sequences, repeat motif and repeat length are given in Appendix S1.
+SNPs were highly abundant in the 454 EST contigs, presenting another valuable resource for future genetic work in Timema. Across all contigs with >8· coverage, there were 47 694 high-quality SNPs that were present at a minimum frequency of 25% and a maximum frequency of 75%. SNPs were also abundant in contigs with deeper coverage. For example, the rate of SNP occurrence was 0.41 SNPs per 100 bases in contigs with >50· coverage. Using the same stringent criteria as for SSR primer development, we were able to develop primers that targeted 14 002 regions approximately 500 bp in size across the assembled transcriptome to be amplified by PCR (Appendix S2).
+Population genetic study
+Locus characterization. Results of BLAST queries showed variable identity of the four nuclear loci developed here to known genes or proteins. Locus Tc_nuc235 (GenBank: JQ337965–JQ338264) has BLAST query matches to a probable muscarinic acetylcholine receptor gar-1 protein at positions 172–432, however did not have matches to known protein-coding regions. Approximately the first half of locus Tc_nuc9172 (GenBank: JQ338265–JQ338550) represents a coding region with similarity to a glycolipid transfer protein domain-containing protein. Locus Tc_nuc10854 (GenBank: JQ338551–JQ338844) has high identity to a putative EH-domain-containing protein identified from mRNA isolated from Pediculus humanus corporis. Finally, locus Tc_nuc11144 (GenBank: JQ338845– JQ339126) has variable identity to a number of uncharacterized gene products identified from Drosophila melanogaster transcripts.
+Within-population genetic diversity. Within-population summary statistics reveal moderate genetic variation within each population and also some differences in the level of variation among loci (Table 3). For example, the percentage of polymorphic sites was highest in mitochondrial locus CO1 and lowest in nuclear loci Tc_nuc10854 and Tc_nuc11144, while the number of haplotypes for each locus and population was higher in nuclear loci (e.g. Tc_nuc235 and Tc_nuc9172) than the mitochondrial locus.
+Population structure. Levels of population differentiation (i.e. FST estimates) were highly variable among population pairs and loci (Table 4). A lack of differentiation was observed at all four nuclear loci for both parapatric and allopatric populations of T. cristinae, while mitochondrial differentiation was strong and statistically significant, but only between allopatric populations (FST = 0.34). Divergence between Timema californicum and Timema poppensis was significant and large at all four nuclear loci and at both geographical scales (FST estimates ranging from 0.72 to 0.93; Table 4). Mitochondrial differentiation between parapatric populations of T. californicum and T. poppensis was less than nuclear differentiation (FST = 0.331, Table 4).
+Estimating gene flow. The only locus showing evidence for differentiation at the ecotype level of comparison was mitochondrial CO1, and this only occurred between the allopatric populations (Table 4). Results from IMa analyses of CO1 are consistent with a low level of gene flow, despite moderate levels of divergence at this locus, between allopatric populations of T. cristinae (Table 5; Fig. 2).
+Estimates of migration rates between T. californicum and T. poppensis obtained from IMa analyses varied across loci (Table 5; Fig. 3). Highest posterior probability (HPP) estimates of migration rates at the two nuclear loci Tc_nuc235 and Tc_nuc10854 are consistent with little or no migration in either direction regardless of geographical arrangement (Table 5). In contrast, there was evidence for nonzero migration from T.poppensis to T. californicum, albeit at a low rate, at the two other nuclear loci (Table 5; Fig. 3). Results from the mitochondrial data set were consistent with migration between T. poppensis and T. californicum in both directions between parapatric populations (Table 5; as noted above, sequences that would allow an allopatric comparison for this locus could not be obtained). Likelihood ratio tests of nested models using the complete nuclear data set rejected models in which migration rates between T. poppensis to T. californicum were equal to zero under both geographical scenarios (LRT, all P < 0.05; Table 6). Moreover, a model where rates of migration were equal
+Ó 2012 Blackwell Publishing Ltd
+
+ Locus
+Nuclear Tc_nuc235
+Tc_nuc9172
+Tc_nuc10854
+Tc_nuc11144
+Mitochondrial CO1
+Population
+Ceanothus
+Aden. (para.)
+Aden. (allo.) Timema californicum T. popp (para.)
+T. popp (allo.) Ceanothus Aden. (para.) Aden. (allo.) T. californicum T. popp (para.) T. popp (allo.) Ceanothus Aden. (para.) Aden. (allo.) T. californicum T. popp (para.) T. popp (allo.) Ceanothus Aden. (para.) Aden. (allo.) T. californicum T. popp (para.) T. popp (allo.)
+Ceanothus Aden. (para.) Aden. (allo.) T. californicum T. popp (para.)
+nh Genetic diversity 50 26 0.93 ± 0.02
+52 24 0.94 ± 0.02 46 17 0.93 ± 0.02 50 5 0.65 ± 0.04 54 2 0.11 ± 0.06 48 1 0.00 ± 0.00 44 8 0.63 ± 0.08 50 9 0.67 ± 0.07 44 8 0.76 ± 0.05 46 4 0.24 ± 0.08 54 2 0.07 ± 0.05 48 1 0.00 ± 0.00 48 3 0.20 ± 0.07 52 3 0.21 ± 0.07 44 3 0.28 ± 0.08 50 2 0.18 ± 0.07 52 2 0.27 ± 0.07 48 2 0.51 ± 0.02 48 1 0.00 ± 0.00 52 2 0.04 ± 0.04 42 2 0.09 ± 0.06 48 2 0.04 ± 0.04 48 3 0.45 ± 0.06 44 1 0.00 ± 0.00
+25 7 0.81 ± 0.05 26 7 0.85 ± 0.03 21 5 0.64 ± 0.10 25 8 0.71 ± 0.09 15 4 0.72 ± 0.08
+%S Tajima’s D 4.71 )1.24
+4.24 )0.94 5.41 )1.28 0.94 1.79 0.47 )0.9 0.00 0.00 2.61 )1.48 2.85 )1.14 2.38 )1.1 0.95 )1.45 0.24 )0.88 0.00 0.00 0.53 )1.00 0.53 )0.89 0.53 )0.66 0.26 )0.24 0.26 )0.27 0.53 2.27 0.00 0.00 0.22 )1.1 0.22 )0.85 0.88 )1.87 0.44 1.64 0.00 0.00
+8.006536 1.44 8.006536 2.10 7.51634 0.51 1.960784 )0.06 1.470588 1.54
+TIMEMA TRANSCRIPTOME 555 Table 3 Within-population descriptive
+statistics including number of alleles sampled (n), number of haplotypes observed (h), genetic diversity (expected heterozygosity in a diploid individual), per cent polymorphic sites (%S) and Tajima’s D
+  Ceanothus = Timema cristinae Ceanothus population, Aden. = T. cristinae Adenostoma population, T. popp = Timema poppensis. Geographical location relative to focal population is given in parentheses (para. = parapatric and allo. = allopatric).
+  Level
+Ecotype Ecotype Species Species
+Locus
+Geography Tc_nuc235 Tc_nuc9072 Tc_nuc10854 Tc_nuc11144 CO1
+Table 4 Pairwise FST between Timema cristinae ecotypes and between the species pair Timema poppensis and Timema californicum for four nuclear loci and one mitochondrial locus
+  Parapatric 0.016 Allopatric )0.013 Parapatric 0.924 Allopatric 0.929
+)0.008 0.026 0.904 0.917
+)0.004 0.004 0.884 0.717
+)0.002 0.03 0.029 0.343 0.896 0.331 0.982 N⁄A
+ Significant FST values (P < 0.05) are shown in bold. The level of comparison (ecotype or species) is indicated along with the geographical arrangement of the populations being compared. Ecotype comparisons are between populations of T. cristinae, and species-level comparisons are between the species T. californicum and T. poppensis.
+in both directions was not rejected, suggestive of bidirectional nuclear gene flow.
+Discussion
+Recent advances in both sequencing technologies and data processing now facilitate the rapid development of
+genomic resources for nonmodel organisms. Here, we characterize the transcriptome of Timema cristinae, a species that has been the focus of extensive study but has lacked genomic resources. We then use this resource to develop markers for assessing patterns of multilocus genetic divergence within and between species of Timema. Our results yield several empirical insights into
+Ó 2012 Blackwell Publishing Ltd
+
+556 A. A. COMEAULT ET AL. m1
+m2
+HPP 90Low 90High
+Table 5 Summary of estimates of locusspecific migration rates. Results are averages of three runs using the program IMa
+ Level of comparison
+Ecotype Species Species Species Species Species Species Species Species Species
+Geographical arrangement
+Allopatric Parapatric Parapatric Parapatric Parapatric Parapatric Allopatric Allopatric Allopatric Allopatric
+Locus HPP
+90Low 90High
+    CO1 0.890 0.030 235 0.005 0.005 9172 0.505 0.018 10854 0.005 0.005 11144 0.578 0.018 CO1 0.875 0.005 235 0.005 0.005 9172 0.578 0.005 10854 0.005 0.005 11144 0.338 0.005
+47.25 0.602 2.965 4.712 4.115 7.582 0.568 6.052 4.208 2.478
+0.070 0.030 0.005 0.005 0.005 0.005 0.005 0.005 0.005 0.005 0.335 0.005 0.045 0.005 0.005 0.005 0.005 0.005 0.005 0.005
+14.590 0.795 2.008 4.855 1.448 6.742 1.348 7.728 3.298 6.078
+ m1 = migration rate into
+HPP = highest posterior
+bility distribution of the parameter estimate; ior probability distribution of the parameter
+migration rate into population 2;
+= lower bound of 90% of the posterior proba90High = upper bound of 90% of the posterestimate.
+population 1; m2 = probability; 90Low
+   0 2 4 6 8 10
+Migration rate
+Fig. 2 Posterior probability distribution of migration rate estimates between allopatric Timema cristinae ecotypes for the mitochondrial locus CO1. Posterior probability distributions are the means of three independent IMa analyses.
+  Adenostoma to Ceanothus Ceanothus to Adenostoma
+CO1
+   genetic divergence in Timema, such as evidence suggestive of low-level gene flow between allopatric populations of T. cristinae and the first estimates of rates of gene flow between species of Timema. We discuss below first aspects of the transcriptome sequencing project and then of the population genetic study.
+Transcriptomal variation and a genomic resource for Timema
+The more than 1.3 million 454 sequencing reads we obtained provided the basis for a thorough assembly and characterization of the T. cristinae transcriptome. The presence of xenobiotics in transcriptome sequencing projects needs to be carefully considered, for example, to
+prevent inaccurate estimates of expression rates; however, these ‘contaminants’ can also provide important insight into the biology of the organism being studied (e.g. Hale et al. 2009, 2010). The small percentage of BLAST annotations to nonmetazoan taxa we observed indicates a lack of major contamination in our assembly. Large numbers of contigs and singleton sequences had BLAST annotations to unique genes, and the deep coverage of many contigs allowed the detection and characterization of large numbers of SSRs and SNPs. This resource should facilitate and support future work on genomic divergence in a species that has facilitated insight into the process of ecological speciation.
+Similar to previous 454 transcriptome sequencing studies, a large percentage of the 454 reads (70%) were assembled into contigs (Novaes et al. 2008; Meyer et al. 2009; Parchman et al. 2010). As would be expected from this number of sequences, mean coverage depth was reasonably high (5.7·). BLAST analyses indicated the presence of more than 18 000 unique transcripts. Owing to the presence of alternatively spliced variants (Modrek & Lee 2002), this is probably an overestimate of the underlying number of genes. Nonetheless, given Drosophila melanogaster is reported to have approximately 13 000 genes (Adams et al. 2000) and Bombyx mori to have 18 000 genes (Xia et al. 2004), the transcriptome sequence collection produced here probably represents a significant portion of the genes in T. cristinae. Large numbers of both the contig consensus sequences and the unassembled singleton sequences were annotated to known proteins in BLAST analyses, providing a wealth of information on the identity and reading frame of the annotated 454 EST sequences. Moreover, a substantial number of transcripts were covered in full length (Fig. 1).
+Ó 2012 Blackwell Publishing Ltd
+Posterior probability
+0.00 0.05 0.10 0.15
+
+The large 454 EST collection presented here thus provides considerable information on the protein-coding fraction of the genome of a taxon where speciation has been studied extensively and for which no previous genome-level resources existed. This lack of genomic resources has hindered insight into the genomic architecture of adaptation and speciation. For example, the avail-
+ability of transcriptome sequences makes it possible to begin targeted enrichment and resequencing of thousands of coding regions across many individuals, as exemplified in Heliconius butterflies (Nadeau et al. 2011). These and numerous other applications will be facilitated by the development of the genomic resource reported here.
+Ó 2012 Blackwell Publishing Ltd
+TIMEMA TRANSCRIPTOME 557
+  Parapatric T. californicum and T. poppensis
+T. californicum to T. poppensis T. poppensis to T. californicum
+                                               0.0 0.5 1.0 1.5 2.0 0.0 0.5 1.0 1.5 2.0 2.5 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5
+01234 01234 012345
+Allopatric T. californicum and T. poppensis
+0.0 0.5 1.0 1.5 2.0 2.5 0.0 0.5 1.0 1.5 2.0 2.5 0 1 2 3 4
+                                                                             Fig. 3
+nuc_complete
+NA
+Tc_nuc9172
+                    0123401234
+Migration rate
+Posterior probability distribution of migration rate estimates between the species pair Timema poppensis and Timema californicum. Posterior probability distributions are the means of three independent IMa analyses.
+Tc_nuc235
+    Tc_nuc10854
+Tc_nuc11144
+CO1
+      nuc_complete
+Tc_nuc235
+Tc_nuc9172
+          Tc_nuc10854
+Tc_nuc11144
+   Posterior probability
+Posterior probability
+0.0 0.2 0.4 0.6 0.8 0.0 0.5 1.0 1.5 2.0
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5
+0.0 0.2 0.4 0.6 0.8 0.0 0.5 1.0 1.5 2.0 2.5
+0.0 0.2 0.4 0.6 0.8 1.0 0.0 0.5 1.0 1.5 2.0 2.5
+0.0 0.1 0.2 0.3 0.4
+0.00 0.05 0.10 0.15 0.20 0.25 0.30 0.0 0.2 0.4 0.6 0.8 1.0
+
+558 A. A. COMEAULT ET AL.
+Table 6 Results of likelihood ratio tests for gene flow carried out on the complete nuclear data set between the species Timema californicum and Timema poppensis. Likelihood ratio tests were carried out on nested models with differing migration histories using the software IMa (Hey & Nielsen 2007). Likelihood ratio test statistics ()2LLR) were calculated as )2(ln(probability of model of interest)⁄(probability of full model)). The full model contains five parameters (h1, h2, ha, m1, m2). Nested models that test the likelihood of different migration histories are given (note: all models still include the three ‘h’ parameters)
+type and number of loci employed in a given study (e.g. Barker et al. 1997; Bachtrog et al. 2006). The nuclear loci we developed here were not randomly sampled from the genome of T. cristinae, but instead where most likely to amplify in distantly related species (i.e. T. californicum and T. poppensis). It is therefore quite possible that these loci are located in highly conserved genes or genomic regions, possibly subject to stabilizing selection, and could therefore represent an underestimates of neutral genetic divergence between T. cristinae populations. Interestingly, at the species level of comparison, these nuclear loci indicate greater divergence, or at least more compete sorting of molecular variation, than loci used in previous studies (see discussion of T. poppensis and T. californicum below). Future studies of genetic divergence using sequence-based scans of genome-wide variation will greatly increase our understanding of how genomic divergence occurs between ecotypes of T. cristinae and how levels of divergence may vary across the genome.
+The mitochondrial locus (CO1) was the only locus that showed significant divergence between populations of T. cristinae, and this was only between allopatric populations. This finding is consistent with a process whereby CO1 differentiates between allopatric populations because of little or no gene flow between them, as supported by our IMa analysis (Fig. 2), but remains undifferentiated in parapatric populations because of high gene flow or recent common ancestry. Although we examined only two population pairs here, a larger CO1 data set examining numerous population pairs has reported consistently weaker differentiation between parapatric vs. allopatric populations (Nosil et al. 2003).
+As expected, patterns of genetic divergence between the species pair T. poppensis and T. californicum differed dramatically from those observed between ecotypes of T. cristinae. Between T. poppensis and T. californicum, all nuclear loci showed significant and large estimates of FST regardless of geographical context (Table 4). In parapatric populations, the mitochondrial locus showed weaker divergence than all four of the nuclear loci. This finding is in line with previous multilocus studies showing a lack of monophyly at CO1 between numerous species pairs of other animals (Funk & Omland 2003 for review) and highlights the importance of using multilocus data sets in systematic and evolutionary studies. Mitochondrial genomes may generally be more likely to cross species boundaries than regions of the nuclear genome, as supported by our IMa analyses (Fig. 3 and Tables 4 and 5) and as reported in past studies (e.g. Bachtrog et al. 2006; Gompert et al. 2006). This trend deserves future study and may be caused by mechanisms such as barriers to gene flow contained in the nuclear genome that are not manifest in the mitochondrial genome (Wu 2001).
+ Model Log likelihood 2LLR d.f. Parapatric T. californicum vs. T. poppensis
+P
+0.144
+0.004
+0.956
+0.016
+0.182
+0.007
+0.744
+0.0271
+ Full model m1 = m2 m1 = 0
+m2 = 0
+1.7779 – –
+0.7112 2.1334 1
+)2.3617 8.2793 1 1.7764 0.003 1 )2.3603 8.2764 2
+m1 = m2 = 0
+Allopatric T. californicum vs. T. poppensis
+Full model m1 = m2 m1 = 0
+m2 = 0
+m1 = m2 = 0
+2.5796 – –
+1.6897 1.7798 1
+)1.0287 7.2165 1 2.5263 0.1065 1 )1.0270 7.2132 2
+ m1 = migration from T. poppensis to T. californium, m2 = migration from T. californicum to T. poppensis.
+Models represented in bold are those not rejected following likelihood ratio tests.
+Gene flow and genetic divergence in Timema speciation
+We used the transcriptome assembly for T. cristinae to rapidly develop PCR primers for four nuclear loci that amplified both in T. cristinae and in the distantly related species pair Timema poppensis and Timema californicum. Using these markers and a single mitochondrial locus, we found pronounced differences in genetic divergence according to the point in the speciation process observed (ecotype vs. species), the locus considered and the geographical arrangement of populations.
+Between ecotypes of T. cristinae, nuclear differentiation was completely lacking. All comparisons of nuclear differentiation between ecotypes of T. cristinae, at both geographical scales, resulted in FST estimates near zero (Table 4). These findings are in line with previous studies using hundreds of AFLP markers, where only a small proportion of markers showed elevated genetic differentiation between ecotype pairs (Nosil et al. 2008). Collectively, these results suggest that most of the genome remains relatively undifferentiated between ecotypes of T. cristinae, with only the few regions affected by divergent selection becoming differentiated between populations (Via 2001; Wu 2001; Nosil et al. 2009).
+Inference of the evolutionary or demographic history within or between populations can be influenced by the
+Ó 2012 Blackwell Publishing Ltd
+
+Despite consistently high levels of divergence, evidence suggestive of a low level of gene flow at nuclear loci was observed between T. poppensis and T. californicum (LRT, Table 6). Evidence suggestive of a low level of migration was observed in two of the four nuclear loci in our data set (Tc_nuc9172 and Tc_nuc11144, Fig. 3). It is possible that the two nuclear loci lacking a signature of migration reside in regions of the genome that were unable to introgress between species during speciation; however, tests of this hypothesis require a more ‘genomic’ view and will benefit from data sets that explore patterns of divergence at tens of thousands of loci (or more) collected from across the genome. With the recent advances that have been made in sequencing technologies and bioinformatics tools, these types of genomic studies are becoming feasible (e.g. see Gompert et al. 2010; Hohenlohe et al. 2010; Nadeau et al. 2011) and are currently underway in Timema.
+A major question awaiting further work is the evolutionary timing of gene flow between populations or species. It is possible that gene flow between T. californicum and T. poppensis was the result of ancient hybridization that occurred during the early stages of speciation, a very low level of recent hybridization (e.g. as a result of secondary contact) or a combination of these processes; however, current methods do not allow for estimates of timing of gene flow (Sousa et al. 2011; Strasburg & Rieseberg 2011).
+Conclusions
+Population genetic analyses are valuable for quantifying genetic divergence occurring between populations at different stages of speciation (e.g. Mallet et al. 2007; Berner et al. 2009; Peccoud et al. 2009; Gompert et al. 2010; Hohenlohe et al. 2010; Rosenblum & Harmon 2011). Here, we used transcriptome sequencing to develop genomic resources for Timema stick insects that allowed us to explore multilocus genetic divergence between populations at different stages of speciation. Analyses of these data revealed variable genetic divergence according to the point in the speciation process examined, as well as variation in divergence history among gene regions. Future studies taking advantage of the assembled transcriptome reported here and a genome-wide view of divergence will greatly increase our understanding of the processes of local adaptation and speciation.
+Acknowledgements
+We thank DNAstar for technical guidance and expertise in use of their Seqman NGen and Lasergene software packages. This work was funded by an Innovation Seed Grant from CU Boulder to PN. AAC was supported by a graduate scholarship from the
+Natural Sciences and Engineering Research Council of Canada. We thank the handling editor Andrew DeWoody and two anonymous reviewers for helpful comments on this manuscript.
+References
+Ó 2012 Blackwell Publishing Ltd
+TIMEMA TRANSCRIPTOME 559

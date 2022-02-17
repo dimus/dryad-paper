@@ -1,0 +1,195 @@
+   Molecular Ecology (2012) 21, 329–339 doi: 10.1111/j.1365-294X.2011.05365.x
+QTL linkage mapping of wing length in zebra finch using genome-wide single nucleotide polymorphisms markers
+HOLGER SCHIELZETH,* WOLFGANG FORSTMEIER,† BART KEMPENAERS† and
+HANS ELLEGREN*
+*Department of Evolutionary Biology, Uppsala University, Norbyva ̈gen 18D, 752 36 Uppsala, Sweden, †Department of Behavioural Ecology and Evolutionary Genetics, Max Planck Institute for Ornithology, Eberhard-Gwinner-Str. 7, 82319 Seewiesen, Germany
+Abstract
+Avian wing length is an important trait that covaries with the ecology and migratory behaviour of a species and tends to change rapidly when the conditions are altered. Long-distance migrants typically have longer wings than short-distance migrants and sedentary species, and long-winged species also tend to be more dispersive. Although the substantial heritability of avian wing length is well established, the identification of causal genes has remained elusive. Based on large-scale genotyping of 1404 informative single nucleotide polymorphisms (SNP) in a captive population of 1067 zebra finches, we here show that the within-population variation of relative wing length (h2 = 0.74 ± 0.05) is associated with standing genetic variation in at least six genomic regions (one genomewide significant and five suggestive). The variance explained by these six quantitative trait loci (QTL) sums to 36.8% of the phenotypic variance (half of the additive genetic variance), although this likely is an overestimate attributable to the Beavis effect. As avian wing length is primarily determined by the length of the primary feathers, we then searched for candidate genes that are related to feather growth. Interestingly, all of the QTL signals co-locate with Wnt growth factors and closely interacting genes (Wnt3a, Wnt5a, Wnt6, Wnt7a, Wnt9a, RhoU and RhoV). Our findings therefore suggest that standing genetic variation in the Wnt genes might be linked to avian wing morphology, although there are many other genes that also fall within the confidence regions.
+Keywords: avian wing morphology, candidate genes, genetic polymorphism, linkage analysis, standing genetic variation
+Received 8 February 2011; revision received 6 October 2011; accepted 14 October 2011
+Introduction
+Avian wing length is an important ecological trait that covaries with ecology and migratory behaviour. Longdistance migrants typically have long, pointed wings compared to short-distance migrants and sedentary species (Mo ̈ nkko ̈ nen 1995; Lockwood et al. 1998; Baldwin et al. 2010). There is also variation linked to the ecology of a species, with highly airborne or flight-active species tending to have longer wings than species that rely less
+Correspondence: Holger Schielzeth, Fax: +46 18 471 6310; E-mail: holger.schielzeth@ebc.uu.se
+on flight for foraging (Altshuler et al. 2004) or flight display (Voelker 2001). Species with long wings have been found to be more dispersive (Skjelseth et al. 2007; Dawideit et al. 2009), which further underlines the ecological significance of variation in wing length. Hence, although the significance of avian wing length might vary across species and contexts, wing length is a distinguishing feature of birds that shows a striking diversity and is likely to be shaped by natural or sexual selection in many situations.
+While these examples of between-species comparisons show the ecological significance of avian wing length, a
+Ó 2011 Blackwell Publishing Ltd
+
+330 H. SCHIELZETH ET AL.
+deeper understanding of microevolution needs to be based on the analysis of within-species standing genetic variation. Wing length has been found to respond rapidly to environmental changes in blackcaps Sylvia atricapilla (Rolshausen et al. 2009) and in medium ground finches Geospiza fortis (Vanhooydonck et al. 2009). Moreover, wing length is highly heritable in several species (Merila ̈ & Sheldon 2000; Jensen et al. 2003; McCleery et al. 2004; Rønning et al. 2007; Gienapp & Merila ̈ 2010), which shows that there is standing genetic variation within populations and thus potential for response to selection. However, the number and identity of genes contributing to this variation have never been identified, although a recent study on great reed warblers (Acrocephalus arundinaceus) has shown that genetic variation on chromosome 2 is associated with variation in wing length in this species (Tarka et al. 2010). More detailed knowledge about the genes involved would substantially increase our understanding of wing length evolution. It may very well be that similar genes shape wing morphology in different species, although this remains speculative as long as comparative data are lacking.
+Avian wing length is largely formed by the length of the primary feathers. Hence, it is likely that variation in wing length is associated with genes that control feather growth. b-keratins are a unique component to avian and reptile scales, beaks, claws and feathers (Sawyer & Knapp 2003; Dhouailly 2009), and genes coding for b-keratins are expressed during feather growth (Sawyer et al. 2003). A gene family encoding for b-keratins is expanded in chicken as compared to mammals (Hillier et al. 2004), and it is possible that these genes might be responsible for variation in feather length within populations. Alternatively, growth factors controlling feather growth may be the targets of selection on wing length. Genes and pathways known to be involved in feather and scale growth in birds include the following: b-catenin, BMP, cDermo-1, collagen-1, collagen-2, Delta1, Dlx, EDA, EGF, En-1, EphA4, FGF, follistatin, gremlin, Hox, Lef, Lmx1, L-Finge, R-Fringe, NCAM, Notch, RhoB, Serrate1, Shh, Tcf, Tenascin-C, TGFb2, TSC22 and Wnt (Widelitz et al. 2003; Lin et al. 2006; Dhouailly 2009). However, to our knowledge, cDermo-1 (that interacts with Wnt and En-1) is the only gene known to prolong (rather than initiate) feather growth (Hornik et al. 2005).
+We here study the genetic basis of variation in wing length in a captive population of zebra finches (Taeniopygia guttata), in which we do not expect wing length to be under strong selection. The captive situation will also reduce environmental variation as compared to the situation in the wild. Relaxed selection as well as controlled environmental conditions should facilitate the detection of genetic polymorphisms,
+because they both potentially increase the relative contribution of genetic variants to the phenotype. Extensive single nucleotide polymorphism (SNP) genotyping combined with pedigree information allows us to map segregating genetic variation associated with variation in wing length. Moreover, as the genome sequence of the zebra finch has recently become available (Warren et al. 2010), we can locate candidate genes in regions that show associations. This is a unique opportunity that is still lacking for the majority of nonmodel organisms.
+Materials and methods
+Study population and pedigree
+Our analysis is based on the 1196 individuals (517 females and 549 males) with phenotypic data and genotypic data 1066 individuals (517 females and 549 males) with additional genotype data. These individuals originate from four consecutive generations (that we refer to as P, F1, F2 and F3) of captive zebra finches that were also used in a previous quantitative trait loci (QTL) mapping study (Schielzeth et al. 2011). The genetic parents of the P generation individuals (‘GP generation’) were also known (they were all bred in cages containing a single breeding pair) and the full pedigree information thus covers five generations. The population was maintained at a minimum of 150 adult individuals per generation, and reproduction was managed to maintain overall genetic diversity (see Forstmeier et al. 2007b for details on genetic diversity and origin of the population, referred to as ‘Seewiesen-GB’ therein). Parentage was ascertained by genotyping offspring and their potential parents using 10 highly variable microsatellite markers (Forstmeier et al. 2007a). All individuals of the F1 and F2 generations and most of the P generation birds (83% of all phenotyped individuals) had been raised (eggs incubated and young fed) by unrelated foster parents, to separate genetic and environmental effects.
+Phenotypic data
+We measured wing length (maximum wing chord, Fig. 8 on p. 21 in Svensson 1992) with a ruler to the nearest 0.5 mm by flattening the wing and measuring from the carpal point to the longest primary (mean ± SD: 58.4 ± 1.6 mm, CV = 0.03, range: 51.5–64.0). At the same time, we measured tarsus length with a ruler to the nearest 0.1 mm (as described in Forstmeier et al. 2007b, mean ± SD: 17.2 ± 0.5, CV = 0.03, range: 14.6– 19.0). The measure of tarsus length allowed us to control for variation in overall body size when mapping variation in wing length.
+Ó 2011 Blackwell Publishing Ltd
+
+All birds were measured within their first year of age (maximum age 367 days), but the exact age of measuring differed among generations: between days 133 and 367 in the P generation (median 231 days), on day 35 in the F1 generation and between day 83 and 127 in the F2 and F3 generations. In zebra finches, the juvenile moult of primary feathers starts with the innermost primary and proceeds very slowly because the next feather is dropped only after the proceeding feather has been fully grown after 21–26 days (Zann 1996). Juvenile moult of the primaries is completed around day 280 in males and day 300 in females (Zann 1996). The longest primary feather (P8, third outermost) is one of the last ones to be moulted. Hence, most of our birds were measured with the wing tip formed by juvenile primaries. Only 54 birds (19 females and 35 males, 4.5% of all birds) were measured after juvenile moult of the primaries is expected to finish. There is some between-individual variation in the speed of moult, but most of the measurements were taken much earlier and were thus clearly juvenile feathers. Therefore, we did not include age as a covariate in our analyses, but we verified the QTL linkage peaks by refitting models for all chromosomes with signs of QTL peaks (the six chromosomes listed in the Results section) by including an adult feather generation indicator (separating birds older than 280 days from younger birds).
+To verify that wing length as measured here is determined largely by the length of the primary feathers, we measured both wing length and the longest primary feather (P8, measured after plucking) to the nearest 0.5 mm in a subset of six birds. The length of the longest primary feather made up 85.5% (mean, range: 83– 87%) of the total wing length among these birds.
+Single nucleotide polymorphisms genotyping and linkage map
+We genotyped 1066 individuals for 1920 SNPs using an Illumina GoldenGate Assay (Fan et al. 2003) at the SNP Technology Platform of Uppsala university. Details on SNP identification, genotyping procedures, call rates and quality control have been described elsewhere (Backstro ̈m et al. 2010). 1404 SNPs were included in a linkage map that contained 32 linkage groups and had a total length of 1479 cM, covering c. 92% of the annotated zebra finch genome (covering all except the ‘chromosomes’ Tgu22, LG2, LG5 and LG22, Un of the current assembly) (Backstro ̈m et al. 2010). The average (±SD) marker spacing was 1.1 ± 3.4 cM, but markers were much denser (in the sense of genetic distances) in the central part of the chromosomes, while marker spacing was substantially wider in the telomeric regions.
+Identity-by-descent probabilities
+Identity-by-descent (IBD) probabilities for genomic regions of interest were estimated using flanking markers for which phase could be inferred (Pong-Wong et al. 2001). We used the Linkage-Disequilibrium LinkageAnalysis (LDLA) tool of GridQTL cluster (Herna ́ndezSa ́nchez et al. 2009) for estimating IBD matrices and for fitting QTL models. Female genotypes of sex-linked markers were coded as heterozygotes having an extra allele that can be thought of as representing the W chromosomes and that was shared among all females. We did not use the option to estimate historical IBD probabilities, because the results were susceptible to details of the population settings. Therefore, we set the number of generations since the establishment of the population to zero, which means that we performed a traditional linkage analysis solely based on marker and pedigree information.
+QTL models
+The GridQTL platform implements variance component-based QTL analysis by fitting mixed effect models with REML estimation (George et al. 2000) using the underlying ASReml software (Gilmour et al. 2002). Models included a matrix of IBD probabilities (see above), an additive genetic relatedness matrix based on the five-generation pedigree, the identity of the mother to allow for maternal effects and the identity of the nest of rearing to allow for shared environmental effects. All these effects were fitted as random effects, and we estimated the variance associated with each of them. Furthermore, we fitted a bird’s sex and inbreeding coefficient (based on the five-generation pedigree) as fixed effects. These covariates account for sexual dimorphism and inbreeding depression, respectively. We fitted models with and without tarsus length as an additional covariate to control for variation in overall size (Berner 2011). Models that include tarsus length map relative wing length (controlled for overall body size), while models that exclude tarsus length map absolute wing length. All fixed effect terms were highly significant (Table S1, Supporting Information). In an initial scan, we calculated IBD probabilities at 5-cM intervals, which we refined to 1-cM intervals on chromosomes that showed indications of linkage in the initial scan. Standard errors were extracted from .vvp and .asr files of the models of the GridQTL output using the pin module of ASReml (Gilmour et al. 2002).
+In another series of models, we aimed at identifying dominance QTL effects. The null models for these analyses were the additive QTL models described above (including the same fixed and random effects).
+Ó 2011 Blackwell Publishing Ltd
+LINKAGE ANALYSIS OF AVIAN WING LENGTH 331
+
+332 H. SCHIELZETH ET AL.
+The dominance QTL models included a matrix of genotype sharing probabilities (both alleles shared IBD) between pairs of individuals. This matrix was fitted as an additional random effect. All effect sizes (additive and dominance QTL effects) were estimated from the more complex model that allowed for additive and dominance QTL effects. For the Z chromosomes, it does not make sense to estimate dominance interactions, because females only carry one Z chromosome. We therefore limited the dominance QTL search on Z to the males in our data set.
+Significance testing of QTL effects
+We used likelihood ratio tests (LRT) for testing the observed likelihood ratios [defined as 2*(LogLikHA) LogLikHo), where LogLikHA and LogLikHo are the log-likelihoods of the alternative and the null model] against a 50:50 mixture of point mass at zero and a v21 distribution to test for the significance of QTL effects, which is equivalent to dividing the P value by two (Self & Liang 1987). Additive models were tested against a model without QTL effects, while dominance models were tested against additive models (hence one d.f. for the v2 distribution in both cases). Significance thresholds adjusted for multiple testing were approximated following Lander & Kruglyak (1995) based on the size of the linkage map (see above). Approximate P value thresholds were 1.28*10)4 (LR 13.37) for significant linkage (expected once by chance in 20 genome scans) and 2.32*10)3 (LR 6.75) for suggestive linkage (expected once by chance in every genome scan). We present P values and likelihood ratios; likelihood ratios (LR) can be converted to LOD scores by LOD = LR ⁄ (2*ln 10) 􏰠 LR ⁄ 4.6. Other variance components (polygenic, maternal and shared environmental effects) were also tested using LRT by comparing nested models excluding (LogLikH0) and including (LogLikHA) the random effect of interest and comparing it to a mixture of point mass at zero and a v21 distribution as described above. We retained marginally significant and nonsignificant random effects, because they represent aspects of the design that should not be subject to arbitrary exclusion based on P value thresholds (see Forstmeier & Schielzeth 2011 for an argumentation for full model fitting).
+We defined confidence interval limits around linkage peaks as all locations where )log10(P) values dropped by one unit, which is equivalent to one unit drop in LOD scores (and we therefore refer to it as 1 LOD drop intervals), compared to the maximum value on the chromosome (Lander & Botstein 1989). Others have shown that a confidence region of 1.5 units drop in )log10 (P) (=1.5 LOD drop intervals) more appropriately reflects a 95% probability of the true causal variant
+being in the confidence regions in backcrosses (while one unit interval covers only 90% of the cases) (Dupuis & Siegmund 1999; Manichaikul et al. 2006). However, the authors acknowledge that these limits are also only approximate, because they depend on cross-type marker density and the underlying magnitude of the QTL effect. We therefore present 1 LOD as well as 1.5 LOD drop confidence intervals.
+Conversion from genetic to physical map
+QTL effects were always estimated between markers (using information from flanking markers). Although we know the locations of markers in the genome assembly, we can only approximate the physical location of genetic positions between markers and we did so by linearly interpolating between flanking markers. Some chromosomes showed unresolved differences between genetic and physical marker order. Therefore, we checked whether any of the markers within the confidence region fell outside the limits inferred by interpolation. If this was the case, we extended the confidence interval up to the location of the most distant marker; limits of confidence regions on the physical map should thus be considered landmarks rather than precise locations. Chromosome Tgu2 turned out to be particularly problematic in our analysis, because marker order differed substantially between the genetic and the physical map. This might be due to errors in the assembly, misassigned marker order in our linkage map or chromosomal rearrangements in our population compared to the individual that was used for genome sequencing. In any case, physical locations on Tgu2 are particularly uncertain and should be treated with caution.
+Search for candidate genes
+We identified candidate genes and pathways based on the most recent and extensive reviews on molecular signalling in feather development (Widelitz et al. 2003; Lin et al. 2006; Dhouailly 2009). We then located the relevant genes in the annotated zebra finch genome. Although some of the functional knowledge about feather growth is specific to individual genes (see Results and Discussion section for details), other information is more general and we therefore aimed at identifying groups of functionally related genes that were then analysed for enrichment in QTL peak regions (see below).
+Specifically, we searched Ensembl 63 (http://www. ensembl.org) for the following genes (number of hits in the zebra finch genome in brackets): BMP ⁄ BMPR (14), b-catenin (4), cDermo-1 (1), collagen-1 ⁄ collagen-2 (2),
+Ó 2011 Blackwell Publishing Ltd
+
+Delta1 (1), Dlx (4), EDA ⁄ EDAR (4), EGF (22), En-1 (1), EphA4 (1), FGF ⁄ FGFR (29), follistatin (4), L-Fringe ⁄ R-Fringe (2), Frizzled (11), gremlin (2), Hex (1), Hox (36, including Msx), Lef (1), Lmx1 (2), NCAM (2), Noggin (2), Notch (6), RhoB (1), Serrate-1 (0), Shh (1), Tcf (11), Tenascin-C (1), TGFb2 (1), TSC22 (3) and Wnt (22). We also included genes that were annotated as ‘like’ (e.g. ARMC3, a b-catenin-like protein), as receptors (e.g. EDA2R, an ectodysplasin-A2 receptor) or as closely interacting proteins (e.g. RhoU, a Wnt-1 responsive protein). The b-keratin gene family has recently been reviewed comparatively for chicken and zebra finch (Greenworld & Sawyer 2010), and we used this source directly for locating keratin genes.
+Furthermore, we searched the KEGG database (http://www.genome.jp/kegg/pathway.html) for annotated signalling pathways that include genes matching the search terms mentioned above. Four pathways turned out to be of relevance: TGFb signalling pathway (tgu04350), Hedgehog signalling pathway (tgu04340), Notch signalling pathway (tgu04330) and Wnt ⁄ b-catenin signalling pathway (tgu04310). We localized all genes assigned to these pathways in the zebra finch genome and checked whether or not they were included in QTL regions. The TGFb signalling pathway includes BMP ⁄ BMPR, Noggin, TGFb and Noggin genes, the Hedgehog signalling pathway includes Shh and Wnt genes (the Wnt pathway acts downstream of the Hedgehog pathway and Wnt genes are therefore shown in the Hedgehog signalling pathway), the Notch signalling pathway includes Fringe and Notch, and the Wnt signalling pathway includes b-catenin, Fizzled, Lef, Tcf and Wnt genes.
+Enrichment tests for candidate genes
+To perform randomization tests for association between gene group members (or signalling pathways) and QTL peak regions, we downloaded all verified and predicted transcripts from Ensembl using BioMart (http:// www.biomart.org) and extracted all unique gene identifiers (18 151 unique gene identifiers from 18 383 unique transcripts identifiers). We excluded all genes located on chromosomes that were not covered by the genetic map, which left us with 13 438 genes that could potentially have given rise to linkage signals. The randomization was performed separately for each candidate gene group (or signalling pathway). First, we defined a test statistic (‘matches’) as the number of QTL peak regions that contained at least one gene of the gene group (or signalling pathway) under consideration in our empirical (not randomized) data set. We then performed Monte Carlo simulation (100 000 independent simulations) by randomizing the vector of gene group identifi-
+ers (coded binary as whether or not a specific gene belonged to a specific group of genes). We counted the number of ‘matches’ in each randomized data set. Across all iterations, this procedure gives an empirical distribution of the test statistic under the null hypothesis of no overrepresentation of a particular group of genes in QTL confidence regions. The proportion of iterations that showed at least the number of observed matches gives the asymptotic P value under the null hypothesis. Notably, the procedure assumes that genes within families are distributed independently and the randomization P value will therefore be conservative (larger than expected under the null hypothesis) when genes are clustered.
+Results
+Quantitative genetics
+Wing length varied between 51.5 and 64.0mm (mean ± SD: 58.3 ± 1.6 mm in females and 58.5 ± 1.5 mm in males). The phenotypic variance after controlling for fixed effects (see Table S1, Supporting Information) was VP = 2.21 mm2, and the heritability of relative wing length (i.e. the polygenic effect) was estimated to h2 = 0.735 ± 0.049 (LRT: v2 = 366.11, P = 6.6*10)82). We also tested for nongenetic effects influencing zebra finch wing length. Maternal effects were fitted as a mother identity random effect and explained <1% of the phenotypic variance in relative wing length (m2 = 0.004 ± 0.015, LRT: v2 = 0.19, P = 0.33). Similarly, shared early rearing effects, fitted as a brood identity random effect, explained only about 3.7% of the phenotypic variance (e2 = 0.037 ± 0.015, LRT: v2 = 2.31, P = 0.064).
+QTL signals
+With respect to additive QTL effects, we found genome-wide significant linkage with variation in relative wing length (controlled for tarsus length) on one chromosome (Tgu7) and suggestive linkage on five additional chromosomes (Tgu1, Tgu2, Tgu3, Tgu5 and Tgu12) (Figs 1 and 2). All but one linkage peak (on Tgu5) showed evidence of suggestive (four peaks) or significant (one peak) linkage also for absolute wing length (not controlled for tarsus length, Figs S1 and S2, Supporting Information). We did not find evidence for dominance QTL effects (Fig. 1). In the following, we will focus on relative wing length, because this more specifically reflects wing morphology rather than overall (body) size. The results are qualitatively unchanged when including age as a covariate (Fig. S3, Supporting Information).
+Ó 2011 Blackwell Publishing Ltd
+LINKAGE ANALYSIS OF AVIAN WING LENGTH 333
+
+334 H. SCHIELZETH ET AL.
+ Fig. 1 Genome-wide scan (at 5-cM intervals, refined to 1-cM intervals at Tgu1, Tgu2, Tgu3, Tgu5, Tgu7 and Tgu12) for linkage with variation in wing length (controlled for variation in tarsus length) in a captive population of zebra finches. The upper plot shows the significance, and the lower plot shows the estimated effect size (expressed as proportion of phenotypic variance explained). Chromosome identities are shown below the abscissa. The upper and lower dotted lines show thresholds for significant and suggestive linkage, respectively. Vertical black lines in the upper part of each plot show marker locations. Black lines show results for additive QTL effects, and grey lines show results for dominance QTL effects.
+ Fig. 2 Fine-mapping (at 1-cM intervals) of linkage with variation in wing length (controlled for variation in tarsus length) on six chromosomes that show evidence of linkage. See Fig. 1 for detailed explanations. Confidence regions for (additive) QTL locations are highlighted by grey shading (light shading: 1.5 LOD drop regions, dark shading: 1 LOD drop regions). Labels on the x-axis are in units of Centimorgan (cM).
+The proportion of the phenotypic variance that is explained by the six QTL peaks amounts to 36.8% when estimated at the point of highest significance (Table 1). Hence, the sum of all six QTL peaks
+amounts to about half of the heritability, although the sum of the QTL effects might be somewhat overestimated because of the Beavis effect (see Discussion section).
+Ó 2011 Blackwell Publishing Ltd
+
+LINKAGE ANALYSIS OF AVIAN WING LENGTH 335
+    The six QTL peaks each spanned 12–68 cM on the genetic map when considering the 1 LOD drop interval and 24–75 cM when considering the 1.5 LOD drop interval. Because of large linkage blocks in the central parts of the chromosomes, physical peak regions were often large, summing up to 440.6 Mb in 1 LOD drop intervals and 478.5 Mb in 1.5 LOD drop intervals (Table 1, Fig. S4, Supporting Information). All QTL confidence regions contain many coding genes (Table 1).
+Candidate genes
+In the following, we go through the locations of candidate genes for wing length in relation to the detected QTL peaks. Genes coding for b-keratin are located on Tgu2 (22 genes), Tgu25 (10 genes) and Tgu27 (41 genes) and chromosome ‘unknown’ (35 genes) (Greenworld & Sawyer 2010). Chromosome ‘unknown’ is not covered by our genetic map. We did not find associations with wing length on Tgu25 or Tgu27, and the 22 b-keratin genes on Tgu2 are clustered in a rather small genomic region (155.99–156.06 Mb, Greenworld & Sawyer 2010) that falls out of the wide 1.5 LOD confidence region. Hence, overall we did not find evidence for an association between b-keratin genes and variation in wing length.
+Based on experimental work, c-Dermo1 (=Twist2) is the strongest candidate for causing variation in wing length, because it is known to prolong feather growth (Hornik et al. 2005). It is located on Tgu7 (at c. 1.56 Mb) in the zebra finch genome. Based on the closest markers (located at 0.82 and 2.14 Mb, corresponding to c. 0.4– 0.6 cM), this gene falls within the 1.5 LOD (but not the 1 LOD) confidence region. Hence, while still in the 1.5 LOD confidence region the location of c-Dermo1 does not closely match the QTL peak and might therefore be considered a less good candidate for causing the association.
+Among growth factors that are known to be involved in feather growth, the Wnt family of genes is the only one that has genes in all QTL confidence regions (Table 2). Given the number of Wnt genes that are located on mapped chromosomes (N = 20), the probability that at least one falls in each of six peak regions is marginally significant (Table 2). This borderline significant enrichment for Wnt genes in QTL regions does not stand a multiple-testing correction. None of the other terms show associations with QTL peak regions that come close to significance (Table 2).
+However, there are many other candidates (besides Wnt genes) that reside within QTL regions (see Table S2, Supporting Information). In particular, the broad peaks on Tgu2 and Tgu3 included many potential
+ Ó 2011 Blackwell Publishing Ltd
+Table 1 Confidence regions for additive QTL effects that contribute to standing genetic variation in relative wing length in a captive population of zebra finches
+Chromo-some
+)log10 location LR LOD P (cM)
+(% variance explained ± SE)
+# genes
+Width (Mb)
+# genes
+Tgu1
+Tgu2
+Tgu3
+Tgu5
+Tgu7
+Tgu12 13.04
+5.26 ± 2.96 5.86 ± 2.89 5.67 ± 2.75 3.94 ± 2.41 7.59 ± 3.00 8.43 ± 3.17
+52–61 13.61–102.27 88.66 0–68 0.00–145.17 145.17 37–69 7.19–112.62 105.43 7–42 4.64–59.36 54.72 0–19 0.00–28.14 28.14 0–25 0.00–18.50 18.50
+833 1209 1038
+48–86 0.00–103.49 0–75 0.00–151.57 35–69 6.55–112.62
+103.49 151.57 106.07
+981 1239 1041
+8.84 1.92 2.83 55 7.58 1.65 2.53 54 7.47 1.62 2.50 62 7.79 1.69 2.58 20
+806 389 297
+0–64 0.00–62.37 0–24 0.00–35.43 0–29 0.00–19.59
+62.37 34.61 19.59
+895 463 299
+16.92 3.67 4.71 11 2.83 3.82 5
+Peak Effect size
+Genetic Physical
+position position Width (cM) (Mb) (Mb)
+Genetic Physical position position (cM) (bp)
+LR, Likelihood ratio. The QTL peak on Tgu7 exceeded the genome-wide significance threshold, while the other four peaks exceeded the suggestive linkage
+threshold.
+Confidence regions (1 LOD drop)
+Confidence regions (1.5
+LOD drop)
+
+336 H. SCHIELZETH ET AL.
+Table 2 Number of genes per candidate gene family (only families with more than two genes are shown)
+BMP b-catenin Dlx EDA EGF FGF follistatin Frizzled HOX Notch TCF TSC22 Wnt
+  Totalnumberofgenes 14
+4 4
+2 1
+0.81 2
+4 4 22 29
+4 4 17 22 4 10 28
+4 2 2 2
+0.35 0.36 4 2
+22
+0.40 0.40
+6 11 4 11
+3 24 3 20
+1 8 1 6
+0.72 0.044 1 8
+#genesonmapped chromosomes
+#genes in QTL 1 LOD drop regions
+#matched1LODdrop regions
+Randomization test P value #genes in QTL 1.5 LOD drop
+regions #matched1.5LODdrop
+regions
+Randomization test P value
+12 4 3
+0.65 5
+5 4
+4 2
+0.53 1.00 0.81 0.18 1.00
+2 1
+0.81 2
+1 1
+0.99 1
+41
+0.33 0.84
+11 6
+0.99 0.75 0.059
+4 11 36
+1 7 19 1 4 2
+5 4
+4 21 4 21 0.6 1.00 0.84 0.21 1.00 0.84
+1 7 19
+ The randomization P values show the probability of matching at least the number of QTL peaks as in the observed data, given the number of genes per family on mapped chromosomes and the number of genes per peak region.
+candidates: BMP (1), b-catenin (1), collagen-1 (1), Dlx (2), EGF (1), En-1 (1), Frizzled (3), Hox (11) and Shh (1, all on Tgu2) and BMP (2), Delta1 (1), EDA (1), EGF (2), Frizzled (1), Gemlin (1), Notch (2), RhoB (1), TCF (1) and TGFb2 (1, all on Tgu3). Perhaps more informative are the narrower peak regions on Tgu1, Tgu5, Tgu7 and Tgu12. The peak on Tgu1 included EDAR, EGFL6, FGF14, FGF9, FSTL1, FZD4 and TSC22D1, the peak on Tgu5 included BMP4, FGF19, FGF3 and GREM1, the peak on Tgu7 included BMPR2, TWIST2, DLX1, DLX3, FZD5, FZD7 as well as a cluster of eight Hox genes and the peak on Tgu12 included only the EGF-related CRELD1 (besides two Wnts). It is possible that some of these genes harbour variants that contribute to the observed QTL peaks.
+We also searched for genes within KEGG signalling pathways that co-locate with QTL confidence regions. Two signalling pathways (TGFb and Wnt) had genes in
+all six QTL regions (Table 3), but only the Wnt signalling pathways had genes that were not shared with any of the other four pathways in all six QTL regions (Table 3). However, the number of matched QTL regions is clearly not significant given the number of genes in each pathway (randomization P values all >0.28).
+Discussion
+We here report that six genomic regions are linked to variation in wing length in a captive population of zebra finches. Two of the regions reach or exceed the approximate genome-wide significance threshold while the others were suggestive of QTL linkage. All putative QTL regions show similar effect sizes (3.9–8.3%) and together they explain about half of the heritability in wing length (but see Discussion below). Interestingly,
+Table 3 Overview of genes in candidate KEGG signalling pathways
+Hedgehog Notch TGFb Wnt
+  KEGG identifier
+# genes
+# covered genes
+# genes covered and unique # genes in 1 LOD regions
+# matched 1 LOD QTL regions
+# 1 LOD QTL regions matched by unique genes # genes in 1.5 LOD regions
+# matched 1.5 LOD QTL regions
+# 1.5 LOD QTL regions matched by unique genes
+signalling signalling signalling signalling
+tgu04340 tgu04330 tgu04350 tgu04310 37 34 58 109
+35 33 52 102
+11 26 34 53
+12 13 20 36 5 5 6 6 3 5 5 6
+13 13 21 36 6 56 6 3 55 6
+ Unique genes refer to genes within a pathway that are not shared with any of the other pathways.
+Ó 2011 Blackwell Publishing Ltd
+
+one of the peak regions (on Tgu2) matches with a peak region that has been identified in the great reed warbler (Tarka et al. 2010). As synteny is rather well conserved among birds (Ellegren 2010), finding an association on chromosome 2 independently in two passerine species could mean that similar genes (or regulatory elements) are associated with variation in wing length in these species.
+Point estimates for the variance explained at putative QTL locations were sometimes much higher in regions away from the QTL peaks (Figs 1 and 2). This is likely due to the Beavis effect (Beavis 1984; Xu 2003), an overestimation of variance components when the power to detect significant linkage is low. Power is not constant in a genome scan, because it depends on marker spacing, minor allele frequencies and ultimately the number of informative meioses. This is the main reason why we focus on the significance rather than effect sizes when delimitating QTL peak regions. However, also the variance at the points of maximal significance is likely to be influenced by the Beavis effect. Hence, we expect that the individual effect sizes as well as the sum of the six QTL effects are somewhat overestimated and should be interpreted as an upper limit to the true effect sizes.
+The fact that we find several strong genetic signals for wing length might also be related to the selective history of zebra finches under domestication. We do not expect that there has been a strong selective constraint on zebra finch wing length in the recent past. This might be the reason for the substantial amount of genetic variance in our population, because selection tends to decrease the genetic variance (Falconer & Mackay 1996). Studying the genetics of wing length in a population where we expect standing genetic variation in wing length to be selectively neutral (such as ours) might be a particularly advantageous approach, because we expect more segregating polymorphisms and hence more power in the analysis.
+Our search for candidate genes shows that Wnt genes are located in each of the six peak regions. This result is interesting, even if it does not stand a correction for multiple testing (the power of the test is low). Wnt growth factors bind to frizzled receptors on the cell membrane (Noramly et al. 1999; Widelitz 2005). In the canonical pathway, Wnt binding inhibits b-catenin degradation, which leads to cell proliferation (Widelitz 2005). b-catenin itself is also located in one of the peak regions Tgu2. There are also two noncanonical pathways that are involved in cell polarity and cell adhesion (Widelitz 2005). The Hedgehog signalling pathway acts upstream of the Wnt signalling pathway, but besides Shh itself (that is located in a broad peak on Tgu2) we do not find evidence that gene of Hedgehog
+signalling contribute to standing genetic variation in our population.
+Among Wnt genes that reside in QTL confidence regions, Wnt3a, Wnt5a, Wnt6 and Wnt7a are specifically known to be involved in feather growth. They are expressed in the distal feather bud (Widelitz et al. 1999; Chodankar et al. 2003; Chang et al. 2004) and thus have the potential to prolong feather growth. Wnt5a and Wnt6 are particularly interesting: Wnt5a is located on Tgu12 (at c. 5.6–6.6 cM), which is very close to the peak of the second strongest QTL signal in our study (peaking at 6 cM), and Wnt6 is located on Tgu7 (at c. 14.5– 15.4 cM) very close to the most pronounced QTL peak (peaking at 12 cM).
+Wnt1 and Wnt11 are also known to be involved in feather growth (Chang et al. 2004), but for Wnt1 and Wnt11-2 it is not clear where they are located in the zebra finch genome (currently annotated on Tgu_unknown) and we therefore cannot judge whether they contribute to variation in wing length. Wnt11-1 is covered by the genetic map (on Tgu1), but is not located in a QTL confidence region. Hence, we do not find evidence for an association of Wnt1 and Wnt11 with variation in wing length. Interestingly, however, two genes that are responsive to Wnt1 are located in two QTL peaks on Tgu3 and Tgu5 (RhoU and RhoV, respectively).
+Many other candidate genes also matched peak regions. For example, Shh and BMP2 are both included in confidence regions on Tgu2 and Tgu3, respectively (Table S2, Supporting Information). Shh-BMP2 antagonistic signalling is involved in producing pennaceous (bilateral symmetrical) feathers as opposed to radial symmetrical down feathers (Harris et al. 2002), an effect that is similar to the effect of Wnt3a (Yue et al. 2006). Another interesting example is b-catenin (CTNNB1), a gene of the Wnt ⁄ b-catenin signalling pathway, that is known to initiate feather bud development (Noramly et al. 1999). These as well as a number of other genes (see Table S2, Supporting Information) are further candidates for contributing to the six QTL peaks that we have identified.
+Acknowledgements
+Niclas Backstro ̈m and Harriet Mellenius kindly provided the linkage map based on genotyping performed at the Uppsala University SNP technology platform. Elisabeth Bolund and Katrin Martin helped with phenotyping the zebra finches and Melanie Schneider helped with laboratory work. Natassia Gioti, Axel Ku ̈nstner, Jakob Mu ̈ller and Benoit Nabholz provided valuable suggestion for the candidate genes search. Arild Husby and Dario Beraldi helped with advice on the use of ASReml. Furthermore, we are grateful to three anonymous referees for their constructive comments. The work was funded by German Research Foundation Grants FO340 ⁄ 1-1, FO340 ⁄ 1-2
+Ó 2011 Blackwell Publishing Ltd
+LINKAGE ANALYSIS OF AVIAN WING LENGTH 337

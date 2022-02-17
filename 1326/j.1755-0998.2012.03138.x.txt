@@ -1,0 +1,1898 @@
+﻿Molecular Ecology Resources (2012) 12, 740–752
+
+doi: 10.1111/j.1755-0998.2012.03138.x
+
+High-throughput microsatellite marker development in two
+sparid species and verification of their transferability in the
+family Sparidae
+KERRY REID, THIERRY B. HOAREAU and PAULETTE BLOOMER
+Molecular Ecology and Evolution Programme, Department of Genetics, University of Pretoria, Pretoria 0002, South Africa
+
+Abstract
+Recently, 454 sequencing has emerged as a popular method for isolating microsatellites owing to cost-effectiveness and
+time saving. In this study, repeat-enriched libraries from two southern African endemic sparids (Pachymetopon blochii and
+Lithognathus lithognathus) were 454 GS-FLX sequenced. From these, 7370 sequences containing repeats (SCRs) were identified. A brief survey of 23 studies showed a significant difference between the number of SCRs when enrichment was performed first before 454 sequencing. We designed primers for 302 unique fragments containing more than five repeat units
+and suitable flanking regions. A fraction (<11%) of these loci were characterized with 18 polymorphic microsatellite loci
+(nine in each of the focal species) being described. Sanger sequencing of alleles confirmed that size variation was because
+of differences in the number of tandem repeats. However, a case of homoplasy and sequencing errors in the 454 sequencing
+were identified. These newly developed and four previously isolated loci were successfully used to identify polymorphic
+markers in nine other economically important species, representative of sparid diversity. The combination of newly developed markers with data from previous sparid cross-species studies showed a significant negative correlation between
+genetic divergence to focal species and microsatellite transferability. The high level of transferability we described (48%
+amplification success and 32% polymorphism) suggests that the 302 microsatellite loci identified represent an excellent
+resource for future studies on sparids. Microsatellite marker development should commonly include tests of transferability
+to reduce costs and increase feasibility of population genetics studies in nonmodel organisms.
+Keywords: 454 sequencing, cross-species amplification, FIASCO microsatellite enrichment, Lithognathus lithognathus,
+Pachymetopon blochii, Sparidae
+Received 8 December 2011; revision received 17 February 2012; accepted 27 February 2012
+
+Introduction
+Microsatellite markers are neutral, highly variable,
+codominant loci that are found in all eukaryotic genomes
+(Ellegren 2004). They have been extensively used as they
+are relatively easy to develop in nonmodel organisms and
+provide insight into current demography of the species
+studied, which has broad applications in evolutionary,
+population and conservation genetics (Ellegren 2004;
+Selkoe & Toonen 2006; Waples & Gaggiotti 2006).
+Microsatellite loci are generally identified de novo
+through time-consuming and relatively expensive methods in nonmodel organisms. There are numerous development processes, including creating selective
+hybridization partial genomic libraries enriched for
+repeat fragments (Fast Isolation by AFLP of Sequences
+Containing repeats (SCRs), FIASCO, Zane et al. 2002),
+Correspondence: Kerry Reid, Fax: +27 12 3625327;
+E-mail: kerryreid13@gmail.com
+
+mining expressed sequence tags (ESTs, Ellis & Burke
+2007) and primer extension protocols (Ostrander et al.
+1992; Paetkau 1999). With the advent of next-generation
+sequencing, the time of cloning and Sanger sequencing
+partial genomic libraries may be saved. Compared with
+conventional de novo methods, it is an improved method
+for identifying repeat-containing fragments in species
+with low microsatellite density such as birds (Csencsics
+et al. 2010), bats (McCulloch & Stevens 2011) or inbred
+species (Buehler et al. 2011).
+Recent studies have used 454 LifeSciences ⁄ Roche
+GS-FLX sequencing either for partial genome sequencing
+to identify SCRs (Abdelkrim et al. 2009; Allentoft et al.
+2009; Castoe et al. 2010), or to first enrich for repeat-containing sequences before 454 sequencing (Santana et al.
+2009; Malausa et al. 2011; Muths & Bourjea 2011) when
+isolating microsatellites. This high-throughput sequencing procedure leads to the recovery of thousands of
+repeat-containing sequences and dramatically reduces
+the costs per sequence (Malausa et al. 2011). It also allows
+
+ 2012 Blackwell Publishing Ltd
+
+M I C R O S A T E L L I T E T R A N S F E R A B I L I T Y I N S P A R I D A E 741
+for more stringent choices of repeat sequence for marker
+development and ultimately more effective genotyping
+(Guichoux et al. 2011).
+An alternative to de novo microsatellite isolation is
+cross-species amplification, that is, testing microsatellites
+isolated from a focal species in closely related species.
+This is possible owing to the potential conservation of the
+flanking regions and thus the priming sites (FitzSimmons
+et al. 1995). Cross-species transfer of microsatellite loci
+has been successful in many species, including animals
+(vertebrates and invertebrates), fungi and plants (Barbará
+et al. 2007). Microsatellites identified in cetaceans, turtles
+and marine fish have shown extensive flanking region
+conservation in some of the markers (Schlötterer et al.
+1991; FitzSimmons et al. 1995; Rico et al. 1996). For
+instance, one locus has been amplified in a number of different fish families, suggesting that it has been conserved
+over 470 Myr of evolution (Rico et al. 1996).
+Other studies have identified clear negative correlations between genetic distance and transferability of loci
+(amplification success and polymorphism) in several taxa
+of vertebrates, including birds, amphibians and fish
+(Primmer et al. 2005; Carreras-Carbonell et al. 2008;
+Hendrix et al. 2010). Carreras-Carbonell et al. (2008) used
+previous microsatellite data from cross-species studies of
+fish and investigated a relationship between marker
+transferability in targeted species and the genetic divergence to focal species based on the 16S or 12S mitochondrial rRNA genes. They showed that among members of
+several fish families (63 species; nine families) microsatellite transferability depended on genetic divergence
+between species. The equation obtained, defining this
+regression model, may be used to predict the degree to
+which the microsatellites from a focal fish species will be
+polymorphic in a species of interest (Carreras-Carbonell
+et al. 2008). Many fish studies have reported markers that
+amplify in other closely related species, also in the Sparidae where a number of cross-species amplification studies have been conducted (Chen et al. 2005; Piñera et al.
+2006, 2007; Liu et al. 2007; Roques et al. 2007a).
+The Sparidae is one of the most economically important marine fish families of temperate regions globally,
+with 115 described species (Chiba et al. 2009) of which 41
+(36%) are commonly found around the southern African
+coast (Heemstra & Heemstra 2004). Although sparids are
+a prominent feature to the South African fishery, microsatellite markers have only been developed for one species, the roman Chrysoblephus laticeps (Teske et al. 2009).
+The aim of our study was to develop a set of de novo
+microsatellite markers using a combination of FIASCO
+enrichment (Zane et al. 2002) and 454 GS-FLX sequencing
+for two focal sparid species, the hottentot seabream (HS)
+Pachymetopon blochii and the white steenbras (WS) Lithognathus lithognathus, but with applicability for a number
+
+ 2012 Blackwell Publishing Ltd
+
+of other sparids. From the SCRs, we implemented stringent selection criteria when choosing loci for further
+characterization with only a fraction being tested for
+polymorphism. The polymorphic markers isolated were
+tested with four previously isolated microsatellites from
+other studies, (Piñera et al. 2006; Teske et al. 2009), across
+nine additional species. First, they were tested on the two
+focal species (HS and WS) to improve the number of
+polymorphic markers. Second, these loci were tested on
+nine additional sparids of research and economic importance to South African fisheries which also showed a
+spread across the sparid phylogeny (Chiba et al. 2009).
+This provided a good indication of the cross-species utility of the newly developed markers across a wide range
+of sparids. Finally, genetic divergences based on 16S
+were recovered for all targeted and focal taxa as well as
+those from previous cross-species studies to identify
+trends in the transferability of these microsatellites across
+the Sparidae.
+
+Materials and methods
+Sampling and DNA extraction
+For characterization of the de novo developed microsatellite markers, a sample of 50 individuals of HS were
+extracted with the DNeasy blood and tissue kit (Qiagen):
+These included samples from Sewejaarskop se mond and
+Danger Point (Table S1, Supporting information). Fifty
+WS individuals from three locations (Knysna, Woody
+Cape and Sundays Estuary; Table S1, Supporting information) were extracted with the Wizard Genomic DNA
+Purification Kit (Promega). For cross-species amplification tests, samples from various locations for nine additional sparid species were used (Table S1, Supporting
+information). Species occurring around South Africa
+were chosen to represent correctly the diversity of the
+Sparidae according to their position in the recent comprehensive phylogeny (Chiba et al. 2009): The chosen species
+were scattered among the two major clades (A and B)
+and represented seven of the 11 subclades. Sixteen individuals each of Acanthopagrus berda, Cheimerius nufar,
+Chrysoblephus laticeps, Chrysoblephus puniceus, Diplodus
+cervinus hottentotus, Diplodus sargus capensis, Polysteganus
+undulosus, Rhabdosargus globiceps and Rhabdosargus holubi
+were extracted using the Qiagen kit.
+
+Preparation of repeat-enriched fractions and 454
+sequencing for focal species
+A repeat-enriched genomic fraction was generated for
+both the HS and WS using the FIASCO protocol developed by Zane et al. (2002). In each species, a simultaneous
+digestion ⁄ ligation reaction was performed with 250 ng of
+
+742 K . R E I D , T . B . H O A R E A U a n d P . B L O O M E R
+genomic DNA using the MseI restriction enzyme (New
+England Biolabs) and MseI AFLP adaptors (5¢-TACT
+CAGGACTCAT-3¢ ⁄ 5¢-GACGATGAGGTCCTGAG-3¢; Zane
+et al. 2002). A polymerase chain reaction (PCR) was prepared with primers specific to the MseI adaptors (MseI-N;
+5¢-GATGAGTCCTGAGTAAN-3¢) as described by Zane
+et al. (2002). A biotinylated probe combination containing
+tetranucleotide repeats of CAAA6, GAAA6 and GATA6
+was hybridized with the amplified DNA fragments to
+enrich for repeat motifs in each species as these are some
+of the most common tetranucleotide repeats found in vertebrates (Tóth et al. 2000). The repeat-containing DNA
+was then captured with streptavidin-coated beads
+(Roche).
+Five nonstringent washes were performed by washing
+the DNA-probe-bead complex with TEN1000 (10 mM TrisHCl, 1 mM EDTA, 1 M NaCl, pH 7.5). This was followed
+by five stringent washes (0.2· SSC, 0.1% SDS) and heat
+(TE and 95 C) and chemical (0.15 M NaOH) denaturation to separate the DNA fragments containing repeats
+from the streptavidin-coated beads and probes. The
+enriched DNA was precipitated and PCRs were carried
+out as described by Zane et al. (2002) to amplify approximately 2 lg of DNA. The enriched DNA was purified
+using the High Pure PCR Product Purification Kit
+(Roche).
+The repeat-enriched DNA was sequenced using a 454
+LifeSciences ⁄ Roche Genome Sequencer FLXTM with
+GS-FLX titanium reagents (Inqaba Biotechnical Industries,
+Pretoria, South Africa). Each of these species had approximately one-fifth of a single pyrosequencing lane of a 1 ⁄ 16
+plate allocated and each probing for each species’
+sequences were individually labelled through a molecular
+multiplex identifier (MID) so that the sequences could later
+be separated. The 454 sequencing was carried out with
+standard library preparation methods except for the nebulization with nitrogen, which was omitted as the DNA had
+already been fragmented using the MseI enzyme. The
+DNA fragments were labelled with the specific MID adaptors before the GS adaptors (A & B) were attached. These
+fragments were ligated to beads and an emulsion PCR was
+performed following manufacturer’s specifications. The
+beads containing the amplified sequences were transferred
+to a PicoTiterPlateTM for sequencing on the Genome
+Sequencer FLXTM (Droege & Hill 2008).
+
+Mining and primer development of 454 sequences for
+microsatellite loci
+The MID and MseI adaptors were removed from the
+obtained sequences before further analyses were conducted. The program MSATCOMMANDER VERSION 0.8.2 (Faircloth 2008) was then used to identify sequences
+containing repeat motifs (di-, tri-, tetra- and pentanucleo-
+
+tides) from the 454 sequences of both species. Sequences
+containing five or more repeats were detected and then
+aligned to eliminate any duplicated repeat fragments
+using CLUSTAL X VERSION 1.64b (Thompson et al. 1997). The
+remaining sequences were selected for primer development with PRIMER 3 VERSION 1.1.1 (Rozen & Skaletsky 2000).
+From this, a stringent selection process was implemented
+where only pure tri- or tetranucleotide repeats of more
+than eight repeats were chosen for characterization in HS
+and WS. Tri- and tetranucleotide repeats were chosen
+over dinucleotide repeats as there is less slippage during
+the PCRs that would lead to more accurate genotype
+scoring (Edwards et al. 1991).
+
+Microsatellite characterization in the two focal species
+A panel of 16 individuals of each focal species was used
+to optimize PCR amplification and identify polymorphic
+loci in each species. PCRs were prepared in 10 lL volumes with approximately 50 ng of genomic DNA,
+1· PCR buffer (100 mM Tris-HCl, 500 mM KCl, pH 8.4),
+0.4 U Supertherm Taq polymerase (Southern Cross Biotechnologies), 1.5–2.5 mM MgCl2, 1 pmol of the forward
+and reverse primers (Inqaba Biotec) and 0.2 mM dNTPs
+(Promega). The PCR conditions were the following: 94 C
+for 5 min followed with 94 C for 30 s, 50–61 C for 30 s
+and 72 C for 45 s for 35 cycles and a final elongation step
+of 72 C for 20 min. The PCR products were electrophoresed through 2% agarose gels and visualized with
+GelRedTM Acid stain (Biotium). For optimized loci (those
+with good and consistent amplification), the PCR was
+repeated with 0.02 pmol fluorescently labelled ChromaTide Rhodamine GreenTM-5-dUTPs (Invitrogen); these are
+labelled dNTPs that are incorporated during the PCR
+allowing PCR fragment separation and visualization on an
+automated sequencer. Genotyping was carried out using
+GeneScan software on an ABI 3100 automated sequencer
+(Applied Biosystems, Foster City, CA, USA) with the
+GeneScan LizTM 500 Size Standard (Applied Biosystems).
+For all polymorphic loci, the forward primer was fluorescently labelled with the G5 dye set including 6-FAM,
+VIC, NED and PET (Applied Biosystems). These loci
+were genotyped in 50 individuals of each species (HS
+and WS) using the Quantitect Multiplex PCR kit (Qiagen)
+following the criteria recommended by the manufacturer.
+Approximately 20 ng of genomic DNA, half the final volume of Quantitect multiplex master mix and 0.2 pmol of
+each labelled forward and reverse primer for each primer
+set were included in the multiplex PCR (10 lL). The PCR
+amplification protocol entailed 95 C for 15 min followed
+by 45 cycles of 94 C for 60 s and 60 C for 90 s. Forty HS
+and 20 WS samples were amplified twice for all microsatellite loci to determine genotyping error. The multiplex
+combinations for these species are indicated in Table 1.
+
+ 2012 Blackwell Publishing Ltd
+
+ 2012 Blackwell Publishing Ltd
+
+PET
+6-FAM
+6-FAM
+NED
+PET
+VIC
+VIC
+VIC
+
+PBt003P3
+
+PBt006P1
+
+PBt007P1
+
+PBt011P3
+
+PBt012P2
+
+PBt013P2
+
+PBt014P3
+
+PBt018P1 ⁄ L2
+
+6-FAM
+PET
+PET
+6-FAM
+NED
+PET
+
+LLt007L2
+
+LLt011L1
+
+LLt014L1
+
+LLt020L3
+
+LLt024L3
+
+LLtr004P1 ⁄ L1
+
+SA043P2 ⁄ L2
+
+Clat11P2
+VIC
+Pb-OVI-D106P1 ⁄ L1 VIC
+
+Sparus aurata
+
+Chrysoblephus laticeps
+Pagellus borgaraveo
+
+F: AGGTTCCCCACAGAAGGTC
+R: AGTACCTGGGAAACAGCCC
+F: TTGGGGAAAAGGAGAGGCG
+R: CCGACTCGCTCTGTATGTTG
+F: CATTTTGGCAGTCCGTCCG
+R: AAATGTACTGACGTTCGTATCC
+F: CGCAGGATTCATACGTAAAGAAAT
+R: TTCCATTCCATGCCCTGCC
+F: CACAGACGGGAATGCACAC
+R: AGGGTGTCAGGACAGAACG
+F: CACGCACTGGTATCGAATCTG
+R: AGAGGTGGAGCTAGTCTGTC
+F: GAGAAACAACAGTGTCAGGGG
+R: GCAAGAGTGATGACACACAGG
+F: GTTGGGTGATGGAGCCAAG
+R: CAGAGGTGACTAGAAGCCCC
+F: GTCAAGCCTGTCAAACTGGG
+R: TGGAAAGAAACACGAGCCG
+F: GCTTTGACCGTCTTTTCCCC
+R: GTTTTGGGCTGTTGGTCGG
+F: GTGAGAATCCTCCATCCAAGTC
+R: AATGGGCCTTTCCATGCTG
+F: TCATCTGACCACAGACCAGC
+R:CACGCCATTTGTGACAGTAAG
+F: TGGATACCTGAATGTCCCTCG
+R: GTCATACCCTGGGCTCCAC
+F: AAACCCATCACCCAGTCCC
+R: AAAACACTACAGATTAGACGCTG
+F: ATACAAATGCCACTAGACCAAC
+R: CTATAGTAAGATTGGTAGTCAGTGATG
+F:CTGTGCCTTTATCTGTATCTACTC
+R: TTGTCCATCACGATGTTTC
+F: TGACAGAATGAACGTCGGC
+R: GGTTCTGTTTCTGAGGTCTGG
+F: CGCTCATTGATTGGAGCCC
+R: ACACTGGAACGAAACTGGTTG
+F:GTCGAGGCTGTAAACAGGAC
+R:CGTGGCTTTGGTTATTTCTTGC
+F:TGCATTATATCACACAACACACG
+R:TGGACCACCAGACCAGTTAG
+Teske et al. 2009
+Piñera et al. 2006
+
+Primer sequence (5¢-3¢)
+
+(GATA)7GATG (GATA)4
+(AGAT)10
+
+(AGAT)14
+
+(TATC)17
+
+(CAG)11
+
+(AGAT)18
+
+(CAAC)11(CAAA)13
+
+(AGAT)10
+
+(GATA)12
+
+(TATC)13
+
+(GATA)14
+
+(CAAA)11
+
+(CTTT)8
+
+(TATC)14
+
+(GATA)18
+
+(GATA)13
+
+(TATC)12
+
+(TATC)17
+
+(TATC)13
+
+(AGAT)11
+
+(GATA)17
+
+(AGAT)9
+
+Repeat motif
+
+Amp, number of species in which the microsatellite amplified; Pol, number of species for which the marker was polymorphic.
+*Microsatellite multiplex combinations for hottentot seabreamP1,2,3 and for white steenbrasL1,2,3.
+
+NED
+
+PA535
+
+Pagrus auriga
+6-FAM
+
+VIC
+
+LLt006P3 ⁄ L1
+
+P2
+
+6-FAM
+
+LLt005P3 ⁄ L1
+
+Lithognathus lithognathus LLt002
+VIC
+
+PET
+
+PBt001P3
+
+Pachymetopon blochii
+
+L2
+
+Dye
+
+Locus
+
+Species
+
+192
+
+136
+
+206
+
+240
+
+297
+
+163
+
+241
+
+203
+
+222
+
+237
+
+243
+
+217
+
+174
+
+155
+
+228
+
+222
+
+157
+
+243
+
+164
+
+224
+
+2.5
+
+2.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+1.5
+
+55
+
+51
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+11
+5
+
+1
+
+10
+
+9
+
+1
+
+1
+
+1
+
+3
+
+3
+
+8
+
+6
+
+6
+
+5
+
+4
+
+1
+
+1
+
+5
+
+6
+
+1
+
+9
+
+3
+
+11
+5
+
+1
+
+10
+
+9
+
+1
+
+1
+
+1
+
+3
+
+3
+
+6
+
+4
+
+3
+
+5
+
+4
+
+1
+
+1
+
+5
+
+6
+
+1
+
+9
+
+1
+
+NA
+NA
+
+DQ851346
+
+AB242995
+
+JQ688090
+
+JQ688089
+
+JQ688088
+
+JQ688087
+
+JQ688086
+
+JQ688085
+
+JQ688084
+
+JQ688083
+
+JQ688082
+
+JQ688081
+
+JQ688080
+
+JQ688079
+
+JQ688078
+
+JQ688077
+
+JQ688076
+
+JQ688075
+
+JQ688074
+
+JQ688073
+
+GenBank
+MgCl2
+Size (bp) (mM) TA (C) Amp Pol accession
+
+Table 1 Characterization of polymorphic microsatellite loci from Pachymetopon blochii and Lithognathus lithognathus as well as four loci previously isolated from other sparids
+
+M I C R O S A T E L L I T E T R A N S F E R A B I L I T Y I N S P A R I D A E 743
+
+744 K . R E I D , T . B . H O A R E A U a n d P . B L O O M E R
+
+Sequencing of homozygotes
+Homozygotes for a selection of alleles from the de novo
+developed microsatellite markers were amplified using
+the protocol mentioned previously (using unlabelled
+primers) and then sequenced to confirm repeat motif variation and allele scoring. The precipitated DNA product
+was sequenced in the forward orientation only. The ABI
+PRISM BigDye Terminator Cycle Sequencing Ready
+Reaction kit VERSION 3.1 (Applied Biosystems) was used to
+perform the cycle sequencing reaction on an ABI GeneAMP 9700 PCR system. The reactions contained
+20–80 ng of purified template DNA, 1 lL of the BigDye
+reaction mix, 3.2 pmol primer and 0.5· BigDye sequencing buffer. These were cycle sequenced and precipitated
+using the manufacturer’s recommended conditions. The
+sequencing reaction products were electrophoresed on
+an ABI 3130 automated sequencer (Applied Biosystems).
+The chromatograms were visualized with BIOEDIT VERSION
+7.0.2 (Hall 1999).
+
+Cross-species amplification and correlation testing
+Markers identified to be polymorphic in the HS and WS
+were used to verify the transferability of the microsatellite
+markers to other sparid species. Additional microsatellite
+loci were included to increase the number of cross-species markers (Table 1). However, these were not included
+when testing for a correlation between marker transferability and genetic divergence. First, primers were
+designed for two unpublished repeat loci identified
+through a GenBank search (Table 1, SA043 & PA535).
+Moreover, two published microsatellites Pb-OVI-D106
+(Piñera et al. 2006) and Clat11 (Teske et al. 2009) were
+included. These loci were optimized as described earlier. The additional nine species included for cross-species testing were chosen as they are of economic and
+current research importance and also represent a
+spread across the two major clades of the sparid phylogeny (Chiba et al. 2009). Also, cross-species testing of
+the additional markers was conducted in the focal
+species to increase the total number of markers for
+population genetics studies.
+To test for a correlation between genetic divergence
+and transferability of loci, sequences for the mitochondrial 16S rRNA gene were downloaded from GenBank for
+the species included in this study as well as those from
+previous cross-species studies in the Sparidae (Brown
+et al. 2005; Chen et al. 2005; Piñera et al. 2006, 2007; Roques
+et al. 2007a,b). Sequences were not available for some species, thus species in the same genus were included to provide an estimate of sequence divergence. The species
+names and GenBank accession numbers are included in
+Table S2 (Supporting information). Sequences were aligned
+
+in CLUSTAL X, and sequence divergence was estimated as
+the percentage of haplotype sequence differences (Kimura
+2-parameter model) in PAUP VERSION 4.0b10 (Swofford
+2003). The percentage of polymorphic loci and amplification success for all species was obtained for the de novo microsatellites of the focal species in each case and was
+plotted against the genetic divergence of the species of
+interest to the focal species. Then, the significance of the
+correlation was evaluated using a simple linear regression
+and measuring and testing the Pearson R parameter using
+the program STATEXT VERSION 1.4.2b (http://www.statext.com). This regression allowed for the identification of
+whether the transferability of these microsatellites were
+dependent on the genetic divergence of 16S among members of the sparid family as observed by Carreras-Carbonell et al. (2008) within multiple fish families.
+
+Data analysis of microsatellites
+Genotypes were scored using GENEMARKER VERSION 1.5 software (SoftGenetics, State College, PA, USA). Observed
+heterozygosity (HO) and expected heterozygosity (HE)
+were calculated with GENETIX VERSION 4.05 (Belkhir et al.
+1996–2004). Individuals were pooled from all locations
+where the species were collected and deviations from
+Hardy–Weinberg equilibrium (HWE) and tests for linkage disequilibrium between loci were calculated with
+GENEPOP VERSION 4.0 (Rousset 2008) for the loci that amplified in each species. The incidence of null alleles, scoring
+errors owing to stuttering and evidence of large allele
+dropout were determined using MICRO-CHECKER VERSION
+2.2.3 (van Oosterhout et al. 2004). A Mann–Whitney test
+was carried out between the number of alleles of HS and
+WS from the de novo developed loci to compare levels of
+polymorphism between the two species. This analysis
+was conducted as a one-tailed test with the program
+STATEXT.
+
+Results
+Isolation of SCRs through FIASCO and 454 sequencing
+The number of sequences obtained from the HS and WS
+libraries was 11076 and 7148, respectively, with a total of
+4.5 Mbp sequenced. Of these, 4531 (41%) HS and 2839
+(39%) WS sequences contained di-, tri-, tetra- and pentanucleotide repeats with more than four repeat units.
+Although only tetranucleotide repeats were probed for,
+the enriched fraction contained di- to pentanucleotide
+repeat types and base variations (Table S3, Supporting
+information). The fragments ranged from 40 to 600 base
+pairs (bp) in length with the majority of sequences being
+between 120 and 400 bp for both species (Fig. S1,
+Supporting information). The 7370 sequences were exten-
+
+ 2012 Blackwell Publishing Ltd
+
+M I C R O S A T E L L I T E T R A N S F E R A B I L I T Y I N S P A R I D A E 745
+sively mined and a total of 494 unique SCR with sufficient flanking region were identified. Primers could be
+designed for 302 of these sequences (149 from WS and
+153 from HS) of which 193 sequences contained more
+than eight repeat units (63%). The sequence name, repeat
+type, number of repeats, primers and expected PCR fragment size are summarized in Table S3 (Supporting information; It should be noted that this table excludes the
+sequences further characterized in this study). To summarize, from the 302 potential loci (149 WS and 153 PB),
+there were a total of 139 dinucleotides, 47 trinucleotides,
+115 tetranucleotides and one pentanucleotide that met
+the criteria for primer design.
+Twenty sequences containing tetranucleotide repeats
+for HS and 40 sequences containing either tri- or tetrarepeats for WS were selected for further characterization.
+Twelve potential loci amplified the expected fragment
+size for the HS (60%) with nine of these loci being polymorphic (75%). Nineteen loci in the WS (48%) amplified
+the expected fragment size with nine being polymorphic
+(47%, Table 1). The loci that did not amplify require
+either further optimization effort or redesigned primers.
+Of the 302 potentially polymorphic markers identified in
+this study, we successfully characterized 31 loci (11%).
+Of these loci, 58% were polymorphic. The regenotyped
+individuals in HS and WS showed no evidence of genotyping errors indicating that the multiplexes were robust.
+No linkage disequilibrium was identified between these
+loci in both species, suggesting that they can all be considered as unlinked and informative. Some microsatellite
+loci in HS (PBt006, PBt018) and WS (LLt005, LLt024)
+significantly deviated from HWE. The program MICROCHECKER detected the presence of null alleles at these four
+loci, with frequencies estimated as 25.73%, 6.54%, 11.43%
+and 33.24%, respectively. There was no evidence of scoring error owing to stuttering or large allele dropout for
+the HS microsatellites. Locus LLt024 showed scoring
+errors in the WS which could be explained by its inconsistent amplification and the presence of stuttering. The
+general summary statistics for these markers are detailed
+in Table 2. The Mann–Whitney test showed a significant
+difference between the number of alleles identified at the
+de novo developed microsatellite loci between the focal
+species (U-value = 10.5; P-value = 0.002) which potentially indicates a difference in genetic diversity of these
+endemic sparids.
+
+Sequencing of homozygotes
+A selection of the homozygous alleles was Sanger
+sequenced for the microsatellite loci of HS and WS.
+Sequencing was not performed for PBt006 and LLtr024
+because of inconsistent amplification and the high
+percentage of null alleles at these loci. From the Sanger
+
+ 2012 Blackwell Publishing Ltd
+
+sequencing of alleles, almost all markers showed conserved flanking regions and the varying lengths of the
+alleles were because of variation in the number of repeats
+(Table S4, Supporting information). The exception was
+marker PBt012, which showed a high level of variability
+in the flanking region and the allele length did not fully
+match the tetranucleotide repeat unit length. This mismatch may be explained by both the presence of a polymorphic region with mononucleotide variants and an
+indel immediately upstream of the repeat region
+(Table S4, Supporting information). Also, sequencing
+errors were identified in the 454 sequencing when compared to multiple Sanger sequences of several microsatellite loci. Most of these errors were found at A ⁄ T repeats;
+this included either a single base missing (PBt001,
+PBt013, PBt014, LLt007, LLt011 & LLtr004) or one extra
+base added (PBt018 & LLt011) in the 454 sequencing.
+
+Transferability of loci in the Sparidae
+The eighteen newly developed markers and four previously identified microsatellites (PA535, SA043, Pb-OVID106 and Clat11) were tested in nine sparid species and
+the focal species. The characteristics and summary statistics including NA, HO, HE, allele size range and deviation
+from HWE for each species are given in Table 2. The
+cross-species transferability is summarized in Table 1.
+The mean amplification success for cross-species amplification from this study was 48% (10 loci on average) and
+the mean polymorphism success was 32% (seven loci).
+The number of polymorphic loci identified ranged from
+five in Chrysoblephus puniceus to 11 in Diplodus sargus capensis. For the two focal species (HS and WS), a total of 13
+polymorphic markers were identified in the WS (nine de
+novo developed and four through cross-species amplification) and 16 in the HS (nine developed and seven
+through cross-species amplification).
+Table 3 summarizes the sequence divergence based
+on mtDNA 16S rRNA between the species as well as the
+percentage of loci that amplified and were polymorphic
+based on markers of the focal species in the present study
+as well as previously conducted studies. Only the percentage of polymorphic loci was further characterized as
+not all of the previous studies accurately indicated how
+many markers amplified. In each case, the analysis only
+includes the markers developed in the focal species, that
+is, HS, WS or focal species from previous studies and 16S
+genetic divergence from that focal species. From this
+combined data set, there was a significant negative correlation between genetic distance and percentage of polymorphic loci (Fig. 1) for the Sparidae (Pearson R = )0.66;
+P-value £ 0.001; y = )7.3336x + 84.634). When only the
+two focal species from this study were analysed, there
+was no significant correlation between genetic distance
+
+PBt001 Na
+Ho:He
+SR
+PBt003 Na
+Ho:He
+SR
+PBt006 Na
+Ho:He
+SR
+PBt007 Na
+Ho:He
+SR
+PBt011 Na
+Ho:He
+SR
+PBt012 Na
+Ho:He
+SR
+PBt013 Na
+Ho:He
+SR
+PBt014 Na
+Ho:He
+SR
+PBt018 Na
+Ho:He
+SR
+LLt002 Na
+Ho:He
+SR
+LLt005 Na
+Ho:He
+SR
+LLt006 Na
+Ho:He
+SR
+
+Locus
+
+Clade B
+
+Clade A
+
+5
+0.50:0.49
+191–215
+10
+0.81:0.85
+376–424
+
+13
+0.90:0.84
+209–265
+15
+0.84:0.91
+143–203
+11
+0.40:0.85
+213–253
+13
+0.88:0.88
+130–178
+20
+0.94–0.91
+183–271
+30
+0.92–0.94
+144–292
+18
+0.82:0.85
+118–194
+13
+0.86–0.87
+149–201
+20
+0.80–0.91
+180–284
+3
+0.43:0.47
+188–196
+12
+0.90–0.87
+242–286
+5
+0.52–0.67
+219–235
+10
+0.86:0.86
+197–237
+
+14
+0.87:0.89
+167–251
+
+11
+0.64:0.82
+368–420
+
+10
+0.93:0.83
+141–177
+7
+0.75:0.57
+184–224
+
+10
+0.81:0.86
+156–196
+7
+1.00:0.81
+195–227
+
+1
+M
+388
+15
+0.66:0.90
+124–256
+
+7
+0.73:0.78
+230–266
+1
+M
+128
+13
+0.81:0.89
+358–442
+
+7
+0.81:0.75
+176–204
+
+In
+
+10
+0.93:0.82
+128–172
+
+7
+0.46:0.68
+169–241
+3
+0.42:0.58
+191–199
+
+13
+0.80:0.89
+145–221
+
+9
+0.63:0.85
+119–167
+
+7
+0.68:0.79
+129–165
+
+IN
+
+8
+0.33:0.84
+420–452
+
+IN
+
+7
+0.92:0.75
+234–262
+
+IN
+
+IN
+
+IN
+
+IN
+
+IN
+
+IN
+
+IN
+
+11
+0.75:0.88
+139–179
+
+1
+M
+218
+
+8
+0.28:0.70
+136–264
+
+5
+0.25:0.78
+120–136
+12
+0.93:0.87
+186–242
+
+12
+0.62:0.88
+165–221
+
+IN
+
+1
+M
+221
+
+10
+0.50:0.78
+172–268
+1
+M
+201
+
+IN
+
+IN
+
+5
+0.40:0.39
+216–276
+
+1
+M
+218
+1
+M
+194
+
+IN
+
+5
+0.31:0.41
+117–133
+13
+0.56:0.89
+160–220
+IN
+
+1
+M
+297
+10
+0.93:0.85
+150–194
+
+1
+M
+218
+3
+0.00:0.62
+194–226
+
+IN
+
+10
+0.33:0.84
+121–177
+13
+0.75:0.86
+184–260
+IN
+
+IN
+
+Pachymetopon Lithognathus Diplodus sargus Diplodus cervinus Rhabdosargus Rhabdosargus Acanthopagrus Polysteganus Cheimerius Chrysoblephus Chrysoblephus
+blochii
+lithognathus capensis
+hottentotus
+globiceps
+holubi
+berda
+undulosus
+nufar
+laticeps
+puniceus
+
+Table 2 Summary statistics for the developed microsatellite markers and cross-species amplification
+
+746 K . R E I D , T . B . H O A R E A U a n d P . B L O O M E R
+
+ 2012 Blackwell Publishing Ltd
+
+ 2012 Blackwell Publishing Ltd
+
+8
+0.75:0.82
+199–220
+19
+0.87:0.89
+137–249
+8
+0.87:0.81
+222–254
+14
+0.93:0.89
+182–274
+9
+0.75:0.79
+314–346
+9
+0.81:0.83
+289–321
+
+5
+0.25:0.65
+218–242
+IN
+
+15
+0.86:0.84
+181–237
+12
+0.86:0.83
+227–271
+9
+0.82:0.84
+140–172
+14
+0.94:0.89
+238–318
+10
+0.26–0.84
+183–251
+6
+0.72–0.76
+198–213
+
+9
+0.81:0.79
+243–335
+
+9
+0.87:0.82
+193–229
+10
+0.75:0.86
+127–171
+17
+1.00:0.91
+248–316
+
+2
+0.18:0.16
+267–271
+
+2
+0.00:0.11
+93–105
+10
+0.87:0.83
+230–266
+
+3
+0.06:0.30
+234–254
+
+9
+0.92:0.86
+190–217
+10
+1.00:0.84
+132–180
+8
+0.68:0.81
+180–208
+
+IN
+
+IN
+
+3
+0.50:0.53
+181–187
+11
+1.00:0.88
+115–163
+7
+0.81:0.68
+213–253
+
+4
+0.68:0.61
+196–208
+
+7
+0.62:0.79
+318–342
+
+3
+0.31:0.35
+199–253
+9
+0.87:0.85
+117–157
+8
+0.81:0.79
+228–256
+
+2
+0.20:0.32
+216–220
+
+IN
+
+8
+0.93:0.75
+207–231
+13
+0.87:0.87
+103–155
+5
+0.68:0.59
+215–231
+
+7
+1.00:0.72
+311–335
+
+4
+0.50:0.64
+211–220
+8
+0.81:0.82
+101–153
+5
+0.68:0.61
+241–281
+
+IN
+
+10
+0.87:0.85
+216–249
+20
+0.87:0.93
+113–249
+9
+1.00:0.85
+227–259
+
+16
+0.66:0.92
+115–207
+15
+0.87:0.90
+239–303
+
+IN
+
+Pachymetopon Lithognathus Diplodus sargus Diplodus cervinus Rhabdosargus Rhabdosargus Acanthopagrus Polysteganus Cheimerius Chrysoblephus Chrysoblephus
+blochii
+lithognathus capensis
+hottentotus
+globiceps
+holubi
+berda
+undulosus
+nufar
+laticeps
+puniceus
+
+Clade A
+
+HWE, Hardy–Weinberg equilibrium.
+Allele size range (SR), number of alleles (NA), Observed (HO) and Expected (HE) heterozygosity are shown. Deviations from HWE are indicated in bold and microsatellite markers
+developed in the focal species are highlighted with grey shading. M indicates potentially monomorphic loci. IN indicates inconsistent amplification with stutter. The species are grouped
+according to the major clades described by Chiba et al. (2009).
+
+Na
+Ho:He
+SR
+LLt011 Na
+Ho:He
+SR
+LLt014 Na
+Ho:He
+SR
+LLt020 Na
+Ho:He
+SR
+LLt024 Na
+Ho:He
+SR
+LLtr004 Na
+Ho:He
+SR
+PA535 Na
+Ho:He
+SR
+CL011 Na
+Ho:He
+SR
+SA043 Na
+Ho:He
+SR
+PB106 Na
+Ho:He
+SR
+
+LLt007
+
+Locus
+
+Clade B
+
+Table 2 (Continued)
+
+M I C R O S A T E L L I T E T R A N S F E R A B I L I T Y I N S P A R I D A E 747
+
+748 K . R E I D , T . B . H O A R E A U a n d P . B L O O M E R
+Table 3 Summary of sequence divergence (GD in %) based on mtDNA 16S rRNA between focal species and other sparids together with
+the transferability of their microsatellites (amplification and polymorphism)
+Study
+
+Focal species
+
+Loci
+
+Species
+
+GD
+
+Amp
+
+Pol
+
+Brown et al. 2005
+
+Sparus aurata
+
+6
+
+Piñera et al. 2006
+Piñera et al. 2007
+
+Pagellus borgaraveo
+P. borgaraveo
+
+12
+12
+
+Roques et al. 2007a
+
+Diplodus vulgaris
+
+9
+
+Roques et al. 2007b
+
+O. melanura
+
+8
+
+This study
+
+Pachymetopon blochii
+
+9
+
+L. lithognathus
+
+9
+
+Lithognathus mormyrus
+Diplodus sargus
+Spondyliosoma cantharus
+Pagrus pagrus
+Dentex dentex
+S. aurata
+Diplodus puntazzo
+S. aurata
+D. dentex
+Pagellus erythrinus
+D. sargus
+Oblada melanura
+D. sargus
+D. vulgaris
+Lithognathus lithognathus
+Diplodus cervinus hottentotus
+Diplodus sargus capensis
+Chrysoblephus laticeps
+Chrysoblephus puniceus
+Polysteganus undulosus
+Cheimerius nufar
+Rhabdosargus globiceps
+Rhabdosargus holubi
+Acanthopagrus berda
+P. blochii
+C. laticeps
+C. puniceus
+P. undulosus
+D. s. capensis
+D. c. hottentotus
+R. globiceps
+R. holubi
+C. nufar
+A. berda
+
+4.81
+5.03
+7.14
+7.57
+9.06
+5.97
+5.50
+5.97
+8.58
+8.14
+1.70
+3.90
+1.92
+3.90
+5.74
+6.28
+6.28
+8.02
+8.02
+8.90
+9.06
+9.39
+9.39
+10.98
+5.74
+5.76
+5.93
+5.93
+6.11
+6.11
+6.96
+6.96
+6.99
+8.72
+
+–
+–
+–
+–
+–
+58.3
+50.0
+66.6
+16.6
+8.3
+88.8
+88.8
+75.0
+75.0
+22.2
+33.3
+66.6
+66.6
+55.5
+55.5
+44.4
+44.4
+55.5
+22.2
+33.3
+33.3
+33.3
+22.2
+44.4
+44.4
+55.5
+33.3
+44.4
+55.5
+
+50.0
+33.3
+33.3
+50.0
+33.3
+58.3
+41.6
+66.6
+16.6
+8.3
+88.8
+88.8
+75.0
+75.0
+22.2
+22.2
+55.5
+33.3
+22.2
+44.4
+22.2
+33.3
+11.1
+0
+33.3
+11.1
+11.1
+11.1
+33.3
+33.3
+33.3
+33.3
+33.3
+33.3
+
+Amp, percentage of focal species loci amplifying in the targeted species; Pol, percentage of polymorphic loci in each species; –, data were
+not available.
+
+(ranging from 5% to 11%) and percentage of polymorphic
+loci: HS (Pearson R = )0.47; P-value = 0.171) and WS
+(Pearson R = 0.49; P-value = 0.190).
+
+Discussion
+In this study, we used a newly implemented approach
+(Santana et al. 2009) of combining the FIASCO protocol
+(Zane et al. 2002) and 454 LifeSciences ⁄ Roche GS-FLX
+sequencing to isolate de novo microsatellites in two
+focal sparid species (HS and WS). From these data,
+we were able to identify 302 unique loci that are
+likely to provide an excellent resource for identifying
+polymorphic microsatellite loci in all sparid species.
+The loci selected for further characterization together
+
+with four previously isolated loci (22 markers in total)
+were tested through cross-species amplification on a
+total of 11 sparid species. This panel of markers was
+shown to have a high cross-taxon utility for members
+of the Sparidae. Also, by combining data from previously developed microsatellites that were tested for
+cross-species utility, we were able to identify a significant negative correlation of transferability vs. genetic
+distance in the Sparidae. For sequence divergences
+<4%, there is high cross-taxon utility, whereas above
+this divergence, the cross-taxon utility decreases and
+becomes relatively unpredictable. Given our results
+and those of Carreras-Carbonell et al. (2008), which
+identified a similar trend using mtDNA 16S rRNA in
+nine fish families, we are confident that this is
+
+ 2012 Blackwell Publishing Ltd
+
+100
+
+40
+
+90
+
+35
+
+80
+
+30
+
+70
+
+25
+
+%SCR
+
+% Polymorphic Loci
+
+M I C R O S A T E L L I T E T R A N S F E R A B I L I T Y I N S P A R I D A E 749
+
+60
+50
+40
+
+15
+10
+
+30
+
+5
+
+20
+
+0
+
+10
+0
+
+20
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+% Genetic Divergence
+
+Fig. 1 Relationship between the sequence divergence (%) to
+focal species and polymorphism (%) of the microsatellite loci
+across Sparidae. The linear regression model is y = )7.3336x +
+84.634, Pearson test: R = 0.66, P < 0.001.
+
+valuable information applicable to sparids and other
+fish families, but it may not apply across all vertebrates and other taxa.
+
+Development of microsatellites with 454 GS-FLX
+sequencing
+The protocol followed in this study (FIASCO ⁄ 454)
+allowed for the identification of a large portion of SCRs
+(41% in HS & 39% WS) and from this, identification of a
+total of 302 potentially polymorphic microsatellite markers for the Sparidae. Using only a small fraction of SCRs
+(<11%), we were able to identify nine polymorphic loci in
+each of the two focal species (HS and WS; Table 1). Markers developed in the HS were highly variable with an
+average of 17 alleles per locus compared with the WS that
+had an average of 10 alleles per locus. Through this efficient protocol, we were able to identify a suitable number
+of high-quality microsatellites in two endemic sparids.
+Our specific protocol yielded a high percentage of
+SCRs and proved to be highly efficient in comparison
+with recently published 454 data that did not enrich for
+repeats (Table S5, Supporting information). A brief survey (summarized in Table S5, Supporting information)
+which included 23 studies and 41 species that used 454
+sequencing directly (20 species; average 4.6% SCRs) or
+following enrichment (21 species; average 21% SCRs)
+showed a significant difference when the percentage of
+SCRs were compared using a simple linear regression
+(Fig. 2, Mann-Whitney U-test: U = 50.0, P < 0.001,
+http://www.statext.com). Our results indicate that with
+substantially less 454 sequencing effort (1 ⁄ 5th of a single
+454 sequencing lane, i.e. lower costs) we were able to
+achieve a sufficient number of sequences containing
+potential loci by enriching first (40% SCRs; Table S5,
+Supporting information).
+
+ 2012 Blackwell Publishing Ltd
+
+No enrichment
+
+Enrichment
+
+Fig. 2 Average pecentage of sequences containing repeats in
+454 sequencing studies that enriched before sequencing and
+those that did not. Significant differences were obtained between
+the studies (Mann–Whitney test, U = 50.0, P < 0.001).
+
+The success of identifying SCRs depends on the targeted taxa, which in turn will affect the amount of effort
+needed to identify a sufficient number of markers. Marine fish, for instance, present higher frequencies of SCRs
+and polymorphic loci than other groups such as reptiles,
+birds and bats (Neff & Gross 2001). This is also reflected
+when comparing our sequencing results to species such
+as inbred tree lines (Arabis alpine; 0.8% SCRs; Buehler
+et al. 2011) and bats (Artibeus lituratus; 10% SCRs; McCulloch & Stevens 2011) which are both known to be challenging when it comes to developing microsatellite
+markers. In the study by Malausa et al. (2011), no significant difference was found when comparing the percentage of SCRs obtained between an enriched fraction (15%
+SCRs) and nonenriched fraction (14% SCRs) from Apis
+mellifera. Also, a study by Abdelkrim et al. (2009)
+predicted that sequencing a 1 ⁄ 16 plate should identify
+approximately 6000–7000 SCRs without enrichment for
+repeat-containing sequences. Using this prediction, we
+would expect approximately 2800 SCRs in our study
+(2 ⁄ 5ths of a single 454 sequencing lane of a 16 lane plate).
+By doing the enrichment protocol first, we were able to
+achieve 2.6 times more sequences (7370). Our results
+indicate that spending a small amount of time and effort
+to enrich for repeats substantially increase the number of
+repeats found even with considerably less 454 sequencing effort.
+The advantages of using this combined protocol are
+numerous. First, the enrichment for repeat-containing
+sequences allows for the sequencing of more potentially polymorphic microsatellite loci. Second, using 454
+LifeSciences ⁄ Roche GS-FLX sequencing instead of cloning is time efficient and cost-effective as has been
+shown by recent studies (Abdelkrim et al. 2009; Santana
+et al. 2009; Csencsics et al. 2010). The number of
+sequences generated with 454 sequencing is more than
+is feasible with cloning, which provides more options
+for selecting high-quality sequences and higher success
+rates in isolating microsatellite repeat-containing loci
+
+750 K . R E I D , T . B . H O A R E A U a n d P . B L O O M E R
+(Malausa et al. 2011). Also, with cloning, to identify
+approximately 300 unique loci with sufficient flanking
+region (as in our study), it would cost two to three
+times more than with the 454 method and also take a
+considerably longer time.
+There are some potential disadvanges to using 454
+sequencing to develop microsatellite markers; however,
+they are all relatively easy to overcome. There are always
+a large portion of the sequences obtained that do not contain repeats; however, these are still useful as they may
+contain nonrepeat intervening DNA or gene-associated
+fragments (Burrell et al. 2011), which may be further
+developed into molecular markers. Those fragments containing repeats may not always have enough flanking
+region for primer design but many sequences are
+obtained, thus there are still often hundreds of SCRs with
+sufficient flanking region which allows for more stringent
+selection of sequences for optimization and genotyping
+(Gardner et al. 2011; Guichoux et al. 2011). Also, alternative methods, such as genome walking exist, that allow
+for the recovery of extended flanking regions of potentially polymorphic loci, for example, the APAgene GOLD
+genome walking kit (BioS&T). There are also some known
+sequencing discrepancies (insertions or deletions of false
+bases) that occur with 454 sequencing at A ⁄ T homopolymer runs (Moore et al. 2006). These are normally identified and compensated for when there is more than a
+onefold coverage and the same region is sequenced multiple times. Owing to the small fractions used in this study
+(only 1 ⁄ 5th of a 454 sequencing lane per species), there
+was generally only a onefold coverage of each repeat locus
+identified.
+Sanger sequencing of a selected set of homozygotes
+(Table S3, Supporting information) showed a number of
+sequencing errors (50% of loci) in the 454 sequencing
+data, mainly consisting of insertions or deletions of A ⁄ T
+repeats. Also, through Sanger sequencing, we identified
+some variation in the flanking region (homoplasy) of a
+locus (PBt012) that could potentially affect its suitability
+in population genetics studies. With the exception of this
+locus, Sanger sequence data confirmed the reliability and
+suitability of the other markers developed in this study
+(Table S4, Supporting information).
+
+Transferability of microsatellites in the Sparidae
+Identifying polymorphic microsatellite loci through
+cross-species amplification allows for the detection of
+loci in nonmodel organisms without the cost and time
+of developing a de novo set (Zane et al. 2002). Through
+cross-species amplification of the polymorphic loci
+included in this study, we were able to establish a
+panel of 22 microsatellites (18 newly developed and
+four additional markers) that showed polymorphism
+
+across various sparids which are representative of the
+two major clades of Sparidae (Chiba et al. 2009). These
+sparid species are all of current economic or research
+importance to South African fisheries and for a number
+of these species no additional microsatellite loci would
+be required.
+In the two focal species, we were able to increase the
+number of polymorphic loci through the cross-species
+amplification. Therefore, seven additional loci were identified in the HS (total 16) and four in the WS (total 13).
+For the nine additional sparid species included, crossspecies amplification identified on average seven polymorphic loci per species.
+Gathering data from multiple cross-species amplification studies on sparids (21 species from 14 genera in
+total), a negative correlation was found between genetic
+divergence (based on mtDNA 16S rRNA) and microsatellite transferability (polymorphism; Fig. 1). The divergence data ranged from approximately 1–11%, with
+divergence of <4% showing high transferability success
+(75–88%) and divergence >10% with very low transferability. For divergence higher than 4%, it was not possible to predict accurately which focal species would
+provide the most polymorphic loci in a species of interest. Carreras-Carbonell et al. (2008) observed that high
+transferability is only observed when genetic divergence
+of 16S is <5% across the 63 fish species. Taking into
+account only the microsatellite loci from this study, we
+found that there was a 48% chance to amplify a microsatellite locus in another sparid species and a 32% chance
+that it would be polymorphic, which is slightly higher
+than was suggested across different fish studies (25%)
+reviewed by Barbará et al. (2007). Using these estimates,
+we can infer that on average there is the potential to
+identify 96 polymorphic loci in any sparid species
+from the 302 loci identified in this study. A study by Liu
+et al. (2007) identified 16 polymorphic markers for
+Acanthopagrus schlegeli after cross-species tests using 68
+loci from six sparid species (24% success). This indicates
+that other species-specific biological factors (e.g. bottlenecks, expansions, life history traits) might also influence
+the transferability of loci when species are genetically
+divergent (>4%).
+This study showed the usefulness of using
+FIASCO ⁄ 454 sequencing for de novo microsatellite marker development in marine fish. Although there are
+some limitations to using 454 sequencing instead of
+cloning, these are only a few and can be easily overcome. The microsatellite loci identified as polymorphic
+in the two focal species will be used in current populations genetic studies as both species are of commercial
+and ⁄ or conservation importance to South African fisheries. Moreover, the broad level of applicability of these
+newly developed markers across a large number of spe-
+
+ 2012 Blackwell Publishing Ltd
+
+M I C R O S A T E L L I T E T R A N S F E R A B I L I T Y I N S P A R I D A E 751
+cies shows that the 302 potentially polymorphic microsatellite markers we developed provide an important
+resource for future population genetics studies in other
+members of the Sparidae. Developing large numbers of
+microsatellite markers from sequencing partial (as with
+small-scale 454 sequencing) or whole genomes and
+assessing their level of transferability in closely related
+taxa will greatly reduce the costs of population genetics
+studies by removing the marker development step in
+the near future.
+
+Acknowledgements
+We would like to thank Marine and Coastal Management
+(MCM) for the hottentot seabream samples, Rhett Bennett for the
+white steenbras samples and the South African Institute for
+Aquatic Biodiversity (SAIAB) for the other sparid samples
+required for this study. We thank Lorenz Hauser, Andrew
+DeWoody and three anonymous reviewers for useful comments
+on earlier versions of this manuscript. We acknowledge the African Coelacanth Ecosystem Programme (ACEP) for financial and
+logistical support. This work is based on research supported by
+the National Research Foundation (NRF) of South Africa. Any
+opinion, finding and conclusion expressed in this material is that
+of the authors and the NRF does not accept liability in regard
+thereto.
+
+
+This research formed part of K.R.’s master’s thesis which
+focused on the development of microsatellite markers in the
+Sparidae and a population genetics study on an endemic sparid
+of southern Africa. This research was supervised by P.B., the
+research leader of the Molecular Ecology and Evolution Programme and T.B.H. a post-doctoral researcher at the University
+of Pretoria, South Africa.
+
+Data Accessibility
+DNA sequences containing repeats with primers, sampling location information and genotypic data from the
+two focal species are deposited in the Dryad repository:
+doi: 10.5061/dryad.320kb06t.
+
+Supporting Information
+Additional supporting information may be found in the online
+version of this article.
+Table S1 Specimens used and locations sampled for the microsatellite marker development and cross-species amplification
+study.
+Table S2 Species included for the determination of sequence
+divergence between sparid taxa based on mitochondrial DNA
+16S rRNA sequences.
+Table S3 Selected sequences containing repeats (SCRs) with
+sufficient flanking region for primer design and meeting the criterion of a minimum of five repeat units from 454 sequences
+generated for Lithognathus lithognathus (WS) and Pachymetopon
+blochii (HS).
+Table S4 Sequences of homozygotes for selected alleles.
+Table S5 Summary of recent studies using GS-FLX to indicate
+the efficiency of identifying sequences containing repeats (SCRs)
+when using 454 sequencing directly vs. repeat enrichment.
+Fig. S1 (A) Size distributions of the fragments obtained from 454
+lifeSciences ⁄ Roche GS-FLX sequencing for P. blochii (blue) and
+L. lithognathus (red) after repeat enrichment. (B) Number for
+each repeat type (di-, tri-, tetra- and pentanucleotides) for P. blochii (blue) and L. lithognathus (red).
+Please note: Wiley-Blackwell are not responsible for the content
+or functionality of any supporting information supplied by the
+authors. Any queries (other than missing material) should be
+directed to the corresponding author for the article.
+
+ 2012 Blackwell Publishing Ltd
+
+

@@ -1,0 +1,286 @@
+The Plant Cell, Vol. 23: 4241–4253, December 2011, www.plantcell.org ã 2011 American Society of Plant Biologists. All rights reserved.
+RESEARCH ARTICLES
+Different Gene Families in Arabidopsis thaliana Transposed in Different Epochs and at Different Frequencies throughout
+the Rosids
+Margaret R. Woodhouse,a,1 Haibao Tang,b and Michael Freelinga
+a Department of Plant and Microbial Biology, University of California, Berkeley, California 94720 b J. Craig Venter Institute, Rockville, Maryland 20850
+Certain types of gene families, such as those encoding most families of transcription factors, maintain their chromosomal syntenic positions throughout angiosperm evolutionary time. Other nonsyntenic gene families are prone to deletion, tandem duplication, and transposition. Here, we describe the chromosomal positional history of all genes in Arabidopsis thaliana throughout the rosid superorder. We introduce a public database where researchers can look up the positional history of their favorite A. thaliana gene or gene family. Finally, we show that specific gene families transposed at specific points in evolutionary time, particularly after whole-genome duplication events in the Brassicales, and suggest that genes in mobile gene families are under different selection pressure than syntenic genes.
+ W
+INTRODUCTION
+As more and more genomes are sequenced and made available to the public, our ability to study phylogenetic relationships among taxa continues to expand beyond what researchers had envisioned even a decade ago. In plants, for instance, many monocot and eudicot genomes have been sequenced and released for research, and even more are in the pipeline. These sequenced genomes permit us to compare gene collinearity among species, which allows us to ask what sorts of gene families carry genes that tend to be syntenically retained over time and what genes, and, thus, gene families, tend to be deleted entirely, duplicated by some mechanism, or have transposed in certain lineages only.
+Some genes shared between related species are syntenic or colocalized on corresponding chromosomes. They can also be collinear, meaning they remain in similar chromosomal orders over time (Coghlan et al., 2005) (Figure 1). Retained genes are defined as having been preserved collinearly after a wholegenome duplication (WGD) event. In plants, WGDs occur quite frequently over evolutionary time (Blanc and Wolfe, 2004) (Figure 2A), and certain gene families are consistently retained after WGDs, going back to before the monocot-eudicot split (Jiao et al., 2011; reviewed in Van de Peer, 2011). This retention is likely due to functional buffering (Chapman et al., 2006) or gene dosage (Veitia, 2004; Birchler and Veitia, 2007; Conant and Wolfe, 2008). It is thought that these genome duplications may present an opportunity for novelty (Fawcett et al., 2009). While syntenic genes have been studied extensively, little attention has
+1 Address correspondence to branwen@berkeley.edu.
+The author responsible for distribution of materials integral to the findings presented in this article in accordance with the policy described in the Instructions for Authors (www.plantcell.org) is: Margaret R. Woodhouse (branwen@berkeley.edu).
+W Online version contains Web-only data. www.plantcell.org/cgi/doi/10.1105/tpc.111.093567
+been paid to the types of genes that have tended to transpose over evolutionary time. Recent work in Drosophila melanogaster and plants has demonstrated that many functional, nontransposable element genes are mobile, either via DNAor RNAmediated transposition (Wang et al., 2006; Freeling et al., 2008; Yang et al., 2008; Zhu et al., 2009; Wicker et al., 2010; Woodhouse et al., 2010). One mode of DNA-mediated transposition is through intrachromosomal recombination (Yang et al., 2008; Woodhouse et al., 2010). Recombination frequency has been observed to increase after a polyploidization event in Arabidopsis thaliana (Pecinka et al., 2011), and other sorts of rearrangements, such as duplications and translocations, are known to happen after a polyploidy event (reviewed in Gaeta and Pires, 2010). It is possible that in plants, a WGD may induce gene transposition via recombination or some other likely mechanism.
+Our lab has found that certain gene families in the order Brassicales, in particular F-box genes, nucleotide binding site– Leu-rich repeat (NBS-LRR) disease resistance genes, and AGAMOUS-like (AGL) genes, transpose more than others (Freeling et al., 2008; Woodhouse et al., 2010). The relative nonsynteny of certain gene families may be informative regarding the role of gene transposition in conferring novel functions within a gene family. Gene families that are particularly rich in genes that underwent transposition, such as F-box genes and NBS-LRR disease resistance genes, are also those families containing genes subject to tandem duplication (Freeling et al., 2008; Woodhouse et al., 2010). It has been argued from differential expression data that local gene duplication in these families and others permits subfunctionalization among the duplicated copies (Cannon et al., 2004; Leister, 2004; Rizzon et al., 2006), where a pair of once-identical genes lose nonessential components of their cis-elements such that only both genes together encode the full information from the ancestor; these duplicates should now be permanent (Force et al., 1999). Following this logic, the transposition of a gene to a new locus may
+ 
+4242 The Plant Cell
+ Figure 1. Using Comparative Genomics to Define Synteny and Collinearity.
+Some genes shared between related species are syntenic or colocalized on corresponding chromosomes. They can also be collinear, meaning they remain in similar chromosomal orders over time. In comparison to the ancestral genome, genomes A and B share some genes that are syntenic and collinear, though not always the same ones. Rectangular genes represent nonsyntenic genes. Notice that a gene can be syntenic without necessarily being collinear.
+confer changes in gene regulation that could lead to novel expression patterns even without taking position effects into account; for example, in addition to the possibility of landing in a position with novel cis-regulatory elements, the gene might transpose without some of its enhancer/repressor elements. However, the specific relationship between gene movement and subfunctionalization has not been tested rigorously.
+Here, we report the positional history of all annotated A. thaliana genes in the rosid superorder, using Arabidopsis lyrata, papaya (Carica papaya), poplar (Populus trichocarpa), and French grape (Vitis vinifera) as outgroups. We built a public database that allows researchers to find the positional history of their gene or gene family of interest using the species that are now available to us, and the database is designed to be updated
+ Figure 2. Cladogram of the Key Species Used in This Study: A. thaliana and A. lyrata, Papaya, Poplar, and Grape.
+(A) The genus Arabidopsis belongs in the order Brassicales, as does papaya. A. thaliana and A. lyrata diverged from each other ;10 MYA. Papaya and A. thaliana diverged from each other ;72 MYA. A. thaliana and poplar diverged ;100 MYA. Grape is the most distantly related outgroup from A. thaliana and diverged from A. thaliana ;111 MYA. The red star represents the a-duplication event that occurred 20 to 60 MYA (Paterson et al., 2010); the gray star represents an earlier genome duplication event from the a; the larger star is a paleohexaploidy. Citations are provided by Jiao et al. (2011). (B) The positional history timeline and the epochs in which each existing A. thaliana gene had transposed throughout the A. thaliana lineage. Three time points are represented: the A. thaliana ancestral genes that transposed after poplar split from the A. thaliana lineage 100 MYA (72 to 100 MYA epoch), genes that had transposed after papaya split from the A. thaliana lineage 72 MYA (10 to 72 MYA), and genes that had transposed after A. lyrata had split from A. thaliana (10 MYA).
+(C) Genes that had transposed prior to the a-duplication event in the A. thaliana lineage. The insertion event is represented by the yellow arrow; the inserted gene is represented by the yellow rectangle. After the a-duplication event (red star), the inserted gene is now duplicated in the A. thaliana lineage. Both copies of the transposed gene are unlikely to be retained.
+
+as new eudicot genomes are released. This database is linked to The Arabidopsis Information Resource (TAIR), so that plant geneticists may easily transition from TAIR to our site. What makes our databases different from others, such as PLAZA (Proost et al., 2009), is that ours specifically defines genes as being nonsyntenic or transposed as well as syntenous. The positional history for each A. thaliana gene published here may be retrieved on this website, along with a link to a multigenome comparison tool so that our data preloaded for each gene along with their genomic neighborhood can be visualized and proofed. Furthermore, we demonstrate that different types of gene families appear to have transposed at different times within the rosids, specifically during or after the WGD events in the Brassicales, and we discuss what role gene transposition might have in the diversification of gene families. Our data are preliminary in the sense that all positional data will improve as more and deeper eudicot genomes are sequenced and released.
+RESULTS
+The Positional History of All Genes in A. thaliana: A Searchable Database at http://biocon.berkeley.edu/athaliana
+The outgroups examined in this study span the rosid eudicot superorder (Figure 2). A. thaliana diverged from A. lyrata ;10 million years ago (MYA; Hu et al., 2011), and from papaya ;72 MYA (Ming et al., 2008). The outgroup poplar (Tuskan et al., 2006) diverged from the Arabidopsis genus ;100 MYA (confidence interval 102 to 114 MYA) (Wang et al., 2009). Grape (Jaillon et al., 2007) is the outgroup most distantly related to A. thaliana in this study, diverging from A. thaliana ;111 MYA (confidence interval 109 to 115 MYA) (Wang et al., 2009). All divergence time estimation criteria are described in the literature cited above.
+The positional history of each gene in A. thaliana (TAIR9) was found using parameters described in Methods. In short, we automated the initial chromosomal synteny search and classification, but later used manual proofing to check the correctness of the automated results and apply corrections when necessary. At the heart of our methods is a special algorithm particularly useful in sorting out runs of orthologous genes between genomes. Briefly, a 40-gene window was centered on every query A. thaliana (TAIR9) gene to check for a syntenic region in each target genome. LASTZ (default parameters) were used to define anchors and required that the syntenic region have at least four collinear anchors (out of 40 possible anchors). The nearest anchors on both sides of genes were identified to define a tight syntenic location. For each A. thaliana gene and its chromosomal neighborhood, we attempt to find the one (or two, as is the case in poplar because of a poplar-specific duplication; Tuskan et al., 2006) orthologous chromosomal segment in each outgroup genome. Depending on whether an ortholog of the query gene is found in the expected syntenic location or not, the query gene was determined to be either syntenic (S) or not syntenic (indicating a potential gene loss or transposition event).
+To facilitate downstream study of gene transposition events and rule out artifacts, nonsyntenic genes were further subdivided
+into those having one flanking gene in the 40-gene interval (G) or two flanking genes in the interval (F) (Figure 2). Genes that had no flankers (for example, genes in the pericentromeric regions in the genome) in the outgroup were denoted with a “2.” Genes that fall into the F category were characterized as potentially transposed, pending further analysis. If an F gene had a BLAST hit to noncoding sequences in the interval in the outgroup, it was denoted as FB. F genes that had assembly gaps (Ns) (i.e., missing sequences) between the flankers in the outgroup were denoted as FN. These careful labels of pipeline output are to minimize the effects of annotation and assembly artifacts on our essential classification of a gene as syntenic or nonsyntenic.
+From our Positional History homepage, simply enter the gene LOC ID or TAIR gene description keyword (for example, “MADS box”) to determine the positional history of your favorite gene or group, select a previously TAIR-annotated gene family from the pull-down menu to observe the positional history of a particular gene family, or choose the pattern of synteny/nonsynteny per outgroup that you wish to study. Since we go to TAIR for gene categories and gene descriptions, please refer to TAIR for citations. Currently the TAIR gene descriptions are for TAIR9.
+Syntenic Genes among the Rosids
+An A. thaliana query gene is considered syntenic throughout the rosids if it has been found to be syntenic (S) in at least grape, as grape is the most distantly related outgroup from A. thaliana. There are 13,350 A. thaliana query genes that are categorized as syntenic in the rosids, or ;40% of all genes in A. thaliana. Excluding transposons, unknown genes, and pseudogenes, we found that 10,770 of all characterized genes are syntenous within rosids, or 49% (Table 1). The full set of characterized genes has also been uploaded to the Dryad data repository (http://datadryad.org/). Presumably, the genes that make up the remaining nonsyntenic half are either newly arisen, transposed, or have evolved so rapidly that their deeper rosid orthologs are not detected in the expected syntenous location.
+Genes That Have Putatively Transposed in the Rosids
+The study of transposition over time is a function of synteny in the nearest outgroups versus nonsynteny in the more distant outgroups. Our criteria for a putatively transposed gene are described in Methods and illustrated in Figure 3. It should be noted that a significant limitation arises in the frequent occurrence of unsequenced DNA between flankers in the outgroups (for example, the papaya genome has nearly 100 Mb of missing sequences throughout its genome). The incompleteness of the genome sequence requires us to state that, in many cases described below, transposition is inferred to have most likely happened in one or more outgroup lineages but that this transposition is not proved because the syntenic gene might actually exist in an unsequenced gap (this scenario is captured in our FN class).
+In our study of putatively transposed genes in A. thaliana, we characterized the time points when these genes had transposed in the A. thaliana ancestor in terms of three epochs based on the
+Positional History of Arabidopsis thaliana Genes 4243
+
+4244 The Plant Cell
+ Table 1. Gene Stability versus Homoeolog Retention and CNSs Category Genome Syntenic Nonsyntenic Transposed
+Transposed x2 Syntenic/Nonsyntenic
+x2 Transposed
+n/a <0.0001 <0.0001 <0.0001 0.0003 0.175 <0.0001 <0.0001 0.0002
+ Syntenic Nonsyntenic
+(%) (%) (%)
+    All 21,665
+10,770 10,895 3,502 1,689 3,177 2,899 3,239 1,261 1,450 582
+562 235 1,227 444 605 218 1,893 848
+4,575 383 970 190 88 42 56 15 125
+49.70% 50.30% 21.00% 67.50% 32.50% 7.00% 52.30% 47.70% 16.00% 71.90% 28.00% 4.20% 71.40% 28.60% 4.30% 70.30% 29.40% 5.30% 73.40% 26.60% 3.40% 73.30% 26.40% 1.80% 69.20% 31.00% 4.60%
+n/a <0.0001 0.0046 <0.0001 <0.0001 <0.0001 <0.0001 <0.0001 <0.0001
+Homoeolog Single-copy
+Total CNS
+Total 59 CNS Total 39 CNS Total intronic CNS >5 CNSs
+<5 CNSs
+5,193 6,076 4,502 2,032
+799 1,671 825 2,735
+ The number of genes that are syntenic, nonsyntenic, and transposed in the genome, among genes with a homoeolog, among single-copy genes, and among genes with CNSs. x2 for transposed homoeologs is based on the number of genes that have transposed in the genome. x2 for total CNSs is based on the number of transposed genes that had a homoeolog. n/a, not applicable.
+ divergence times of the outgroups from A. thaliana (Figure 2B). An A. thaliana gene that had transposed since the divergence of A. thaliana and A. lyrata belongs in the <10 MYA epoch; an A. thaliana gene that had transposed before the divergence of A. thaliana and A. lyrata but after the divergence of papaya from what became the A. thaliana lineage falls within the 10 to 72 MYA
+epoch; and an ancestral A. thaliana gene that had transposed before the divergence of papaya from the A. thaliana lineage but after the divergence of poplar belongs in the 72 to 100 MYA epoch (Figure 2B). In the latter case, it is possible that the gene in question was lost in both the poplar and grape lineages, but we suggest that the likelihood of a loss at both loci is a less
+ Figure 3. Illustration of Different Scenarios When Classifying the Positional History for a Gene in Question (Colored in Green).
+A 40-gene window was centered on every query A. thaliana (TAIR9) gene to check for a syntenic region in each target genome. LASTZ (default parameters) were used to define anchors and required that the syntenic region to have at least four collinear anchors (out of 40 possible anchors) in the interval. Each query gene is categorized based on the flank anchors and more sensitive search on the tight interval as follows: gene match in the interval, syntenic (S) or not syntenic but have both flankers (F) or one flanker (G). Genes labeled as F are further validated as follows: BLAST matches (e.g., to noncoding sequences) in the interval (FB) and contains assembly gaps (Ns) in the interval (FN). Because the region between flankers is unsequenced (FN), we cannot determine whether or not there is a gene in that space that could be syntenic with the query gene.
+
+parsimonious inference than a single ancient loss pre-Brassicales divergence. In total, there are 4575 of these genes that meet our criteria for a putatively transposed gene in the A. thaliana lineage (independent of epoch), ;21% of the A. thaliana genome (Table 1). All 4575 of these transposed genes were further manually proofed.
+Genes with Homoeologs (Posttetraploidy Pairs) Retained from the Most Recent A. thaliana Lineage Genome Duplication Event Tend to Be Syntenic throughout
+the Rosids
+WGD events have occurred repetitively throughout plant evolutionary history (Paterson et al., 2010). After a genome-wide duplication event, certain types of genes tend to retain their duplicate copy, or homoeolog (Maere et al., 2005), such as many transcription factor genes. In the two Arabidopsis species, the most recent WGD event, known as the a duplication event, occurred ;20 to 60 MYA (Paterson et al., 2010) (Figure 2). It is thought that these genes retain their homoeolog because their protein products are sensitive to the dosage of the protein complexes in which they interact, so loss of the homoeolog would have caused an unfit haploinsufficiency syndrome (Veitia, 2002; Birchler and Veitia, 2007). Our definition of an a-retained homoeolog is based on Thomas and coworkers’ revision (Thomas et al., 2006) of the Bowers and coworkers’ original pairs list (Bowers et al., 2003). We asked if genes that retain their homoeolog also tended to remain syntenic throughout the rosids, going back to the grape common ancestor 111 MYA. We found that 1751 retained A. thaliana gene pairs were syntenic in grape, representing 3502 individual genes (Table 1). We next asked if the ancestor of any a-retained genes had transposed before the WGD event; the order of events would have been (1) a gene transposed into a new location in the A. thaliana lineage, (2) the genome duplicated, and (3) both copies of the transposed gene were retained after the WGD (Figure 2C). These genes would have transposed after poplar diverged from the A. thaliana lineage (100 MYA) but before the a-duplication event (20 to 60 MYA), which predated the divergence of A. thaliana and A. lyrata (10 MYA). In other words, the gene had to have transposed in the 10 to 72 MYA epoch (Figure 2B). Such a gene would be syntenic in A. lyrata and A. thaliana and would also have a homoeolog in A. thaliana. We found only 192 gene pairs that meet these criteria, representing 192 single-gene, pre-WGD insertion events (Table 1). These data demonstrate that retained genes are more likely to have been syntenic than to have transposed in earlier epochs.
+Because recent WGD gene duplicates tend to be syntenic throughout the rosids, we asked if single-copy genes also demonstrated a bias in synteny. Single-copy genes are those that appear to always lose their homoeologs after a genome duplication event (Duarte et al., 2010). However, we found that the difference in frequency of syntenic genes among single-copy genes and the frequency of syntenic genes within the genome is not statistically significant (Table 1). Interestingly, while the frequency of transposed genes among single-copy genes is less than the frequency of transposed genes found in the genome (16% versus 21%, x2 test <0.0001), it is greater than the frequency of transposed genes with a retained homoeolog
+(16% versus 7%, x2 test <0.0001). Clearly, the syntenic genes would be more useful for systematic analyses, and our work demonstrates which ones these are.
+A Gene’s Positional Stability Is Correlated with the Presence, Size, and Location of Conserved Noncoding Sequences
+Conserved noncoding sequences (CNSs) are sequences outside of the coding region that have been retained over evolutionary time and have been shown, in general, to have some function (Inada et al., 2003; Freeling and Subramaniam, 2009). This function is inferred by the very fact that they are retained as CNS pairs under conditions where functionless DNA would be expected to drift by base mutations to undetectability, assuming that the functionless sequence avoided outright deletion. It is thought that CNSs play a part in gene regulation, most likely as cis-acting protein binding sites (Freeling and Subramaniam, 2009). In A. thaliana, CNSs are in part characterized by their retention as homoeologous pairs after the most recent tetraploidy (Thomas et al., 2007). Because of this, we expected that CNSs would not be associated with transposed genes but would be associated with syntenic genes. We found that 72% of CNSrich genes are syntenic versus 67% of homoeologous genes that are syntenic, a difference that is statistically significant (x2 test <0.0001). Conversely, the number of pre-a-duplication CNScontaining genes that had transposed is quite low, even lower than the number of transposed genes that have a homoeolog: 190 CNS-containing transposed genes (4.2%) representing 95 pairs versus 384 transposed homoeologous genes (7%) representing 192 pairs (x2 test <0.0001).
+Tracking CNSs and gene mobility allowed us to answer specific questions as to the unit of transposition: Does a transposed gene tend to take with it its full complement of associated regulatory DNA? If not, of course, the gene becomes a candidate neomorphic mutant in the sense that it might pick up, perhaps by necessity, regulatory information from its new chromosomal position. Previous research has suggested that one way genes can transpose is by a DNA-based copy-paste mechanism, where, after duplication, the original parent gene remains in situ after the daughter copy transposes to a new site (Woodhouse et al., 2010). Using BLASTN (word size 11, E-value cutoff # 0.001), we identified the best hits outside of the homoeolog for each of our CNS-carrying transposed pairs and asked whether these hits contained sequence that corresponded to the described CNSs in these pairs. We found only 12 separate transposed pairs whose best hits were either a syntenic, CNScontaining gene (the potential parent gene) or another transposed gene where at least one of the CNSs was present (a potential daughter or sibling gene) (Table 2; see Supplemental Figure 1 online). This further confirms that transposed genes do not tend to arise from genes with CNSs nor take with them their suite of regulatory sequence.
+Table 2 demonstrates that number, distance, and placement of CNSs are all limiting factors when it comes to a transposed gene carrying with it, then afterward retaining, CNSs from its parent site. Indeed, gene size itself may play a role in limiting gene mobility: When we compared the functional gene space
+Positional History of Arabidopsis thaliana Genes 4245
+
+4246 The Plant Cell
+ Table 2. Genes That Have Transposed with Their CNSs
+ Query TAIR AT3G05660
+AT5G07210 AT1G64000 AT1G05570 AT1G21140
+AT1G21160
+AT1G29470 AT1G63400
+AT4G31650
+AT4G37260 AT5G18080
+AT5G66940
+No. of 59 CNSs CNSs
+39 CNSs
+1
+3
+2 1
+Intronic CNSs
+10
+3 1
+Homoeolog of Query TAIR
+AT5G27060
+AT5G62110 AT5G41570 AT2G31960 AT1G76800
+AT1G76825
+AT2G34300 AT5G41170
+AT2G24650
+AT2G23290 AT3G03820
+AT3G50410
+Transposed Best Hit TAIR
+AT2G15080 AT3G28890 AT3G11010 AT4G13820
+AT4G13880 AT2G27070 AT2G46130 AT5G36870 AT3G43660 AT3G25190 AT2G27700 AT1G76720 AT5G27800 AT1G12620
+AT2G13990 AT4G00260 AT2G24748 AT1G26680 AT3G50060 AT3G55730
+near AT3G13820 AT1G11803 AT4G38850 AT2G21200 AT4G38000
+No. of CNSs Retained by Transposed
+1 1 1 1
+1 1 1 7 1 1 1 2 1 1
+1 1 1 1 2 1 1 1 1 1 1
+Transposed CNS Position
+59 59 59 59
+59
+59
+59 Intronic 59
+59 Intronic Intronic Intronic 59
+59 59 59 59 59 59 59 59 59 39 59
+Transposed CNS Distance
+<50 bp
+<50 bp
+<50 bp
+6 kb (separated
+by two genes) <50 bp
+<50 bp
+<50 bp
+Intronic
+<50 bp
+<50 bp
+Intronic
+Intronic
+Intronic
+5 kb (separated
+by a gene) <50 bp
+1 kb
+800 bp
+1 kb
+300 bp, 100 bp 600 bp
+500 bp
+500 bp
+500 bp
+100 bp
+<50 bp
+    1
+1
+2 11 3
+3
+1 1
+5
+12 11
+4
+1
+1 2 1 2
+1 2
+10 10
+4
+ The TAIR9 ID of the CNS-containing gene’s query sequence, its description, the numbers and
+TAIR ID of its best hit, and the number, position, and distance of the best hit’s sequences corresponding to the query sequence’s CNSs. Most transposition events where a gene took with it a CNS from the donor site have taken or retained only one CNS. Most CNSs transposed are proximal to the 59 start site. There are cases where one query gene has many possible best hits; the empty cells are placeholders.
+types of CNSs it
+has, the TAIR ID of its homoeolog, the
+ (comprising the gene itself along with all known regulatory features upstream and downstream from the start-stop sites, including CNSs) of syntenous and transposed genes, we found that the percentage of syntenic genes over 3 kb was more than twice that of mobile genes (18% versus 7%, respectively), while 36% of mobile genes were under 1 kb in length, as opposed to only 6% of syntenic genes (Table 3), and 19% of mobile genes were under 500 bp, in comparison to only 1% of syntenic genes. The unit of mobility seems to be single gene: Upon manually
+proofing all 4575 transposed genes, we found <1% of cases where more than one gene transposed, and in those situations, it was usually one and a half genes (data not shown). The likelihood of having introns is also correlated with synteny: 11.6% of all syntenic genes lacked introns, whereas ;30% of all transposed genes lacked introns (Table 3). This lack of introns is expected, as it has been demonstrated in previous work that transposed genes often originate from families that do not tend to have introns (Woodhouse et al., 2010), though the mechanism of gene
+ Table 3. Transposed Genes Have a Smaller Functional Gene Space Than Stable Genes and Fewer Introns
+   Position
+Syntenous
+% Syntenous Transposed
+% Transposed
+Functional Gene Space (bp)
+>3,000 3,000 2,000
+1,968 1,805 3,313 18% 17% 31% 322 321 830 7% 7% 18%
+1,000 <1,000
+3,052 624 28% 6% 1,457 1,633 32% 36%
+>500 <500 Total
+547 77 10,764 5% 1% –
+768 865 4,563 17% 19% –
+No. of Introns
+$1 Intron 9,396
+88.40% 2,470 69.80%
+0 Introns
+1,228 11.60% 1,068 30.20%
+Total
+10,624 – 3,538 –
+  Functional gene space is defined as the gene itself as well as all regulatory regions as inferred
+gene. Units are in base pairs. Based on TAIR9 exon annotation data, we found that 30% of transposed genes lack introns, in comparison to only 11.6% of stable genes that lack introns.
+from CNS positions upstream and downstream of the
+ 
+transposition via RNA-mediated retroposition (which gives rise to transposed genes without introns) may also play a role (Zhang et al., 2005) in addition to DNA-mediated transposition (Wicker et al., 2010; Woodhouse et al., 2010).
+Certain Classes of Genes Have Transposed at Specific Points in Time
+We next examined gene classest to determine if any tended to transpose at specific points in evolutionary time, or epochs. This would also allow us to ask if recent genome duplication events might have played a role in expansion of gene transposition within certain clades and thus have given rise to novelty, as discussed by Fawcett et al. (2009). We found that, as expected F-box, NBS-LRR, defensin, and AGL genes were overrepresented for transposition within the <10 MYA epoch (Woodhouse et al., 2010), and most also transposed to a significant degree within the 10 to 72 MYA epoch (Freeling et al., 2008), which is the epoch that includes two genome duplication events (Figure 2). Previously overlooked gene categories also demonstrated a bias for gene transposition in the 10 to 72 MYA epoch (Figure 4; see Supplemental Table 1 and Supplemental Table 2 online). These include the B3-domain-containing genes, Locus Control Region (LCR)/self-incompatibility protein-related genes, the CLE (for CLAVATA3/ESR-related) developmental genes, and the meprin and TRAF homology domain proteins associated with developmental and pathological processes. By contrast, only one family,
+the Cation/H+ Exchanger (CHX) family of ttransporter genes, appears to have undergone a transposition radiation prior to the 10 to 72 MYA epoch.
+Many Mobile Gene Families Have Primarily Transposed during or Shortly after the Brassicales WGD Events
+As noted, many of the transposition events occurred in the 10 to 72 MYA epoch, which is the epoch in which both the a(;25 MYA) and the earlier b(;50 MYA) WGD events (Jiao et al., 2011) had taken place in the Brassicales (Figure 2). We asked if we could more closely pinpoint the times in which these transpositions occurred. By acquiring the (Anisimova and Gascuel, 2006) gene IDs and descriptions in grape (Jaillon et al., 2007), poplar (Tuskan et al., 2006), papaya (Ming et al., 2008), and A. lyrata (Hu et al., 2011) from the sequenced genome database Phytozome (http://www.phytozome.net/), we looked at all the known, annotated genes in each of these species for the CHX, CLE, TRAF, B3, and LCR families of genes to ask how many genes there were in each family per species. From this information, we can deduce more precisely when the transposition events took place in the A. thaliana lineage (Figure 5; see Supplemental Table 3 online). We found that the 10 to 72 MYA genes (B3, TRAF, and LCR) expanded specifically in the A. thaliana lineage sometime after the A. thaliana ancestor diverged from the papaya ancestor but before A. lyrata diverged from A. thaliana, as these gene families had fewer representatives in papaya but contained many more in
+Positional History of Arabidopsis thaliana Genes 4247
+ Figure 4. The Epoch Specificities of the Major Gene Families That Tend to Transpose in the Rosids.
+This chart describes the percentage over or under (y axis) expected incidence of transposition for each gene family based on the data from Supplemental Table 2. Expect values are based on frequency of transposition for each epoch per genome. Genes encoding ECA1s, thionins, and defensins transpose within the <10 MYA epoch, though their relative undetectability in poplar does not preclude their having transposed in earlier epochs. Genes encoding AGL and terpene synthases transposed primarily in the <10 MYA epoch, but some transposition occurred in the 10 to 72 MYA epoch. DC1 genes transposed almost equally within the <10 and 10 to 72 MYA epochs. NBS-LRRs and F-box genes mostly transposed in the 10 to 72 MYA epoch but also transposed more recently. Genes encoding B3, self-incompatibility, CLE, meprin, TRAF, and LCR proteins transposed exclusively within the 10 to 72 MYA epoch. PPR genes transposed in both the 10 to 72 and 72 to 100 MYA epoch. ATCHX genes transposed almost exclusively in the 72 to 100 MYA epoch.
+
+4248 The Plant Cell
+ Figure 5. Gene Expansion in the 10 to 72 MYA Epoch Occurred during or after the WGD Events in A. thaliana.
+The increase in genes for most of these gene families occurred after the papaya ancestor diverged from the A. thaliana lineage but before A. lyrata diverged from A. thaliana, sometime during one or both of the WGDs (represented by the shaded area and the two stars). The exception is the CHX family of genes, which shows an increase in numbers of genes in poplar but not after. Most of these new genes in the A. thaliana lineage were not syntenic with papaya (see Supplemental Table 4 online).
+the A. thaliana species, which were primarily syntenic between A. lyrata and A. thaliana, but not syntenic in papaya (see Supplemental Table 3 online). This supports the hypothesis that these gene transposition events occurred during or soon after the WGD events in the Brassicales. When we examined the CHX genes, known to have expanded in eudicots after the eudicots had diverged from the monocots (Sze et al., 2004), we found that this gene family had expanded after the grape ancestor diverged from the rosids but not since (Figure 5; see Supplemental Table 2 online). Because this discrepancy might have been accounted for by gene movement after the poplar genome duplication event that took place after the A. thaliana lineage diverged from the poplar ancestor (represented in Figure 1), we examined the peach genome (also within the rosid 1 subclade) (http://www.phytozome. net/dataUsagePolicy.php?org=Org_Ppersica) for the presence of these transposed CHX genes and found they gave us a similar result regarding the number of genes in the A. thaliana lineage that had transposed in the 72 to 100 MYA epoch. In comparing the A. thaliana and poplar CHX protein sequences phylogenetically (see Methods), we find that the poplar genes not syntenic in grape (as deduced by SynMap; see Methods) and the nonsyntenic and transposed A. thaliana CHX genes tend to cluster (see Supplemental Figure 2 and Supplemental Data Set 1 online), suggesting that the similarity of these genes in different species are due to a single expansion event sometime before the poplar and A. thaliana ancestors diverged. Conversely, the nonsyntenic and transposed genes in the A. thaliana B3-domain family do not cluster around any poplar B3-domain genes; rather, the nonsyntenous poplar B3domain genes tend to cluster with each other, and syntenous poplar B3-domain genes tended to cluster with syntenous A. thaliana genes (see Supplemental Figure 3 and Supplemental Data Set 2 online), as would be expected from a radiation that occurred after the poplar ancestor diverged from the A. thaliana lineage.
+Subclasses of the B3 and CHX Genes Tended to Transpose Relative to Other Subclasses
+We asked if, within each epoch, certain subclasses of specific gene families had transposed and whether they were related to a particular function. In this study, we examined the B3-domain family of transcription factors (10 to 72 MYA) and the CHX family of transporters (72 to 100 MYA). These two families were chosen because their mobility had not been previously examined, they are overrepresented for transposition within their particular epoch, and they are well characterized. Table 4 describes the types of genes within each family that tend to transpose. Of the 99 B3 genes in our study, two major types were represented: The B3 genes associated with auxin response factor domain proteins and those associated with REM domain proteins, which are thought to be involved in floral organ development (FrancoZorrilla et al., 2002; Swaminathan et al., 2008). Based on described functions for these genes, we found that a significant proportion (31/51) of transposed genes were of the REM subclass in comparison to the number of syntenic REM genes (7/51). For the CHX genes, we considered the patterns of tissue-specific expression as described by Sze et al. (2004) and Song et al. (2009). ATCHX genes code for cation:anion antiporters, most members of which are expressed in the male gametophyte in A. thaliana and are hypothesized to be involved in pollen tube growth (Sze et al., 2004; Song et al., 2009). Nine of the 10 transposed genes for which there is expression data are strongly expressed in pollen (Sze et al., 2004) (Table 4; see Supplemental Data Set 3 online). Additionally, the transposed pollen-associated CHX genes tended to cluster in phylogenetic tests, as noted by Sze et al. (2004).
+These results are preliminary; our Arabidopsis Gene Positional History resource should facilitate continuing, improved positional
+
+Table 4. The Subclass Specificity of Gene Transposition within Three Representative Gene Families
+thaliana in evolutionary time), we have been able to deduce which genes have remained syntenic throughout the rosids versus those genes that have transposed or are otherwise nonsyntenic or are positioned within rearrangement-prone chromosomal regions. This resource is available in a searchable public database at http://biocon.berkeley.edu/athaliana. We intend to keep this website updated as new, relevant genomes become publicly available. Also, all data as of November, 2011 have been uploaded to the Dryad database (http://datadryad.org/); see accession numbers below.
+Several characteristics can be used to predict a gene’s propensity for mobility. One is gene size, and another is the number and complexity of a gene’s putative regulatory regions. We demonstrated that transposed genes tend to have a smaller gene space than syntenic genes. We have also shown that transposed genes only rarely have CNS associated with them. Based on the small functional gene space and the lack of CNSs associated with mobile genes, we can infer that genes that tend to transpose are those that are not under the usual forms of regulation and where some function is not absolutely dependent upon regulatory sites far away from the transcriptional unit. This is further supported by studies of retroposed genes, whose relocation generally gives rise to different expression patterns, although these types of mobile genes are less abundant than DNA-based transposed genes (Kaessmann et al., 2009). Transposed genes seem likely candidates for genes encoding novel function (neomorphs).
+Given the propensity for mobile genes to be small, it is not surprising that many highly mobile gene families, such as defensins, thionins, LCR, and ECA1 genes, encode small, secreted, Cys-rich proteins. These genes also are observed to transpose exclusively in the <10 MYA epoch (Figure 6), with the exception of LCR genes, which transpose mostly within the 10 to 72 MYA
+Gene Family
+Total Syntenic Nonsyntenic Transposed
+14 43
+Shown are the different classes within each gene family and the number of genes total, the number of syntenic genes, the number of nonsyntenic genes, and the number of transposed genes for each class for which there was available data. In B3 genes, REM-type genes disproportionately transpose (Swaminathan et al., 2008); for ATCHX genes, all transposed genes are associated with strong pollen expression. Most syntenic genes are associated with leaf and root expression (Sze et al., 2004).
+histories. The goal of positional history of plant genes is a work in progress. The sequenced genomes we use as outgroups are being revised and updated now, and many new eudicot outgroup genome sequences are in progress.
+DISCUSSION
+The ever-increasing number of sequenced genomes made available to the scientific community has permitted us to trace the positional history of each A. thaliana gene as it and its descendents manifest in rosid genomes. By comparing the location of each A. thaliana gene to the outgroups A. lyrata, papaya, poplar, and grape (each placed further away from A.
+Positional History of Arabidopsis thaliana Genes 4249
+     B3
+ARF
+REM
+Other
+ATCHX
+Pollen
+Roots 8 5 Leaves 11 5
+9 32 1 2 11 10 9 10 1 2 3 3
+91 34 21 11 51 7 19 16 28 7 21 3
+1 12
+   Figure 6. The Major Transposition Events Studied.
+This figure places the transposition events per epoch at their appropriate points over evolutionary time. Most of the transposition events occurred after papaya diverged from the A. thaliana ancestor. This may be due to the genome duplication events giving rise to an increase in gene transposition generally.
+
+4250 The Plant Cell
+epoch. As more and more ecotypes of A. thaliana are sequenced (Schneeberger et al., 2011), it will be interesting to study recent transposition frequency and copy number of these gene families.
+It is possible that the epoch-specific mobility we observe among the above gene families is a function of small gene size and high birth-and-death rates; these genes are simply not detectable in poplar (see Supplemental Table 2 online). Consequently, differentiating between deletion and transposition in an earlier epoch is simply not possible experimentally. By contrast, most F-box and NBS-LRR genes, which are observed to have transposed within both the <10 and 10 to 72 MYA epochs (Figure 3) but not the 72 to 100 MYA epoch, are detectable within the poplar outgroup (see Supplemental Table 2 online), suggesting that they did not transpose in the interval 72 to 100 MYA. In comparison, B3, self-incompatibility, CLE, meprin, and TRAF homology domain genes have not transposed within the <10 MYA epoch, but, rather, transposed almost exclusively within the 10 to 72 MYA epoch. CLE, TRAF, and self-incompatibility genes are relatively small genes (<1000 bp), yet they have been detected within the poplar outgroup. Therefore, their mobility within the 10 to 72 MYA epoch suggests truly time-specific transposition events. Notably, these gene classes tend to transpose within the time frame of not one but two WGD events in the Brassicales (Figure 6). We hypothesize that WGD events and gene mobility may be correlated in plants; this is plausible, as recombination and other types of rearrangements are known to occur after plant genome duplication events (Gaeta and Pires, 2010). The lone, pre-WGD epoch-specific radiation is the CHX family of antiporter genes, whose transposition is relegated almost exclusively to the rosid I clade and suggests a role in pollen development and fitness in the later-evolving rosid species. It will be interesting to see if gene transposition is correlated with other WGDs in other species, such as soybean (Glycine max) and the newly sequenced Brassica rapa genome that had undergone a recent hexaploidy event (Wang et al., 2011).
+Within epoch-specific transposed gene families, certain subfamilies of genes have transposed and others have not (Table 4). A subfamily of B3-domain genes, the REM genes, are overrepresented for mobility. CHX genes encode cation:proton antiporters that have undergone expansion within the eudicots; many of the CHX genes that are unique to the eudicots are those whose expression is localized to the male gametophyte (Sze et al., 2004). All transposed CHX genes showed strong pollen expression, while a few of them showed expression in roots and leaves. Interestingly, we observed that the majority of CHX genes are not syntenic. In fact, only seven of the 28 known CHX genes have been syntenic throughout the rosids.
+Duplication of A. thaliana genes via retention following its most recent tetraploidy has produced cases of subfunctionalization (Haberer et al., 2004). In theory (Se ́mon and Wolfe, 2007), all duplicate genes are subject to diversification by the neutral processes of subfunctionalization or cis-acting gene component loss (fractionation) or by the acquisition of some new function requiring positive selection (neofunctionalization), perhaps as a consequence of a new chromosomal position. Our findings demonstrate that, within the A. thaliana lineage, gene expansion via transposition in certain families has happened at specific points in time, in particular during or after a WGD event. These
+findings lead one to ask if different gene families have transposed at wholly different times in different species (e.g., grape or rice) and, if so, how might these expansions correlate with fitness in a particular clade.
+Our Arabidopsis Gene Positional History database provides a useful platform from which to study gene synteny throughout the eudicots. The data from all eudicot genomes tested are anchored on orthologous genes or regions where such orthologous genes are expected, and a graphic of the BLASTZ alignment output of all orthologus outgroups is available via a link to GEvo (http://synteny.cnr.berkeley.edu/CoGe/GEvo.pl), the alignment viewer within the CoGe toolbox (Lyons et al., 2008). This link permits visual proofing of our results and facilitates on-the-fly research among orthologs. Our database is directly linked from TAIR, so that plant geneticists have easy access to it. We hope that our results serve as a foundation on which more profound hypotheses might be put to the test and that our Arabidopsis Gene Positional History Web tool might facilitate such research.
+METHODS
+The Positional History Whole Annotated Genome Pipeline (Positional History Pipeline)
+A pipeline is a series of scripts that, given the input of annotated whole genomes, automatically labels genes that would provide useful results with minimal manual intervention. A 40-gene window was centered on every query Arabidopsis thaliana (TAIR9) gene to check for a syntenic region in each target genome. (B)LASTZ (default parameters: word size 8, gap start penalty 400, gap extend penalty 30, score threshold 300) was used to define anchors and required that the syntenic region to have at least four collinear anchors (out of 40 possible anchors). The nearest anchors on both sides of genes were identified to define a tight syntenic location.
+We implemented a careful labeling pipeline for the positional history of genes described below and illustrated in Figure 3. Each query gene is categorized for each outgroup, based on the flank anchors and more sensitive search on the tight interval as follows: gene match in the interval, syntenic (S), not syntenic, have both flankers (F), or one flanker (G). For genes labeled as F, further validation is as follows: BLAST matches (e.g., to noncoding sequences) in the interval between flankers (FB) and assembly gaps (Ns) in the interval between flankers (FN). Because the region between flankers is unsequenced (FN), we cannot determine whether or not there is a gene in that space that could be syntenic with the query gene. To err on the side of caution, we denote it as FN instead of F. For Arabidopsis lyrata, a second test was done for S genes to ensure they weren’t truly F but had been denoted as S simply because they were within the 40-gene window. This was necessary because the A. thaliana and A. lyrata genomes are so similar. However, this test was not required for papaya (Carica papaya), poplar (Populus trichocarpa), and grape (Vitis vinifera). Poplar has a lineage-specific genome duplication (Tuskan et al., 2006), so, in most cases, each A. thaliana gene has two orthologs. Sometimes the codes can be conflicting in the case of poplar. For example, one copy is syntenic in position (S) and another has transposed (F). In this case, our rule is to report the gene in poplar as syntenic (i.e., S takes priority over F among homoeologs). This is a parsimonious explanation because S (synteny) is clearly the ancestral state; a change from S to F is much more probable than changes from F to S. The priorities for our codes are S, F, FB, FN, and G, in this order. This pipeline is available in Python format at https://github.com/tanghaibao/positional-history.
+
+Rules for Being Labeled a Transposed Gene in Three Distinct Epochs
+A transposed gene is defined as one that is not syntenic in any outgroup originating at a time older than the taxon carrying the gene in question. Such a gene is denoted F in at least one of the remaining outgroups. For instance, a gene would be considered as having transposed within the <10 MYA epoch if it is not syntenic (S) in any of the outgroups and is F in at least one of the outgroups. The criteria for a gene to be considered as having transposed within the 10 to 72 MYA epoch are that it must be syntenic (S) in A. lyrata and F in at least one of the other outgroups and not syntenic in the remainder. A gene is considered as having transposed within the 72 to 100 MYA epoch if it is syntenic (S) in A. lyrata and papaya and F in either poplar or grape. Of statistical necessity, our criteria for transposed genes must include genes that are FB or FN in some of the outgroups. However, as FN represents missing sequence between flankers in the outgroup and as FB represents the presence of small segments of noncoding sequence corresponding to the query gene in the outgroup interval, neither of these situations can guarantee a perfect test for whether or not the query gene had been deleted or partially lost in the outgroup, rather than having transposed. While our calls of synteny are solid, our calls of transposed certainly contain error that, if it is not due to incomplete sequencing, can be improved by manual proofing. We include GEvo links to all expected syntenic positions in all outgroup genomes (see http://datadryad.org/ or http://biocon.berkeley.edu/athaliana) to facilitate manual research using the enhanced visualization software of the GEvo sequence alignment tool in the CoGe suite of comparative genomics tools, http://synteny.cnr.berkeley.edu/CoGe/.
+Gene Detectability
+To study the status of gene transposition during the <10, 10 to 72, and 72 to 100 MYA epochs, we performed BLAST on all putatively transposed genes in the <10 MYA epoch to A. lyrata and the 10 to 72 and 72 to 100 MYA epochs to poplar (TBLASTX for genes with CDSs and BLASTn for non-CDS genes, such as tRNA genes and RNA genes) using a loose cutoff of e-value 0.001 and a bit score of 45 (see Supplemental Table 1 online). To differentiate between a newly arisen gene and a gene that had actually transposed into its new location, we looked for a best hit in each outgroup in question for every putatively transposed A. thaliana gene, and those with a best hit not syntenic to the query gene are considered transposed. Those genes that did not have a best hit outside themselves in the representative genomes were discounted. When we compare putatively transposed A. thaliana genes to orthologous expected positions in outgroups that have anciently diverged from A. thaliana, such as poplar, some have no believable BLAST hits anywhere in the outgroup’s genome. Finding no hit between flankers in an outgroup may be the result of rapid divergence of that gene or high base substitution frequencies (drift), such that our algorithm cannot detect it. For instance, many genes, such as tRNAs, small nucleolar RNAs, and MIR genes, are denoted F, or putatively transposed, in our pipeline, but these genes have no best hit in the outgroup. In particular, MIR genes tend to be undetected because of high base substitution frequencies (Howell et al., 2007). Other gene families that tend to have short coding sequences, such as defensins, thionins, and other small, Cys-rich genes, are automatically suspected of being difficult to detect. Such genes and gene families cannot be proven to have transposed, but transposition can still be inferred if we can document recent transposition events between A. thaliana and A. lyrata.
+Determining Transposed Genes for Gene Transposition per Epoch
+Each gene in each epoch in this experiment had a believable BLAST hit within the representative outgroup. For instance, all genes that have transposed within the <10 MYA epoch had a believable blast hit
+in A. lyrata, and all transposed genes within the 10 to 72 MYA and the 72 to 100 MYA epochs had a believable blast hit in poplar. Note that few defensins, thionins, or other Cys-rich genes are represented within the 10 to 72 MYA epoch or before; this is only because no believable BLAST hit was found within the representative outgroup for these genes. This does not mean that transposition within these families did not take place.
+Phylogenetic Analysis of the B3-Domain and CHX Genes
+We deduced which B3-domain genes in poplar were syntenous by comparing the poplar genome to grape using our program SynMap, which generates a whole-genome dot plot analysis. Once we obtained this data, we aligned the B3 protein sequence in both poplar and A. thaliana and the CHX genes, respectively, using the alignment program MUSCLE (Edgar, 2004) using default parameters, then constructed our phylogenetic tree using the program Phylogeny.fr (http://www.phylogeny.fr; Dereeper et al., 2008). Branch lengths were calculated using the criteria described by Guindon and Gascuel (2003) and Anisimova and Gascuel (2006).
+Accession Numbers
+Sequence data from this article have been deposited in the Dryad Repository (http://dx.doi.org/10.5061/dryad.275kv81m).
+Supplemental Data
+The following materials are available in the online version of this article. Supplemental Figure 1. Some Transposed Genes Retain CNSs.
+Supplemental Figure 2. The CHX Family of Genes Expanded before the Divergence of the Poplar Ancestor and the A. thaliana Lineage.
+Supplemental Figure 3. The B3-Domain Family of Genes Underwent a Transposition Expansion after the Poplar Ancestor Diverged from the A. thaliana Lineage.
+Supplemental Table 1. Total Transposed Genes per Family versus Number of Transposed Genes per Family with a Best Hit in the Outgroup.
+Supplemental Table 2. Genes That Transposed per Epoch.
+Supplemental Table 3. Genes That Transposed in the 10 to 72 MYA Epoch Did So during or after the Two A. thaliana Genome Duplication Events.
+Supplemental Data Set 1. Text File of PHYLIP Alignment of CHX Genes.
+Supplemental Data Set 2. Text File of PHYLIP Alignment of B3Domain Genes.
+Supplemental Data Set 3. Subclasses within Gene Families Are Associated with Epoch-Specific Transposition.
+ACKNOWLEDGMENTS
+This work was funded by National Science Foundation Grant MCB0820821 to M.F., an Arabidopsis 2010 grant (http://www.nsf. gov/). The funder had no role in study design, data collection, and analysis, decision to publish, or preparation of the manuscript. We thank Yuheng Huang of Project SEED for assisting with the proofing of our data sets. Sequence data for the peach genome were produced by the U.S. Department of Energy Joint Genome Institute (http://www.jgi.doe. gov/) in collaboration with the user community.
+Positional History of Arabidopsis thaliana Genes 4251
+
+Different Gene Families in Arabidopsis thaliana Transposed in Different Epochs and at Different Frequencies throughout the Rosids
+Margaret R. Woodhouse, Haibao Tang and Michael Freeling
+Plant Cell 2011;23;4241-4253; originally published online December 16, 2011; DOI 10.1105/tpc.111.093567
+This information is current as of June 8, 2012
+ Supplemental Data
+References
+Permissions eTOCs
+CiteTrack Alerts
+Subscription Information
+http://www.plantcell.org/content/suppl/2011/12/16/tpc.111.093567.DC1.html
+This article cites 51 articles, 26 of which can be accessed free at:
+http://www.plantcell.org/content/23/12/4241.full.html#ref-list-1
+https://www.copyright.com/ccc/openurl.do?sid=pd_hw1532298X&issn=1532298X&WT.mc_id=pd_hw1532298X
+Sign up for eTOCs at:
+http://www.plantcell.org/cgi/alerts/ctmain
+Sign up for CiteTrack Alerts at:
+http://www.plantcell.org/cgi/alerts/ctmain
+Subscription Information for The Plant Cell and Plant Physiology is available at: http://www.aspb.org/publications/subscriptions.cfm
+© American Society of Plant Biologists ADVANCING THE SCIENCE OF PLANT BIOLOGY

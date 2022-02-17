@@ -1,0 +1,394 @@
+   Molecular Ecology (2012) 21, 71–86 doi: 10.1111/j.1365-294X.2011.05366.x
+Population structure and migration pattern of a conifer pathogen, Grosmannia clavigera, as influenced
+by its symbiont, the mountain pine beetle
+CLEMENT K. M. TSUI,* AMANDA D. ROE,† YOUSRY A. EL-KASSABY,* ADRIANNE V. RICE,† SEPIDEH M. ALAMOUTI,‡ FELIX A. H. SPERLING,† JANICE E. K. COOKE,† JO ̈ RG BOHLMANN*,§ and RICHARD C. HAMELIN*,–
+*Department of Forest Sciences, The University of British Columbia, Vancouver, British Columbia, Canada V6T 1Z4, †Department of Biological Sciences, University of Alberta, Edmonton, Alberta, Canada T6G 2E9, ‡Department of Wood Science, The University of British Columbia, Vancouver, British Columbia, Canada V6T 1Z4, §Michael Smith Laboratory, The University of British Columbia, Vancouver, British Columbia, Canada V6T 1Z4, –Natural Resources Canada, Laurentian Forestry Centre, 1055 du P.E.P.S., Que ́bec City, Que ́bec, Canada G1V 4C7
+Abstract
+We investigated the population structure of Grosmannia clavigera (Gc), a fungal symbiont of the mountain pine beetle (MPB) that plays a crucial role in the establishment and reproductive success of this pathogen. This insect–fungal complex has destroyed over 16 million ha of lodgepole pine forests in Canada, the largest MPB epidemic in recorded history. During this current epidemic, MPB has expanded its range beyond historically recorded boundaries, both northward and eastward, and has now reached the jack pine of Alberta, potentially threatening the Canadian boreal forest. To better understand the dynamics between the beetle and its fungal symbiont, we sampled 19 populations in western North America and genotyped individuals from these populations with eight microsatellite markers. The fungus displayed high haplotype diversity, with over 250 unique haplotypes observed in 335 single spore isolates. Linkage equilibria in 13 of the 19 populations suggested that the fungus reproduces sexually. Bayesian clustering and distance analyses identified four genetic clusters that corresponded to four major geographical regions, which suggested that the epidemic arose from multiple geographical sources. A genetic cluster north of the Rocky Mountains, where the MPB has recently become established, experienced a population bottleneck, probably as a result of the recent range expansion. The two genetic clusters located north and west of the Rocky Mountains contained many fungal isolates admixed from all populations, possibly due to the massive movement of MPB during the epidemic. The general agreement in north–south differentiation of MPB and G. clavigera populations points to the fungal pathogen’s dependence on the movement of its insect vector. In addition, the patterns of diversity and the individual assignment tests of the fungal associate suggest that migration across the Rocky Mountains occurred via a northeastern corridor, in accordance with meteorological patterns and observation of MPB movement data. Our results highlight the potential of this pathogen for both expansion and sexual reproduction, and also identify some possible barriers to gene flow. Understanding the ecological and evolutionary dynamics of this fungus–beetle association is important for the modelling and prediction of MPB epidemics.
+Keywords: approximate Bayesian computation, demography, fungi, insect dispersal, landscape, migration, population genetics, symbiosis, vector
+Received 21 June 2011; revision received 16 September 2011, 7 October 2011; accepted 16 October 2011
+Correspondence: Richard Hamelin, Fax: (+1) 604 822 9102; E-mail: richard.hamelin@ubc.ca
+Ó 2011 Crown in the right of Canada
+
+72 C. K. M. TSUI ET AL. Introduction
+The mountain pine beetle (Dendroctonus ponderosae; MPB) is a native destructive pest that is distributed from northern Mexico to central British Columbia (BC), southwestern Alberta (AB), the Cypress Hills of southwestern Saskatchewan and most of the western United States (Carroll et al. 2004). The MPB normally attacks a few damaged or suppressed trees, and the infestation follows a cyclical pattern, but it occasionally erupts into large-scale outbreaks (Carroll et al. 2004; Safranyik et al. 2010). The MPB epidemic that started in late 1990s has destroyed over 16 million ha of pine forests in western Canada and is by far the largest in recorded history. The impact of the current epidemic is unprecedented and has led to substantial economical losses and ecological damage (Kurz et al. 2008). Climate change combined with fire suppression and the availability of mature and over-mature lodgepole pine populations (i.e. of susceptible age) are thought to have created ideal conditions that could explain the magnitude of the current epidemic and population expansion (Stahl et al. 2006; Kurz et al. 2008; Raffa et al. 2008). The MPB primarily attacks lodgepole pine (Pinus contorta Dougl. ex Loud. var. latifolia Engelm.), but its host range encompasses other pines, such as jack pine (Pinus banksiana Lamb.), western white pine (Pinus monticola Dougl. ex D. Don), whitebark pine (Pinus albicaulis Engelm.) and ponderosa pine (Pinus ponderosa Dougl. ex Laws.) as well as natural hybrids between lodgepole and jack pines (Safranyik & Carroll 2006; Rice et al. 2007; Rice & Langor 2009; Cullingham et al. 2011). The beetles have also killed conifers in several US states, such as Colorado, Idaho and Montana (Carroll et al. 2004; Mock et al. 2007).
+The Chilcotin Plateau in south-central BC has sustained a long period of consecutive MPB epidemics, with reports in the early 1900s, 1960s and mid-1970s to mid-1980s (Safranyik & Carroll 2006). Modelling approaches suggest that the current epidemic may have started in west-central BC, near Tweedsmuir Provincial Park, during the late 1990s, but that multiple MPB populations have erupted in synchrony in several regions of BC (Aukema et al. 2006). The MPB population genetics analyses support the hypothesis of multiple regional eruptions as opposed to its spread from an epicenter (Bartell et al. 2008). During the past decade, the MPB population has expanded from westcentral BC to northern BC and from eastward to northwestern AB and the eastern slopes of the northern Rocky Mountains (Taylor et al. 2006; Safranyik et al. 2010).
+The MPB form a symbiotic relationship with several species of ophiostomatoid blue-stain fungi (Harrington
+1993; Six & Klepzig 2004; Lee et al. 2006). These fungi are adapted to dissemination by the MPB as they produce small, sticky spores on the apices of long-necked sexual and asexual fruiting structures that line the galleries and pupal chambers of the beetles (Harrington 1993; Six & Klepzig 2004). Spores are acquired and transmitted by the MPB through their mycangia and on their exoskeleton before their emergence to infest new trees (Harrington 1993; Six 2003; Safranyik & Carroll 2006). During successful attacks on host trees, MPB adults tunnel under the bark to feed and lay eggs, simultaneously introducing blue-stain fungi into the tree (Klepzig & Six 2004; Safranyik 2004; Safranyik & Carroll 2006). The combined effects of blue-stain fungal colonization and the mass attack of MPB and subsequent larval feeding can kill a tree in a few months (Klepzig & Six 2004).
+Grosmannia clavigera (Ophiostomatales, Ascomycetes) is the most aggressive fungus commonly associated with MPB (Solheim & Krokene 1998; Lee et al. 2006; Rice et al. 2007; Roe et al. 2011a). Its spores germinate quickly and grow rapidly in the host tree phloem and sapwood, eventually blocking the host tree’s water transport system and producing melanin that discolors the phloem and sapwood of the tree (Yamaoka et al. 1995; Solheim & Krokene 1998). The genome sequence of G. clavigera lineage Gs (sensu Alamouti et al. 2011) is providing novel information about the role of this fungus in its interactions with the host, the symbiotic vector and the environment (DiGuistini et al. 2011). For example, G. clavigera contributes to the detoxification of terpenes produced by the pine for defence, and can use terpenes as a sole source of carbon, suggesting that the fungus plays a role in tree–MPB interaction beyond occluding tracheid water transport (DiGuistini et al. 2007, 2011). In addition, G. clavigera was found to be able to utilize monoterpenes as a sole source of carbon (DiGuistini et al. 2011).
+As mating experiments have been unsuccessful in the laboratory and fruiting bodies are rarely observed in the field (Six & Paine 1999; Lee et al. 2003), there are still unanswered questions about the occurrence and frequency of sexual reproduction in this fungus in nature. The genome sequence revealed that a single mating type allele was present in the sequenced strain, suggesting that the fungus is heterothallic and has two mating types in the populations (DiGuistini et al. 2011). The presence of the repeat-induced point mutation (RIP) genome defence mechanism suggested that meiosis occurs and that the fungus’ sexual cycle is active (DiGuistini et al. 2011). Multilocus sequence analysis also indicated the presence of recombination within the species (Alamouti et al. 2011), as well as the presence of
+Ó 2011 Crown in the right of Canada
+
+distinct lineages on different hosts (Alamouti et al. 2011).
+Given the known and potential roles of G. clavigera in MPB–host interactions, obtaining a better knowledge of its biology is important. In particular, a thorough investigation of the fungal symbiont’s genetic structure could help with understanding of some characteristics of the epidemic, such as founder effects, specialization, fragmentation and reproduction, and this knowledge could translate into better epidemic prediction. Previous studies have revealed basic information on the genetic structure of G. clavigera populations across some portions of its geographical range. Using amplified fragment length polymorphism (AFLP), G. clavigera was demonstrated to have two genetically distinct populations in MPB epidemic areas (Lee et al. 2007). Multilocus sequence also revealed differentiation in the northern and southern populations of the Rocky Mountains (Roe et al. 2011b). Its abundance appeared to drop with increasing latitude (Roe et al. 2011a). As MPB is the vector of G. clavigera, it could be hypothesized that MPB dynamics and MPB population structure affect G. clavigera distribution and ⁄ or population structure. Indeed, the pattern of northern and southern populations of G. clavigera identified in these studies is concordant with the dominant pattern of MPB population structure (Bartell et al. 2008).
+The aim of the present study was to investigate the population structure of G. clavigera using previously developed microsatellite markers (Tsui et al. 2009a) to infer the distribution pattern, geographical origin and movement of the populations, as well as the extent to which the pathogen population structure is influenced by MPB movement. We predicted that the genetic structure of G. clavigera within the current outbreak would be consistent with the multiple eruptions scenario of the present MPB epidemic, and that bottlenecks would be observed in newly established populations. We also used approximate Bayesian computation (ABC) to construct the demographic histories of major populations, and to compare competing scenarios that gave rise to the epidemic population in north western AB.
+Material and methods
+Fungal isolates
+A total of 335 single spore isolates of Grosmannia clavigera lineage Gs from BC, AB (Canada), Idaho and Montana (USA) were included in this study (Table 1). Fungi were isolated and obtained from MPB or their galleries within infected lodgepole pine trees from 19 locations (Fig. 1). All cultures were isolated between 2002 and 2008 according to the methods outlined in Lee et al. (2007) and Roe et al. (2011b).
+DNA extraction, PCR and microsatellite genotyping
+The DNA was extracted following protocols described in Lee et al. (2007) and Roe et al. (2010, 2011b). Eight simple sequence repeat (SSR) loci (SSR10, SSR18, SSR 26, SS45, SSR47, SSR51-53) were amplified (see Tsui et al. 2009a for primer sequences and running conditions). The PCR amplifications were carried out in 10 lL reactions with fluorescent labelled primers, genotyped on a LI-COR 4200 DNA analyser and scored using LI-COR SAGA software 2 as previously described (Tsui et al. 2009a). The strain SL KW-1407, used for full genome sequencing (DiGuistini et al. 2011), was included in every PCR plate to ensure genotyping and scoring consistency across runs.
+Population genetics analyses
+Genetic polymorphism was assessed for each microsatellite locus across the populations by calculating the number of alleles and genetic diversity using GenAlEx6 (Peakall & Smouse 2005). The number of unique multilocus haplotypes per geographical population was determined to quantify the proportion of individuals that belonged to the same clonal lineages. The data set was subsequently clone-corrected, such that multilocus haplotypes occurring more than once in a population were removed, resulting in a data set containing only unique multilocus haplotype per geographical location. All subsequent analyses were based on this clone-corrected data set to ensure that the estimation of allele frequencies would not be influenced by the over-representation of clones (McDonald 1997).
+The index of association (IA) was computed to test for random mating in the population using Multilocus 1.3b (Agapow & Burt 2001). The IA is a measure of the multilocus linkage disequilibrium, which gives information on whether individuals sharing the same allele at one locus are more likely to share the same allele at another locus. The IA approaches zero for outcrossing populations when there is no linkage disequilibrium (Maynard Smith et al. 1993) and increases as linkage disequilibrium increases in asexual or inbreeding populations. The null hypothesis of complete panmixia was tested by comparing the observed data set with 500 randomized data sets (Agapow & Burt 2001).
+Population structure
+The population structure of G. clavigera was investigated using various approaches. First, three analytical tools utilizing Bayesian clustering algorithms (TESS, STRUCTURE, and BAPS) were used to infer population
+Ó 2011 Crown in the right of Canada
+POPULATION GENETICS OF A CONIFER PATHOGEN 73
+
+74 C. K. M. TSUI ET AL.
+Table 1 Summary information on the 19 populations of Grosmannia clavigera, including sampling locations and time, host origin, N (sample size), He (genetic diversity), allelic richness and IA (index of association)
+ Population (location, Code Province or State)
+H Houston, BC
+FSJ Fort St. James, BC TUR Tumbler Ridge, BC
+FAR Fairview, AB
+GRP Grande Prairie, AB
+FCR Fox Creek, AB
+KAK Kakwa, AB
+VAL Valemount, BC
+WL Williams Lake, BC MP Manning Park, BC GOL Golden, BC
+YOH Yoho, BC
+BAN Banff, AB
+CAN Canmore, AB
+CYH Cypress Hills, AB SPA Sparwood, BC
+CPA Crowsnest Pass, AB HV Hidden Valley, MT
+HR Hell Roaring, ID
+Total 335 293
+Host origin
+Pinus contorta P. contorta
+P. contorta⁄P.
+contorta · Pinus
+banksiana hybrids P. contorta⁄P.
+contorta · P.
+banksiana hybrids P. contorta⁄P.
+contorta · P.
+banksiana hybrids P. contorta⁄P.
+contorta · P.
+banksiana hybrids P. contorta
+P. contorta
+P. contorta
+P. contorta P. contorta P. contorta P. contorta P. contorta P. contorta P. contorta P. contorta Dendroctonus
+Year of isolation
+2003
+2003
+2007 ⁄ 2008
+2007
+2007 ⁄ 2008
+2007 ⁄ 2008
+2007 ⁄ 2008 2007 ⁄ 2008 2003
+2003
+2007 ⁄ 2008 2007 ⁄ 2008 2003
+2007 ⁄ 2008 2007 ⁄ 2008 2007 ⁄ 2008 2007 ⁄ 2008 2003
+N Haplotypes 19 16
+27 23 14 13
+15 11
+22 20
+13 12
+19 17 8 8 16 15 27 19 8 8 8 7 25 20 44 39 5 5 9 7 9 9 20 20
+H (SE) 0.402 (0.09)
+0.4 (0.109) 0.538 (0.089)
+0.504 (0.09) 0.51 (0.102)
+0.534 (0.1)
+0.542 (0.088) 0.567 (0.094) 0.45 (0.11)
+0.43 (0.081) 0.538 (0.067) 0.522 (0.053) 0.568 (0.055) 0.572 (0.053) 0.456 (0.07) 0.604 (0.045)
+0.49 (0.103) 0.58 (0.056)
+0.537 (0.077) 0.513 (0.019)
+Allelic richness (SE)
+2.875 (0.479) 3.000 (0.463) 3.125 (0.515)
+3.000 (0.5)
+3.625 (0.653)
+3.375 (0.565)
+3.625 (0.596) 3.250 (0.559) 3.125 (0.515) 3.755 (0.532) 3.000 (0.378) 2.625 (0.263) 3.500 (0.627) 4.000 (0.707) 2.000 (0.189) 2.750 (0.366) 3.125 (0.515) 3.750 (0.559)
+4.000 (0.535) 3.217 (0.118)
+IA† (P value) 0.225 (0.118)
+0.032 (0.390) 0.288 (0.034)*
+0.169 (0.190)
+)0.066 (0.722)
+0.077 (0.350)
+0.175 (0.108) )0.348 (0.940)
+0.464 (0.004)**
+0.011 (0.458) )0.343 (0.924)
+0.640 (0.0260)*
+0.355 (0.002)** )0.017 (0.588) )0.218 (0.766) )0.097 (0.540) )0.519 (0.900)
+0.325 (0.006)**
+0.419 (0.006)** 0.065 (0.005)**
+ ponderosae D. ponderosae
+2002
+27 24
+ †The null hypothesis of random association of alleles in random mating (IA = 0) was tested by comparing the observed value of the statistic with that obtained after 500 randomizations to simulate distribution (*P value <0.05; **P value <0.01).
+structure and genetic clustering of the 19 geographical populations. These computational methods have emerged as very useful tools in population genetics and molecular ecology studies (Beaumont & Rannala 2004). We used these methods simultaneously as they have different prior distributions and assumptions and we wished to compare and evaluate the robustness of the resulting genetic clusters and population structuring.
+The TESS 2.3 (Franc ̧ois et al. 2006) was used to estimate the number of genetic clusters (K) present in the data by incorporating geographical coordinates of individuals as prior information to detect discontinuities in allele frequencies. We used an admixture model with a burn-in of 10 000 iterations followed by the recommended 60 000 iterations from which estimates were obtained. We initially performed five independent runs on each number of clusters K (K = 2 ) 11) with spatial interaction influence w at 0.6 (default value). The optimal value of K was determined by the lowest value of
+the deviance information criterion (DIC), and then we performed 10 independent runs of optimal K with w ranging from 0.01 to 0.9. Data from TESS were plotted graphically using the software DISTRUCT (Rosenberg 2004) with the optimal value of K.
+The STRUCTURE 2.3.2 was also used to study the affiliation of individual isolates from sampling locations to specific clusters and test for admixture (Pritchard et al. 2000). The STRUCTURE uses a Bayesian Monte Carlo Markov Chain (MCMC) approach to cluster individuals into K distinct populations that minimize Hardy–Weinberg disequilibrium and gametic phase disequilibrium between loci within groups, with the option of including prior information on the spatial location of populations (Pritchard et al. 2000; Hubisz et al. 2009). The model allowed individuals to have mixed ancestry (admixture) and correlated allele frequencies. The number of clusters K was set from 1 to 11, with each K replicated 10 times after a burn-in period of 100000
+Ó 2011 Crown in the right of Canada
+
+generations followed by 600 000 generations to check for convergence of likelihood values for each K value. We used the spatial sampling location of each population as prior and the admixture model in which the fraction of ancestry from each cluster was estimated for each individual. To estimate the optimal value of K, DK was computed (Evanno et al. 2005) using Structure Harvester (http://taylor0.biology.ucla.edu/struct_harvest/).
+The BAPS v. 5.2 uses a stochastic optimization procedure rather than the MCMC implemented in STRUCTURE and TESS (Corander et al. 2003). We used the ‘clustering of group’ option in BAPS, in which clusters are formed by assembling all the populations with or without the spatial information of each sampling population. The program was run for each number of clusters K ranging from 2 to 19, with five replicates for each value. The out-
+put of BAPS was also used to perform an admixture analysis to determine individual coefficients of ancestry with regard to the inferred clusters of samples. For the admixture analysis, 100 iterations were used to estimate the admixture coefficient for individuals. We also used 100 reference individuals from each cluster, and we repeated the admixture analysis 50 times per individual.
+Nei’s unbiased genetic distance (Nei 1978) was calculated among all pairs of sampling populations and visualized by Principal Coordinates Analysis (PCoA) with GenAlEx6. Based on Nei’s unbiased genetic distance (Nei 1978), a neighbour joining (NJ) tree was constructed using PHYLIP (Felsenstein 2002). One hundred bootstrap pseudoreplicates were obtained with Microsatellite Analyser (MSA) (Dieringer & Schlo ̈tterer 2002), and the tree was generated with Neighbour and Consense
+Ó 2011 Crown in the right of Canada
+POPULATION GENETICS OF A CONIFER PATHOGEN 75
+ (a)
+(b)
+ H FSJ
+TUR FAR GRP
+FCR
+KAK
+VAL WL
+MP
+GOL YO
+BAN
+CAN
+CYH SPA CPA
+HV
+HR
+British Columbia
+‘NBC’ Houston
+Fort St. James
+Alberta
+    ‘SBC’
+‘NORTH’
+Banff Canmore
+Tumbler Ridge
+Williams Lake
+Fairview
+Grande Prairie
+Kakwa
+Valemount
+Golden Yoho
+Fox Creek
+     Sparwood
+Crowsnest
+Pass Cypress Hill
+ Manning Park
+Hidden Valley
+Hell Roaring
+Idaho
+‘ROCKY’
+Montana
+ Fig. 1 Population structure of Grosmannia clavigera based on eight microsatellites using TESS, and sampling location of the 19 populations. (a) Each horizontal bar represents the assignment of fungal isolates (based on membership coefficient) from various sampling locations to each of the four optimal clusters (‘NBC’, ‘North’, ‘SBC’, ‘Rocky’) identified with Bayesian inference software TESS. Black lines separate isolates sampled from different locations. (b) Map showing all sampling locations.
+
+76 C. K. M. TSUI ET AL.
+implemented in PHYLIP (Felsenstein 2002) to evaluate the robustness of clustering among populations.
+Genetic differentiation was calculated using an analysis of molecular variance (AMOVA) with ARLEQUIN v. 3.11 (Excoffier et al. 2005). The statistical significance of ustatistics was tested based on 1023 permutations (default). The level of genetic differentiation among G. clavigera populations was also quantified using FST (Weir & Cockerham 1984). Pairwise FST was calculated and evaluated using a randomization test with 1000 iterations using ARLEQUIN v. 3.11 (Excoffier et al. 2005).
+Spatial analysis of molecular variance (SAMOVA) was used to define groups of populations that were geographically homogeneous and maximally differentiated from each other (Dupanloup et al. 2002). The method uses a simulated annealing procedure to divide the n sampled populations into K group to find the composition of the K groups and to maximize the proportion of total genetic variance due to differences between groups (FCT) of populations (Dupanloup et al. 2002). We used the Monmonier algorithm implemented in BARRIER v.2.2 (Manni et al. 2004) for a posteriori detection of boundaries to gene flow in the landscape. To detect barriers, we used input coordinates of each sampling location and Nei’s genetic distance with 100 bootstrap matrices from MSA.
+Isolation by distance was evaluated by assessing the correlation between pairwise geographical distance and Nei’s unbiased genetic distance (Nei 1978) for all population pairs with GENEPOP (using Isolde) (Raymond & Rousset 1995), also using a total of 1000 random permutations.
+Individual assignment and migration pattern
+The GENECLASS 2.0 (Piry et al. 2004) was used to generate probability for the assignment of individuals to populations. The probability of individuals coming from each area was calculated using the standard criterion described by Rannala & Mountain (1997) and by simulating 1000 individuals per regional group of samples using the method of Paetkau et al. (2004). Individuals were assigned to a regional group when this group had the highest probability of being the source of this individual.
+The possibility and rate of migration among genetic clusters (derived from the results of TESS and STRUCTURE) were tested with MIGRATE v. 3.0 (Beerli & Felsenstein 1999), which uses an expansion of the coalescent theory to estimate migration rates between populations (Nem) and h (2Nel), where Ne is the effective population size, m is the constant migration rate between population pairs and l is the mutation rate per generation at the locus considered. Likelihood surfaces for each parameter were estimated by simulating genealogies using MCMC
+approach. The computations were carried out under a Brownian motion approximation of the stepwise mutation model (SMM). The runs consisted of two replicates of 10 short chains (with 10 000 genealogies sampled) and three long chains (with 100 000 genealogies sampled), with the first 10 000 genealogies discarded. A likelihood ratio test was used to compare the likelihoods of all models (Beerli & Felsenstein 1999). The models were run three times to confirm convergence of parameter estimates, and only the results of the run that yielded the highest Ln likelihood value are presented.
+As MPB epidemics are relatively recent in northern AB and in some parts of BC, we used BOTTLENECK v. 1.2 (Piry et al. 1999) to determine if there was an excess (a recent population bottleneck) or deficit (a recent population expansion) in genetic diversity (H) relative to the number of alleles present in G. clavigera populations. We pooled the 19 sampling populations into four major genetic clusters identified using the Bayesian clustering methods described above. The Sign and Wilcoxon significance tests were used to determine whether loci displayed a significant excess of H > HEQ (genetic diversity expected under mutation drift equilibrium) or deficit in gene diversity under a mutation drift equilibrium for loci evolving under the infinite allele model (IAM), SMM and two-phase mutation models (TPM) (70% SMM and 30% IAM) (Cornuet & Luikart 1996; Piry et al. 1999).
+To investigate the influence of MPB expansion on the demographic history and genetic clusters of G. clavigera, we used the ABC method (Beaumont et al. 2002) to compare the posterior probabilities of five competing scenarios which could have given rise to the epidemics population in Northern BC and AB. We used the pooled data set of four major genetic clusters (from 19 sampling populations) inferred from the Bayesian clustering methods and distance methods described above.
+We considered five competing scenarios which differed in the order of population divergence and demographic histories, as well as the origin of admixed individuals in epidemics population (Fig. S1, Supporting information). In scenarios 1, 2 and 3, the new epidemic population is the result of admixture between populations in BC and the Rocky Mountains at a rate ra. In scenarios 4 and 5, the new epidemic population diverged from the demographic expansion of populations in southern BC and the Rocky Mountains. The posterior probabilities were estimated using the Window package DIYABC (Cornuet et al. 2008) available at http://www1.montpellier.inra.fr/CBGP/diyabc/. The ABC analyses were performed using parameter values drawn from prior distributions (Table S1, Supporting information) and by simulating 1 million microsatellite data set for each competing scenario. For each population and each population pair, we estimated the mean
+Ó 2011 Crown in the right of Canada
+
+number of alleles per locus and the mean expected heterozygosity. The other statistics used were the pairwise FST values and maximum-likelihood estimate of admixture proportion. Then, the posterior probability of each scenario was estimated using logistic regression on the 0.1 % of simulated data set closest to the observed data set (Cornuet et al. 2008).
+Results
+Genetic variation and linkage disequilibrium
+Gene diversity (He) for the total sample and each population separately was high, with values ranging from 0.4 (Fort St. James, BC) to 0.604 (Sparwood, BC), and overall allelic richness ranging from 2 (Cypress Hill, AB) to 4 (Canmore, AB and Hell Roaring, ID) (Table 1). In general, populations in the Rocky Mountains had greater gene diversity (0.456–0.604) than those from northern AB (0.51–0.542), or west-central BC (0.4–0.45) (Table 1). Among the 335 isolates that were analysed (Table S2, Supporting information), we identified 250 (i.e. 74%) unique multilocus haplotypes, with clonal multilocus haplotypes (i.e. identical multilocus haplotypes within the same location) occurring infrequently.
+The number of alleles per locus varied between 3 and 10, and gene diversity per locus ranged from 0.246 to 0.769 (Table 2). The proportion of total genetic diversity attributed to population differentiation ranged from 0.133 to 0.373 for the eight loci, with an overall average of 0.181 (Table 2).
+The index of association (IA) did not significantly deviate from zero in 13 of 19 populations (Table 1), suggesting that recombination is occurring. The remaining six populations as well as the IA computed on the total sample exhibited significant but low index values, indicating that population differentiation may be a result of assortative mating, selection or the Wahlund effect.
+Table 2 Summary of heterozygosity and FST from each locus
+Population structure and differentiation
+In general, the various analyses using Bayesian clustering algorithms offered concordant population structure patterns with four clusters, regardless of the weightings of spatial location priors during the analyses.
+The model-based clustering results in TESS consistently supported the existence of four clusters based on the lowest DIC value (Fig. 1), and adjusting spatial interaction factor values (ranging from 0.01 to 0.9) had no influence on the optimal number of cluster K estimated in the analyses. The four clusters included northwestern BC (‘NBC’), containing H and FSJ, southern BC (‘SBC’), comprising MP and WL, ‘North’, comprising populations TUR, FCR, GRP, FAR, KAK and VAL in stands where MPB is only recently established, while the rest belonged to ‘Rocky’ (Fig. 1). The ‘NBC’ and ‘Rocky’ clusters were more homogeneous and unique, with 66.7 and 55% of their individuals having a very high membership coefficient of >0.9 (Fig. 1, Table S3, Supporting information). In contrast, ‘North’ and ‘SBC’ clusters were more heterogeneous, with a higher level of admixture. Less than 20% of individuals from ‘North’ had a membership coefficient of >0.9, whereas 59% of individuals from ‘SBC’ had a membership coefficient <0.5 (Table S3, Supporting information).
+The STRUCTURE also generated similar population clustering patterns to those revealed in TESS (Fig. S2, Supporting information). The STRUCTURE analysis produced two clusters, where members of the H and FSJ populations formed a unique cluster with a lower level of admixture, while the remaining 17 populations formed a second cluster showing admixed ancestry in many populations and isolates. A subsequent STRUCTURE analysis on the second cluster resulted in three additional groups that resembled the ‘North’, ‘SBC’ and ‘Rocky’ clusters in TESS, and demonstrated a high level of admixture (Fig. S2, Supporting information).
+Bayesian spatial analysis (BAPS) produced an optimal partition of five population groups with or even without the prior spatial information of sampling populations (Fig. S3, Supporting information). Three groups (‘NBC’, ‘North’ and ‘SBC’) detected by BAPS were similar to those detected by TESS and STRUCTURE, while the remaining two clusters corresponded to the ‘Rocky’ cluster in TESS, where it was divided into a northern and a southern group (Fig. S3, Supporting information). Using the admixture analysis implemented in BAPS, a lower level of admixture was found in each cluster compared to those in TESS and STRUCTURE.
+The PCoA spatially grouped the H and FSJ populations in ‘NBC’ on the upper right quadrant of the first PCoA axis (explaining 45% of the variation), while the nine Rocky Mountains populations (‘Rocky’) clustered
+(from
+Locus
+SSR10 SSR26 SSR18 SSR45 SSR47 SSR51 SSR52 SSR53 Mean
+clone-corrected data)
+No. total alleles
+6 3 4
+10 7 7 6 9
+H
+FST Mean
+0.177 0.591 0.183 0.364 0.373 0.246 0.148 0.769 0.137 0.466 0.133 0.514 0.166 0.516 0.135 0.637 0.181
+SE
+0.043 0.038 0.057 0.020 0.043 0.040 0.040 0.030
+POPULATION GENETICS OF A CONIFER PATHOGEN 77
+     Ó 2011 Crown in the right of Canada
+
+78 C. K. M. TSUI ET AL.
+ (a)
+(b)
+HOU
+FSJ
+99
+69
+96
+MP
+              Principal coordinates (1 vs. 2)
+Coord. 1
+GRP
+TUR KAK FAR
+FCR
+VAL CPA
+GOL 67
+   BAN
+CYH YO
+CAN GOL
+HV
+    H
+FSJ
+     HR
+SPA
+CPA
+    KAK TUR
+FAR FCR
+    WL MP
+VAL
+GRP
+             HR SPA
+HV BAN
+CAN
+WL
+            CYH YO
+          Fig. 2 Genetic subdivision of Grosmannia clavigera populations visualized from genetic distance. (a) Principal Coordinates Analysis among 19 populations based on Nei’s genetic distance using GenAlEx. The first and second accounted for 45% and 23% of the variance respectively. (b) Neighbour joining tree of 19 G. clavigera populations using the software implemented in the PHYLIP package. Bootstrap support (>60%) based on 100 pseudoreplicates generated from Microsatellite Analyser is provided. For population abbreviation, please see Table 1.
+within the two left quadrants of the first PCoA axis (Fig. 2a). The southern WL and MP (‘SBC’) were slightly differentiated from the northern populations (‘North’) along the second PCoA axis (23% of the variation) (Fig. 2a); however, they were apparently separated along the third PCoA axis (12.4% of the variation) (Fig. S4, Supporting information). A NJ tree generated using PHYLIP produced a trend similar to the three previous analyses (TESS, STRUCTURE and PCoA). The H and FSJ in ‘NBC’ formed a distinct cluster with 99% bootstrap support (Fig. 2b). In addition, MP and WL, belonging to ‘SBC’, were separated from the ‘Rocky’ populations with 96 and 67% support respectively (Fig. 2b). Finally, the northern group (‘North’) formed an independent cluster; however, it did not receive over 50% bootstrap support (Fig. 2b). The SAMOVA was also used to determine the best grouping of populations based on geographical information and allele frequency variation, assuming there were two to seven groups (K) and using the distance method based on the sum of squared size differences. The best SAMOVA grouping (the one with the highest FCT (among populations) and the lowest variation among populations within groups) was achieved by K = 4 (Appendix S1, Supporting information). The grouping of populations was congruent with the one obtained in TESS.
+The analysis of molecular variance (AMOVA) performed on the 19 populations indicated that 14.18 and 85.82% of the genetic variation was attributed to variations among and within populations respectively (P < 0.001) (Table 3). To further investigate the differentiation among the four ‘genetic clusters’ established on the
+basis of the Bayesian and distance analyses, AMOVA attributed 12.46, 4.77 and 82.77% of the total variation to variations among clusters, among locations within cluster and among individual isolates within populations respectively, all of which were highly significant (P < 0.001) (Table 3). An AMOVA analysis was also performed separately on 12 populations obtained in 2007– 2008, which included isolates from different hosts and periods (period 1: January 2007–May 2007; period 2: September 2007–May 2008) of isolation at each location (Table 1). The genetic differentiation among populations as well as ‘North-Rocky’ differentiations contributed to only 8.57 and 8.9% of total variation respectively (Table S4, Supporting information). By contrast, the genetic differentiation observed between isolates of putative lodgepole pine and lodgepole–jack pine hybrid was smaller but significant (5.73%, P < 0.001), while that observed between the isolates sampled at two different periods was even lower (2.91%, P < 0.001) (Table S4, Supporting information).
+With the exception of CPA and HR within the ‘Rocky’ group, pairwise genetic differentiations (FST) between populations in general, were not significant within the four geographical groupings, supporting their genetic similarities (Table S5, Supporting information). Significant population pairwise FST was common across geographical groupings, suggesting genetic differentiation (Table S5, Supporting information). The H and HR (FST = 0.341, P < 0.001) and TUR and KAK ()0.013, P > 0.05) were the most and least differentiated populations respectively (Table S5, Supporting information), indicating the presence of isolation by distance.
+Ó 2011 Crown in the right of Canada
+Coord. 2
+
+POPULATION GENETICS OF A CONIFER PATHOGEN 79 Table 3 Analysis of molecular variance (AMOVA) for Grosmannia clavigera populations based on (i) sampling locations, and (ii) four
+genetic clusters pooled according to the TESS and PHYLIP programs
+d.f. SS
+Variance % 0.33 14.18
+P-values <0.001
+<0.001
+<0.001 0.011 <0.001
+  (i)
+(ii)
+Among 4 clusters
+Among populations within 4 clusters Within 19 populations
+Total
+Among all 19 populations Within each of 19 populations Total
+18 218.71
+567 1144.15
+585 1362.86 2.35
+3 137.69 15 81.02 567 1144.15
+0.30 12.46 0.12 4.77 2.08 82.77
+585 1362.86 2.44
+2.02 85.82
+ Degree of freedom (d.f.), sum of squares (SS), variance clusters and individual within population are presented.
+Low genetic distance estimates were observed among populations in the ‘Rocky’ and ‘North’ clusters. However, populations collected from the recent epidemic area were genetically less differentiated (Fig. 3). In
+estimates, percentage of total variation (%) contributed by populations,
+addition, sampling locations within the ‘Rocky’ cluster were less differentiated, except for HR. These results indicate that geographical distance affects the population structure as the two most differentiated populations came from the extreme north and south locations. Conversely, the least differentiated populations were in proximity within the ‘North’ and ‘Rocky’ clusters (Fig. 3).
+The Monmonier maximum difference algorithm (from BARRIER) identified three main genetic boundaries (dotted lines >80% support) that had previously been delineated in other analyses (see STRUCTURE, TESS and PCoA). Boundaries corresponded to zones with the most abrupt genetic change in space. The first boundary, a, separated the two northwestern populations (H and FSJ) from the other populations in BC, and the second boundary, b, separated the six ‘North’ populations from the ‘Rocky’ cluster. The third boundary, c, separated MP from the rest of the populations (Fig. 3). No significant differences were observed among populations within groups generally separated by the three detected barriers (lines were mainly connecting within rather than among groups) (Fig. 3). Significant correlation between genetic (FST ⁄ 1 ) FST) and geographical (km) distances was observed for the entire data set (r2 = 0.38, P < 0.001); however, the strength of this correlation was weak and not significant within the genetic clusters, ‘Rocky’ (r2 = 0.1581, P = 0.114) and ‘North’ (r2 = 0.0063, P = 0.111) (Fig. S5, Supporting information).
+Individual assignment, migration and demographic history
+Results from GENECLASS produced an overall low rate of correct assignment to home (i.e. original 19 sampling locations) (16.3%); however, populations fell into one of three assignment classes: (i) generally high (two populations ranged from 62.5 to 58.3%), (ii) low (eight
+ a
+British Columbia
+PP
+c
+Alberta
+b
+      YP
+KP
+   Fig. 3 Diagram showing potential barriers (dotted line) and gene flow. The dashed lines (a, b, c) show hypothesized cryptic barriers based on the analysis of genetic and geographical distances using BARRIER. Solid lines indicate that there is no significant difference between the FST values of two locations, indicating gene flow between them. The location of three passes in the Rocky Mountains is indicated as yellow triangles (PP, Pine Pass; YP, Yellowhead Pass; KP, Kickinghorse Pass).
+Ó 2011 Crown in the right of Canada
+
+80 C. K. M. TSUI ET AL.
+Table 4 Results of individual assignment from GENECLASS
+Considerable levels of gene flow were observed among the major genetic clusters with an estimated number of migrants per generation M (2Nem) ranging from 0.54 (‘NBC’ from ‘North’) to 2.00 (‘SBC’ from ‘North’) (Table 5). The observed gene flow was asymmetric between ‘NBC’ and ‘North’ (1.20 vs. 0.54) and between ‘Rocky’ and ‘SBC’ (1.31 vs. 1.94), depending on the direction.
+The possibility of population bottlenecks ⁄ founder events or population expansion was tested on the four genetic clusters with the program BOTTLENECK. The Sign and Wilcoxon’s tests were used to detect significant excess or deficit in gene diversity (Cornuet & Luikart 1996). One of the loci in clusters ‘North’ and ‘NBC’ was monomorphic, and allele size was identical. Allele frequency in ‘NBC’ did not follow a normal L-shaped distribution, indicating that the populations were not at mutation-drift equilibrium and experienced a population bottleneck. Cluster ‘North’ had a significant excess in gene diversity under IAM and TPM, also indicating a bottleneck. Cluster ‘Rocky’ had a significant excess in gene diversity under IAM, but clusters ‘NBC’ and ‘SBC’ had no significant excess or deficit in gene diversity (Table 6). These analyses appeared to be consistent with a history of MPB population expansion. The general lack of significance may be owing to a lack of power of the test when the number of loci is <20 (Cornuet & Luikart 1996).
+The ABC analysis discriminated the five competing scenarios, and the posterior probability did not support scenarios assuming no admixtures in epidemic populations of cluster ‘North’ (scenarios 4 and 5, probability ranged from 0.1045 to 0.1995) (Fig. S1, Supporting information). Instead, the scenario receiving the highest probability (0.4843) indicated that the population of Grosmannia clavigera diverged from genetic cluster ‘Rocky’ to ‘SBC’, and from ‘SBC’ diverged to ‘NBC’ (Fig. S1, Table S1, Supporting information). The epidemic populations of cluster ‘North’ originated from ‘NBC’ with admixed individuals from the ‘SBC’ (Fig. S1, Supporting information). This scenario is consistent with the recent expansion
+ Cluster ⁄ location
+NBC Houston
+Fort St. James North
+Tumbler Ridge Fairview Grande Prairie Fox Creek Kakwa Valemount
+SBC
+Williams Lake Manning Park
+Rocky Golden
+N* Nhome† 16 10
+23 3
+13 0 11 0 20 0 12 2 17 0
+8 2
+15 4 19 3
+Alocation Acluster
+(%)‡ (%)§ Ratio–
+62.5 75 1.31
+ 26.7 53
+15.8 47 0.53
+25.0 75 1.38 0 86 1.86 30.0 90 1.15 0 79 0.10
+0.20
+1.71 0 89 1.22 0 80 0.50 58.3 90 2.58
+16.3 70
+*Sample size (N).
+†Number of individuals assigned to original sampling location (correct assignment).
+‡Assignment rate to original location (= Nhome ⁄ N). §Assignment rate to the genetic cluster recognized from TESS. –Ratio = total number of individuals (out of 293) assigned to the location ⁄ sample size of the location (N).
+populations ranged from 28.6 to 13.0%) and (iii) zero (nine populations) (Table 4). The overall rate of individual assignment to each of the four inferred clusters was substantially increased to 70% with a minimum assignment of 60% for 16 of the 19 studied populations, again supporting the observed low level of differentiation among populations within the same genetic cluster (Table 4).
+8 2 Yoho 70
+Banff
+Canmore Cypress Hills Sparwood Crowsnest Pass Hidden Valley Hell Roaring
+20 6 39 0 5 0 7 2 9 0 20 0 24 14 Total 293 48
+0 60 28.6 71
+13.0 43
+0.35
+0 61 0.46 0 45 0.09 0 70 0.20
+16.7 83 1.00 0 59 0.65 25.0 50 7.00
+1.13
+ Table 5 Estimates of the mean number of migrants per generation M (2Nem) and mean population mutation rate (2Nel) obtained using the software MIGRATE
+ Source population
+NBC Rocky North SBC
+Sink population
+Theta NBC Rocky North SBC
+   0.91 (0.86–0.98) 1.01 (0.97–1.05) 0.96 (0.91–1.00) 1.02 (0.95–1.10)
+1.03 (0.84–1.25) 0.54 (0.41–0.70) 1.13 (0.93–1.35)
+1.22 (1.01–1.46)
+1.89 (1.62–2.18) 1.94 (1.67–2.24)
+1.20 (0.98–1.47) 1.78 (1.52–2.02)
+1.17 (0.96–1.40)
+1.16 (0.92–1.41) 1.31 (1.08–1.58) 2.00 (1.71–2.32)
+ Ó 2011 Crown in the right of Canada
+
+Table 6 Comparison of observed gene diversity (H) with expected gene diversity (HEQ) at mutation-drift equilibrium calculated from the observed number of alleles under SMM and TPM for the four genetic clusters
+bution pattern in insect–symbiont complexes has also been reported for the fungus Ceratocystis polonica and its beetle vector Ips typographus (Marin et al. 2009).
+The results reported herein support the scenario of multiple localized populations of MPB and its fungal associates erupting at spatially disjoint locations (Aukema et al. 2006). Roe et al. (2011b) suggested that remnant populations of MPB and fungi from previous MPB epidemics having occurred in the last 100 years may have existed at endemic levels and differentiated locally or regionally. It is possible that these disjoint populations expanded and formed the current epidemics. Fungal populations from BC were recovered in each of the four clusters (‘NBC’, ‘SBC’, ‘Rocky’ and ‘North’), which were differentiated from each other (Figs 1 and 2, Fig. S1, Supporting information). Genetic analysis of MPB recovered two groups of populations in northern BC and southern BC, roughly equivalent to our ‘NBC’ and ‘SBC’ clusters (Bartell et al. 2008). Moreover, the population structure of the fungal symbiont of MPB did not support the scenario of an epicentre followed by the spread of the insect–pathogen complex (Aukema et al. 2006). Populations H and FSJ (in cluster ‘NBC’) had the lowest genetic diversity, and we detected a strong barrier to gene flow between these and other populations. Geographically, however, these populations were sampled close to Tweedsmuir Provincial Park, where the current outbreak was first recorded (Aukema et al. 2006). If these populations were at the epicentre of the epidemic, higher genetic diversity would be expected in source (epicenter) populations than in sink (recently established) ones. Instead, these populations appear to be genetically poor and disjointed from the other populations, a result that is congruent with the proposed hypothesis of multiple centers of origin (Aukema et al. 2006). Providing support to this hypothesis is important, and it could be useful in identifying and prioritizing landscape units for management strategies.
+Several reasons can explain the reduced genetic diversity and highly differentiated ‘NBC’ cluster. First, populations of H and FSJ could represent a historic establishment of populations from Idaho, Montana and California via postglacial range expansion with their host MPB (Mock et al. 2007). As H and FSJ shared a fixed locus, the populations could have a common origin with those in central or southern BC, but have diverged with time due to drift and selection outside their native range with rare migrant exchanges (Hartl & Clark 1997). A population genetic study of the MPB that included populations at FSJ also had a lower genetic and haplotypic diversity compared with those from ID, MT and CA (Mock et al. 2007). In western Canada, before 1999, the historical range of MPB infestation was restricted to pine forests approximately south of 56°N
+POPULATION GENETICS OF A CONIFER PATHOGEN 81
+  Group
+NBC North Rocky SBC
+Mutation model IAM (P = 0.09ns)
+IAM (P = 0.003**) IAM (P = 0.006**) SMM (P = 0.05*)
+D⁄E† IAM
+2 ⁄ 5ns 0 ⁄ 7** 2 ⁄ 6** 3 ⁄ 5ns
+SMM TPM
+  IAM, infinite allele model; SMM, stepwise mutation
+TPM, two-phase mutation models.
+†D ⁄ E is the number of loci showing a deficit ⁄ excess diversity. Significance estimates of excess or deficiency across loci were obtained using the one-tailed Wilcoxon test and the sign test.
+*P £ 0.05, **P £ 0.01, nsP > 0.05.
+and movement pattern of MPB from central BC to
+northern AB recently.
+Discussion
+The population structure uncovered in our analyses of this MPB fungal associate is best explained by the geographical origin of the fungus, which is defined by the geographical barriers. Landscape features can be invoked to explain this pattern because the Rocky Mountains populations may be physically separated from the others, in particular from populations found west and north of the Rocky Mountains (Safranyik & Carroll 2006). The isolation by distance observed for the entire data set, but not within clusters, is indicative of barriers to gene flow (Fig. S5, Supporting information). The cause for the differentiation of the four clusters could be attributed to founder effects or selection (Hartl & Clark 1997). The clustering structures are concordant with those observed in previous studies of this fungus (Lee et al. 2007; Roe et al. 2011b), in which a northern and a southern group from the Rocky Mountains had been reported.
+Some parallel patterns can be observed between the fungus and beetle population structures. The presence of genetic clusters in the Rocky Mountains, and north and west of the Rocky Mountains, finds similarities with the MPB population patterns observed. A strong north–south genetic structure was observed in MPB populations (Mock et al. 2007; Bartell et al. 2008). The north–south gradient in MPB genetic diversity may be taken as a sign of range expansion from the southern Rocky Mountains or the US to south-central and westcentral BC and AB (Mock et al. 2007). A parallel distri-
+Ó 2011 Crown in the right of Canada
+3⁄4ns 4⁄3ns 5⁄3ns 5⁄3ns
+2⁄5ns 0⁄7** 2⁄6ns 4⁄4ns
+ model; of gene
+
+82 C. K. M. TSUI ET AL.
+latitude (Taylor et al. 2006). Periodical MPB epidemics with population fluctuation are common as MPB populations expand and then collapse due to resource depletion or limited mobility, and are subsequently confined to a restricted geographical range (Berryman 1986; Safranyik & Carroll 2006). The recurrent expansion–collapse would have led to bottleneck and genetic drift, and thus to reduced genetic diversity (Mock et al. 2007). The fungus isolates sampled at H and FSJ may also represent endemic populations with a small population size (Hartl & Clark 1997). Populations of the beetle are more commonly present at endemic levels, where they rarely kill trees (Safranyik & Carroll 2006), and H and FSJ are situated in an area where there was no report of an epidemic before 1990s (Taylor et al. 2006).
+The MPB population expansion in the past 15 years and the recent migration to new areas strongly affected the clustering and genetic structure of its populations. In fact, our sampling included populations from geographical areas, where MPB has a long history of cyclical epidemics as well as regions where epidemics (northern AB) have never occurred in the past. The results of DIY ABC supported the demographic expansion of the fungal populations from southern and central BC to northern AB with genetic admixtures from individuals in northern BC. The asymmetrical gene flow among clusters was concordant with the northward and eastward expansion of the MPB epidemic (Safranyik et al. 2010). High levels of admixture were also observed in some clusters, such as ‘SBC’ and ‘North’, and this could be the result of recurrent recent migration and recombination among the populations (Pritchard et al. 2000). The high levels of migration among populations within clusters ‘North’ and ‘Rocky’ may be related to short-distance dispersal by MPB as it searches for food below the canopy (Carroll et al. 2004; Robertson et al. 2009).
+One of the intriguing questions regarding the current outbreak is the movement of MPB from west of the Rockies to east of the Rockies. Valemount appears to be a corridor for beetle and fungus movement because significant migration was estimated between Valemount fungus population and most of the populations, east of the Rocky Mountains, including populations in the ‘North’ cluster. All other pairwise comparisons between populations, east and west of the Rocky Mountains, also yielded low estimates of migration. Valemount is located in the western foothills of the Rocky Mountains, 􏰁50 km west of Yellowhead Pass (Fig. 3), one of at least three passes through the Canadian Rocky Mountains that most probably facilitated the migration of MPB across this imposing geographical barrier (Robertson et al. 2009). The notion of gene flow from the Vale-
+mount population of Grosmannia clavigera to regions east of the Rocky Mountains divide (i.e. AB) suggests that MPB could have expanded across the Rockies through the Yellowhead Pass and subsequently to points north and south of this pass on the eastern side of the Rockies (Robertson et al. 2009). However, migration from west to east of the Rocky Mountains divide could have occurred at multiple passes, for example, at Pine Pass and Kicking Horse Pass (Robertson et al. 2009) (Fig. 3). The high genetic relatedness among G. clavigera populations along the Rocky Mountains Trench could be explained by the low barriers to migration that exist along the Trench (please see Fig. 1 in Plouffe (1997) for location), resulting from the close proximity to the other passes that could have served as sources for the spread of G. clavigera to points north and east of the Rockies. More intensive sampling of populations along the Trench is necessary to explore the migration of G. clavigera across the Rockies in more detail.
+Our analyses suggest that the MPB fungal associates can travel over long distances and colonize hosts in new areas. For example, no significant difference in FST was found between TUR and CPA, which are 764 km apart. Long-distance dispersal could be responsible for the MPB northeast range expansion and infestation beyond Pine Pass (200 km north of FSJ, BC) (Robertson et al. 2009), as well as for the MPB attack discovered in the Peace River region (60 km east of FAR) in the early 2000s, from areas of central BC located across the Rocky Mountains (Safranyik & Carroll 2006). The latter discovery was confirmed by genetic analysis of MPB (Bartell et al. 2008). In addition, MPB has been detected by radar imagery and aerial capture at altitudes up to over 800 m above the forest canopy, carried by strong wind and warm upward convection current during the epidemic (Jackson et al. 2008).
+The host tree attacked by the MPB complex may not be an important factor in shaping the populations sampled in our study. Genetic differentiation was low between isolates from areas where P. contorta occurs and where it hybridizes with P. banksiana (Table S4, Supporting information). The fungus has probably developed mechanisms to overcome the defence systems of pine trees (DiGuistini et al. 2011). There was also no significant difference among groups of MPB sampled from different host trees in the same location (Mock et al. 2007). However, Godbout et al. (2008) have shown that P. contorta exhibits a relatively high level of population differentiation across its range (GST = 0.365). In addition, new microsatellite markers have been developed to distinguish pure pines from hybrids (Cullingham et al. 2011). Given the genetic structuring of P. contorta and the ability of G. clavigera to infect
+Ó 2011 Crown in the right of Canada
+
+P. contorta, P. banksiana and their hybrids, it will be important to further explore the relationship between the beetle, its fungal associate and its hosts.
+The pattern of genetic diversity in a fungus pathogen population may reflect its species association with vectors and the distribution of host trees. High levels of genetic diversity and genetic differentiation were observed in the G. clavigera lineage Gs (Alamouti et al. 2011) populations in MPB in this study. By contrast, low genetic diversity with high population differentiation was reported for a G. clavigera lineage Gc (sensu Alamouti et al. 2011) population associated with Jeffrey pine beetle (Dendroctonus jeffreyi) (Six & Paine 1999). The greater specialization between D. jeffreyi and the less widely distributed Jeffrey pine could have created opportunities for genetic drift and hence, for lower genetic diversity, reduced gene flow and higher genetic differentiation as opposed to populations associated with MPB, which are known for their adaptation to a broad range of Pinus hosts and broader geographical distribution (Six & Paine 1999; Safranyik & Carroll 2006). High genetic diversity was also reported in C. polonica, a blue-stain fungus associated with the bark beetle Ips typographu, which infects several spruce species in Europe and Japan (Marin et al. 2009). Surprising patterns were observed for cosmopolitan fungi, such as Ophiostoma ips and Ceratocystis resinifera, which are associated with multiple beetles attacking various conifer species. Low genetic diversity was observed in those fungi, probably reflecting the limited genetic base of introduced fungi or asexual reproduction (Morin et al. 2004; Zhou et al. 2007).
+Many fungi have mixed mating systems and produce both sexual and asexual stages in their life cyle. G. clavigera has been considered to reproduce asexually in the wild as sexual fruiting bodies have rarely been observed in MPB galleries, and artificial mating under experimental conditions has been unsuccessful (Six & Paine 1999; Lee et al. 2003, 2007; Alamouti et al. 2011). The occurrence of repeated multilocus haplotypes in most regional populations and the linkage disequilibria in six regional populations and in the entire population indicate clonal propagation ⁄ reproduction in the populations.
+Sexual recombination is important in the evolution and epidemiology of fungi (Milgroom 1996) and may be a key contributor to the high genetic diversity observed in G. clavigera in association with MPB. Although the contribution of sexual reproduction in this fungus is largely uncertain, linkage disequilibrium was nonsignificant or very low in most of the populations in this study, indicating that sexual reproduction occurs at a level that is mostly consistent with random mating. The 1:1 ratio of two mating types in the populations
+used in the current study confirms that sexual reproduction occurs in the populations (Tsui et al. 2009b). Gene genealogies also indicated the presence of recombination in G. clavigera lineage Gs (Alamouti et al. 2011). In contrast, Ophiostoma novo-ulmi, a fungus causing Dutch elm disease, had low genetic diversity and was characterized by few vegetative compatibility groups with one mating type (Brasier 1988).
+The pattern of diversity is very similar to the one found in previous studies of this fungus (Lee et al. 2007; Tsui et al. 2009a; Roe et al. 2011b). Our clonecorrected data yielded a much higher gene diversity estimate than that reported by Lee et al. (2007) for the same species and some of the same populations [0.513 vs. 0.215 (for polymorphic loci only)]. The discrepancy observed between these two studies could be the result of greater population coverage and ⁄ or the difference between the two genetic markers used (SSRs vs. AFLP), reflecting the greater sensitivity and mutation rate of SSR markers in detecting subtle population changes resulting from recent phylogeographical and demographic events (Goldstein & Schlo ̈ tterer 1999).
+The new range expansion of the MPB epidemic into northwestern AB could have unpredictable outcomes because this event is relatively recent (appearing in northern AB in 2001) (Carroll et al. 2004). The MPB has recently been demonstrated to attack jack pine stands (Cullingham et al. 2011), and the fungus has been considered adapted to the cold boreal climate (Rice et al. 2008). The population expansion of a non-native pathogen (considered an invasive pest) can pose a significant threat to native forest communities as a result of the absence of prior co-evolutionary encounters and the fungus’ evolutionary potential. Fungal pathogens with mixed mating systems (sexual and asexual) and with high potential for migration and gene flow stand the greatest chance of overcoming host resistance (McDonald & Linde 2002). Pathogens with high genetic variability also have sufficient abilities to evolve rapidly in response to climate change (McDonald & Linde 2002). Our results highlight the potential of this pathogen for both migration and sexual reproduction, but they also identify some potential barriers to gene flow. There appears to be no major biological obstacles (e.g. competitors) to the spread of MPB and its fungal associates. The epidemic has the potential to spread east to Saskatchewan and to the boreal forests of North America and to create greater ecological and socioeconomical impacts as more pine trees become infected (Safranyik et al. 2010). Understanding the ecological and evolutionary dynamics of fungus–beetle interactions is of high importance to improve modelling and prediction of MPB epidemics.
+Ó 2011 Crown in the right of Canada
+POPULATION GENETICS OF A CONIFER PATHOGEN 83
+
+84 C. K. M. TSUI ET AL. Acknowledgements
+Funding for this research was provided by Genome Canada, Genome BC, Genome Alberta and the Government of Alberta (AAET⁄AFRI-859-G07) in support of the Tria I and Tria II Projects http://www.thetriaproject.ca, of which FAHS, JEKC, JB and RCH are Principal Investigators. We are grateful to C. Breuil for her continued encouragement, valuable discussions and financial support during the course of the experiment. We thank H.-J. Chen, J. Valle, B. Lai, H. Yueh, C. Ritland (UBC), B. Jones, D. Edwards, S. Bourassa, E. Hunt, T. Watson, M. Ferguson (University of Alberta), D. Lux and Forest Health Officers of the Alberta Sustainable Resource development fund for technical assistance, as well as T. Guillemaud and P. Gladieux for advice on DIY ABC. We also acknowledge A. Carroll, B. Murray, D. Coltman, P. James, N. Bartell, G. Weerasuriya, S. DiGuistini, T. Wang, M. Ismail, J. Corander, M. Jakobsson, T. Giraud and D. Six for helpful discussions and support, J. Be ́rube ́ for reviewing the manuscript and M.-A. Rodrigue ́ (CHUL) for DNA sequencing.
+References

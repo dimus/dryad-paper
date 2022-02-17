@@ -1,0 +1,454 @@
+ There is more than one way to skin a G matrix
+D. A. ROFF*, J. M. PROKKOLA , I. KRAMS à§ & M. J. RANTALA
+*Department of Biology, University of California, Riverside, CA, USA Department of Biology, Section of Ecology, University of Turku, Turku, Finland
+àInstitute of Systematic Biology, University of Daugavpils, Daugavpils, Latvia §Institute of Ecology and Earth Sciences, University of Tartu, Tartu, Estonia
+Keywords:
+Flury hierarchy; jackknife;
+Mantel test;
+matrix comparison; random skewers.
+Abstract
+Because of its importance in directing evolutionary trajectories, there has been considerable interest in comparing variation among genetic variance–covariance (G) matrices. Numerous statistical approaches have been suggested but no general analysis of the relationship among these methods has previously been published. In this study, we used data from a half-sib experiment and simulations to explore the results of applying eight tests (T method, modified Mantel test, Bartlett’s test, Flury hierarchy, jackknife-MANOVA, jackknifeeigenvalue test, random skewers, selection skewers). Whereas a randomization approach produced acceptable estimates, those from a bootstrap were typically unacceptable and we recommend randomization as the preferred method. All methods except the jackknife-eigenvalue test gave similar results although a fine-scale analysis suggested that the former group can be subdivided into two or possibly three groups, hierarchical tests, skewers and the rest (jackknife-MANOVA, modified Mantel, T method, probably Bartlett’s). An advantage of the jackknife methods is that they permit tests of association with other factors, such as in this case, temperature and sex. We recommend applying all the tests described in this article, with the exception of the T method, and provide R functions for this purpose.
+Introduction
+Evolutionary change is governed by two factors: the intensity of selection and the amount of genetic variation within and among traits. Information on the latter is contained with the genetic covariance matrix, generally designated simply as the G matrix (Lande, 1979; Arnold et al., 2008). The multivariate response to selection is then specified by the multivariate equivalent of the breeder’s equation, z 1⁄4 Gb, where z is the vector of mean trait responses and b is the vector of selection gradients. While the mean trait values change under selection so also will the G matrix, its orientation tending to shift in the direction of selection (Jones et al., 2003, 2004; Guillaume & Whitlock, 2007; Revell, 2007). Genetic drift may also play a role in changing the G
+Correspondence: Derek A. Roff, Department of Biology, University of California, Riverside, CA 92521, USA.
+Tel.: +915 827 2437; fax: +951 827 4286; e-mail: derek.roff@ucr.edu
+matrix, but in this case the change will be random though on average producing a proportional change in the constituent variances and covariances (Lande, 1979).
+The important role that the G matrix plays in evolutionary divergence has led to considerable interest in comparing G matrices among different populations of the same species and among different conditions such as different environments. However, matrices can differ in many different ways, and this has led to the development of multiple methods of comparing matrices (Steppan et al., 2002). No single test can capture all the different ways in which two or more matrices may vary (Houle et al., 2002). However, it is not clear to what extent different tests capture different elements of matrix variation. As a consequence, application of a single test may provide insufficient information on modes of matrix disparities. In this article, we use both simulation and an extensive data set from a half-sib experiment to compare various suggested methods of comparing matrices. Additionally, we introduce a new test, the jackknife-eigenvalue test that
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 1113–1126
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY 1113
+doi: 10.1111/j.1420-9101.2012.02500.x
+    
+1114 D. A. ROFF ET AL.
+specifically tests for variation among the equivalent eigenvalues of two or more matrices.
+The empirical data set we use in this study consists of a half-sib experiment using the mealworm beetle, Tenebrio molitor, in which 20 sires were mated to three dams and their offspring raised under three temperatures. Sexes were considered separately providing six sets of G matrices. The primary focus of this experiment was to investigate the evolution of cuticular melanization, a trait that has significant effects on fitness. To examine the potential effects on fitness, we measured the degree of melanization, encapsulation response, development time and body size. This set of traits is of particular interest as it includes physiological, morphological and life history traits and a complex set of interactions among the components. An essential requirement of a statistical test is that it correctly predicts the type 1 error rate. As this has not been performed for most of the methods of matrix comparison, we ran simulations in which two genetic covariance matrices generated from the same population were compared. The simulated genetic and phenotypic covariance matrices were generated using the averaged values from the observed six combinations.
+Half-sib experiment
+The beetles used in this study were collected from a laboratory stock population established originally from approximately 500 individuals gathered from countryside in Latvia. Altogether 80 mealworm beetles – 60 females and 20 males– were collected as pupae from the stock population and grown separately in plastic canisters into adults. All males were mated with three different females (A, B and C), and the eggs were allowed to develop at 28 °C.
+Larvae of each family were raised individually and divided randomly into three groups of the same size. Groups were grown in temperatures of 18, 23 and 28 °C under a 14 : 10 light ⁄ dark period. At 10–14 days of adult age, the beetles were weighed to the nearest 0.1 mg. Encapsulation ability and degree of melanization were then assessed.
+The encapsulation ability of an adult beetle was measured with a nylon monofilament. The beetle’s immune system was allowed to react for three hours while it was kept in an individual canister at its rearing temperature. The implant was then removed and frozen at )20 °C until photographed. The average light absorbance value for an implant was measured with IMAGEJ program. Average encapsulation response was calculated as the average of the values from the two different pictures. Standardized encapsulation value was obtained by subtracting the average encapsulation value from the light absorbance value of a clear implant. The bigger the standardized encapsulation value, the more efficient is the beetle’s encapsulation
+response. The repeatability of this method is very high (Rantala et al., 2002).
+The melanization of the cuticle was measured as the light reflecting value of the beetle’s thorax with IM A G E J program. The acquired values were transformed by reversing the sign so that the values would represent the biological scale: the higher the cuticle value, the darker the beetle’s cuticle.
+On average, 10 (SE 0.2) individuals were measured from each family (n = 59) and temperature. A total of 1655 offspring were measured giving an average of 276 (SE 8.2) animals per sex ⁄ temperature combination.
+Statistical methods
+The simulated genetic and phenotypic covariance matrices were generated using the averaged values from the observed six combinations (Table 1). For the simulation, we used 20 sires each mated to three dams, which produced five offspring each. The simulation used an individual-based variance-components approach (Roff, 2010). We generated two data sets, designated as populations A and B, using this model and then used the given test to compare these two sets. In most cases, probability was estimated using randomization or bootstrapping. The randomization protocol was as follows: after calculation of the observed value, Xobs, families were randomly assigned to population A or B and a new value of X, say Xr, calculated. The randomization procedure was repeated R times and the null hypothesis tested by computing P^ 1⁄4 ðn þ 1Þ=ðR þ 1Þ, where n is the number of cases in which Xr ‡ Xobs or Xr £ Xobs, depending on the test (the extra 1 is required because the original observed value must be included). A similar procedure was used in the case of bootstrapping except that the two bootstrapped populations were generated by drawing with replacement families from each population (i.e. the bootstrapped population A consisted of families drawn with replacement from population A). An important consideration in a randomization or bootstrap test is the level at which the randomization or bootstrapping is performed. In general, the appropriate level is the set that includes all related individuals: thus, in the present case we randomized sire families between populations
+Table 1 Matrix of heritabilities (diagonal), genetic (above diagonal) and phenotypic (below diagonal) correlations used to test the utility of matrix comparison methods for the experimental data sets analysed.
+ Traits
+0.34 )0.15 )0.05 0.31 )0.24 0.05
+0.10 0.08
+)0.52 0.23 )0.06 0.25 0.69 )0.04 0.08 0.87
+  a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 1113–1126 JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+(for convenience we shall refer to the sex⁄temperature combinations as populations).
+For the simulations, we used 500 randomizations or bootstraps, which was sufficient to generate the distribution of probabilities. In tests of the experimental data, to ensure an accurate estimate, this number was increased to 5000 if the estimated probability based on 500 replicates was < 0.1.
+We ran 100 replicates and for each replicate and stored the estimated probability as described above, from the particular matrix comparison test. Under the null hypothesis, the cumulative distribution of probabilities should be in 1 : 1 relationship to the estimated probabilities. For visual comparison, the set of estimated probabilities were ranked lowest to highest and compared with the cumulative distribution. The hypothesis was tested using a single sample Kolmogoroff–Smirnoff test assuming a uniform distribution with a minimum of 0 and a maximum of 1. The purpose of this metric is to distinguish between tests than are clearly unacceptable from those that are acceptable. Given enough replicate runs, there could be a significant difference projected by the test: however, such a difference is likely to be of minor importance in the estimation of levels of significance.
+Below we describe the different tests examined (summaries in Fig. 1 and Table 2). The G matrices were estimated by M A N O V A (Bulmer, 1985). All tests were written as R functions and are available in Dryad, doi:10.5061/dryad.kb27f3t1. Copies may also be obtained directly from DAR (Derek.Roff@ucr.edu). In addition to a half-sib design, programs are also given for the following designs: full-sib, offspring on parent, clonal and phenotypic. Matrix comparisons are largely restricted to these ‘standard’ methods because in cases with complex pedigrees, there is difficulty in deciding the basic sampling unit for randomization or jackknifing. There are also problems if not all traits have been measured on all individuals: our approach has been to eliminate any individuals for which full data were not available. With data sets in which there are large gaps, it would be worthwhile, after testing the restricted data set, to do tests involving a reduced number of traits that maximize the data used.
+Some tests are restricted to pairwise comparisons whereas others can compare multiple matrices. For the present analysis, we consider only pairwise comparisons, except in the case of the tests based on the jackknife as these permit tests of association with predictor variables, in the present data set these being sex and temperature. There are two possible null hypotheses: the two matrices are identical vs. the two matrices are unrelated. We have adopted the position of Shaw (1991) that the most appropriate null hypothesis is that of identical matrices.
+T method
+This method, similar to one discussed by Willis et al. (1991), uses matrix disparity as an index of difference
+between two or more matrices (Roff et al., 1999). The statistic examined is the sum of the absolute difference between matrix elements and thus for two matrices it is
+Comparing G matrices 1115
+ T Method
+Pop A
+ Modified Mantel Test
+Pop A
+ Bartle􏰋’s test
+Trait 1
+  Equal areas
+Rank test
+Trait 1 Trait 1
+  Rank = 2
+Rank = 1
+Hierarchical analysis
+Trait 1
+ Common PCs
+  Unrelated structure
+ Propor􏰌onal
+ Equal
+Jackknife-Ã􏰍ÄÊò􏰍
+Pop A
+Sources of varia􏰌on : Popula􏰌on, Others
+  Jackknife-Eigenvalue test Random or selec􏰌on skewers
+Trait 1 Gβ or GP–1S
+Fig. 1 Pictorial representation of the tests examined. Except where stated, the graphs display the null hypothesis. For simplicity, two populations and two traits are represented. T method: This analysis tests the null hypothesis that the variances and covariances (two variances and 1 covariance for a 2 · 2 matrix) are equal. Modified Mantel test: tests the hypothesis that the correlation between the (co)variances is +1. Bartlett’s test: This tests the hypothesis that the determinant of the matrices are the same, that is, the area enclosed by, say, the 95% ellipses are the same. Rank test: This tests the hypothesis that both matrices have the same rank, which could be 2 (left panel) or 1(right panel in the present case). For reasons given in the text, we use the jackknife-eigenvalue test for this purpose. Hierarchical analysis: This moves through four possibilities: equal matrices, proportional matrices, common principal components or unrelated structure. Jackknife-MANOVA: This tests the hypothesis that the matrices are equal. Explanatory variables other than or including population can be tested. Jackknife-Eigenvalue test: This tests the hypotheses that the ith eigenvalue (= variance along the ith axis) or summed value (= total variance) is equal to zero or that it is equal to that of another population. In the case shown, the populations have the same variance in the direction of the major axis but differ along the minor axis. As with the previous test, other explanatory variables may be tested. Random or Selection Skewers: This tests whether the response is the same in the two populations.
+        a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 1113–1126
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Trait 2
+Response
+Trait 2
+Trait 2
+Pop B
+Pop B
+Trait 2
+Pop B
+Trait 2
+
+1116 D. A. ROFF ET AL.
+Table 2 Null hypotheses of tests examined.
+effect of variation in scaling by standardizing the variables: in the present data set, we did this because the traits themselves were measured on disparate scales (e.g. colour vs. development time). If all the traits were measured on the same scale, as would be true if all traits were, say, linear morphological components, then one might be concerned that standardization changes the relationships and thus the conclusions drawn: this problem has not been resolved and in these case it would be advisable to run the analysis with both unstandardized and standardized data to see whether standardization changes the conclusions. It must be emphasized that the method standardization of variables should not change the relative difference between the two matrices: this is true in the present case because variables were standardized by the standard deviation of the entire data set and not by individual populations. The modified Mantel formula is
+ Method
+T method
+Modified Mantel test
+Bartlett’s test Hierarchical analyses
+Jackknife-MANOVA test
+Jackknife-eigenvalue test
+Random skewers test Selection skewers test
+Null hypotheses
+Equality of matrix elements
+Correlation of matrix elements = 1 (i.e. matrix
+elements from one population proportional
+to those of the other population)
+Equality of size (‘volume’)
+Equality of matrix elements; proportionality
+of matrix elements; equality of principal
+components; unrelated structure Equality of matrix elements; variation not
+associated with predictor variables Eigenvalue £ 0; equality of eigenvalues; equality of total variance; variation not
+associated with predictor variables Equality of response to the same vector
+of selection gradients
+Equality of response to the same vector
+of selection differentials
+EijAEijB 􏰃 C
+M 1⁄4 vffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi ð2Þ
+    TAB 1⁄4
+XpXp􏰏 􏰏 􏰏EijA 􏰃 EijB􏰏
+i1⁄41 j1⁄4i
+ð1Þ
+where C = 1⁄(p(p)1)⁄2 + p). To address the null hypothesis of equality, Goodnight and Schwartz (1997) used a bootstrap approach in which entire sire families in their half-sib experiment were selected with replacement. We adopted the same procedure. No method of bootstrapping a half-sib design, or any other pedigree design, will preserve the original sampling design precisely, because, for example, in this case the number of sires in the bootstrap sample will necessarily be fewer than the number in the original sample. For this reason, caution should be exercised in interpreting the results.
+The modified Mantel test removes differences in size between matrices and compares differences in shape (i.e. their correlation structures). The null hypothesis for a Mantel test is that the two matrices are uncorrelated but in this case the null hypothesis is the opposite, namely that the two matrices are identical. Therefore, the cases that deviate from the expected are those that are smaller than the observed, and Goodnight and Schwartz (1997) estimated the probability as P = n ⁄ B where n is the number of MB £ Mobs and B is the number of bootstrap replicates. We also used a randomization approach and as with the bootstrap the appropriate probability was calculated as P = n ⁄ R, where R is the number of randomizations, n is the number in which Mr £ Mobs and Mr is the correlation in the randomized matrices.
+where EijA and EijB are the elements of matrices A and B, and p is the number traits. Under the null hypothesis of equality, the expected value of TAB is zero and is tested using randomization. If a significant difference is found between matrices, then the source of this difference can be explored by examining the probabilities associated with the individual elements. This post hoc examination should be regarded as a hypothesis-generating method as the probabilities required for statistical significance when adjusted for multiple comparisons are likely to be extremely small. An alternative, more robust, approach to locating the source of variation is the jackknifeMANOVA method described later.
+Modified Mantel test
+Lofsvold (1986) suggested comparing the covariances in pairs of matrices using the Mantel test. The null hypothesis under the Mantel test is that the two matrices are uncorrelated whereas a more appropriate null hypothesis is that the matrices are identical (Shaw, 1991). To include the entire matrix (i.e. the variances in addition to the covariances) and address the appropriate null hypothesis, Goodnight & Schwartz (1997) developed the following modified Mantel test. First, they suggest reducing the
+i1⁄41 j1⁄41
+Pp Pp i1⁄41 j1⁄41
+Pp Pp i1⁄41 j1⁄41
+Pp Pp i1⁄41 j1⁄41
+EijA
+!2! Pp Pp Pp Pp !2!
+i1⁄41 j1⁄41 i1⁄41 j1⁄41
+ u Pp Pp t
+E2ijA 􏰃C
+Pp Pp i1⁄41 j1⁄41
+EijA
+EijB
+E2ijB 􏰃C EijB
+ a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 1113–1126 JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Bartlett’s test
+In contrast to the above test, Bartlett’s test compares difference in the size of matrices independent of shape (Goodnight & Schwartz, 1997). The test is based on a comparison of the determinants of the matrices, which are measures of the ‘volumes’ occupied by the matrices: thus, for example, under the null hypothesis the 95% boundaries of two matrices are equal (Fig. 1). Note, as shown in Fig. 1, that matrices may be of equal size but be otherwise quite different. In itself, Bartlett’s test is not very informative but is so in conjunction with the modified Mantel test when the latter test is not significant (i.e. a correlation of 1 cannot be rejected, Goodnight, pers. com.) or when the hierarchical test cannot reject the hypothesis of proportionality of matrix elements. The test statistic, B, is defined as
+B1⁄4ðdfAþdfBÞlnjGCombj􏰃ðdfAlnjGAjþdfBlnjGBjÞ ð3Þ
+where df refers to degrees of freedom, which in the present analysis we set as the number of sires less one, Gcomb is the combined G matrix with elements
+Rank test
+Any genetic variance of covariance that is zero obviously denies evolution of that trait or trait combination. Similarly, a genetic correlation of ±1 defines a bidirection in which evolution is restricted to a fixed line. Less obvious are restrictions determined by the eigenvalues of the matrix. These values measure the genetic variance along orthogonal axes defined by the eigenvectors. A matrix of full rank is one in which all eigenvalues are positive. Eigenvalues that are zero or negative define directions in which no genetic variance exists and hence in which evolution cannot proceed. Thus, an analysis of the eigenvalues addresses the question of whether there are particular directions in which evolution is restricted. A comparison of the eigenvalues among matrices addresses the question of whether the orientation of the matrices is the same with respect to the magnitude of genetic variance. Thus, there are two questions that can be asked: first, what is the probability that the observed matrix is less than full rank, and second, what is the probability that two matrices differ in rank?
+Various methods have been suggested for estimating the effective rank of a matrix. Mezey & Houle (2005) assessed the rank of a given matrix using a bootstrap approach. Hine & Blows (2006) found by simulation that bootstrapping tended to overestimate the matrix rank and favoured a method suggested by Amemiya et al. (1990) but the means of programming this approach and assigning the appropriate degrees of freedom are unclear and therefore not used in the present analysis.
+Goodnight & Schwartz (1997) compared the difference in rank of two matrices with a bootstrap approach. The pairing of the two bootstrapped distributions was performed at random. An alternative approach would be to compare the two frequency distributions of the bootstrap data. A third method is to compare the difference between the observed matrices with that obtained by randomization. It is not clear in these tests what the appropriate null distribution would be: if the eigenvalues and sample sizes are all large, then two matrixes drawn from the same population will consistently be of full rank and hence not have different ranks 5% of the time. Similarly, if an eigenvalue is very small, then the ranks of the two matrices will differ more than 5% of the time. We have verified this with simulations and thus have not considered this approach further in this article. However, as described below we do consider an alternative method (the jackknife-eigenvalue test) based on the jackknife.
+Hierarchical analyses
+Whereas the eigenvalues determine the amount of genetic variation in the eigenvectors, the eigenvectors themselves determine the overall bias in evolutionary change. Thus, a comparison of the eigenvectors is a
+EijComb 1⁄4 dfA EijA þ dfB EijB dfA þ dfB
+ð4Þ
+and jGj means the determinant of the G matrix. Extension to more than two matrices is obvious. Two matrices can be compared with a v2 statistic
+where
+X2 0:5pðpþ1Þ
+1⁄4 B= C
+ð5Þ
+ð6Þ
+2p2 þ3p􏰃1􏰐 1
+C1⁄41􏰃 6ðpþ1Þ df þdf þdf þdf
+􏰑
+1 ABAB
+1
+Comparing G matrices 1117
+     Bartlett’s test is very sensitive to the assumption of normality and assumes that the matrices are estimated directly from independent vectors, which in the case of genetic matrices they are not. Because both of these assumptions are questionable in estimating genetic covariance matrices, Goodnight & Schwartz (1997) adopted the bootstrap as an alternative. Note that in this case Bartlett’s statistic B can be used directly as C will be common to all estimates. Probability was estimated from the set of bootstraps as P = n ⁄ N where n is the number of MB ‡Mobs and N is the number of bootstrap replicates. An important limitation of Bartlett’s test is that the matrices be positive definite (i.e. all positive eigenvalues). This may not true for a G matrix, either because there actually is no variation in a particular direction as specified by the eigenvalue or that the amount is sufficiently small that a singular matrix is estimated either in the original or bootstrapped matrix. In addition to using the bootstrap approach, we also used a randomization test using Bartlett’s statistic, details of which followed those outlined for the T method.
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 1113–1126
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+1118 D. A. ROFF ET AL.
+central component of the analysis of variation among genetic and phenotypic matrices. The Flury hierarchy, which is itself part of a larger hierarchical structure (Boik, 2002), extends the dimensionality approach of rank analysis by analysing the differences between the eigenvectors. Each eigenvector, or principal component, describes a linear combination of the traits that defines an axis orthogonal to all other principal components: there are as many principal components as there are traits and the variance accounted for declines in sequence with the principal components. Despite its popularity and obvious importance, there are potential problems in interpretation, and although it gives insight into some aspects of matrix structure, it cannot be considered a sufficient metric of matrix variation (Houle et al., 2002).
+The Flury hierarchy recognizes a sequence that can be arranged in increasing similarity (Phillips & Arnold, 1999): (i) Unrelated structure, matrices share no principal components in common, (ii) Partial Common Principal Components, matrices share some of the principal components, (iii) Common Principal Components, matrices share all of the principal components but the eigenvalues differ, (iv) Proportionality, matrices have the same set of principal components but the eigenvalues of one matrix differ from another by a constant proportion, (v) Equality, matrices have identical principal components and eigenvalues. A set of programs for the analysis of the Flury hierarchy was developed by Phillips & Arnold (1999). Unfortunately, programs for the analysis of nested designs such as the half-sib pedigree design are not included in this package. Because of difficulties in programming the solution for the partial common principal components, we have restricted our analysis to the hierarchy with this component omitted. Testing for partial common principal components could be done by systematically reducing the number of traits, although this will lead to multiple tests and problems of assigning significance. The necessary equations for this analysis using Manly & Rayner (1987) and Trendafilov (2010), commencing in reverse order are as follows:
+Equal matrices: The maximum likelihood estimator X^0 given s matrices is
+rffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+^c 1⁄4 ðtrnX^􏰃1So=:pÞ ð9Þ
+j1j
+To find the solution, we start with ^cj 1⁄4 1 for all j and substitute in eqn (8) to obtain X^ 1 , which is then substituted into eqn (9) to obtain a new estimate of X^ 1 . This process is continued until the change in the log likelihood, shown below, is less than a given tolerance value
+nj ln ^cj ð10Þ
+Preliminary tests on the data sets examined in the present analysis indicated that 10 iterations were quite satisfactory, and we used this number throughout the analyses.
+Common principal components: The estimation of the matrices under the assumption of common principal components was performed using the stepwise algorithm of Trendafilov (2010). Convergence is typically very rapid, and preliminary runs of the data sets analysed here indicated that 10 iterations were satisfactory.
+Unrelated structure: The maximum likelihood estimate under the assumption of different matrices is the sample covariance matrix Sj.
+We adopted the jump-up approach to model testing advocated by Phillips & Arnold (1999). Each model was tested against that of unrelated structure using the statistic
+1 1 1 ^ Xs
+LL 1⁄4 􏰃 2 Np lnð2pÞ 􏰃 2 Np 􏰃 2 N ln jX1 j 􏰃 p
+j1⁄42
+   where Sj is the sample covariance matrix, nj is the ‘sample’ size of the jth matrix (here taken to be the number of sire families) and N 1⁄4 Psj1⁄41 nj.
+Proportional matrices: The maximum likelihood estimates of the proportionality constants cj2 is obtained by iteration of the two equations
+Xs n S
+X^11⁄4jj ð8Þ
+XS (detðX^ Þ) M;j
+2
+X 1⁄4 njln det􏰃Sj􏰎 ð11Þ
+ ^ Xs X0 1⁄4
+j1⁄41
+njSj=:N ð7Þ
+j1⁄41
+where X^M;j is the estimated genetic covariance matrix for model type M (equal, proportional, CPC) in the jth population. Probability was estimated by randomization using 499 randomizations. Those runs in which the determinant could not be calculated were dropped from the estimation of the probability.
+Jackknife-MANOVA test
+The tests described above examine the variation in structure between matrices. Such variation could result from genetic drift, selection or some environmental factor that influenced phenotypic expression. We might expect that the signal of these effects acting singly or in concert to be contained in the matrix structure. For example, in the analysis of the G matrices of the isopod Gammarus minus, Roff (2002) examined the joint influence of two environmental variables (habitat and drainage basin) on variation in four populations, showing that both factors contributed to variation among matrices. In the present data set, there are two variables, temperature (18, 23, 28 °C) and sex.
+ j1⁄41 n^cj2
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 1113–1126
+
+Differences among matrices may exist overall, irrespective of the sex ⁄ temperature combination, which is what the other tests focus on or they may be a function of one or both variables. Both types of variation can be analysed with the jackknife-M A N O V A method (Roff, 2002). This approach utilizes the jackknife statistical procedure to produce a set of pseudovalues and then uses M A N O V A to relate these variables to the predictor variables. As noted above, a useful property of this method is that individual ANOVAs can be conducted to test element-by-element variation (Roff, 2002). In the present half-sib breeding design, pseudovalues were produced by eliminating entire sire families, giving a final data set of 20 pseudovalues for each trait by sex– temperature combination. A previous analysis showed that the type 1 error rate of the jackknife-M A N O V A method was as required (Begin & Roff, 2004) but is also given here for the G matrix used in the previous simulations.
+Jackknife-eigenvalues test
+In addition to estimating the genetic covariances, the jackknife method described above can be used to estimate the eigenvalues and their associated standard errors from which the probability of the estimate being greater than zero can be determined with a one-tailed t test. We also estimated the summed value of all eigenvalues, Esum, which is equivalent to the trace of the matrix and measures the total genetic variance (Kirkpatrick, 2009). The eigenvalues and Esum from different populations can be compared with a MANOVA or a t test on the eigenvalue and Esum pseudovalues. The proposed test compares the ith eigenvalue (or Esum) from the set of matrices: it is thus an element-by-element test of the eigenvalues. The leading eigenvalues tend to be overestimated (Lawley, 1956; Walsh & Lynch 2011): although this may not be a serious problem when comparing the ith eigenvalue from several matrices (given that they will all be overor under-estimated), it could indicate incorrectly that smaller eigenvalues are not significantly different from zero.
+To address these concerns, we ran simulations asking the following questions. First, Does the method produce an unbiased estimate of the statistic? Second, Is the standard error estimated from the jackknife procedure a valid estimate of the standard deviation of the estimator? Third, What is the power of the test? The last question is particularly important because drawing the conclusion that a matrix is of reduced rank may be erroneous if the standard error associated with the estimate includes zero but is also large enough to include biologically important positive values. The variance accounted for by each eigenvalue forms a decreasing series, and thus the later eigenvalues may be relatively poorly estimated and, as noted above, may be under-estimated.
+Random skewers test
+A major reason for comparing G matrices is to ascertain whether different evolutionary trajectories will be followed if selection is applied. The random skewers method developed by Cheverud (1996) is a useful approach to this problem. The essential idea behind this method is to compare the colinearity of response of two matrices to a set of randomly applied selection vectors:
+RA 1⁄4GAb;RB 1⁄4GBb ð12Þ
+where RA and RB are the response vectors of populations A and B, respectively, GA and GB are the two genetic covariance matrices and b is the selection gradient, which is replaced here with the random skewers. Elements in the selection vector are drawn at random from a uniform distribution from )1 to +1 and the total length of the vector standardized such that the sum of squared vectors elements equals one (Cheverud & Marroig, 2007). This last procedure is strictly not required (Manly, 1997) and can thus be omitted to marginally increase processing speed. The vector correlation is calculated as (Calsbeek & Goodnight, 2009)
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 1113–1126
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+i 􏰃RTR 􏰎􏰃RTR Þ AA BB
+Comparing G matrices 1119
+R TA R B
+r 1⁄4 qffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi ð13Þ
+ where ri is the ith vector correlation and T signifies matrix transpose. The response vectors are calculated as RjSi, wherej=AorBandSi istheithrandomskewer.Ifthe matrices are identical, the vector correlation between responses will be one, whereas if the two matrices are completely unrelated, then the correlation will be zero. Because the random skewers method uses the estimated matrices as if they were the true matrices, the estimated vector correlation will generally be biased and tests of significance unreliable. However, statistical differences between the matrices can be determined using a bootstrap approach (Cheverud, 1989, 1996). Cheverud & Marroig (2007) took as the null hypothesis that matrices were unrelated, whereas Calsbeek & Goodnight (2009) assumed a null hypothesis of identical matrices. As noted above, we took the latter as our null hypothesis and tested using the same approach as for the modified Mantel test. First, we estimated the mean vector correlation based on 500 random skewers. We then constructed two new matrices by bootstrapping sire families from the two data sets and computed the resulting vector correlation. We repeated this process 500 times to generate a bootstrap distribution of mean vector correlations. The null hypothesis is that the two matrices are identical and thus the vector correlation is one. Therefore, the cases that deviate from the expected are those that are smaller than the observed (Goodnight & Schwartz, 1986) and the probability is estimated as P = n ⁄ B, where n is the number of rb £ robs and B is the number of bootstrap replicates. We also used a randomization approach and as with the
+
+1120 D. A. ROFF ET AL.
+bootstrap the appropriate probability was calculated as P = n ⁄ R, where R is the number of randomizations, n is the number in which rr £ robs and rr is the correlation in the randomized matrices.
+Selection skewers test
+The random skewers test is applied to either the genetic or the phenotypic matrices separately. As pointed out by Calsbeek & Goodnight (2009), an important question is whether the two populations are expected to respond to selection in the same manner, which is given by the multivariate breeder’s equation
+R1⁄4GP􏰃1S; R1⁄4GP􏰃1S ð14Þ AAABBB
+where S is the selection vector. The random skewers approach can be applied in this case by using the product GP)1 in place of either G or P. The selection skewers can be constructed to apply selection in a particular direction if such is a focus of interest (Calsbeek & Goodnight, 2009) or, as in this case, by randomly selecting skewers as previously. Tests of significance can be constructed in the same manner.
+What do the tests tell us about evolution?
+Each test measures a different aspect of the G (or P) matrix and hence gives different information on how the G matrix affects evolutionary change and to some extent how drift and selection have influenced the evolution of the G matrix itself. The T method is the simplest in that if the null hypothesis is not rejected, we would provisionally predict that the same vector of selection gradients applied to both populations would produce the same set of direct and correlated responses. In this respect, it provides the same answer as the random skewers method, although the latter is a direct test of the response to selection by the same vector of selection gradients. It is also feasible, but perhaps unlikely, that different matrices might nevertheless produce the same response and hence not be differentiated by the random (or selection) skewers tests. Equality of the matrices suggests that the populations have been subject to the same selection regime and that drift has not been sufficient to cause differentiation or has caused the same degree of change.
+The modified Mantel test measures differences in the structure of the matrices: under the null hypothesis, the correlation between the elements of the two matrices is 1. This means that the elements of one matrix are proportional to the elements of the other matrix, equality being one possibility. Proportionality could come about due to genetic drift (Lande, 1979) or selection on traits that are highly correlated (Roff, 2004). The effect on response to selection will depend on changes in the phenotypic variance–covariance matrix but the general prediction is that the responses
+to selection will differ. If the selection gradients are the same, then the population with the larger G matrix will respond faster.
+Bartlett’s test focuses on size (‘volume’) of the matrices. In the example shown in Fig. 1, the two matrices do not differ in size but quite clearly differ in the shape of the displayed ellipse, and the responses to selection on trait 2 will be much stronger in the long ‘skinny’ one than the ‘fat’ one. Because the matrices may differ in other ways, this test is most useful (and interpretable) only if the modified Mantel test or hierarchical test of proportionality are not significant.
+The rank test compares the number of significant eigenvalues, the null hypothesis being equal rank. If both matrices are of full rank, then evolution is not constrained in any direction, whereas reduced rank means that there are directions (combinations of trait values) that selection can move the population. The jackknife-eigenvalue analysis addresses both the question of the rank of a matrix and the question of whether the equivalent eigenvalues are the same. Significant differences in rank suggest that selection has been strong enough to erode genetic variance (eigenvalue) in one principal component (axis) in one population more than the other. In the scenario displayed in Fig. 1, the eigenvalues of the major axes are the same but those of the minor axis differ. Thus, the population with reduced variance in the minor axis will respond less in this direction to a given selection intensity than the other population.
+The hierarchical analyses jointly examine the orientation of the axes (the principal components or eigenvectors) and the amount of variance (eigenvalue) along these axes (Fig. 1). Matrices that are equal have identical elements and thus will respond in the same manner to selection. This component of the hierarchical analysis corresponds to the T and jackknife-M A N O V A methods. The first level of matrix differentiation is that of proportionality in which the elements of one matrix are a multiple of the other matrix: this is the same hypothesis tested by the modified Mantel test. The second level tested here is that the matrices are aligned along the same axes (principal components) but may differ in the relative amount of variance along these axes. The response to selection will depend on the relative differences in genetic variance (eigenvalues) in the component axes (principal components). Finally, the matrices may differ in at least one principal component: note that with two traits, a difference in one principal component will necessarily entail a difference in the second (Fig. 1). Unrelated structures suggest that the G matrices have been subject to very different selection pressures and will obviously show differences in response to the same selection regime.
+The jackknife-M A N O V A tests the hypothesis of matrix equality but also how matrix variation may be related to other variables. For example, the jackknife-M A N O V A test of four populations of the isopod G. minus suggested that
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 1113–1126 JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+both selection and drift were responsible for differences in the G matrices (Roff, 2002). This method can also be used to locate the specific elements of the matrices responsible for the overall difference.
+As discussed above, the jackknife-eigenvalue tests both the hypothesis that an eigenvalue is not significantly different from zero (in which case there is no genetic variation along that particular axis) and differences between the equivalent eigenvalues in the two matrices. In the example shown in Fig. 1, the two matrices do not differ in genetic variance along the major axis but do along the minor axis. Selection in the general direction of the second axis will produce greater response in the population represented by the upper ellipse than in that represented by the lower ellipse.
+The selection skewers test explicitly tests the null hypothesis of no differences in response to the same vector of selection gradients (random skewers test) or selection differentials (selection skewers test). The former implies the same G matrices and is thus equivalent to the T and jackknife-MANOVA tests in this regard.
+Results
+Simulation results
+Results of the simulations for all except the jackknifeeigenvalue test are summarized in Table 3 and Fig. 2. With the exception of the T method, the randomization and jackknife-M A N O V A approaches provide acceptable distributions. The bootstraps never produced distributions acceptable over the full range and thus cannot be considered preferential to the randomization approach for the present data sets. We therefore did not use the bootstrap methods in the analysis of the experimental data. The T method gave a distribution that was conservative and so was used with this caveat.
+Table 3 Kolmogorov–Smirnov goodness-of-fit test of simulated results on the expected uniform distribution with range 0–1. See table and text for discussion of jackknife-eigenvalue test.
+For the jackknife-eigenvalue test, we ran 5000 simulations and for each run tested for eigenvalues greater than zero using a one-tailed t test. Results are shown in Table 4. Bias was negligible and the estimated standard errors were very close to the standard deviations of the 5000 simulated sets. Thus, at least for this data set, the problem of overestimation of the leading eigenvalues and underestimation of the smaller eigenvalues appears to be negligible. Power (i.e. the probability of correctly rejecting the null hypothesis that the mean was less than or equal to zero) was extremely high for Esum and the first three eigenvalues but lower than the required 80% (Cohen, 1988) for the fourth. Given the power associated with the test on the fourth eigenvalue, conclusion that the matrix was of reduced rank has to be viewed with caution.
+Experimental results
+The jackknife-M A N O V A found no overall differences due to sex (F10,105 = 0.89, P = 0.5439), temperature (F20,210 = 1.1819, P = 0.2722) or interaction (F20,210 = 0.8882, P = 0.6023). A MANOVA on the eigenvalue pseudovalues showed no significant interaction or effect of sex (P > 0.5 in both cases) but a significant temperature effect (F8,222 = 2.30, P = 0.00988). T tests on the individual eigenvalues showed the first three to be consistently and significantly different from zero but several of the fourth eigenvalues had confidence limits that spanned zero (Table 5).
+Because of the problem of multiple tests, pairwise comparisons have to be viewed cautiously. The probabilities of getting 1, 2 and 3 significant results at the 5% level are 0.38, 0.19 and 0.06, respectively: at the 1% level, they are 0.17, 0.016 and 0.00096, respectively. The primary purpose of the pairwise comparisons is to examine the pattern of results among the different tests. The jackknife-eigenvalue tests form one group whereas the remainder of the tests, with the possible exception of the jackknife-M A N O V A test, forms a second (Table 6). Results of pairwise comparisons indicate that eigenvalues differed in up to seven of the combinations, and in all cases, eigenvalues 2 and ⁄ or 4 were responsible (Table 6). The two combinations identified by the jackknifeM A N O V A as possibly different were the same as two identified by the eigenvalue tests. In contrast, the other tests consistently showed a difference between females at 23 °C and males at 28 °C. Additionally, Bartlett’s and the Hierarchical tests found a difference between males at 18 °C and females at 23 °C, a combination that the jackknife-eigenvalue tests also found to be highly significant.
+To further identify similarities between tests, we computed the correlation between the probabilities estimated by each test (Table 7). Probabilities from all the tests except the eigenvalue tests tend to be highly correlated, whereas the jackknife-eigenvalue tests are
+Comparing G matrices 1121
+ K–S
+Test statistic P
+T test 0.215 0.0002 Modified Mantel test – bootstrap 0.420 < 0.0001 Modified Mantel test – randomization 0.075 0.6272 Bartlett’s test – theoretical 0.241 < 0.0001 Bartlett’s test – bootstrap 0.555 < 0.0001 Bartlett’s test – randomization 0.069 0.748 Hierarchical – equality 0.095 0.3238 Hierarchical – proportional 0.102 0.2492 Hierarchical – CPC 0.096 0.3142 Jackknife-M A N O V A 0.101 0.2622 Random Skewers – bootstrap 0.292 < 0.0001 Random Skewers – randomization 0.064 0.8073 Selection Skewers – bootstrap 0.268 < 0.0001
+Comments
+Conservative Unacceptable Acceptable Unacceptable Unacceptable Acceptable Acceptable Acceptable Acceptable Acceptable Unacceptable Acceptable Unacceptable
+ Selection Skewers – randomization 0.062
+0.8367 Acceptable
+ a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 1113–1126
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+ 1122 D. A. ROFF ET AL.
+Table 4 Results of an individual-based simulation model to test the efficacy of the jackknife method of estimating the eigenvalues of a G matrix. See text for details.
+Fig. 2 Cumulative frequency plots of probabilities from 500 replicate simulation runs. • Randomization, s Bootstrap. Results for the hierarchical analyses are too similar to permit visual separation.
+tests, the Hierarchical tests, the Skewer analyses and the remainder (modified Mantel, T method, jackknifeM A N O V A ), with the latter two possibly forming a single group (Fig. 3).
+Genetic correlations are highly significantly correlated with the phenotypic correlations (r = 0.79, F1,34 = 56.6, P < 0.0001) but twice the absolute value of the phenotypic (rG = )0.06(SE = 0.04) + 1.94(0.26)rP, Fig. 4). Thus, in this case, contrary to Cheverud’s conjecture (Cheverud, 1988), the phenotypic correlations could not be used as surrogates for the genetic correlations.
+Discussion
+The simulation results indicate that the bootstrap approach is generally inappropriate for the present data set. This is not surprising given the relatively small sample (20 sires) upon which the bootstraps are drawn. Unfortunately, this will be a common problem with genetic data in which, although the total sample size may be relatively large (􏰀270 per treatment and sex in the present case), the unit of resampling is an aggregate of
+Eigenvalue Actual Ei value
+1 0.975
+2 0.783
+3 0.332
+4 0.151
+E.Sum* 2.240
+Mean
+jackknife Percentage
+SD of estimates
+0.30 0.27 0.16 0.08 0.39
+Estimated SE from jackknife
+0.28 0.21 0.12 0.07 0.39
+Power
+P (Ei > 0)
+1.00 0.99 0.91 0.70 1.00
+estimate
+1.012 0.739 0.333 0.154 2.237
+bias (SE)
+)3.8 (0.4) 5.6 (0.4) )0.3 (0.2) )2.1 (0.1) 0.1 (0.6)
+*Jackknifed sum of the four eigenvalues.
+only correlated with each other. A principal component analysis of the probabilities, with Bartlett’s test deleted because of missing values, shows that PC1 is heavily weighted to those tests other than the jackknife-eigenvalue tests whereas PC2 has high negative weights to the hierarchical tests (Table 8). A plot of PC2 on PC1 suggests that there are four groupings: the jackknife-eigenvalue
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 1113–1126 JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+Table 5 Jackknife estimates of eigenvalues for the six different temperature–sex combinations.
+Comparing G matrices 1123
+ Combinations
+Temperature Sex
+18 Female 18 Male 23 Female 23 Male 28 Female 28 Male
+Eigenvalues (SE)
+1
+0.543 (0.131)* 0.989 (0.249)* 0.946 (0.228)* 0.927 (0.279)* 0.524 (0.153)* 0.838 (0.254)*
+2
+0.877 (0.142)* 0.834 (0.183)* 0.411 (0.117)* 0.522 (0.157)* 0.567 (0.111)* 0.418 (0.129)*
+34
+   0.205 (0.105)& 0.1827 (0.068)$ 0.358 (0.131)$ 0.451 (0.158)$ 0.288 (0.118)& 0.290 (0.118)&
+0.081 (0.060) 0.342 (0.099)* 0.048 (0.056)
+)0.035 (0.081) 0.145 (0.069)& 0.121 (0.115)
+ Probabilities of the eigenvalues are less than zero. *P < 0.004, $0.004 < P < 0.01, &0.01 < P < 0.05. For the individual combinations, the significance level after Bonferroni correction for multiple (24) tests is 0.004 (0.002 if a two-tailed test is used. This does not change the results).
+Table 6 Summary of pairwise matrix comparisons in which P < 0.1.
+ Combination
+Hierarchical tests Skewers
+E P CPC R S J-MANOVA
+Eigenvalue tests
+    Sex °C F 18 F 23
+F 18 M 23
+F 18 F 28
+F 18 M 28
+M 18 F 23
+M 18 M 23
+M 18 F 28
+M 18 M 28
+F 23 M 23
+F 23 F 28
+F 23 M 28 0.017 M 23 F 28
+M 23 M 28 0.088
+F 28 M 28
+Sex °C
+TM
+B
+na*
+0.046 na
+na
+0.030 na
+na
+All E1 0.056
+0.098
+0.008 0.015 0.051
+E2 E3 0.016
+E4 Esum 0.030 0.093
+0.013 0.005
+0.040
+     F 18 M 18
+0.073 0.032
+*Test not possible because fourth eigenvalue of
+0.030
+0.044 0.049 0.065
+0.045 0.045 0.038 0.043 0.056
+matrix was negative (Table 4).
+0.094 0.022 0.059
+0.071
+Table 7 Correlations (below diagonal) between probabilities estimated from each testing method.
+0.099
+  Hierarchical tests
+Skewers CPC RS
+*
+* ### *
+Eigenvalue tests
+J–E E1
+   T method Mantel
+Bartlett
+Equal Proportional CPC
+Random skewer Selection skewer J-MANOVA J-Eigen
+## #
+*
+0.99 0.88 0.40 0.16 0.55 0.16 0.18
+)0.01 )0.33 )0.06
+0.25
+# #
+)0.01 )0.37 )0.13
+0.17
+E1
+E2 )0.22 E3 0.06 E4 0.10 Esum 0.16
+0.10 )0.02 0.34 0.00 0.14 0.03 )0.46 )0.32 )0.06
+* ### 0.82 ##
+0.76 0.56
+0.15 0.00 0.30 0.08 )0.18 0.40
+)0.35 )0.34 )0.22 0.26 0.34 0.07 0.35 0.23 0.22 0.30 )0.04 0.22
+0.46
+TM B
+* ## 0.89 ###
+0.74 0.83
+0.53 0.51 0.99 0.51 0.49 0.98 0.20 0.19 0.81 0.84 0.88 0.96 0.56 0.76 0.86 0.76 0.68 0.75 0.01 0.02 0.06 0.19 )0.06 )0.13
+)0.15 )0.51 0.14 0.18 0.11 0.45 0.16 0.29
+EP
+SS J–M
+# ### ### ### ### ##
+E2
+##
+0.32
+0.56 )0.01
+0.56 )0.22
+0.53 )0.11 )0.12 0.59 0.04 0.01
+E3 E4 ESum
+###### #
+#
+0.50 *
+0.22 0.82
+    * *
+0.90 0.38 0.16 0.52 0.11 0.18
+* ## * ##
+ #0.1 > P > 0.05; ##0.05 > P > 0.01; ###0.01 > P > 0.001; *P < 0.001.
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 1113–1126
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+1124 D. A. ROFF ET AL.
+Table 8 Weightings for first five PC scores. Weightings sorted according to coefficient for first PC.
+the raw data. Bootstrap estimates drawn from small samples will typically be biased and have confidence intervals smaller than expected (Roff, 2006). Without simulation, it is not a priori clear what constitutes a sample large enough for the bootstrap to be a valid procedure. On the other hand, the present results show that the bootstrap can be replaced in all cases by randomization. Thus, for the purpose of comparing G matrices, we suggest using randomization rather than the bootstrap. If interest lay in the actual distribution of genetic parameters, then a bootstrap approach would be appropriate. However, this should not be used without first investigating its properties with respect to the characteristics of the data set under study.
+The reason for the proliferation of tests for comparing G matrices is that in principle matrices can be different in several ways and each test is sensitive to different aspects of the variation (see Table 2 and section ‘What do the tests tell us about evolution?’). For the present data set, our general empirical finding is that the tests fall into two broad categories: tests based on variation in eigenvalues and all other tests. Finer-scale examination of the latter suggests that these fall into two or possibly three groups: hierarchical tests, skewers and the rest (jackknife-MANOVA, modified Mantel, T method, probably Bartlett’s). The eigenvalue tests that appeared to suggest more combinations were likely different than the other tests. The other tests all agreed on variation in a single combination, which was not indicated by the eigenvalue tests.
+Most tests only test for differences among matrices, generally in a pairwise fashion. The jackknife procedure differs in that it permits not only this type of testing but also tests that incorporate predictor variables (Roff, 2002). In the present analysis, the jackknife-MANOVA test identified no differences due to sex or temperature, whereas the jackknife-eigenvalue tests, which are based on the pseudovalues from a delete-one jackknife, showed significant differences due to temperature.
+ Random skewer Mantel
+T method Jackknife-M A N O V A Equal
+Proportional
+Selection skewer
+CPC
+Esum
+E4
+Eigenall
+E1
+E3
+E2 )0.10
+Cumulative percent
+36.66
+Comp. 1
+Comp. 2
+0.17 0.06 0.02 0.04
+)0.26 )0.30 0.18 )0.40 0.29 0.44 0.31 )0.09 0.48 0.09 58.79
+Comp. 3 )0.19
+)0.20 )0.14 0.01 0.25 0.23 )0.35 0.25 0.33 0.14 0.50 0.23 0.05 0.41 75.12
+Comp. 4 0.01
+)0.20 )0.07 0.03 0.00 )0.03 )0.18 )0.08 0.44 0.39 )0.11 0.19 )0.40 )0.60 84.53
+Comp. 5
+)0.05 0.07 )0.14 )0.30 0.20 0.20 0.05 0.21 0.25 0.21 )0.15 )0.79 0.02 0.01 92.86
+ 0.39 0.39 0.39 0.38 0.34 0.33 0.29 0.21 0.14 0.10 0.09 0.09 0.01
+  0.6
+0.4
+0.2
+0.0
+–0.2
+–0.4
+–0.6
+–0.2 0.0
+0.2 0.4
+       Fig. 3 Bivariate plot of PC2 on PC1.
+PC 1
+        Eigenvalues
+Skewers
+MANOVA
+Mantel T-method
+             Hierarchical
+                                  0.8 0.6 0.4 0.2 0.0
+–0.2 –0.4 –0.6 –0.8
+–0.4 –0.2 0.0
+0.8
+0.6
+0.4
+0.2
+0.0
+                        Phenotypic correlation
+0.2 0.4
+0.0 0.1 0.2
+abs (phenotypic correlation)
+Fig. 4 Plots of genetic correlation vs phenotypic correlations. Solid line shows regression line. Dashed line shows 1:1 relationship.
+0.3 0.4
+      a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 1113–1126 JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Genetic correlation
+PC2
+abs (genetic correlation)

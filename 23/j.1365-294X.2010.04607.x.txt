@@ -1,0 +1,231 @@
+   Molecular Ecology (2010) 19, 1763–1773 doi: 10.1111/j.1365-294X.2010.04607.x
+Sex reversal and primary sex ratios in the common frog (Rana temporaria)
+JUSSI S. ALHO,† CHIKAKO MATSUBA†‡ and JUHA MERILA ̈
+Ecological Genetics Research Unit, Department of Biosciences, PO Box 65, 00014, University of Helsinki, Helsinki, Finland
+Abstract
+Sex reversal has been suggested to have profound implications for the evolution of sex chromosomes and population dynamics in ectotherms. Occasional sex reversal of genetic males has been hypothesized to prevent the evolutionary decay of nonrecombining Y chromosomes caused by the accumulation of deleterious mutations. At the same time, sex reversals can have a negative effect on population growth rate. Here, we studied phenotypic and genotypic sex in the common frog (Rana temporaria) in a subarctic environment, where strongly female-biased sex ratios have raised the possibility of frequent sex reversals. We developed two novel sex-linked microsatellite markers for the species and used them with a third, existing marker and a Bayesian modelling approach to study the occurrence of sex reversal and to determine primary sex ratios in egg clutches. Our results show that a significant proportion (0.09, 95% credible interval: 0.04–0.18) of adults that were genetically female expressed the male phenotype, but there was no evidence of sex reversal of genetic males that is required for counteracting the degeneration of Y chromosome. The primary sex ratios were mostly equal, but three clutches consisted only of genetic females and three others had a significant female bias. Reproduction of the sex-reversed genetic females appears to create all-female clutches potentially skewing the population level adult sex-ratio consistent with field observations. However, based on a simulation model, such a bias is expected to be small and transient and thus does not fully explain the observed female-bias in the field.
+Keywords: amphibian, microsatellite, Rana temporaria, sex determination, sex linkage, sex ratio Received 21 October 2009; revision received 13 January 2010; accepted 19 January 2010
+Introduction
+Sex reversals have been of interest to biologists because discrepancies between phenotypic and genotypic sexes can shed light on the nature of sex determination systems (Kraak & Pen 2002). However, sex reversals in ectotherms have recently gathered renewed attention for two distinct reasons. First, it has been suggested that they could play a crucial role in counteracting the evolutionary decay of Y chromosomes caused by the progressive accumulation of deleterious mutations
+Correspondence: Jussi S. Alho, Fax: +358 9 19157694; E-mail: jussi.alho@helsinki.fi
+†These authors contributed equally to the study.
+‡Current address: Department of Zoology, 223 Bartram Hall, University of Florida, Gainesville, FL 32611-8525, USA
+(Perrin 2009). According to this hypothesis, sporadic occurrences of XY-females due to sex-reversal and the subsequent reproduction of these individuals allow X and Y chromosomes to recombine creating bursts of new Y chromosome haplotypes and preventing degeneration. Second, environmentally induced sex reversal has implications for population dynamics and thus, for example, for conservation biology and fisheries management (Kanaiwa & Harada 2002; Hurley et al. 2004; Cotton & Wedekind 2009; Stelkens & Wedekind 2010). It has been found to have generally a negative effect on population size, and the extreme sex ratios caused by high sex reversal rates can reduce effective population sizes considerably (Cotton & Wedekind 2009).
+Despite the fact that sex reversal has been the subject of discussion for some time (see e.g. Pandian & Sheela 1995; Wallace et al. 1999), there is a paucity of empirical data from the wild. This shortage becomes increasingly
+Ó 2010 Blackwell Publishing Ltd
+
+1764 J. S. ALHO, C. MATSUBA and J. MERILA ̈
+acute with the new hypothesis on the rejuvenation of sex chromosomes (Perrin 2009) and increasing anthropogenic changes in the environment (Cotton & Wedekind 2009). Cotton & Wedekind (2009) concluded that there is a pressing need to study the frequency of environmental sex reversal in wild populations, and Perrin (2009) recommended extensive genetic analyses of allelic frequencies during episodes of sex reversal.
+Perrin (2009) illustrated his hypothesis with common frog (Rana temporaria) data from Matsuba et al. (2008), and further information on the frequency of sex-reversal in this species would be illuminating to address both his hypothesis and the population dynamic consequences. There are a few old studies that have reported mismatches between the genetic and phenotypic sex in adult individuals in R. temporaria based on breeding experiments (Crew 1921; Witschi 1929a; b; see also Wallace et al. 1999). Crew (1921) reported the case of a common frog that possessed ovotestes, had male secondary sexual characteristics, copulated with a female, sired 774 offspring which were all female, and thus must have been a genetic female. Witschi (1929a) reported several other examples, although the observations are complicated by temperature effects and the geographical variation in gonadal development (Witschi 1929b). More recently, Matsuba et al. (2008; see also Perrin 2009) raised the possibility of sex reversal based on molecular genetic work. Although there, thus, are some reports of sex reversal in the common frog, there is little or no empirical data on its frequency in the wild, and its population level consequences remain unexplored.
+A strong female bias in population sex ratios has been observed in common frogs in the subarctic zone (Alho et al. 2008). Temperature-induced sex-reversals could hypothetically play a role in these female-biased sex ratios. High temperatures have been reported to have masculinizing effects on the common frogs, and it has been suggested that low temperatures would have feminizing effects (Wallace et al. 1999). Sex ratios could thus be biased by two mechanisms. First, the cold and extreme conditions of the subarctic zone could directly lead to female-biased sex ratios with XY-females. Second, abnormally high temperatures could indirectly induce a female-bias in the offspring generation if masculinized females (XX-males) survive and reproduce, leading to all-female clutches. However, although several theoretical studies have explored the effect of masculinization and feminization on population sex-ratio dynamics in general (Kanaiwa & Harada 2002; Hurley et al. 2004; Cotton & Wedekind 2009), it is not entirely clear how the sex-ratio dynamics would play out in subsequent generations if there were a large number of XY-females or XX-males present with sex differences in maturation age and annual variation in environmental conditions. Alter-
+native explanations for the sex-ratio bias include e.g. population ecological factors, such as different juvenile mortality, and endocrine disruptive compounds with feminizing effects (Alho et al. 2008) and sex-ratio distorters (Stouthamer et al. 2002).
+Since the causal agents perturbing sex ratios act on different life stages, knowledge about primary sex ratios is required to differentiate between the alternative explanations for the observed sex ratio bias in the wild. Although cross-breeding experiments (Witschi 1929a) and flow cytometry (Matsuba & Merila ̈ 2006) suggest male heterogamety, the sex chromosomes are poorly differentiated in the common frog (Popov & Dimitrov 1999), making identification of primary sex ratios and genotypic sex of individuals difficult (Matsuba et al. 2008). Hence, alternative methods of sexing—such as sex-linked microsatellite markers (Berset-Bra ̈ ndli et al. 2006, 2008)—are needed.
+The aim of the research reported in this paper was threefold. First, to develop and validate new sex-linked microsatellite markers for the common frog to aid in the identification of genetic sex. Second, to apply these markers together with a previously identified, existing marker in a Bayesian hierarchical-modelling approach to study genetic primary and population sex ratios and to investigate the existence of sex reversal in the wild. Finally, we explored whether the sex reversals could explain the female-biased adult sex ratios observed in the subarctic zone.
+Materials and methods
+Study species and population
+The common frog (R. temporaria) is one of the most common and wide-spread amphibians in Europe. It inhabits various habitats from the northern Spain to Russia, including high-altitude Alpine and subarctic sites (Gasc et al. 1997; Arnold & Ovenden 2002). We studied common frogs in Kilpisja ̈rvi (69°04¢ N, 20°46¢ E) in northern Finland from 1998 to 2004. The frogs entering two breeding ponds were monitored from 1999 to 2004 over whole mating season using capture–recapture methods (Alho et al. 2008). In this study, adult frogs from 1998 to 2000 from Kilpisja ̈rvi area, as well as tadpoles from 18 clutches collected in 2003 from Tulli pond (see Alho et al. 2008) were used. Phenotypic sex of all adult frogs was determined on the basis of secondary sexual characters (nuptial pads in males) and reproductive condition (females carrying eggs). The genetic sex of all adults and tadpoles was determined with molecular markers as described below. The genotyping of all adults was based on toe tissue samples.
+Ó 2010 Blackwell Publishing Ltd
+
+Screening for sex-linked markers
+A genotype data set of adult frogs (12 females and 11 males) sampled from Kilpisja ̈rvi area in 1998 and 2000 for 145 microsatellite markers (Matsuba & Merila ̈ 2009) was screened to test for sex linkage between markers and phenotypic sex. All markers were tested for deviations of Hardy-Weinberg equilibrium using the program Genepop (Raymond & Rousset 1995). We tested an association between genotype for each locus and phenotype using Armitage Trend test (Armitage 1955) that is a score test for binominal traits (in this case phenotypic sexes). Tests for sex linkage were performed using the program Powermarker (Liu & Muse 2005). To identify the male-specific allele(s), genotypes in all loci were also checked by eye.
+Genotyping
+Using the new loci BFG201 and BFG266 (Matsuba & Merila ̈ 2009) which were identified as sex-linked in the first screening step (see ‘Results’ section), and a previously found sex-linked locus RtSB03 (Berlin et al. 2000; Matsuba et al. 2008), the genotypes of a large number of adults (n = 103) and tadpoles (n = 569) were determined. PCRs were performed in total volume of 10 lL including 10 ng of DNA, 0.2 lM of each primer and 1 · Multiplex PCR solution (Qiagen), using conditions given in Matsuba & Merila ̈ (2009). PCR products were run on MegaBACE 1000 capillary sequencer (GE Healthcare Life Science), and genotyped using the program Fragment profiler (GE Healthcare Life Science) tracing by eye.
+Toe tissue was sampled in 1998–2000 in Kilpisja ̈rvi and full or partial genotype determined for a total of 103 adult frogs (55 females and 48 males). DNA was extracted from ethanol preserved tissues using salt extraction method (Aljanabi & Martines 1997). Tadpoles were sampled from May 24 to June 13, 2003, at Tulli pond (Alho et al. 2008) from 16 clutches and from two clutches in a puddle close to the pond. Fresh spawn clutches were taken from pond to laboratory and 60 embryos per clutch were separated and kept in laboratory for ca. 25 days before preserved into ethanol. DNA of 32 tadpoles from each clutch was prepared from piece of tail fin using the method of Ivanova et al. (2006). Genotyping of 569 tadpoles was successfully performed similarly to the adult frogs.
+Bayesian model
+We constructed a Bayesian hierarchical model (Gelman et al. 2003) for the marker and phenotypic sex data to comprehensively analyze the sex-specificity of alleles
+and to simultaneously estimate the frequency of sex reversals in the adults and predict the genotypic and phenotypic sex ratios of the clutches. Both adult and clutch data were utilized in the model. We obtained estimates for the parameters of interest from the joint posterior distribution with MCMC simulation (Gelman et al. 2003) using OpenBUGS version 3.0.3 (Thomas et al. 2006). Formal description of the model is in the Appendix S1 in the Supporting Information and here we only outline the model assumptions.
+We assumed that sex was determined chromosomally by male heterogamety (XX ⁄ XY system) with a possibility for sex reversal during development, and that the allele frequencies of the three loci would differ between X and Y chromosomes. There was a possibility for recombination between X and Y chromosomes during the meiosis in the male parent, and null alleles could be present. We knew that at least the female parent was the same for the tadpoles from the same clutch, but we ignored this family structure in the tadpole data. This was done because similar data were not available for the adults and otherwise the model would have had to be extended to take into account thepossibilityofmultiplepaternities(Laurila&Seppa ̈ 1998), increasing its complexity considerably. The simplification created pseudo-replication for estimation of sex chromosome-specific allele frequencies, but its effects were quantitative, not qualitative. It did not influence the results on sex reversal—this was confirmed by re-running the analysis with only the adult data, omitting the clutch data—or predicted sex ratios of the clutches. Although the possibility of multiple paternities was not incorporated to the model, the minimum number of fathers for each clutch was calculated based on the number of alleles present in the clutch.
+The model fit was tested using a posterior predictive check where we calculated the v2 discrepancy quantity (Gelman et al. 2003, p. 175) in terms of phenotypic sex and compared this quantity between the observed and replicated data to derive the Bayesian P value (Gelman et al. 2003, p. 162). A significant P value would have indicated lack of fit. Whereas both fully and partially genotyped individuals were included to the rest of the analysis, only individuals with fully known genotype data were used in the calculation of the test quantity. As an additional check for the model fit, we estimated the overall correlation between the observed and predicted phenotypic sexes among individuals with complete genotype data and known phenotypic sex. The estimation was included in the model and conducted as part of the MCMC simulation. The correlation was expected to be high under a reasonable model fit. In addition we tested the ability of the model
+Ó 2010 Blackwell Publishing Ltd
+SEX REVERSAL AND SEX RATIOS IN COMMON FROGS 1765
+
+1766 J. S. ALHO, C. MATSUBA and J. MERILA ̈ to estimate the parameters of interest by simulation (see
+Appendix S1, Supporting information).
+We ran three chains, each with 30 000 iterations, of
+which 10 000 initial iterations were discarded as burnin. The convergence and mixing of the chains were checked visually and with the Gelman–Ruby convergence statistic. The results are summarized by posterior means and 95% Bayesian confidence intervals (i.e. credible intervals; abbreviated as CI).
+Simulation of sex-ratio dynamics
+Although several recent theoretical treatises have studied the effect of masculinization and feminization on population sex-ratio dynamics in general (Kanaiwa & Harada 2002; Hurley et al. 2004; Cotton & Wedekind 2009), we wanted to see how the sex-ratio dynamics would play out in subsequent generations if there was a significant number of XX-males present in the population—as suggested by the results of the Bayesian analysis (see ‘Results’ section)—with overlapping generations and sex differences in maturation age. To this end, we applied a special case of the generic sex reversal model of Hurley et al. (2004) and extended it as follows.
+In the case of masculinization of genetic females, Hurley et al. (2004) defined the initial generation F0 to have a proportion f0 of genetic females (XX) and g0 of genetic males (XY). Then f0 + g0 = 1. They further defined a proportion pi of the genotypic females in the Fi generation to reverse sex into phenotypic males. Proportions at sexual maturity will then be (1 – pi)fi genetic females (XX), pifi phenotypic males with XX genotype and gi = 1 – fi XY-males. Assuming random mating, the proportions of genotypic sexes in the next generation i + 1 will be:
+Xamax fyþ1 1⁄4 ð
+a1⁄4amat
+2Qa;yþ
+Xamax a1⁄4amat
+Ya;yÞ=ð
+Xamax a1⁄4amat
+2Qa;yþ
+Xamax a1⁄4amat
+2Ya;yÞ ð3Þ
+ð4Þ
+fiþ1 1⁄4 ð2pifi þ giÞ=ð2pifi þ 2giÞ and
+giþ1 1⁄4 gi=ð2pifi þ 2giÞ 1⁄4 1 􏰁 fiþ1
+ð1Þ
+ð2Þ
+where amat is the maturation age of males and amax the maximum age in the population. The model assumes that XXand XY-males have the same maturation age, that there is no annual variation or sex differences in survival, and that the population size is infinite. These assumptions were justified because we wanted to limit our exploration specifically to the effect of sex reversal on sex-ratio dynamics.
+The annual observable phenotypic sex ratio was calculated as the proportion of mature XXand XY-males, and the genotypic sex ratio correspondingly as the proportion of mature XY-males, among all mature individuals.
+We simulated the phenotypic and genotypic sex ratios under various scenarios in statistical software R (version 2.8.0; R Development Core Team 2008). Based on a previous capture–recapture study (Alho et al. 2008), survival probability was set to 0.7 and maximum age to 20 years. The relative number of individuals in each age class in the first year was calculated based on the survival probability. Each simulation spanned 30 years. To illustrate the effect of masculinization of genotypic females in general, we ran a set of scenarios with a maturation age of 1 year for both sexes. To take into account the sex difference in the maturation age, we ran another set of scenarios with maturation ages of 3 and 6 years for males and females, respectively. The maturation ages were chosen so that they correspond to the ones observed in Kilpisja ̈rvi (Alho et al. 2008). Within both of these sets, we ran three scenarios with different probabilities for female sex reversal: (1) no sex-reversed genotypic females in the beginning and a constant sex reversal probability of 0.09 for hatching individuals after the first year; (2) sex reversal probability of 0.5 for individuals of all ages in the beginning and no sex reversal in subsequent years; and (3) sex reversal probability of 0.5 for individuals of all ages in the beginning and a constant sex reversal probability of 0.09 for hatching individuals in subsequent years. The annual phenotypic and genotypic sex ratios were calculated and plotted for each scenario.
+Results
+Screening of sex-linked markers
+Two of the 145 microsatellite markers (BFG 201, BFG266) showed a strong sex linkage by Armitage
+To allow for overlapping generations and sex-specific maturation ages, we first replaced the generation-specific proportions fi and gi by year-specific proportions fy and gy, where y is year. Then, we defined proportion of annually surviving individuals k. Relative numbers in the first age class in year y are then X1,y = (1 – py)fy genetic females (XX), Q1,y = pyfy XX-males, and Y1,y = gy = (1 – fy) XY-males. Relative numbers in the subsequent age classes a are Xa,y = Xa–1,y–1 for genetic females, Qa,y = Qa–1,y–1 for XX-males and Ya,y = Ya–1,y–1 for XY-males. The proportions of genotypic sexes in the first-age class in the next year y + 1 will then be:
+and
+giþ1 1⁄4 1 􏰁 fiþ1
+Ó 2010 Blackwell Publishing Ltd
+
+Table 1 Estimates and 95% Bayesian confidence intervals (CI) for probabilities of recombination of X and Y chromosome specific alleles and sex reversal probabilities
+for BFG201 failed, probably due to low quality of DNA and difficulty of PCR especially at the RtSB03 which has the longest PCR product (> 300 bps) of the three loci. Same male-specific alleles as in the first screening were detected at each loci (318 bps for RtSb03, 243 bps for BFG201 and 257 to 269 bps alleles for BFG266). In eight cases, samples showed homozygosity for a malespecific allele at one locus (1 case at RtSB03, 1 at BFG201, 6 at BFG266), likely due to null alleles at the loci. Four phenotypic females carried a male-specific allele at locus RtSB03, but the other two loci indicated female genotype. As shown later, RtSB03 had higher estimated probability of recombination (Table 1) and lower sex chromosome specificity (Fig. 1), suggesting that these genotypes were caused by recombination either in the male parent or in some ancestral generation.
+Thirty-one to thirty-two tadpoles per clutch (18 clutches, total number of tadpoles = 569) were successfully genotyped for the three sex-linked loci (Table 2). One additional allele was found for BFG266 (245 bp) in genotyping of the tadpoles.
+Bayesian model
+There was no evidence of lack of model fit: The Bayesian P value for v2 discrepancy test was 0.802 and the posterior mean for correlation between the observed and predicted phenotypic sexes was 0.906 (95% CI: 0.827–0.963). The ability of the model to estimate the parameters of interest was reasonable, although the estimates of recombination probabilities should be treated as suggestive (see Appendix S1, Supporting information).
+The allele frequencies differed between parental X and Y chromosomes (Fig. 1). There were no probable
+Locus
+RtSB03 BFG201 BFG266
+Trend test (BFG 201: P < 0.001; BFG266: P = 0.004) at the first screening. The results from heterozygosity excess tests differed among the loci. The BFG201 locus displayed typical characteristics of a two-allele locus residing on a sex chromosome: all females were homozygotic and all males heterozygotic (common allele 241 bp; male-specific allele 243 bp). Although the BFG 266 locus did not display significant heterozygosity excess, three common alleles (233, 237 and 241 bps) and four male-specific alleles (257, 261, 265 and 269 bps) were found in the initial screening. Hence, all males had one of the male-specific alleles and one of the common alleles between sexes, while all females carried only common alleles.
+Genotyping
+In the larger adult sample (N = 103), 79 individuals were successfully genotyped for all three loci. Genotyping of 24 individuals for RtSB03, 10 for BFG266 and 2
+Probability of recombination (95% CI)
+0.008 (0.000–0.030) 0.005 (0.000–0.018) 0.002 (0.000–0.006)
+Probability of sex reversal (95% CI) 0.09 (0.04–0.18)
+0.02 (0.00–0.08) Significant values in bold.
+SEX REVERSAL AND SEX RATIOS IN COMMON FROGS 1767
+    Female to male Male to female
+          X chromosome Y chromosome
+241 243 Null 233 237 241 245 257 261 265 269 Null 310 313 315 318 320 321 322 323 325 330 Null
+BFG201 BFG266 RtSB03
+Fig. 1 Sex-chromosome-specific allele frequencies for three loci (BFG201, BFG266, RtSB03). The frequencies are estimated from the adult and tadpole data based on the Bayesian model and MCMC simulation. The boxes represent posterior means and the black vertical lines 95% Bayesian confidence intervals.
+                                                                     Ó 2010 Blackwell Publishing Ltd
+Frequency
+0.0 0.2 0.4 0.6 0.8 1.0
+
+1768 J. S. ALHO, C. MATSUBA and J. MERILA ̈ Number of
+Minimum number of fathers
+XY XX
+0 1 1 0 1 0 0 1 1 0 1 0 1 0 1 0 3 0 1 0 0 1 1 0 1 0 1 0 1 1 1 1 1 1 1 0
+Table 2 The number of alleles in each of the three sex-linked markers and the minimum number of fathers for each clutch
+ Clutch Clutch number name
+1 T01
+2 T02.2
+3 T03.2
+4 T04.2
+5 T07.2
+6 T08
+7 T09
+8 T10
+9 T11
+10 T12
+11 T13
+12 T16
+13 T17
+14 T18
+15 T20
+16 T21
+17 T22
+18 T24
+Total
+alleles (male specific ⁄ total)
+N RtSB03 BFG201 BFG266 32 0⁄3 0⁄1 0⁄3
+32 1⁄3 1⁄2 1⁄3 32 1⁄4 1⁄2 1⁄2 32 1⁄4 0⁄1 0⁄3 32 1⁄4 1⁄2 1⁄4 31 1⁄4 1⁄2 1⁄3 32 1⁄4 1⁄2 1⁄4 32 1⁄4 1⁄2 1⁄3 31 1⁄5 1⁄2 3⁄5 31 1⁄3 1⁄2 1⁄3 31 1⁄4 0⁄1 0⁄3 32 1⁄4 1⁄2 1⁄4 31 1⁄3 1⁄2 1⁄3 32 1⁄4 1⁄2 1⁄3 31 1⁄5 1⁄2 1⁄3 31 1⁄5 1⁄2 1⁄3 32 1⁄5 1⁄2 1⁄3 32 1⁄3 1⁄2 1⁄2
+569
+     Both Y chromosome specific and total number of alleles is given. The minimum numbers of XY and XX-fathers are calculated from the number of alleles. N = number of tadpoles genotyped.
+recombination events in the parental generation, the highest probability for an individual, locus, and allelespecific recombination event being 0.07. Posterior means for locus-specific recombination probabilities are given in Table 1. The probability of a genetic male sex-reversing into a phenotypic female was very low, having a posterior mean of 0.02 (95% CI: 0.00–0.08; Table 1). However, the probability of a masculinized female was significant, having a posterior mean of 0.09 (95% CI: 0.04–0.18; Table 1).
+The overall predicted genotypic (or primary) sex ratio of all tadpoles from the clutches, expressed as proportion of males, was 0.34 (95% CI: 0.34–0.35), and the overall predicted phenotypic sex ratio was 0.40 (95% CI: 0.35–0.46). The clutch-specific predicted genotypic sex ratios are given in Fig. 2. There were three clutches that either probably or possibly consistent only of genetic females, and three others where the predicted genotypic sex ratio suggested multiple paternities with at least one XX-male (Fig. 2). The minimum number of fathers for each clutch based on the number of alleles occurring in the offspring is given in Table 2.
+Sex reversed individuals
+There were five individuals for which the phenotypic sex did not match that predicted by the model based on
+the genotype, all of them XX-males (Table 3). Of these, two were observed multiple times during 1999–2003 and consistently identified as phenotypic males: individual 9004 was observed two times in 1999, three times in 2000, and once in 2001 and 2002, and individual 9140 in 1999 and 2003. There were no XY-females.
+Sex-ratio dynamics
+Based on the simulation approach, given the adult survival rate and difference in maturation age between the sexes, we should observe a strong male-bias in our study populations, all else being equal (Fig. 3). Masculinization of females had only a modest and transient effect on adult phenotypic sex-ratio in the simulation, and it did not qualitatively change the expected patterns (Fig. 3).
+Discussion
+Amphibians provide good models for research on sex reversal. All amphibians that have been investigated in detail have an underlying genetic sex determination system, either a male heterogamety (XX⁄XY) or female heterogamety (ZZ ⁄ ZW), although directly observable sex chromosomal differences are often small or completely absent (Wallace et al. 1999). However, extreme
+Ó 2010 Blackwell Publishing Ltd
+
+SEX REVERSAL AND SEX RATIOS IN COMMON FROGS 1769
+     18       18 17   17 16   16 15   15 14   14 13       13 12   12 11   11 10   10
+99 88 77 66 55 44 33 22 11
+                                         AlI
+All
+      0.0 0.1 0.2 0.3 0.4
+Genotypic sex ratio
+0.5
+0.6
+0.0
+0.5 1.0
+Probability
+Fig. 2 Predicted genotypic (i.e. primary) sex ratios for tadpoles from the sampled clutches. In the left panel, the circles mark the posterior means and the horizontal bars 95% Bayesian confidence intervals. In the right panel, the circles connected by lines show the probability that the predicted number of genotypic males is larger than or equal to that expected under an even sex ratio, and the black circles mark a nonzero probability that the clutch does not have a single genotypic male and this did not occur by chance under an even sex ratio. The latter can be interpreted as the probability that the father(s) of the clutch was (were) genotypic female(s) which had sex-reversed. Note that the genotypic sex-ratio estimates and probability intervals are for predicted sex ratios of the genotyped tadpoles, not for overall sex ratios in the clutches.
+                                                              environmental conditions are also known to perturb genetic sex determination in some species (reviewed in Wallace et al. 1999; Nakamura 2009), making environmental sex reversal and its study possible. Here, we studied sex reversal in the common frog utilizing sex-linked microsatellite markers.
+In a previous study, one microsatellite locus (RtSB03) had a high frequency of a male-specific allele in Kilpisja ̈rvi common frogs, but occasionally this allele was present also in females (Matsuba et al. 2008). At the time, it could not be concluded whether the exceptional genotypes in RtSB03 resulted from sex reversals or from recombination (Matsuba et al. 2008). In this study, we found two additional microsatellite loci that were strongly sex-linked. Apart from providing useful tools for sex identification, the three markers together with our Bayesian data analysis approach shed light on sex reversals in the common frog. The results suggest that a significant proportion of adults that were genetically female expressed the male phenotype, indicating
+that sex reversals have been frequent in our study population. Furthermore, the primary sex ratios, as predicted by our Bayesian analysis based on the genotype data from tadpoles, were strongly female-biased consistent with the presence of XX-males in the parental generation. We did not, however, find evidence of XY-females, which were recently hypothesized to allow recombination between X and Y chromosomes and thus prevent the evolutionary decay caused by the progressive accumulation of deleterious alleles in Y chromosome (Perrin 2009).
+Sex reversals were suggested by the fact that the novel sex-linked markers identified in this study showed some significant exceptions to patterns expected under sex-linked inheritance in XX ⁄ XY system. Specifically, we found that five phenotypic males lacked Y-chromosome specific alleles in all genotyped loci, suggesting either null alleles, recombination, or sex-reversal. Null alleles are unlikely to explain these observations since three of the five individuals were
+ ID Phenotypic sex
+PXX BFG201 BFG266 RtSB03
+Table 3 Individuals for which the phenotypic sex did not match that predicted based on the genotype and which thus appeared to have sex reversed
+ JM626 Male
+JM631 Male
+JM632 Male
+9004 Male 9140 Male
+ID is individual BFG201, BFG266
+1.000 241 0.997 241 1.000 241 0.854 241 1.000 241
+241 237 241 237 241 237 241 NA 241 233
+237 310 323 237 NA NA 241 310 323 NA NA NA 237 320 323
+ Ó 2010 Blackwell Publishing Ltd
+identification number, PXX probability of being genotypically XX, and and RtSB03 genotypes for respective loci. NA indicates missing data.
+Clutch
+
+ 1770 J. S. ALHO, C. MATSUBA and J. MERILA ̈
+(a)
+r1 = 0
+rc = 0.09
+Phenotypic Genotypic
+(b) (c)
+r1 = 0.5 r1 = 0.5 rc = 0 rc = 0.09
+1 11 21 31 1 11 21 31
+Year Year (e) (f)
+r1 = 0.5 r1 = 0.5 rc = 0 rc = 0.09
+1 11 21 31 1 11 21 31
+Year Year
+1 11 21 31
+(d)
+r1 = 0
+rc = 0.09
+Year
+0.0
+0.5 1.0
+0.0 0.5 1.0
+0.0
+0.5 1.0
+0.0 0.5 1.0
+0.0
+0.5 1.0
+0.0 0.5 1.0
+Sex ratio
+Sex ratio
+Sex ratio
+Sex ratio
+Sex ratio
+Sex ratio
+1 11 21 31
+Year
+Fig. 3 Expected phenotypic and genotypic sex ratios of adults under a simple deterministic model. The sex ratios are expressed as proportion of males. The model spans 30 years and features a population in which part of the genetic females sex reverse into phenotypic males. The dotted horizontal lines indicate equal sex ratio (0.5) and the female-biased sex ratio observed in the field (0.3). (a–c) The maturation age is 1 year for both sexes. (d–f) Males mature at age three and females at age six. r1 is the probability of sex reversal in the first year and rc after the first year. See text for details of the model.
+heterozygous for one or two loci. Any recombination between Xand Y-chromosomes on the other hand would, in the absence of sex reversal, occur during meiosis at the male germ line and mismatches between phenotypic and genotypic sexes in the offspring generation would presumably be observed at the same frequency in both sexes under equal mortality. However, in Kilpisja ̈rvi adult frogs, discrepancy was found exclusively in five out of a total of 48 phenotypic males and not in any of the 55 phenotypic females. The final alternative is that the mismatches between phenotypic and genotypic sex were caused by sex reversal. The Bayesian hierarchical modelling approach we employed allowed us to estimate the probability of sex reversal while simultaneously taking into account the possibility of null alleles and recombination. The results show that there indeed was a significant proportion of sex-reversed XX-males, but no XY-females in the study population.
+While sex determination system in Rana temporaria is poorly known, it has been shown that environmental factors, such as temperature or hormonally active compounds, can induce sex reversal during early developmental stage (Bo ̈gi et al. 2003; Brande-Lavridsen et al. 2008). It is unknown what could drive the masculinization of females in Kilpisja ̈ rvi, but unusually high
+temperatures during development or endocrine disruptive compounds provide some possible explanations. With regard to the temperature effects, the possible role of global climate change is intriguing. However, it is noteworthy that already eight decades ago Witschi (1929a) appears to have found a relatively high number (corresponding to 6%) of hermaphrodites showing signs of sex reversal from female to male among 50 phenotypic females he examined. This suggests that sex reversal might be a fairly common phenomenon in this species and that its causes could predate any novel environmental influences, human-induced or otherwise. Unfortunately, there is currently no sex-ratio and sex reversal data comparable to ours from more temperate regions. Further studies providing results from more southern populations with different population dynamics and life histories would be illuminating.
+Mating of XX-males with XX-females necessarily results in all-female clutches if reproduction is possible in the first place. It is known that breeding of XX-male and XX-female produces 75–100% phenotypically female offspring in Rana japonica, with the rest of tadpoles becoming XX-males (Miura 1994). Although masculinization of genotypic females and all-female clutches they produce might thus intuitively appear to explain the observed female-biased phenotypic sex
+Ó 2010 Blackwell Publishing Ltd
+
+ratios in Kilpisja ̈rvi populations (Alho et al. 2008), our results show that this explanation is unlikely. Previous, theoretical studies have found that if masculinization of genetic females occurs, in the longer term the phenotypic sex ratio at equilibrium is an equal number of males and females if the probability to reverse sex is constant and does not exceed one-half (Kanaiwa & Harada 2002; Hurley et al. 2004; Cotton & Wedekind 2009). If the probability of sex reversal is higher than that, the Y chromosome and genotypic males (XY) will go extinct. When we applied the model of Hurley et al. (2004), which was originally intended for environmental sex reversal in fish, to our case and extended it to take into account overlapping generations, we found that the female-bias was modest and transient at best (Fig. 3a–c). Furthermore, the age of maturation in Kilpisja ̈rvi is 3–5 years for males and 6–8 years for females (Alho et al. 2008). When we took into account the difference between the sexes, we ended up expecting a strong male-bias, a totally opposite pattern to that observed in the field (Fig. 3d–f). Currently, we cannot explain this discrepancy, although more complex sex reversal dynamics, sex-ratio distorters, or population ecological factors, such as different juvenile mortality, might provide an explanation.
+Although sex reversal seems to be an inadequate explanation for the observed adult sex ratios in the long term, in the short-term it explains the highly femalebiased primary sex ratios in our study very well. The predicted proportion of males in genotyped tadpoles was 0.34. The female-bias is an intriguing contrast to the strongly male-biased phenotypic sex ratios found in a previous study of metamorphosed frogs in Kilpisja ̈rvi (Matsuba et al. 2008), although in the earlier study only eight clutches, and from different ponds, were sampled. The female-bias in our current study was caused by six clutches, three of them having a predicted primary sex ratio that did not significantly differ from zero and three others having a primary sex ratio 0.21–0.28 (Fig. 2). This suggests that there were XX-males that bred and produced all-female offspring, in three cases as part of clutches with multiple paternities known to occur in this species (Table 2; Laurila & Seppa ̈ 1998). The finding of female-bias in primary sex ratio is very robust to any errors in determination of phenotypic sex of adults, since although these could asymmetrically lead to a decrease in sex chromosome specificity of alleles they cannot cause an increase.
+It seems that XX-males might have been represented with a higher frequency in the parents of the genotyped tadpoles than in the sampled adults from which the probability of XX-males was inferred. This could indicate differences in reproductive success or, more likely, result from the small sample size and limited temporal
+scope of the study. Should the sex reversal rate for any reason rise above 0.5, this would start the process that would lead to the extinction of the Y chromosome and to an environmental sex determination (Kanaiwa & Harada 2002; Hurley et al. 2004; Cotton & Wedekind 2009). According to the theory, the whole population could go extinct if the pressure to masculinize would drop afterwards.
+The two new sex-linked markers discovered in this study and the previously found locus provide the necessary tools to investigate ecological and evolutionary questions related to genetic sex in our study populations and potentially in other populations as well. However, there are indications of geographical intraspecific variation in gonadal differentiation in the common frog in central Europe, and it seems to be linked to differences in the Y chromosome (Witschi 1929a; b). Without further studies in other parts of the species’ distribution range we hence cannot guarantee that there would not be geographical variation also in the sex chromosome specificity of alleles and thus in the applicability of the markers. Indeed, there are some preliminary indications for this kind of variation. RtSB03 for example does not seem to be sex-linked in the southern Scandinavian populations (Matsuba et al. 2008).
+Perrin (2009) recently suggested that occasional sex reversals of genetic males in ectotherms could allow recombination of X and Y chromosomes and thus prevent the progressive accumulation of deleterious mutations in the Y chromosome. Under this hypothesis, sex reversal would have a crucial role in maintaining the long-term viability of the Y chromosomes. Perrin (2009) illustrated his hypothesis with R. temporaria data from Matsuba et al. (2008). Our results suggest that both the sex reversal of genetic males and recombination of X and Y chromosomes could be rare in this species. We did not observe any XY-females in this study, and the sex chromosome-specific allele frequencies (Fig. 1) seem to indicate that recombination events have been infrequent. However, temporal and population differences are possible. Furthermore, Perrin’s hypothesis does not require that the recombination of X and Y chromosomes is common, just that it occasionally occurs. In this respect, it is interesting to note the geographical differences in the Y chromosome reported by Witschi (1929a,b)—if sex reversal acts as a ‘fountain of youth’ for sex chromosomes and creates sporadic bursts of new Y-haplotypes as suggested by Perrin (2009), this kind of geographical variation could be expected.
+Acknowledgements
+We thank Nicolas Perrin and Bob O’Hara for discussions and comments on the manuscript, Menghua Li for discussions,
+Ó 2010 Blackwell Publishing Ltd
+SEX REVERSAL AND SEX RATIOS IN COMMON FROGS 1771
+
+(Rana temporaria, L.). A contribution to the problem of the evolution of sex. Journal of Experimental Zoology, 56, 149–165.
+The authors have long-standing interest in ecology, genetics and population biology of the common frogs of Northern Europe. The study was born as part of Jussi Alho’s PhD thesis work and Chikako Matsuba’s post-doctoral work at the University of Helsinki under supervision of Juha Merila ̈.
+Supporting Information
+Additional supporting information may be found in the online version of this article.
+Appendix S1 Bayesian model and its validation
+Please note: Wiley-Blackwell are not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+SEX REVERSAL AND SEX RATIOS IN COMMON FROGS 1773
+  Ó 2010 Blackwell Publishing Ltd

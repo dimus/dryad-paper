@@ -1,0 +1,224 @@
+   Molecular Ecology (2011) 20, 4695–4706 doi: 10.1111/j.1365-294X.2011.05319.x
+Drift and selection influence geographic variation at immune loci of prairie-chickens
+JENNIFER L. BOLLMER,* ELIZABETH A. RUDER,* JEFF A. JOHNSON,† JOHN A. EIMES* and PETER O. DUNN*
+*Department of Biological Sciences, University of Wisconsin-Milwaukee, P.O. Box 413, Milwaukee, WI 53201, †Department of Biological Sciences, Institute of Applied Sciences, University of North Texas, 1155 Union Circle, #310559, Denton, TX 76203, USA
+Abstract
+Previous studies of immunity in wild populations have focused primarily on genes of the major histocompatibility complex (MHC); however, studies of model species have identified additional immune-related genes that also affect fitness. In this study, we sequenced five non-MHC immune genes in six greater prairie-chicken (Tympanuchus cupido) populations that have experienced varying degrees of genetic drift as a consequence of population bottlenecks and fragmentation. We compared patterns of geographic variation at the immune genes with six neutral microsatellite markers to investigate the relative effects of selection and genetic drift. Global FST outlier tests identified positive selection on just one of five immune genes (IAP-1) in one population. In contrast, at other immune genes, standardized G¢ST values were lower than those at microsatellites for a majority of pairwise population comparisons, consistent with balancing selection or with species-wide positive or purifying selection resulting in similar haplotype frequencies across populations. The effects of genetic drift were also evident as summary statistics (e.g., Tajima’s D) did not differ from neutrality for the majority of cases, and immune gene diversity (number of haplotypes per gene) was correlated positively with population size. In summary, we found that both genetic drift and selection shaped variation at the five immune genes, and the strength and type of selection varied among genes. Our results caution that neutral forces, such as drift, can make it difficult to detect current selection on genes.
+Keywords: genetic drift, grouse, immunity, selection, single-nucleotide polymorphism, Tympanuchus cupido
+Received 11 May 2011; revision received 8 September 2011; accepted 15 September 2011
+Introduction
+Selection on hosts from parasites is expected to vary in time and space leading to geographic variation in allele frequencies at immune genes. Understanding the geographic patterns of variation at immune genes is important for identifying local adaptation (Dionne et al. 2007), as well as for making management decisions regarding threatened populations (Allendorf et al. 2010). The vertebrate immune system can be classified into innate and adaptive responses, with the innate
+Correspondence: J. Bollmer, Fax: 414-229-3926; E-mail: bollmer@uwm.edu
+response producing an immediate but generalized defence against pathogens and the adaptive response producing specialized cells that recognize and remember antigens from a particular parasite. Most studies of selection on vertebrate immune genes have focused on class I and II genes of the major histocompatibility complex (MHC), which are involved in the adaptive immune response (Piertney & Oliver 2006). In some cases, MHC genes exhibited less differentiation across populations than neutral markers, consistent with balancing selection acting to maintain variation across populations (Sommer 2003; Fraser et al. 2010). In other studies, MHC differentiation was greater than neutral, presumably due to selection favouring different alleles
+Ó 2011 Blackwell Publishing Ltd
+
+4696 J. L. BOLLMER ET AL.
+between populations (Ekblom et al. 2007; Cammen et al. 2011). Lastly, a number of studies have also shown that MHC population structure did not differ from that of neutral genes, suggesting that the MHC was influenced more by drift and migration than selection (Landry & Bernatchez 2001; Miller et al. 2010).
+Less is known about the roles of selection and neutral processes on non-MHC immune genes, even though they may be responsible for more of the genetic variation in disease resistance than the MHC (Jepson et al. 1997; Hill 1998). One of the better-studied groups of non-MHC genes is the toll-like receptors (TLRs), which are part of the innate immune response. TLR genes recognize conserved pathogen structures and initiate a signalling cascade leading to the production of cytokines that amplify and regulate the inflammatory response. Recent studies of humans (Barreiro et al. 2009), chickens (Gallus gallus; Downing et al. 2010) and other birds (Alcaide & Edwards 2011) have found evidence of purifying selection on some TLR genes, but there is also evidence of positive selection, which increases the frequencies of new, advantageous mutations (Nielsen 2005). It has been suggested that this variation in selection relates to the role and location of particular TLR genes, with stronger purifying selection acting against new mutations in intracellular TLRs that target conserved viral nucleic acids and weaker selection on cell-surface TLRs that recognize a wider variety of pathogens (Barreiro et al. 2009). At interleukin receptors, which are cytokines involved in cell signalling and part of both the innate and adaptive immune response, balancing selection appears to predominate in chickens (Downing et al. 2010). Thus, there is evidence for positive, purifying and balancing selection on immunity genes, and there is no clear pattern yet, even in model species. A few studies have examined nonMHC immune genes in wild vertebrate populations (e.g., Jensen et al. 2008; Tonteri et al. 2010; Tschirren et al. 2011), and in many cases studies have focused on selection across species using summary statistics [e.g., Tajima’s D (Tajima 1989)], rather than geographic variation in selection pressure within species, as in many of the MHC studies cited above.
+In this study, we took advantage of markers developed for domestic chicken to explore patterns of variation at non-MHC immune genes in populations of the greater prairie-chicken (Tympanuchus cupido pinnatus), including the endangered Attwater’s prairie-chicken (T. c. attwateri), a subspecies in Texas. Prairie-chickens were once abundant on grasslands throughout midwestern North America, but loss of habitat has resulted in fragmented and bottlenecked populations that differ
+in the degree of recent population decline (Fig. 1; Johnsgard 2002; Johnson et al. 2011). These populations show a positive relationship between population size and genetic variation at neutral markers (Johnson et al. 2003) and a strong pattern of differentiation between some populations because of genetic drift following population declines in the last century (Bellinger et al. 2003; Johnson et al. 2003, 2004). Furthermore, we recently found that MHC class IIB variation dropped after a bottleneck in Wisconsin, indicating that the effect of genetic drift overwhelmed any selection acting to maintain variability at these genes (Eimes et al. 2011).
+In this study, we examined five non-MHC immune genes to determine whether drift has also overwhelmed selection at these functional genes. We chose these immunity genes because they are associated with health and fitness in domestic chickens; polymorphisms at these genes are associated with differences in bacterial load (Malek & Lamont 2003; Liu & Lamont 2003), antibody response (Zhou & Lamont 2003) and general mortality and growth (Ye et al. 2006). The five immune genes were chicken B-cell marker 6 (ChB6), inhibitor of apoptosis protein-1 (IAP-1), interleukin-2 (IL-2), transforming growth factor b3 (TGFb3) and tumour necrosis factor-related apoptosisinducing ligand-like protein (TRAIL-like). As part of
+                                                                       Fig. 1 Historic (dashed line) and contemporary distribution of greater (GPC) and Attwater’s (APC) prairie-chicken. Our Texas samples are from the APC population. KS, Kansas; MN, Minnesota; MO, Missouri; NE, Nebraska; WI, Wisconsin.
+Ó 2011 Blackwell Publishing Ltd
+
+the adaptive immune system, ChB6 codes for a receptor that is expressed on B lymphocytes and, when bound, initiates the apoptosis of self-reactive B cells, thus preventing autoimmune disease (Tregaskes et al. 1996; Pifer et al. 2002). IAP-1 suppresses cell death and may play an important role in innate and adaptive immunity to intracellular bacteria (Prakash et al. 2009). As part of the innate and adaptive immune response, IL-2 stimulates the proliferation of T cells and natural killer cells among others (Gaffen & Liu 2004). Also part of the innate and adaptive immune response, TGF-b genes encode signalling molecules with a number functions, including regulating the proliferation and activation of leucocytes (Letterio & Roberts 1998). The function of the TRAIL-like protein is largely unstudied. The related TRAIL gene is expressed on both innate and adaptive immune system cells, and its functions include the clearance of tumours and some viral infections (Falschlehner et al. 2009). Both are members of the tumour necrosis factor superfamily of genes, which participate in cell-signalling pathways concerning inflammation and apoptosis, among others (Bodmer et al. 2002; Chang et al. 2006). To our knowledge, these five immune genes have not been previously studied in any wild population of vertebrates.
+We analysed sequence data from a subset of previously sampled birds in six prairie-chicken populations that vary in size from 176 to >170 000 birds. Prairiechicken populations have varying demographic histories and span a large geographic range, so they have likely experienced different selective pressures. In prairie-chickens, a pattern of stronger population differentiation at immune genes, compared to neutral microsatellites, could be attributed to positive selection if different alleles at immune genes are locally advantageous. On the other hand, a pattern of weaker population differentiation at immune genes compared to microsatellites could be attributed to three types of selection: balancing, positive or purifying. In MHC studies, lower population differentiation is often attributed to a higher effective migration rate, because new MHC alleles that enter a population are more likely to be favoured than neutral alleles (Schierup et al. 2000; Bamshad & Wooding 2003). However, low FST values could also be caused by positive or purifying selection for a common allele across populations. Lastly, if neutral forces such as drift or migration overwhelm the effects of selection, then we expect a positive relationship between immune gene diversity and population size, similar to neutral markers, and similar patterns of population differentiation for immune genes and microsatellites (e.g., Miller et al. 2010; Radwan et al. 2010). We also analysed our sequence data with summary sta-
+DRIFT AND SELECTION ON IMMUNE LOCI 4697 tistics, such as Tajima’s D, to test for evidence of long-
+term selection.
+Materials and methods
+Laboratory methods
+A total of 247 adult prairie-chickens from six populations were used in this study. The six populations consisted of Kansas (N = 42), Minnesota (N = 37), Missouri (N = 32), Nebraska (N = 44), Texas (Attwater’s subspecies; N = 39) and Wisconsin (Buena Vista subpopulation; N = 53; Fig. 1). We used DNA previously extracted from blood and feather samples following procedures described in Johnson et al. (2003) and Bellinger et al. (2003). Except for the samples from Texas, these individuals were previously analysed using microsatellite and mtDNA markers by Johnson et al. (2003). The Texas samples were collected during 1990– 1994 (N = 19; Johnson et al. 2007), when the population dropped below 1000 (Morrow et al. 2004), and 2006 (N = 20) using samples from the captive population initiated in the early 1990s. The 2006 samples consisted of a subset of individuals that were not first-order relatives (i.e., parent ⁄ offspring and full-sibs) determined by a pedigree analysis.
+Sequences from the five immune genes were amplified using previously published primer sets (Table 1). For ChB6, the exon sequenced encodes the extracellular region of the molecule, and for IAP-1 the exon sequenced primarily encodes the BIR motif essential for gene function. We primarily sequenced promoter (controlling gene expression) from IL-2, and the TGF-b3 exon sequenced encodes a portion of the propeptide that is cleaved off of the mature peptide. The function of the exon sequenced from the TRAIL-like gene is not clear. All genes were amplified in 20 lL polymerase chain reactions (PCRs): 0.5· buffer, 0.2 mM each dNTP, 1.5 mM MgCl2, 0.5 lM each primer and 1 U GoTaq Flexi DNA polymerase (Promega, Madison, WI). Reaction conditions were as follows: 94°C for 5min; then 35 cycles of 94°C for 50s, annealing temperature (Table 1) for 50 s, 72 °C for 1 min; and a final extension of 72 °C for 10 min. Using the same primers, we sequenced the PCR products at the University of Chicago Cancer Research Center DNA Sequencing Facility or the University North Texas, in both forward and reverse directions.
+All the individuals were previously genotyped at six microsatellite loci (Johnson et al. 2003): ADL44, ADL146, ADL230, LLST1, LLSD4 and LLSD9. All of the individuals (except Texas) were a subset of the individuals used in Johnson et al. (2003), which describes the methods used for screening the loci. Texas individuals were genotyped using identical protocols.
+Ó 2011 Blackwell Publishing Ltd
+
+4698 J. L. BOLLMER ET AL.
+Table 1 Amplification information and polymorphism of the five immune genes screened
+  Annealing temperature (primer source)
+Fragment region
+No. of SNPs ⁄ variable sites
+Total
+Exon (NS)
+Exon (S)
+Intron or promoter
+No. of SNP haplotypes
+ChB6
+56 °C
+(Zhou & Lamont 2003)
+Exon 3 3⁄4
+2⁄2 (114 bp) 1⁄2
+6
+IAP-1
+61 °C
+(Zhou & Lamont 2003)
+Exon 2 3⁄5
+1⁄2 (323 bp) 2⁄3
+4
+IL-2 54 °C
+(Zhou et al. 2001) Promoter, exon 1
+2⁄7
+0⁄0 (71 bp) 0⁄0
+2⁄7 (412 bp) 3
+TGF-b3 56 °C
+(Ye et al. 2006) Intron 4, exon 5
+5⁄10
+1⁄1 (55 bp) 0⁄1
+4⁄8 (685 bp) 7
+TRAIL-like
+54 °C
+(Malek & Lamont 2003)
+Exon 1, intron 1 9⁄21
+1⁄1 (103 bp) 0⁄0 8⁄20(555bp) 12
+ The number of polymorphic single-nucleotide polymorphisms (SNPs) (variable sites with minor allele frequencies >3% within a population) out of the total number of variable sites for exon [nonsynonymous (NS) and synonymous (S)], intron and promoter regions is given. The number of SNP haplotypes (haplotypes formed from the polymorphic SNPs) is also given. For each gene, fragment lengths of exons, promoter (IL-2) and introns (TGF-b3 and TRAIL-like) are given in parentheses.
+Sequence analysis
+Sequences from the five immune genes were assembled, edited, and aligned in the program Geneious 5.4 (Drummond et al. 2011). We phased sequences from each gene separately using the PHASE algorithm (Stephens & Donelly 2003) in DnaSP 5.0 (Librado & Rozas 2009). A burn-in of 1000 iterations followed by 1000 more iterations with a thinning interval of 10 was used, and haplotypes with probabilities <0.95 were discarded (N = 8). Standard sequence diversity measures were calculated in DnaSP, including number of mutations and segregating sites. We calculated the number of nonsynonymous substitutions per nonsynonymous site (KA) and the number of synonymous substitutions per synonymous site (KS) for coding regions in DnaSP and used their ratio (KA ⁄ KS) as a measure of selection. For this analysis, the exons from four of the genes were used (IL-2 was excluded as the exon sequence was monomorphic).
+Summary statistics
+Previous work on the domestic chicken (Downing et al. 2009a,b, 2010) has demonstrated selection at immune genes (TLRs and cytokines) using summary statistics such F* and D* (Fu & Li 1993) and D (Tajima 1989). We used these statistics to test for signatures of selection on the exon and promoter regions of the immune genes (introns were excluded). Tajima’s D, which compares the number of nucleotide differences between pairs of sequences and the number of polymorphic sites, was estimated in Arlequin 3.5 (Excoffier & Lischer 2010) with P values based on 1000 simulations. F* assesses the number of mutations appearing only once relative
+to the average number of differences between sequences, and D* assesses the number of mutations appearing only once relative to the total number of mutations; both of these statistics were estimated using DnaSP. For all three statistics, a positive value indicates balancing selection (or a population bottleneck) and a negative value indicates purifying or positive selection (or population expansion).
+Global FST outlier tests
+We also tested for selection on the immune genes by performing FST outlier tests, which identify loci that show higher or lower levels of population differentiation than neutral loci (Beaumont & Balding 2004). For these tests, we constructed single-nucleotide polymorphism (SNP) haplotypes to use as input data, treating them as alleles at each gene. We categorized variable sites as polymorphic SNPs if the minor allele occurred in at least 3% of the individuals sampled. This excluded rare haplotypes, the inclusion of which could have led to a potentially inflated type I error when comparing FST values. We then constructed SNP haplotypes for each gene separately using the phased data. SNP haplotypes were based on the entire region sequenced, including introns. Hardy–Weinberg exact tests were performed on microsatellite and immune loci (SNP haplotypes) within each population in Genepop 4.0 (Raymond & Rousset 1995). Also, linkage disequilibrium for each pair of loci within each population was assessed using the log likelihood ratio statistic in Genepop.
+For the global FST outlier tests, we used two different programs: FDIST2 (Beaumont & Nichols 1996) and Arlequin 3.5. First, we employed FDIST2 as implemented in
+Ó 2011 Blackwell Publishing Ltd
+
+Lositan v. 1 (Antao et al. 2008). Using coalescent simulations, this method identifies FST values that are outside the 95% and 99% confidence intervals estimated for the neutral distribution (based on microsatellites) for a given level of heterozygosity. We analysed each immune gene separately with the six microsatellite loci, as well as a final run of all eleven loci together, running 50 000 simulations assuming the infinite allele mutation model. Two coalescent approaches were implemented in Arlequin: one that is similar to FDIST2 (finite island model), and one that extends FDIST2 to account for hierarchical population structure that may result in false positives (Excoffier et al. 2009). For the hierarchical analysis, we classified the six populations into four groups based on the results from the genetic distance analyses (see below): Wisconsin, Texas, Missouri and the remaining three populations. We included all eleven loci in the analyses and performed 5000 simulations.
+Pairwise population differentiation
+To assess the degree of pairwise population differentiation at immune genes compared to neutral loci, we calculated a standardized measure of differentiation (Hedrick 2005) to control for differences in heterozygosity between the marker types using the program Genodive 2.0 (Meirmans 2006). Genodive calculates the maximum FST values possible given the within-population variation and then calculates a standardized differentiation measure (G¢ST) by dividing the original FST values by the maximum FST values. For the immune genes, the SNP haplotypes were again treated as alleles. An analysis of isolation by distance was performed using Mantel tests in IBDWS 3.16 (Jensen et al. 2005). We also calculated conventional pairwise FST values (Weir & Cockerham 1984) in FSTAT 2.9.3 (Goudet 2001) and performed Fisher’s exact tests for genotypic differentiation in Genepop. To further investigate genetic structuring, we constructed unrooted neighbour-joining trees based on Cavalli-Sforza & Edwards (1967) distances using PHYLIP 3.69 (Felsenstein 2009) and visualized them in TreeView 1.6.6 (Page 1996). All other statistical analyses were performed in JMP 5.0.1 (SAS Institute, Inc.).
+Results
+Each gene had between four and 21 variable sites, with a total of 47 variable sites across the five immune genes (Table 1). We classified a subset of those sites (N = 22) as polymorphic SNPs, while the remaining variants had minor alleles that were present in <3% of individuals within a population. Each gene had between two and nine SNPs (Table 1). For each of the five genes, we con-
+structed haplotypes from the phased SNPs, resulting in three to twelve haplotypes per gene (Table 1). Twelve SNPs were in introns, two were in a promoter (IL-2), five were nonsynonymous and three were synonymous. All of the SNPs and haplotypes were present in two or more populations except for a single intron SNP (and its corresponding haplotype) in TGF-b3, which was present only in Wisconsin.
+In the 247 prairie-chickens, the microsatellite loci ADL44, ADL146, ADL230, LLST1, LLSD4 and LLSD9 had 10, 10, 11, 8, 26 and 12 alleles, respectively. All of the microsatellite and immune (SNP haplotypes) loci were in Hardy–Weinberg equilibrium within each population except for two comparisons with P-values below the adjusted critical value of 0.0008: TGF-b3 in Minnesota and ChB6 in Texas (P < 0.0001, with homozygote excess for both). Pairwise tests for linkage disequilibrium found no evidence for linkage between any of the microsatellite or immune loci within any population (all P > 0.002; adjusted P < 0.001).
+Selection on sequences
+Immune gene sequences showed evidence of selection, as nonsynonymous substitutions (KA) were significantly greater than synonymous substitutions (KS) when paired by gene and population (paired sample t-test t = 3.89, d.f. = 23, P < 0.001; Table 2). Individually, each gene followed this pattern except for IAP-1, which had a KA greater than KS in only one population (Wisconsin; Table S1, Supporting information). We found no evidence that either KA (Kruskal–Wallis test H = 0.713, d.f.=5, P=0.982) or KS (H=0.665, d.f.=5, P=0.985) differed among populations. The summary statistics D, D* and F* showed no evidence of departure from neutrality except at IAP-1 (Table S2, Supporting information). All three tests were significant and negative at IAP-1 in Nebraska, indicating purifying or positive selection.
+Genetic diversity and population size
+Consistent with the effects of genetic drift, smaller populations had lower diversity at the immune genes and microsatellites (Fig. 2). At the immune genes, smaller populations had fewer haplotypes per locus (Fig. 2; r2 = 0.73, F1,4 = 11.0, P = 0.029) and fewer segregating sites (r2 = 0.96, F1,4 = 88.9, P = 0.0007) in regressions on log-transformed population size weighted by sample size (data in Table 2). Similarly, microsatellite variation as measured by mean number of alleles per locus was lower in smaller populations (Fig. 2; r2 = 0.78, F1,4 = 14.5, P = 0.019; Table 2). Although genetic variation decreased with smaller
+Ó 2011 Blackwell Publishing Ltd
+DRIFT AND SELECTION ON IMMUNE LOCI 4699
+
+4700 J. L. BOLLMER ET AL.
+Table 2 Summary of within-population genetic diversity across the five immune genes and six microsatellite loci
+ Gene region(s)
+N
+Population size All regions
+S
+Exon only (IL-2 excluded) KA
+KS
+KA ⁄ KS Nonsynonymous SNPs Synonymous SNPs
+WI
+53 794
+19
+0.0061 ± 0.0022 0.0016 ± 0.0015 3.81
+5
+NE
+44
+131 484
+30
+0.0062 ± 0.0028 0.0030 ± 0.0027 2.07
+5
+3
+10
+26
+5.2 ± 1.5 0.515 ± 0.103
+10.2 ± 2.4 0.692 ± 0.082 0.733 ± 0.079
+MN
+37 1868
+23
+0.0058 ± 0.0023 0.0011 ± 0.0007 5.27
+5
+2
+9
+24
+4.8 ± 1.1 0.590 ± 0.061
+9.0 ± 2.1 0.696 ± 0.060 0.728 ± 0.061
+MO
+32 1000
+22
+0.0054 ± 0.0022 0.0030 ± 0.0018 1.80
+5
+3
+7
+25
+5.0 ± 0.8 0.542 ± 0.068
+8.8 ± 1.7 0.724 ± 0.084 0.711 ± 0.086
+KS
+42
+178 000
+34
+0.0057 ± 0.0029 0.0037 ± 0.0029 1.54
+5
+3
+10
+27
+5.4 ± 1.4 0.527 ± 0.077
+10.3 ± 2.2 0.739 ± 0.072 0.753 ± 0.064
+TX
+39 176
+17
+0.0044 ± 0.0027 0.0023 ± 0.0023 1.91
+4
+1
+8
+19
+3.8 ± 1.1 0.395 ± 0.131
+6.3 ± 1.1 0.645 ± 0.047 0.719 ± 0.049
+ 2
+Intron only (TGF-b3 and TRAIL-like only)
+IntronSNPs 5 SNP haplotypes using all regions
+Total no. of haplotypes Mean haplotypes ⁄ gene Haplotype diversity
+Microsatellites Alleles ⁄ locus Ho
+He
+20 4.0 ± 0.536
+6.5 ± 0.560 0.557
+0.4
+± 0.057
+1.4
+± 0.130 ± 0.123
+ For the genetic statistics, data from all five immune genes are included except where noted. The following statistics are given: the number of individuals genotyped (N), estimated population size (Svedarsky et al. 2000), total number of segregating sites (S) across all immune genes, mean (±SE) nonsynonymous substitutions per nonsynonymous site (KA) and synonymous substitutions per synonymous site (KS), measure of diversifying selection (KA ⁄ KS), number of polymorphic single-nucleotide polymorphisms (SNPs) that are nonsynonymous or synonymous, total number of SNP haplotypes, mean number of SNP haplotypes per gene (±SE), mean SNP haplotype diversity (±SE), mean number of microsatellite alleles per locus (±SE), mean observed microsatellite heterozygosity (±SE) and mean unbiased expected microsatellite heterozygosity (±SE).
+ Fig. 2 Mean haplotypes per immune gene or alleles per microsatellite locus in relation to population size (log-transformed). Data are from Table 2. Slope for immune genes: 0.45 ± 0.14 (b ± SE). Slope for microsatellites: 1.27 ± 0.33.
+population size for both markers (Fig. 2; F1,8 = 84.0, P = 0.001), the immune genes tended to decrease in variation at a slower rate than the microsatellites
+(interaction between marker and population size: F1,8 = 5.2, P = 0.051) in an ANCOVA (r2 = 0.93) weighted by sample size (marker effect: F1,8 = 83.9, P < 0.001).
+Global FST outlier tests
+Analysis of the SNP haplotypes with global FST outlier tests indicated that IAP-1 was under strong positive selection. Using the FDIST2 method implemented in Lositan, each immune gene was analysed separately in simulations with the microsatellites and then together in a final simulation. IAP-1 was the only outlier, having a FST greater than expected under neutrality (Fig. 3a), indicating divergent positive selection among populations. The other four genes fell within the 95% confidence intervals of the neutral space. IAP-1 also showed higher differentiation than expected under neutrality with both the Arlequin finite island model (FDIST2 method, P < 0.001; Fig. 3b) and the hierarchical model (P = 0.0001). In contrast, there was only one gene (IL-2) in one outlier test (Arlequin finite model) that showed lower than neutral levels of FST (P = 0.048; Fig. 3b). It is possible that the inclusion of synonymous and intron
+Ó 2011 Blackwell Publishing Ltd
+
+DRIFT AND SELECTION ON IMMUNE LOCI 4701
+                                                                                                                    Fig. 3 Plots of results of FST outlier tests from (a) Lositan and (b) Arlequin (finite island model). Black dots denote FST values based on single-nucleotide polymorphism (SNP) haplotypes, while black triangles denote microsatellite loci. The upper and lower 95% and 99% confidence interval boundaries are indicated by dashed and solid lines, respectively. (CH = ChB6, IA = IAP-1, IL = IL-2, TG = TGF-b3, TR = TRAIL-like).
+                                                                                                  Fig. 4 Pairwise G¢ST values for microsatellites and each immune gene separately. 95% confidence intervals (calculated in Genodive) are shown for the microsatellites.
+SNPs in the SNP haplotypes masked selection acting on nonsynonymous SNPs; however, an analysis in Lositan using SNPs as individual loci did not reveal any significant outliers except a nonsynonymous IAP-1 site under positive selection (Fig. S1, Supporting information).
+Pairwise G¢ST comparisons
+Pairwise comparisons of population differentiation using a standardized measure (G¢ST) revealed patterns of selection not apparent at the global FST level. Pairwise comparisons showed that the positive selection on IAP-1 identified above was driven by the Wisconsin population. G¢ST values for IAP-1 in Wisconsin comparisons were higher than those for the other ten markers in Wisconsin and for IAP-1 in non-Wisconsin comparisons (Fig. 4). In general, however, G¢ST values were lower for the immune genes (mean ± SE:
+0.109 ± 0.025, N = 15 population pairs; Table S3, Supporting information) than for the microsatellites (0.162 ± 0.020; paired t14 = 2.4, P = 0.03). This difference between microsatellites and immune genes became stronger when IAP-1, which had large values of G¢ST (mean ± SE: 0.247 ± 0.069), was removed from the analysis (four immune genes: 0.063 ± 0.010; paired t14 = 7.0, P < 0.001). Overall, 55% (33 ⁄ 60 tests without IAP) of immune gene G¢ST values fell below the microsatellite 95% confidence intervals, and most of these (82%, 27 ⁄ 33) were for Wisconsin and Texas comparisons, which had the largest G¢ST values for microsatellites (Fig. 4; Table S3, Supporting information). FST (Table S3, Supporting information) and CavalliSforza–Edwards distances (Fig. S2, Supporting information) showed a similar pattern of differentiation, with Wisconsin, Texas and Missouri being most distinct.
+Isolation by distance
+The immune genes exhibited a weaker pattern of isolation by distance than did the microsatellites (Fig. 5). Standardized microsatellite G¢ST values were positively correlated with geographic distance (IBDWS Mantel test: Z = 7.28, r = 0.633, P = 0.034), while G¢ST values from the four immune genes combined (IAP-1 excluded) were not correlated with geographic distance (Z = 2.80, r = 0.437, P = 0.126). The slope for the four immune genes (b = 0.161, 95% CI: 0.074–0.247) was significantly lower than that of the microsatellites (b = 0.323, 95% CI: 0.173–0.473) when comparing 95% CIs. G¢ST values for IAP-1 were not related to geographic distance when all populations were included (Z = 11.10, r = 0.311, P = 0.220), but they
+Ó 2011 Blackwell Publishing Ltd
+
+4702 J. L. BOLLMER ET AL.
+ Fig. 5 Isolation by distance assessed using G¢ST values plotted against log of geographic distance. The IAP-1 comparisons involving Wisconsin (all higher than the other comparisons) are labelled with a ‘WI’.
+showed a stronger positive relationship when comparisons involving Wisconsin were removed (Z = 2.25, r = 0.666, P = 0.072; b = 0.217, 95% CI: 0.085–0.348).
+Discussion
+Many different genes contribute to immunity, and an increasing number of studies are investigating nonMHC immune genes in nonmodel species (e.g., Alcaide & Edwards 2011; Tschirren et al. 2011). We studied five immune genes in bottlenecked prairie-chicken populations, identifying variations in protein-coding regions, as well as a promoter and introns. Polymorphisms at these genes are known to be associated with fitness-related traits in domestic chickens, including resistance to bacterial infections and antibody response (Malek & Lamont 2003; Zhou & Lamont 2003). While not all of our polymorphisms affect protein structure, other studies of chickens (Hasenstein & Lamont 2007) and humans (Chen et al. 2010) have identified synonymous SNPs and SNPs in untranslated genic regions that exhibit disease associations and are probably linked to functional polymorphisms. Global FST outlier tests detected strong positive selection between populations at only one of the five immunity genes (IAP-1), whereas at the other immune genes, pairwise population differentiation was weaker than at microsatellites, suggesting that either balancing selection or specieswide positive or purifying selection was more important. However, the mean number of haplotypes per gene was correlated with population size, so genetic drift has also played an important role in shaping diversity at these immune genes, as it has done at
+other neutral (Johnson et al. 2003, 2004, 2007) and immune-related (Eimes et al. 2011) markers we have studied in these populations.
+Geographic patterns in immune variation
+The five immune genes exhibited differing geographic patterns of variation. We found consistent evidence for positive selection for different alleles across populations at IAP-1 using global FST outlier tests, and pairwise comparisons (Fig. 4) revealed that this was driven by strong differentiation between Wisconsin and the rest of the populations. A single nonsynonymous site was responsible. A thymine base was common in five populations, with a frequency ranging from 0.8 to 1, but in Wisconsin a guanine base was more frequent (0.63), resulting in the high measures of differentiation between Wisconsin and the other populations. Other studies have found selection for different alleles in different populations. In domestic chickens, an IAP-1 SNP in the same region we sequenced tended to have a positive effect on body weight of chicks in one environment, but a negative effect in another (Ye et al. 2006). Ye et al. (2006) also found that particular SNP alleles at ChB6, IL-2, TRAIL-like and TGF-b3 varied in their effect on fitness traits in different inbred lines of domestic chickens. Similarly, at the MHC, there is evidence that selection on particular alleles varies with geographic differences in parasite strains (Bonneaud et al. 2006; Loiseau et al. 2009) and pollution (Cohen 2002). A variety of other immunity genes have been identified as FST outliers and associated with latitude and temperature in Atlantic salmon (Salmo salar; Tonteri et al. 2010). Further study is needed to determine the fitness effects of the nonsynonymous SNP we identified in the prairiechicken.
+At the other immune genes studied here (IL-2, ChB6, TRAIL-like and TGF-b3), results from the global FST tests, pairwise G¢ST comparisons with microsatellites and isolation by distance were more consistent with weaker population differentiation than expected under neutrality. While only the finite model implemented in Arlequin identified IL-2 as a significant global outlier, the pairwise G¢ST values for IL-2 consistently fell at or below the lower limits of the microsatellite 95% confidence intervals for all 15 comparisons (Fig. 4). The majority of TGF-b3 G¢ST values were also low, while TRAIL-like and ChB6 showed more variation, with values falling below, within and above the 95% CI for microsatellites. The G¢ST values that involved Wisconsin and Texas were especially low for the immune genes relative to the microsatellites, as 75% (27 ⁄ 36 tests) of the immune gene values (excluding IAP-1) were lower than the 95% confidence intervals calculated for the
+Ó 2011 Blackwell Publishing Ltd
+
+microsatellite loci. This difference occurred primarily because the microsatellite G¢ST values at these two populations were relatively high, allowing for more separation between them and the low immune gene values (Fig. 4).
+The low global FST and pairwise G¢ST values are likely due to similar selection pressures across populations. A number of MHC studies have found low FST values relative to neutral loci, which they attributed to balancing selection or positive selection for the same advantageous allele in multiple populations (e.g., Sommer 2003; Fraser et al. 2010). Balancing selection has also been found by analysis of summary statistics at several cytokine genes in domestic chickens, particularly the interleukins (Downing et al. 2009a,b, 2010). Cytokine genes bind to many receptor types, and as a consequence, frequency-dependent selection from a variety of pathogens may favour a high number of diverse alleles (Downing et al. 2010). Alternatively, the lower differentiation between populations could be due to purifying selection for the same haplotypes across populations. Evidence for purifying selection has been found at other immune genes including defensins and some TLRs (Barreiro et al. 2009; Mukherjee et al. 2009), likely to conserve their function. In contrast to the peptide-binding genes of the MHC, none of the gene regions we sequenced interact directly with pathogens and are probably less likely to be selected for variability.
+Outlier tests can result in false positives and negatives. Certain demographic scenarios, including bottlenecks, can cause false positives (Narum & Hess 2011). Wisconsin prairie-chickens have gone through a bottleneck (Bellinger et al. 2003; Johnson et al. 2003, 2004), and neutral markers show elevated differentiation between this population and the others because of drift (Fig 4). The IAP-1 outlier could be a false positive; however, differentiation at IAP-1 was disproportionately higher than for the remaining four immune genes and the six microsatellites, suggesting that drift alone is not responsible. Furthermore, the population that has undergone the most extreme bottleneck (Texas) did not show any evidence of positive selection with FST outlier tests. False negatives may also have occurred. Despite their low pairwise G¢ST values, three of the genes (TGFb3, ChB6 and TRAIL-like) were not identified as low global FST outliers, and IL-2 was identified in only one test. A number of factors could explain why the global outlier tests generally failed to detect more outliers. First, the tests may not be sensitive enough to detect smaller changes in FST caused by weak selection (Narum & Hess 2011). Second, low FST outliers are more difficult to detect than high outliers, because in many cases the candidate genes would need to have FST values very close to zero to be significant outliers, depend-
+ing on the level of differentiation present at neutral loci (Beaumont & Balding 2004). Lastly, if selection pressures vary geographically, then global outlier tests may fail to detect selection that occurs in only a subset of populations (Vitalis et al. 2001).
+Sequence-level selection
+We found an overall pattern of more frequent nonsynonymous substitutions (KA) than synonymous substitutions (KS) when paired by gene and population. This indicates that positive or balancing selection has acted on these genes historically, although not necessarily recently (Garrigan & Hedrick 2003). In contrast, the opposite pattern was found at 13 random protein-coding loci (nonimmune) in the closely related red grouse (Lagopus lagopus; Quintela et al. 2010), suggesting purifying selection. Recent studies in model bird species have found similar patterns, with immune genes exhibiting higher levels of positive selection than other parts of the genome (Berlin et al. 2008; Ekblom et al. 2010). The summary statistics suggested that positive or purifying selection was acting on IAP-1 in Nebraska, but there was no significant deviation from neutrality in the other populations. The nonsignificant results from the summary statistics were somewhat surprising, because other studies have detected selection using these statistics on non-MHC immune genes, including other interleukins in domestic chickens (Downing et al. 2009a,b, 2010). Our analyses may have been hindered by the relatively low number of variable sites, a result of the genetic bottlenecks these populations have experienced.
+All of the gene regions we sequenced had polymorphisms associated with fitness in the domestic chicken, but it is possible these regions were not under strong selection. The TGF-b3 region we sequenced is part of the molecule’s propeptide, which is excised from the final mature peptide, and the ChB6 exon we sequenced forms an extracellular region that is the most variable, presumably due to relaxed selection compared to the more conserved intracellular region (O’Laughlin 2010). TGF-b3 and TRAIL-like had a mix of SNPs occurring in both introns and exons, although most were in the introns. While the polymorphisms we sequenced within the introns are unlikely to be directly under selection themselves, they may be linked to variation that is under selection. For example, a TGF-b3 SNP associated with antibody response in domestic chickens (Zhou & Lamont 2003) is located within the intron we sequenced.
+Effects of drift on immune genes
+In addition to selection, neutral forces appear to have influenced patterns of variation at the immune genes.
+Ó 2011 Blackwell Publishing Ltd
+DRIFT AND SELECTION ON IMMUNE LOCI 4703
+
+4704 J. L. BOLLMER ET AL.
+Like microsatellites, immune gene diversity was lower in smaller prairie-chicken populations, consistent with the effects of genetic drift. Similarly, within-population MHC diversity often decreases as a result of population bottlenecks (Radwan et al. 2010), and we have evidence that drift reduced MHC class II variation in the Wisconsin population (Eimes et al. 2011). It is not clear whether populations are negatively affected by a loss of MHC variability (Radwan et al. 2010), and there is almost no information about the importance of variation at non-MHC immune genes to fitness in wild bird populations, but it is likely to depend on the type of selection acting on the gene and its role in immune function (e.g., whether it acts in pathogen recognition or mediating the response to pathogens).
+Conclusions
+Despite a call for more studies of non-MHC immune genes over 5 years ago (Acevedo-Whitehouse & Cunningham 2006), relatively few studies have assessed geographic variation in selection pressures on these genes in natural populations. In the greater prairiechicken, we expected to find local adaptation at the non-MHC immune genes. Instead, the more common pattern was one of weak population differentiation at immune genes, suggesting similar selection pressures on these genes across the species range. We found little evidence for strong selection and more evidence for weak selection and genetic drift. This is consistent with evidence at MHC loci within the Wisconsin population, which has gone through a bottleneck and been affected more strongly by drift than selection (Eimes et al. 2011). These results underscore the importance of neutral forces in determining patterns of genetic variation, even at functional loci that are presumably under selection. Future studies should attempt to characterize the relationship between individual variation at these immune genes and fitness to determine the strength and direction of current selection on these genes.
+Acknowledgements
+Funding was provided by grants from the National Science Foundation (DEB-0948695), United States Fish and Wildlife Service, University of North Texas, and Research Growth Initiative, University of Wisconsin-Milwaukee Graduate School.
+References
+Ó 2011 Blackwell Publishing Ltd

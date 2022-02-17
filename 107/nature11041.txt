@@ -1,0 +1,418 @@
+LETTER
+Butterfly genome reveals promiscuous exchange of mimicry adaptations among species
+The Heliconius Genome Consortium*
+The evolutionary importance of hybridization and introgression has long been debated1. Hybrids are usually rare and unfit, but even infrequent hybridization can aid adaptation by transferring beneficial traits between species. Here we use genomic tools to investigate introgression in Heliconius, a rapidly radiating genus of neotropical butterflies widely used in studies of ecology, behaviour, mimicry and speciation2–5. We sequenced the genome of Heliconius melpomene and compared it with other taxa to investigate chromosomal evolution in Lepidoptera and gene flow among multiple Heliconius species and races. Among 12,669 predicted genes, biologically important expansions of families of chemosensory and Hox genes are particularly noteworthy. Chromosomal organization has remained broadly conserved since the Cretaceous period, when butterflies split from the Bombyx (silkmoth) lineage. Using genomic resequencing, we show hybrid exchange of genes between three co-mimics, Heliconius melpomene, Heliconius timareta and Heliconius elevatus, especially at two genomic regions that control mimicry pattern. We infer that closely related Heliconius species exchange protective colour-pattern genes promiscuously, implying that hybridization has an important role in adaptive radiation.
+ab H. numata
+H. ethilla H. hecale
+H. pardalinus sergestus
+H. elevatus
+(rayed)
+H. pardalinus butleri
+H. timareta florencia
+(rayed)
+H. timareta ssp. nov. (postman)
+H. heurippa H. cydno
+H. melpomene rosina
+(postman)
+H. melpomene melpomene
+(postman)
+H. melpomene amaryllis
+(postman)
+H. melpomene aglaope/malleti (rayed)
+H. erato
+Figure 1 | Distribution, mimicry and phylogenetic relationships of sequenced taxa. a, Phylogenetic relationship of sequenced species and subspecies in the melpomene–silvaniform clade of Heliconius. Heliconius elevatus falls in the silvaniform clade, but it mimics colour patterns of melpomene–timareta clade taxa. Most other silvaniforms mimic unrelated ithomiine butterflies24. b, Geographic distribution of postman and rayed
+*Lists of participants and their affiliations appear at the end of the paper.
+The butterfly genus Heliconius (Nymphalidae: Heliconiinae) is associated with a suite of derived life-history and ecological traits, including pollen feeding, extended lifespan, augmented ultraviolet colour vision, ‘trap-lining’ foraging behaviour, gregarious roosting and complex mating behaviours, and provides outstanding opportunities for genomic studies of adaptive radiation and speciation4,6. The genus is best known for the hundreds of races with different colour patterns seen among its 43 species, with repeated examples of both convergent evolution among distantly related species and divergent evolution between closely related taxa3. Geographic mosaics of multiple colour-pattern races, such as in Heliconius melpomene (Fig. 1), converge to similar mosaics in other species, and this led to the hypothesis of mimicry2. Heliconius are unpalatable to vertebrate predators and Mu ̈llerian mimicry of warning colour patterns enables species to share the cost of educating predators3. As a result of its dual role in mimicry and mate selection, divergence in wing pattern is also associated with speciation and adaptive radiation3,5. A particularly recent radiation is the melpomene–silvaniform clade, in which mimetic patterns often seem to be polyphyletic (Fig. 1a). Most species in this clade occasionally hybridize in the wild with other clade members7. Gene genealogies at
+doi:10.1038/nature11041
+    H. melpomene rosina
+      H. melpomene melpomene
+       1,000 km
+             H. melpomene aglaope/malleti
+H. melpomene amaryllis
+                                               ©2012 Macmillan Publishers Limited. All rights reserved
+H. melpomene races studied here (blue, yellow and purple), and the entire distribution of H. melpomene (grey). The H. timareta races investigated have limited distributions (red) indicated by arrows and mimic sympatric races of H. melpomene. Heliconius elevatus and the other silvaniform species are distributed widely across the Amazon basin (Supplementary Information, section 22).
+ 00MONTH2012|VOL000|NATURE|1
+Silvaniform clade
+H. melpomene
+
+ RESEARCH LETTER
+a small number of loci indicate introgression between species8, and one non-mimetic species, Heliconius heurippa, has a hybrid origin9. Adaptive introgression of mimicry loci is therefore a plausible explanation for parallel evolution of multiple mimetic patterns in the melpomene–silvaniform clade.
+A Heliconius melpomene melpomene stock from Darie ́n, Panama (Fig. 1), was inbred through five generations of sib mating. We sequenced a single male to 338 coverage (after quality filtering) using combined 454 and Illumina technologies (Supplementary Information, sections 1–8). The complete draft genome assembly, which is 269 megabases (Mb) in size, consists of 3,807 scaffolds with an N50 of 277 kb and contains 12,669 predicted protein-coding genes. Restriction-site-associated DNA (RAD) linkage mapping was used to assign and order 83% of the sequenced genome onto the 21 chromosomes (Supplementary Information, section 4). These data permit a considerably improved genome-wide chromosomal synteny comparison with the silkmoth Bombyx mori10,11.
+Using 6,010 orthologues identified between H.melpomene and B. mori, we found that 11 of 21 H. melpomene linkage groups show homology to single B. mori chromosomes and that ten linkage groups have major contributions from two B. mori chromosomes (Fig. 2a and Supplementary Information, section 8), revealing several previously unidentified chromosomal fusions. These fusions on the Heliconius lineage most probably occurred after divergence from the sister genus Eueides4, which has the lepidopteran modal karyotype of n 5 31 (ref. 12). Three chromosomal fusions are evident in Bombyx (B. mori chromosomes 11, 23 and 24; Fig. 2a), as required for evolution of the Bombyx n 5 28 karyotype from the ancestral n 5 31 karyotype. Heliconius and Bombyx lineages diverged in the Cretaceous, more than 100 million years ago11, so the gross chromosomal structures of Lepidoptera genomes have remained highly conserved compared with those of flies or vertebrates13,14. By contrast, small-scale rearrangements were frequent. In the comparison with Bombyx, we estimate there to be 0.05–0.13 breaks per megabase per million years, and in that with Danaus plexippus (Monarch butterfly), we estimate there to be 0.04–0.29 breaks per megabase per million years. Although lower than previously suggested for Lepidoptera15, these rates are comparable to those in Drosophila (Supplementary Information, section 8).
+The origin of butterflies was associated with a switch from nocturnal to diurnal behaviour, and a corresponding increase in visual communication16. Heliconius have increased visual complexity through expression of a duplicate ultraviolet opsin6, in addition to the longwavelength-, blueand ultraviolet-sensitive opsins in Bombyx. We might therefore predict reduced complexity of olfactory genes, but in fact Heliconius and Danaus17 genomes have more chemosensory genes than any other insect genome: 33 and 34, respectively (Supplementary Information, section 9). For comparison, there are 24 in Bombyx and 3–4 in Drosophila18. Lineage-specific expansions of chemosensory genes were evident in both Danaus and Heliconius (Fig. 2b). By contrast, all three lepidopteran genomes have similar numbers of odorant binding proteins and olfactory receptors (Supplementary Information, section 9). Hox genes are involved in body plan development and show strong conservation across animals. We identified four additional Hox genes located between the canonical Hox genes pb and zen, orthologous to shx genes in B.mori19 (Supplementary Information, section 10). These Hox gene duplications in the butterflies and Bombyx have a common origin and are independent of the two tandem duplications known in dipterans (zen2 and bcd). Immunity-related gene families are similar across all three lepidopterans (Supplementary Information, section 11), whereas there are extensive duplications and losses within dipterans20.
+The Heliconius reference genome allowed us to perform rigorous tests for introgression among melpomene–silvaniform clade species. We used RAD resequencing to reconstruct a robust phylogenetic tree based on 84 individuals of H. melpomene and its relatives, sampling on average 12Mb, or 4%, of the genome (Fig. 1a and Supplementary Information, sections 12–18). We then tested for introgression between the sympatric co-mimetic postman butterfly races of Heliconius melpomene amaryllis and H. timareta ssp. nov. (Fig. 1) in Peru, using ‘ABBA/BABA’ single nucleotide sites and Patterson’s D-statistics (Fig. 3a), originally developed to test for admixture between Neanderthals and modern humans21,22 (Supplementary Information, section 12). Genome-wide, we found an excess of ABBA sites, giving a significantly positive Patterson’s D of 0.037 6 0.003 (two-tailed Z-test for D 5 0, P 5 1 3 10240), indicating greater genome-wide introgression between the sympatric mimetic taxa H. melpomene amaryllis and
+9 19
+10
+a
+Heliconius b 10 Mb
+Chemosensory proteins
+8
+7
+11
+6
+HmCSP16
+5
+12
+4
+DpCSP5
+HmCSP3
+BmCSP3
+u
+3
+BmCSP5
+13
+HmCSP5
+DpCSP2
+DpCSP16
+BmCSP16
+BmCSP21
+HmCSP21
+14
+DpCSP21
+BmCSP2
+BmCSP24
+DpCSP20
+BmCSP23
+1
+BmCSP25
+HmCSP20
+HmCSP25
+15
+DpCSP25
+BmCSP16
+BmCSP7
+HmCSP7
+2
+DpCSP23
+16
+DpCSP7
+HmCSP23
+DpCSP29
+3
+BmCSP1
+B
+HmCSP30
+HmCSP22
+HmCSP29
+t
+t
+17
+BmCSP4
+HmCSP31
+e
+4
+r
+HmCSP32
+HmCSP27
+fl
+y
+HmCSP34
+HmCSP28
+-
+5
+HmCSP33
+s
+HmCSP24
+p
+DpCSP28
+18
+e
+DpCSP22
+HmCSP4
+c
+i
+DpCSP32
+6
+DpCSP10
+HmCSP10
+fi
+19
+c
+DpCSP33
+BmCSP10
+7
+e
+DpCSP34
+DpCSP1
+x
+DpCSP31
+p
+HmCSP1
+20
+8
+a
+DpCSP30
+n
+DpCSP27
+Z
+s
+i
+DpCSP26
+9
+o
+DpCSP12
+DpCSP24
+n
+Z
+s
+DpCSP3
+HmCSP12
+10
+DpCSP4
+BmCSP12
+BmCSP15
+28
+DpCSP9
+HmCSP15
+HmCSP2
+13
+11
+DpCSP15
+HmCSP9
+27
+2
+BmCSP17
+BmCSP9
+HmCSP17
+26
+DpCSP17
+12
+DpCSP18
+DpCSP19
+HmCSP18
+BmCSP18
+25
+BmCSP13
+HmCSP19
+DpCSP13
+BmCSP6
+HmCSP6
+HmCSP8
+24
+BmCSP8
+14
+DpCSP8
+15
+23
+DpCSP14
+16
+22
+HmCSP14
+17
+HmCSP13
+BmCSP13
+18
+DpCSP11
+DpCSP6
+21
+HmCSP11
+20
+BmCSP11
+Figure 2 | Comparative analysis of synteny and expansion of the chemosensory genes. a, Maps of the 21 Heliconius chromosomes (colour) and of the 28 Bombyx chromosomes (grey) based on positions of 6,010 orthologue pairs demonstrate highly conserved synteny and a shared n 5 31 ancestor
+2|NATURE|VOL000|00MONTH2012
+(Supplementary Information, section 8). Dotted lines within chromosomes indicate major chromosomal fusions. b, Maximum-likelihood tree showing expansions of chemosensory protein (CSP) genes in the two butterfly genomes.
+20 Mb
+Bombyx
+Bootstrap support >80%
+Heliconius
+expansions
+BmCSP Bombyx mori
+DpCSP Danaus plexippus HmCSP Heliconius melpomene
+©2012 Macmillan Publishers Limited. All rights reserved
+
+  LETTER
+  RESEARCH
+ a A B B A Site b pattern
+0.10 0.08 0.06 0.04
+        †
+Significant deviations from 0 Excluding colour-pattern regions
+ H. melpomene H. melpomene H. timareta
+Silvaniform
+Gene genealogy 1
+   aglaope
+Mutation
+amaryllis
+ssp. nov.
+† †
+                                                        B A B A Site pattern
+ABBA 0.02 excess
+Genome-wide estimate of D
+Null expectation
+               H. melpomene H. melpomene H. timareta
+Silvaniform
+Gene genealogy 2
+0
+–0.02
+    aglaope
+Mutation
+amaryllis
+ssp. nov.
+  BABA excess
+    ©2012 Macmillan Publishers Limited. All rights reserved
+1 2 3 4 5 6 7 8 9 1011121314151617181920 Z Chromosome
+ Figure 3 | Four-taxon ABBA/BABA test of introgression. a, ABBA and BABA nucleotide sites employed in the test are derived (– – B –) in H. timareta compared with the silvaniform outgroup (– – – A), but differ among
+H. melpomene amaryllis and H. melpomene aglaope (either ABBA or
+BABA). As this almost exclusively restricts attention to sites polymorphic in the ancestor of H. timareta and H. melpomene, equal numbers of ABBA and BABA sites are expected under a null hypothesis of no introgression22, as depicted in the two gene genealogies. b, Distribution among chromosomes of Patterson’s
+H.timareta ssp. nov. than between H. melpomene aglaope and H. timareta ssp. nov., which do not overlap spatially (Fig. 1b). On the basis of these D-statistics, we estimate that 2–5% of the genome was exchanged21 between H. timareta and H. melpomene amaryllis, to the exclusion of H. melpomene aglaope. (Supplementary Information, section 12). Exchange was not random. Of the 21 chromosomes, 11 have significantly positive D-statistics, and the strongest signals of introgression were found on the two chromosomes containing known mimicry loci B/D and N/Yb (Fig. 3b and Supplementary Information, section 15).
+Perhaps the best-known case of Mu ̈llerian mimicry is the geographic mosaic of ,30 bold postman and rayed colour-pattern races of H. melpomene (Fig. 1b and Supplementary Information, section 22), which mimic a near-identical colour-pattern mosaic in Heliconius erato (Fig. 1a), among other Heliconius species. Mimicry variation is mostly controlled by a few loci with strong effects. Mimetic pattern differences between the postman H. m. amaryllis and the rayed H. m. aglaope races studied here (Fig. 1a) are controlled by the B/D (red pattern) and N/Yb (yellow pattern) loci23,24. These loci are located on the two chromosomes that show the highest D-statistics in our RAD analysis (Fig. 3b). To test whether mimicry loci might be introgressed between co-mimetic H. timareta and H. melpomene7 (Fig. 1a), we resequenced the colour-pattern regions B/D (0.7 Mb) and N/Yb (1.2 Mb), and 1.8 Mb of unlinked regions across the genome, from both postman and ray-patterned H. melpomene and H. timareta from Peru and Colombia, and six silvaniform outgroup taxa (Fig. 1a and Supplementary Information, section 12). To test for introgression at the B/D mimicry locus, we compared rayed H. m. aglaope and postman H. m. amaryllis as the ingroup with postman H. timareta ssp. nov. (Fig. 3a) and found large, significant peaks of shared, fixed ABBA nucleotide sites combined with an almost complete lack of BABA sites (Fig. 4b). This provides evidence that blocks of shared sequence variation in the B/D region were exchanged between postman H. timareta and postman H. melpomene in the genomic region known to determine red mimicry patterns between races of H. melpomene23,24 (Fig. 4a).
+For a reciprocal test, we used the same H. melpomene races as the ingroup to compare with rayed Heliconius timareta florencia at the
+D-statistic (6s.e.), which measures excess of ABBA sites over BABA sites22, here for the comparison: H. m. aglaope, H. m. amaryllis, H. timareta ssp. nov., silvaniform. Chromosomes containing the two colour-pattern regions (B/D, red; N/Yb, yellow) have the two highest D-statistics; the combinatorial probability of this occurring by chance is 0.005. The excess of ABBA sites
+(0 , D , 1) indicates introgression between sympatric H. timareta and H. m. amaryllis.
+B/D region. In this case, correspondingly large and significant peaks of BABA nucleotide sites are accompanied by an almost complete absence of ABBA sites (Fig. 4c), indicating that variation at the same mimicry locus was also shared between rayed H. timareta and rayed H. melpomene. Equivalent results in the N/Yb colour-pattern region, controlling yellow colour-pattern differences, are in the expected directions for introgression and are highly significant for the test using postman H. timareta ssp. nov. (P 5 6 3 10234), but are not significant in rayed H. t. florencia (P 5 0.13; Supplementary Information, section 17). By contrast, hardly any ABBA or BABA sites are present in either comparison across 1.8 Mb in 55 genomic scaffolds that are unlinked to the colour-pattern regions (Supplementary Information, section 21). These concordant but reciprocal patterns of fixed ABBA and BABA substitutions occur almost exclusively within large genomic blocks at two different colour-pattern loci (449 and 99 sites for B/D and N/Yb, respectively; Fig. 4b, c and Supplementary Information, section 17). These patterns would be very hard to explain in terms of convergent functional-site evolution or random coalescent fluctuations. Instead, our results imply that derived colour-pattern elements have introgressed recently between both rayed and postman forms of H. timareta and H. melpomene.
+To test whether colour-pattern loci might be shared more broadly across the clade, we used sliding-window phylogenetic analyses along the colour-pattern regions. For regions flanking and unlinked to colour-pattern loci, tree topologies are similar to the predominant signal recovered from the genome as a whole (Supplementary Information, section 18). Races of H. melpomene and H. timareta each form separate monophyletic sister groups and both are separated from the more distantly related silvaniform species (Fig. 4d). By contrast, topologies within the region of peak ABBA/BABA differences group individuals by colour pattern, and the species themselves become polyphyletic (Fig. 4e, f and Supplementary Information, sections 19 and 20). Remarkably, the rayed H. elevatus, a member of the silvaniform clade according to genome average relationships (Fig. 1a and Supplementary Information, section 18), groups with rayed races of unrelated H. melpomene and H. timareta in small sections within both B/D and N/Yb colour-pattern loci (Fig. 4e and Supplementary
+00MONTH2012|VOL000|NATURE|3
+Patterson’s D-statistic
+
+ RESEARCH
+ LETTER
+    a
+H. melpomene aglaope
+H. melpomene amaryllis
+  b
+c
+H. melpomene aglaope
+H. melpomene amaryllis
+0.6 0.4 0.2 0.0
+kinesin
+400,000
+optix
+500,000
+H. timareta ssp. nov.
+500,000
+H. timareta florencia
+500,000
+0
+100,000
+200,000
+300,000
+600,000
+Silvaniform
+600,000
+Silvaniform
+600,000
+700,000
+700,000
+700,000
+       1.5 1.0
+0.5
+0.0
+1.5 1.0
+0.5
+shared between H. m. aglaope and H. timareta florencia 0.0
+     ABBA sites:
+shared between H. m. amaryllis and H. timareta ssp. nov.
+  BABA sites:
+shared between H. m. aglaope and H. timareta ssp. nov.
+ 0 100,000 200,000 300,000
+400,000
+  H. melpomene aglaope H. melpomene amaryllis
+          ABBA sites:
+sha m. amaryllis and H. timareta florencia
+  0 100,000 200,000 300,000
+400,000
+             0
+Position along the B/D colour-pattern region (bp)
+50-kb windows along B/D
+50,000 100,000 150,000 200,000 250,000 300,000 350,000 400,000 450,000 500,000 550,000 600,000 650,000 700,000 (bp)
+   d
+H. melpomene amaryllis e H. melpomene amaryllis
+H. melpomene amaryllis
+H. melpomene amaryllis
+H. melpomene aglaope 55     H. melpomene aglaope
+100     H. melpomene aglaope 100 H. melpomene aglaope
+97   H. melpomene amaryllis 100   H. melpomene amaryllis H. melpomene amaryllis 62   H. melpomene amaryllis
+f
+100
+H. melpomene amaryllis
+    100
+       100
+58
+100
+H. melpomene amaryllis 69       H. melpomene amaryllis
+        100
+72
+H. melpomene amaryllis
+ 88
+79
+H. timareta ssp. nov. H. timareta ssp. nov.
+100 H. timareta ssp. nov. H. timareta ssp. nov.
+H. timareta ssp. nov. H. timareta ssp. nov. 83     H. timareta ssp. nov.
+87   H. timareta ssp. nov. H. melpomene aglaope
+H.melpomene aglaope H. melpomene aglaope H. melpomene aglaope H. timareta florencia
+           97
+ 86
+    100
+100
+88 100
+H. timareta ssp. nov.
+H. timareta ssp. nov.
+100   H. timareta ssp. nov.
+H. timareta ssp. nov.
+H. elevatus
+09-267 H. melpomene aglaope 58 09-268 H. melpomene aglaope
+100
+                100
+100
+63     09-357 H. melpomene aglaope 65 09-246 H. melpomene aglaope
+                 96
+90 100
+97
+H. timareta florencia H. timareta florencia H. timareta florencia
+H. timareta florencia
+100
+100
+81     2410 H. timareta florencia H. ethilla
+H. hecale
+H. pardalinus sergestus
+H. pardalinus ssp. nov. H. numata silvana
+100
+92 98
+H. timareta florencia H. timareta florencia H. timareta florencia
+   2403 H. timareta florencia 2406 H. timareta florencia 82     2407 H. timareta florencia
+                         100
+0.01
+93
+H. numata silvana
+H. ethilla
+H. hecale 62 100 H. pardalinus sergestus 72
+H. pardalinus ssp. nov. 100 H. elevatus
+Topology A
+50 100
+72
+H. ethilla H. numata silvana
+H. hecale
+100       H. pardalinus sergestus
+H. pardalinus ssp. nov. 0.01
+Topology C
+                90
+         100
+      Figure 4 | Evidence for adaptive introgression at the B/D mimicry locus. a, Genetic divergence between H. melpomene races aglaope (rayed) and amaryllis (postman) across a hybrid zone in northeast Peru. Divergence, FST, is measured along the B/D region (Supplementary Information 14) and peaks in the region known to control red wing pattern elements between the genes kinesin and optix23. b, c, Distribution of fixed ABBA and BABA sites (see
+Fig. 3a) along B/D for two comparisons. Excesses of ABBA in b and BABA in c are highly significant (two-tailed Z-tests for D 5 0; D 5 0.90 6 0.13,
+P 5 5 3 10214 and D 5 20.91 6 0.10, P 5 9 3 10224, respectively), indicating
+Information, sections 19 and 20). These results are again most readily explained by introgression and fixation of mimicry genes.
+We have developed a de novo reference genome sequence that will facilitate evolutionary and ecological studies in this key group of butterflies. We have demonstrated repeated exchange of large (,100-kb) adaptive regions among multiple species in a recent radiation. Our genome-scale analysis provides considerably greater power than previous tests of introgression8,25–27. Our evidence suggests that H. elevatus, like H. heurippa9, was formed during a hybrid speciation event. The main genomic signal from this rayed species places it closest to Heliconius pardalinus butleri (Fig. 1a), but colour-pattern genomic regions resemble those of rayed races of H. melpomene (Fig. 4e and Supplementary Information, sections 18–21). Colour pattern is important in mating behaviour in Heliconius5, and the transfer of mimetic pattern may have enabled the divergent sibling species H.elevatus to coexist with H.pardalinus across the Amazon basin. Although it was long suspected that introgression might be important in evolutionary radiations1, our results from the most diverse terrestrial
+4|NATURE|VOL000|00MONTH2012
+introgression. d, e, f, Genealogical change along B/D investigated with maximum likelihood based on 50-kb windows. Three representative tree topologies are shown. Topology A, the species tree, is found within the white windows. In topologies B (dark green window) and C (light green windows) taxa group by colour pattern rather than by species. Within striped windows, H. melpomene and/or H. timareta are paraphyletic but the taxa do not group by colour pattern. Support is shown for nodes with .50% bootstrap support (Supplementary Information, section 19). bp, base pair.
+biome on the planet suggest that adaptive introgression is more pervasive than previously realized.
+The annotated genome version 1.1 is available on the Heliconius Genome Consortium’s genome browser at http://butterflygenome. org/ and this version will also be included in the next release of ENSEMBL Genomes. A full description of methods can be found in Supplementary Information.
+Received 26 October 2011; accepted 12 March 2012. Published online 16 May 2012.
+1. 2. 3. 4. 5.
+red between H. BABA sites:
+ Topology B Genealogical changes along B/D
+H. elevatus
+   0.01
+   ©2012 Macmillan Publishers Limited. All rights reserved
+Number of ABBA and BABA sites per 100 bp FST
+
+  LETTER
+  RESEARCH
+  Supplementary Information is linked to the online version of the paper at www.nature.com/nature.
+Acknowledgements We thank the governments of Colombia, Peru and Panama for permission to collect the butterflies. Sequencing was funded by contributions from consortium members. We thank M. Abanto for assistance in raising the inbred line. Individual laboratories were funded by the Leverhulme Trust (C.D.J.), the John Fell Fund and Christ Church College, Oxford (L.C.F.), The Royal Society (M.J., C.D.J.), the NSF (W.O.M., M.R.K., R.D.R., S.M., A.D.B.), the NIH (M.R.K., S.L.S., J.A.Y.), the CNRS (M.J.), the ERC (M.J., P.W.H.H.), the Banco de la Repu ́ blica and COLCIENCAS (M.L.) and the BBSRC (J.M., C.D.J., M.L.B. and R.H.f.-C.).
+Author Contributions Consortium leaders: C.D.J., W.O.M. Heliconius Genome Consortium Principal Investigators: R.H.f.-C., M.R.K., M.J., J.M., S.M., R.D.R, M.L.B., L.E.G., M.L., G.L. Introgression study leader: J.M. Lead investigators: K.K.D., J.R.W., N.J.N., A.W., J.W.D., A.D.B., L.C.F., D.S.T.H., S.M., C.S., J.J.L., A.V.Z. Sequencing: S.R., S.E.S., A.L.B., M.T., K. Gharbi, C.E., M.L.B., R.A.G., Y.H., J.C.J., C.K., T.M., D.M.M., F.O., L.-L.P., J.Q., R.L.T., K.C.W., Y.-Q.W. Assembly: A.V.Z., J.A.Y., S.L.S., A.P., K. Gordon. RAD map and assembly verification: J.W.D., S.W.B., M.L.B., L.S.M., D.D.K., J.R.W., P.A.W. Geographic distribution map: N.R. Annotation: J.R.W., D.S.T.H., D.W., D.L., K.J.H., S.A., P.A.W., P.K. Genome browser and databases: D.S.T.H., J.J.L. Manual annotation and evolutionary analyses: A.D.B., E.J.-J., F.Y. (olfactory proteins); L.C.F., P.W.H.H., J.R.W. (Hox genes); A.S., T.D., D.M., S.M. (microRNAs); W.J.P., F.M.J. (immune genes); R.T.J., R.C. (P450 genes); H.V., S.-J.A., D.G.H. (uridine diphosphate glucuronosyltransferase genes); Y.P. (ribosomal proteins); S.W.B., M.L.B., A.D.B., N.L.C., B.A.C., L.C.F., H.M.H., C.D.J., F.M.J., M.J., D.D.K., M.R.K., J.M., A.M., S.P.M., N.J.N., W.J.P, R.P., M.A.S., A.T.-T., A.W., F.Y. (manual annotation group); B.A.C., D.A.R. (transposable elements); D.A.B. (orthologue predictions); A.W., J.W.D., D.G.H., K. Gordon (synteny); K.K.D., N.J.N., J.W.D., S.H.M., C.S., C.D.J., M.J., J.M. (introgression analysis). K.K.D. and J.R.W. contributed equally to this work.
+Author Information The genome sequence has been submitted to the European Nucleotide Archive under accession numbers HE667773–HE672081. Additional short
+read sequences have been submitted to the European Nucleotide Archive under accession numbers ERP000993 and ERP000991. Reprints and permissions information is available at www.nature.com/reprints. This paper is distributed under the terms of the Creative Commons Attribution-Non-Commercial-Share Alike licence, and is freely available to all readers at www.nature.com/nature. The authors declare no competing financial interests. Readers are welcome to comment on the online version of this article at www.nature.com/nature. Correspondence and requests for materials should be addressed to J.M. (jmallet@oeb.harvard.edu).
+The Heliconius Genome Consortium Kanchon K. Dasmahapatra1, James R. Walters2, Adriana D. Briscoe3, John W. Davey4, Annabel Whibley5, Nicola J. Nadeau2, Aleksey V. Zimin6, Daniel S. T. Hughes7, Laura C. Ferguson8, Simon H. Martin2, Camilo Salazar2,9, James J. Lewis3, Sebastian Adler10, Seung-Joon Ahn11, Dean A. Baker12, Simon W. Baxter2, Nicola L. Chamberlain13, Ritika Chauhan14, Brian A. Counterman15, Tamas Dalmay16, Lawrence E. Gilbert17, Karl Gordon18, David G. Heckel11, Heather M. Hines19, Katharina J. Hoff10, Peter W. H. Holland8, Emmanuelle Jacquin-Joly20, Francis M. Jiggins21, Robert T. Jones5, Durrell D. Kapan22,23, Paul Kersey7, Gerardo Lamas24, Daniel Lawson7, Daniel Mapleson25, Luana S. Maroja26, Arnaud Martin3, Simon Moxon27, William J. Palmer21, Riccardo Papa28, Alexie Papanicolaou18, Yannick Pauchet11, David A. Ray29,30, Neil Rosser1, Steven L. Salzberg31, Megan A. Supple32, Alison Surridge2, Ayse Tenger-Trolander13, Heiko Vogel11, Paul A. Wilkinson33, Derek Wilson7, James A. Yorke6, Furong Yuan3, Alexi L. Balmuth34, Cathlene Eland34, Karim Gharbi34, Marian Thomson34, Richard A. Gibbs35, Yi Han35, Joy C. Jayaseelan35, Christie Kovar35, Tittu Mathew35, Donna M. Muzny35, Fiona Ongeri35, Ling-Ling Pu35, Jiaxin Qu35, Rebecca L. Thornton35, Kim C. Worley35, Yuan-Qing Wu35, Mauricio Linares36, Mark L. Blaxter4,34, Richard H. ffrench-Constant14, Mathieu Joron5, Marcus R. Kronforst13, Sean P. Mullen37, Robert D. Reed3, Steven E. Scherer35, Stephen Richards35, James Mallet1,38, W. Owen McMillan9, Chris D. Jiggins2,9
+Affiliations for participants: 1Department of Genetics, Evolution and Environment, University College London, Gower Street, London WC1E 6BT, UK. 2Department of Zoology, Downing Street, University of Cambridge, Cambridge CB2 3EJ, UK. 3Department of Ecology and Evolutionary Biology, University of California, Irvine, California 92697, USA. 4Institute of Evolutionary Biology, Ashworth Laboratories, University of Edinburgh, West Mains Road, Edinburgh EH9 3JT, UK. 5CNRS UMR 7205, Muse ́um National d’Histoire Naturelle, 45 rue Buffon, Paris 75005, France. 6Institute for Physical Science and Technology, University of Maryland, College Park, Maryland 20742, USA. 7European Bioinformatics Institute, Hinxton CB10 1SD, UK. 8Department of Zoology, University of Oxford, South Parks Road, Oxford OX1 3PS, UK. 9Smithsonian Tropical Research Institute, Smithsonian Tropical Research Institute, Apartado Postal 0843-03092, Panama ́,
+Repu ́ blica de Panama ́ . 10Institut fu ̈ r Mathematik und Informatik, Universita ̈ t Greifswald, 17487 Greifswald, Germany. 11Max Planck Institute for Chemical Ecology, D-07745 Jena, Germany. 12Ecology and Evolution, Imperial College London, London SW7 2AZ, UK. 13FAS Center for Systems Biology, Harvard University, Cambridge, Massachusetts 02138, USA. 14Centre for Ecology and Conservation, School of Biosciences, University of Exeter, Penryn TR10 9EZ, UK. 15Department of Biology, Mississippi State University, Mississippi State, Mississippi 39762, USA. 16School of Biological Sciences, University of East Anglia, Norwich Research Park, Norwich NR4 7TJ, UK. 17Section of Integrative Biology and Brackenridge Field Laboratory, University of Texas, Austin, Texas 78712, USA. 18Black Mountain Laboratories, CSIRO Ecosystem Sciences, Clunies Ross Street, Canberra, Australian Capital Territory 2601, Australia. 19Department of Genetics, North Carolina State University, Raleigh, North Carolina 27695, USA. 20UMR-A 1272 INRA-Universite ́ Pierre et Marie Curie, Physiologie de l’Insecte: Signalisation et Communication, Route de Saint-Cyr, Versailles Cedex 78026, France. 21Department of Genetics, Downing Street, University of Cambridge, Cambridge CB2 3EH, UK. 22Department of Entomology, Center for Comparative Genomics, California Academy of Sciences, 55 Music Concourse Drive, San Francisco, California 94118, USA. 23Center for Conservation and Research Training, Pacific Biosciences Research Center, University of Hawaii at Manoa, 3050 Maile Way, Gilmore 406, Honolulu, Hawaii 96822, USA. 24Museo de Historia Natural, Universidad Nacional Mayor de San Marcos, Apartado 14-0434, Lima, Peru. 25School of Computing Sciences, University of East Anglia, Norwich Research Park, Norwich NR4 7TJ, UK. 26Department of Biology, Williams College, Williamstown, Massachusetts 01267, USA. 27Department of Genetics, Yale University School of Medicine, 333 Cedar Street, New Haven, Connecticut 06520, USA. 28Department of Biology, University of Puerto Rico, PO Box 23360, R ́ıo Piedras, 00931-3360 Puerto Rico. 29Department of Biochemistry, Molecular Biology, Entomology and Plant Pathology, Mississippi State University, Mississippi State, Mississippi 39762, USA. 30Institute for Genomics, Biocomputing and Biotechnology, Mississippi State University, Mississippi State, Mississippi 39759, USA. 31McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University, Baltimore, Maryland 21205, USA. 32Biomathematics Program, North Carolina State University, Raleigh, North Carolina 27695, USA. 33School of Biological Sciences, University of Bristol, Bristol BS8 1UG, UK. 34The GenePool, Ashworth Laboratories, University of Edinburgh, West Mains Road, Edinburgh EH9 3JT, UK. 35Human Genome Sequencing Center, Baylor College of Medicine, One Baylor Plaza, Houston, Texas 77030, USA. 36Facultad de Ciencias Naturales y Matema ́ticas, Universidad del Rosario and Instituto de Gene ́tica, Universidad de los Andes, Bogota ́ , Colombia. 37Department of Biology, Boston University, 5 Cummington Street, Boston, Massachusetts 02215, USA. 38Department of Organismic and Evolutionary Biology, Harvard University, 16 Divinity Avenue, Cambridge, Massachusetts 02138, USA.
+©2012 Macmillan Publishers Limited. All rights reserved
+00MONTH2012|VOL000|NATURE|5

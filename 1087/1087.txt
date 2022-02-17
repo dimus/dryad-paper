@@ -1,0 +1,263 @@
+    Genetic variation underlying the expression of a polyphenism
+B. A. BUZATTO, L. W. SIMMONS & J. L. TOMKINS
+Centre for Evolutionary Biology, School of Animal Biology (M092), The University of Western Australia, Crawley, WA, Australia
+Keywords:
+alternative phenotypes; alternative reproductive tactics; canalization;
+conditional strategy; intra-sexual dimorphism;
+male dimorphism;
+male polyphenism;
+phenotypic plasticity;
+threshold trait.
+Introduction
+Natural dichotomous variation occurs in a great variety of morphological and life history traits (Moran, 1992). When the dichotomy is manifested between the two sexes, the phenomenon is readily recognized as sexual dimorphism, the central focus of an enormous amount of evolutionary theory (Lande, 1980; Andersson, 1994). Nevertheless, dichotomous traits that are not purely related to sex abound, but have received far less theoretical treatment and empirical attention. Discontinuous variation across both sexes or within a single sex has been documented for a diversity of traits, including shape or the presence of morphological structures (references in Roff, 1994, 1996; Brockmann, 2001), behaviour (Moczek & Emlen, 2000) and seasonal diapause (Mousseau & Roff, 1989). The game theoretical explanations for dichotomous traits that are inherited in a Mendelian manner are relatively straightforward (Maynard Smith, 1982). However, a great many dichotomous traits reflect a polyphenism, where the differential expression of alternative pheno-
+Correspondence: Bruno A. Buzatto, Centre for Evolutionary Biology, School of Animal Biology (M092), The University of Western Australia, 35 Stirling Highway, Crawley 6009, WA, Australia.
+Tel.: (+61 8) 64881493; fax: (+61 8) 64881029;
+e-mail: bruno.buzatto@gmail.com
+types from a single genotype is dependent on environmental conditions (West-Eberhard, 2003).
+Known in evolutionary game theory as the conditional evolutionarily stable strategy, polyphenic dimorphisms are thought to evolve and be maintained when individuals’ phenotypes are decided through conditional decision rules (Dawkins, 1980; Hazel et al., 1990). One such example is in the context of competitive ability, where status determines the fitness of a particular phenotypic tactic (Hazel et al., 1990; Gross, 1996). Where this occurs the alternative phenotypes are expected to evolve to become status dependent, where individuals with a status higher than an evolutionarily stable switchpoint benefit from adopting one phenotype, whereas individuals with status lower than this switchpoint benefit from adopting the other (Hazel et al., 1990; Gross, 1996; Tomkins & Hazel, 2007). Similar models have been proposed to account for threshold sex determination (Blackmore & Charnov, 1989).
+Under the conditional strategy, the environment that an organism experiences provides an important contribution to the phenotypic outcome of development, and the genetic basis to phenotype expression becomes complicated. Noting that traits with discontinuous variation could be inherited in the same way as continuous traits, Falconer (1989) suggested that dichotomous traits actually have an underlying genetic architecture that varies
+Abstract
+Polyphenic traits are widespread and represent a conditional strategy sensitive to environmental cues. The environmentally cued threshold (ET) model considers the switchpoint between alternative phenotypes as a polygenic quantitative trait with normally distributed variation. However, the genetic variation for switchpoints has rarely been explored empirically. Here, we used inbred lines to investigate the genetic variation for the switchpoint in the mite Rhizoglyphus echinopus, in which males are either fighters or scramblers. The conditionality of male dimorphism varied among inbred lines, indicating that there was genetic variation for switchpoints in the base population, as predicted by the ET model. Our results also suggest a mixture between canalized and conditional strategists in R. echinopus. We propose that major genes that canalize morph expression and affect the extent to which a trait can be conditionally expressed could be a feature of the genetic architecture of threshold traits in other taxa.
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 748–758 748 JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+doi: 10.1111/j.1420-9101.2012.02469.x
+
+continuously due to polygenic effects, coupled with a threshold mechanism that generates discontinuity in trait expression. Such traits had been named threshold traits in earlier theoretical work (Dempster & Lerner, 1950), and the concept of quantitative genetic variation underlying their expression became the central idea of the ‘liability model’ of quantitative genetics (Falconer, 1965).
+The widely used notion of ‘liability’ assumes that a fixed threshold overlies a continuously distributed liability, which itself is influenced by both genetic and environmental factors (Falconer, 1989). Many threshold traits are environmentally sensitive or environmentally cued. Where this occurs, the ‘environmentally cued threshold’ model (henceforth ET) treats liability as a heritable distribution of sensitivities to the environmental cue (Hazel et al., 1990; Tomkins & Hazel, 2007). In the light of this model, the switchpoint itself can be understood as a polygenic trait with a large additive genetic component that is normally distributed and subject to selection (Hazel et al., 1990; Roff, 1994; Tomkins & Hazel, 2007). Thus, the genetic variation for switchpoints in the ET model explains the fact that there is usually a range of
+cue values where both phenotypes are produced; the larger the genetic variance in switchpoint distribution, the more gradual the increase in the cumulative frequency of the alternative tactic when it is plotted against the cue (Fig. 1). This theoretical interpretation of the manner in which populations are sensitive to environmental cues is an important facet of the ET model; with it comes the prediction that populations depauperate in genetic variance will have steeper cumulative frequency distributions (i.e. a narrow range of switchpoint values) compared with populations with much genetic variance.
+In the ET model, because some individuals switch earlier than others in response to the same level of cue (e.g. Tomkins, 1999), there is a range of values of the cue where both phenotypes are expressed. Although under the ET model this overlap is thought to represent the switchpoint distribution, an alternative explanation, or at least an explanation for largely overlapping distributions of tactic expression, is that populations represent a mixture of strategies (Lively et al., 2000), with some genotypes expressing environmentally cued phenotypes, whereas others are canalized and express only one
+Genetic variation and polyphenism 749
+   (a)
+Tactic A
+Tactic B
+Mean switchpoint
+Cumulative frequency of tactic A
+T
+Status variation
+     (b)
+Mean switchpoint
+Cumulative frequency of tactic A
+Switchpoint variation
+Status or switchpoint
+(c)
+      Fig. 1 (a) The ‘status-dependent selection’ model: the bell-shaped curve is the normal distribution of males’ status, and the lines represent the fitnesses of male phenotypes as a function of status (black line for tactic A; grey line for tactic B). Because these fitness functions intersect at the threshold T, individuals of status higher than T benefit from expressing the tactic A phenotype, whereas individuals of status lower than T benefit from expressing the tactic B phenotype. Horizontal arrows indicate the proportion of males expressing each phenotype (black for tactic A; grey for tactic B), and they gradually merge at the threshold, indicating genetic variation for the switchpoint. (b) The ‘environmentally cued threshold’ model (ET): genetic variance in switchpoint distribution (the grey dotted line indicates mean switchpoint; the solid bellshaped curve indicates switchpoint distribution) explains why there is overlap in the status of the two male morphs, generating the cumulative normal curve of tactic A expression. (c) In this case, switchpoint distribution is narrower, and hence, the cumulative normal curve of
+tactic A expression is steeper than in the previous case. Under the ET model, scenario C would be predicted after the establishment of inbred lines, as genetic variation for switchpoints should be very small within each inbred line.
+Switchpoint variation Status or switchpoint
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 748–758
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Frequency
+Fitness or frequency
+
+750 B. A. BUZATTO ET AL.
+phenotype regardless of the strength of environmental cues. In this case, reducing genetic variation would result in the canalized expression of phenotypes in some cases and environmental sensitivity in others. With a strategic model, Lively (1986) has demonstrated that the coexistence of conditional and canalized strategists in the same population is possible, and more recently, Plaistow et al. (2004) predicted that such coexistence is actually more likely to evolve than the occurrence of only conditional strategists, as long as there is a cost for conditionality. From a theoretical standpoint that accounts for the quantitative genetics underlying the dimorphism, the potential for this mixture of strategies has been incorporated in the ET model (Hazel et al., 2004), and empirical studies have found evidence for mixtures of conditional and pure strategists in the predator-induced defence dimorphisms of barnacles (Lively et al., 2000) and daphnids (Hammill et al., 2008).
+In the present study, we investigate the importance of genetic variation in the conditional expression of alternative male phenotypes in the acarid mite Rhizoglyphus echinopus (Fumouze & Robin). Two male phenotypes occur in R. echinopus: fighters possess a very thick and sharply terminated third pair of legs, whereas scramblers legs are all equally thin and without a sharp tip. Fighter males use their heavily armoured legs to kill rival males and monopolize females, whereas scrambler males search for unguarded females to mate with (Radwan, 1993). This male dimorphism in R. echinopus is known to be environmentally cued by body size and male density (Radwan, 2001; Tomkins et al., 2011). Indeed, in our laboratory populations, fighter expression is positively related to body size [measured as the weight of the pre-imaginal, quiescent tritonymph (QTW)], and juveniles that are reared individually are more likely to become fighters than juveniles reared in groups of 20 (Tomkins et al., 2011). It appears counterintuitive that body size is termed an ‘environmental cue’ when body size is a trait of the organism, possessing genetic variation. However, because there is no expectation for there to be a correlation between environmental quality and the genetic propensity to be large or small bodied, genes for size segregate randomly with respect to the environments that they develop in and can, in modelling terms, be considered along with the environmental variation (W. N. Hazel personal communication; Tomkins & Hazel, 2007).
+Here, we standardized male density (all males were reared in isolation, see Materials and methods below) and focused on the body size of the mite itself as the environmental cue that correlates with male status (and hence competitive ability) and therefore influences male morph outcome. There is a great deal of overlap in the sizes of males that become either fighters or scramblers in R. echinopus, raising the possibility that there is either large genetic variance in switchpoint distribution, or that some genotypes are canalized to express either the fighter or scrambler morph irrespective of environmental cues.
+Furthermore, the dimorphism in R. robini, the sister species to R. echinopus, has been shown to be largely insensitive to environmental cues (Radwan, 1995; but see Smallegange, 2011) giving support to the notion that the large variance in sensitivity to the environmental cue might be due to the presence of canalized genotypes in the population. Because the environmental cue in R. echinopus is body size, variation for switchpoint distribution needs to be disentangled from variation for the environmental cue itself (body size). This distinction is possible with the ET model, because it treats the distribution of environmental cues and switchpoints independently (see Box 2 in Tomkins & Hazel, 2007).
+Here, we test the ‘switchpoint variance prediction’ of the ET model, using inbred lines to reveal the genetic variation for switchpoints that underlies the conditional expression of alternative male phenotypes in R. echinopus. Because inbreeding increases homozygosity across loci (Falconer, 1989), variation among inbred lines that are founded from the same population is mostly genetic and reveals the variation between different genotypes of the original population. If variation in switchpoints is due purely to additive effects on sensitivity to environmental cues, we expect all inbred lines to present conditionality of male dimorphism but with different switchpoints emerging in each of the lines (e.g. Hammill et al., 2008). Moreover, we expect inbred lines to present steeper cumulative frequency distributions of fighters as body size increases (i.e. a narrow range of switchpoint values) compared with the base population, as each inbred line only contains a fraction of the genetic variation from the base population. If on the other hand some genotypes are canalized as appears to be the case in some populations of R. robini, we expect a more complex pattern of sensitivity and insensitivity to the environment to emerge, in which some inbred lines present conditionality and others do not.
+Materials and methods
+Collecting and maintaining the base population
+All individuals used in this study were derived from a base colony of R. echinopus collected from an infested organic onion purchased at a health-food shop in August 2005. We kept the base colony in six Petri dishes (90 mm; partfilled with plaster-of-Paris) at 22 °C [Binder KB 240 cooled incubator (Crown Scientific, Minto, Australia)] in desiccators with 100 mL of KOH solution (153 g L)1 H2O) to maintain > 90% humidity. Each dish had a standing adult population of several hundred individuals, with occasional population peaks of a few thousand individuals, when we discarded a random half of the colony to prevent overpopulation. We periodically moved mites between the Petri dishes to maintain a genetically mixed culture and fed the colonies with tissue paper and dried Alinson’s yeast ad libitum. Because the base population
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 748–758 JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+had a female-biased sex ratio and tested positive for the sex ratio distorting bacterium Wolbachia sp. (J.L. Tomkins, unpublished data), we cured the laboratory populations by moistening the plaster-of-Paris in the colonies with a mixture of tetracycline and water over a period of three generations. The generation time of the mites is approximately 2 weeks, and experimental manipulations began after > 50 generations in the laboratory.
+Rearing individual larvae
+We isolated approximately 100 larvae from the base colonies and reared them individually in cylindrical glass vials (diameter = 10 mm and height = 14 mm) with plaster-of-Paris bases 4–5 mm thick that we kept damp by placing them on a piece of damp filter paper in a Petri dish. These vials will henceforth be referred to as ‘individual vials’. We closed individual vials with a wad of nonabsorbent cotton wool (BSN Medical, Victoria, Australia) and provided the mites inside with food ad libitum, which consisted of a single ball of Alinson’s dried yeast that is many times heavier than an adult mite, and clearly more than an individual consumes throughout development. This procedure allowed us to obtain virgin adults from the base colony.
+Pairing to obtain full siblings
+Using the virgins obtained from the base populations, we paired 40 couples separately in cylindrical plastic ‘mating tubes’ made by cutting the top 25 mm off a 25-mL polypropylene vial (Interpath). These containers had a screw cap ventilated with 6-mm holes that we covered with porous plastic (Genesee Scientific, San Diego, CA, USA), and a plaster-of-Paris base 4–5 mm thick that we kept damp by placing them on a piece of damp filter paper in a Petri dish. We sprinkled mating tubes with Alinson’s dried yeast and, 5 days after pairing, we started to check each of them daily for the presence of eggs. Successful pairings were capable of producing approximately 200 eggs. As soon as the eggs started to hatch, we isolated 20 larvae produced by each pair and raised them to adulthood individually, as described earlier. This procedure allowed us to obtain virgin full siblings derived from 40 outbred pairs. We used these virgin full siblings to establish inbred lines.
+Establishing inbred lines
+Using the offspring from the 40 outbred pairs, we randomly selected 35 pairs of virgin full siblings and paired them in mating tubes, always providing ad libitum yeast. Five days after pairing, we isolated 20 larvae produced by each pair and raised them to adulthood individually as described earlier. Throughout the experiment, approximately 14% of full sibling pairings failed to produce any offspring, rendering the lines extinct.
+We repeated the procedure of pairing full siblings and raising their offspring individually for six generations, after which inbred colonies were established in cylindrical plastic ‘colony plates’ made by cutting the top 25 mm off a 500-ml polypropylene container (Interpath). These containers had a screw cap ventilated with 6-mm holes that we covered with porous plastic (Genesee Scientific), and a plaster-of-Paris base 4–5 mm thick that we kept damp by placing them on a piece of damp filter paper in a Petri dish. Between April 2008 and September 2009, we kept the inbred colonies in colony plates with ad libitum dried yeast and paper at 4 °C, hence increasing their generation time to about 2 months (J.L. Tomkins, unpublished data). In September 2009, we put the inbred colonies back into 22 °C incubators and resumed inbreeding (as already described) for two further generations. Overall, inbred colonies went through eight generations of full sibling pairings: an expected inbreeding coefficient of F = 0.826.
+Assaying inbred lines for male polyphenism
+We successfully established eight inbred lines of R. echinopus through eight generations of full-sib crosses. These lines were assayed for the conditional expression of male phenotype. We isolated larvae from the inbred lines in individual glass vials and raised them to adulthood at 22 °C with ad libitum dried yeast. We assayed four lines (on average 50 larvae from each of them) at a time and kept the vials containing all the larvae in the same incubator, totalling 200 larvae in the incubator at any given time. This process was repeated four times. Individuals cannot be sexed as nymphs, and sex ratio varied between the lines in the first two repeats. Therefore, we had to adjust the total number of larvae that we isolated from each line based on the sex ratio of each of them in the first two repeats, to try to obtain 50 adult males from each line. With four repeats, we managed to analyse a total of 800 larvae (100 each from lines 10, 18, 19 and 29; 142 from line 27; 62 from line 30; 66 from line 36; and 130 from line 38). During each repeat, we shuffled the position of the vials containing juveniles from each line, to avoid any effect of slightly different temperature or odours in different parts of the incubator.
+At least twice per day from the 6th to the 11th day after isolation, we checked the mites for the quiescent stage of the tritonymphs, when the last nymphal stage stops moving for 6–12 h prior to its eclosion as an adult (Radwan et al., 2002). We weighed every quiescent tritonymph (QTW) to the nearest 0.0001 mg on a Sartorius SE2 balance and then returned them to their vials. Fighters loose more weight than scramblers at eclosion; hence QTW is the best proxy to individual condition immediately prior to the adult phenotype expression (Radwan et al., 2002; Tomkins et al., 2004). On the day following weighing, we recorded sex and male morph for each individual.
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 748–758
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Genetic variation and polyphenism 751
+
+752 B. A. BUZATTO ET AL.
+We observed 17 ‘intermorphs’ where on one side the third pair of legs is thick and sharply terminated and the other is thin and without a sharp tip (like a scrambler, 11 ⁄ 17 with fighter right leg). The frequency of such intermediate males was positively correlated with the frequency of fighters in these populations (P < 0.05), suggesting that these males experienced problems in the developmental pathway leading to fighters. However, we excluded these males from all further analysis, as in these rare events (4.52% of males), we could not confidently assign the males to a particular morph.
+Results
+Male dimorphism in the inbred lines
+Inbred lines differed in the expression of male polyphenism, with fighter expression ranging from 0% to 73% (Fig. 2). We combined the data from the eight inbred lines and modelled the probability of males developing the fighter phenotype by fitting a generalized linear model with binomial error distribution, coding fighters as one and scramblers as zero and using QTW and line as independent variables. We then performed an analysis of deviance in which we added sequentially to the null model the predictor variables to quantify their significance (Table 1). Next, in a separate analysis for each inbred line, we again fitted generalized linear models with binomial error distribution and using QTW as the independent variable. The fitted lines (Fig. 2) represent the cumulative frequency distribution of individuals expressing the fighter phenotype as QTW increases. This analysis revealed that lines 18 and 27 showed conditionality of fighter expression (Table 2, Fig. 3a), whereas all of the other lines did not. Among the lines that did not show conditionality of fighter expression, either both morphs were expressed across all values of body size (as in lines 19, 38 and more clearly in line 29) or fighter morph expression was suppressed (partially in lines 10 and 36 and completely in line 30, see Table 2 and Fig. 2).
+When inbred lines showed conditionality
+To determine whether there were shifts in the average switchpoint of the two inbred lines that showed conditionality (lines 18 and 27), we combined the data from these two lines and from the base population and used a generalized linear model approach with morph as the binomial dependent variable and QTW and line⁄base as independent variables. We then performed an analysis of deviance in which we added sequentially to the null model the predictor variables to quantify the significance of each parameter (Table 3). The interaction between these two variables was not included in these models because a more powerful approach was used to detect differences in the variance of switchpoint distributions
+between these lines. The mean switchpoint (predicted fighter probability of 0.5, Hazel et al., 1990) occurred at a QTW of 0.0568 mg in line 27, significantly greater than the base population (Table 3; 0.0469 mg, Fig. 3b) but not significantly greater in line 18 (0.0527 mg).
+To detect differences in the variance of switchpoint distributions between inbred lines 18 and 27 and the base population, we followed the analysis proposed by Tomkins & Hazel (2011), based on the ET model notion that the steepness of the function that relates the probability of becoming a fighter to the values of body size is indicative of switchpoint distribution (Hazel et al., 1990; Tomkins & Hazel, 2007, 2011). We estimated the standard deviation (SD) of the switchpoint distribution for the base and lines 18 and 27 by estimating the QTW at the probabilities of 0.1587 and 0.8413 of a male developing into a fighter, and calculating the range of QTW between these probabilities and the probability of 0.5 (i.e. to give 1SD above and 1SD below the mean switchpoint which we then averaged; Tomkins & Hazel, 2011). We then squared these standard deviations to obtain an estimate of the variance in switchpoints for lines 18 and 27 and compared them to the base colony through variance ratio tests. The variance of the estimated distribution of switchpoints in line 27 (1.266 · 10)4 mg2) was significantly smaller than the one obtained for the base colony (6.101 · 10)4 mg2; F61,46 = 4.821, P < 0.001). However, the variance of the estimated distribution of switchpoints in line 18 (3.940 · 10)4 mg2) was not different from that of the base colony (F61,51 = 1.548, P = 0.11).
+To provide an estimation of switchpoint variation in relation to the variation in the cue that determines male morph expression (i.e. body size), we divided the standard deviation of switchpoints by the standard deviation of the overall QTW distribution in each inbred line (as in Tomkins & Hazel, 2011). We found that switchpoint variation in these inbred lines corresponded respectively to 211.52% and 132.82% of QTW variation. Meanwhile, the value obtained for the base colony was 250.63%. Finally, we found a positive correlation between the line average for male QTW and the proportion of fighters in each inbred line (Pearson, r6 = 0.758, P = 0.03; Fig. 4), and this correlation increased when the base colony was included (Pearson, r7 = 0.818, P = 0.007; Fig. 4).
+Discussion
+Evidence for a mixture of strategies
+Our approach aimed at using inbred lines to scrutinize the genetic variation in the conditional expression of alternative male phenotypes in R. echinopus. We found that the level of conditionality of male dimorphism varied greatly between the inbred lines. This variety of conditionality among these lines could indicate a natural
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 748–758 JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+ 0.02
+0.04
+0.06
+0.08
+0.02
+0.04
+0.06
+0.08
+0.02
+0.04
+0.06
+0.08
+0.02
+0.04
+0.06
+0.08
+Base (n = 62) 62.9%
+L27 (n = 47) 14.6%
+L18 (n = 52) 36.5%
+fighters
+0.02 0.04 0.06 0.08
+fighters
+0.02 0.04
+fighters
+0.02 0.04
+0.06
+L19 (n = 41) fighters
+0.08
+0.06
+L38 (n = 38) fighters
+0.08
+73%
+32%
+L29 (n = 55) fighters
+0.02 0.04 0.06 0.08
+L10 (n = 51) fighters
+L36 (n = 47) fighters
+L30 (n = 44) fighters
+0.02 0.04 0.06 0.08
+9.8%
+2.1%
+0%
+occurrence of more than one genetic strategy in the base population – or at least variation in the genetic basis to phenotype expression in this species. In lines 27 and 18, conditional expression of male phenotypes was evident. In contrast, all the other inbred lines showed no conditionality, probably due to a high frequency of genotypes (perhaps 100% in line 30) that were only capable of expressing the scrambler phenotype (canalized strategists) under the environmental conditions they
+were reared in. The coexistence of conditional strategists and canalized strategists in a single population is known (Lively, 1999; Lively et al., 2000) and has received theoretical consideration in strategic (Lively, 1986; Plaistow et al., 2004) and quantitative genetic models (Hazel et al., 2004). Hazel et al. (2004) proposed two genetic mechanisms for mixtures of conditional and canalized individuals: (i) the variation in switchpoints in the population is large relative to the distribution of cues
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 748–758
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Quiescent tritonymph weight (mg)
+Fig. 2 The results of establishing inbred lines on the expression of conditional male dimorphism in the mite Rhizoglyphus echinopus. The
+first plot on the upper left corner shows that the probability of a juvenile becoming a fighter increases with the weight at the quiescent tritonymph stage (QTW) in the base colony. The remaining plots show the same probabilities for the eight inbred lines after eight generations of full-sib pairings. The identity of each line is given by an uppercase L followed by a number, sample sizes are given in parentheses, and the percentage of fighters is given inside each plot. Significant relationships are indicated by solid curves, whereas nonsignificant relationships are indicated by broken lines (Table 2 for the coefficients of each model and their respective significances). Conditionality was still significant in lines 27 and 18, although the remaining inbred lines did not show any relationship between the probability of a juvenile becoming a fighter and QTW (Table 2). Possible explanations for these heterogeneous results are discussed in the text.
+Genetic variation and polyphenism 753
+36%
+0.0 0.2 0.4 0.6 0.8 1.0
+0.0 0.2 0.4 0.6 0.8 1.0
+0.0 0.2 0.4 0.6 0.8 1.0
+0.0 0.2 0.4 0.6 0.8 1.0
+0.0 0.2 0.4 0.6 0.8 1.0
+0.0 0.2 0.4 0.6 0.8 1.0
+0.0 0.2 0.4 0.6 0.8 1.0
+0.0 0.2 0.4 0.6 0.8 1.0
+0.0 0.2 0.4 0.6 0.8 1.0
+Probability of becoming a fighter
+
+ 754 B. A. BUZATTO ET AL.
+Table 1 Analysis of deviance used to compare the relationship between the probability of a nymph of the bulb mite R. echinopus becoming a fighter (response variable) and body size (measured as quiescent tritonymph weight, QTW) among eight inbred lines after eight generations of full-sib pairings. P-values in bold are significant at the 0.05 level.
+(a)
+Residual Residual Deviance d.f. Deviance
+P (v2)
+< 0.0001
+< 0.0001
+Model d.f.
+Null 374 422.30
+QTW 1 QTW + 7
+population
+27.516 373 394.78 87.021 366 307.76
+Table 2 The results of eight generalized linear models with binomial distribution and a logit link that we fit to the dataset of each inbred line (and the base colony), coding fighters as one and scramblers as zero in the dependent variable, and using quiescent tritonymph weight (QTW) as the independent variable. The logistic curves described by the coefficients bellow for each inbred line are illustrated in Figure 2. The analysis was not performed for inbred line 30 because no fighters were produced in this line after inbreeding. P-values in bold are significant at the 0.05 level.
+0.00
+(b)
+0.02 0.04
+0.06 0.08 0.10
+Population Base colony
+Line 27 Line 18 Line 19 Line 38 Line 29 Line 10 Line 36
+Standard Coefficients Estimate error
+Intercept )3.168 1.720
+z value )1.842
+2.146 )2.946 2.505 )2.584 2.337 )0.959 1.388 )1.752 1.436 )0.735 0.301 )0.558 )0.290 )0.483 )0.312
+P-value 0.0654
+0.0318 0.00322 0.01224 0.00978 0.01944 0.338 0.165 0.0798 0.1510 0.462 0.763 0.577 0.772 0.629 0.755
+QTW
+Intercept
+QTW
+Intercept
+QTW
+Intercept
+QTW
+Intercept
+QTW
+Intercept
+QTW
+Intercept
+QTW
+Intercept )2.316 4.795 QTW )35.848 114.996
+67.579
+31.485 2.864 59.260 1.715 35.969 2.298 44.602 2.184 44.075 1.264 24.386 2.623 61.518
+)8.438 148.451 )4.430 84.058 )2.204 61.920 )3.825 63.297 )0.930 7.345 )1.464 )17.820
+0.00
+0.02 0.04
+0.06 0.08 0.10
+Frequency of switchpoints Probability of becoming a fighter
+0 10 20 30 40 0.0 0.2 0.4 0.6 0.8 1.0
+and ⁄ or; (ii) the population is polymorphic for an epistatic allele at a major locus that masks the expression of polygenic variation in switchpoint.
+These two scenarios described by Hazel et al. (2004) for the coexistence of canalized and conditional strategists in single populations are compatible with our results. The relative variation in switchpoint distribution in R. echinopus is extremely high, representing over 250% of the variation in body size. This value is higher than all similar estimations recently calculated by Tomkins & Hazel (2011) for 18 populations of male-dimorphic arthropods. Even in the inbred lines, the relative variation in the distribution of switchpoints in R. echinopus still represented over 130% of the distribution of the cue (in the lines that showed conditionality). This fits the first scenario proposed by Hazel et al. (2004), in which the
+Fig. 3 (a) A comparison between the base colony and inbred lines 27 and 18 regarding the relationship between the probability of a juvenile becoming a fighter and QTW. After eight generations of fullsib pairings, this relationship was stronger in lines 27 (black full circles and black solid curve) and 18 (open circles and black broken curve), than in the base colony (grey full circles and grey solid curve), which did not experience any inbreeding, serving as a control. (b) A comparison between the base colony and inbred lines 27 and 18 regarding estimated switchpoint distributions. The arrows indicate mean switchpoints; the bell-shaped curves indicate switchpoint distributions. After eight generations of full-sib pairings, switchpoint distribution was narrower in lines 27 (black solid arrow and curve) and 18 (black broken arrow and curve), than in the base colony (grey solid arrow and curve), which did not experience any inbreeding, serving as a control.
+large distribution of switchpoints (in relation to the distribution of the cue) causes some genotypes to have their switchpoint set at a value that exceeds the natural
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 748–758 JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Quiescent tritonymph weight (mg)
+
+Table 3 Analysis of deviance used to compare the relationship between the probability of a nymph of the bulb mite R. echinopus becoming a fighter (response variable) and body size (measured as quiescent tritonymph weight, QTW) among the base population and the inbred lines that showed conditional male dimorphism after eight generations of full-sib pairings (lines 27 and 18). P-values in bold are significant at the 0.05 level.
+at < 100%. This sub-maximal asymptote occurs because no matter how strong the cue becomes, individuals carrying the epistatic allele remain insensitive. This contrasts with the alternative hypothesis where increasing cue strength always yields increasing numbers of affected individuals. Sub-maximal asymptote seems to have occurred in line 18 and for perhaps the base colony of R. echinopus. These major gene effects would in theory be independent of the variation in switchpoint distribution, such that their presence could lead to a submaximal asymptote even in populations with very little genetic variation in switchpoints. Clearly, when there is ample switchpoint variation, their effects are harder to detect because the environmental cue may not be strong enough to illicit 100% response, generating a similar pattern even in the absence of major gene effects.
+Although both scenarios for the coexistence of conditional and canalized individuals are compatible with our results, we are unable to distinguish conclusively between them. For example, in lines 10, 30 and 36, fighters were only very rarely produced. In these cases, it is difficult to distinguish between whether the inbred lines contain distributions of switchpoints and distributions of body sizes (the putative cue) in a way that all individuals are smaller than their genetic switchpoints, or whether these lines just contain a high frequency (100% in line 30) of a major gene that prevents the production of fighters. Evidence for the former mechanism may come from the fact that average male body size in each line was positively related to the proportion of fighters in that line (i.e. when the cue is stronger, in our case larger body sizes, more fighters are produced). Such a result is only expected if the switches are there, but they simply do not get tripped.
+The polygenic nature of switchpoints
+The relationship between body size and the probability of becoming a fighter was even stronger in lines 27 and 18 than in the base colony. This stronger relationship is reflected in the steepness of the function that relates the probability of becoming a fighter to the values of QTW (Fig. 3a). From these probability functions, we estimated the switchpoint distributions in lines 27, 18 and in the base population and demonstrated that these two inbred lines (more significantly line 27) had narrower switchpoint distributions when compared with the base colony (Fig. 3b). These results support the prediction of the environmental threshold model that the distribution of switchpoints is genetically variably because the establishment of inbred lines caused a reduction in the variance of this trait.
+This study is not the first to provide evidence for genetic variation underlying the expression of polyphenisms. Sewell Wright (1934), in an extensive study on the expression of extra digits in guinea pigs, found no detectable genetic variability within strongly inbred lines,
+Model d.f.
+Null 160
+Deviance
+217.19 178.50 171.56
+P (v2)
+< 0.0001
+0.03
+Deviance d.f.
+Residual Residual
+Genetic variation and polyphenism 755
+  QTW 1 QTW + 2
+population
+38.692 159 6.931 157
+               0.040 0.045 0.050 0.055 0.060
+Average quiescent tritonymph weight (mg)
+Fig. 4 There was a positive correlation between the average quiescent tritonymph weight (QTW) of males and the proportion of fighters among the eight inbred lines and the base colony. Full circles represent inbred lines, and an open circle represents the base colony. The dashed line depicts the relationship between the probability of a juvenile becoming a fighter and QTW in the base colony (as illustrated in Figure 2 for all inbred lines and the base population).
+range of the cue for that particular population (see Fig. 2 in Hazel et al., 2004). In practice, these individuals are canalized to one of the male phenotypes, simply because they never experience cues strong enough to trigger the switch. This contrasts with other individuals in the same population that have switchpoints within the range of cues and hence are still capable of conditionally expressing both phenotypes.
+The second scenario accounting for the coexistence of canalized and conditional strategists is the existence of an epistatic allele at a major gene that blocks the expression of one of the phenotypes (Lively et al., 2000). The presence of such major gene effects would cause the probability of becoming a fighter to reach an asymptote
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 748–758
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Proportion of fighter males
+0.0 0.2 0.4 0.6 0.8
+
+756 B. A. BUZATTO ET AL.
+but substantial variability between these lines, suggesting a great amount of genetic variation underlying this dichotomous trait. Wright’s (1934) study focused on analysing the proportions of the alternative phenotypes as the response variable, measuring the patterns of inheritance and inferring the sources of genetic and environmental variation, but without any measure of any putative environmental cues that influence the dimorphism. Therefore, the genetic variation for sensitivity to the cue (i.e. the switchpoint itself) is indistinguishable from the genetic variation for the cue itself, for example a hormone titre. This is an important distinction to be made, as in R. echinopus, male polyphenism is environmentally cued by body size and male density (Radwan, 2001; Tomkins et al., 2011), and body size itself is expected to present a strong additive genetic component.
+More recently, Pa ́ ez et al. (2011) used a pedigree design with both maternal and paternal half-sib structure and unveiled additive genetic variance in the switchpoint that determines the timing of sexual maturity (and consequently male polyphenism) in the Atlantic salmon. Our inbred line approach provides a novel and independent source of evidence to corroborate the idea that in cases where conditionality is isolated within the range of environmental cues, there is genetic variation for the hypothesized switchpoint distribution, as we would expect for a polygenic trait. Also consistent with our results, a study on the predator-induced morphological defences of Daphnia pulex produced reaction norms that suggest genetic variation in switchpoints (Hammill et al., 2008). However, the inducible morphological defences of D. pulex might be the result of more than one threshold trait, as Hammill et al. (2008) assigned points to different structures (pedestal and spikes), scoring individuals for different levels of induction, which were then normalized to vary between 0% and 100%. Consequently, genetic variation for these morphological defences is not necessarily related to a single threshold trait. On the other hand, in our study, the discrete variation that defines a polyphenism is absolutely clear, because there are no intermediate levels of expression of the fighter phenotype. Although we observed a few intermediate males (called intermorphs, see Materials and methods), this phenomenon was excluded from our analysis on the basis of being rare and probably the result of development instability. Therefore, the variation between our inbred lines that were founded from the same base population and reared under common garden conditions [standardized temperature, light cycle, population density (every mite was reared in isolation) and diet (ad libitum yeast provided)] clearly reflects genetic variation underlying a single threshold trait.
+Conclusion
+A great deal of phenotypic diversity is expressed as environmentally induced alternative phenotypes (West-
+Eberhard, 2003). Alternative mating strategies are a particular case, with male dimorphism widespread among animal taxa (Oliveira et al., 2008). Although there are cases of alternative reproductive strategies where the phenotype adopted by a male is determined entirely by the alleles at a single locus (Shuster, 2008), several cases reflect the conditional expression of male phenotypes in response to environmental cues (Emlen, 2008). Despite conditional male dimorphisms being common, surprisingly few empirical studies have explored the importance of genetic variation in this type of plasticity (but see Emlen, 1996; Doums et al., 1998; Tomkins & Brown, 2004; Unrug et al., 2004; Pa ́ez et al., 2011). As far as we know, the present study is the first to report the effects of establishing inbred lines to directly investigate the genetic variation for the switchpoint that underlies the expression of male polyphenism. Our approach successfully detected genetic variation for the switchpoint distribution, and thus, we support a fundamental assumption of the environmental threshold model. Our inbred lines were all derived from a base colony collected from a single infested onion, and therefore, our estimates of genetic variation could be conservative, nevertheless this population does contain enough genetic variation to evolve (Tomkins et al., 2011).
+We also found heterogeneous effects among our lines that suggest that our base population of R. echinopus could either be composed of a mixture of canalized and conditional strategists or that we isolated numerous lines with switchpoints beyond the range of body size cues. These results are therefore consistent with the very large amounts of genetic variation in switchpoints that we see in this species or alternatively may indicate that major genes that canalize morph expression overlie the broad conditionality seen in the species. Radwan (1995) has shown that in R. robini the heritability of male morph might exceed one, suggesting major genes action (Falconer, 1989). This could give weight to the idea that there are major genes at play in our population. In Sancassania berlesei, the male dimorphism is deemed to be conditional (Unrug et al., 2004). Even so, departures from conditionality in one population from Stirling prompted Tomkins et al. (2004) to examine offspring morph ratio patterns and the heritability of morphs; in this case, the heritability was < 1, and the ratios of male phenotypes in the offspring did not follow Mendelian patterns, suggesting major gene action did not predominate. How sensitive such techniques are for separating conditionality from major gene effects is unclear. For example, some populations of R. robini seem much like S. berlesei and R. echinopus in their conditionality because Smallegange & Coulson (2011) estimate the heritability of male morphs in a Netherlands population to be 0.3, and Smallegange (2011) shows the male morph to be conditional on size. We anticipate that the variation in morph determination mechanisms seen in the genus Rhizoglyphus means that some populations may harbour
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 748–758 JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+
+mixtures of canalized and conditional strategists and that further exploration of the genetics of our population may provide definitive evidence for this hypothesis.
+Acknowledgments
+We are extremely grateful to Marisa Penrose and Talia Sanders for conducting the first six generations of inbreeding reported in this study, and to Jacek Radwan, Wade Hazel, Curt Lively, an anonymous reviewer and the Centre for Evolutionary Biology at UWA for feedback. This work was supported by the Australian Research Council, and the University of Western Australia. BAB was funded by an International Postgraduate Research Scholarship, a C. F. H. and E. A. Jenkins Postgraduate Research Scholarship, and an Education Australia Limited Student Mobility Scholarship.
+References
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 748–758
+JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY
+Genetic variation and polyphenism 757
+
+758 B. A. BUZATTO ET AL.
+Tomkins, J.L. & Hazel, W.N. 2007. The status of the conditional evolutionarily stable strategy. Trends Ecol. Evol. 22: 522–528. Tomkins, J.L. & Hazel, W.N. 2011. Explaining phenotypic
+diversity: the conditional strategy and threshold trait expression. In: Dung Beetle Ecology and Evolution (L.W. Simmons & T.J. Ridsdill-Smith, eds), pp. 107–125. Wiley-Blackwell, Hoboken, New Jersey.
+Tomkins, J.L., LeBas, N.R., Unrug, J. & Radwan, J. 2004. Testing the status-dependent ESS model: population variation in fighter expression in the mite Sancassania berlesei. J. Evol. Biol. 17: 1377–1388.
+Tomkins, J.L., Hazel, W.N., Penrose, M.A., Radwan, J. & LeBas, N.R. 2011. Habitat complexity drives experimental evolution of a conditionally expressed secondary sexual trait. Curr. Biol. 21: 569–573.
+Unrug, J., Tomkins, J.L. & Radwan, J. 2004. Alternative phenotypes and sexual selection: can dichotomous handicaps honestly signal quality? Proc. Biol. Sci. 271: 1401–1406.
+West-Eberhard, M.J. 2003. Developmental Plasticity and Evolution. Oxford University Press, Oxford.
+Wright, S. 1934. An analysis of variability in number of digits in an inbred strain of guinea pigs. Genetics 19: 0506– 0536.
+Data deposited at Dryad: doi: 10.5061/dryad.rp5tt780
+Received 21 September 2011; revised 4 January 2012; accepted 9 January 2012
+a 2012 THE AUTHORS. J. EVOL. BIOL. 25 (2012) 748–758 JOURNAL OF EVOLUTIONARY BIOLOGY a 2012 EUROPEAN SOCIETY FOR EVOLUTIONARY BIOLOGY

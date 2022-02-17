@@ -1,0 +1,226 @@
+                              Methods in Ecology and Evolution doi: 10.1111/j.2041-210X.2012.00198.x Biodiversity soup: metabarcoding of arthropods for
+rapid biodiversity assessment and biomonitoring
+Douglas W. Yu1,2*†, Yinqiu Ji1†, Brent C. Emerson2‡, Xiaoyang Wang1, Chengxi Ye1, Chunyan Yang1 and Zhaoli Ding3
+1Ecology, Conservation, and Environment Center (ECEC), State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, 32 Jiaochang East Rd., Kunming, Yunnan 650223, China; 2School of Biological Sciences, University of East Anglia, Norwich Research Park, Norwich, Norfolk NR47TJ, UK; and 3Kunming Biodiversity Large-Apparatus Regional Center, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming 650223, China
+Summary
+1. Traditionalbiodiversityassessmentiscostlyintime,moneyandtaxonomicexpertise.Moreover, data are frequently collected in ways (e.g. visual bird lists) that are unsuitable for auditing by neutral parties, which is necessary for dispute resolution.
+2. We present protocols for the extraction of ecological, taxonomic and phylogenetic information from bulk samples of arthropods. The protocols combine mass trapping of arthropods, mass-PCR amplification of the COI barcode gene, pyrosequencing and bioinformatic analysis, which together we call ‘metabarcoding’.
+3. We construct seven communities of arthropods (mostly insects) and show that it is possible to recover a substantial proportion of the original taxonomic information. We further demonstrate, for the first time, that metabarcoding allows for the precise estimation of pairwise community dissimilarity (beta diversity) and within-community phylogenetic diversity (alpha diversity), despite the inevitable loss of taxonomic information inherent to metabarcoding.
+4. Alpha and beta diversity metrics are the raw materials of ecology and the environmental sciences, facilitating assessment of the state of the environment with a broad and efficient measure of biodiversity.
+Key-words: 454 Genome Sequencer FLX System, DNA barcoding, high-throughput sequencing, metagenetics, metagenomics, OTU picking, phylogenetic diversity
+ Introduction
+To manage the forces that affect the levels and distribution of biodiversity, we require the ability to measure biodiversity comprehensively, reliably, repeatedly, and over large scales. Efforts in this direction to date by ecologists and environmental biologists have been impeded by standard survey methodologies that consume large amounts of time, money and taxonomic expertise, and we are therefore impeded from addressing biodiversity loss as a normal management problem
+*Correspondence author. E-mail: dougwyu@gmail.com
+†Joint first authors.
+‡Present address: Island Ecology and Evolution Research Group, IPNA-CSIC, C ⁄ Astrofı ́ sico Francisco Sa ́ nchez 3, 38206 La Laguna, Tenerife, Canary Islands, Spain.
+Re-use of this article is permitted in accordance with the Terms and Conditions set out at http://wileyonlinelibrary.com/onlineopen# OnlineOpen_Terms
+that can be dealt with wherever and whenever it arises. Instead, most biodiversity research remains in the realm of basic science, and even then, scientists typically are forced to rely on proxies (Favreau et al. 2006; Lewandowski, Noss, & Parsons 2010). One long-standing proxy has been to designate a subset of taxa as indicators, some popular ones being butterflies, dung beetles, birds and parasitoid wasps (e.g. Gardner et al. 2008; Anderson et al. 2010).
+Proxies might be efficient, but it is a truism in management that we only get what we measure. Schoolteachers evaluated on exam scores have an incentive to ‘teach to the test’, and biological proxies are subject to the same narrowing of perspective. As one example, 19 species of farmland birds have been designated as a biodiversity indicator on UK farmlands (JNCC 2011), the aim being to use birds to indicate overall farmland biodiversity. However, an understandable response has been to ‘teach to the test’ via supplemental winter feeding of farmland birds (Siriwardena et al. 2007; see also Newton 2011). Thus, in addition to proxies, we should tackle the lack of biodiversity information directly.
+Ó 2012 The Authors. Methods in Ecology and Evolution Ó 2012 British Ecological Society
+
+2 D.W.Yuetal.
+Here, we describe a way to measure arthropod biodiversity rapidly, reliably, cheaply, comprehensively, over large spatial scales, and in ways that can be audited by third-parties, which is a requirement for dispute resolution. The first element is DNA barcoding, in which short gene sequences are used to identify species. The most commonly used barcode for animals is a 658 bp section of the mitochondrial cytochrome c oxidase subunit I gene (mtDNA COI) (Hebert et al. 2003). Other barcode genes are proposed for plants, protists, and meiofauna (Hollingsworth et al. 2009; Creer et al. 2010; Medinger et al. 2010; Yao et al. 2010). Because sequencing is fast and cheap, the barcode approach potentially provides large amounts of species-level inventory data, making it possible to track and measure biodiversity over space and time (e.g. Janzen et al. 2005; Waugh 2007; Borisenko et al. 2008). However, generating barcodes with Sanger sequencing is inefficient if we want to assign taxonomies to hundreds of thousands of samples, a requirement if we want to measure biodiversity repeatedly and over large spatial scales.
+Our protocol therefore includes large-scale trapping for sample acquisition, high-throughput sequencing, and bioinformatic analysis. In short, mass-collected specimens are homogenised (‘souped’), and the genomic DNA is extracted, mass-PCR-amplified for the barcode gene of interest and sequenced on machines that can separate out individual DNA molecules. Bioinformatic tools then process the resulting huge number of sequences down to a data set of manageable size and high-enough quality that is practical for subsequent analysis.
+Altogether, we call this technique metabarcoding to distinguish it from the broader term metagenetics, which encompasses microbial communities, and from metagenomics, which, in addition, refers to the reconstruction of whole genomes. Finally, environmental barcoding or eDNA is probably best used to refer to the amplification and sequencing of free DNA from soil or water. We note, however, that the terminology is in flux.
+Metabarcoding is transforming ecology (Creer 2010; Creer et al. 2010; Bik et al. 2012), especially of cryptic biodiversity. Recently, Fonseca et al. (2010) compared marine meiofauna (metazoans between 45 and 500 lm long) across beaches in the UK, Porazinska et al. (2010) compared nematode diversity in different rainforest microhabitats in Costa Rica and Nolte et al. (2010) compared protist diversity across seasons in a lake in Austria. Nolte et al. further showed that for one genus, Spumella, species from the clade that is typically found in cold habitats are more abundant in cold months, whereas species belonging to warm-climate clades are more abundant in the summer. In these systems, previous studies had been impeded by the difficulty of measuring very high levels of diversity of very small taxa, and metabarcoding technology has unlocked this diversity, in the same way that microbiome biology has been unlocked by next-generation sequencing (Committee on Metagenomics 2007).
+However, precisely because meiofauna and protists were so difficult to study before metabarcoding, independent validation of results has so far been forced to depend on small data sets based on morphospecies (Medinger et al. 2010), on laboratory tests (Porazinska et al. 2009a,b), or on BLASTing reads
+against GenBank (Fonseca et al. 2010). These checks have been crucial, but by their nature, they do not fully validate metabarcoding as a method for making general measures of biodiversity.
+The field requires further validation because metabarcoding promises important management advantages in addition to increased efficiency. Traditional biodiversity data rely on expertise that is difficult to standardise across multiple individuals, and errors (or even fraud) in direct observational data, such as bird lists, cannot subsequently be corrected or audited. In contrast, metabarcoding requires only that staff be able to carry out protocols using standard collection (e.g. pitfall, malaise, Winkler and light traps) and laboratory techniques, and the raw sequence data remain available for future analyses. It is also possible to partition aliquots of the original collections, or the extracted DNA, for auditing. Another advantage is that metabarcoding can hitchhike on advances in software and laboratory practises that are being developed for bacterial metagenetics (Kosakovsky Pond et al. 2009; Caporaso et al. 2010b).
+To further the process of turning metabarcoding into a standard management method, we apply the technique to the Arthropoda, especially the Insecta within it, for which it is easier to validate results against independent sampling, as well as other biodiversity proxies, such as vegetation (e.g. Gaspar, Gaston, & Borges 2010). Arthropods are also a deserving focal group for direct study, as they form a major component of terrestrial biodiversity, provide important ecosystem services such as pollination, decomposition and pest control, can themselves be pests and disease vectors and are potentially indicative of plant diversity, because arthropods are mostly herbivores. Finally, with arthropods, it is easier to use the COI barcode gene, which holds some advantages over 18S and other rRNA genes (Emerson et al. 2011). COI is single copy, present in all taxa of interest, with the exception of a few protozoa, capable of being amplified across a wide range of taxa with a small set of primers (Folmer et al. 1994), especially with degenerate primer pairs (Rose, Henikoff, & Henikoff 2003; Boyce, Chilana, & Rose 2009), and has a faster substitution rate, compared to nuclear rRNA genes, which increases taxonomic resolution. Mitochondrial 12S and 16S genes satisfy these criteria, but COI has additional advantages. There exists a fast-growing taxonomic reference database (http://www.boldsystems.org, accessed 10 September 2011) with over 1Æ3 million specimen-vouchered records so far (Ratnasingham & Hebert 2007), and finally, the mutational properties of COI offer the opportunity to eliminate most pyrosequencing error (Emerson et al. 2011; Ranwez et al. 2011), a phenomenon that, if uncorrected, results in overestimates of diversity (Quince et al. 2009; Reeder & Knight 2010).
+In this light, a step forward was provided by Hajibabaei et al. (2011), who pyrosequenced the mini-barcode gene (the first 130 bp of COI) in test pools of Trichoptera and Ephemeroptera and BLASTed against reference sequences to recover 17 of 23 input species. They also showed that larval collections, which cannot be identified using morphology, could be identified using metabarcoding and that the collections matched known adult species assemblages from the same locations.
+Ó 2012 The Authors. Methods in Ecology and Evolution Ó 2012 British Ecological Society, Methods in Ecology and Evolution
+
+Following Fonseca et al.’s (2010) pioneering work with meiofaunal samples, the next step is to go beyond the recovery of species lists and to devise an efficient and adaptable pipeline that can turn huge lists of COI sequences into usable and high-quality taxonomic and ecological information. In particular, we show that even when some taxonomic information is lost, which is currently unavoidable, it is still possible to recover precise estimates of alpha diversity and beta diversity.
+We provide the research community with model laboratory protocols and bioinformatic scripts that can be adapted to incorporate new technologies and software as they arise. We also provide the original sequence data for software developers to use as test data sets. Our main contributions are: (1) new degenerate PCR primers to minimise allelic dropout of terrestrial arthropods (mostly but not only insects), (2) validation of several new software packages for denoising, de novo operational taxonomic unit (OTU) picking, and taxonomic assignment (Table S1) within the QIIME pipeline (Caporaso et al. 2010b), which has active developer and user communities, (3) detailed scripts, methods, and data sets for users to learn with, (4) experimental demonstration that beta diversity can be recovered and (5) experimental demonstration that rarefaction of phylogenetic diversity (PD) can recover alpha diversity (Nipperess 2011a,b).
+Methods
+LABORATORY PROTOCOL
+Sample collection
+Arthropods, mostly flying insects, and some small annelids were collected with malaise traps from three prefectures in Yunnan province China, Hong He (HONGHE), Xishuangbanna (XSBN) and Kunming (KMG) and preserved in 100% ethanol.
+Sanger data set
+318, 795 and 316 individuals were hand-picked from HONGHE, XSBN and KMG. Each individual was extracted for genomic DNA using the HotSHOT method (Truett et al. 2000), the Qiagen DNEasy Blood and Tissue Kit, or the Bokun Insect DNA Extraction Magnetic Bead Kit (Changchun Bokun Biotech Co., http://www. bokunbio.com, Changchun, Jilin, accessed 14 September 2011) according to manufacturer’s instructions. Individuals were then PCR-amplified and Sanger-sequenced for the 658 bp region near the 5¢ terminus of the COI gene with Folmer’s primers LCO1490 and HCO2198 (Folmer et al. 1994) (Table S2). PCR was carried out in 30 lL reaction volumes containing 3 lL of 10· buffer, 1Æ5 mM MgCl2, 0Æ2 mM dNTPs, 0Æ2 lM each primer, 1 U Taq DNA polymerase (TaKaRa Biosystems, Ohtsu, Shiga, Japan) and approximately 100 ng genomic DNA using a thermocycling profile of 95 °C for 2 min, 35 cycles of 95 °C for 15 s; 49 °C for 30 s; 72 °C for 1 min; and finally 72 °C for 7 min. Products were visualised on 2% agarose gels and were bidirectionally sequenced using BigDye version 3.1 on an ABI 3730xl DNA Analyser (Applied Biosystems, Carlsbad, California, USA). We obtained a total of 673 unique arthropod and annelid haplotypes (GenBank accession numbers: JQ344360–JQ345032). Sequences were truncated to 615 bp from the 5¢ end.
+‘454’ data set
+Genomic DNA sampled from individuals corresponding to the 673 unique haplotypes was pooled into seven mixtures, mimicking different ecological communities: HONGHE (n = 197 unique haplotypes), XSBN (n = 292), KMG (n = 184), 2H1K (n = 149), 1H1X (n = 198), 2K1X (n = 150), 5K1X (n = 121) (Fig. 1). HONGHE, XSBN and KMG share no haplotypes, and the latter four are mixtures of the first three, with the numbers indicating (approximate) ratios and letters indicating sources. Thus, 2H1K contains 99 haplotypes from HONGHE and 50 from KMG. For this test, extracting DNA individually and then combining increases our confidence in the composition of the mixtures. The implicit assumption is one that underlies all metagenetic and metagenomic biology: that the efficacy of DNA extraction kits is not affected by the number of species being
+Biodiversity soup 3
+   KMG MID (184 haplotypes, 153 OTUs)
+       2H1K MID (149 haplotypes, 140 OTUs)
+HONGHE MID (197 haplotypes, 167 OTUs)
+5K1X MID (121 haplotypes, 106 OTUs)
+XSBN MID (292 haplotypes, 230 OTUs)
+2K1X MID (150 haplotypes, 134 OTUs)
+        1H1X MID (198 haplotypes, 159 OTUs)
+Fig. 1. Schematic relationship of the four mixture communities and the three source communities (bold outline). For brevity, the communities are referred to as MIDs in the text (Multiplex IDentifiers). Operational taxonomic units represent 98% similarity clusters of haplotypes.
+Ó 2012 The Authors. Methods in Ecology and Evolution Ó 2012 British Ecological Society, Methods in Ecology and Evolution
+
+ 4 D.W.Yuetal.
+extracted. We refer to the mixtures as ‘Multiplex IDentifiers’ (MIDs), following the terminology of the Genome Sequencer FLX System (454 Life Sciences, Roche Applied Science, Indianapolis, Indiana, USA). Throughout, we use ‘454’ to refer to this sequencing technology.
+PCR amplification and pyrosequencing
+To maximise amplification of a diverse set of target sequences, we designed the degenerate primers, Fol-degen-for and Fol-degen-rev, to which we attached the standard A and B Roche adaptors and a MID tag for each community (Table S2). The primers are modifications of Folmer et al.’s (1994) primers and were created from an alignment of all 215 complete mtDNA COI gene sequences for Insecta that were present in GenBank (Supporting Information). Across the 215 sequences, amino acid residues coded for by LCO1490 are conserved, with only a few exceptions involving species with no more than two divergent nucleotide positions. Based on the alignment, we designed Fol-degen-for to be fully degenerate to accommodate all possible codon variation for amino acid residues coded for by LCO1490. Amino acid residues coded for by HCO2198 were all conserved across the 215 sequences, so we designed Fol-degen-rev to be fully degenerate to accommodate all possible codon variation for amino acid residues coded for by HCO2198.
+Each MID was amplified in five independent reactions and pooled. PCRs were performed in 20 lL reaction volumes containing 2 lL of 10· buffer, 1Æ5 mM MgCl2, 0Æ2 mM dNTPs, 0Æ4 lM each primer, 0Æ6 U Taq DNA polymerase (TaKaRa Biosystems) and approximately 60 ng of pooled genomic DNA. We used a touchdown thermocycling profile of 95 °C for 2 min; 11 cycles of 95 °C for 15 s; 51 °C for 30 s; 72 °C for 3 min, decreasing the annealing temperature by 1 °C everycycle;then17cyclesof95 °Cfor15 s,41 °Cfor30 s,72 °Cfor 3 min, and a final extension of 72 °C for 10 min. We used non-proofreading Taq and fewer, longer cycles to reduce chimera production (following Lenz & Becker 2008). For pyrosequencing, all PCR products of all seven MIDs were gel-purified using a QIAquick PCR purification kit (QIAgen, Hilden, Germany), quantified using the Quant-iT PicoGreen dsDNA Assay kit (Invitrogen, Grand Island, New York, USA), pooled and A-amplicon-sequenced twice on a 454, using two separate 1 ⁄ 8 regions of a plate.
+BIOINFORMATICS PROTOCOL: RECOVERY OF INPUT SEQUENCES
+Sequence files from the two 1 ⁄ 8 plate regsions were pooled to maximise coverage. Rather than produce a new analysis pipeline, we augment the QIIME pipeline (Caporaso et al. 2010b), which was designed for microbial metagenetics, with a number of new software packages (Table S1). Pyrosequencing data contain PCR chimeras (Lenz & Becker 2008), contaminant sequences, nuclear mitochondrial pseudogenes (Numts), PCR error and sequencing noise. The challenges for processing pyrosequencing data are to ‘denoise’ the sequences, remove chimeras, contaminants and Numts and quantify OTUs. The latter phrase means to cluster the large number of sequences down to, ideally, the same number of unique sequences as there were species in the original samples. Thus, in this field, species are defined operationally as a cluster of similar sequences, and the clustering step is known as ‘OTU picking’.
+The seven major steps of our pipeline for denoising and quantifying OTUs, plus associated software, are summarised in Fig. 2. Example scripts used to transform the output of a given step into the input for the subsequent step are provided as Supporting Information. Most are from the QIIME pipeline, with some custom scripts that we have written.
+Fig. 2. Schematic of the major bioinformatic steps (numbering corresponds to Table S3), with associated software packages and pipelines.
+Step 1
+Library splitting by MID and quality control. Primer and MID sequences are removed from the raw 454 reads, and the MID information is placed in the header line of each sequence (Table S2). Reads are also passed through a quality control filter that removes sequences with ambiguous nucleotides, with low quality scores (provided by the sequencer), with long repeats that are indicative of ‘homopolymer’ errors, and ⁄ or sequences that are too short or too long. Homopolymer errors occur because the 454 counts nucleotide additions via light bursts, and adding multiple nucleotides at once, for example AAA, in theory produces a three-times brighter burst, but in practise, often results in overor underestimates.
+Step 2
+Initial denoising and de novo chimera removal. We first use PyNAST (Caporaso et al. 2010a) to align the post-quality-control sequences against a high-quality, aligned data set of 17,087 arthropod sequences (Supporting Information) at a minimum similarity of 60%. Sequences that fail to align are discarded. The remaining sequences are clustered at 99% similarity with USEARCH (Edgar et al. 2011), and a consensus sequence is chosen for each cluster. The clustering step runs very quickly and more than halves the number of sequences (Table S3), speeding up downstream processing. We then apply the
+Ó 2012 The Authors. Methods in Ecology and Evolution Ó 2012 British Ecological Society, Methods in Ecology and Evolution
+
+de novo chimera detection function UCHIME in USEARCH (Edgar et al. 2011), which exploits the prediction that small-size clusters are more likely to be chimeras.
+Step 3
+Denoising. Sequences are denoised using MACSE (Ranwez et al. 2011), which takes advantage of the fact that COI is a coding gene using the presence of stop codons to infer frameshift mutations caused by homopolymer errors and aligning at the amino acid level to high-quality reference sequences. MACSE runs at a rate of 􏴦1000 sequences per CPU (central processing unit)-hour (on a 2010 iMac), so sequence files should be split into subfiles and run in parallel. An alternative to MACSE is PyroClean (R. Ramirez-Gonzalez, D. Heavens, M. Caccamo & B.C. Emerson, unpublished), which produces similar results (results not shown). We remove sequences <100 bp, the length below which taxonomic information degrades rapidly (Meusnier et al. 2008).
+Step 4
+OTU picking at 99% similarity. DNACLUST (Ghodsi, Liu, & Pop 2011) is used because it ensures that no pairwise sequence comparison within an OTU differs by more than the user-chosen amount. This step reduces the workload for the next step.
+Step 5
+OTU picking at 97% similarity. CROP (Hao, Jiang, & Chen 2011) is a Bayesian clustering program that finds clusters ‘based on the natural organisation of data without setting a hard cut-off threshold’. CROP produces clusters within which ‡95% of sequences are more similar to the centre sequence than the desired cut-off (here, 97%). The bioinformatic challenge is to choose the sequence ‘seeds’ (cluster ‘centres’) that minimise cluster number. Note that sequence pairs within a cluster can differ by more than the cut-off. CROP is slow, requiring 􏴦15–30 h and 12 CPU cores to process a 30,000 sequence data set, but we have found that CROP produces five to ten times fewer OTUs at the same similarity cut-off than do better-known programs like Cd-hit (Li & Godzik 2006) and UCLUST (Edgar 2010) (results not shown).
+Step 6
+Taxonomic assignment of OTUs. The program SAP (Munch et al. 2008) assigns taxonomies by MCMC (Markov chain Monte Carlo)sampling 10,000 unrooted phylogenetic trees constructed with a query sequence and its GenBank homologues. The percentage of times that the query sequence is grouped with a given taxonomic level is the posterior probability that the query belongs to that taxonomic level. SAP
+Table 1. Example rows from an OTU table, with assigned taxonomy,
+runs at 􏴦3 sequences ⁄ CPU-hour, so we split the OTU file and run in parallel. We then use a perl script (Supporting Information) to extract the taxonomic information from SAP output and add it to the OTU table. This is the stage where real but contaminant sequences (e.g. Homo sapiens) are detected and removed, and we use the taxonomic data to identify the subset of OTUs assigned to the Arthropoda and Annelida (n = 973).
+Step 7
+Final clean-up. Finally, we merge the sequence abundance data from the three OTU-picking steps (USEARCH, DNACLUST and CROP) to build an OTU table with sequence abundances (Table 1), and we delete singleton OTUs, reasoning that single reads are likely to be non-informative, because successfully amplified COI templates should be found in multiple copies. We show in results that this step does not affect the recovery of ecological information. We then use the Arthropoda-only OTUs (n = 598) to build a rooted, TamuraNei, gamma distance neighbour-joining tree (using an Onychophora sequence as the root). We suggest examining (and possibly deleting) any OTUs that result in (subjectively judged) very long branches, which are probably either local misalignments because of homopolymer errors or remaining chimeras, and to rebuild the tree. In this data set, we did not observe any such long branches. We also suggest experimenting with different tree-building techniques.
+At the end of Step 7, we have OTUs assigned to MID and taxonomy (Table 1), which we call the ‘454-OTU’ data set, and a neighbour-joining tree of the Arthropoda OTU sequences, which is used to estimate PD and dissimilarities. To test whether the 454-OTU data set contains reliable information, we compare to the original 673 Sanger haplotypes, which we first cluster into 547 ‘Sanger-OTUs’ at 98% similarity, assign to MID and taxonomy (using SAP) and build a rooted NJ tree.
+RECOVERY OF ECOLOGICAL INFORMATION
+Allelic dropout
+We BLASTed each of the 454-OTUs against the Sanger-OTU data set at a stringency of 1e)10 and 97% minimum similarity to estimate the percentage of input species that did not amplify or survive the above pipeline. We also built a neighbour-joining tree combining the 454and Sanger-OTUs to look for lone Sanger-OTUs (dropouts) and ⁄ or lone 454-OTU clusters (remaining chimeras, contaminants, Numts or noisy sequences).
+Abundance vs. presence–absence
+Beta diversity can be estimated using traditional dissimilarity indices that require only a Site X Species table (Table 1) or dissimilarity mea-
+edited for clarity
+Biodiversity soup 5
+ #OTU ID 34278 29894
+1H1X 2H1K 0 1
+1 0
+2K1X 5K1X HONGHE 0 0 1
+0 0 0
+KMG XSBN 0 0
+0 5
+Taxonomy assigned at probability ‡80% by SAP
+Eukaryota; Metazoa; Arthropoda; Hexapoda; Insecta; Neoptera; Hymenoptera
+Eukaryota; Metazoa; Arthropoda; Hexapoda; Insecta; Neoptera; Hemiptera
+  Full tables are in Supporting Information.
+HONGHE, Hong He; KMG, Kunming; OTU, operational taxonomic unit; XSBN, Xishuangbanna.
+Ó 2012 The Authors. Methods in Ecology and Evolution Ó 2012 British Ecological Society, Methods in Ecology and Evolution
+
+6 D.W.Yuetal.
+sures that take phylogeny into account (Faith & Baker 2006; Hamady, Lozupone, & Knight 2010). Similarly, alpha diversity estimates range from simple counts of species richness to measures that incorporate evenness and ⁄ or PD. In both cases, we must ask whether it is valid to use sequence abundance (number of sequences per OTU) as a proxy of species abundance or biomass. Our opinion is that PCR amplification bias plus reaction stochasticity, although to some extent normalised by degenerate primer design, corrupts correlations of sequence abundance with sample abundance in highly diverse data sets, which we support with a preliminary experiment in Supporting Information (see Amend, Seifert, & Bruns 2010). We therefore use presence–absence (unweighted) beta and alpha diversity indices (but see Porazinska et al. 2009b, who found that 18S rRNA read numbers did correlate with nematode frequencies).
+Beta diversity
+We rarefy the 454-OTU table to equalise the number of reads per MID and then estimate pairwise compositional dissimilarities using the 1-Sørensen-Dice similarity index and the unweighted Unifrac index (Hamady, Lozupone, & Knight 2010). Both are options in QIIME, and the latter incorporates phylogenetic distance. To test whether the 454-OTU data set preserves beta diversity information, we use a Mantel test to correlate the 454-dissimilarity matrix against the dissimilarity matrix produced from the Sanger data set. We also visualise the dissimilarity matrices with a Principal Coordinates Analysis (PCoA) and use a Procrustes test to test for correlation between the 454 and Sanger ordinations.
+Alpha diversity
+Species diversity naturally increases with sample size (numbers of individuals captured), and sample sizes vary across MIDs. Rarefaction must therefore be used to control for the effects of sample size (Gotelli & Colwell 2001). One concern is that read abundance cannot be used to estimate the number of individuals per OTU. Fortunately, Nipperess (2011a,b) has released R functions, phylocurve.R and phylocurve.perm.R, that can rarefy PD over multiple numbers of species as a measure of sampling effort. In other words, the total PD of a sample is the sum of the branch lengths of all the OTUs in the sample, and rarefaction subsamples the phylogeny to allow comparisons across MIDs to be made at equal numbers of OTUs. We use phylocurve.R to rarefy the PD of each MID in both the 454 and Sanger data sets, and we compare at a common sampling effort of 101 OTUs (which allows all MIDs to be included). For this purpose, we rooted the NJ tree with an Onychophora sequence.
+Results
+RECOVERY OF INPUT SEQUENCES
+Pyrosequencing reads were reduced 222-fold from 133,057 sequences to 598 OTUs at Step 7 (Table S3). There were few de-novo detected (and removed) chimeras, making up only 707 of 92,864 post-quality-control⁄PyNAST reads (0Æ8%). After the entire pipeline had been run, the more powerful refdb option of UCHIME, which used the input Sanger sequences as references (not possible under normal circumstances), detected only 20 chimeras out of 598 454-OTUs, although this does represent an increase in the ratio of chimera to non-chimera sequences (3Æ3%). The final numbers of 454-OTUs per MID
+are significantly predicted by the numbers of Sanger-OTUs per MID (Table S3), which argues that the pipeline has successfully reduced the data set to mainly represent the input sequences.
+Still, there are more 454-OTUs (598) than input OTUs (547), and not all of the former correspond to the latter (see Allelic dropout below). Hajibabaei et al. (2011) also report novel OTUs. Because arthropods were collected with malaise traps, some OTUs might represent tissue from species that had been in the same collecting bottles but not Sanger-sequenced and ⁄ or from food items and parasites, and it is also possible that some of the extra OTUs are laboratory contaminants, which suggests, unfortunately, that ancient-DNA protocols will be necessary for legally sensitive work.
+Allelic dropout
+Of the 547 Sanger-OTUs, 76% were BLAST-matched by one or more 454-OTUs (i.e. 24% dropout), with most of the dropout in the Hymenoptera (only 54% matched) (Table 2). Allelic dropout subdivided by MID shows higher dropout percentages, as sequencing coverage per MID is necessarily lower (Supporting Information). These results are achieved after omitting singleton OTUs (Table S1, Step 7). If singleton OTUs are included, overall dropout is reduced to 19% (with ‡1-read OTUs), but many more 454-OTUs fail to BLAST-match to a
+Table 2. Allelic dropout
+ Taxa
+Lepidoptera Diptera Hymenoptera Coleoptera Hemiptera Psocoptera Arachnida Blattaria Plecoptera Trichoptera Ephemeroptera Odonata Annelida
+All Taxa
+Sanger‡2-read OTUs OTUs
+172 127 74% 169 144 85% 108 58 54%
+39 31 79% 38 33 87% 7 7 100% 5 4 80% 2 2 100% 2 2 100% 2 2 100% 1 1 100% 1 1 100% 1 1 100% 547 413 76%
+‡5-read OTUs
+112 65% 126 75% 39 36% 28 72% 29 76% 7 100% 2 40% 2 100% 2 100% 2 100% 1 100% 1 100% 1 100% 352 64%
+Number of 454-OTUs (after Step 7) successfully BLAST-matched to Sanger-OTUs at 1e)10, 97% similarity
+    Figures indicate the number of Sanger-OTUs
+fully BLAST-matched by at least one of the 598 454-OTUs (at 1e)10 and ‡97% similarity, Step 7, Table S3). ‡2-read and ‡5-read OTUs indicate the number of OTUs with that minimum cluster size. Note that singleton OTUs (1-read OTUs) were removed in Step 7. Across all taxa, 76% of Sanger-OTUs were matched by ‡2 454-OTU (i.e. 24% dropout), with the greatest dropout in the Hymenoptera. Tables of allelic dropout subdivided by taxon, and Multiplex IDentifiers are provided in Supporting Information.
+OTU, operational taxonomic unit.
+Ó 2012 The Authors. Methods in Ecology and Evolution Ó 2012 British Ecological Society, Methods in Ecology and Evolution
+that were success-
+
+Sanger-OTU (without singletons: 153 ⁄ 602 = 25Æ4% OTUs failed to match; with singletons: 416 ⁄ 973 = 42Æ8% failed).
+The important question is whether this perceived level of dropout causes loss of ecological information. First, we note that with any hard similarity cut-off, we lose power. Thus, some Sanger-OTUs might indeed be represented by 454OTUs, but so noisily as to fail to be BLAST-matched. In Supporting Information (FigTree data sets), inspection of the combined tree finds that many of the Sanger sequences that received no 454 BLAST-matches (putative dropouts) nonetheless cluster with one or more 454-OTUs. Nonetheless, there are clearly more dropouts in the Hymenoptera. Similarly, all but a few of the 454-OTUs cluster close to a Sanger sequence, suggesting that there are few chimeras, Numts or excessively noisy sequences in our data set. In short, the 454-OTU data set contains much the same phylogenetic structure as the input data set, but with more branching near the tips. Below, we find that the 454-data set allows us to recover most ecological information.
+RECOVERY OF ECOLOGICAL INFORMATION
+Taxonomy
+Despite being on average half the length of the Sanger-OTUs, 969⁄973 (99Æ6%) 454-OTUs at Step 6 could be identified to class, and 96% could be identified to order, which are only slightly lower than the success rates of Sanger-OTUs. However, at the family, genus, and species levels, taxonomic assignment success of 454-OTUs is less than half that of
+Table 3. Taxonomic assignment of Arthropoda and Annelida OTUs to four lower taxonomic levels
+Table 4. Estimation of beta diversity
+Unweighted, Unweighted, Unifrac dissimilarity matrix from 454 Unifrac
+dissimilarity
+matrix from
+Biodiversity soup 7
+  groundtruth 1H1X 2H1K 1H1X 0Æ939
+2H1K 0Æ959
+2K1X 0Æ895 0Æ906 5K1X 0Æ896 0Æ899 HONGHE 0Æ690 0Æ505 KMG 0Æ952 XSBN 0Æ690 0Æ958
+2K1X 5K1X HONGHE 0Æ860 0Æ862 0Æ707
+0Æ896 0Æ898 0Æ603 0Æ395 0Æ939 0Æ181 0Æ935
+0Æ944 0Æ941
+0Æ500 0Æ431 0Æ937 0Æ798 0Æ893 0Æ961
+KMG XSBN 0Æ928 0Æ746
+0Æ941 0Æ626 0Æ812 0Æ615 0Æ887 0Æ920 0Æ947 0Æ946
+0Æ946
+   0Æ743
+ 0Æ756
+ Unweighted, Unifrac dissimilarity matrices
+(lower) and 454 (upper) data sets. A pair of corresponding cells is indicated by the two boxes. The two matrices are highly significantly correlated (Mantel, 9999 permutations, P < 0Æ001). HONGHE, Hong He; KMG, Kunming; XSBN, Xishuangbanna.
+Sanger-OTUs (Table 3). As barcode databases grow (http:// www.boldsystems.org) and read lengths increase, we expect that assignment success at lower taxonomic levels will increase.
+Beta diversity
+Unifrac dissimilarity matrices of the Sangerand 454-OTUs are highly significantly correlated (Table 4). We can visualise this correlation using a Procrustes analysis to overlay PCoA ordination diagrams constructed from the dissimilarity matrices, and we find that the first three axes of the two ordinations
+from the Sanger
+PC2 (32%)
+XSBN_1 XSBN_0
+1H1X_0
+   1H1X_1
+ 2K1X_0 2K1X_1
+5K1X_0 5K1X_1
+KMG_1
+KMG_0
+PC1 (41%)
+Fig. 3. Estimation of beta diversity. Highly significant correspondence between Principal Coordinates ordinations of the two unweighted Unifrac dissimilarity matrices in Table 4 (Procrustes, 9999 permutations, P < 0Æ001). ‘0’ indicates the 454 data set, and ‘1’ indicates the Sanger data set. The Procrustes analysis was run on the first three PCs, but we show only the first two PCs for clarity. Note that the mixture Multiplex IDentifiers (MIDs) (e.g. 1H1X) lie between the corresponding source MIDs (Hong He and Xishuangbanna), as expected (Fig. 1).
+  HONGHE_0
+HONGHE_1
+  2H1K_0 2H1K_1
+    SAP 80% posterior probability
+Class
+Insecta Sanger
+454 Arachnida
+Sanger
+454 Clitellata
+(Annelida) Sanger 454
+Total Sanger
+454
+OTU count
+541 951
+5 12
+% Identified to
+Order Family Genus Species
+99 37 36 35 96 17 16 16
+100 80 80 80 92 33 33 33
+     100 0 0 0
+1
+6 100000
+547 98363535 969 96171616
+ Classand ordinal-level assignment success is similar between the two data sets. Somewhat more than twice as many Sanger-OTUs as 454-OTUs are assigned with posterior probability ‡80% to family, genus, and species. Two of the 973 454-OTUs at Step 6 (Table S3) were assigned only to the level of Arthropoda: one was assigned to Collembola and other one was assigned to Amphipoda.
+OTU, operational taxonomic unit.
+Ó 2012 The Authors. Methods in Ecology and Evolution Ó 2012 British Ecological Society, Methods in Ecology and Evolution
+
+8 D.W.Yuetal.
+are also highly significantly correlated (Fig. 3). These results appear to be robust, as dissimilarity matrices calculated using the non-phylogenetically informed 1-Sørensen-Dice index are also highly correlated (Mantel, 9999 permutations, P < 0Æ001) (PCoA ordinations of the Sørensen-Dice dissimilarity matrices are in Supporting Information). In short, community differences between sampling locations appear to be well preserved in pyrosequencing data.
+Alpha diversity
+After rarefaction to control for sampling effort, we find that the PD of each MID calculated from the 454-data set highly significantly predicts PD in the corresponding Sanger MID (Fig. 4).
+Discussion
+After mass-PCR amplification and high-throughput sequencing of arthropod DNA, we demonstrate how a denoising and de novo OTU-picking pipeline makes it possible to recover taxonomic information from a wider range of taxa than tested in Hajibabaei et al. (2011) and, for the first time, to recover alpha and beta diversity information. This information is the raw material of basic and applied research in ecology and the environmental sciences. As examples, we are now using this protocol for the following applications: (1) projecting the effects of climate change on insect species compositions with light-trap collections along an altitudinal transect (beta diversity); (2) measuring the conservation value of shade-tea vs. natural subtropical forests, of onceand twice-logged vs. unlogged rainforests, and of Buddhist sacred mountains vs. control sites in an alpine habitat (alpha diversity); and (3) determining the management treatments that are most successful in restoring endangered heathland habitat and maintaining insect biodiver-
+sity in a temperate forest (alpha and beta diversity). A typical data set has required one to 2 months to process, from DNA extraction to bioinformatic analysis, and the bioinformatic analyses for multiple studies can be conducted in parallel. We are also using these studies as ‘field-validation’, which is to match our estimates of alpha and beta diversity against independent biodiversity measures collected with standard census techniques.
+While we have great optimism for the approach we have outlined, we do caution that a number of drawbacks remain. The extraction protocol requires sample destruction (although with additional effort, one can use a leg for all but the smallest of samples and retain the rest of the sample as a voucher); sequencing is costly (although this is balanced against the time and effort of taxonomic experts, and costs should plummet in the next few years); few OTUs are identified to species (but this will improve as a function of the growth of the BOLD database); care needs to be taken in the field and in the laboratory to reduce sample contamination and DNA degradation; abundance data are not available (but subsampling sites, at extra cost, provides an abundance index (Jerde et al. 2011)); finally, the bioinformatics stage is time-consuming, and as yet there is no best-practise pipeline. A consequence is that it remains unclear to what extent metagenetic data will be robust to legal challenges, if used for environmental monitoring and planning.
+Another consequence is that there are alternative pipelines, and we have presented only one (see also Fonseca et al. 2010). For instance, Hao, Jiang, & Chen (2011) report that CROP is robust to non-denoised data sets, which is a time-saving option, as is using a lower similarity threshold such as 95%. Our purpose here is not to define a specific pipeline but to give the community a validated starting point, and added confidence that degenerate primers plus already existing hardware and software can recover useful ecological information from bulk samples of arthropods.
+Because this is a fast-moving field, we end by listing anticipated and desired future improvements.
+1 Better PCR primers required. This is most necessary for Hymenoptera and for soil fauna (e.g. Protura, Collembola, Annelida, Arachnida). One possibility is a divide and conquer approach using different sets of primers for the amplification of major faunal groups, and then combining the resulting PCR products for sequencing (see also Box 2 in Bik et al. 2012). We note that despite designing the primers (Table S2) with only Insecta sequences, we have been finding that they amplify many OTUs subsequently assigned to non-Insecta arthropods, including Collembola, Protura and Arachnida (authors’ unpublished results). Careful consideration of existing COI sequence data that spans COI priming sites will dictate the best approach for a given set of taxa.
+2 Avoid PCR. In bacterial metagenetics, it is feasible to sequence genomic DNA directly and search for barcode sequences bioinformatically (Sharpton et al. 2011), which avoids dropout and might even provide reliable abundance information. With animals, the presence of very large nuclear genomes probably needs a protocol to concentrate mitochondria before DNA extraction and sequencing.
+ 11·5 11 10·5 10 9·5 9 8·5
+10 10·2
+Fig. 4. Estimation of alpha diversity. Local phylogenetic diversity (PD) is estimated using Phylocurve.R rarefaction (Nipperess 2011a) for each of the seven Multiplex IDentifiers (MIDs) in both the 454 and Sanger data sets. Sanger PD is significantly predicted by 454 PD (linear regression, F1,5 = 127Æ8, P < 0Æ001, R2 = 0Æ96). PD is estimated at a sample size of 101 operational taxonomic units (OTUs) because the 5K1X MID has only 106 Sanger-OTUs (Fig. 1); the relationship holds for higher numbers of OTUs if 5K1X is omitted (data not shown).
+     y = 1·436x 5·7225
+  10·4 10·6 10·8
+454 phylogenetic diversity
+11 11·2 11·4 11·6 11·8 12
+Ó 2012 The Authors. Methods in Ecology and Evolution Ó 2012 British Ecological Society, Methods in Ecology and Evolution
+Sanger pylogenetic diversity
+
+Table S3. Basic statistics and OTU-picking progression.
+Table S4. Allelic dropout by MID and taxon.
+Data S1. Gene sequences, read-abundance analysis, figtree datasets, example script commands, OTU tables, perl scripts and PCoA ordinations of the 15 Sørensen-Dice dissimilarity matrices. Raw sequence data deposited in the Dryad Repository: http://dx.doi.org/10.5061/ dryad.b4d75m52.
+As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials may be re-organized for online delivery, but are not copy-edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.
+Ó 2012 The Authors. Methods in Ecology and Evolution Ó 2012 British Ecological Society, Methods in Ecology and Evolution
+Biodiversity soup 11

@@ -1,0 +1,320 @@
+   Molecular Ecology (2009) 18, 4422–4433 doi: 10.1111/j.1365-294X.2009.04370.x
+Patterns of colonization and spread in the fungal spruce pathogen Onnia tomentosa
+H. GERMAIN,†,1 M.-J. BERGERON,*,1 L. BERNIER,‡ G. LAFLAMME* and R. C. HAMELIN*,§
+*Natural Resources Canada, Canadian Forest Service, Laurentian Forestry Centre, 1055 du P.E.P.S., P.O. Box 10380, Stn. Sainte-Foy, Quebec, QC, Canada G1V 4C7, †Michael Smith Laboratories, Room 301, University of British Columbia, 2185 East Mall, Vancouver, BC, Canada V6T 1Z4, ‡Centre d’e ́tude de la foreˆt, Pavillon C-E Marchand, Universite ́ Laval, Que ́bec, QC, Canada G1V 0A6, §Department of Forest Sciences, Faculty of Forestry, University of British Columbia, Forest Sciences Centre, 2424 Main Mall, Vancouver, BC, Canada V6T 1Z4
+Abstract
+The basidiomycetous fungus Onnia tomentosa is one of the most widespread root rot pathogens in North America. Although the disease is more severe on spruce and pine trees, this pathogen can infect several coniferous species. To study the population structure of O. tomentosa, we harvested 180 basidiocarps in a 45-year-old white spruce plantation in western Quebec in autumn 1997 and extracted DNA directly from individual basidiocarps. Using a combination of spatial coordinates and molecular data based on the analysis of two mitochondrial and three nuclear loci, we measured the average genet size and molecular diversity and assessed the relative contribution of basidiospores and vegetative growth to the stand colonization. Most of the sampled basidiocarps that clustered spatially belonged to the same genet. A total of 37 discrete multilocus genets of an average size of 3.42 m were obtained. The genet size distribution was skewed towards smaller genets (<3 m) that displayed higher diversity than the larger genets (>3 m). The nuclear loci were in Hardy–Weinberg equilibrium in the larger genets, but not in the smaller genets, which displayed a deficiency of heterozygotes. This suggests a Wahlund effect, whereby different colonization events resulted in expected heterozygosity higher than observed heterozygosity. Using an estimate of the growth rate of the fungus, only a few of the largest genets were approximately the age of the plantation. These observations are consistent with the colonization by basidiospores subsequent to site preparation and tree planting followed by secondary colonization events and vegetative spread.
+Keywords: Buller phenomenon, genetic structure, Onnia tomentosa, root rot, Wahlund effect Received 9 April 2009; revision received 4 July 2009, 4 August 2009; accepted 10 August 2009
+Introduction
+The basidiomycetous fungus Onnia tomentosa (Fries) P. Karsten is one of the most widespread root rot pathogens in boreal and sub-boreal forests in North America (Hunt & Unger 1994). Several coniferous species can be infected by O. tomentosa, although damage is most important on spruce (Picea spp.) and pine (Pinus spp.). The pathogen enters through the roots and causes
+Correspondence: R. C. Hamelin, Fax: 604-822-9102; E-mail: rhamelin@nrcan.gc.ca
+1These authors contributed equally to the work.
+decay, whereby plant cell wall constituents are depolymerized enzymatically, weakening the wood structure. The disease can develop into infection centres varying in size from a few trees to several hectares (ha) (Whitney 1962) and cause economic and ecological losses because of growth reduction, devaluation of the butt log at harvest, windthrow and tree mortality (Whitney 1995; Lewis 1997).
+Fungal biogeography and population structure are strongly influenced by the modes and distance of dissemination. In the case of phytopathogenic fungi, understanding the relative contribution of spores and vegetative growth in dissemination is of utmost importance to prevent or manage diseases and to restore
+Ó 2009 Blackwell Publishing Ltd
+
+PATTERNS OF COLONIZATION AND SPREAD IN ONNIA TOMENTOSA 4423
+infected sites destined for reforestation. Two modes of dissemination are known for O. tomentosa: (i) the basidiospores produced on basidiocarps (fruiting bodies) and (ii) vegetative growth, by ectotrophic mycelial expansion or by root contact. Basidiospores that could be produced locally or several kilometres away (Pedgley 1986) are the result of meiosis. Therefore, each basidiospore should be the expression of a unique recombination event. In many homobasidiomycetes, inbreeding is prevented by a sexual recognition system under the control of two different mating-type loci, named a heterothallic tetrapolar mating system. A germinating basidiospore produces haploid monokaryotic hyphae that will anastomose (fuse) with a hyphal strand of the opposite mating type, resulting in dikaryotic hyphae. The latter grows vegetatively and can anastomose with other hyphae of the same individual and with other individuals that are identical at genetic loci governing somatic compatibility. This heterokaryotic mycelium infects rootlets and spreads by root contacts to neighbouring trees, resulting in the development of an infection centre that tends to contain a single somatic-compatibility genotype (Whitney 1962; Lewis & Hansen 1991b; Lewis et al. 1992). Most vegetative spread is believed to be relatively local. Ectotrophic and intrabark mycelia play an important role in the spread, but cannot extend more than a few centimetres outside the roots and hence root contacts are important for local vegetative spread (Lewis et al. 1992; Hunt & Unger 1994).
+From a genetic perspective, these two modes of propagation are expected to result in contrasting population structures. On one hand, colonization of a site by basidiospores would result in a genetic mosaic as each new colonization event would be the result of recombination. Within a randomly mating population founded by basidiospores, loci that are not under selection would be expected to be in Hardy–Weinberg equilibrium (HWE). On the other hand, vegetative propagation would result in the formation of genets, i.e. genetically identical individuals growing in close proximity. Generally, the size of genets should be positively correlated with the age of colonization, thus large genets are expected to be older than small ones.
+The relative contribution of basidiospores and root contacts in the propagation of root rot diseases varies for different pathogens. A genet of Armillaria bulbosa (=Armillaria gallica) was found to occupy 15 ha in central North America (Smith et al. 1992). Similarly, for Armillaria ostoyae and Phellinus weirii, vegetative growth predominated and sexual reproduction occurred at a relatively low frequency (Bae et al. 1994; Rizzo et al. 1995; Dettman & van der Kamp 2001a; Ferguson et al. 2003). In contrast, Heterobasidion annosum, the causal
+agent of Annosus root rot, appeared to initiate new infections via airborne basidiospores more frequently (Garbelotto et al. 1999). For O. tomentosa, both sexual and clonal modes appeared to be important, as revealed by vegetative compatibility and protein profile analyses (Lewis & Hansen 1991b). As proteins are phenotypic markers, genetic variability could have been hidden and some genetically different individuals could have been mistakenly considered as part of the same genet (Baruffi et al. 1995). Also, because of the dominance of the markers, phenotypic data do not provide a high level of confidence in the estimation of parameters such as heterozygosity and relatedness. These parameters are important to address questions relating to population structure, sexual reproduction and population size.
+The basidiocarps of O. tomentosa appear episodically. However, their presence was correlated with root rot in white spruce plantations and was considered useful in predicting losses (Whitney & Fleming 2005). In 1997, abundant basidiocarps were observed in a 45-year-old symptomatic white spruce plantation located in western Quebec (Canada), allowing extensive collection, mapping, and DNA analysis of individual basidiocarps. The objective of this study was to document the colonization history of a white spruce plantation by O. tomentosa using a combination of molecular data and spatial analysis. Specifically, our aims were to estimate the number, size and molecular diversity of discrete genets of O. tomentosa and to assess the contribution of basidiospores and vegetative spread to the colonization by studying the population structure under the null hypothesis of constant vegetative growth following a colonization event.
+Materials and methods
+Fungal sampling
+One hundred and eighty basidiocarps of Onnia tomentosa were collected in autumn 1997 on the forest floor of a white spruce [Picea glauca (Moench) Voss] plantation, located in Harrington (45°52¢N, 74°38¢W), Quebec, Canada. The stand had been converted from a mixed forest to a white spruce plantation, 44–47 years prior to the study. Tree vigour was in decline because of high tree density and the occurrence of O. tomentosa. Crown symptoms were evident in 40% of the trees at the site. The sampling area measured 123 · 160 m. Spatial coordinates (x,y) were recorded for each basidiocarp. A distribution map was produced with SigmaPlot software V8.0.2 (Systat Software, Inc.). Basidiocarps were identified, individually placed in paper bags, and stored at )20°C until DNA extraction (in 1998).
+Ó 2009 Blackwell Publishing Ltd
+
+4424 H. GERMAIN ET AL. DNA isolation
+To limit environmental contamination, a piece of approximately 5 mg of each basidiocarp, included between the upper and lower surfaces of the pileus, was dissected using a sterile scalpel. DNA was extracted following the method described by Germain et al. (2002).
+Marker selection
+A screen for single-strand conformational polymorphism (SSCP) was carried out on amplicons generated using multiple pairs of primers. Two pairs, ML5 ⁄ ML6 and MS1 ⁄ MS2 (White et al. 1990), were selected to amplify mitochondrial genes, the large (mLSU rRNA) and small (mSSU rRNA) subunit ribosomal RNAs respectively. A third pair of primers, it-BT-15-f ⁄ it-BT490-rc, was designed from an alignment of b-tubulin (TUB) sequences, which were obtained from amplification with fungal primers BT1a⁄BT1b (Glass & Donaldson 1995). Similarly, it112.31act2501f ⁄ it112.31act2700rc and itrpb1128f ⁄ itrpb1532rc were designed from actin (ACT) and RNA polymerase II largest subunit (RPB1) aligned sequences, which were obtained from amplification with degenerate primers ACT2-F ⁄ ACT2-R and fmrpb1141f ⁄ fmrpb1843rc respectively (Table 1). Primer design was performed using Primer Premier software V5.00 (PREMIER Biosoft International).
+Genomic DNA amplification
+All amplifications were performed in a thermocycler (models PTC-100 and PTC-200; MJ Research Inc.), in a total volume of 25 lL containing 20 mM Tris-HCl, pH 8.4, 50 mM KCl, 1.6 mM MgCl2, 200 lM of each dNTP (GE Healthcare UK Limited, Little Chalfont, Buckinghamshire, UK), 1 lM of each primer (Invitrogen, Life Technologies, Carlsbad, CA), 1 unit of Taq DNA polymerase (Invitrogen, Life Technologies) and 1 lL of diluted genomic DNA (1:50). For reactions with ACT2, it112.31act2, fmrpb1 and itrpb1 primer pairs, master mix was prepared with Platinum Taq DNA polymerase (Invitrogen, Life Technologies). Thermocycling conditions included an initial denaturation step at 94°C for 3 min, followed by 36 cycles of denaturation at 92°C for 30 s, annealing at a specific temperature for 30 s, extension at 72°C for 1 min and a final extension step at 72°C for 10 min. Specific annealing temperatures are provided in Table 1.
+Polymorphism detection, allele isolation and sequencing
+Single-strand conformational polymorphism analysis was performed by mixing PCR products with Bagley’s buffer (0.05% bromophenol blue, 0.05% xylene cyanol in formamide) followed by a denaturation step (Hamelin et al. 2005). Samples were applied to a nondenaturing polyacrylamide-like gel, containing 0.5X MDE gel
+Table 1 Primer sequences, annealing temperatures and amplicon lengths for locus and allele-specific amplifications at two mitochondrial and three nuclear loci from Onnia tomentosa
+ Locus
+Mitochondrial large subunit Mitochondrial small subunit Beta-tubulin (universal) Beta-tubulin (specific)
+Actin (degenerate)
+Actin (specific)
+Actin (allele-specific)
+RNA polymerase II largest subunit (degenerate)
+RNA polymerase II largest subunit (specific)
+Primers
+ML5
+ML6
+MS1
+MS2
+BT1a
+BT1b
+it-BT-15-f it-BT-490-rc ACT2-F
+ACT2-R it112.31act2501f it112.31act2700rc itact2-22f_41C itact2-22f_41T itact2-200rc fmrpb1141f fmrpb1843rc itrpb1128f itrpb1532rc
+Primer sequences 5¢-CTCGGCAAATTATCCTCATAAG-3¢
+5¢-CAGTAGAAGCTGCATAGGGTC-3¢ 5¢-CAGCAGTCAAGAATATTAGTCAATG-3¢ 5¢-GCGGATTATCGAATTAAATAAC-3¢ 5¢-TTCCCCCGTCTCCACTTCTTCATG-3¢ 5¢-GACGAGATCGTTCATGTTGAACTC-3¢ 5¢-GGAGCCAGCAGTACCGTG-3¢ 5¢-CGTGAAGTATGCGTTAGC-3¢ 5¢-TBGGYATGGGBCARAARGACTC-3¢ 5¢-GAACCACCRATCCARACVGAGTA-3¢ 5¢-GTGAAATTGTGCGCGACATC-3¢ 5¢-AACACGCCGCAAGTCAAC-3¢ 5¢-AGGAAAAGCTTTGCTACGTC-3¢ 5¢-AGGAAAAGCTTTGCTACGTT-3¢ 5¢-AACACGCCGCAAGTCAACAT-3¢ 5¢-CARGCGAACAAACCTGTC-3¢ 5¢-CRACSACCATCTGCTTGAC-3¢ 5¢-CTGGGACGGCACAATTCC-3¢ 5¢-ACATTCTGCTTCCGCATTTTA-3¢
+Annealing temp. (°C)
+55 55 50 50 69 60 62
+55 60
+Amplicon length (bp)
+778 619
+494
+200
+405
+  Ó 2009 Blackwell Publishing Ltd
+
+PATTERNS OF COLONIZATION AND SPREAD IN ONNIA TOMENTOSA 4425
+solution (Cambrex Bio Science Rockland Inc., Rockland, ME) and 0.6X tris⁄borate⁄EDTA (TBE) buffer. Horizontal electrophoresis was performed with the LKB Multiphor II system (GE Healthcare Bio-Sciences AB, Uppsala, Sweden), with 0.6X TBE as running buffer. Specific running conditions, including temperature, electrical power and migration time, were empirically determined for each of following four loci: mLSU rRNA (10°C, 2 W, 18 h), mSSU rRNA (4°C, 3 W, 18 h), TUB (10°C, 3 W, 18 h) and ACT (4°C, 2 W, 5 h). After migration, DNA was visualized by silver staining using the Bio-Rad silver stain kit (Bio-Rad Laboratories). Alleles were scored visually according to migration profiles and representative samples of each migration profile were selected for sequencing. For RPB1 locus, all amplicons were directly sequenced.
+Allele isolation from heterozygous samples detected by SSCP (TUB and ACT) or sequencing (RPB1) was carried out either (i) by cloning, using the pCR 2.1 vector (Invitrogen, Life Technologies) or the pDrive cloning vector (QIAGEN Inc.) and purifying plasmid DNA with the QIAprep spin miniprep kit (QIAGEN Inc.) or (ii) by cutting out proper DNA bands from the SSCP gel and extracting DNA from the gel with the QIAEX II gel extraction kit (QIAGEN Inc.). Cloned or gel-extracted DNA was then amplified with specific primers. All amplicons were purified using the QIAquick PCR purification kit (QIAGEN Inc.), quantified with the PicoGreen dsDNA quantitation kit (Molecular Probes Inc.), and sequenced. Sequences were analysed with Sequencher software V4.1.4 (Gene Codes Corp.) and deposited in GenBank (AF252890–AF252893; AF252880–AF252889; AY884025–AY884034; DQ351975–DQ351985; GQ283905– GQ283906).
+Allele-specific oligonucleotide-PCR
+Sequence analysis of several individuals genotyped by SSCP as homozygous for allele A at ACT locus revealed the presence of the co-migrating allele C. To distinguish these two alleles, an allele-specific oligonucleotide-PCR assay (Bottema et al. 1993) was designed on the continuous fluorescence detector Opticon2 (MJ Research Inc.). Site 41 was targeted as it was the only one differentiating both alleles (Table 1). For each genomic DNA sample tested, two amplification reactions of 40 cycles were carried out, one for each allele-specific oligonucleotide. To the QuantiTect SYBR Green PCR master mix (QIAGEN Inc.), 0.3 lM of each oligonucleotide (QIAGEN Inc.) and 1 lL of diluted genomic DNA were added. A temperature gradient made it possible to determine the discriminant temperature, which was established at 62°C. The formation of the specific PCR product was detected in real time.
+Data analyses
+Each individual basidiocarp genotype was determined by the combination of SSCP scoring, allele-specific oligonucleotide assay and sequencing. This yielded a data set comprising two mitochondrial and three nuclear loci. Spatial coordinates were used to plot basidiocarp multilocus genotypes (MLG) for assessing spatial pattern and genet size. The size of genets was estimated by calculating the maximum distance between basidiocarps possessing identical MLG.
+To conduct genetic analyses, a clone-corrected data set was obtained by collapsing the entire data set into discrete MLGs. Number of alleles, allele frequency, coefficient of inbreeding as well as observed and expected heterozygosities were calculated on this clone-corrected data set using GENALEX V6.0 (Peakall & Smouse 2006). The frequency distribution of genet size was plotted using 200 cm intervals. Using smaller size intervals resulted in empty size classes in the middle of the distribution and larger intervals were not informative.
+To test the hypothesis that the O. tomentosa population was at equilibrium and randomly mating, an exact test of HWE was conducted on the three nuclear loci using GENEPOP V4.0 (Raymond & Rousset 1995). The test was conducted on the entire clone-corrected data set and on two subsets of genets comprising small (<3 m) and large (>3 m) genets, based on the frequency distribution. Molecular diversity was evaluated for the different genet size classes at all loci: number of segregating sites (S), number of haplotypes (H), average number of differences (K), and nucleotide diversity (p) were calculated using DnaSP V4.00.5 (Rozas & Rozas 1999). In addition, polymorphisms that were present in one genet size class, but absent in the other were counted.
+The relationship among the alleles was studied by constructing networks with the TCS program V1.21 (Clement et al. 2000). The frequency of each haplotype was overlaid on the haplotype network. A test of population expansion based on the assumption that expanding populations will have radiating allele genealogies while stable populations will have deeper genealogies was performed in DnaSP. Tests of allelic recombination were performed by calculating the minimum number of recombination events using Rm in DnaSP.
+Results
+Genet composition and distribution
+Of the 180 collected basidiocarps, two had missing data at more than one locus and were eliminated from the multilocus analyses. The remaining 178 basidiocarps
+Ó 2009 Blackwell Publishing Ltd
+
+4426 H. GERMAIN ET AL.
+were plotted spatially and symbols were used to represent unique MLGs (Fig. 1). Almost all basidiocarps with an identical MLG clustered spatially, most within a few metres, collapsing into 37 unique MLGs representing putative genets (Table 2). Genet size was on average 3.42 m. The distribution of genet size was skewed towards the smallest size class (<3 m), with
+more than half of the genets being in that size class (Fig. 2).
+Two pairs of genets had unusual patterns of nuclear and mitochondrial allelic composition. Genets #86 and #89 and genets #166 and #297 had identical nuclear MLGs, but distinct mitochondrial haplotypes (Table 2). The probability of observing two independent individu-
+ 186 193
+140 204
+220 120
+160
+100
+80
+60
+40
+20
+257 249
+174 178
+172 139 166
+82
+115
+95 29
+223
+264
+243
+270 272
+318
+  297
+86 89
+34
+108
+33
+    145 160
+3
+127
+72
+    57
+157 6327
+128
+ 0
+0 20 40 60 80 100 120
+Distance (m)
+Legend
+Fig. 1 Spatial distribution of Onnia tomentosa basidiocarps in a 45-year-old white spruce plantation. Each symbol represents a unique multilocus genotype (MLG). Alleles are given for each locus in the following order: MS, ML, TUB, ACT and RPB1. Number of basidiocarps with MLG is reported between parentheses.
+ A-A-DD-AC-AH (3) B-A-AD-AG-DH (6) A-A-AD-AH-DF (3) B-B-Bl-AA-DH (17) A-A-DG-AA-AC (9) A-A-AC-CG-AJ (11) A-A-AE-BB-AF (3) A-A-AD-CH-AD (1) B-A-CD-AB-AA (4) A-A-DG-AA-AD (13)
+A-A-AG-AA-AF (4) A-A-CD-AA-AF (1) A-A-AA-AG-DK (7) A-A-AG-EE-AC (5) A-A-DG-AA-AA (15) A-A-AB-AC-AH (3) B-A-KL-AA-AF (3) A-A-DF-CG-FF (1) A-A-DG-AC-AD (2) B-B-AI-AC-DK (2)
+A-A-CG-FF-AB (5) A-A-BJ-GG-EF (2) A-A-DK-BG-AA (11) B-A-AB-AC-AH (12) A-A-CD-AA-AH (5) A-A-EH-GG-AD (2) B-A-CD-BB-AA (4) B-A-DG-AA-AD (4) A-A-DD-CD-AG (2) A-A-DE-AB-FH (5)
+A-A-DG-GG-CD (2) B-A-DK-AB-AH (1) A-A-AE-CC-DI (3) B-A-CD-AA-AA (3) A-A-DG-GG-AC (2) B-B-DM-BI-FJ (1) A-A-AB-AC-CD (1)
+Ó 2009 Blackwell Publishing Ltd
+Distance (m)
+
+Genet #
+3 27 29 33 34 57 63 72 82 86 89 95 108 115 127 128 139 145 157 160 166 172 174 178 186 193 204 220 223 243 249 257 264 270 272 297 318
+N* Size (cm) 15 690
+4 710 3 120 3 350
+17 940 2 150 2 130 5 700 1 — 3 270
+MS ML TUB
+ACT RPB1
+PATTERNS OF COLONIZATION AND SPREAD IN ONNIA TOMENTOSA 4427
+Table 2 Genotype of each discrete clone of Onnia tomentosa identified in a white spruce plantation Locus
+    5 800 AA 13 640 AA 210 AA
+CDAAAH DGAAAD BJGGEF
+als with identical allelic profiles, given the observed allelic frequencies at the nuclear loci in this population, was 3.1 · 10)4 for genets #86 and #89 and 2.3 · 10)3 for genets #166 and #297. The first pair overlapped spatially, possibly suggesting the occurrence of an ‘illegitimate Buller phenomenon’, i.e. the complete replacement of a monokaryon nucleus following hybridization between a dikaryon and a monokaryon, with retention of the resident mitochondrial haplotype (Buller 1931). The second pair of genets exhibiting such a pattern was spatially separated by approximately 50 m.
+The probability of obtaining a particular multilocus genotype given the allele frequencies in this study
+A ADGA
+B ACDA
+A ADDA
+B ACDA
+B B B I A
+A ADDC
+A ADGA
+A ADEA
+B B D M B I F J
+A AABA
+B A A B A
+A A A B A
+A AAAA
+A ADGG
+A AAGEEAC A ADGG GCD A ADGA AAC B ACDBBAA A AADA HDF
+12 870
+1 —
+7 470
+2 130
+5 150
+2 460
+9 920
+4 770
+3 190
+1— AAADCHAD 4 800 BADGAAAD 210 BBAIACDK 1— AADFCGFF 6 380 BAADAGDH 5 250 AACGFFAB 220 AAEHGGAD
+11 440 AAACCGAJ 1— AACDAAAF 11 470 AADKBGAA 3 140 AAAEBBAF 3 170 BAKLAAAF 4 240 AAAGAAAF
+3 290 AAAECCDI 1— BADKABAH
+AAA BAA CAH AAA A D H DAG CAD BFH
+CAH C A H C C D GDK GAC
+ *Number of basidiocarps per genet.
+ 18 16 14 12 10
+8 6 4 2 0
+0 200 400 600 800
+Genet size (cm)
+                Fig. 2 Frequency distribution of Onnia tomentosa genet size classes.
+Ó 2009 Blackwell Publishing Ltd
+Frequency
+
+4428 H. GERMAIN ET AL.
+ranged from 4.1 · 10)7 to 7 · 10)4 (average 1.9 · 10)4) for the genets <3 m and from 3.6 · 10)5 to 1.5 · 10)3 (average 3.5 · 10)3) for the genets >3 m. Given that we sampled 178 basidiocarps, the number of individuals expected to have identical multilocus combinations by chance is considerably <1.
+Allelic diversity in Onnia tomentosa nuclear loci
+A high level of allelic diversity was found at the three
+nuclear loci: the number of alleles was 13, 9 and 11 for the TUB, ACT and RPB1 loci respectively (Table 3). Allele frequencies measured from the clone-corrected data set (n = 37) revealed some rare alleles (£0.027). Twelve of these rare alleles were observed in a single individual in heterozygous states with more frequent alleles (Tables 2 and 3). Two of the rare alleles at the ACT locus occurred in a single individual, in a homozygous state: alleles E and F, in genets #127 and #186 respectively (Table 2). The probability of observing a homozygote for these rare alleles was 7.3 · 10)4. As these individuals were heterozygous at both other nuclear loci, the possibility that they represented monokaryon individuals could be rejected.
+Characterization of the genet size classes
+Both observed and expected heterozygosities were very high at all three nuclear loci, with the exception of observed heterozygosity at the ACT locus, where a heterozygote deficiency was observed (F = 0.341; Table 4). An exact test of HWE revealed a deficiency of heterozygotes when all genets were considered (P = 0.0142; Table 5). When the test was conducted on genets larger
+Table 3 Allele frequency at three nuclear loci genotyped in Onnia tomentosa basidiocarps sampled from a white spruce plantation
+Table 4 Clone-corrected population characteristics in Onnia tomentosa sampled from a white spruce plantation and genotyped at three nuclear loci
+Locus
+TUB ACT RPB1
+N* 37 37 37 Na† 13 9 11
+    Ho‡ 0.919 He§ 0.821 F– )0.119
+*Number of genets. †Number of haplotypes. ‡Observed heterozygosity. §Expected heterozygosity. –Inbreeding coefficient.
+0.486 0.738 0.341
+0.838
+0.768 )0.091
+ Table 5 Exact test of Hardy–Weinberg equilibrium in an Onnia tomentosa population sampled from a white spruce plantation and genotyped at three nuclear loci
+   Genet size*
+<3m >3m All
+Heterozygote deficiency
+P-value† SE‡
+0.0059 0.0026 0.4321 0.0161 0.0142 0.0037
+Heterozygote excess
+P-value† SE‡
+0.9956 0.0030 0.5342 0.0166 0.9897 0.0035
+    Locus Allele TUB
+ACT RPB1
+*Genets were separated into two groups to remove putative Wahlund effects under the assumption of old (large genets) and recent (small genets) colonization events based on observed frequency distribution of genet size classes. Sample sizes were n = 37 for all genets (but two genets with suspected Buller phenomena were excluded), n = 20 for genets <3 m and n = 15 for genets >3 m.
+†Exact test of HWE for heterozygote excess or deficiency on multiple loci implemented in GENEPOP; P-values in italics are significant at the 0.05 level.
+‡Standard error of the estimate.
+than and smaller than 3 m, a heterozygote deficiency was observed only in the smaller genets (P = 0.0059). Genets larger than 3 m were in HWE (Table 5).
+To characterize further the genets belonging to the different size classes, we calculated molecular diversity parameters (Table 6). More segregating sites, higher number of haplotypes, and higher nucleotide diversity were observed in the smaller genets than in the larger ones at all nuclear loci. There were three to four unique polymorphisms observed at the TUB, ACT and RPB1 loci, in the smaller genets, but none observed in the larger genets (Table 6). At the mitochondrial loci, results were comparable in the two genet size classes.
+   A 0.189 0.442
+B 0.068 0.122
+C 0.095 0.162
+D 0.324 0.014
+E 0.054 0.027
+F 0.014 0.027
+G 0.135 0.176
+H 0.014 0.027
+I 0.027 0.014
+J 0.014 —
+K 0.041 —
+0.405 0.014 0.068 0.176 0.014 0.135 0.014 0.108 0.014 0.027 0.027
+L 0.014 M 0.014
+— — — —
+ Ó 2009 Blackwell Publishing Ltd
+
+PATTERNS OF COLONIZATION AND SPREAD IN ONNIA TOMENTOSA 4429
+Table 6 Molecular diversity in Onnia tomentosa sampled from a white spruce plantation
+(Fig. 3). This was supported by recombination tests that were statistically significant between sites 175 and 421 for TUB, sites 41 and 143 for ACT, and between sites 109 and 121 and sites 121 and 247 for RPB1.
+Discussion
+The combination of spatial coordinates and MLGs generated in this study yielded a data set that allowed us to test hypotheses relative to the colonization patterns in the conifer root pathogen Onnia tomentosa. The presence of spatially clustered basidiocarps that shared the same MLG and formed putative genets combined with high genetic diversity among these genets is consistent with the hypothesis that colonization occurred via basidiospores followed by vegetative expansion. A large number of unique vegetative compatibility groups and protein profiles had previously been observed in O. tomentosa in Picea glauca · Picea engelmannii in British Columbia, Canada, which had suggested that basidiospores were an important mode of infection (Lewis & Hansen 1991b).
+Genet size has been found to vary extensively among tree-associated basidiomycetes and most likely depends upon ecological and biological characteristics such as age of colonization, site quality, tree density, etc. For example, Armillaria gallica was observed to have genets as large as 15 ha (Smith et al. 1992) and other Armillaria species have been consistently found to cover areas ranging from less than 1 ha to 37 ha (Coetzee et al. 2001; Dettman & van der Kamp 2001a,b; Bendel et al. 2006). Other species such as the conifer pathogen Heterobasidion annosum and the wood-decaying basidiomycete Phellinus tremulae were reported to have smaller genets (Holmer et al. 1994; Vasiliauskas & Stenlid 1998). In ectomycorrhizal basidiomycetes, similar patterns were observed with genet sizes rarely exceeding a few metres (Dunham et al. 2003; Kretzer et al. 2004). The minimum size estimates for the largest genets of Amanita francheti, Lactarius xanthogalactus and Russula cremoricolor in field sites in coastal Northern California were 1.5, 9.3 and 1.1 m2 respectively (Redecker et al. 2001). Thus, overall, the genet size of O. tomentosa observed in this study is small compared with some tree pathogens, but similar to that of other tree-associated basidiomycetes.
+By looking at the genet size frequency distribution, we observed that it was not normally distributed, as would be expected if colonization by a cohort of individuals were followed by vegetative expansion. Instead, the frequency distribution of genet size was skewed towards small-size genets in O. tomentosa. A second observation that was not consistent with the scenario of a single colonization cohort by the sexual basidiospores was the deviation from HWE.
+ Locus
+Diversity measure†
+Genet size* <3 m
+>3 m
+  TUB
+S 1512 H 138
+K
+p
+Unique polymorphisms‡ ACT
+3.690 3.018 0.007 0.006 3 0
+S84 H94
+K
+p
+Unique polymorphisms RPB1
+1.960 1.550 0.099 0.008 4 0
+S 117 H 117
+K
+p
+Unique polymorphisms Mt-DNA§
+2.087 1.653 0.005 0.004 4 0
+S55 H33
+K
+p
+Unique polymorphisms
+1.374 1.780 0.001 0.001 0 0
+ *Genets were split into two groups based on skewed frequency distribution (see Fig. 2).
+†S, number of segregating sites; H, number of haplotypes; K, average number of differences; p, nucleotide diversity. ‡Polymorphisms that are present in one size class but absent in the other; there was no fixed polymorphism.
+§The MS and ML mitochondrial loci were concatenated for a total of 1397 sites.
+Gene genealogy
+Genealogy was estimated for each nuclear locus. The networks of haplotypes showed that with few exceptions, several derived alleles radiated from putative ancestral alleles, usually separated by a single or two mutational steps resulting in a shallow radiating network (Fig. 3). Most of the derived alleles at the three nuclear loci were present in the smallest genets (Fig. 3; see Table 2). At the TUB locus, there were deeper branches than at the other two loci. However, at all three loci, the hypothesis of population expansion was rejected.
+There was some evidence of allelic recombination at the TUB locus between alleles F and H and alleles L and M, at the ACT locus between alleles I, B and G, and at the RPB1 locus between alleles D and G, as indicated by the homoplasy in the haplotype networks
+Ó 2009 Blackwell Publishing Ltd
+
+4430 H. GERMAIN ET AL.
+ (a)
+(b)
+  Allele C: 27, 33,145 186, 204, 220, 272
+     Allele A: 86, 89, 95, 108, 127, 157, 160, 172, 178, 204 243, 257, 264
+Allele I: 34, 172
+Allele G: 3, 63, 115 127, 128, 139, 166 186, 257, 297
+         Allele C: 29, 57, 63, 86, 89, 95 172, 174, 204, 264
+Allele I: 82
+Allele D: 57
+Allele H: 157, 160
+    Allele B: 34, 86 89, 95, 318
+   Allele D: 3, 27, 29, 33, 57, 63, 72 115, 128, 139, 145, 160, 166, 174 178, 220, 223, 270, 272, 297
+                     Allele E: 72, 193 243, 264
+Allele F: 174
+Allele L: 249
+Allele K: 223, 270
+     Allele H: 193
+(c)
+Allele C: 95, 115, 127 128, 139
+Allele A: 3, 27, 29, 33, 57, 63, 86, 89 115, 127, 139, 145, 160, 166, 186, 193 204, 220, 223, 243, 249, 257, 270 272, 297
+Allele G: 57
+Allele G: 108, 115, 128, 174, 178, 193, 204, 223, 318
+Allele B: 27, 72, 82, 145 223, 243, 270
+Allele F: 186
+    Allele M: 82
+Allele J: 318
+Allele E: 127
+Allele K: 82, 108, 172
+              Allele F: 72, 82,157 174, 220, 243, 249 257, 318
+Allele D: 34, 63, 95, 108 128, 157, 160, 166, 172 178, 193, 264, 297
+             Allele J: 204
+Allele E: 318
+Allele B: 186
+Allele I: 264
+    Fig. 3 Networks of haplotypes among the alleles at TUB (a), ACT (b) and RPB1 (c) loci, using TCS (Clement et al. 2000). Identification of genets in which alleles occur is indicated numerically in nodes (see Table 2). The frequency of each haplotype is proportional to the size of the node. Mutational steps and recombination events are identified by nodes and hatched branches respectively.
+Allele A: 3, 27, 29, 33, 34, 63, 72, 86, 89, 95 108, 139, 157, 166, 172, 178, 220, 249 257, 270, 272, 297
+ Allele H: 29, 34, 72 86, 89, 178, 270, 272
+One possible explanation for these observations is that older colonization by a breeding population was followed by subsequent waves of colonization by distinct breeding populations, creating a Wahlund effect, which is observed when non-randomly-mating populations are mixed. This usually results in a deficiency of observed heterozygotes. To test this hypothesis, we divided the data set into a larger size class (presumably the founder population) and a smaller size class (the subsequent colonizers) and tested for heterozygote excess and deficiency. This analysis showed that there was no excess or deficiency of heterozygotes in the larger genets, but there was a heterozygote deficiency in the smaller genets. In fact, two of the smallest genets were homozygous for rare alleles. This pattern is
+consistent with the presence of a mixture of individuals that are not part of the same breeding population and are probably derived from distinct spore sources. Further support to the hypothesis of waves of colonization is the presence of rare alleles at the extremities of the networks of haplotypes. Almost all of these rare alleles were found in the group of small genets and were derived from more frequent alleles.
+It is possible to propose a hypothesis regarding the colonization pattern based on the history of the stand. Prior to being clear cut and planted with white spruce, the stand was occupied by a mixture of deciduous trees and conifers, with spruce being relatively low in abundance. Although there is no recorded history of the presence of O. tomentosa in this stand prior to the
+Ó 2009 Blackwell Publishing Ltd
+
+PATTERNS OF COLONIZATION AND SPREAD IN ONNIA TOMENTOSA 4431
+plantation, it can be assumed that this pathogen was patchy and not abundant as it does not infect deciduous trees. O. tomentosa was found to survive for at least 30 years in infected stumps (Lewis & Hansen 1991a; Tkacz & Baker 1991). If the early colonizing genets were either already present or invaded the stand soon after the disturbance, it would give us an older limit for the age of the genets.
+Assuming that over time each genet has expanded radially outwards from a point of colonization to attain its present size, the age of a genet can be estimated by the length of its radius divided by the annual rate of spread through the forest using published estimates. Rate of growth has been estimated by different methods in O. tomentosa. In one of these methods, growth was measured employing temporal differences in the initiation of the reduced annual radial increment between pairs of diseased trees. Pairs of infected trees (stumps) located on the periphery of disease centres were selected in each of six widely separated spruce (Picea spp.) stands in British Columbia. Estimates varied between 12 cm ⁄ year and 25 cm ⁄ year (Hunt & Peet 1997). If we consider the lowest estimate of spread (which is justifiable given the harsher weather conditions in Quebec), 45-year-old genets would be approximately 1080 cm in diameter. Thus, only a few of the largest genets are approximately the age of the plantation while most genets would have colonized the stand following the establishment of the plantation. It therefore appears that the clear cutting and planting of the site with spruce at high density favoured spore colonization and subsequent vegetative spread of the pathogen.
+The unusual pattern observed in genets #86 and #89 and genets #166 and #297, i.e. genet pairs having an identical nuclear profile but a distinct mitochondrial profile, is most likely explained by the Buller (1931) phenomenon. This phenomenon was observed in basidiomycetes where diploid or dikaryotic hyphal tips can replace the nucleus of a haploid hyphal tip by theirs (Carvalho et al. 1995). Thus the recipient monokaryotic partner loses its original resident nucleus but retains its mitochondria, yielding a novel combination of nuclear and mitochondrial profiles. In the case of genets #86 and #89, the distribution of which overlapped in the stand, the most parsimonious explanation is that one of the new immigrant monokaryons colonized the same area as a resident dikaryon and the monokaryotic hypha was overtaken by the dikaryon. This phenomenon represents a form of avoidance of competition as an established individual can propagate its gene combination by transmitting its nuclei to a potential competitor. However, in the case of the second pairing (#166 and #297), the two genets did not overlap spatially in
+the current resulting distribution. A Buller phenomenon involves direct contact between a dikaryon and a monokaryon. If a Buller phenomenon was invoked for this pairing, it would make it by far the largest and oldest genet in the stand (>50 m).
+One potential caveat of using basidiocarps to carry this study is the risk of misidentifying O. tomentosa and collecting individuals from morphologically similar species. Other studies have similarly been conducted to assess the spatial patterns of ectomycorrhizal fungi by directly genotyping basidiocarps (Gherbi et al. 1999; Fiore-Donno & Martin 2001; Bergemann & Miller 2002). Given that there seemed to be no restriction on genetic exchange between the sampled individuals (see Table 2), which would be the case if they were from different species, we concluded that all sampled basidiocarps belong to the species O. tomentosa.
+There were two distinct advantages of collecting basidiocarps and conducting direct genotyping instead of isolating the fungus in cultures. First, by collecting large numbers of basidiocarps, it was possible to conduct a very thorough spatial survey. Second, cultures can induce a selection bias, possibly towards more aggressive and faster growing individuals. Moreover, the results of a study conducted in a natural stand elsewhere in Quebec, using fungal cultures and basidiocarps of O. tomentosa, showed that the genotype of both mycelium from infected root and basidiocarp associated with the same tree was shared (unpublished data). Thus, the above-ground representation that we obtained in this study is probably a faithful representation of the below-ground mycelial structure of the Harrington stand. However, it is possible that genets that did not produce basidiocarps at the time of sampling were missed. Thus, the high level of genetic diversity we observed could be considered a lower bound.
+Acknowledgements
+We gratefully acknowledge the excellent field and mapping work of R. Blais and J.-P. Be ́rube ́ and the help provided by J. Lamarche with data plotting. We also thank F. O. P. Stefani, A. Vialle, S. Joly and three anonymous reviewers for helpful comments on the manuscript and P. Cheers for editorial suggestions. This work was funded by a Canadian Biotechnology Strategic grant to R. C. Hamelin.
+References
+Ó 2009 Blackwell Publishing Ltd

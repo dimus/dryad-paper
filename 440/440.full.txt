@@ -1,0 +1,712 @@
+  Syst. Biol. 46(4):674-698, 1997
+EVOLUTION AND PHYLOGENY OF THE DIPTERA: A MOLECULAR PHYLOGENETIC ANALYSIS USING 28S RDNA SEQUENCES
+12 MARKUS FRIEDRICH AND DIETHARD T AUTZ
+California Institute of Technology, Division of Biology 156-29, Pasadena, California 91125, USA; E-mail: mf@cco.caltech.edu
+Zoologisches Institut der Universitat Miinchen, Luisenstrasse 14, 80333 Miinchen, Germany; E-mail: tautz@zi.biologie.uni-munechen.de
+Abstract.—Portions of the large ribosomal subunit RNA gene (28S rDNA) encompassing the Dl and the D7 region were obtained from 16 dipteran species and families to reconstruct early phylogenetic events in the order Diptera. For outgroup comparison, the corresponding sequences were used from representative taxa of the Siphonaptera, Mecoptera, and Lepidoptera. A subset of 488 unambiguously alignable sites was analyzed with respect to important sequence evolution parameters. We found (1) sequence variability is significantly higher in double-stranded sites than in single-stranded sites, (2) transitions are close to saturation in most pairwise sequence comparisons, (3) significant substitution rate heterogeneity exists across sites, and (4) significant substitution rate heterogeneity exists among lineages. Tree reconstruction was carried out with the neighbor joining, maximum parsimony, and maximum likelihood methods. Four major subgroups are consistently and robustly supported: the Brachycera, the Culicomorpha, the Tipulomorpha sensu stricto, and the hitherto controversial Bibionomorpha sensu lato, which includes the families Sciaridae, Mycetophilidae, Cecidomyiidae, Bibionidae, Scatopsidae, and Anisopodidae. The phylogenetic relationships within or among these subclades and the positions of the families Psychodidae and Trichoceridae were not robustly resolved. These results support the view that the mouthparts of extant dipteran larvae evolved from a derived ground state characterized by subdivided and obliquely moving mandibles. Furthermore, sequence divergence and the paleontological record consistently indicate that a period of rapid cladogenesis gave rise to the major dipteran subgroups. [Character state polarity; Diptera; Drosophila; evolution; maximum likelihood ratio test; molecular phylogeny; ribosomal DNA; systematics.]
+Because of their abundance and the dressed with molecular methods. This characteristic modification of the hind scarcity of molecular studies addressing wings to halteres, representatives of the the higher systematics of the Diptera is holometabolan insect order Diptera are facontrasted by a rich body of morphological miliar to all of us. The presumably best studies. The first accounts of dipteran phyknown dipteran is the fruitfly Drosophila logeny appeared more than 150 years ago
+2
+melanogaster, which has become one of the
+most intensively studied model organisms
+in modern biology (Ashburner, 1989; Law-
+rence, 1992). Evolution of the genus Dmphology (White, 1949; Rohdendorf, 1964;
+sophila has been the subject of several mor-
+phological and molecular phylogenetic
+studies (DeSalle and Grimaldi, 1991; Pe-
+landakis and Solignac, 1993). In recent from the application of the principles of years, various dipteran clades other than phylogenetic systematics (Hennig, 1965). Drosophila have been studied using molecHennig's final conclusions, which were ular phylogenetic techniques (Vossbrinck largely drawn from the analysis of adult and Friedman, 1989; Xiong and Kocher, characters, predominated dipteran system1991; Raich et al, 1993; Miller et al., 1996; atics for a long time. The first major atPawlowski et al., 1996; Tang et al., 1996; tempt to revise dipteran phylogeny was McPheron and Han, 1997; Smith and Bush, put forward by Wood and Borkent (1989), 1997). Nonetheless, the basal relationships in which they considered both adult and within the Diptera have not been adlarval characters. Their study provided the
+674
+(Lameere, 1906). A large number of studies followed, which derived phylogenetic evidence from cytology, paleontology, or mor-
+Hackman and Vaisanen, 1985). Most influential were the numerous contributions by Hennig (1948, 1968, 1981), which profited
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  1997 FRIEDRICH AND TAUTZ—DIPTERAN PHYLOGENY 675
+background for a series of publications on more specific aspects of dipteran phylogeny (Courtney, 1990; Griffiths, 1990, 1994; Oosterbroek and Theowald, 1991; Krzeminski, 1992b; Sinclair, 1992; Sinclair et al., 1994). Most recently, Oosterbroek and Courtney (1995) undertook a new major effort towards dipteran phylogeny by revising and extending the morphological
+characters used by Wood and Borkent (1989), Courtney (1991), Krzeminski (1992b), and Sinclair (1992) and by applying computer analysis in tree reconstruction.
+Nonetheless, many important issues of higher dipteran systematics have remained controversial. There also is an ongoing interest in comparative and evolutionary aspects of this group (Shaw and Meinertzhagen, 1986; Schmidt-Ott et al., 1994; Curtis et al., 1995; Sander, 1996; Melzer et al., 1997). Because of this situation, we investigated the potential of partial sequences from the nuclear large ribosomal RNA (rRNA) gene (28S rDNA) to resolve the early phylogenetic events in dipteran evolution.
+Advances and Conflicts in Higher Systematics of the Diptera
+The basic concepts of dipteran systematics date back to the early 19th century. At that time, the Diptera were already subdivided into Nematocera, flies with long and evenly segmented antennae, and Brachycera, flies with short antennae built of modified flagellomeres (Latreille, 1802; Macquart, 1834). The >85,000 extant brachycerous species, subdivided into 110 families, stand out against the remaining 35,000 species, thought to represent 27 families (Schumann, 1992) traditionally united as Nematocera. This taxon is generally assumed to be paraphyletic with respect to the Brachycera (Hennig, 1968,1981; Wood and Borkent, 1989; Oosterbroek and Courtney, 1995). Nonetheless, arguments have been made that support a monophyletic origin of the Nematocera (Ulrich, 1991). The Brachycera is a well-supported monophyletic group, which is subdivided into Cyclorrhapha and Orthorrhapha
+(Woodley, 1989). The orthorrhaphous flies are thought to represent a paraphyletic assembly with respect to the Cyclorrhapha, which form a conspicuous monophyletic subgroup supported by numerous synapomorphies (McAlpine, 1989).
+The relationships between the major dipteran subgroups are a matter of ongoing controversy. Part of the problem is the uncertainty about the sister group of the Diptera. Candidate groups are the Mecoptera (scorpion flies) (Hennig, 1969; Mickoleit, 1969), the Siphonaptera (fleas) (Boudreaux, 1979; Wood and Borkent, 1989), a subclade including the Mecoptera and the Siphonaptera (Kristensen, 1975), or the mecopteran family Nannochoristidae (Tillyard, 1929; Imms, 1944). Unfortunately, molecular studies based on rDNA sequences, which support either the Lepidoptera (Pashley et al., 1993; Friedrich and Tautz, 1997) or the Strepsiptera (Chalwatzis et al., 1996; Whiting et al., 1997), have failed to convincingly clarify this issue. These studies suffer from the presence of significant substitution rate differences and base compositional shifts in strepsipteran and dipteran rRNA genes, which severely reduce the success of molecular phylogenetic tree estimation (Carmean
+and Crespi, 1995; Friedrich and Tautz, 1997; Huelsenbeck, 1997). A further reason for controversy over higher dipteran systematics is the general lack of phylogenetically informative character states, although a large number of character state complexes such as general morphology, chaetotaxy, cytology, ecology, and paleontology have been explored (see Hackman and Vaisanen, 1982; Wood and Borkent, 1989; Oosterbroek and Courtney, 1995).
+To outline the major controversies in dipteran phylogeny, we focus on the concepts of Hennig (1969, 1973, 1981), Wood and Borkent (1989), and Oosterbroek and Courtney (1995). Furthermore, the range of groups discussed is restricted to those included in the present molecular analysis (Table 1). Setting aside terminological differences, all of these studies converge on five major dipteran subgroups (Fig. 1): the Brachycera, the Tipulomorpha or
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  676 SYSTEMATIC BIOLOGY VOL. 46
+TABLE 1. Dipteran and outgroup species included this study are given in bold.
+in this study. New accession numbers associated with
+Spedes Tipula paludosa Meigen
+Limonia nebulosa Meigen
+Bradysia coprophila Lintner Bolitophila cinerea Mayer
+Dilophus febrilis L. Clinodiplosiscilicrus (Kieffer) Chironomus tentans F.
+Simulium euryadminiculum Davies Aedes albopictus Mit.
+Culex pipiens L.
+Psychoda cinerea Banks Trichocera regelationis L. Anapausis inermis Ruth Sylvicolafenestralis Scop. Drosophila tnelanogaster Meigen Tabanus sudeticus Zell. Manduca sexta L.
+Archaeopsylla erinacei Bouchee Panorpa communis L.
+Family
+Tipulidae Limoniidae
+Sciaridae Mycetophilidae Bibionidae Cecidomyiidae Chironomidae Simuliidae Culicidae Culicidae Psychodidae Trichoceridae Scatopsidae Anisopodidae Drosophilidae Tabanidae
+Subgroup
+Tipulomorpha Tipulomorpha Bibionomorpha Bibionomorpha Bibionomorpha Bibionomorpha Culicomorpha Culicomorpha Culicomorpha Culicomorpha Psychodomorpha
+Brachycera Brachycera
+Order
+Diptera Diptera
+Diptera Diptera Diptera Diptera Diptera Diptera Diptera Diptera Diptera Diptera Diptera Diptera Diptera Diptera Lepidoptera Siphonaptera Mecoptera
+EMBL accession no.
+X93387, X93405
+X93369, X93378
+X93391, X93402
+X93365, X93373 X93366, X93375 X93363, X93372 X93383, X93412 X93368, X93377 L22060
+X93384, X93403 X93386, X93404 X93370, X93379 X93364, X93374 X93367, X93376 M21017 X93362, X93371 X93382, X93408 X93381, X93407 X93380, X93406
+crane-fly-like flies, the Psychodomorpha or moth-midge-like flies, the Bibionomorpha or fungus-gnat-like flies, and the Culicomorpha or mosquito-like flies. The composition of some of these clades, however, differs considerably among dipterists. The basic incongruency concerns the Psychodomorpha and the Bibionomorpha. The Bibionomorpha sensu stricto, which traditionally includes the families Bibionidae (March-flies), Sciaridae (dark fungus gnats), Cecidomyiidae (gall midges), and Mycetophilidae (fungus gnats), is generally accepted (Fig. 1). Hennig (1981) also included the families Anisopodidae (wood gnats) and Scatopsidae within the Bibionomorpha, which one may then refer to as Bibionomorpha sensu lato (Fig. la). Wood and Borkent, however, included the Anisopodidae and the Scatopsidae together with the Trichoceridae (winter gnats) and the Psychodidae (moth-midges) in the Psychodomorpha, referred to hereinafter as
+Psychodomorpha sensu W&B (Fig. lb). Although the Psychodomorpha in the system of Hennig (1981) includes the Psychodidae and a number of other families not included in this study (Fig. la), Oosterbroek and Courtney extended the Psychodomorpha sensu W&B by including the families Ti-
+pulidae and Limoniidae and the Brachyera (Fig. lc). Traditionally, however, the families Tipulidae, Limoniidae, and Trichoceridae are considered basal families of the Diptera. According to Hennig (1981), for example, these three families represent the most basal subgroup, here termed Tipulomorpha sensu lato (Fig. la). Because the monophyly of the Tipulomorpha sensu lato was rejected by Wood and Borkent in favor of including the Trichoceridae in the Psychodomorpha sensu W&B (Fig. lb), the general consensus reduces to consider the Tipulidae and Limoniidae sister groups (Fig. 1). The corresponding clade is termed Tipulomorpha sensu stricto. A further major subgroup, for which all authors agree on component families, is the Culicomorpha (Fig. 1). Regarding the culicomorphous families Culicidae (mosquitos), Chironomidae (water midges), and Simuliidae (black flies), most authors assume the latter two to be more closely related.
+Given the fundamental differences in the composition the Bibionomorpha and the Psychodomorpha, a comparison concerning the relationships among the major dipteran subdivisions is hardly possible. Nonetheless, Hennig (1981) and Wood and Borkent (1989) favored the Tipulomorpha
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  1997
+FRIEDRICH AND TAUTZ—DIPTERAN PHYLOGENY
+677
+ (a)
+Tipulidao Limoniidae Trichoceridae Psychodidae Chironomidae
+r £ Simuliidae Culicidae
+Scatopsidae Anisopodidae
+Tipulidae Limoniidae Bibionidae Mycetophilidae Cecidomyiidae Sciaridae Chironomidae Simuliidae Culicidae Psychodidae Trichoceridae Scatopsidae Anisopodidae Drosophilidae Tabanidae
+Chironomidae Simuliidae Culicidae Bibionidae Mycetophilidae Cecidomyiidae Sciaridae Scatopsidae Psychodidae Trichoceridas
+Limoniidaa Anisopodidae
+Tipulomorpha sensu stricto
+Tipulomorpha sensu lato Psychodomorpha
+Culicomorpha
+Bibionomorpha sensu lato
+Tipulomorpha sensu stricto
+Bibionomorpha sensu stricto
+Culicomorpha
+Psychodomorpha W&B
+Brachycera
+Culicomorpha
+Bibionomorpha sensu stricto
+Psychodomorpha O&C
+Tipulomorpha sensu lato
+(c)
+FIGURE 1. Phylogeny of the major dipteran subgroups and families covered in this study. Controversial subgroups are printed bold. Major subgroups are indicated by shaded boxes. Subgroups nested within higher clades are indicated by darker boxes, (a) Hennig, 1973, 1981. (b) Wood and Borkent, 1989. (c) Oosterbroek and Courtney, 1995.
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  678 SYSTEMATIC BIOLOGY VOL. 46
+sensu lato or the Tipulomorpha sensu stricto, respectively, as the most basal major dipteran subgroup, and Oosterbroek and Courtney (1995) found evidence for the Culicomorpha as most basal.
+The phylogenetic status of the Brachycera, which is of most general interest, is similarly controversial. Hennig (1981) suggested a sister-group relationship between Bibionomorpha sensu lato and the Brachycera (Fig. la). Wood and Borkent (1989) favored the Psychodomorpha sensu W&B as the sister group of the Brachycera (Fig. lb). Oosterbroek and Courtney (1995) placed the Brachycera as sister group of the family Anisopodidae, a grouping that had been proposed previously by Woodley (1989).
+MATERIALS AND METHODS
+Samples
+Mecoptera (Panorpacommunis), and Siphonaptera (Archaeopsylla erinacei) were included for outgroup comparison.
+Methods
+Extraction of genomic DNA from dried or alcohol-preserved specimens was carried out according to Gustincich et al. (1991) with the following modifications. DNA was not precipitated but was spindialyzed in Ultra free tubes (Millipore), washed three times with 300 |xl H2Q and then recovered in 25-100 JULI Tris-EDTA (TE) buffer. This procedure increased the DNA yield and reduced inhibition in subsequent PCR reactions when dried or alcohol-preserved insect specimens from museum collections were used. Concentration and quality of the extracted genomic DNA was analyzed on 0.8% agarose gels. Dried insect specimens generally yielded low-molecular-weight DNA fragments of
+Each major subgroup was represented
+by at least one species (Table 1). Represen-
+tatives of families with uncontroversial
+systematic position in terms of subgroup
+allocation are Tipula paludosa (Tipulidae)
+and Limonia nebulosa (Limoniidae) from the amplify DNA fragments corresponding to Tipulomorpha sensu stricto, Bradysia coprothe following regions of the Drosophila mephila (Sciaridae), Bolitophila cinerea (Myce-lanogaster 28S rRNA sequence (Tautz et al., tophilidae), Dilophus febrilis (Bibionidae), 1988): Dl fragment, 3338-3650 (primers: 5'and Clinodiplosis cilicrus (Cecidomyiidae) CCC(C / G)CGTAA(T / QTTAAGCATAT-3', from the Bibionomorpha sensu stricto, Chi5'-ACTCTCTATTCA(A / G)AGTTCTTT(G / ronomus tentans (Chironomidae), Simulium C)-3', annealing temperature 60°C); D7 euryadminiculum (Simuliidae), Aedes albopic-fragment, 5000-5464 (primer: 5'-CTGA
+tus (Culicidae), and Culex pipiens (CuliciAGTGGAGAAGGGT-3', 5'-GACTTCCCT dae) from the Culicomorpha, and Psychoda TACCTACAT-3', annealing temperature cinerea (Psychodidae) from the Psychodo60°C). PCR reactions were set up with apmorpha. The systematic positions of the proximately 10-100 ng DNA, 0.2 mM families represented by the species TrichodNTPs, 2 \sM. of each primer, and 2 mg/ml cera regelationis (Trichoceridae), Anapausis bovine serum albumin in a buffer of 67 inermis (Scatopsidae), and Sylvicola fenesmM Tris/HCl (pH 8.8), 2 mM MgCl2 (Paatralis (Anisopodidae) are currently controbo, 1990). Cycling was performed in a versial (Fig. 1). To cover the evolutionary Thermo Cycler (Perkin Elmer) with 5 min divergence of the Brachycera, the pubat 94°C for initial denaturation, followed by lished sequences of Drosophila melanogastermanual addition of Taq DNA polymerase (Drosophilidae, Cyclorrhapha) (Tautz et (Cetus) on the block, then 20 cycles with 1 al, 1988) were retrieved from the EMBL min denaturation at 93°C, 1 min annealing database, and a representative (Tabanus suat the temperature specified for each primdeticus) of one of the basal families, the Taer pair above, and 1 min elongation at banidae (Woodley, 1989), was chosen for 72°C. This reaction sequence was followed
+sequence analysis. Representatives of the by 20 analogous cycles with a 2-min 72°C insect orders Lepidoptera (Manduca sexta), elongation step. Amplified products were
+<600 bp. Alcohol-preserved insect specimens usually yielded high-molecularweight DNA. Aliquots of the DNA extractions were subjected to PCR reactions to
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  1997 FRIEDRICH AND TAUTZ—DIPTERAN PHYLOGENY 679
+examined on 1.5% agarose gels. DNA fragments were excised from the agarose gel, eluted using glassmilk (Quiaex Kit, Quiagen), and redissolved in 25 |xl TE buffer. About 100 ng of template DNA was used per direct sequencing reaction, which was carried out according to Casanova et al. (1990). DNA fragments were sequenced in both directions with the amplification primers and the following internal primers for the D7 fragment: 5'-AGGGTTTCGTGT GAACAG-3', 5'-TTCCAAACC(A/C)T A T CTC-3', 5'-CGA TTTTCAAGGTCC-3'. As judged by gel electrophoresis, the D7a expansion segments (Hancock et al., 1988) of Tabanus sudeticus and Panorpa communis are about 300 bp longer than those in all other species investigated. These expansion regions were not sequenced completely because no phylogenetically valuable information for the problem addressed here was expected.
+1996b). ML tree search was carried out using PHYLIP (Felsenstein, 1995) applying the Global Rearrangement option. Heuristic maximum parsimony (MP) tree search was carried out in PAUP applying the TBR option for branch swapping. Estimation of evolutionary distances and neighbor joining (NJ) analysis (Saitou and Nei, 1987) were carried out in PHYLIP. Branch probability (BP) values were determined by nonparametric bootstrapping (Felsenstein, 1985) based on 1,000 replicate data sets.
+RESUL TS
+Multiple Alignment
+Correct alignment of homologous positions between sequences is the first prerequisite for reliable molecular phylogenetic reconstruction. In the present study, the 28S Dl and D7 sequence regions had to be aligned among 16 distantly related dipteran species and 3 outgroup species representing lepidopterans, siphonapterans, and mecopterans. 28S rDNA expansion segment regions characteristically accumulate insertion and deletion events over time. These length-variable regions, which were dispersed among several strongly
+Initial multiple alignments were pro-
+duced by hand and, alternatively, using
+the CLUSTAL V program applying default
+settings (Higgins and Sharp, 1988). The re-
+sulting alignments were compared and di-
+vergent regions were rechecked, taking
+conservation of secondary structure mod-
+els previously published for Drosophila meconserved blocks in the present set of selanogaster into account (Hancock et al., quences, were difficult to align and
+1988; Rousset et al., 1991). Nucleotides 162-188 in the Drosophila melanogaster 28S Dl sequence provided here (Appendix 1) were accidentally omitted from the correspondent sequence and the secondary structure published by Hancock et al. (1988) and (Tautz et al., 1988) but were verified by direct sequencing (Friedrich, 1995).
+Pairwise sequence divergence and pairwise transition (Ts) and transversion (Tv) sequence divergence were determined using subroutines of PAUP 3.0 (Swofford, 1993). The numbers for variable and phylogenetically informative sites were determined using MacClade (Maddison and Maddison, 1992). Stationarity of nucleotide composition was tested using the STATIO program (Rzhetsky and Nei, 1995). Maximum likelihood (ML) estimation of tree likelihoods and substitution parameters w e r e c a r r i e d o u t u s i n g P AML (Y ang,
+showed little congruence between handand computer-generated alignment (Appendix 1). Reexamination with respect to evolutionarily conserved secondary structure elements as indicated by compensatory substitutions in stem-forming regions helped to refine and confirm the final alignment.
+The secondary structure elements supported in our set of sequences were compared with the recently published secondary structure models of Drosophila melanogaster and Aedes albopictus (Schnare et al., 1996). Other than some minor differences, the stem assumed to be formed by the sites 68-72 and 104-108 in our alignment of the 28S D7 fragment is different from these published models (Appendix 1). The same applies for the stem assumed to be formed by the sites 157-162 and 167-172, and a part of the stem
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  680 SYSTEMATIC BIOLOGY VOL. 46
+formed by sites 146-156 and 261-273 in our 28S D7 fragment alignment (Appendix 1). Nonetheless, 488 sites, which included no gaps in any of the dipteran taxa, were aligned with confidence. This subset was considered for molecular phylogenetic analysis.
+Sequence Divergence
+Of the 488 sites included in the analysis, 211 (43%) are variable and 159 sites (33%) are phylogenetically informative for the dipteran taxa. Within the Diptera, sequence divergence ranges from 2.9% to 24.3% of pairwise sequence divergence (Table 2). Relatively high sequence divergences are observed when representatives of the Culicomorpha (Chironomus, Simulium, Culex, Aedes) are compared with other dipteran species (17.4-24.3%). Otherwise, pairwise sequence divergence does not exceed 15.2% within the Diptera. The sequence divergence among the culicomorphous families is also high (16.721.1%); as expected, sequence divergence between the closely related mosquito species Aedes albopictus and Culex pipiens is the lowest observed in the data set (2.9%). The range of sequence divergence observed for the culicomorphous representatives within the Diptera even overlaps with thatobserved between the dipteran species and the outgroup taxa (22.7-31.0%), indicating elevated substitution rates in the culicomorphous lineages.
+If the extracted sequence sites are subdivided into those derived from doublestranded (DS) and single-stranded (SS) regions, 281 sites (58%) are located in putative DS regions and the remaining 207 (42%) are in SS regions. About two thirds of the variable sites (142) are found in DS regions. Sequence variability in DS regions is significantly higher than that in SS regions (x2, P < 0.005) if the occurrence of compensatory substitutions in DS regions is neclected. Assuming that all substitutions in DS regions are correlated with a complementary substitution, the number of independent substitution events in the DS regions would reduce to 71 versus 70 complementary pairs of sites where n o
+r\|CN(NCN|CN|CN|CNCNCN|(N{NCNfN|cOCNCN
+ji)mmconnfi(OC5(NO\dtso\
+CNIC\|CNCN(NC\|CN|{NCN|CN|CNrs|fNCO(N(N
+odaoa\o6oro
+t—It—I CN r—I t—< fs| CN T-H
+OH g
+dNOONOOOONWO
+<N CN
+T—I t—I
+t —I r I T —I T —I
+T—I <—It—I
+cNOOOotcocntNO CN <N CN >—iCNCNfNCNCNCNCMCNI
+KCN copoqCNJ *q cs co *d vd in od K
+T-H LOONCN CN CO CO ^
+O\ CNj CS LO
+QE2CQUCQ Q
+££ l-i ~ B-8-S
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  1997 FRIEDRICH AND TAUTZ—DIPTERAN PHYLOGENY 681
+substitution is observed. Under this most conservative assumption, DS regions are still significantly more variable than SS regions (P < 0.05).
+Nucleotide Composition
+Most models of sequence evolution assume stationarity of nucleotide composition over time (Gillespie, 1986). The impact of base compositional shifts between taxa on the reliability of phylogenetic reconstruction has been discussed (Hasegawa and Hashimoto, 1993; Lockhart et al., 1994). For the present data set, nucleotide composition was determined for DS and SS regions separately (Appendix 2). Consistent with the results of a recent study (Friedrich and Tautz, 1997), a considerable difference between the dipteran taxa and the outgroup taxa was observed in the DS regions. A mean (SD) AT content of 49.4% (2.4%) in the Diptera contrasts with 34.9% (1.3%) in the outgroup taxa. The analogous comparison in the SS regions also shows a tendency towards elevated AT content in the Diptera with 64.4% (1.6%) versus 59.9% (1.3%) in the outgroup taxa.
+We tested stationarity of base composition for DS and SS regions using the test developed by Rzhetsky and Nei (1995), which takes into account the phylogenetic relatedness of the sequences being compared. As expected, when the outgroup taxa are included, stationarity of base composition is rejected for DS sites (P < 0.001) but not for SS sites. However, stationarity is not rejected for both SS sites and DS sites when the three outgroup taxa are excluded from the test. Because the stationarity assumption can be upheld for the ingroup taxa, it is unlikely that nucleotide composition will have a strong influence on the reconstruction of the higher ingroup taxa.
+Degree of Substitutional Saturation
+Given the considerable degree of sequence divergence between many of the distantly related dipteran taxa, it appeared necessary to analyze the loss of phylogenetic information due to multiple hits. The degree of substitutional saturation was
+characterized by comparing observed pairwise Ts and Tv divergences of all possible species combinations to those expected at substitutional equilibrium, Tssat and Tvsat using the approximating formulas: Tssat = 2/(TTT<7TC + HATTG) and Tvsat = 2/7TCTirGA (Hasegawa et al., 1985). In this context,/is the probability that a given site is variable and TT is the stationary nucleotide composition per base; IT was set equal to the mean percentage of each nucleotide across all taxa, and/was roughly approximated by setting it equal to the partition of variable sites observed in a given set of sites. Because DS and SS sites differed significantly in sequence variability, saturation analysis was carried out for each subset separately.
+Pairwise Ts divergences were plotted against Tv divergences in relation to Tssat/ Tvsat (Fig. 2). The comparison indicates a faster increase of Ts over Tv in DS sites but not in SS sites, which is consistent with the presence of a strong DS site-specific Ts bias previously found in a study of 28S rRNA evolution in closely related Drosophila species (Rousset et al., 1991). For sequence saturation, it becomes obvious that in the DS sites Ts have reached the range of substitutional equilibrium for the majority of pairwise sequence comparisons whereas Tv have remained clearly distant from Tvsat (Fig. 2a). In the SS sites, however, Ts and Tv are affected to same degree by multiple hits (Fig. 2b). In approximately one third of the pairwise sequence comparisons, both classes of substitutions have reached the range of expected substitutional equilibrium.
+To see which aspects of tree topology might be most affected by the considerable amount of substitutional saturation observed, we subdivided the data according to taxon combinations (Fig. 2). The strongest impact was on sequence divergences between ingroup and outgroup taxa. Furthermore, those pairwise sequence comparisons within the Diptera that involved at least one culicomorphous taxon yielded a distinct cluster of data points that are closer to saturation than are any of the data derived from the rest of the possible pairwise sequence combinations among
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  682
+SYSTEMATIC BIOLOGY
+VOL. 46
+0.25 --
+0.25 --
+0.2 --
+0.15
+0.1
+0.05 -
+0
+0.2 --
+TsCO Ts
+0.15
+0.1
+0.05 -
+o
+0.1
+_
+Tv
+0.2
+0.3
+0.1 _ 0.2
+Tv
+0.3
+(a)
+(b)
+FIGURE 2.
+pairwise comparisons between dipteran taxa except Culicomorpha; medium circles = pairwise comparisons between dipteran taxa including culicomorphous taxa; heavy circles = pairwise comparisons between dipteran and outgroup taxa. Heavy diamond = Tssat/Tvsat. (a) DS sites./is assumed to be 0.51, and stationary nucleotide composition is TTA = 0.21, irc = 0.26, TTT = 0.25, TTG = 0.28. (b) SS sites./is assumed to be 0.33, and stationary nucleotide composition is TTA = 0.37, TTC = 0.14, TTT = 0.26, TTG = 0.23.
+Observed average transition (Ts) and transversion (Tv) divergence per nucleotide. Light circles =
+the Diptera. The only exception in this respect is the data point obtained from the closely related culicomorphous taxa Aedes and Culex, which falls into the cluster of data derived from nonculicomorphous Diptera. Thus overall, the 28S rDNA sequences seem to have retained phylogenetic information in the majority of ingroup taxa included. Nonetheless, ambiguous results may be anticipated concerning the position of the Culicomorpha within Diptera and concerning the root of the tree based on the extremely diverged outgroup sequences. The rooting problem reduces the chances of accurately reconstructing the most basal splits among the Diptera.
+Rate Heterogeneity across Sites
+Substitution rates across sites are unequally distributed in most sequences and may best be fitted to a gamma distribution (Uzzell and Corbin, 1971). The shape parameter a of the gamma distribution, which is negatively correlated with the extent of rate heterogeneity, is commonly used as a measure for rate heterogeneity
+across sites. In real sequences, typical values for a range from 0.1 to 1, and the importance of accommodating rate heterogeneity across sites in tree estimation has been well established in recent years (Yang, 1996a).
+To test the present data for the significance of rate heterogeneity across sites, we employed the likelihood ratio test (see Huelsenbeck and Rannala, 1997). As the null hypothesis (Ho), rate homogeneity across sites was assumed; the alternative hypothesis (Hj) was rate heterogeneity across sites. In this case, two times the dif-
+ference in logarithmic likelihood (2A logL) 2
+is approximately \ distributed with one degree of freedom. Rate heterogeneity was accommodated under the F84 model of sequence evolution (Felsenstein, 1995) by applying the discrete gamma model (Yang, 1994), which approximates the gamma distribution by allowing a number of different rate categories with equal probability of occurrence along the sequence (F84-dF). We allowed four rate categories, which gives sufficiently good approximation of the
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  1997
+TABLE 3. sequences.
+Tree
+T -MP19 T -MP19 T -MP16 T -MP12
+FRIEDRICH AND TAUTZ—DIPTERAN PHYLOGENY 683 Likelihood ratio test results for rate heterogeneity across sites and among lineages for dipteran
+Model
+F84 F84-dr F84-dr F84-df
+Clock
+no yes yes yes
+logL0 Model
+-3681.6 F84-dr -3557.4 F84-dr -2934.1 F84-dr -2102.1 F84-df
+Clock
+logL,
+2A logL
+454.2 205.9 37.9 27.4
+P
+<0.001 <0.001 <0.001 <0.005
+Ho
+H,
+gamma distribution (Yang, 1994). Because rate heterogeneity is overestimated if an unrealistic topology such as a star tree is assumed (Sullivan et al., 1996), we used the single most-parsimonious tree derived from the data (T-MP19) (not shown) for ML estimation of rate heterogeneity across sites. Accordingly, if the F84-dF sequence evolution model is assumed, substitution rates are gamma distributed across the 28S rDNA sequences with an a of 0.37 (rates: 0.013, 0.16, 0.7, 3.13). As expected, the likelihood ratio test shows that accounting for rate heterogeneity across sites (F84-dF) improves the likelihood of the T-MP19 topology significantly (Table 3). Thus, there is significant rate heterogeneity across sites in the present set of 28S rDNA sequences that must be accounted for in tree estimation.
+Rate Heterogeneity among Lineages
+Strong differences in substitution rates among lineages can cause tree estimation methods to become misleading (Felsenstein, 1978; Huelsenbeck and Hillis, 1993). The rDNA of dipterans evolves significantly more quickly than does that of most other insects (Carmean et al., 1992; Friedrich and Tautz, 1997). There was thus reason to assume significant taxon-specific substitution rate differences between ingroup and outgroup taxa in the present data. In addition, the sequence variability analysis indicated accelerated substitution rates in the culicomorphous lineages (Table 2). We therefore also tested homogeneity of substitution rates among lineages using likelihood ratio test statistics (Felsenstein, 1981).
+The null hypothesis of rate homogeneity among lineages, i.e., a molecular clock, was compared with the alternative hy-
+pothesis, which allows for rate heteroge-
+neity among lineages. Thereby 2A logL is 2
+X distributed with number of species included minus two degrees of freedom. If all taxa are included (T-MP19), 2A logL is very large and the molecular clock is rejected with high significance (Table 3). If the three outgroup taxa are excluded from the test (T-MP16), 2A logL drops considerably but the molecular clock is still rejected with very high probability. Even if the four quickly evolving culicomorphous ingroup species are excluded from the test (T-MP12), the molecular clock is rejected, although with reduced probability. These results indicate that the outgroup taxa and the culicomorphous taxa contribute most of the substitution rate heterogeneity among lineages, reinforcing the caveats derived from the staturation analysis regarding the inference of the position of the Culicomorpha and the accuracy of tree rooting.
+The ML ratio test rejects rate homogeneity among the dipteran lineages when the taxa with most obviously accelerated substitution rates are excluded from the test. Previous relative rate tests of 28S rDNA sequences, which were carried out according to Wu and Li (1985), did not reject the molecular clock when the substitution rates of nonculicomorphous dipteran taxa where compared (Friedrich and
+plained by the fact that the x distribution is an approximate null distribution of the likelihood ratio test statistics. It therefore seems advisable to determine the null distribution of the likelihood ratio test statistics by Monte Carlo simulation (Goldman, 1993) to confirm the present result.
+no -3454.5 no -3454.5 no -2915.1 no -2088.3
+Tautz, 1997). This discordance might be ex2
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  684
+SYSTEMATIC BIOLOGY VOL. 46
+Tree Estimation
+Tree estimation was guided by the objective of accounting for sequence evolution parameters that have a possible bearing on the success of tree estimation methods, such as rate heterogeneity across sites and unequal Ts and Tv rates. We employed the MP method to construct an initial topology for the estimation of the relevant substitution parameters. Although MP is misleading in cases of extreme rate heterogeneity among lineages (Felsenstein, 1978), this method has the advantage of requiring no explicit assumptions and being efficient in recovering long true branches (Huelsenbeck and Hillis, 1993). To account for the correlated sequence evolution of complementary sites in DS regions, MP tree reconstruction was carried out weighting DS regions 0.8 over SS regions as proposed by Dixon and Hillis (1993). Under these assumptions, MP finds a single most-parsimonious tree (T-MP19) with a length of 5,686 (consistency index = 0.587; retention index = 0.621). Several clades in this tree are highly supported, as indicated by bootstrap analysis (Fig. 3).
+T-MP19 was then used for ML estimation of sequence evolution parameters assuming the F84-dF model of sequence evolution, which allows for different Ts and Tv rates, unequal stationary base composition, and rate heterogeneity across sites (Yang, 1994; Felsenstein and Churchill, 1996). Under these assumptions, a Ts/Tv rate ratio parameter Kof 1.44 and an a parameter of 0.37 were estimated. Employing these parameters in the ML tree search resulted in a best ML F84-dr tree (logL = -3442.5) that included all of the ingroup clades that were highly supported with MP (Fig. 3). To get an estimation of branch probabilities independent from MP, bootstrap analysis was carried out applying the NJ method. Evolutionary distances (K80-T) were estimated according to Jin and Nei (1990), combining the two-parameter sequence evolution model (Kimura, 1980) with a continuous gamma distribution model to account for rate heterogeneity across sites.
+The same substitution parameter settings were used as in the ML tree search.
+Both MP and NJ K80-F find strong support for the monophyly of the Diptera versus the outgroup taxa chosen (BP = 100) (Fig. 3). To some extent, this result may be due to the episodically accelerated rate of rDNA evolution in the stem group in the Diptera (Friedrich and Tautz, 1997), which leads to an exceptionally high number of molecular synapomorphies as is clearly reflected in the extremely long branch that joins the outgroup taxa with the Diptera in the ML F84-dF phylogram.
+Within the Diptera, three major clades of higher systematic level are very strongly supported (BP > 95). One of these includes Drosophila melanogaster and Tabanus sudeticus, which represent the subgroup Brachycera. A second clade includes six taxa: Bradysia coprophila, Dilophus febrilis, Bolitophila cinerea, Clinodiplosis cilicrus, Anapausis inermis, and Sylvicola fenestralis. The first four of these represent the families Sciaridae, Bibionidae, Bolitophilidae, and Cecidomyiidae, respectively, and thus the Bibionomorpha sensu stricto. The remaining two species represent the Scatopsidae and Anisopodidae, respectively. The whole clade therefore corresponds to the controversial Bibionomorpha sensu lato. The third significantly supported major subclade includes Chironomus teutons, Simulium euryadminiculum, Culex pipiens, and Aedes albopictus, thus representing the Culicomorpha. A fourth major clade that is strongly supported (BP > 80) is the Tipulomorpha sensu stricto, represented by Tipula paludosa and Limonia nebulosa.
+All branches interconnecting these four major clades and the two remaining taxa, Psychoda cinerea and Trichocera regelationis, are poorly supported by the data (BP < 60) and to a large extent not consistently resolved by the different methods. In the ML F84-dr tree for example, the Tipulomorpha sensu stricto splits off most basally from the rest of Diptera, whereas in the NJ K80F tree and in T-MP19 the Culicomorpha is most basal (not shown). Obviously, the phylogenetic information available allows inference of the composition of major dip-
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  1997 FRIEDRICH AND TAUTZ—DIPTERAN PHYLOGENY 685
+p Panorpa Manduca
+Archaeopsylla
+ 100/100
+Chlronomus •Simulium Culex
+Aedes
+88/85
+-Limonia -Tipula
+Tipulomorpha sensu stricto
+i— Trichocera
+98/100
+—Difophus 'Sylvicola
+Crinodlplosis
+95/98
+Anapausis •Bolitophila Bradysia
+Bibionomorpha sensu lato
+—Psychoda -Drosophila
+-Tabanus
+Brachycera
+FIGURE 3. ML F84-dF dipteran phylogram. Bold branches are strongly supported by MP and NJ K80-F. Numbers at bold branches are BP for MP and NJ K80-F, respectively. Branches without numbers are supported by BP < 80 and may not be consistently reconstructed by NJ K80T or MP. Significantly supported major subgroups are indicated by shaded boxes. Line at the bottom represents 0.1 substitutions per base.
+Culicomorpha
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  686 SYSTEMATIC BIOLOGY VOL. 46
+teran infraorders but not the branching events among them. Such ambiguity in the estimation of the basal relationships was expected based on the results of the sequence saturation analysis.
+than Ts. A search for MP trees based on Tv only yielded two equally most-parsimomious trees (Fig. 4a), which include the three major subgroups that are significantly supported by unweighted MP or NJ K80-F (Fig. 3). For comparison, MP reconstruction was also carried out based on Ts only, which again yielded two most-parsimonious trees (Fig. 4b). These trees, however, include only the Brachycera as one out of the three otherwise significantly supported higher clades. The effect of Ts
+Within the Bibionomorpha sensu lato
+and the Culicomorpha, molecular phylo-
+genetic resolution is also rather low. None
+of the methods applied significantly sup-
+ported further subgrouping in the Bibion-
+omorpha sensu lato (BP < 50). In the case
+of the Culicomorpha, the monophyly of
+the two mosquito species, Culex pipiens and saturation was expected to be most draAnopheles albopictus, is significantly and matic for the Culicomorpha given the consistently supported but their relationhigher saturation level in this subclade ship to the Chironomidae {Chironomus ten(Fig. 2). The lack of support by Ts-only MP
+tans) and the Simuliidae (Simulium euryadminiculum) is not consistently resolved. The ML F84-dF and MP favor a closer relationship between Culicidae and Simuliidae, but NJ K80-F favors a relationship between the Chironomidae and the Simuliidae (BP = 73) (not shown).
+Robustness of the Bibionomorpha sensu lato
+Because the tree estimation results appeared to have a strong bearing on the controversy about the composition of the infraorder Bibionomorpha, we carried out additional analyses of the robustness of this result. Given the difficulty in aligning sequence regions and the high degree of sequence saturation observed in many pairwise sequence comparisons, the impact of these factors was investigated with simple procedures.
+To test for alignment effects, phylogenetic reconstruction was carried out based on the CLUSTAL V alignment and applying NJ K80 after removal of all sites with gaps. This procedure produced the same results concerning major subgroups (not shown). Thus, the molecular inference of the major subgroups is robust against changes in the more divergent parts of the alignment.
+Weighted MP was applied to investigate the influence of homoplasy. Because Tv were far from saturation for most pairwise sequence comparisons in both DS and SS sites (Fig. 2), this class of substitutions was expected to be less affected by homoplasy
+for the Culicomorpha, which is otherwise strongly supported, is thus consistent with the finding that Ts are largely saturated in this group. Finding the Bibionomorpha sensu lato to be recovered by Tv-only MP but not by Ts-only MP, as with the Culicomorpha, indicates that the strong support in the data predominantly derives from Tv and is thus based on phylogenetic information rather than on convergence at the molecular level.
+DISCUSSION
+TreeEvaluationwith Referenceto Morphological Hypotheses of Higher Dipteran Systematics
+In addressing the earliest splits among the major dipteran groups, no robust resolution could be achieved with any of the three tree estimation methods employed. Thus, the molecular data do not allow reliable inferences at this level, which proved similarly hard to resolve using morphological characters. Nonetheless, there are three major dipteran infraorders that are significantly supported by all of the tree reconstruction methods applied. Given that consistency among tree reconstruction methods correlates positively with the accuracy of estimated trees (Kim, 1993) and that tree estimation bias problems are unlikely, these major subgroups may be considered as reliably inferred (Fig. 5). In each case, their composition is in accordance with groups that had been postulated previously on the
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  1997
+FRIEDRICH AND TAUTZ—DIPTERAN PHYLOGENY
+687
+ (a)
+I— Bradysia • I Dilophus
+I— Bolitophila
+P Crinodiplosis
+"""•"L SyMcola Anapausis Drosophila
+(b)
+Drosophila Tabanus Simulium
+Aedes Culex Dilophus Anapausis
+f
+Tabanus Bradysia
+Tipula
+Limonia
+L Trichocera
+Crinodiplosis
+Bolitophila _ Sylvicola
+LChironomus _. 77pu/a
+L Limonia
+. Trichocera
+"L Psychoda
+_. Panorpa
+L Archaeopsylla
+— Manduca
+—— Psychoda — Aedes
+PL Cufex __jl—. Chironomus
+I — Simulium
+|Panorpa
+L Archaeopsylla
+— ^ Manduca
+FIGURE 4.
+changes are considered are indicated by shaded boxes, (a) Strict consensus of two shortest MP trees based on Tv only and weighting DS sites 0.8 over SS sites, (b) Strict consensus of two shortest MP trees based on Ts only and weighting DS sites 0.8 over SS sites.
+Weighted MP dipteran trees. Higher taxa that are significantly supported when all character state
+basis of morphological characters. Two of these clades, the Brachycera and the Culicomorpha, are groups on which most authors agree because they are clearly supported by a large number of morphological characters (Hennig, 1981; Wood and Borkent, 1989; Oosterbroek and Courtney, 1995). For the monophyly of the Bibionomorpha sensu lato, however, no clearly derived morphological character states could be put forward in spite of overall similarity of the adult phenotype. Hennig (1981) favored the Bibionomorpha sensu lato based on reductional similarities in the wing venation. More recently, many authors have followed Wood and Borkent (1989), who rejected the monophyly of the Bibionomorpha sensu lato (Courtney, 1990; Griffiths, 1990; Sinclair, 1992; Oosterbroek and Courtney, 1995). However, our results clearly support the monophyly of the controversial Bibionomorpha sensu lato and indicate that the Anisopodidae or Scatopsidae are less closely re-
+lated to the Psychodidae than to the Bibionomorpha sensu stricto, as implied in the Psychodomorpha sensu W&B or in the Psychodomorpha sensu Oosterbroek and Courtney.
+A fourth clearly and consistently supported higher infraorder is the Tipulomorpha sensu stricto, which is consistent with the general consensus on this group (Hennig, 1981; Wood and Borkent, 1989; Oosterbroek and Theowald, 1991). Regarding the family Trichoceridae, however, which according to many authors is the sister group of the Tipulomorpha sensu stricto (Hennig, 1981; Griffiths, 1990; Oosterbroek and Theowald, 1991; Oosterbroek and Courtney, 1995), our results provide no further clue. Nonetheless, the rejection of the Psychodomorpha sensu W&B rules out the only morphology-based hypothesis that had questioned the Tipulomorpha sensu lato.
+Thus, despite limitations with respect to phylogenetic resolution and taxon choice,
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  688
+SYSTEMATIC BIOLOGY
+VOL. 46
+ -Gyclorrhapha — "Orthorrhapha"
+-Sciaridae -Cecidomyiidae -BoHtophiiidae •Bibionidae -Anisopodidae -Scatopsidae
+Psychodidae Limoniidae -Tipulidae
+—Trichoceridae -Chironomidae -Culicidae -Simuliidae
+Brachycera
+Bibionomorpha sensu lato
+Tipulomorpha sensu strlcto
+Culicomorpha
+FIGURE 5.
+the obliquely moving and subdivided larval mandible types in a lineage is indicated by boxed symbols. Higher subgroups are indicated by shaded boxes.
+Consensus tree of major dipteran subgroups reliably reconstructed in this study. Occurrence of
+the present results have important impli-
+cations for morphological studies of dip-
+teran systematics. A further conclusion re-
+lates to the controversial discussion of the
+sister group of the Brachycera (Griffiths,
+1994). The family Anisopodidae was pronew framework for future morphological
+posed as sister group of the Brachycera
+(Woodley, 1989; Oosterbroek and Court-
+ney, 1995), which would render the Bibion-
+omorpha sensu lato paraphyletic with re-
+spect to the Brachycera (Fig. lc). The high
+support for the monophyly of the Bibion-
+omorpha sensu lato, however, excludes this
+possibility. Although the position of the
+Brachycera differed among the molecular tionship between the Simuliidae and the trees, in no tree was monophyly of the Neproblematic family Thaumaleidae was matocera supported. Thus, the Brachyfound, which is noteworthy given that some
+cera/Bibionomorpha sensu lato sisterauthors proposed to include the Thaumagroup hypothesis remains, which for difleidae in infraorders different from the Cul-
+ferent reasons had previously been proposed by Hennig (1981) and by Colless and McAlpine (1970).
+In conclusion, the molecular phylogenetic approach was powerful enough to provide a
+studies of dipteran phylogeny. The present study is complemented by a recent analysis of the infraorder Culicomorpha based on a different set of 28S rDNA sequences (Pawlowski et al., 1996). Although the basal relationships of the Culicomorpha have remained ambiguous as in our study, significant support for a sister-group rela-
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  1997 FRIEDRICH AND TAUTZ—DIPTERAN PHYLOGENY 689
+icomorpha (Hackman and Vaisanen, 1982; Colless and McAlpine, 1991).
+Evolution of the Dipteran Larval Mandible: A Paradigm Case for the Argument of Commonality
+Of central importance for the contemporary discussion of higher dipteran systematics is the interpretation of the evolutionary pathways of the larval mouthparts in the Diptera. Many groups in the system of Wood and Borkent (1989) rely on arguments derived from this character state complex. Because some of the characters such as labral shape and mandibular swinging orientation may well be correlated (Teskey, 1981), the discussion may be focused on the long-standing dissent over the evolution of the larval mandibles. The underlying problem of determining character state polarity has been more or less explicitly discussed by several authors. Because neither new paleontological nor new ontogenetic data are at hand, one still depends on indirect evidence, which is commonly derived from outgroup comparison. The larvae of other holometabolous insect orders usually possess solid and horizontally moving mandibles, as is also the case for the nymphal stages of hemimetabolous insect orders (Snodgrass, 1935). This type of larval mandible is regarded as a groundplan feature of the holometabolous insects. Similar types of mandibles can be found in representatives of several dipter-
+an families such as the Tipulidae, Limoniidae, Bibionidae, Mycetophilidae, and Sciaridae. Based on outgroup comparison, many comparative morphologists (Goethgebuer, 1925; Snodgrass, 1935; Cook, 1949; Gouin, 1959) have considered this character state ancestral for the Diptera (Fig. 6a). Some authors, however, emphasized the occurrence of strikingly similar obliquely or vertically moving and subdivided mandibles in representatives of distantly related families such as the Trichoceridae, Anisopodidae, and Psychodidae (Edwards, 1926; Anthon, 1943; Schremmer, 1951). They interpreted the phylogenetically wide distribution of this character state within the Diptera as due to evolutionary conser-
+vation of an ancestral ground state (Fig. 6b). Hennig (1948, 1981) realized the contradiction between adult and larval character states in higher dipteran systematics and explicitely adopted the view of those who favored obliquely and subdivided mandibles as symplesiomorphic. Formally, the argument underlying this hypothesis of character state polarity corresponds to the principle of commonality or ingroup distribution (de Jong, 1980). In general, the commonality criterion is considered less stringent than outgroup comparison (Kitching, 1992) because it depends on some reliable knowledge of the ingroup phylogeny.
+In the present case, this knowledge is provided by the molecular phylogenetic analysis. The distribution of larval mandible character states can be mapped on a cladogram that includes the dipteran subgroups that were reliably inferred (Fig. 5). The combined occurrence of the two character states, subdivision and oblique or vertical movement of the larval mandible, can be noted in representatives of at least four major dipteran lineages, the Brachycera, the Bibionomorpha sensu lato, the Psychodomorpha, and the Trichoceridae. The controversial homology of mandibular structures
+in the Cyclorrhapha excludes this group from the inference (Sinclair, 1992; Griffiths, 1994). Moreover, larvae of the limoniid genera Pilaria and Ulomorpha possess sudivided and obliquely moving mandibles that are
+considered to be structurally very different from the subdivided mandibles found in the other dipteran infraorders (Oosterbroek and Theowald, 1991; Oosterbroek and Courtney, 1995). Oblique mandible movement, however, has been proposed to be ancestral for the Tipulomorpha sensu stricto (Oosterbroek and Theowald, 1991; Oosterbroek and Courtney, 1995). If restricted to uncontroversial evidence, the wide distribution of subdivided and obliquely moving mandibles among the Diptera is confirmed and may be interpreted to indicate plesiomorphy according to the criterion of commonality.
+Thus, during the evolution of the dipteran stem group the solid and horizontally
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  690
+SYSTEMATIC BIOLOGY
+VOL. 46
+(a)
+(b)
+FIGURE 6. Hypotheses of the evolution of the dipteran larval mandibles. Thick arrows indicate transformation pathways in the dipteran stem group; thin arrows indicate transformation pathways in the dipteran crown group, (a) Gradual evolution of solid, horizontally moving mandibles (I) of the dipteran stem group into solid, obliquely or vertically moving mandibles (II) and subsequently into subdivided, obliquely moving mandibles (III), (b) Transformation of solid, horizontally moving mandibles into subdivided, obliquely moving mandibles during evolution of the dipteran stem group, followed by diversification of this ground plan into various types of mandibles observed in modern dipterans, such as solid, vertically moving mandibles (IV).
+moving larval mandible type seen in larvae of most other holometabolous insect orders was most probably transformed into the derived type of subdivided and obliquely moving mandibles (Fig. 6b). The solid and horizontally moving biting mandibles in representatives of the families Bibionidae or Sciaridae must then be considered examples of striking convergence.
+Early Dipteran Diversification according to Molecular and Fossil Record
+The lack of molecular phylogenetic resolution among the major dipteran subgroups is striking when contrasted with
+the strong support for the Diptera as such and for each major subgroup in this study. The considerable amount of sequence saturation in the data may obscure the basal relationships. The branching pattern in the molecular phylogram however provides evidence for yet an alternative explanation for the lack of resolution (Fig. 3). The branches that join the major groups are very short, suggesting that the diversification of the major subgroups represents a period of rapid cladogenesis in the evolution of the Diptera. A similar picture emerged from a recent analysis of longer 28S rDNA sequences from a sample of spe-
+I
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  1997
+FRIEDRICH AND TAUTZ—DIPTERAN PHYLOGENY 691
+ 245
+<E
+Q.
+The North American site also contains a number of additional fly taxa. Among those, Krzeminski (1992a) identified a second anisopodid-like family (Procramptonomyiidae) and representatives of the modern subgroups Limoniidae and Brachycera. Fraser et al. (1996) recently extended the list of North American Triassic dipterans by adding descriptions of psychodid fossils. Thus, representatives of four major modern dipteran subdivisions appear almost simultanuously in the paleontological record 220 MYA. Although the possibility of sampling artifact must be considered, the consistency between the paleontological and molecular data concerning a rapid diversification of the major lineages is notable. The amount of phylogenetic information that can accumulate for a clade is correlated with the time span of the existence of the respective stem lineage. The small amount of phylogenetic information documenting the earliest splits in the Diptera at both the molecular and the morphological level is thus also consistent with a rapid diversification of the major lineages.
+ACKNOWLEDGMENTS
+We thank Friedrich Reiss and Wolfgang Schacht for supplying specimens, for help with species determination, and for their interest, Hans Meyer for determining Clinodiplosis cilicrus, Monika Retzlaff for a DNA sample of Psychoda cinerea, Ralf Sommer for DNA samples of Bradysia coprophila, Simulium euryadminiculum, and Chironomus teutons, Svante Paabo for some of the primers, Alexander Riedel for help with PCR and sequencing, Hans Ulrich, Pjotr Oosterbroek, and Herman de Jong for help with systematic literature, Ewa Krzeminska for detecting a mistaken species name, and Kimberlee Wollter for improving the language of the final manuscript. We gratefully acknowledge critical reading of an early version of this manuscript by Bernhard Hausdorf and Roland Melzer, suggestions on the final version by Pjotr Oosterbroek and Greg Courtney, and detailed comments by Chris Simon, David Grimaldi, Timothy Collins, and
+an anonymous reviewer. This work was supported by a Ph.D. studentship awarded to M.F. by the University of Munich.
+REFERENCES
+ANTHON, H. 1943. Der Kopfbau der Larven einiger nematoceren Dipterenfamilien: Rhyphidae, Trichoceridae, Psychodidae und Ptychopteridae. Spolia Zool. Mus. Haun. 3:1-61.
+FIGURE 7.
+ilies or subgroups included in this study. MYA = million years ago. Higher subgroups are indicated by shaded boxes.
+ties included here (Friedrich and Tautz, 1997). This pattern of divergence can be compared with the paleontological data on earliest occurrences of dipteran families in the fossil record (Fig. 7).
+The origin of the Diptera most probably dates back into the Upper Permian, 250 million years ago (MYA), although the fossil evidence for flies from that period is virtually nonexistent and difficult to interpret (Tillyard, 1929; Hennig, 1981; Willmann, 1989; Wootton and Ennos, 1989; Krzeminski, 1992a). Nonetheless, the finding of representatives of various dipteran subgroups in the Late Triassic (Krzeminski, 1992b; Fraser et al., 1996) quite convincingly documents the diversification of
+some major dipteran sublineages by the middle Mesozoic. Upper Triassic species of the crown group Diptera are known from locations in Australia (Evans, 1971) and North America (Olsen et al., 1978; Krzeminski, 1992b; Fraser et al., 1996). The North American site and a Triassic site in Russia contain a fly related to the modern nematocerous family Anisopodidae (Krzeminski, 1992a; Fraser et al., 1996).
+Paleontological record of dipteran fam-
+Tipulidae Limoniidae Trichoceridae Psychodidae Chironomidae Simuliidae Culicidae Bibionidae Mycetophilidae Cecidorriyiidae Sciaridae Scatopsidae Anisopodidae "Orthorrhapha" Cyclorrhapha
+   Triassic g
+Jurassic
+Cretaceous
+Cenozoic
+ft
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  1997 FRIEDRICH AND TAUTZ—DIPTERAN PHYLOGENY 695
+APPENDIX 1
+ALIGNMENT OF 28S Dl AND 28S D7 R D N A SEQUENCES
+Taxon names are abbreviated to the first three letters of the genus name. Sites extracted for phylogenetic analysis are marked with a star above the alignment. DS regions are indicated by lines above the alignment. Dots indicate positions identical to that in the heading sequence. Dash = gap; N = ambiguous site. Regions of major disagreement between the final alignments and CLUSTAL V alignments are situated at positions 23-25, 39-69, 75-120, 143-150, and 176-200 of the final 28S Dl alignment and at positions 39-104, 124-130, 177-179, 188-190, 226-230, 253, 263, 301-303, and 312-315 of the final 28S D7 alignment. The alignments can be retrieved from the EBI server under accession numbers DS25432 (Dl) and DS25433 (D7).
+Dro Tab Bra Cri Bol Ana Dil Syl Psy Tip Lim Tri Aed Cul Chi Sim Pan Arc Man
+AGTAGCGGCGAGCGAAAAGAAAA-CAGTTCAGCACTAAGTCACTTTGTC TATAT--GGCAAATGTGAGATGCAGTGTAT-GG
+Dl 86
+Dro Tab Bra Cri Bol Ana Dil Syl Psy Tip Lim Tri Aed Cul Chi Sim Pan Arc Man
+AGCGTCAATATTCTAGTATGAGAAATTAACG ATTTAAGTCCTTCTTAAATGAGGC-CA-TTTACCCATAGAGGGTGCCAGGC
+Dl 171
+Dro Tab Bra Cri Bol Ana Dil Syl Psy Tip Lim Tri Aed Cul Chi Sim Pan Arc Man
+CCGTATAACGTTAATGAT TACTA-GATGATGT TTCCAAAGAGTCGTGTTGCTTGATAGTGCAGCACTAAGTGGGTG
+T TA
+.AA. . .T. .TA.. .TA.GCA.CG.TAAT.T .AA. ..T. .TA. . .G..G.TGT.TTCA.TAC GAA. . .T. .TA. . .TA CGGTAGC . .
+G. .C G. .C
+-A CAGG.T-A. .CC
+CAGG.T-T. .CC CAGG. .-A. .CC T.GG.T-A. .C C.GG.T-A C.GG. .-A. .CC C.GG. .-A. .CC
+T.T TA--.T.T.-TAA A.A CTCTCCG . . . GTCC .--. A .TGG . AGAG
+TCCAA.T .T. . .--.ATTGG.A C.CTCCA... GTCC.--...TGG.AG.G C.TTC.G. .T--C. .A.C--.A.T.G.TA.G
+CTC.AA .TA. . TT.G-AG TCTC.AA. .T--GT.G.-G. .TT.G.AGA
+T. .CCA. .G.CT—CATA.AC. . .C. . .TG.G
+-A.
+-..
+N. . .T.GG. . -A. . .C
+C.GG.T-A. .CC. .T. . .A
+C.GG.T-T. .CC C
+C.GG. .-G. .C GC. .GGG.GA. .CA CTGG T.T.TC. .CCC.G.T.C CT . .
+.ATA..T..TA ATT TA G..C
+G...-..A....G....G...-..T.AA
+A....G....G...-..A.A..T...C A....G....G...-..T..A
+A. ...G....G. ..-..A....G....G...-..T..A....GC
+G....G...C..A....G....G...-..T
+A....G....G...-..T.A. ...G....G...-..-
+AT....
+AT....
+AT....
+255
+G..C .AAA. .T. .TA. . .TA. . . ATAT .CAGC . TAT--G . .C
+A
+C C
+.AA. ..T. .TACT.TA.. .A.AG.TGAT. . G..C
+. .A. . .T.CTA. . ,CA. . . .TT.CGGC. .TAC--G. .C . .T. ..C. .TAA. .CA.TAC.AT.GA.G.T.TACG. .C
+. .TA..T..TA..CTAA..TTTT TAT T.AA.TC. .TA.. .TA.. . .CAT.TGGT.. TAAA. .T TA. . . .TTCC.A. .C
+G.CC GC G..C
+T
+CT . . .ACTG--AT. . CTC . .T.G.ATG. .A..T..A....AA.. CTC. .TC--TT.TA.C-GA. ATTG.TG . .A. . . .T. . . .CAAT.
+CTC .A.C .T--.TA.C-G. .TT.G.AG G A. .
+T N GG..-G..C GC..GGGTGGC.C ACTACCC—..GTC.ACCC.G.T.C CT..
+C.GG.T-.. .CC..T.. .GT..GAT.A.A.G. .TA..T-.T.T.T..ATC...T.C AA.. GG..-A...C GT..AAT.GCAACT GT...— ..TTGT..ATT C CA..
+C..GG..-G..CC G.A..CC.A.C.G—AT.T—C..AT.G..G..A...T A.. N...C..GG..-G..CC A..C.GCG.C.G--G.G.~C..ACCG..G..A...T TAG..
+C. .G. .TAT. .CC G.A. .C.GC. . .TG--. .A C.GC.GC.G TG. . . .TCG. .
+A....G....G...-..T..A G..C....T.AA..AG....T.. .-TTT.ACT... .G
+G . CC . . . . T . AA . . AG. . . .T. . .-TTT.ACT AG...G....C...T..A.A C
+TT..G.C .TA.. .CA.. .T.T..T.AGTAT G..C
+. .GA.TC . T . ATCCTG. GATC .TG. AGCGC G
+..GA..C.AT.ATCTCGG..C.TCGCGGCGA G..C A....G....G...-.....GT..CG-C.TCTCGTCACCG.TACTC.T G.CC...T.G....G..C.G...-.G-...T...GA
+. .A..TCG.TA.. .GCCG.A.CCGG.CGCT. .AAT.TTG.CA. . . GCC . . .CCCGGCGC.GT
+. .G.. .C..TA.. .T.C.CATAT. .ACT.AT--
+AT. ...
+G. .ACA.T. .T.AA .'. ......A. ..A. GC.GCATTATCAG ..TA.-..A.GCT. G..GCATTGTT.TG CTC.-. .A.GCT. GCACGTTACCAG . .TA.-..A...T. GT.ACATTGT..TA ..TAG-..G...TC
+GT . A C ATTATCAA . .TA.A. .A.GCTC GTGAC.GTTGTCCGTTTGCTG.-..A..CT. C..TT
+....GG...TACC..CTGT A.T.T-.TG..CTA C..TT GTGACAT.ATC.TG .TTAG-..A...A. C.T.G
+. GC. ACTATTGTA . .T. .-. .GA. .T. .G.ATC
+. . . . GGT . AC . ATTGTTAT ..TA.-..A...T. .G..TT
+G.G. .GCGCACCGA GG. . .GCGC ..
+TGTA.G.. .C.TG TGCT A
+A-.ACGTTACTGAT GCGACCGTTGCGCGT GCGACGG .GG .CGGT
+. GG . .-..A...C TG .GG.G-..AA..T. TG .GTA.-.TG.GCTATCAAC. ..T.G
+G
+A
+A A
+A. A.
+T C...A.
+..TG.-..G.T...
+CTTGG. .G. . .C. AT.G...G...C GG.G.-. .G.GAC.
+.A. .T.G
+C . .TTT C...TC C. . .TC
+G A G
+A
+G G G
+T T C
+...TT
+....G
+T.T.... T....
+T.... A....T....
+G --.A.A C A. . . . G. . . .G. . . . .-A
+T
+85
+T.... T....
+A.
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  696 SYSTEMATIC BIOLOGY
+VOL. 46
+Dl 256 284
+Dro Tab Bra Cri Bol Ana Dil Syl Psy Tip Lim Tri Aed Cul Chi Sim Pan Arc Man
+D7
+Dro
+Tab
+Bra A.G
+Cri .GG
+Bol . .G
+Ana ..G
+Dil A.G
+Syl ..G
+Psy .TG
+Tip ..G
+Lim . .C
+Tri ..G
+Aed ..G C A Cul ..G C A Chi ..G N Sim ..G C A Pan .GG C
+GTAAACTCCATCTAAAACTAAATATAACC
+GG G... GG
+GG
+G G T...
+T...GG NN T G C... T G C... TGGT...
+T G GG
+GG GG
+T...
+G... T. . .
+GG
+GG T... G G... GG
+C....
+GAACGAAAGGGAATACGGTTCCAATTCCGTAACCTGTT-GAGTATCCGTTTGTTATTAAATA TGGGCCTCGT
+A.A TA.T. .A.A TA.T. .A.G
+A
+T A
+A TA.T..A.A ....T TAC
+-A A
+A
+A
+T.TAAT
+. . . .T. .TA.TAC
+A TAAT. .A.TA A. .A A. .G
+. . . .T.C.T.AGT
+. . . .TACT.GGCCTTGCT . . . ATA . TAACATTTTAA
+G.G G.G
+T G... .C.GCA.C.G.A CAATAAT C.TT. .CTCGTTTAATAG
+Dro
+Tab
+Bra
+Cri
+Bol
+Ana
+Dil
+Syl
+Psy
+Tip
+Lim
+Tri
+Aed
+Cul
+Chi
+Sim CCATT ATGT...TC GA...GCC—.AT TA...G..TG..A.AA
+Arc Man
+NNNNN ..G
+T
+C T G....C.GCA.C.G.A ACA.G. C CTCGCAAGAGA-
+D7 86
+170
+Pan Arc Man
+CGAGT
+.T. .G. .GG. .T. . .CCA. .AA .T. .G. .GG. .T. . .CCA. .AT ,T. .GA.GG. .T. . .CCA. .GT
+GA.C.GG. . .C G GA.C.GG. . .C G GG.C.G. . . .C. . . .C
+CCA.A CG. .G
+G.CCG
+C
+TGCAAGTGTTCCGGTTTTA
+GATGANT AT T
+A G T G..CT A.G.T GG. . . .G AGCG. .C..A
+GATGAAT NTAATTAAGGT AACGGTAGCGCCTT ACACGGTAGCGCCTT CGAA
+T G..G..G...C G..T...C..A A G...C..T....G..T A A G
+-.G....A CA
+-.G....A CA A..A....
+...G
+G. . . .C.GCA.C.N.A
+TA.T..A.A GA....A.
+....T..T. .TAC
+. . . .T..TA.TAC
+-....G.A..C. .T.A.GAT
+A. .C. .AAA.GAT
+A AAT ....TTCTT.TAATTACT
+A CAT. ATGTG .CCGCC . ACATT . ATGTAGGTTAT AACA.G. C CTCGAAAGAGA-
+GCTCATCCTGGCAACAGGAACG ACCATAAAGAAGCCGTCGAGAGATATCGGAAGAGTTTTCTTT G CA...A .T A G
+A GTCT A AGTT
+A
+A
+A T A
+T A G T CT
+T A...A G T A...CT.A
+A G T CT
+AT T
+A T
+TG.A. . .A
+TG.A. . .A
+TAA. . . .TC. .T. . .GA. . .GCT--CT. . . .G. . .C.T.AAT.G. . .G
+T.. .TCCTTTT.T.CG AA.A T. . .TCCTTT. .T.CG AA.A
+C A
+... . TTCAT . ATATATGC
+. . .ATA.TAACATGCAAT
+.T. . .G. .CCATACCGGC .T. . .GGTAATACCGGTA
+. . TTAT . T . AATTCGTTT
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  1997
+D7 171
+FRIEDRICH AND TAUTZ—DIPTERAN PHYLOGENY 697 255
+Dro Tab Bra Cri Bol Ana Dil Syl Psy Tip Lim Tri Aed Cul Chi Sim Pan Arc Man
+TCTGTTT-TATAGCCGTA-CTACCATGGAAGTCTTTCGCAGAGAGATATGGTAGATG-GGCTAGAAGAGCATGACATATACT-GT TT...-T A A...-AA AG -.C ....C.A-A.C.AA....-.C TAT G......CT.G T.......
+G-A.C.AT....-TA A TA...-.AT.G A T.......
+G-A.C.AT. . . . -TC A
+G-A.C.ATT. . .-TC TA
+G-A.C.AT. . . . -TC AT
+GTA.C.A.T...-TA AAA TA...-A.T.G T..T.-..
+D7 256
+Dro
+Tab Bra A-G Cri ABol A-G
+Pan G Arc G Man G
+D7
+T-GG. .C.. .C C-G. . .C. . .C C-GG. .AC. . . ,TG
+353
+AT —T
+CC.G.AGA. . .—C.. . .TGG.GGTG. .G.GC.G.TT C
+T....-T
+-C. . . .A.A. .-
+AA.C.-TA T T..C. -TC C -. .C. .T.AC.CTAG
+-. .C. . . .AC.CTGG -..C.AT....CG
+-..C..TT.. .CGC
+A
+A AT
+AT AT
+A...-.A A.AA-T
+TA..A-.T GA..T-.T
+T . GACA. . . .G.T
+C.GACAA. . .G.T T.ACA.AT.G.T GT.ATA....G.T
+G. . .TTGG--AATGC G.. .TTGG—AA.GC
+TCGG--AA.GC
+A.-G.GCATTCG.-G.T. .C
+A.-G.GC.TTCG.-G.T. .C . . . .CC.-G.GC.TTCG.-G.T
+AT
+TC . . . .A. . . .G
+TC..C.A....G TC. .A.A.A..G
+TGTGTCG-ATATTTTCTCCTCGGACCTTGAAAATTTATGGTGGGG--ACACGCAAAC--TTCTCAACAGGCCGTACCAATATCCG
+T T
+CG. .CG.CT -G....C..C.T
+C..C....A -
+C...T..T C...T..T -G...AC....A.T
+C --C --A...N A G C --C --A A G C.. . .CCA.. .—C.. . .T.. . .AT..A C AA...--TT T A G C A...—CT T A G C A...--C T ....N....A G
+G.
+CGA
+N.
+A-G. ...A A-G. .C
+T T T
+G
+A...—TT — ....T
+C —C -A G C A...--C..N T-A G C A...--C --A A G
+A-G....A T C A...—C —A A G
+Ana
+Dil
+Syl
+Psy
+Tip
+Lim
+Tri
+Aed
+Cul
+Chi
+Sim T.-T..CAA TA
+CG.A.ACT. ..--G CG.A.ACT. ..--G C. . . .AAA...--
+..C
+..C AT. .A--
+CTT G-A CTT G-A T. .C.T A G-A
+GA.. .-.AT.G GA.. .-AAT.G
+T....... T.......
+GA.. .-.AT.G-
+T.......
+G.C....T.-.C T. ......
+T....... G...T....-.C
+GT. .TA.A.T.C GT. .TA.A.T.C TA.A.T. .
+G...TC.G.T.C C-G. .GT.G.G-.C
+C-G. .GT.G.G-.C C-G.. .T.G.G-.C
+340
+CC.G.AGA. . .--C. . . .-GG.GGTG. .G.GC.G.TT C C.G.TGA. . .ATGT. . .TGG.AATG. .G.GC.G.TT C
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  
+  698 SYSTEMATIC BIOLOGY VOL. 4 6
+APPENDIX 2. Percentage base composition of dipteran and outgroup 28S Dl and D7 rDNA sequences in single-stranded (SS) and double-stranded (DS) sites.
+SS DS
+Taxon ATGCATGC
+Drosophila Tabanus Bradysia Crinodiplosis Bolitophila Anapausis Dilophus Sylvicola Psychoda Tipula Limonia Trichocera Aedes
+Culex Chironomus Simulium Panorpa Archaeopsylla Manduca
+39.3 25.5 21.9 13.3 39.8 28.1 21.4 10.7 39.8 24.0 23.0 13.3 39.8 24.0 22.4 13.8 39.3 24.5 23.0 13.3 39.8 24.5 22.4 13.3 38.8 24.5 23.0 13.8 39.3 25.0 23.0 12.8 38.3 26.5 23.0 12.2 37.8 26.0 22.4 13.8 36.7 26.0 21.9 15.3 37.8 26.5 23.5 12.2 39.3 24.5 23.5 12.8 39.3 25.0 23.0 12.8 39.8 26.5 21.4 12.2 39.3 25.5 24.0 11.2 34.7 26.5 25.0 13.8 34.7 25.5 25.0 14.8 32.7 25.5 27.0 14.8
+22.6 27.4 26.3 23.7 24.4 29.6 24.1 21.9 21.5 26.7 26.7 25.2 23.0 27.4 25.6 24.1 21.5 27.4 26.7 24.4 23.0 28.5 25.9 22.6 22.6 27.4 26.3 23.7 20.7 27.8 27.0 24.4 20.0 25.2 27.8 27.0 22.2 27.8 25.9 24.1 23.0 28.9 25.6 22.6 20.7 26.3 27.8 25.2 19.3 27.0 30.0 23.7 19.6 26.7 29.6 24.1 22.2 28.5 27.0 22.2 22.2 28.5 26.7 22.6 15.6 20.7 34.4 29.3 15.6 19.3 34.8 30.4 14.4 19.3 35.9 30.4
+   Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+  

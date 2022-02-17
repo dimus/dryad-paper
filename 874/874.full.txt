@@ -1,0 +1,412 @@
+   Molecular Ecology (2012) 21, 572–586 doi: 10.1111/j.1365-294X.2011.05252.x
+Using probability modelling and genetic parentage assignment to test the role of local mate availability in mating system variation
+MICHAELA D. J. BLYTON,* SAM C. BANKS,† ROD PEAKALL* and DAVID B. LINDENMAYER†
+*Evolution, Ecology and Genetics, Research School of Biology, The Australian National University, Canberra, ACT 0200, Australia, †The Fenner School of Environment and Society, The Australian National University, Canberra, ACT 0200, Australia
+Abstract
+The formal testing of mating system theories with empirical data is important for evaluating the relative importance of different processes in shaping mating systems in wild populations. Here, we present a generally applicable probability modelling framework to test the role of local mate availability in determining a population’s level of genetic monogamy. We provide a significance test for detecting departures in observed mating patterns from model expectations based on mate availability alone, allowing the presence and direction of behavioural effects to be inferred. The assessment of mate availability can be flexible and in this study it was based on population density, sex ratio and spatial arrangement. This approach provides a useful tool for (1) isolating the effect of mate availability in variable mating systems and (2) in combination with genetic parentage analyses, gaining insights into the nature of mating behaviours in elusive species. To illustrate this modelling approach, we have applied it to investigate the variable mating system of the mountain brushtail possum (Trichosurus cunninghami) and compared the model expectations with the outcomes of genetic parentage analysis over an 18-year study. The observed level of monogamy was higher than predicted under the model. Thus, behavioural traits, such as mate guarding or selective mate choice, may increase the population level of monogamy. We show that combining genetic parentage data with probability modelling can facilitate an improved understanding of the complex interactions between behavioural adaptations and demographic dynamics in driving mating system variation.
+Keywords: mate availability, mating system, monogamy, probability modelling, Trichosurus cunninghami
+Received 28 February 2011; revision received 10 June 2011; accepted 16 June 2011
+Introduction
+Theoretical and empirical studies have greatly improved our understanding of mating system evolution (Emlen & Oring 1977; Kleiman 1977; Clutton-Brock & Parker 1992; Shuster & Wade 2003; Clutton-Brock & McAuliffe 2009). However, empirically testing the relative importance of different processes in shaping observed mating patterns can be difficult in wild popu-
+Correspondence: Michaela D. J. Blyton, E-mail: michaela.blyton@ anu.edu.au
+lations as environmental, demographic and behavioural changes interact (Roberts & Gosling 2003; Clinchy et al. 2004).
+Genetic mating systems can vary across a continuum, from complete monogamy through to complete polygamy, with many species showing variation between populations. Population-level variation in monogamy can be influenced by a range of behaviours, including non-random mate choice (Clutton-Brock & McAuliffe 2009), pair bonding (Mock 1990), extra-pair mating (Griffith et al. 2002), mate guarding (Brotherton & Manser 1997) and mating interference (McEachern et al.
+Ó 2011 Blackwell Publishing Ltd
+
+2009). The relative fitness conferred by these different behavioural tactics can vary with the physiological constraints of the species (such as offspring number) and between different environmental and demographic conditions. Such changes in fitness have likely led to the evolution of different mating behaviours in different species and to adaptive behavioural plasticity in mating tactics between different habitats (Levins 1968; Dawkins 1980; Isvaran 2005; Kokko & Rankin 2006), leading to interand intraspecific mating system variation, respectively.
+Notwithstanding the potential importance of changes in behavioural tactics in producing mating system diversity, a large proportion of variation may merely be due to differences in mate availability, produced by changes in demographic factors driven by variation in environmental constraints such a resource distributions. These demographic factors can include population density, the spatial distribution of individuals (e.g. clumped or evenly dispersed), sex ratio and temporal variation in sexual receptivity (Emlen & Oring 1977; McCarthy & Lindenmayer 1998; Prohl 2002). It follows that before we can safely infer the role of behavioural tactic changes in mating system variation, the effect of mate availability on genetic mating patterns need to be comprehensively assessed.
+Mate availability can alter mating patterns through its effects on both males and females. In general, males and females may have evolved different reproductive strategies, since their physiology and behaviour are subject to different constraints (Clutton-Brock & Parker 1992). The reproductive potential of males is typically greater than females (Bateman 1948; Trivers 1972), and is limited by their ability to access reproductive females. This, in turn, can be limited by temporal variation in female receptivity and by the spatial distribution of females, which is commonly determined by resource distribution (Emlen & Oring 1977; Davies & Lundberg 1984; Ostfeld 1986; Ims 1988; Fisher & Owens 2000). Therefore, there is higher potential for polygyny at high female availability if competitive males can access and defend multiple receptive mates. Alternatively, when females are dispersed widely, males may be unable to maintain home ranges large enough to acquire multiple mates, resulting in monogamy (Emlen & Oring 1977; Rutberg 1983). From a female perspective, variation in male availability is likely to affect the level of polyandry. For example, females may seek to acquire multiple mates, if available, when offspring survival is increased through genetic compatibility or quality (Stockley 2003; Fisher et al. 2006); increasing the level of genetic polyandry.
+In this study, we develop a generic modelling approach to assist in distinguishing the effect of mate
+availability (as determined by environmentally driven changes in demographic factors) from the influence of behavioural tactic changes on a population’s mating system. We then illustrate the application of this modelling approach in an Australian arboreal marsupial. Arboreal marsupials are an ideal group for this study because they show marked differences in population density among locations (Gibbons & Lindenmayer 1996) and intra-specific mating system variation is known in several species (Henry & Craig 1984; Russell 1984; Norton 1988; Goldingay & Kavanagh 1991; Menkhorst 1995; Martin & Handasyde 2007). The mountain brushtail possum (Trichosurus cunninghami) shows variation in its genetic monogamy levels between locations in response to spatial variation in food and shelter availability (Martin & Handasyde 2007). These differences in resources are also associated with changes in population density and offspring sex ratio (Lindenmayer et al. 1990; Banks et al. 2008). Therefore, in this study, we examined whether the mating patterns of the mountain brushtail possum can be explained by mate availability alone. To achieve this, we compared the predicted level of monogamy under a probability model of random mating with restricted mate access to that observed based on genetic parentage analysis over an 18 year study.
+Our case study of the mountain brushtail possum, demonstrates a probability modelling approach that can offer new insights into the respective roles of mate availability and behavioural tactics in mating system variation. The approach is flexible and generically applicable to a wide range of biological scenarios. Furthermore, where the mate availability hypothesis is rejected, it provides insights into the presence and direction of behavioural tactics, which may be of particular use in the study of social systems of elusive animals.
+Methods
+Mate availability probability modelling of a population’s monogamy level
+Our work extends the probability model of McCarthy & Lindenmayer (1998) and for the first time compares model predictions to genetically-identified successful mating events. In this modelling approach, the predicted population level of monogamy depends on the number of receptive individuals of the opposite sex that are available to mate with each individual over the period of a breeding season (mate availability). This modelling approach also explicitly incorporates reproductive output (number of offspring), the retention of individuals at a site between breeding seasons, and competition between males for access to receptive females (see
+Ó 2011 Blackwell Publishing Ltd
+PROBABILITY MODELLING OF MATE AVAILABILITY 573
+
+574 M. D. J. BLYTON ET AL.
+Table 1 The input variables for the mate availability probability modelling framework and the demographic factors that affect their
+values
+Input variable
+Each female’s offspring number1
+Number of males available to each female1,2
+Number of females available to each male1
+Overlap of available males between females1,3
+Retention between breeding seasons1
+Underlying demographic ⁄ life
+history factors that influence the input
+Female reproductive output Population density
+Sex ratio
+Spatial clumping
+Ranging distance
+Population density
+Sex ratio
+Spatial clumping
+Ranging distance
+Temporal changes in female receptivity Population density
+Sex ratio
+Spatial clumping
+Ranging distance
+Mortality
+Migration
+Temporal changes in female receptivity
+Type of monogamy affected by input variable
+All All
+Male monogamy within breeding seasons
+Male monogamy between breeding seasons
+Male monogamy within breeding seasons
+Female monogamy between breeding seasons
+Male monogamy between breeding seasons
+   1All input variables may be affected by territoriality and social group structure. This needs to be considered when interpreting the modelling output.
+2This represents a female’s available mates and a male’s number of competitors.
+3The number of and identity of males available to more than one female in a breeding season.
+Table 1). This framework does not include competition between females for access to males, as females are typically the limiting sex. Thus, this approach tests whether the rate of monogamy can be explained solely by local mate availability, while accounting for key life history and ecological traits.
+The key input into the modelling framework is a quantification of the number of potential mates available to each individual. This can be estimated using the most appropriate method for the particular study system by incorporating demographic factors relevant to that species. There are multiple factors that may influence the number of available mates that should be considered, these include local population density, sex ratio, spatial clumping of individuals, the distance over which individuals move to select mates and temporal changes in sexual receptivity (see Table 1).
+The approach can account for differences between available mates in their probability of mating with a focal individual. In some cases, it may be valid to assume that all potential mates have an equal probability of mating with a focal individual. In other cases, mating probability may vary with factors such as an individual’s competitive ability or the probability of encountering the focal individual. For instance, the latter may be influenced by geographic distance, or home range overlap, between the focal individual and the
+candidate mate. A potential mate’s relative probability of mating is estimated by assigning them a weight (chance of mating) relative to other individuals in the population. This weight can be estimated by any method appropriate for the study species and question, such as by using the results of a regression analysis of mating success in relation to a set of candidate variables.
+With this modelling approach, the level of monogamy can be assessed from either the male or female perspective. In addition, monogamy may be assessed both within and ⁄ or between breeding seasons for both males and females. A mathematical description of how the probability of an observed level of (1) male monogamy within breeding seasons; (2) female monogamy within breeding seasons; (3) female monogamy between breeding seasons; and (4) male monogamy between breeding seasons can be calculated using the mate availability probability modelling approach is detailed below. For each type of monogamy, we first describe how an individual’s probability of monogamy is calculated. We then describe how the individuals’ probabilities of monogamy are used to calculate the probability of a particular population level of monogamy.
+Population level male monogamy within breeding seasons. Under our modelling framework, the probability
+Ó 2011 Blackwell Publishing Ltd
+
+of a particular level of male monogamy in a given breeding season is equal to the combined probability (sum) of all possible combinations of individuals mating (mating scenarios) that could produce that population level of monogamy. The probability of each mating scenario is the product of the probabilities of each successfully reproducing female selecting a mate (from their available mates) as dictated by that scenario (see Fig. 1 for an example calculation). The probability of a female selecting a particular male to father a particular offspring (z) is calculated as:
+Pr (father offspring z of female fÞ 1⁄4 Wfm ð1Þ
+a1⁄41
+where Wfm is male m’s weight specific to female f (cal-
+The probability of a particular population level of male monogamy within a breeding season is most easily calculated from the female perspective, because unlike the calculation of female monogamy within a breeding season (see below), each individual male’s mating success is dependent on the mating success of the other males in the population. In this method, unobserved offspring do not bias the findings of the comparison between the observed and expected level of monogamy. This is because, the probability of monogamy is calculated based only on the observed number of offspring.
+Individual female monogamy within breeding seasons. The probability of a successfully reproducing female (f) mating monogamously within a breeding season (x) can be calculated as:
+􏰍offspring
+ð2Þ
+PROBABILITY MODELLING OF MATE AVAILABILITY 575
+ PMf
+Wfa
+culated by a method appropriate for the study species).
+P xWfm
+Mf denotes all males available to female f and Wfa is PrðfmonogamousinxÞ1⁄4Bf 1⁄4 the sum of the weights of all males available to female f.
+PWx m1⁄41 fa
+XMf 􏰌 x
+  Female 1 potential mates: 1
+Male 1
+1
+Probability of female 2 selecting male 3
+given 1 offspring per female and equal weighting between potential mates, from eq 1
+1/3
+Male 2
+1/3
+1/3
+1/2
+Not Complete Monogamy
+1 x 1/3 x 1/2 = 1/6
+Not Complete Monogamy 1/6
+Not Complete Monogamy 1/6
+Complete Monogamy 1/6
+Complete Monogamy 1/6
+CompleteMonogamy 1/6
+total probability of complete male monogamy in the population of
+4 males and 3 females
+= 1/6 +1/6+1/6 = 1/2
+Female 2 potential mates: 3
+Female 3 potential mates: 2
+1/2
+1/2
+1/2
+1/2
+1/2
+Complete male monogamy within a breeding season
+           Male monogamy within years is calculated from the female perspective, a male is considered monogamous if he is "selected" by only one female. In the tree diagram each branch represents a different male available to a particular female. Each path through the tree represents a different scenario. For instance, in the scenario indicated by the dotted line, male 1 mates with both female 1 and 2 while male 4 mates with female 3. In this scenario male 1 is not monogamous and thus complete monogamy is not observed. The total probability of complete male monogamy in the population is equal to the probability sum of all complete monogamy scenarios.
+Fig. 1 Example of how the probability of complete male monogamy within a breeding season is calculated.
+Ó 2011 Blackwell Publishing Ltd
+Male 2
+Male 2
+Male 2
+Male 1
+Male 3
+Male 4
+Male 4
+Male 4
+
+576 M. D. J. BLYTON ET AL.
+This equation is applicable to situations where females produce multiple offspring within a season, and the paternities of the offspring are independent, as would occur with sequential births. If the offspring are not independent, such as with multiple paternities in a single litter, then the equation can be adjusted by a species specific correction factor.
+Population level female monogamy within breeding seasons. To calculate the probability of a particular population level of female monogamy within a breeding season, we first use the above eqn 2 to calculate the probability of monogamy or polygamy (1 ) the probability of monogamy) for each female in the population. We then identify all possible population mating scenar-
+ios (combinations of females mating monogamously or polygamous) that could result in a given population level of monogamy. For each mating scenario, the probability of that scenario is equal to the product of each individual’s probability of mating in that manner. We can then calculate the total probability of a particular population level of monogamy as the probability sum of all scenarios that produce that level (see Fig. 2). We deem an observed population level of monogamy as significantly greater than expected if the probability of observing that level of monogamy (or greater) is less than 5%.
+Individual female monogamy between breeding seasons. For each female (f) that successfully reproduces in two
+   Individual 1 Individual 2 Individual 3
+Individual probability
+of monogamy, from 1/4 eq. 2 , eq.3 or eq.5
+Probability of each population level of monogamy
+a
+b
+c
+a
+1/24
+66% (2 individuals monogamous)
+= 1/8 + 1/24 + 1/12 = 1/4
+= 1/8 + 1/4 + 1/12 = 11/24
+= 1/4
+95%
+100% (all 3 individuals monogamous) = 1/24
+    1/2
+3/4
+b
+1/8
+1/24
+c
+1/8
+b
+1/12
+1/4c 1/12
+d
+1/4
+33% (1 individual monogamous) d 0% (0 individuals monogamous)
+ 1/2 1/4
+3/4
+1/4
+1/2 3/4
+50%
+b
+    1/3
+2/3
+0.5
+0.375
+0.25
+0.125
+          c
+0
+Number of individuals monogamous
+Expected number of individuals monogamous = 1.083
+By chance all 3 individuals will only be monogamous in 5% of cases. Thus if all 3 individuals were monogamous this would be considered significantly greater than expected.
+ 0123
+  coresponding 1/2 1/4 individual probability
+of polygamy
+3/4
+ Each branch of the tree diagram represents a different individual's probability of monogamy (calculated from eq. 2 for females within a breeding season, eq. 3 for females between breeding seasons and eq. 5 for males between breeding seasons) or polygamy (1-probability of monogamy). From this the probability of each population level of monogamy can be calculated. For instance, there are three scenarios (paths through the tree) where two of the three individuals are monogamous (indicated by superscript 'c'). The sum of the probabilities of these three scenarios equals the total probability of obtaining 66% monogamy across the population of 3 individuals. The probability of each number of monogamous matings then forms the probability distribution. The expected level of monogamy is where there is a 50% chance of obtaining a monogamy level greater or less than that value.
+Fig. 2 Example of how the expected population level of monogamy is calculated for within and between breeding season female monogamy and for between breeding male monogamy.
+Ó 2011 Blackwell Publishing Ltd
+Monogamous
+Monogamous
+Monogamous
+Monogamous
+Monogamous
+Monogamous
+Monogamous
+Probability
+Polygamous
+Polygamous
+Polygamous
+Polygamous
+Polygamous
+Polygamous
+Polygamous
+
+breeding seasons, we can independently calculate the probability of that female mating monogamously across the two breeding seasons as follows:
+all possible ways) that a male can mate with only one female in a breeding season divided by the probability that he mated. This is calculated as follows:
+Prðm monogamous in xÞ 1⁄4 Bxm 1⁄4
+PFm 1⁄2Pr (mate with female fÞ 􏰇 Q Pr (not mate with female aÞ􏰊
+Prðf monogamous x and yÞ 1⁄4 Bx 􏰇 By ff
+􏰇 Pr(mate with same male in x and yj monogamous in xyÞ
+ð3Þ
+f1⁄41
+a61⁄4f ð6Þ Pr (not mate with female fÞ
+monogamous in x and yÞ 1⁄4 XMxy
+ð7Þ
+PROBABILITY MODELLING OF MATE AVAILABILITY 577
+ where Bfx and Bfy is probability of female f mating monogamously within breeding season x and breeding season y respectfully (eqn 2). The probability of female f mating with the same mate in breeding season x and y given she mated monogamously within each breeding season is calculated as that male’s weight (specific to female f) in each breeding season adjusted by the weights of the other males available to that female, as follows:
+where Fm is the total number of females available to mate with male m in breeding season x. The probability of male m mating with female f (siring at least one offspring with female f) in year x is calculated as:
+1 􏰀
+QFm f1⁄41
+6 Prðmate with female f in xÞ 1⁄4 1 􏰀 6a1⁄41
+2 PMf
+x x 3offspring
+Wfa 􏰀Wfm7 7 4 PMf x 5
+ Prðmate with same male in x and yj
+Wfa
+The probability of not mating with female f is 1 –
+Pr(mate with female f ).
+The probability of male m mating with the same mate in
+breeding season x and y given he mated monogamously within each breeding season is calculated as follows:
+Pr ðmate with same mate in x and yjmonogamous in
+W xfm
+m1⁄41 Wx􏰇 fm
+a1⁄41
+ PM x a1⁄41
+W y
+ð 4 Þ
+ a1⁄41
+where Wfxm and Wfym are male m’s weights for female f in breeding season x and breeding season y respectfully, where m is a male available to the female f in both breeding season x and y. P Wfax and P Wyfa are the sums of all the weights of the males available to female
+f in breeding season x and y respectfully.
+When a female successfully raises an offspring over
+xy XF
+fa PMy
+Wy fa
+x and yÞ 1⁄4 more than two consecutive breeding seasons, the probaf1⁄41
+Pr ðmate with female f in xÞ
+PFx
+Prðmate with female a in xÞ
+a1⁄41
+Pr ðmate with female f in yÞ
+PFy
+Pr ðmate with female a in yÞ
+a1⁄41
+ bility of monogamy between multiple sequential breeding seasons needs to be calculated jointly with all breeding seasons in the series (see Data S1, Supporting information, for example equations) as the assessment of monogamy from, say, breeding season one to breeding season two is not independent of that from breeding season two to breeding season three.
+Individual male monogamy between breeding seasons. The probability of a male mating monogamously between breeding seasons can be calculated in a similar way to between-season female monogamy as follows:
+Prðmale m monogamousÞ 1⁄4 Bxm 􏰇 Bym
+􏰇 Pr(mate with same female in x and yj ð5Þ
+monogamous in x and yÞ
+where Bmx and Bmy is the probability of male m mating monogamously within breeding season x and breeding season y respectfully. The probability of a male mating monogamously within breeding season x or breeding season y is the total probability (summed probability of
+􏰇
+ Ó 2011 Blackwell Publishing Ltd
+where Fxy is the number of females available to mate with male m in both the first (season x) and second breeding seasons (season y), Fx is the number of females available to mate with male m in breeding season x and y, Pr(mate with female f in x) is calculated as in eqn 7 and PPr(mate with female a in x) is the sum of male m’s probabilities of mating with each female available to him (calculated using eqn 7).
+Dependence between breeding seasons when assessing greater then two breeding seasons is accounted for in a similar way to the analysis of females (see Data S1, Supporting information, for equations).
+Population level of monogamy between breeding seasons for males and females. The probability of observing a particular population level of monogamy between years (for
+ð8Þ
+
+578 M. D. J. BLYTON ET AL.
+males and females) is calculated as the probability sum of all possible mating scenarios that could lead to that population level of between-year monogamy. The probability of each mating scenario is equal to the product of each individual’s probability of mating in the manner determined by that scenario (either monogamously of polygamous; calculated using eqn 3 for females, eqn 5 for males). Our approach assumes that an individual’s probability of monogamy between breeding seasons is independent of the probability of monogamy of all other individuals of that sex in the analysis. The validity of this assumption should be considered before it is applied to the species in question.
+Case study species and site
+Our study site was at Cambarville in the Central Highlands of Victoria, Australia (37°33.44 S, 145°53.05 E, 880–970 m altitude). The site covers approximately 50 ha in the Yarra Ranges National Park and is characterised by tall wet eucalypt forest, dominated by a mountain ash (Eucalyptus regnans) overstorey, with areas of cool temperate rainforest.
+The mountain brushtail possum is a medium sized arboreal marsupial, with adults averaging 3.1 kg at Cambarville. This nocturnal generalist herbivore shelters during the day in tree hollows (Lindenmayer et al. 1996a,b, 1997; Martin 2005). Adult individuals are sedentary, occupying long-term stable home ranges, after male biased natal dispersal (Martin 2005; Banks et al. 2010). The species commonly lives for 8–12 years and reaches sexual maturity at 2–3 years of age. Females produce a single offspring per year during the 1–2 month autumn breeding season (Lindenmayer et al. 1998; Banks et al. 2010).
+Sampling protocol
+The data for this study were drawn from 34 trapping sessions between 1992 and 2009. Each session consisted of three or four trap nights using a grid of 55 traps (Lindenmayer et al. 1996b). Captured possums were sedated (Viggers & Lindenmayer 1995), tagged uniquely with microchips (Trovan ID100-BC) or prior to 2001 with ear tattoos, and released the day after capture, to allow time to recover from sedation. Ear tissue samples for DNA analysis were taken from all new adults and pouch young older than one month of age.
+Genetic analysis
+Successful mating events were identified by microsatellite and mitochondrial marker analyses of all offspring and candidate parent DNA samples (n = 306).
+Samples collected between 1992 and March 2007 were extracted following Banks et al. (2008), while post-2007 samples were extracted following the approach of Bruford et al. (1998). We used seven microsatellite markers (Tv14, Tv16, Tv19, Tv27, Tv58, Tv64, TvM1) following Banks et al. (2010), except that allele sizes were resolved on an Applied Biosystems 3130xl capillary DNA sequencer and analysed using GeneMapper 3.7 (Applied Biosystems). Population genetic summary statistics for the seven loci were calculated using the computer program GenAlEx, V6.3 (Peakall & Smouse 2006).
+We sequenced an 815 bp fragment of the mitochondrial control region for all mothers, offspring, candidate mothers and juveniles, to aid in the maternity assignment of juveniles (n = 183). The fragment was amplified by polymerase chain reaction (PCR) using the primers: L15999M: 5¢-ACCATCAACACCCAAA GCTGA-3¢ (Fumagalli et al. 1997) and Tv3.R: 5¢TGTATCCCATATTATCACTT-3¢ (Chapman 2001). PCR reactions (40 lL) contained approximately 5 ng of DNA template, 1· PCR buffer (QIAGEN), each of the four dNTPs at 100 lM, MgCl2 at 1.5 mM (QIAGEN), 5 lg of BSA (BioLabs), forward and reverse primers at 0.1 lM, and 1.0 U Taq polymerase (QIAGEN). Amplification was performed in a Corbett Research thermal cycler with 3 min denaturation at 94°C, followed by 4 cycles of 30 s at 94°C, with a 3°C annealing step down every second cycle for 40 s (1st cycle at 55°C), and 90 s at 72°C. Finally, 30 cycles with annealing at 49°C was followed by 10 min extension at 72°C.
+PCR products were purified using the ExoSAP-IT clean-up protocol (USB) and sequenced with the BigDye Terminator v3.1 Cycle Sequencing kit (Applied Biosystems) with sequences run on an ABI 3130xl Genetic Analyser. Sequences were edited in the computer program Geneious Pro 4.6.1 (Drummond et al. 2009). Mitochondrial haplotypes were identified and analysed using GenAlEx, V6.3 (Peakall & Smouse 2006).
+Parentage analysis
+We used CERVUS 3.0.3 (Kalinowski et al. 2007) for parentage analysis with the seven microsatellite markers, and excluded individuals with missing genotypes at more than two loci. We assigned parentage if the number of allelic mismatches between the offspring and the most likely candidate parent did not exceed one and the Delta LOD score (difference in LOD between the most likely and second most likely candidate parent) exceeded a critical value set by a 95% confidence interval based on 1 000 000 simulated offspring. The mistyping rate was set to 1% based on validation from independently typed duplicate samples (n = 15). The proportion of true parents sampled was set to 85% for
+Ó 2011 Blackwell Publishing Ltd
+
+the paternity analysis of pouch young (with known mothers) and to 55% for the full parentage analysis of juveniles (0–2 years) (see Data S2, Supporting information, for justification).
+We defined candidate parents as all adult individuals caught within a year either side of the breeding season in which the young was born. This improved the chance of including parents that were present at the site but not captured during that breeding season. In the maternity analysis of juveniles, only females that possessed the same mitochondrial haplotype as the offspring were included as candidate mothers.
+A shift in the population allele frequencies at Cambarville over the course of the 18-year study was detected during our analysis (see Data S3, Supporting information). Thus, we pooled individuals captured over a 5-year period centred on the year of an offspring’s birth to estimate the population allele frequencies at that time. This window provided an adequate sample size (46–84) to estimate allele frequencies. No detectable change in allele frequencies was found between years within this window.
+Application of the mate availability probability modelling to the mountain brushtail possum
+Female mountain brushtail possums produce one offspring per year, so we did not consider the possibility of monogamy or polygamy within a season. By contrast, males can sire multiple offspring in a given year. Thus, we assessed the level of monogamy in three ways: female monogamy between breeding seasons, male monogamy between breeding seasons, and male monogamy within breeding seasons. We analysed female and male monogamy between breeding seasons over the entire length of the study. We examined within breeding season male monogamy for the 1993, 1994, 1995, 2007 and 2008 breeding seasons, which offered sample sizes of four or more offspring. In addition to the year by year evaluation of within season male monogamy, we tested whether the observed number of breeding seasons in which all males were monogamous exceeded the expected values. We did this by calculating the probability of observing at least that number of monogamous breeding seasons by summing the probabilities over all possible ways of achieving that many monogamous breeding seasons or greater. In all our analyses the one tailed greater than expected level of monogamy was used for significance cut offs, as regular co-occupation of day time denning locations by some opposite sex pairs (Lindenmayer et al. 1997) indicated that social pair bonding may be present at our study site.
+We estimated the number of mates available to both males and females as the number of opposite-sex, sexu-
+ally mature individuals within the mating distance of that individual’s location. The mating distance corresponded to the distance over which individuals selected mates and was considered constant across the population. The mating distance was estimated from the distance between the locations of individuals that were genetically identified as mates. An individual’s location was defined as the average geographic coordinates of its capture locations over a 2-year window, centred on the breeding season under consideration. A mating event was classified as the production of a single offspring that was subsequently assigned a father through genetic parentage analysis. In general, adult female mountain brushtail possums are able to reproduce in each breeding season and, given the length of their breeding season, females are unlikely to show extreme temporal synchrony in receptivity. Therefore, it was not necessary to incorporate temporal differences in receptivity into the assessment of mountain brushtail possum monogamy.
+We used two different schemes to estimate the relative probability of potential mates mating with a focal individual. Under the first scheme, all individuals within the mating distance had an equal probability of mating with the focal animal (were equally weighted). Here after, we refer to this scheme as the distance threshold model. Under the second scheme, referred to as the distance weighted model, we considered that individuals at closer proximity may be more likely to mate because of restricted movement produced by food, shelter and predation pressures (Crowley et al. 1991; Kiørboe 2008). To account for this potential effect of proximity on an individual’s probability of mating we estimated each individual’s weight using a generalised linear model with logit link function implemented in Genstat (Payne et al. 2009). For each female that produced a genotyped offspring, a list of potential mates within the mating distance was constructed. The response variable in the analysis was whether or not a male–female pair mated (mated = 1, not mated = 0), based on the result of the paternity analysis. The distance between individuals was the explanatory variable. When predicting a particular individual’s distance weighted probability of mating with potential mates, that individual was dropped from the regression analysis to avoid circular use of data.
+In the application of the modelling framework to the mountain brushtail possum, we used a custom computer program, which is available from the first author upon request, to identify all possible mating scenarios and to calculate the total probability of each population level of monogamy given the individual probabilities of monogamy.
+To determine how sensitive the expected monogamy levels were to changes in the input variables, we calculated the expected results for the mountain brushtail
+Ó 2011 Blackwell Publishing Ltd
+PROBABILITY MODELLING OF MATE AVAILABILITY 579
+
+580 M. D. J. BLYTON ET AL.
+ 1 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 00
+(c)
+ (a)
+1.2 1 0.8 0.6 0.4 0.2
+(b)
+1 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1
+Overlap
+  1
+2
+3
+4 5 6 7 8
+Number of males per female
+9 10
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Number of females per male
+1 2 3 4 5
+     (d)
+1
+0.9
+  00 1 2 3 4 5 6 7 8 9 1011121314151617181920
+Number of males per female
+1 2 3 4 5 6 7 8 9 1011121314151617181920
+Number of females per male
+Retention 0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+100%
+75%
+50%
+25%
+  Fig. 3 Results of the sensitivity analysis: (a) the effect of overlap between females and the number of males on the probability of 100% male monogamy within breeding seasons. (b) The effect of retention of mates between breeding seasons and number of males on expected female monogamy. (c) The effect of retention of mates between breeding seasons and the number of females on the expected level of male monogamy between breeding seasons (the number of males per female was held constant at 5). (d) The effect of competitors (number of males per female) and the number of females on the expected level of male monogamy between breeding seasons (the retention of individuals was held constant at 100%). For all presented scenarios the input values were the same for all individuals in the population.
+ Retention
+ 100% 75% 50% 25%
+       Competitors
+ 15 10 5 2 1
+    possum under several situations. The manipulated variables were; (1) the number of males per female, (2) the number of females per male, (3) overlap between females; the number for males available to multiple females and (4) retention of individuals between seasons (see Fig. 3). This analysis showed that the expected monogamy level is most sensitive to changes in the first three variables at small values between one and five individuals. Therefore, in this case study, the model results are robust to small field sampling errors in these variables as the number of potential mates used in the models generally exceeded five for both males and females.
+Results
+Genetic analysis
+The number of alleles per microsatellite locus varied from four to 14 (mean = 7.28). The observed heterozygosity across loci ranged from 0.56 to 0.91 (mean = 0.75)
+and did not differ significantly from that expected under Hardy–Weinberg equilibrium within the majority of study years (for further details on microsatellite diversity see: Banks et al. 2010). The average probability of identity for the marker set was 2.5 · 10)7, the nonexclusion probability when one parent was known was 6.83 · 10)3, while it increased to 5.34 · 10)2 when neither parent was known. This indicates that the panel had sufficient power for the parentage analysis.
+Seventeen mitochondrial haplotypes were found across the 26 polymorphic sites identified in the 183 individuals screened (see GenBank accessions JN171576–JN171592 for haplotype sequences, Data S4 and Table S1, Supporting information, for haplotype summary).
+Parentage analysis
+We assigned paternity to 43 of 54 offspring with known mothers (80%) that were sampled between 1992 and 2008. Of these, 27 were assigned at 99% confidence
+Ó 2011 Blackwell Publishing Ltd
+Expected population fequency of monogamy
+The probability of 100% male monogamy within a breeding season
+Expected population frequency of monogamy
+Expected frequency of monogamy
+
+while 16 were assigned at 95% confidence. Parentage success was lower in 2009 (probably due to a wildfire during the mating season and subsequent major demographic change) and we assigned paternity to only two of 11 offspring with known mothers born in that year (both with 99% confidence). Of the 22 unassigned pouch young from the paternity analysis, only 4 (6% of the total number of pouch young) mismatched the most likely father. This suggests that the failure to assigned fathers to these offspring was due to insufficient power in the analysis (given our high cut off of 95%) and not as a result of failing to sample the true fathers. Of the 39 juveniles with unknown parents, we assigned both parents to only four individuals (15%) reflecting reduced power and the likely immigration of some juveniles into the site. All four mothers were either known to have an offspring of the correct gender in the year of the offspring’s birth or the female was not trapped in the relevant year. Thus, a total of 49 successful mating events were identified by the parentage analysis.
+Due to the variable timing and sampling interval of our long-term study, there were only 13 and 14 instances where males and females, respectively, had offspring assigned in two successive breeding seasons. For females this represented 29% of assigned offspring and 13 individual females. For males this represented 27% of assigned offspring and 11 individual males.
+Observed mating system
+For males, 6 of the 13 (46%) sequential mating events involved monogamous mating. For females, we classified nine of the 14 matings (64%) as monogamous. Of the 5 years assessed for male monogamy within each year, the 2007 breeding season was the only case in which complete monogamy was not observed.
+Estimates of mating distance and distance-weighted probabilities of mating
+Of the 49 matings identified, 95% occurred between individuals that were within 350 m of each other (median = 71 m). Therefore, we considered the mountain brushtail possum mating distance to be 350 m. This distance is more than two times larger than that estimated by McCarthy & Lindenmayer (1998).
+A generalised linear model of individual mating probabilities revealed a significant negative relationship between the distance between opposite-sexed individuals and their probability of mating (deviance ratio = 34.38, p < 0.001, see Fig. 4) as represented by the following formula:
+lnð p Þ 1⁄4 􏰀0:00967ð􏰐0:00157Þ 􏰇 distance 􏰀 0:885ð􏰐0:131Þ 1􏰀p
+ð9Þ
+where, p is the probability of a male-female pair mating and the distance between them is in meters. Individual weights used in the probability models were generated from this regression model, but the ‘focal’ individual was dropped from the analysis to avoid circular use of the data. Thus, errors associated with the coefficients in formula 9 represent the maximum deviations that occurred when each individual was dropped from the analysis.
+Comparison of observed monogamy level with model expectations
+Male monogamy within breeding seasons. The observed number of completely monogamous years was greater than that expected under the distance threshold and distance weighted models (distance threshold model, p = 1.93 · 10)3; distance weighted, p = 2.61 · 10)3). However, the probability of complete male monogamy within each of the assessed breeding seasons could have occurred by chance due to the small number of offspring assigned fathers in each year compared to the number of candidate fathers (see Table 2).
+Female monogamy between breeding seasons. The number of monogamous matings expected under the distance threshold model and the distance weighted model was one and two, respectively. Thus, the nine observed
+PROBABILITY MODELLING OF MATE AVAILABILITY 581
+  Fig. 4 The probability of an opposite sexed pair mating, predicted from the distance between the pair using eqn 9.
+Ó 2011 Blackwell Publishing Ltd
+
+582 M. D. J. BLYTON ET AL.
+Table 2 The observed monogamy levels and the models’ expectations for each breeding season assessed for within breeding season male monogamy of the mountain brushtail possum
+old or the distance–weighted mate availability probability model. This strongly indicated that individuals in the studied population employed behavioural tactics that significantly increased the level of monogamy. Thus, we have shown that this approach can provide valuable insights into the mating behaviours of species that are difficult to observe.
+Data required for mate availability probability modelling
+The minimum requirements for implementing probability modelling for testing mating system hypotheses include the reliable identification of successful mating events and the quantification of potential mates available to each individual. Here, we used spatially-explicit data on uniquely-marked individuals from a long-term mark–recapture study to estimate the latter, although information on social group membership may be more appropriate in certain species. Genetic parentage assignment has the potential to provide unequivocal identification of successfully mating pairs. However, incorrect parentage assignments will lead to erroneous conclusions about mating systems (Gagneux et al. 1997; Vigilant et al. 2001) and are likely to overestimate polygamy. The rigorous checking and evaluation of genetic data, the accurate estimation of population parameters, such as allele frequencies, and the use of stringent significance levels can minimise such errors. In this study, we rigorously assessed all population parameters and a high confidence level of 95% was applied to the parentage assignments, with the majority of assignments obtained with 99% confidence. Furthermore, we checked all assignments against data external to the CERVUS analysis (sex-linked loci, locations of capture records, information on age and reproductive status in the relevant years).
+Applications of mate availability probability modelling
+The probability modelling of mate availability developed in this study provides a powerful tool for separating the complex interactions between behavioural adaptations and demographic dynamics, particularly in species that are difficult to observe directly. In the case of mating system variation, the direct effects of mate availability (as determined by demographic factors) and changes in behavioural tactics may shift the level of monogamy in the same direction. If the specific expectations of changes in mate availability are not predicted this could potentially lead the observed monogamy level to be incorrectly attributed to adaptive changes in behavioural tactics, when it in fact merely reflects demographic effects. In such cases, the modelling approach we have developed offers a method to resolve this issue.
+  Offspring Total
+assigned candidate Year fathers fathers
+1993 5 19 1994 8 24 1995 8 31 2007 11 16 2008 6 24
+Probability of complete monogamy
+Distance Distance threshold weighted model model
+0.397 0.452 0.105 0.145 0.072 0.058 0.005 0.004 0.579 0.626
+Observed monogamy level
+0.000 0.000 0.000 0.429 0.000
+    monogamous
+than expected under either model (distance threshold model, p = 1.19 · 10)6; distance weighted model, p = 7.64 · 10)6). As predicted from the sensitivity analysis, this conclusion was not altered by decreasing the mating distance to 125 m, which effectively reduced the number of available mates per individual in the model.
+Male monogamy between breeding seasons. The number of monogamous matings expected under the distance threshold and the distance weighted models was one and two, respectively. Thus, the six observed monogamous matings were significantly greater than either model predicted (distance threshold model, p = 4.52 · 10)4; distance weighted model, p = 9.24 · 10)3).
+Discussion
+We have developed a generally applicable probability modelling approach to test the hypothesis that a population’s level of monogamy is determined solely by the number of potential mates available to each individual. This may be influenced by several demographic factors and life history traits including local population density, sex ratio, spatial clumping of individuals, the distance over which individuals move to select mates, offspring number and temporal changes in receptivity (see Table 1). We applied the modelling framework to investigate mating patterns in a wild population of the mountain brushtail possum. Due to the mountain brushtail possum’s elusive nature, it was necessary to characterise the mating system through genetic parentage assignment. The level of monogamy observed was higher than predicted under either the distance thresh-
+matings were significantly greater
+Ó 2011 Blackwell Publishing Ltd
+
+This method may also provide a useful tool for addressing other mating system questions, such as whether mate choice behaviours like inbreeding avoidance can explain observed levels of monogamy. This could be implemented by adjusting individual mating probabilities (weights) according to predicted probabilities from a logistic regression model of relatedness on mating events. Essentially, any individual-level mate choice scenario can be fitted to the modelling framework by adjusting the number of available mates and ⁄ or the potential mates’ weights. We have demonstrated this by using two different distance weighting schemes for the mountain brushtail possum.
+While this approach can be used to construct a wide range of models, the selection and interpretation of an appropriate model for a particular study species and question should be carefully considered. For instance, in many cases the distance weighted model maybe a more accurate representation of observed mating patterns than the distance threshold model. However, it is also more likely to incorporate aspects of behavioural adaptations, such as pair bonding, in addition to environmentally driven demographic dynamics. Social group structure and other behavioural adaptations interact with demography, and this relationship needs to be carefully considered when interpreting the model results (see Table 1). For instance, in species with strong social, kin or mating group structure, such as the yellow bellied glider (Petaurus australis) (Goldingay 1992), mating patterns may be reflected in the spatial arrangements of individuals. Therefore, the observed monogamy level may conform to expectations of a probability model based on mate availability alone. However, this result should not be interpreted as random mating since mate selection may occur during group formation.
+Insights gained in the case study of the mountain brushtail possum
+At our study site at Cambarville, male mountain brushtail possums were less likely to be monogamous than females (46 and 64% probability of monogamy between years, respectively). The monogamy level was greater than predicted under both the distance threshold and distance weighted models for both sexes. Furthermore, males were found to mate with only a single female within 4 of the 5 years for which this test was performed. These findings indicate that the mating system of the mountain brushtail possum is not merely a function of local mate availability in a randomly mating population.
+Several kinds of behaviour may contribute to this higher level of monogamy than expected. In particular, non-random mate choice, where individuals are more
+likely to repeatedly select the same mate due to certain characteristics, can lead to higher levels of monogamy than predicted from mate availability alone. Such characteristics might include relatedness and inbreeding avoidance (Krackow & Matuschak 1991; Frankham et al. 2002), physical characteristics such as size or age (Clinchy et al. 2004), and social status (Huck et al. 1986; Miller et al. 2010). In addition to, or in combination with mate choice, the greater-than-expected monogamy level and preference for more proximate mates in the mountain brushtail possum may be due (in part) to the presence of social pair bonding, such as occurs in the prairie vole (Microtus ochrogaster; Getz et al. 1981). In a population of the mountain brushtail possum in the Strathbogie Ranges, Victoria, the majority of individuals formed pair bonds by 5 years of age, in which the pair frequently denned together and had almost exclusively overlapping home ranges (Martin et al. 2007). At Cambarville, a lower rate of pair bonding seems to occur with three pairs out of 16 radio tracked individuals frequently den sharing (Lindenmayer et al. 1997). Two of those females produced offspring that were assigned paternity to the female’s social partner in the present study.
+It is evident that local mate availability alone does not solely drive variation in the rate of monogamy in the mountain brushtail possum. Thus, behavioural adaptations in conjunction with variation in mate availability seem to drive mating system variation in this species. In other studies on the mountain brushtail possum, the level of monogamy observed has been shown to be influenced by resource availability and habitat shape, presumably through effects on female spatial arrangement (Martin & Handasyde 2007; Amir 2008). Martin & Handasyde (2007) suggested that male mountain brushtail possums may mate guard a single female when population density is low but attempt to mate with multiple females when population density is higher. Thus, changes in variation in mate availability may trigger changes in behavioural tactics that magnify the direct effect of mate availability.
+Conclusions
+We have developed a generally applicable probability modelling approach that provides quantifiable predictions to statistically test whether mate availability is sufficient to explain the level of monogamy in a population. By combining such modelling with rigorous genetic parentage analysis, these predictions can be tested in wild populations that are difficult to observe. Our case study has shown how this approach can improve our understanding of the complex interactions between behavioural adaptations and demographic dynamics in mating system variation.
+Ó 2011 Blackwell Publishing Ltd
+PROBABILITY MODELLING OF MATE AVAILABILITY 583
+
+586 M. D. J. BLYTON ET AL.
+matical modelling and technological advances to provide insights into the behaviour and life history of elusive species such as Australian arboreal marsupials.
+Data accessibility
+Mitochondrial haplotype sequences: Genbank accessions JN171576–JN171592.
+Microsatellite and mitochondrial genotypes, individual spatial locations and candidate parents lists used for parentage assignment analysis: DRYAD entry doi:10.5061/dryad.850pr
+Supporting information
+Additional supporting information may be found in the online version of this article.
+Data S1 Calculating the probability of monogamy in three consecutive breeding seasons
+Data S2 Determination of the proportion of parents sampled Data S3 Assessment of genetic changes in the Cambarville
+mountain brushtail possum population over the 18-year study
+Data S4 Investigation of the ambiguous nucleotide base in mitochondrial haplotypes 13 and 16
+Table S1 Mitochondrial haplotypes
+Please note: Wiley-Blackwell are not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+ Ó 2011 Blackwell Publishing Ltd

@@ -1,0 +1,624 @@
+Syst. Biol. 50(2):170–193, 2001
+The Phylogenetic Trunk: Maximal Inclusion of Taxa with Missing Data
+in an Analysis of the Lepospondyli (Vertebrata, Tetrapoda)
+JASON S. ANDERSON1
+Redpath Museum and Department of Biology, McGill University, Montre ́al, QC, Canada H3A 2K6; E-mail: jander3@po-box.mcgill.ca
+Abstract.—The importance of fossils to phylogenetic reconstruction is well established. However, analyses of fossil data sets are confounded by problems related to the less complete nature of the specimens. Taxa that are incompletely known are problematic because of the uncertainty of their placement within a tree, leading to a proliferation of most-parsimonious solutions and “wild card” behavior. Problematic taxa are commonly deleted based on a priori criteria of completeness. Paradoxically, a taxon’s problematic behavior is tree dependent, and levels of completeness are not directly associated with problematic behavior. Exclusion of taxa on the basis of completeness eliminates real character con􏱎ict and, by not allowing incomplete taxa to determine tree topology, diminishes the phylogenetic hypothesis. Here, the phylogenetic trunk approach is proposed to allow optimization of taxonomic inclusion and tree stability. The use of this method in an analysis of the Paleozoic Lepospondyli 􏱍nds a single most-parsimonious tree, or trunk, after the removal of one taxon identi􏱍ed as being problematic. Moreover, the 38 trees found at one additional step from this primary trunk were reduced to 2 by removal of one additional taxon. These trunks are compared with the trees that were found by excluding taxa with various degrees of completeness, and the effects of incomplete taxa are explored with regard to use of the trunk. Correlated characters associated with limblessness are discussed regarding the assumption of character independence; however, inclusion of intermediate taxa is found to be the single best method for breaking down long branches. [Adelospondylid; a ̈õ stopod; correlated character; lepospondyls; lysorophid; microsaur; missing data; nectridean; paleozoic tetrapods; phylogenetic analysis; wild card taxa.]
+Perhaps the primary dif􏱍culty of phylogenetic analysis of fossil data sets comes from information missing because of nonpreservation or inaccessibility (Rowe, 1988; Nixon and Wheeler, 1992; Novacek, 1992a; Grande and Bemis, 1998). Taxa that are not coded for particular character states have those states reconstructed, based on the distribution of the states present in other taxa (Maddison and Maddison, 1992), although this may produce a kind of “circularity of reasoning” (Grande and Bemis, 1998). Moreover, the instance of missing data allows incomplete taxa to act as wild cards within the analysis (Nixon and Wheeler, 1992), which leads to proliferation of the number of mostparsimonious trees (MPTs) because the problem taxon can 􏱍t several positions on the tree (Huelsenbeck, 1991; Novacek, 1992a).
+Maddison (1993) distinguished several types of missing data: (1) The data are missing, (2) the character is missing, and (3) the character is polymorphic. Programs such as PAUP (Swofford, 1998) are able to accommodate polymorphic characters, which thus will
+1Current address: Biology Group, University of Toronto,3359MississaugaRd.,Mississauga,ONL5LIC6 Canada. E-mail: jsanders@credit.erin.utoronto.ca
+not be considered further. Because missing characters and missing data are treated the same way by phylogenetic analysis software, throughout this paper “missing data” refers to both cases, unless otherwise stated.
+The common method for controlling the in􏱎uence of missing data has been a priori elimination of potential problem taxa, based on arbitrary criteria of completeness (e.g., taxa >12% incomplete are removed from the analysis [Rowe, 1988; Grande and Bemis, 1998]). However, elimination of taxa a priori prohibits those taxa from determining topology, thus removing potentially important character con􏱎icts from the analysis (Novacek, 1992a; Kearney, 1998), and assumes that incomplete taxa are equally problematical, which is not the case (Kearney, 1998). Further, because the stability of a taxon depends on the shape of the tree, forbidding that taxon to help determine topology prohibits it from determining a stable position. Therefore, maintaining a well-resolved tree necessitates optimized inclusion of incomplete taxa.
+Previous studies of the effects of missing data have considered one or two incomplete taxa within a matrix of otherwise complete taxa (Novacek, 1992b; Grande and Bemis,
+ 170
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 ANDERSON—LEPOSPONDYL MISSING DATA 171
+ 1998). However, the problem in which a matrix contains many incomplete taxa has been inadequately addressed. In these instances, one can predict an interaction of characters, resulting from the way in which phylogenetic programs treat missing data, such that deletion of taxa could radically shift topology and change tree lengths. A method is needed to investigate the alternative effects that a deleted taxon can have on tree topology.
+Such a procedure is outlined below, involving the systematic discovery and removal of problem taxa subsequent to a phylogenetic analysis. This procedure, termed the phylogenetic trunk method (seeking a stable “trunk” among the swaying “branches” of multiple MPTs), permits use of all incomplete taxa in determining tree topology and facilitates identi􏱍cation, removal, and a posteriori exploration of effects caused by problematic taxa. Later I apply this method to an analysis of the Lepospondyli and the general problem of Paleozoic tetrapod relationships.
+To avoid confusion in terminology, I follow Ahlberg and Clack (1998) in using Tetrapoda as a stem taxon comprising all taxa crownward of Elpistostegalia, rather than the crown de􏱍nition of Gauthier et al. (1988a) and Laurin (1998), for two reasons. One, the former de􏱍nition is closer to the traditional meaning of Tetrapoda (taxa with digitized limbs). Second, I do not adhere to the principle of priority of explicit phylogenetic definition advocated by Laurin when applied to historically laden names. Instead, I follow de Querioz and Gauthier (1990, 1992, 1994), who advocate following the 􏱍rst use of a name with a speci􏱍c clade, which in this case would be Gaffney (1979). This criterion accommodates phylogenetic taxonomies that predate current conventions. Furthermore, although never explicitly stated, Gaffney’s Neotetrapoda is clearly a crown taxon and thus takes priority over a crown-based de􏱍nition of Tetrapoda.
+“Labyrinthodonts” and Lepospondyls
+Paleozoic tetrapods have been traditionally separated into two groups on the basis of vertebral morphology: the “Labyrinthodontia” (now considered paraphyletic) and Lepospondyli (Romer, 1945; Carroll, 1988). “Labyrinthodonts” are characterized by large size, the retention of labyrinthine infolding of tooth dentine, and multipartite vertebrae (of intercentra, pleurocentra,
+and neural arch) from their osteolepiform ancestors.
+Lepospondyls, known from the Vise ́an to basal Upper Permian of North America, Europe, and North Africa, are small tetrapods possessing a single spool-shaped centrum. They lack labyrinthodont infolding of the teeth, and the various cranial ossi􏱍cations of primitive “labyrinthodonts” are lost (Carroll et al., 1998). The current concept of this taxon includes 􏱍ve orders. The largest and most diverse is the Microsauria, ranging in morphotype from short, terrestrially adapted forms so convergent with reptiles that they have at times been included with them (Dawson, 1863; Gregory, 1965; Carroll and Baird, 1968; Carroll, 1991; Reisz and Modesto, 1996), to elongate forms with reduced limbs (Case, 1929; Gregory et al., 1956; Carroll and Gaskill, 1978; Carroll, 1998a). Members of the order Nectridea are, with one exceptional family, aquatic amphibians, distinguished by unique caudal vertebrae having large symmetric neural and haemal arches fused to the centra (Baird, 1965; Bossy, 1976; Milner, 1978, 1980; Bossy and Milner, 1998). Adelospondyli is known only from Scotland. Although its members possess pronounced dermal pectoral girdle elements, there is no trace of either endochondral girdle ossi􏱍cations or limbs (Andrews and Carroll, 1991; Carroll and Andrews, 1998). Members of the order A ̈õ stopoda are super􏱍cially snakelike in appearance, having highly fenestrated skulls, no limbs, only a vestige of pectoral girdle elements, and as many as 230 vertebrae (Baird, 1964; McGinnis, 1967; Carroll, 1998b). Lysorophids are also elongate tetrapods, but they still possess limbs, albeit reduced in size and composition, similar in proportions to Amphiuma (Wellstead, 1991, 1998).
+Lepospondyls are on average smaller than “labyrinthodonts.” This has lead some authors to hypothesize that Lepospondyli is an unnatural collection associated by characters attributable to small size, especially considering the divergent cranial anatomy among the constituents (Carroll, 1989, 1999). For example, labyrinthine infolding of tooth enamel is present in a large microsaur (Carroll and Gaskill, 1978) and a large sauropleurine nectridean (Baird, pers. comm.) but is absent in small and larval temnospondyls (Bolt, 1969, 1979). Reduction of cranial ossi􏱍cations, common in lepospondyls, is a
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+172 SYSTEMATIC BIOLOGY VOL. 50
+ characteristic of extant miniaturized salamanders (Hanken, 1984). Carroll (1986, 1995, 1999) has argued that because these characters seem to be correlated with small size, establishing the homology of the loss is dif􏱍cult if not impossible.
+Modern amphibians, the Lissamphibia, have been somewhat uncomfortably incorporated within this scheme. They possess holospondylous vertebrae, but few other characters unite them with any Paleozoic group. Romer (1945) placed frogs with the “labyrinthodonts” and placed caecilians and salamanders with lepospondyls. Parsons and Williams (1963) argued for lissamphibian monophyly, which has been widely accepted (but see Carroll and Currie, 1975; Carroll and Holmes, 1980). Bolt (1969, 1977) described many similarities between lissamphibians and dissorophoid temnospondyls, particularly Doleserpeton, listing nine synapomorphies supporting a temnospondyl origin of modern amphibians (Bolt, 1991). As a result lissamphibians have been placed either within the Temnospondyli (Milner, 1988; Trueb and Cloutier, 1991) or, more conservatively, as a separate subclass of equal rank (Carroll, 1988).
+Until recently, phylogenetic hypotheses of Paleozoic tetrapods have not supported lepospondyl monophyly (Fig. 1). Indeed, various studies have placed lepospondyls next to every conceivable “labyrinthodont” group. A series of papers in the mid-1980s placed nectrideans as sister taxa to colosteids, which in turn were outgroup to a microsaur– temnospondyl dichotomy (Fig. 1c) that formed a higher taxon named Batrachomorpha (Panchen, 1980; Smithson, 1985; Milner et al., 1986; Panchen and Smithson, 1987, 1988; Milner, 1993). A close relationship between microsaurs and temnospondyls has also been suggested by recent studies of Devonian and Carboniferous tetrapods (Lebedev and Coates, 1995; Coates, 1996; Ahlberg, 1998).
+The recent large-scale, computer-assisted cladistic analyses by Michel Laurin and Robert Reisz (Laurin and Reisz, 1997; Laurin, 1998; subsequently, both papers are referred to as “Laurin and Reisz” unless otherwise speci􏱍ed) elaborated on Carroll’s (1995) analysis of Paleozoic tetrapods, expanding its scope to include lissamphibians (Fig. 1d). In their hypothesis, a monophyletic Lissamphibia is deeply nested within the Lepospondyli, which is in turn sister group
+to amniotes and their stem (to the exclusion of Seymouria and other anthracosaurs), thus departing from the reptilomorph– batrachomorph view. If this hypothesis were correct, lepospondyls would become crucial to understanding the phylogenetic relationships of frogs, salamanders, and caecilians, and, as second outgroup to amniotes, of all extant tetrapods. Yet, surprisingly, no detailed phylogenetic test of lepospondyl monophyly has been reported. The only cladistic analyses with an exclusively lepospondyl focus were three small studies of limited scope: one of nectridean relationships by Milner (1980; also in a somewhat modi􏱍ed form in Milner, 1993), another of tuditanomorph microsaurs by Schultze and Foreman (1981), and the third using only vertebral characteristics of the lepospondyl orders by Carroll and Chorn (1995).
+Carroll and Laurin and Reisz included primarily familial or ordinal level taxa in their analyses, assuming monophyly of these. This assumption is potentially problematical because as Nixon and Davis (1991) observed, errors are introduced into an analysis when nonmonophyletic groups are used as operational taxonomic units, especially when de􏱍ned on the basis of preexisting, typological taxonomy. Laurin and Reisz included only two lepospondyl species. One, Rhynchonkos stovalli, was included because of previous hypotheses of its close relationship with caecilians (Carroll and Currie, 1975). The other, the morphologically divergent Pantylus cordatus, was included because it is relatively completely known (Carroll, 1968; Romer, 1969a).
+MATERIALS AND METHODS
+Because the degree of completeness is not necessarily correlated with the degree to which an incomplete taxon will act as a wild card (Kearney, 1998), I propose a new method for considering taxa with large amounts of missing data within phylogenetic analysis to allow their input in tree construction. The 􏱍rst step is the inclusion of all taxa in a matrix, which is then analyzed. Consensus trees are produced from all MPTs to identify areas where problem taxa are present. Adams consensus is particularly useful here, because it maintains stable component topology while reducing unstable taxa to their most inclusive group. The unstable taxa identi􏱍ed in the Adams consensus tree are ranked according
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 ANDERSON—LEPOSPONDYL MISSING DATA 173
+  FIGURE 1. Recent phylogenetic hypotheses relating the Lepospondyli to various Paleozoic tetrapods. (a) Thompson and Bossy (1970). (b) Smithson (1985). (c) Panchen and Smithson (1988). (d) Laurin and Reisz (1997). L, lepospondyls; A, amniotes.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+174 SYSTEMATIC BIOLOGY VOL. 50
+ to the number of different positions they occupy within the component trees. The most variable taxon is removed from the matrix and the analysis is rerun. Should two taxa have an equal variability score, each in turn is excluded to determine the taxon for which elimination produces the fewest MPTs. If the same number of MPTs is produced by eliminating both taxa, the analysis is considered to bifurcate, and subsequent steps are performed on both sets of trees. If the variable taxon is a clade, the most incomplete member of that clade is removed. Iterations are performed until no greater resolution can be gained (or until the level of stability achieved is satisfactory to the investigator). This tree, the phylogenetic trunk, forms the basis for further experimentation. Problem taxa may then be examined by reintroducing them to the analysis and changes to the trunk thus produced are explored individually. Examination of character con􏱎ict in this manner is easier to understand than the cacophony of confounded signals produced by simultaneous consideration of several problem taxa, as is the case with current consensus methods. This method permits maximal inclusion of incomplete but stable taxa, which would otherwise have been eliminated under an arbitrary cutoff criterion; the 􏱍nal phylogenetic hypothesis obtained is thus richer and more complete (Novacek, 1992b; Halanych, 1998).
+This method assumes that the amount of taxon variability is strongly correlated with production of more MPTs, which is true enough for the example at hand, but remains to be tested by computer simulations. An alternative method that avoids this assumption involves the systematic deletion of all variable taxa to 􏱍nd the one for which deletion produces the fewest MPTs. Further iterations are performed by using this procedure until the desired level of resolution is achieved.
+The proposed method is similar to some consensus methods such as the Reduced Adams consensus (Wilkinson, 1994) and the Maximum Agreement Subtree (Kubicka et al., 1995), which also seek to remove problematic taxa. However, these methods focus on portraying shared topology within all component trees and usually prune all unstable taxa. By ranking the degree of instability, the phylogenetic trunk method allows for the less variable taxa to settle when the more disruptive wild cards are removed. Further, by
+reanalyzing the matrix after each pruning cycle, the phylogenetic trunk method permits the discovery of a topology different from those within the component trees.
+Analysis
+The phylogenetic trunk method was used to analyze the lepospondyls. Forty-two fossil lepospondyls were coded for 182 osteological characters, including all characters that have been mentioned as distinctive in various descriptive works, citations to which can be found in Carroll et al. (1998). Taxa were coded from the literature and from specimens when possible (Table 1). Characters used in previous lepospondyl analyses (Milner, 1980; Schultze and Foreman, 1981; Carroll and Chorn, 1995) were included in one form or another (see Appendix 1). The guiding principle was total evidence (Gauthier et al., 1988b; Kluge, 1989); any character that was present in at least two taxa and could not be shown to be nonhomologous by preanalysis criteria of homology (e.g., de Pinna, 1991) was included. The operational taxonomic level was the species (Bininda-Emonds et al., 1998; Weins, 1998), except for Brachydectes, which was included as a composite of B. elongatus and B. newberryi. Use of species introduces additional uncertainty, because most lepospondyls (indeed, most Paleozoic tetrapods) are not completely known. Many of the species included are known from single or a few incomplete specimens, sometimes of questionable association, leaving many characters uncodable. Unlike Grande and Bemis (1998), I made no distinction between characters that were uncodable because of lack of preservation or because of inaccessibility (where a character is potentially codable but unobservable as preserved); both received a “?.” Inapplicable characters, which are inevitable, given lepospondyl morphologic diversity, were coded “–,” although current phylogenetic programs treat missing and inapplicable characters equally. Polymorphisms and partial uncertainty were coded according to Maddison and Maddison (1992).
+The holotype of Micraroter erythrogeios (Carroll and Gaskill, 1978) was removed (Wilkinson, 1995) because its codable characters are essentially identical to those for the more complete specimen in the collections in the Bernard Price Institute of Paleontological
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 ANDERSON—LEPOSPONDYL MISSING DATA 175
+ TABLE 1. Taxa included in all analyses, with counts of all missing (“?”) and inapplicable (“–”) characters, giving an indication of completeness. Total unknown refers to the sum of missing and inapplicable characters (both are treated equally by PAUP). Institutional abbreviations: AMNH, American Museum of Natural History, New York: BYU, Bringham Young University, Salt Lake City; CGH, National Museum, Prague; FMNH, Field Museum of Natural History, Chicago; MCP, Mazon Creek Collection, Northeastern Illinois University, Chicago; MCZ, Museum of Comparative Zoology, Harvard, Cambridge; NMW, Naturhistorisches Museum, Wein; NSM, Nova Scotia Museum, Halifax; TMM, Texas Memorial Museum, The University of Texas at Austin; UMMP, The University of Michigan Museum of Paleontology, Ann Arbor; YPM, Yale Peabody Museum, New Haven.
+ Taxon
+Acanthostega gunnari Adelogyrinus simorhynchus Asaphestera intermedia Balanerpeton woodi Batrachiderpeton
+reticulatum
+Batropetes fritschi Brachydectes Cardiocephalus peabodyi Cardiocephalus sternbergi Carrolla craddocki Ctenerpeton alveolatum Dendrerpeton acadianum Diceratosaurus brevirostris Diplocaulus magnicornis Diplocaulus primus Diploceraspis burkei Eocaecilia micropoda Euryodus dalyae
+Euryodus primus Greererpeton burkemorani Hapsidoparion lepton Hyloplesion longicostatum Keraterpeton galvani Lepterpeton dobbsii Limnoscelis paludis Llistrofus pricei
+Mazon Creek
+Micraroter erythrogeios Microbrachis pelikani Odonterpeton triangulare Oestocephalus granulosum Pantylus cordatus Pelodosotis elongatum Phlegethontia longissima Proterogyrinus scheelei Ptyonius marshi Quasicaecilia texana Rhynchonkos stovalli Sauropleura bairdi Sauropleura pectinata Sauropleura scalaris Saxonerpeton geinitzi Scincosaurus crassus Seymouria baylorensis Sparodus validens Stegotretus agyrus Tuditanus punctulatus Urocordylus wandesfordii Utaherpeton franklini
+“?” “–”
+1 6 58 11 43 5
+5 5 34 3
+19 9 2 15 54 6 69 6 83 8 138 2 22 4 28 7 9 6 56 3 33 7 26 20 46 8 44 8 3 7 51 8 22 7 21 5 119 4 7 5 88 4 120 3 29 5 3 8 47 10 6 49 2 5 22 7 10 67 11 4 17 6 118 12 20 5 143 2 16 9 12 6 19 12 27 9 3 4 68 6 35 6 17 14 50 6 70 8
+Total % % unknown unknown “?”
+7 3.8 0.5 69 37.9 31.9 48 26.4 23.6 10 5.5 2.7 37 20.3 18.7
+28 15.4 10.4 17 9.3 1.1 60 33.0 29.7 75 41.2 37.9 91 50.0 45.6
+140 76.9 75.8 26 14.3 12.1 35 19.2 15.4 15 8.2 4.9 59 32.4 30.8 40 22.0 18.1 46 25.3 14.3 54 29.7 25.3 52 28.6 24.2 10 5.5 1.6 59 32.4 28.0 29 15.9 12.1 26 14.3 11.5
+123 67.6 65.4 12 6.6 3.8 92 50.5 48.4
+123 67.6 65.9 34 18.7 15.9 11 6.0 1.6 57 31.3 25.8 55 30.2 3.3
+7 3.8 1.1 29 15.9 12.1 77 42.3 5.5 15 8.2 6.0 23 12.6 9.3
+130 71.4 64.8 25 13.7 11.0 145 79.7 78.6 25 13.7 8.8 18 9.9 6.6 31 17.0 10.4 36 19.8 14.8 7 3.8 1.6 74 40.7 37.4 41 22.5 19.2 31 17.0 9.3 56 30.8 27.5 78 42.9 38.5
+Specimen examined
+TMM 40031-5 4
+NSM 987GF 99.1, NSM 978GF 53.1 AMNH 6836
+UMMP 3852
+CGH 3028 NMW 1983.32. 9
+YPM 811
+FMNH PR 981
+CGH 727
+AMNH 6857, MCP 323
+AMNH 2564, MCZ 2204 AMNH 6871
+NMW 1983.32.6 , CGH 711
+BYU 3050
+ Totals 1946 442
+2388 26.8 21.8
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+176 SYSTEMATIC BIOLOGY VOL. 50
+ Research, Johannesburg (BPI 3839), here assumed to be conspeci􏱍c. Adelogyrinids are represented by the best known species, Adelogyrinus simorhynchus, because Adelospondylus watsoni is similarly redundant.
+The Jurassic caecilian Eocaecilia micropodia (Jenkins and Walsh, 1993; Carroll, 2000) was included because its primitive characters (not found in any other caecilian) closely resemble characteristics of microsaurs. It 􏱍ts the criteria for a fossil that is potentially informative in an analysis of extant forms. Clearly a caecilian, it shares several synapomorphies (pseudodentary, medial process of the pseudodentary, os basiale, long retroarticular process, intravertebral foramina for the spinal nerves, and pedicellate, labiolingually oriented bicuspid teeth) but also retains many primitive characters shared with microsaurs (several centers of ossi􏱍cation of the skull, limbs, pattern of dermal skull roof, “odontoid” atlas with laterally expanded proximal articular surface). A test of lissamphibian monophyly is beyond the scope of the current study, the primary purpose being the establishment of the basic pattern of lepospondyl phylogeny.
+No one group of “labyrinthodonts” is an obvious sister group of the lepospondyls, so 􏱍ve different taxa are included in the study: the embolomere Proterogyrinus scheelei (Romer, 1970; Holmes, 1980, 1984), the primitive temnospondyls Balanerpeton woodi (Milner and Sequeira, 1994) and Dendrerpeton acadianum (Godfrey et al., 1987; Holmes et al., 1998), the colosteid Greererpeton burkemorani (Romer, 1969b, 1972; Smithson, 1982; Godfrey, 1989), the seymouriamorph Seymouria baylorensis (White, 1939; Berman et al., 1987; Laurin, 1995, 1996), and the stem amniote Limnoscelis paludis (Williston, 1911, 1912; Romer, 1946; Fracasso, 1984; Berman and Sumida, 1990). The whole assemblage was rooted on Acanthostega gunnari (Clack, 1994, 1998; Coates 1996; Ahlberg and Clack, 1998). Not considered were baphetids (loxommatids) or Crassigyrinus because most recent phylogenies place them far stemward from lepospondyls. Where necessary, characters were polarized by using Ichthyostega (Jarvik, 1996a), and Eustenopteron (Andrews and Westoll, 1970; Jarvik, 1996b) as successively further outgroups.
+Consistent in Carroll’s (1995) MPTs was the sister group relationship between a ̈õstopods and adelospondylids. He at-
+tributed this convergence to elongation and limb loss. Fifteen characters in his matrix grouped limbless taxa, which potentially could swamp the phylogenetic signal in a matrix with a large amount of homoplasy and missing data. In an attempt to limit character nonindependence resulting from convergence, I eliminated limb loss characters (e.g., humerus present or absent). Elongation, which is correlated with limblessness (Gans, 1975, 1986; Lande, 1978; Greer, 1991), is still accounted for in the matrix (character 180, number of presacrals; character 182, skull-to-trunk ratio).
+All characters were reexamined. Previous analyses by Laurin and Reisz coded brachystelechid microsaurs (Batropetes, Carrolla, Quasicaecilia) as having open interpterygoid vacuities, although their palatal region is very incompletely known. However, when basal skull length is regressed on the area of the interpterygoid vacuity (Fig. 2), brachystelechids fall on a regression line with all other microsaurs, which is a different line from that of the true open palated temnospondyls, suggesting that the “open” condition in brachystelechids is only apparent and caused by allometric scaling. All microsaurs are therefore coded “0,” having closed palates. Indeed, the term closed palate is misleading. Primitive tetrapods have narrow, slitlike openings that run along the cultriform process (Clack, 1994). Greererpeton is coded as having the primitive closed morphology for similar reasons (Holmes et al., 1998). True palatal closure occurs only when the pterygoids suture at the midline (as in baphetids, Batrachiderpeton and Keraterpeton ; Fig. 3) or in the formation of a secondary palate. Only temnospondyls and various nectrideans were coded as having open palates.
+In adelospondylids, tabular articulations were coded according to the tabularsquamosal structure, despite the fusion of these two bones, assuming that the tabular and squamosal portions of this single ossi􏱍cation maintain their usual positions relative to each other. Utaherpeton was coded as not having an articulation between the tabular and postfrontal, despite our lack of knowledge of the tabular, because the postorbital precludes the possibility by its attachment totheparietal.Codingsfora ̈õstopodsincorporate as yet unpublished observations (e.g., the “frontoparietal” described by McGinnis [1967]consistsofthefusedfrontalsonly,the
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001
+ANDERSON—LEPOSPONDYL MISSING DATA 177
+  FIGURE 2.
+by width) of the interpterygoid vacuities versus basal skull length (rostrum to occipital condyle) for temnospondyls (open circles) and microsaurs (closed circles), natural log-transformed. Regressions are signi􏱍cant at P < 0:001. Populations are signi􏱍cantly different from each other (two-way t-test, P < 0:001), the microsaur interpterygoid fenestrae being absolutely smaller than those of temnospondyls.
+presence of an odontoid process on the atlas, and a single median proatlas in Phlegethontia) I made during the course of my on-going revision of the group.
+The de􏱍nition of double occipital condyles is of concern. In the analyses of Carroll (1995) and Laurin and Reisz, all microsaurs and nectrideans were coded as possessing double condyles. This misses important anatomical details. The condyle of microsaurs, like the condyle of more primitive tetrapods (Fig. 4), involves the exoccipitals and basioccipital. Primitively, in Proterogyrinus (Fig. 4a), the condyle is semispherical beneath the foramen magnum. Microsaurs (Fig. 4c), being much smaller, have a relatively larger foramen magnum, which presumably forces the condyle to spread laterally beneath the foramen magnum to maintain a suf􏱍cient articular surface for the atlas, producing the strap-shaped morphology noted by Carroll and Gaskill (1978). The basioccipital of microsaurs is recessed from the level of the exoccipitals but retains its articulation with the atlas because of the anteriorly projecting “odontoid” process of the atlas (Carroll and Gaskill, 1978; Panchen and Smithson, 1988). Thus, the condyle of microsaurs (including Eocaecilia) is single because it is one continuous point of articulation. Double condyles are here de􏱍ned as two physically separate points of articulation between the occiput and atlas (Fig. 4d). More speci􏱍c distinctions are captured by other characters (e.g., character 133 for the strap-shaped morphology, character 134 for the odontoid process).
+Character 43, tabular horns, is restricted to diplocaulid nectrideans. The super􏱍cially similar posterior projection of the tabular (and other bones) in adelogyrinids and embolomeres is here thought of as part of the squamosal (or otic) notch complex and is not considered homologous (Fig. 5).
+The data were analyzed by PAUP¤ 4.0b4a (Swofford, 1998) in a heuristic search using TBR branch-swapping with >100 replicates. Characters were unordered and equally weighted. Trees were examined using MacClade 3.07 (Maddison and Maddison, 1997). Tree statistics were derived from MacClade because of its ability to accommodate a combination of polymorphism and partial uncertainty in the matrix. Characters supporting each node were determined by using MacClade’s branch list function, which 􏱍nds unambiguous state transformations.
+Regression of an estimate of area (length
+ FIGURE 3.
+tive “closed” palate, with narrow openings lateral to the cultriform process, illustrated by Greererpeton, from Smithson (1982). This taxon is the most “open” of those with “closed” palates. (b) Open palate, where the pterygoids expand laterally, narrowing near the palatines in a continuous arc, illustrated by Ptyonius, a urocordylid nectridean. This is the most “closed” of taxa with open palates. (c) True closed palate, where the pterygoids suture at the midline, illustrated by Batrachiderpeton, a diplocaulid nectridean. (b) and (c) are from Bossy and Milner (1998). Ipt. Vac; interpterygoid vacuity.
+Interpterygoid vacuity states. (a) Primi-
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+178
+SYSTEMATIC BIOLOGY
+VOL. 50
+  FIGURE 4.
+ble (d). (a) Proterogyrinus, an embolomere. The primitive state is a spherical condyle of both the exoccipital (EO) and basioccipital (BO). (b) Brachydectes, a lysorophid. This slight modi􏱍cation, where the condyle is now ovoid, is necessary because of the small skull size. Constituent bones remain the same and of the same proportions. (c) Micraroter, a microsaur. The condyle has assumed the “strap-shaped” morphology; exoccipitals have become the dominant ossi􏱍cation, and the basioccipital has recessed from the level of the exoccipitals but continues to be a site of articulation with the atlas. (d) True double condyles, where the basioccipital no longer serves as a site of articulation . Diploceraspis, a diplocauli d nectridean (Bossy and Milner, 1998).
+FIGURE 5. Tabular horns, indicated by arrows. (a) Proterogyrinus, from Holmes (1984) and (b) Adelospondylus, from Carroll and Andrews (1998). There is a posterior projection of the tabular, but from the lateral view this is seen to form the dorsal margin of the “otic notch.” (c) Batrachiderpeton, from Bossy and Milner (1998). True tabular horns are large posterior projections unassociated with an otic notch (absent in nectrideans).
+RESULTS
+Analysis of the complete matrix produced two MPTs, which differed only in the position of Lepterpeton. It was placed either as a basal sauropleurine nectridean (most likely position) or as the basal-most urocordylid nectridean. When this taxon was removed from consideration, a single tree was obtained (Fig. 6), having a consistency index (CI) of 0.29 and a retention index (RI) of 0.58. That tree is the primary phylogenetic trunk of this collection of taxa.
+To further illustrate this method, I relaxed parsimony slightly, accepting trees one step longer than the trunk. The Adams consensus tree of these 38 trees is shown in Figure 7. The most variable taxon is identi􏱍ed as Sparodus validens, which occupies eight separate positions within the component trees. When that taxon is deleted and the analysis rerun, two trees are found, varying in the position of Cardiocephalus sternbergi, which either is a sister group to C. peabodyi and Euryodus or is a monophyletic genus with C. peabodyi, which is a sister group to Euryodus. Deletion of C. sternbergi yields a single MPT. Interestingly about half of the 664 trees found two steps from the trunk are eliminated by the removal of C. sternbergi.
+The alternative approach, removing the taxon for which removal produces the fewest MPTs, selects the Mazon Creek microsaur for elimination. Its deletion produces a single MPT, whereas removing Sparodus produces two. Other details of topology are the same. I will use this single tree as the secondary trunk in the discussion that follows.
+Relaxing parsimony a further step from the secondary trunk yields 38 additional trees. These vary in the precise order of the Hapsidopariontidae; the placements of Cardiocephalus sternbergi, Microbrachis, Hyloplesion, Odonterpeton, Utaherpeton, Stegotretus, Tuditanus, Asaphestera, and Sparodus; the ordering within the Brachystelechidae; and the placement of Ctenerpeton within the Urocordylidae. Eliminating the previously identi􏱍ed Cardiocephalus sternbergi, Sparodus, and Odonterpeton, and further removing Asaphestera, Hapsidoparion, Hyloplesion, and Quasicaecilia (by the alternative method) produces a single MPT with the same topology as the primary trunk and stable until two additional steps from most parsimonious are accepted, at which point 86 trees are found.
+Occipital condyles: single (a–c) and dou-
+ Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 ANDERSON—LEPOSPONDYL MISSING DATA 179
+  FIGURE 6. The phylogenetic trunk. Single MPT (917 steps, CI D 0.29, RI D 0.58) found after deletion of the problem taxon Lepterpeton. Numbers to the side of taxon names are terminal apomorphies (see Appendix 2). Left tree: numbers above line identify the nodes as discussed in Appendix 2; numbers below the line are the amount of unambiguous character transformations, as identi􏱍ed by MacClade 3.07. Right tree: numbers above the line are the results from a decay analysis (e.g., Laurin and Reisz, 1995); numbers below the line are bootstrap frequencies >50%. A and B are the nodes discussed in Figure 10.
+In these examples I have attempted to ignore a fundamental stability so as to illustrate the operation of this method. This method works best when one is working towards stability from a large number of trees. Unless one can effectively ignore the mostparsimonious topology (in this case the primary trunk), one cannot discount that the stable arrangement will affect the outcome of the application of this method. This may be why I keep getting a topology identical to the primary trunk, and why I found the same number of trees when relaxing parsimony the 􏱍rst and second times.
+This procedure illustrates the dif􏱍culty of identifying which taxa are varying (Fig. 8).
+Given three taxa with the basal two alternating positions, which taxon is the unstable one? There are two approaches to answering this question. The most conservative is to count both as variable, having in this case two alternate positions, which is how taxa were scored above. The other approach is to examine overall stability. If a taxon is always basal to a clade found to be invariant in the Adams consensus tree, except when a taxon is placed just basal to it in a subset of component trees, then arguably the position of the 􏱍rst taxon is stable. By this criterion, Sparodus validens scores as being equally as variable as Odonterpeton triangulare. Deletion of
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+180 SYSTEMATIC BIOLOGY VOL. 50
+  FIGURE 7. Adams consensus of 38 MPTs of the trunk at one step from most parsimonious. Variable taxa are listed with the number of positions they occupy in the component trees.
+Sparodus still produces two MPTs, whereas pruning Odonterpeton yields four. According to the steps for 􏱍nding the phylogenetic trunk outlined above, Sparodus would be selected for removal.
+DISCUSSION ThetrunkhasbeenrootedonAcanthostega.
+This places Greererpeton at the base of the tree, followed by a monophyletic Temnospondyli, and a succession of Proterogyrinus, Seymouria,
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001
+ANDERSON—LEPOSPONDYL MISSING DATA 181
+   FIGURE 8.
+(b), which taxa are variable? The conservative approach adopted here counts both taxon A and B as variable for two positions. If these two taxa were the most variable in the data set, they would each be excised to see which would produce the fewest MPTs when removed. An alternate approach would examine all component trees; if taxon A is always just outside clade X (as in b), then taxon B would be scored as variable, having been interpolated between A and X in (a).
+and Limnoscelis. This succession of outgroups, and the placement of lepospondyls as sister group to amniotes (Limnoscelis), closely follow the pattern of Carroll (1995) and Laurin and Reisz. Note that this study was not intended to be an overall analysis of Paleozoic tetrapod relationships; instead, my focus in character selection was on 􏱍nding lepospondyl apomorphies. The tolopogy is consistent with that found by Carroll and Laurin and Reisz; however, the relatively low bootstrap support and rapid proliferation of trees found as one moves away from the most-parsimonious (a result of homoplasy and the lack of plesiomorphic forms between
+FIGURE 9. Single MPT (376 steps, CI D 0.56, RI D 0.47) produced by excluding all taxa with >10% of data missing. This tree differs from the trunk by 􏱍nding a traditional Anthracosauria (Proterogyrinus, Seymouria, and Limnoscelis), placing Greererpeton rather than amniotes (Limnoscelis) as outgroup to lepospondyls, and rearranging lepospondyl relationships. Taxa with large amounts (>70%) of missing data still help determine tree shape, so arbitrarily excluding them from an analysis is potentially misleading.
+each group of lepospondyls, confounded by large amounts of missing data) suggest that we are far from a 􏱍nal solution to the problem of Paleozoic tetrapod relationships.
+The Lepospondyli is con􏱍rmed to be monophyletic, most obviously diagnosed by the presence of an odontoid process on the atlas (subsequently reduced and lost in nectrideans). The Microsauria is found to be paraphyletic. The most basal lepospondyls are Utaherpeton and Hyloplesion, followed by a dichotomy that places, on one side, the remaining microbrachimorphs (without the brachystelechids) as sister groups to adelospondylids, nectrideans, a ̈õ stopods, and lysorophids. The nectrideans are possibly paraphyletic; the clade composed of lysorophids and a ̈õ stopods is placed within Nectridea as sister group to the diplocaulids. This topology has little bootstrap support,
+Given the alternate topologies in (a) and
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+182 SYSTEMATIC BIOLOGY VOL. 50
+ and it is lost one step from most parsimonious. Close relations between nectrideans and a ̈õstopods have long been accepted, based on the fused vertebrae, the articulations accessory to the zygopophyses, and the presence of intravertebral spinal nerve foramina(presentina ̈õstopodsandthenectrideans Sauropleura bairdi [Bossy and Milner, 1998] and Crossotelos, which could be conspeci􏱍c [Carlson, 1999]). Additionally, the oldest a ̈õ stopod, Lethiscus stocki, and the ophiderpetontid Coloraderpeton, neither of which was included in the present study, have crenulated neural spines, broadly similar to the morphology found in nectrideans. The question of whether a ̈õ stopods belong within Nectridea aside, very close relationship between the two groups seems likely.
+On the other side of the dichotomy lie the tuditanomorph microsaurs. At its base are Odonterpeton, the Hapsidopariontidae, Tuditanus, Asaphestera, and a clade of microsaurs with overturned snouts, consisting of Micraroter C Pelodosotis, the gymnarthrids, pantylids, and goniorhynchids C caecilians C brachystelechids. Eocaecilia is well established as a tuditanomorph. As hypothesized by Carroll and Currie (1975), its immediate outgroup is Rhynchonkos, and despite »60 million years of divergent evolution, it is consistently placed as sister group to the brachystelechid microsaurs, sharing characters associated with skull and jaw consolidation and multicuspid teeth. This whole assemblage is placed as sister group to the gymnarthrids.
+Bolt (1991) distinguished between the multicuspid teeth of lissamphibians and brachystelechids. He noted that the cusps of brachystelechids run anterior-posteriorly, while those of lissamphibians are placed labio-lingually. This he correlated with tooth pedicelly, which is absent within brachystelechids but present in dissorophoid temnospondyls and lissamphibians, including Eocaecilia. This hypothesis suggests that multicuspid teeth were acquired in the most recent ancestor of caecilians and brachystelechids, and pedicelly was either lost in brachystelechids or acquired in caecilians. In the future, inclusion of other lissamphibians may shed additional light on this question. The present hypothesis, which tentatively suggests an origin of caecilians separate from frogs (assuming a temnospondyl origin), has received support from molecular (Feller and
+Hedges, 1998) and developmental (Carroll et al., 1999) studies.
+This tree contrasts with the results obtained from arbitrary taxonomic exclusion. Excluding taxa with >10% data missing (a value equivalent to that used in the literature; Rowe, 1988; Grande and Bemis, 1998) produces a single tree (CI D 0.56, RI D 0.47; Fig. 9) that includes only six lepospondyl taxa and all of the outgroups except Dendrerpeton. A monophyletic Anthracosauria is found, with the temnospondyls as its outgroup. This assemblage is sister group to Greererpeton and the lepospondyls. The topology does not achieve the arrangement of the trunk until a completeness criterion of 60% is used, which demonstrates that taxa >50% incomplete are contributing to determining the tree shape accepted as the trunk. Applying arbitrary completeness criteria reduces both the taxonomic scope of the study and topological variants.
+Exploring the Effect of Problem Taxa
+Two problem taxa were responsible for producing many additional MPTs. Whether this re􏱎ects real character con􏱎ict or only the effect of missing data needs to be examined. If the former, the problem taxa should be retained, if the latter, we should understand how the missing data are operating.
+The effect of Lepterpeton is clear from the initial MPTs. It is equally parsimonious to place it in two different positions on the tree (Fig. 10), in a typical “wild card” fashion (Nixon and Wheeler, 1992). Examination of the specimen shows that it is most probably a poorly known sauropleurine, and its removal yields a single tree.
+Accepting all trees one step from most parsimonious from this trunk produces 38 trees. They fall into two major groupings: those with nodes A and B in the same position as in the trunk, and those in which they switch positions. The former is the only variant found when Sparodus is removed, whereas the latter is the only variant produced by the removal of Odonterpeton. In the switched topology (Fig. 10b), the tuditanomorphs become paraphyletic. This reversal is assisted in part by the highly incomplete Mazon Creek microsaur and the fairly incomplete Adelogyrinus, creating character ambiguity. Removal of the Mazon Creek microsaur eliminates this topologic variant even when both
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001
+ANDERSON—LEPOSPONDYL MISSING DATA 183
+  FIGURE 10.
+the 38 MPTs at an additional step away from the trunk. (a) Clade A is within a succession of tuditanomorph microsaurs. (b) Clade A is outgroup to most tuditanomorph microsaurs, which are attracted to Microbrachis, Mazon Creek, and Clade B. This is possible because the large amount of missing data in the Mazon Creek microsaur and Adelogyrinus (the most basal member of Clade B) creates suf􏱍cient ambiguity to allow the tuditanomorphs to “evolve” towards a Clade B condition. Removal of the Mazon Creek microsaur eliminates variant b. See Figure 6 for details of clades A and B.
+Odonterpeton and Sparodus are retained. It’s removal also produces only a single MPT, which is the solution found by following the alternative procedure outlined above. In matrices with a large proportion of missing data, the absence or presence of a single taxon may produce a radical shift in topology.
+The fact that elongate morphotypes (a ̈õ stopods and lysorophids) cluster despite the attempted elimination of the correlated character complex is not surprising. Lee (1999), in an analysis of squamate phylogeny, found a well-supported elongatelimbless clade of snakes, amphisbaenids, and dibamids. Inclusion of important fossils (mosasauroids, Sineoamphisbaena , and Pachyrhachis) pulled the snakes away from the limbless clade. Yet, when Lee attempted
+various differential weighting schemes, he always recovered the limbless clade unless the fossils were included. Inclusion of appropriate taxa, with the differing character suites that diagnose them, would seem to be the only mechanism for correct determination of phylogeny in these instances (Gauthier et al., 1988b; Graybeal, 1998; Halanych, 1998). In the absence of these fossils, one can only indicate clades that might be due to such a morphotypic clustering and reexamine the included taxa in light of the resulting phylogeny. Perhaps careful reexamination of the oldest and presumably more primitive a ̈õ stopod Lethiscus will illuminate whether the a ̈õ stopod–lysorophid clade is realistic.
+Donoghue et al. (1989) and Novacek (1992b) stated that fossils were most likely to change tree topology when large morphologic gaps or branches with numerous apomorphies are present. A long branch, they argued, should not be considered only the result of anagenesis; indeed, a series of species or even whole clades could 􏱍t into that position. This is the situation Lee (1999) found, where the well-supported dibamid– amphisbaenid–snake clade (Bremer index of 25, bootstrap support of 100%) separated when all relevant taxa were included. Interpreting nodes with such values should be done cautiously.
+CONCLUSIONS
+The Lepospondyli is a monophyletic taxon with some well-established internal branches. This cladogram shows lepospondyl relationships with stem amniotes, similar to the 􏱍ndings of Carroll (1995) and Laurin and Reisz (1997). The Microsauria is found to be paraphyletic, and the Nectridea may include the A ̈õ stopoda, although bootstap analysis shows little support for this exact topology. The present study creates a basic framework for future morphologic and phylogenetic studies of these groups.
+Taxa with important missing data may be incorporated into the tree construction phase by using the iterative phylogenetic trunk method. Any effect of a problematic taxon may be examined in light of the stable trunk, and the biological possibility of proposed different topologies can be established in a relatively controlled manner. Given the large amount of missing data in this matrix (21.8% of the matrix is coded “?”; 26.8% unknown or
+Two topological variants found within
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+184 SYSTEMATICBIOLOGY VOL. 50
+ inapplicable) and the quantity of homoplasy to be expected among a large number of relatively similar species, the resolution found with the inclusion of so many taxa is satisfying. Within the urocordylid nectrideans, Ctenerpeton has 76.9% unknown characters, yet its placement is stable. Lepterpeton, on the other hand, has 67.6% unknown characters and causes instability. Arbitrary exclusion of incomplete taxa is thus not the most effective use of the relevant information.
+Despite attempts to remove in􏱎uences of correlated character complexes, an elongate clade of lysorophids and a ̈õ stopods is found. Differential weighting schemes, of which exclusion is one extreme, have previously been attempted with similar results (Lee, 1999). Inclusion of transitional fossils seems to be the only way to break the attraction of long branches (Gauthier et al., 1988b; Lee, 1999). However, nodes where transitional forms may be hypothesized to have an effect on branch length are those found to be wellsupported by decay indices; caution is urged in their interpretation.
+Several areas for further study are revealed by this analysis. Generally, the anatomy of included taxa may be reexamined in light of this hypothesis. The a ̈õ stopod–lysorophid clade can be tested by the inclusion of the oldest a ̈õ stopod (indeed, oldest lepospondyl) Lethiscus (Wellstead, 1982). Further preparation of the type of Utaherpeton would enable more complete character coding and might restore microsaurian monophyly. Insight into the origin of caecilians is provided by this hypothesis. Reexamination of the critical but very poorly known Acherontiscus (Carroll, 1969, 1998c) might help 􏱍ll in the morphologic gap between “labyrinthodonts” and lepospondyls. Including characters from the newly described oldest microsaur from Goreville, Illinois (Lombard and Bolt, 1999), will doubtless re􏱍ne our views of early lepospondyl evolution.
+ACKNOWLEDGMENTS
+I thank Maureen Kearney, whose well-timed questions and comments improved my critical thinking about the problem of missing data. Christopher Brochu, Joseph Felsenstein, and Thomas Holtz helped me become oriented within the systematics literature, although I am solely responsible for any omissions. Various versions of the manuscript have bene􏱍ted from review by Michael Caldwell, Robert Carroll, Robert Holmes, Michel Laurin, Alison Murray, Joseph
+Slowinski, and the editors. This research was supported by the Natural Science and Engineering Research Council of Canada.
+REFERENCES
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+188 SYSTEMATIC BIOLOGY VOL. 50
+ 22.External naris in dorsal view. 0: exposed; 1: not exposed.
+23. Dorsal exposure of premaxilla. 0: broad; 1: narrow; 2: none. This character refers to the dorsal width of the nasal ramus of the premaxilla.
+24. Dorsal shape of skull. 0: triangular; 1: diamond.
+25. Posterior skull margin. 0: concave; 1: straight; 2: convex; 3: undulating. From Schultze and Foreman (1981), who correlated this character to locomotor patterns.
+26. Antorbital region. 0: blunt; 1: pointed.
+27. Antorbital region. 0: short; 1: long.
+28. Quadrate braced by an internal 􏱎ange of
+sqamosal. 0: absent; 1: present. This 􏱎ange reinforces the quadrate ramus of the pterygoid. As such, this character must be distinguished from the similarly named character of Laurin and Reisz (1997: their character 38), which is ascribed to most taxa.
+29. “Otic” or squamosal notch. 0: present; 1: absent.
+30. Raised orbital rim. 0: absent; 1: present. Carroll and Gaskill (1978) associated this character with depth of overlying integument, but it seems to be present within taxa with both shallow and deep tissue (as indicated by degree of dermal ornamentation).
+31. Postorbital. 0: present; 1: absent.
+32. Jugal–postorbital tongue-in-groove joint. 0: absent; 1: present. Bossy (1976) cited this as part of the kinetic system of the urocordylid nectridean skull. This may be homologous with the similar joint in some a ̈õ stopods, but in their case the dorsal participant is the postfrontal, the postorbital presumably having been lost. (This character was thus coded as inapplicable in a ̈õ stopods.)
+33. Postorbital participation in the orbital margin. 0: present; 1: absent.
+34. Parietal–postorbital contact. 0: absent; 1: present. 35. Parietal–squamosal contact. 0: absent; 1: present. 36. Parietal–tabular contact. 0: absent; 1: present. 37. Postparietals. 0: paired; 1: fused; 2: absent.
+38. Parietal foramen. 0: present; 1: absent.
+39. Postparietals. 0: moderate; 1: large. Large is at least 75% the size of the parietals.
+40. Postparietal–squamosal contact. 0: absent; 1: present.
+41. Jugal–squamosal contact. 0: present; 1: absent.
+42. Tabular. 0: present; 1: absent. Adelogyrinus was coded for some tabular characters on the assumption that the “tabular” and “squamosal” elements of the tabular–squamosal maintained their usual topographical position relative to each other.
+43. “Tabular horns.” 0: absent; 1: present. This character is restricted to the posterior/posterolateral projecting structures on the skulls dorsal margin. The projection of the tabular (and other bones) seen in adelospondyls and embolomeres is here considered part of the “otic notch” complex.
+44. Tabular horns. 0: parallel or slightly divergent; 1: widely divergent.
+45. Sqamosal forms base of tabular horn. 0: absent; 1: present.
+46. Lateral line canal grooves. 0: present; 1: absent. Present in any stage on ontogeny.
+47.Dermal sculpturing. 0: deep circular pits; 1: shallow ridges and grooves; 2: little to none.
+48. Premaxilla anterior margin. 0: vertical; 1: overturned.
+49. Maxillar y participatio n in border of orbit. 0: absent; 1: present.
+50. Maxilla participatio n in margin of external naris. 0: present; 1: absent.
+51. Maxilla forms entire ventral margin of the external naris. 0: absent; 1: present.
+52. Maxilla. 0: longer than palatine; 1: shorter than palatine.
+53. Marginal teeth. 0: vertical; 1: turned medially.
+54. Marginal teeth largest anteriorly. 0: absent; 1: present. Tooth sizes decreases evenly from the premaxilla to the rear of the maxilla (as in sauropleurine nectrideans [Bossy, 1976; Bossy and Milner, 1998]).
+55. Marginal teeth. 0: pointed pegs; 1: blunt pegs; 2: largecones.
+56. Number of premaxillary teeth. 0:  ̧10; 1: 5–9; 2: <5.
+57. Number of maxillary teeth. 0:  ̧30; 1: 20–29; 2: <20.
+58. Teeth laterally compressed. 0: absent; 1: present.
+59. Caniform teeth mid-row. 0: absent; 1: present. The whole row (premaxilla and maxilla) is here considered. This conservative character allows equivalence of the “canine”-like tooth of Hyloplesion with the enlarged tooth of Euryodus primus, which may not be likely. This biases the study toward 􏱍nding close relationships between microsaurs and amniotes.
+60. Teeth. 0: simple points; 1: multiple cusps.
+61. Multiple cusp orientation. 0: labiolingual; 2: anterio-posterio r.
+62. Enamel 􏱎uting. 0: absent; 1: present.
+63. Labyrinthine in-folding. 0: present; 1: absent.
+Occiput
+64. Occipital pro􏱍le. 0: low and wide (height/width < 0.42); 1: high and wide (height/width 0.42–0.50); 2: high and narrow (height/width > 0.50).
+65. Supraoccipital. 0: absent; 1: present.
+66. Occipital condyle. 0: concave; 1: convex.
+67. Occipital condyle. 0: single; 1: double.
+68. Jugular foramen. 0: between opistotic and exoc-
+cipital; 1: through exoccipital.
+69. Braincase articulatio n with skull roof. 0: strongly
+integrated; 1: loosely articulated .
+70. Jaw articulation. 0: posterior to occiput; 1: even
+with occiput; 2: anterior to occiput; 3: far anterior (>20% BSL). The subdivision of the state “anterior to occiput” per Schultze and Foreman (1981).
+Palate and Braincase
+71. Internal nares. 0: widely separated; 1: narrowly separated.
+72. Palatine teeth. 0: present; 1: absent. Teeth are here distinguished from denticles on the basis of size, degree of elaboration, and pattern of implantation.
+73. “Palatal” teeth. 0: single pit-pairs; 1: multiple, in rows; 2: multiple, random.
+74. Vomerine teeth. 0: present; 1: absent.
+75. Denticles on pterygoid. 0: present; 1: absent.
+76. Teeth on pterygoid. 0: absent; 1: present.
+77. Denticles on vomers. 0: present; 1: absent.
+78. Denticles on palatines. 0: present; 1: absent.
+79. Denticles on parasphenoid. 0: present; 1: absent. 80. Palatal teeth. 0: larger than marginals; 1: equal to
+marginals; 2: smaller than marginals.
+81. Parasphenoid. 0: medial to stapes; 1: extends lat-
+erally under footplate of stapes.
+82. Basipterygoid articulation. 0: loose; 1: sutured or
+fused.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 ANDERSON—LEPOSPONDYL MISSING DATA 189
+ 83. Stapes. 0: perforated stem; 1: imperforate stem; 2: no stem.
+84. Footplate of stapes. 0: oval; 1: round; 2: palmate. 85. Dorsal process of stapes. 0: absent; 1: present. 86. “Accessory ossicle.” 0: absent; 1: present.
+87. Pleurosphenoid. 0: unossi􏱍ed; 1: ossi􏱍ed.
+88. Sphenethmoid. 0: ossi􏱍ed; 1: unossi􏱍ed.
+89. Interpterygoid vacuities. 0: narrow (“closed”); 1: wide; 2: sutured at midline. See text for discussion.
+90. Pterygoids contact anteriorly. 0: present; 1: absent.
+91. Pterygoid–exoccipital contact. 0: absent; 1: present.
+92. Ectopterygoid. 0: present; 1: absent.
+93. “Pharangobranchial pouches.” 0: absent; 1: present. These are large chambers behind the quadrate ramus of the pterygoids and the opisthotic present in Diplocaulus and Diploceraspis (Beerbower, 1963).
+Jaw
+94. Dentary relative to jaw length. 0: long; 1: short. Long is at least two-thirds of the entire jaw length.
+95. Dentary forms “coronoid process.” 0: absent; 1: present. Refers only to the dentary participation in this structure.
+96. Surangular. 0: normal; 1: reduced; 2: absent.
+97. Angular. 0: narrow; 1: deep. Deep is more than one-half the entire jaw height.
+98. Number of splenals. 0: two; 1: one; 2: none.
+99. Lateral splenal exposure. 0: present; 1: absent. 100. Number of Meckelian fossae. 0: two or more; 1:
+one; 2: none.
+101. Ventral border of Meckelian fossa/ae. 0: splenal;
+1: angular.
+102. Retroarticular process. 0: absent; 1: present.
+103. Retroarticular process. 0: straight; 1: hooked. 104. Mandible articulation to tooth row. 0: above; 1:
+equal; 2: below.
+105. Anterior extent of angular in lateral view. 0: pos-
+terior tooth row; 1: middle of tooth row.
+106. Number of coronoids. 0: three; 1: two; 2: one; 3:
+none.
+107. Coronoid teeth. 0: present; 1: absent.
+108. Coronoid teeth. 0: larger than marginals; 1: equal
+to marginals; 2: smaller than marginals.
+109. Symphysis. 0: dentary alone; 1: dentary and sple-
+nal.
+110. Jaw sculpture. 0: present; 1: absent. 111. Ossi􏱍ed hyoids. 0: present; 1: absent.
+Vertebrae and Ribs
+112. Number of vertebral accessory articulations. 0: none; 1: one; 2: two or more.
+113. Strong lateral ridge between preand postzygopophyses. 0: absent; 1: present.
+114. Caudal processes on centra between depressions. 0: absent; 1: present. Per Bossy (1976).
+115. Trunk intercentra. 0: present; 1: absent.
+116. Atlas–axis intercentra. 0: present; 1: absent.
+117. Trunk neural arch to centrum. 0: loosely articu-
+lated; 1: sutured; 2: fused.
+118. Base of neural spine. 0: equal to or wider than
+base of the haemal spine; 1: smaller than haemal spine. 119. Height of neural spines. 0: even throughout; 1:
+alternating.
+120. Dorsal neural spine. 0: narrow and smooth; 1:
+laterally broad and sculpted.
+121. Neural spine shape. 0: ant-post sides parallel (rectangular); 1: strongly nonparallel (triangular).
+122. Dorsal neural spine. 0: smooth; 1: crenulated. 123. Haemal arches. 0: present; 1: absent.
+124. Haemal arches. 0: intercentral; 1: fused to mid-
+length of centrum.
+125. Haemal arches. 0: longer than or equal to neurals;
+1: shorted than neurals.
+126. Haemal accessory articulations. 0: none; 1: one;
+2: two.
+127. Haemal arch shape. 0: nonparallel (triangular);
+1: parallel (rectangular).
+128. Tail. 0: tapers; 1: deep throughout with a sudden
+end.
+129. Trunk neural arches. 0: paired; 1: fused.
+130. Spinal nerve foramina. 0: absent; 1: present. 131. Transverse processes. 0: short; 1: extended (more
+than twice the lateral distance covered by the zygopophyses).
+132. Transverse process. 0: on arch pedicle; 1: on centrum.
+133. Anterior articulating surface of atlas. 0: equal in diameter to posterior; 1: laterally expanded.
+134. Atlas centrum. 0: multipartite; 1: single notochordal; 2: single odontoid.
+135. Atlas neural arch. 0: loosely articulated; 1: sutured to centrum; 2: fused to centrum.
+136. Atlas parapophyses. 0: on centrum; 1: on transverse process; 2: absent.
+137. Atlas neural arch. 0: paired; 1: sutured at midline; 2: fused at midline.
+138. Atlas accessory articulation. 0: absent; 1: zygosphene; 2: zygantra.
+139. Proatlas. 0: present; 1: absent.
+140. Second cervical neural arch. 0: expanded relative to more posteriorneural arches; 1: equal to more posterior; 2: shorter than more posterior.
+141. Atlas ribs. 0: one pair; 1: two pairs; 2: absent. 142. Cervical rib distal shape. 0: spatulate; 1: pointed. 143. Ribs immediately anterior to sacrum. 0: shorter
+than more anterior ribs; 1: as long as more anterior ribs. 144. Costal process at rib head. 0: absent; 1: present. This process in advanced a ̈õ stopods gives the rib head a
+distinctive “k-shape.”
+145. Number of sacrals. 0: one; 1: two; 2: three.
+146. Sacral parapophysis. 0: on centrum; 1: on trans-
+verse process.
+147. Number of pairs of caudal ribs. 0: 􏱍ve or more;
+1: four; 2: three; 3: two or fewer.
+Pectoral Girdle and Limbs
+148. Interclavicle posterior stem. 0: absent or short; 1: long.
+149. Interclavicle posterior stem. 0: wide; 1: narrow. 150. Interclavicle. 0: diamond shaped; 1: t-shaped. 151. Interclavicle anterior plate. 0: broad; 1: narrow. 152. Interclavicle shape-diamond. 0: broad diamond;
+1: narrow diamond. Only diamond-shaped interclavicles were coded.
+153.Interclavicleanterior􏱍mbration.0:present;1:absent.
+154. Interclavicle sculpture. 0: present; 1: absent.
+155. Cleithrum. 0: rounded or pointed dorsally; 1: tor y-shaped dorsally.
+156. Clavicle blades. 0: widely separate; 1: articulate medially; 2: interdigitate.
+157. Supraglenoid foramen. 0: present; 1: absent.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+190 SYSTEMATIC BIOLOGY
+VOL. 50
+ 158. Number of coracoid foramina. 0: none; 1: one; 2: two.
+159. Scapulocoracoid occi􏱍cation. 0: present; 1: scapula only; 2: absent.
+160. Entepicondylar foramen. 0: present; 1: absent. 161. Torsion in humerus. 0: absent; 1: <80± 2: >80±. 162. Deltapectoral crest. 0: weak; 1: intermediate; 2:
+prominent.
+163. Supinator process. 0: absent; 1: present.
+164. Humerus length. 0: long; 1: short. Long is de-
+􏱍ned as equal or greater than the length of four dorsal vertebrae.
+165. Humerus:radius. 0:  ̧0.7; 1: 0.5–0.7; 2: <0.5. These (and all continuously distributed characters) are divided on the basis of gaps in the distribution of values.
+166. Olecranon process. 0: unossi􏱍ed; 1: ossi􏱍ed.
+167. Carpals. 0: fully or partially ossi􏱍ed; 1: unossi􏱍ed.
+168. Number of digits in manus. 0: 􏱍ve or more; 1: four; 2: three.
+Pelvis Girdle and Limbs
+169. Pelvis. 0: elements fused; 1: sutured; 2: poorly ossi􏱍ed.
+170. Ilium. 0: two dorsal processes; 1: narrowly bifurcate; 2: single blade.
+171. Pubo–ischiadic plate extent. 0: six vertebrae; 1: 􏱍ve vertebrae; 2: four vertebrae; 3: three vertebrae.
+172. Internal trochanter-articulation . 0: distinct; 1: continuous.
+173. Femoral shaft. 0: robust; 1: slender. Slender is width:length <0.20.
+174. Femur. 0: long; 1: short. Long is de􏱍ned as at least as long as four vertebral centra.
+175. Distal tibia. 0: expanded; 1: not expanded.
+176. Tarsals. 0: ossi􏱍ed; 1: unossi􏱍ed. Any ossi􏱍ed podial constituted a score of “0”.
+177. Number of distal tarsals. 0: six; 1: 􏱍ve or fewer. 178. “Astragulus.” 0: absent; 1: present.
+179. Number of digits, pes. 0: 􏱍ve or more; 1: four or
+less.
+Body Size and Proportion
+180. Number of presacral vertebrae. 0: 25–35; 1: <25; 2: >35. This division was intended to capture general elongation(orreduction)trendswhileavoidingtheissue of limbless ecomorph long branch attraction (Lee, 1999).
+181. Basal skull length. 0: >70 mm; 1: 50–70 mm; 2: 30–50 mm; 3: <30 mm. This character is split along gaps in the distribution.
+182. Skull:trunk. 0:  ̧0.45; 1: 0.30–0.45; 2: 0.20–0.29; 3: <0.20.
+APPENDIX 2. NODE SUPPORT FOR LEPOSPONDYLI AS DETERMINED BY MACCLADE 3.07.
+All characters are unambiguous. Note that character reconstructions are not sensitive to inapplicable data. Previously named clades, except monotypic families, are indicated. Paraor polyphyletic taxa are indicated by quotation marks.
+Terminal Apomorphies
+Greererpeton—Total changes along branch: 21
+10. Present!absent; 20. Ossi􏱍ed!unossi􏱍ed; 21. Distant from ! present; 25. Concave ! undulating; 29. Present ! absent; 69. Strongly integrated ! loosely articulated; 77. Present ! absent; 78. Present ! absent; 106. 3 ! 2; 108. Larger than marginals ! equal to
+marginals; 131.
+pointed; 143.
+156. Widely separate ! articulate medially; 157. Present ! absent; 164. Long ! short; 171. 6 vertebrae ! 4 vertebrae; 176. Ossi􏱍ed ! unossi􏱍ed; 180. 25–35 !>35; 182.  ̧0.45 ! 0.20–0.29
+Balanerpeton—Total changes along branch: 3
+Absent ! present; 142. Spatulate ! Short ! long; 151. Broad ! narrow;
+20. Ossi􏱍ed!unossi􏱍ed; 97. Narrow!deep; 129. Fused ! paired
+Dendrerpeton—Total changes along branch: 4
+99. Present ! absent; 101. Splenal ! angular; 171. 6 vertebrae ! 5 vertebrae; 173. Slender ! robust Proterogyrinus—Total changes along branch: 2
+64. Low and wide!high and narrow; 78. Present ! absent
+Seymouria baylorensis—Total changes along branch: 5
+87. Unossi􏱍ed!ossi􏱍ed; 89. Narrow!fused at midline; 156. Widely separate ! articulate medially; 174. Long ! short; 180. 25–35 ! <25 Limnoscelis—Total changes along branch: 10
+3. Absent!present; 26. Blunt!pointed; 37. Paired ! fused; 48. Vertical ! overturned; 54. Absent ! present; 56. 5–9 ! <5; 71. Widely separated ! narrowly separated; 76. Absent ! present; 120. Narrow and smooth ! laterally broad and sculpted; 178. Absent ! present
+Utaherpeton—Total changes along branch: 9
+12. Only ventral present ! dorsal and ventral present; 21. Distant from ! present; 49. No ! yes; 55. Pointed pegs ! blunt pegs; 105. Posterior tooth row ! middle of tooth row; 159. Both ! scapula only; 165. 0.5–0.7 !  ̧0.7; 176. Ossi􏱍ed ! unossi􏱍ed; 180. 25– 35!<25
+Hyloplesion—Total changes along branch: 8
+40. Absent!present; 52. Longer than palatine! shorter than palatine; 84. Oval ! round; 131. Absent ! present; 160. Present!absent; 165. 0.5–0.7!<0.5; 171. 6 vertebrae/5 vertebrae ! 4 vertebrae; 182. 0.30–
+0.45 ! 0.20–0.29
+Tuditanus—Total changes along branch: 8
+12. Only ventral present ! dorsal and ventral present; 25. Undulating!concave; 70. Anterior to occiput ! even with occiput; 90. Absent ! present; 94. Long!short; 105. Posterior tooth row!middle of tooth row; 110. Absent ! present; 159. Both ! absent Asaphestera—Total changes along branch: 10
+54. Absent!present; 57. 20–29! ̧30; 64. High and wide!high and narrow; 76. Absent!present; 151. Narrow ! broad; 154. Absent ! present; 162. Prominant ! intermediate; 169. Sutured ! poorly ossi􏱍ed; 181. <30 mm ! 30–50 mm; 182. 0.30–0.45 ! 0.20–0.29 Pantylus—Total changes along branch: 12
+30. Present ! absent; 38. Present ! absent; 53. Turned medially!vertical; 70. Far anterior!even with occiput; 110. Absent!present; 111. Absent! present; 119. Even ! alternating; 143. Short ! long; 156. Articulate medially ! interdigitate; 160. Absent ! present; 172. Disctinct ! continuous; 181. <30 mm ! 50–70 mm
+Stegotretus—Total changes along branch: 5
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 ANDERSON—LEPOSPONDYL MISSING DATA 191
+ 70. Far anterior ! anterior to occiput; 102. Present ! absent; 104. Below ! above; 156. Articulate medially ! widely separate; 169. Sutured ! poorly ossi􏱍ed
+Sparodus—Total changes along branch: 9
+24. Triangular ! diamond; 62. Absent ! present; 95. Present ! absent; 99. Absent ! present; 100. 1 ! 0; 151. Narrow ! broad; 165. <0.5 ! 0.5–0.7; 171. 6 vertebrae ! 5 vertebrae; 181. <30 mm ! 30–50 mm Cardiocephalus sternbergi—Total changes along branch: 5
+49. No ! yes; 75. Present ! absent; 76. Absent ! present; 77. Present ! absent; 78. Present ! absent Cardiocephalus peabodyi—Total changes along branch: 2
+159. Both ! scapula only; 169. Sutured ! poorly ossi􏱍ed
+Euryodus primus—Total changes along branch: 4
+15. Absent ! present; 38. Present ! absent; 68. Between opistotic and exoccipit ! through exoccipital;
+rated ! narrowly separated; 81. Medial of stapes ! under footplate of stapes; 83. Imperforate stem ! no stem; 90. Absent ! present; 107. Present ! absent; 129. Fused ! paired; 134. Single odontoid ! single notochordal; 137. Fused at midline ! sutured at midline; 141. One pair ! two pairs; 159. Both ! absent; 160. Present ! absent
+Microbrachis—Total changes along branch: 4
+170. Single blade ! narrowly bifurcate; 175. Expanded ! not expanded; 180. 25–35 ! >35; 182. 0.30–
+0.45 ! 0.20–0.29
+Mazon Creek—Total changes along branch: 4
+90. Pterygoids contact anteriorly: absent ! present; 147. Number of pairs of caudal ribs: 3 ! 2 or fewer; 169. Pelvis: sutured ! poorly ossi􏱍ed; 176. Tarsals: ossi􏱍ed ! unossi􏱍ed
+Sauropleura pectinata—Total changes along branch: 1
+56. 5–9! ̧10
+Sauropleura bairdi—Total changes along branch: 1
+130. Absent!present
+Sauropleura scalaris—Total changes along branch: 5
+74. Present ! absent; 138. Zygantra ! zygosphene; 163. Absent ! present; 167. Unossi􏱍ed ! fully or partially ossi􏱍ed; 169. Poorly ossi􏱍ed ! fused Ptyonius—Total changes along branch: none unambiguous
+Ctenerpeton—Total changes along branch: 1
+169. Poorlyossi􏱍ed!fused Urocordylus—Total changes along branch: 7
+125. Longer than or equal to neurals ! shorter than neurals; 162. Weak ! prominant; 165.  ̧0.7 ! 0.5–0.7; 166. Unossi􏱍ed ! ossi􏱍ed; 169. Poorly ossi􏱍ed ! sutured; 173. Slender ! robust; 182. 0.30–0.45 ! 0.20–0.29 Keraterpeton galvani—Total changes along branch: 3
+49. Yes!no;56.5–9!<5;74.Present!absent Batrachiderpeton—Total changes along branch: 5
+21. Present!near; 64. Low and wide!high and wide; 133. Same size as posterior ! laterally expanded; 140. Equal to more posterior ! shorter than more posterior; 147. 2 or fewer ! 4
+Diceratosaurus—Total changes along branch: none unambiguous
+Diplocaulus magnicornis—Total changes along branch: 2
+22. Exposed!notexposed;97.Deep!narrow Diplocaulus primus—Total changes along branch: none unambiguous
+Diploceraspis—Total changes along branch: 8
+9. Present!absent; 28. Present!absent; 74. Present ! absent; 92. Absent ! present; 95. Absent ! present; 112. 1 ! 2 or more; 126. 0 ! 1; 134. Single notochordal ! single odontoid
+Brachydectes—Total changes along branch: 19
+12. Only ventral present ! dorsal and ventral present; 13. Present ! absent; 40. Absent ! present; 65. Absent ! present; 70. Anterior to occiput ! far anterior ; 71. Widely separated ! narrowly separated; 72. Present ! absent; 81. Medial of stapes ! under footplate of stapes; 84. Oval ! round; 87. Unossi􏱍ed ! ossi􏱍ed; 90. Present ! absent; 94. Long ! short; 95. Absent ! present; 112. 1 ! 0; 117. Fused ! sutured; 129. Fused ! paired; 134. Single notochordal ! single odontoid; 135. Fused to centrum ! sutured to centrum; 137. Fused at midline ! paired
+Oestocephalus—Total changes along branch: 8
+2. Absent!present; 7. Sutural!weakly overlapping’ 22. Exposed ! not exposed; 23. Broad ! narrow; 41. Present ! absent; 57. <20 !  ̧30; 70. Anterior to
+102. Absent ! present
+Euryodus dalyae—Total changes along branch: 1
+62. Present!absent
+Rhynchonkos—Total changes along branch: 3
+71. Widely separated ! narrowly separated; Absent ! present; 178. Present ! absent Eocaecilia—Total changes along branch: 14
+9. Present ! absent; 31. Present ! absent; 38.
+sent ! absent; 48. Overturned ! vertical;
+No ! yes; 53. Turned medially ! vertical; 56. 5–
+9 !  ̧10;
+Absent ! present; 132. On arch pedicle ! on centrum;
+57. <20 !  ̧30; 92. Present ! absent; 130.
+146. On centrum ! on transverse process; 168. 179. 5 or more ! 4 or less
+Batropetes—Total changes along branch: 2
+50. Present!absent;98.0!1 Carrolla—Total changes along branch: 4
+12. Only ventral present ! dorsal and
+present; 20. Unossi􏱍ed ! ossi􏱍ed; 22. Not exposed ! exposed; 23. None ! broad
+Quasicaecilia—Total changes along branch: 3
+21. Present ! near; 64. High and wide ! high and narrow; 85. Absent ! present
+Pelodosotis—Total changes along branch: 11 12. Only ventral present ! dorsal and
+ventral present; 21. Distant from ! near; 30. Present ! absent; 50. Present ! absent; 64. Low and wide ! high and narrow; 85. Absent ! present; 98. 2 ! 1; 135. Fused to centrum ! sutured to centrum; 143. Short ! long; 157.
+Present ! absent; 169. Pelvis: sutured ! fused Micraroter—Total changes along branch: 7
+49. No ! yes; 55. Pointed pegs ! blunt pegs; 68. Between opistotic and exoccipit ! through exoccipital; 83. Imperforate stem ! perforated stem; 90. Absent ! present; 145. 2 ! 3; 172. Distinct ! continuous
+Hapsidoparion—Total changes along branch: 6
+4. Present ! absent; 13. Present ! absent; 64. High and wide ! low and wide; 102. Present ! absent; 111.
+Absent ! present; 117. Sutured ! loosely articulated
+Llistrofus—Total changes along branch: 5
+39. Moderate ! large; 40. Absent ! present; Little to none ! shallow ridges and grooves;
+Absent ! present; 104. Below ! equal Saxonerpeton—Total changes along branch: 3
+46. Absent ! present; 65. Present ! absent; Present ! absent
+Odonterpeton—Total changes along branch: 15
+25. Straight ! convex; 37. Paired ! fused; Present ! absent; 57. 20–29 ! <20; 71. Widely sepa-
+4 ! 3;
+ventral
+99.
+Pre49.
+47. 74.
+72.
+42.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+192 SYSTEMATIC BIOLOGY VOL. 50
+ occiput ! posterior to occiput; 79. Absent ! present Phlegethontia—Total changes along branch: 9
+9. Present ! absent; 16. Paired ! fused; 17. No ! yes; 26. Blunt ! pointed; 37. Paired ! absent; 42. Present ! absent; 51. Absent ! present; 56. 5–9 !<5; 100. 1 ! 0
+Scincosaurus—Total changes along branch: 16
+5. Absent ! present; 28. Absent ! present; Present ! absent; 37. Paired ! absent; 67. Single, with basioccipital ! double; 70. Anterior to occiput ! far anterior; 82. Loose ! sutured or fused; 118. Equal to or wider than haemal ! smaller than haemal spine; 121. Nonparallel ! anterior-posterior sides parallel; 125. Longer than or equal to neurals ! shorter than neurals; 156. Widely separate ! interdigitate; 162. Weak !
+Present ! absent 106. 3 ! 2
+Node 11—Total changes along branch: 3
+34. Present ! absent; 35. Present ! absent; 164. Short ! long
+Node 12—Total changes along branch: 7
+25. Straight ! undulating; 74. Absent ! present; 135. Sutured to centrum ! fused to centrum; 136. Absent ! on centrum; 145. 1 ! 2; 162. Weak ! prominant; 178. Absent ! present
+Node 13—Total changes along branch: 5
+47. Little to none!shallow ridges and grooves; 86. Present ! absent; 99. Absent ! present; 117. Sutured ! fused; 170. Single blade ! 2 dorsal processes
+Node 14—Total changes along branch: 7
+39. Moderate!large;48.Vertical!overturned;53. Vertical ! turned medially; 57. 20–29 ! <20; 64. High and wide ! low and wide; 88. Unossi􏱍ed ! ossi􏱍ed; 115. Absent ! present
+Node 15—Total changes along branch: 5
+22. Exposed!notexposed;25.Undulating.!con-
+vex; 69. Loosely articulate d ! strongly integrated; 70. Anterior to occiput ! far anterior; 160. Present ! absent Node 16—Total changes along branch: 4
+55. Pointed pegs!large cones; 56. 5–9!<5; 90. Absent ! present; 106. 2 ! 1
+Node 17—Total changes along branch: 5
+71. Widely separated ! narrowly separated; 92. Present ! absent; 109. Dentary alone ! dentary and splenal; 115. Present ! absent; 180. >35 ! <25
+Node 18—Total changes along branch: 3
+76. Absent!present; 116. Present!absent; 170. Single blade ! 2 dorsal processes
+Node 19—Total changes along branch: 5
+62. Absent ! present; 65. Present ! absent; 80. Equal to marginals ! smaller than marginals; 100. 1 ! 0; 102. Present ! absent
+Node 20—Total changes along branch: 2
+21. Distantfrom!near;97.Narrow!deep Node 21—Total changes along branch: 6
+23. Narrow ! none; 25. Convex ! straight; 69. Strongly integrated ! loosely articulated; 70. Far anterior ! anterior to occiput; 117. Sutured ! fused; 181. <30 mm ! 30–50 mm
+Node 22—Total changes along branch: 8
+24. Triangular!diamond; 66. Concave!convex;
+68. Between opistotic and exoccipital ! through exoccipital; 77. Present ! absent; 78. Present ! absent; 104. Below ! equal; 117. Sutured ! fused; 175. Expanded ! not expanded
+Node 23—Total changes along branch: 9
+5. Present!absent; 20. Ossi􏱍ed!unossi􏱍ed; 21.
+Distant from ! present; 35. Absent ! present; 60. Simple points ! multiple cusps; 98. 2 ! 0; 106. 2 ! 0; 145. 2!1;174.Long!short
+Node 24—Total changes along branch: 5
+17. No!yes; 25. Convex!undulating; 26. Pointed ! blunt; 37. Paired ! absent; 64. Low and wide ! high and wide
+Node 25—Total changes along branch: 2
+79. Present ! absent; 81. Under footplate of stapes ! medial of stapes
+Node 26—Total changes along branch: 8
+14. Present ! absent; 38. Present ! absent; 41. Present ! absent; 80. Equal to marginals ! smaller than marginals; 111. Absent ! present; 119. Even ! alternating; 159. Both ! scapula only; 181. <30 mm ! 50–70 mm
+prominant; 164.
+vertebrae; 172.
+0.45 ! <0.20
+Adelogyrinus—Total changes along branch: 8
+Short ! long; 171. 3 vertebrae ! 4 Continuous ! disctinct; 182. 0.30–
+6. Present ! fused; 9. Present ! absent;
+sent ! present; 29. Absent ! present; 33. Present ! absent; 68. Between opistotic and exoccipit ! through exoccipital; 159. Both ! absent; 181. <30 mm ! 30–50 mm
+Node Support
+Node 1—Total changes along branch: 5
+11. Absent ! present; 105. Middle of tooth row !
+posterior tooth row; 158. 0 ! 1; 165.  ̧0.7 ! 0.5–0.7; 170. 2 dorsal processes ! single blade
+Node 2—Total changes along branch: 5
+1. Absent ! present; 6. Present ! absent;
+bile ! sutural; 34. Present ! absent; 172. continuous
+Node 3—Total changes along branch: 6
+7. Weakly overlapping ! sutural; 19.
+present; 46. Present ! absent; 89. Narrow ! wide; 90. Present ! absent; 180. 25–35 ! <25
+Node 4—Total changes along branch: 5
+36. Absent ! present; 56.  ̧10 ! 5–9; 158. 1 ! 2; 170. Single blade ! narrowly bifurcate; 182.  ̧0.45 ! 0.30– 0.45
+Node 5—Total changes along branch: 6
+57.  ̧30 ! <20; 80. Larger than marginals ! equal to marginals; 108. Larger than marginals ! smaller than marginals; 139. Present ! absent; 145. 1 ! 2; 149. Wide ! narrow
+Node 6—Total changes along branch: 11
+1. Present ! absent; 6. Absent ! present; Present ! absent; 34. Absent ! present; 46. Present ! absent; 47. Circular pits ! little to none; 65. Absent ! present; 72. Present ! absent; 74. Present ! absent; 90. Present ! absent; 110. Present ! absent
+Node 7—Total changes along branch: 6
+57. <20 ! 20–29; 63. Present ! absent;
+29.
+115. PreLong !
+sent ! absent; 116. Present ! absent; short; 181. >70 mm ! <30 mm
+Node 8—Total changes along branch: 6
+164.
+95. Absent ! present; 121. Ant-post sides parallel ! non-parallel; 145. 2 ! 1; 147. 5 or more ! 3; 162. Prominant ! weak; 170. Narrowly bifurcate ! single blade
+Node 9—Total changes along branch: 3
+4. Absent ! present; 102. Absent ! present;
+Dentary and splenal ! dentary alone Node 10—Total changes along branch: 6
+109.
+30. Absent ! present; 64. Low and wide ! high and wide; 72. Absent ! present; 86. Absent ! present; 99.
+15. Ab-
+8. MoDistinct !
+Absent !
+34.
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012
+
+2001 ANDERSON—LEPOSPONDYL MISSING DATA 193
+ Node 27—Total changes along branch: 3
+7. Sutural ! weakly overlapping; 51.
+present; 96. Normal ! reduced
+Node 28—Total changes along branch: 2
+Absent !
+Node 38—Total changes along branch: 2 143. Short!long;179. ̧5!·4
+Node 39—Total changes along branch: 3
+39. Moderate!large; 153. Present!absent; 166.
+Unossi􏱍ed ! ossi􏱍ed
+Node 40—Total changes along branch: 8
+28. Absent!present;43.Absent!present;67.Single, with basioccipita l ! double; 82. Loose ! sutured or fused; 106. 0 ! 1; 138. Absent ! zygosphene; 155. Rounded or pointed dorsally! tor y-shaped; 156. Widely separate ! interdigitate
+Node 41—Total changes along branch: 5
+89. Narrow !fused at midline; 94. Long!short; 103. Straight ! hooked; 105. Posterior tooth row ! middle of tooth row; 125. Longer than or equal to neurals ! shorter than neurals
+Node 42—Total changes along branch: 4
+91. Absent!present;97.Narrow!deep;120.Narrow and smooth ! laterally broad and sculpted; 121. Nonparallel ! anti-post sides parallel
+Node 43—Total changes along branch: 13
+16. Paired ! fused; 17. No ! yes; 18. Present ! absent; 33. Present ! absent; 49. Yes ! no; 70. Anterior to occiput ! far anterior; 89. Narrow ! wide; 90.
+30. Present!absent;41.Present!absent Node 29—Total changes along branch: 6
+46. Absent ! present; 47. Little to none ! shallow ridges and grooves; 104. Below ! above; 110. Ab-
+sent ! present; 111. Absent ! present; 171. 6 brae/5 vertebrae ! 3 vertebrae
+Node 30—Total changes along branch: 1
+verte-
+131. Absent!present
+Node 31—Total changes along branch: 4
+49. No ! yes; 79. Present ! absent; 95. absent; 141. One pair ! absent
+Node 32—Total changes along branch: 4
+92. Present ! absent; 112. 0 ! 1; 122. crenulated; 134. Single odontoid ! single notochordal Node 33—Total changes along branch: 11
+4. Present ! absent; 72. Absent ! present; 74. Absent ! present; 78. Present ! absent; 90. Absent ! present; 131. Absent ! present; 160. Present ! absent; 161. >80± ! absent; 165. 0.5–0.7 !  ̧0.7; 167. Fully or partially ossi􏱍ed ! unossi􏱍ed; 169. Sutured ! poorly ossi􏱍ed
+Node 34—Total changes along branch: 10
+2. Absent ! present; 7. Sutural ! weakly overlapping; 12. Only ventral present ! dorsal and ventral present; 26. Blunt ! pointed; 32. Absent ! present;
+64.
+rior
+to
+sent ! zygantra; 181. <30 mm ! 30–50 mm Node 35—Total changes along branch: 7
+Low and wide ! high and wide; 70. Anteto occiput ! posterior to occiput; 80. Equal
+marginals ! smaller than marginals; 138. 15. Absent ! present;16. Paired ! fused;
+Ab-
+31. Present ! absent; 47. Shallow ridges and grooves ! little to none; 64. Low and wide ! high and narrow; 99. Present ! absent; 110. Present ! absent; 122. Crenulated ! smooth; 180. <25 ! >35; 182. 0.30–0.45 ! <0.20
+Node 46—Total changes along branch: 9
+102. Present!absent; 111. Present!absent; 121.
+Nonparallel >ant-post sides parallel; 123. Present ! absent; 130. Absent ! present; 139. Absent ! present; 144. Absent ! present; 147. ·2 !  ̧5 181. <30 mm ! 30– 50 mm
+27. Short ! long; 76. Absent ! present; 147. 3 or fewer !
+4; 152. Broad diamond ! narrow diamond; <25 ! 25–35
+Node 36—Total changes along branch: 2
+180.
+113. Absent ! present; 120. Narrow and smooth ! laterally broad and sculpted
+Node 37—Total changes along branch: 5
+49. Yes ! no; 103. Straight ! hooked; 112. 1 ! 2 or more; 114. Absent ! present; 118. Equal to or wider than haemal ! smaller than haemal spine
+Present !
+Smooth !
+Present ! absent;
+arch pedicle ! on
+posterior ! laterally
+posterior ! shorter than more centrum ! on transverse process
+Node 44—Total changes along branch: 2
+21. Present!near;99.Present!absent Node 45—Total changes along branch: 8
+132.
+size as
+to more 146. On
+93. Absent ! present;
+On
+centrum; expanded;
+133. Same 140. Equal
+posterior;
+Downloaded from http://sysbio.oxfordjournals.org/ at MBLWHOI Library on June 18, 2012

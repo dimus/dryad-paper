@@ -1,0 +1,339 @@
+ Key words: transposon, survey sequencing, Chiroptera.
+Introduction
+Eukaryotes typically display high proportions of genomic content derived from transposable elements (TEs). These repetitive sequences are capable of movement within the genome and are classified according to their mode of transposition. Most mammalian insertions can be attributed to Class I TEs, also known as retrotransposons. Their copy-and-paste method of mobilization can lead to substantial accumulations in a genome. For example, Class I TEs comprise at least 45% of the human genome (Lander et al. 2001) and some estimates place that number above 60% (de Koning et al. 2011). The cut-and-paste mobilization mechanism of Class II TEs (DNA transposons) has likely contributed to their low
+representation in the human genome, ;3%. Similarly, low proportions were identified in other mammals: ,2% of dog and opossum and ,1% of mouse and rat genomes (Waterston et al. 2002; Gibbs et al. 2004; Lindblad-Toh et al. 2005; Mikkelsen et al. 2007). However, an apparent overall lack of Class II activity in mammals in the recent past is another factor limiting the contribution of DNA transposons to mammalian genomes. Observations of various mammalian models (human, mouse, rat, and dog) have suggested a generalized shutdown of Class II TEs during roughly the same time period, ;40 Ma (Lander et al. 2001; Waterston et al. 2002; Gibbs et al. 2004; Lindblad-Toh et al. 2005). The first identified exception to this rule is the vespertilionid bats, in particular Myotis lucifugus.
+a The Author(s) 2012. Published by Oxford University Press on behalf of the Society for Molecular Biology and Evolution.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/ 3.0), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+GBE
+ Survey Sequencing Reveals Elevated DNA Transposon Activity, Novel Elements, and Variation in Repetitive Landscapes among Vesper Bats
+Heidi J. T. Paga ́ n1,5, Jirˇ ́ı Macas2, Petr Nova ́ k2, Eve S. McCulloch3, Richard D. Stevens3, and David A. Ray1,4,* 1Department of Biochemistry, Molecular Biology, Entomology, and Plant Pathology, Mississippi State University
+2Biology Centre ASCR, Institute of Plant Molecular Biology, Ceske Budejovice, CZ-37005, Czech Republic 3Department of Biological Sciences, Louisiana State University
+4The Institute for Genomics, Biocomputing and Biotechnology, Mississippi State University
+5Present address: Harbor Branch Oceanographic Institute, Florida Atlantic University
+*Corresponding author: E-mail: dray@bch.msstate.edu. Accepted: 29 March 2012
+Abstract
+The repetitive landscapes of mammalian genomes typically display high Class I (retrotransposon) transposable element (TE) content, which usually comprises around half of the genome. In contrast, the Class II (DNA transposon) contribution is typically small (,3% in model mammals). Most mammalian genomes exhibit a precipitous decline in Class II activity beginning roughly 40 Ma. The first signs of more recently active mammalian Class II TEs were obtained from the little brown bat, Myotis lucifugus, and are reflected by higher genome content (;5%). To aid in determining taxonomic limits and potential impacts of this elevated Class II activity, we performed 454 survey sequencing of a second Myotis species as well as four additional taxa within the family Vespertilionidae and an outgroup species from Phyllostomidae. Graph-based clustering methods were used to reconstruct the major repeat families present in each species and novel elements were identified in several taxa. Retrotransposons remained the dominant group with regard to overall genome mass. Elevated Class II TE composition (3–4%) was observed in all five vesper bats, while less than 0.5% of the phyllostomid reads were identified as Class II derived. Differences in satellite DNA and Class I TE content are also described among vespertilionid taxa. These analyses present the first cohesive description of TE evolution across closely related mammalian species, revealing genomescale differences in TE content within a single family.
+ Genome Biol. Evol. 4(4):575–585. doi:10.1093/gbe/evs038 Advance Access publication April 4, 2012 575
+Downloaded from http://gbe.oxfordjournals.org/ by guest on June 7, 2012
+
+ Paga ́n et al.
+GBE
+  FIG. 1.—Most recent of several possible phylogenies for the surveyed taxa. Topology and vespertilionid divergence dates are taken from Lack and Van Den Bussche (2010). The date of the Artibeus lituratus/ vespertilionid divergence is taken from Datzmann et al. (2010), and the M. lucifugus/M. austroriparius divergence is from Stadelmann et al. (2007).
+While Class I TEs still dominate the overall TE landscape in M. lucifugus, Class II TEs have played a larger role when compared with other mammals (Ray et al. 2008). For example, members of the Helitron family, with their unique rolling circle amplification mechanism, have made significant contributions to genome content (Pritham and Feschotte 2007; Thomas et al. 2011). Many Helitron insertions as well as insertions from at least eight other Class II TE families occurred much more recently than 50 Ma and some may still be mobilizing. Interestingly, these recent DNA transposon invasions coincide with rapid diversification of Myotis, a genus with nearly worldwide distribution and more than 100 species (Wilson and Reeder 2005; Stadelmann et al. 2007). TE presence and activity can generate a diverse array of effects on coding sequence and expression of host genes (Kidwell and Lisch 1997; Deininger et al. 2003). In context of recent publications highlighting the capacity of TEs to drive speciation (Oliver and Greene 2009; Zeh et al. 2009; Rebollo et al. 2010), these findings provide a potential mechanism for the adaptive radiation of Myotis. On a larger scale, Myotis is a member of Vespertilionidae, the most species rich of all chiropteran families and the second most species rich family of mammals (Simmons 2005). Investigating the degree to which the elevated Class II activity found in Myotis extends to other bats is essential to future examinations into the potential role TEs have played in the evolution of Chiroptera as a whole and Vespertilionidae in particular.
+Here, we present analyses of the TE landscapes for five additional vesper bats: Myotis austroriparius, Perimyotis subflavus, Nycticeius humeralis, Lasiurus borealis, and Corynorhinus rafinesquii (fig. 1). The genus Myotis diverged early from a monophyletic clade encompassing the other taxa, which represent a diverse sampling within Vespertilio-
+nidae and thus allow us to determine if elevated Class II levels evolved singularly within Myotis. To serve as an outgroup, we also analyzed the phyllostomid bat, Artibeus lituratus. In our analyses, we applied 454-based sequencing to survey TE content. We demonstrate the utility of this method to investigating TE dynamics in nonmodel taxa that are unlikely to be the target(s) of full genome sequencing efforts, which will aid in determining the impact of Class II TEs on mammalian genome evolution.
+Materials and Methods
+454 Sequencing and Sequence Processing
+DNA extractions were carried out on M. austroriparius, P. subflavus, N. humeralis, L. borealis, and C. rafinesquii using 5 PRIME ArchivePure DNA Tissue Kits. Sequencing was performed on genomic DNA at the Georgia Genomics Facility. Roche standard chemistry was used initially (L. borealis), but for the remaining vespertilionid samples, Titanium chemistry was utilized to accommodate lower DNA concentrations. Sample preparation and processing followed Roche protocols (October 2008).
+The A. lituratus data was acquired separately (McCulloch and Stevens 2011); phenol–chloroform DNA extraction was used, and 454 Titanium sequencing was performed at Duke University Genome Sequencing and Analysis Core Facility using standard protocols.
+Emulsion polymerase chain reaction (emPCR) drops containing only one unique template but multiple beads can produce sequencing artifacts consisting of duplicate sequences with nearly identical starting positions (Dong et al. 2011). Thus, all raw data were parsed locally using 454 Replicate Filter (http://microbiomes.msu.edu/replicates/) to remove these artifacts. Parameters were set at 0.95 sequence identity cutoff, 0 length difference requirement, and 3 beginning base pairs to check.
+Reads derived from mitochondrial sequences were identified using BlastN. In some cases, we were able to reconstruct nearly complete mitochondrial genome sequences, and these have been discussed in a separate manuscript (Meganathan et al. 2012).
+Repeat Discovery
+To identify repeat content for each genome, we modified the pipeline developed by Macas et al. (2007) and updated by Novak et al. (2010). The methods were developed for plant genomic data but are applicable to mammalian genomes with minor modifications as described below. Briefly, the analysis consists of all-to-all comparison of 454 reads using mgblast (Pertea et al. 2003) and representation of pair-wise sequence similarities exceeding the specified threshold (overlaps containing 55% or more of the longer read with 90% similarity) as edges in a virtual graph connecting the similar reads represented by graph nodes.
+ 576 Genome Biol. Evol. 4(4):575–585. doi:10.1093/gbe/evs038
+Advance Access publication April 4, 2012
+Downloaded from http://gbe.oxfordjournals.org/ by guest on June 7, 2012
+
+ Survey Sequencing Repetitive Landscapes among Vesper Bats
+GBE
+ The reads representing different families of repetitive elements can then be distinguished as clusters (communities) of frequently connected nodes within the graph. These clusters are separated and the reads are further investigated, including their assembly into contigs using cap3 with ‘‘–o 100 –p 85’’ settings.
+For each taxon in our analysis, a set of clusters consisting of contigs derived from overlapping reads was obtained. A cutoff was imposed to reduce the number of clusters analyzed to only include repeat families composing at least 0.01% of the respective genome of each species. Caution should be applied when extrapolating these data to the whole genome. Although our methods are apparently very good at identifying high copy number elements and moderate-to-low copy number families with high similarity, they will necessarily be inadequate for identifying very low copy number families and older highly diverged elements in a genome. In the former case, the reasoning is obviously due to the lack of whole genome coverage. In the latter case, the inadequacy is due to the combination of our assembly method and limiting ourselves to contigs with genome coverage of .0.01% of the genome. Highly divergent families or families with a large number of divergent subfamilies that each have low copy numbers would not assemble well in our analysis or produce multiple contigs that all fall below the 0.01% cutoff. Such scenarios would lead to underestimations in genome TE content.
+Clusters may be representative of a particular TE family and every contig a possible consensus for a TE subfamily (Macas et al. 2007; Novak et al. 2010). However, the initial assembly resulted in individual clusters with large numbers of distinct contigs within them. For instance, M. austroriparius Cluster 1 contained 748 reads, 677 of which were assembled into 20 distinct contigs. Visual examination suggested that the contigs in a majority of these clusters could be assembled further to reduce the final data set without losing information. We reassembled these primary contigs in SeqMan (match size 5 12, minimum percentage 5 70, minimum length 5 100) (DNASTAR, Madison, WI). Reassembly yielded a single contig for M. austroriparius Cluster 1 that was identified as the LINE element L1MAB_ML in RepBase. Similar results were obtained for other complex clusters in all examined taxa.
+Consensus sequences from reassembled contigs were submitted to CENSOR to assist in classifying them into one of five categories: DNA, ERV/LTR, Non-LTR/LINE, NonLTR/SINE, satellite, or unknown. In some cases, CENSOR returned hits to multiple TE families within a single contig. Such results could be caused by nested insertions or misassemblies and were addressed by splitting the contig into separate entries for the final library. Contigs were also queried with a custom library of bat-specific repeats derived from ongoing and previous analyses (Pritham and Feschotte 2007; Ray et al. 2007, 2008) using RepeatMasker. The library is available upon request.
+Contigs from M. austroriparius were submitted to NCBI BlastN to query against the current whole genome shotgun (WGS) draft of M. lucifugus (AAPE00000000). Most contigs were found in their entirety multiple times, confirming their repetitive nature. For all taxa, contigs that could not be identified were queried against the NCBI nr database using BlastN and the protein database using BlastX.
+To identify potential satellite repeats and tandem arrays, all unidentified contigs were also submitted to a local installation of Tandem Repeats Finder (Benson 1999), using the following parameters: match 5 2, mismatch 5 3, indels 5 5, PM 5 0.75, PI 5 0.20, minimum period 5 30, maximum period 5 500. Output was then submitted to TRAP (Sobreira et al. 2006). Dotter (Sonnhammer and Durbin 1995) allowed graphical confirmation of potential tandem repeats. The remaining unidentified contigs were submitted to TEclass (Abrusa ́n et al. 2009), a tool that determines the likely mode of transposition and thus aids in identification of repeat type.
+Potentially novel elements (contigs not identified via CENSOR, RepeatMasker, or Tandem Repeats Finder) were queried against the appropriate taxon sequence data using BlastN, which allowed us to generate a more accurate fulllength consensus. If possible, the M. lucifugus 2􏰇 WGS was used to infer consensus sequences for TEs with low coverage in the 454 data. The top 40 hits were extracted with 200-bp flanking sequence (if available) using process_hits.pl (Smith and Ray 2011), a computational tool for TE mining which, in this case, was configured to combine hits with 50-bp overlaps and align them using MUSCLE. If the boundaries of the repeat element were not recovered, as evidenced by dissimilar sequence data at the 3# and 5# ends, then the outermost 150 bp of the consensus was used to query the data again and extend the alignment until the full-length TE could be assembled. Large contigs (.1000 bp) were submitted to open reading frame (ORF) Finder (http://www.ncbi.nlm. nih.gov/projects/gorf/) to identify potential reverse transcriptase, endonuclease, or transposase ORFs. Element names end with a two-letter taxon identifier to indicate the source of the consensus (i.e., Mariner2_Ml was inferred from M. lucifugus).
+Age Analysis
+Novel TEs were further analyzed to determine their approximate period of activity as described in Pagan et al. (2010). Consensus sequences were repeatmasked against the respective taxon from which each was inferred, either the appropriate filtered 454 data set or a quarter of the M. lucifugus 2􏰇 WGS. To ensure full-length hits could be acquired, the query sequences were trimmed to 300 bp; if possible, the fragment was selected from coding regions in autonomous TEs. RepeatMasker .align output files were processed by a perl script designed to calculate the Kimura 2-Parameter distances while excluding hypermutable CpG sites (Pagan et al. 2010). Output was parsed to only include hits that spanned at least
+ Genome Biol. Evol. 4(4):575–585. doi:10.1093/gbe/evs038 Advance Access publication April 4, 2012 577
+Downloaded from http://gbe.oxfordjournals.org/ by guest on June 7, 2012
+
+ Paga ́n et al.
+GBE
+ Table 1
+454 Sequencing Summary
+Artibeus lituratus Corynorhinus rafinesquii Lasiurus borealis
+Myotis austroriparius Nycticeius humeralis Perimyotis subflavus
+Percentage of Genome Coverage
+3.75 4.75 3.36 0.76 1.57 1.44
+After Sequencing Artifact Filter Percentage of
+  Total Reads
+295660
+403317
+233826
+ 86583
+135978
+122395
+Mean Read Length (bp)
+   397
+   285
+   368
+   285
+   280
+   265
+Total Base Pairs
+1.01 􏰇 108 1.15 􏰇 108 8.60 􏰇 107 2.47 􏰇 107 3.81 􏰇 107 3.24 􏰇 107
+Estimated Genome Size
+2.70 􏰇 109 2.42 􏰇 109 2.56 􏰇 109 3.26 􏰇 109 2.42 􏰇 109 2.26 􏰇 109
+Unique Reads
+255065
+317269
+169361
+ 67924
+108535
+ 99801
+Percentage of Replicates
+13.73 21.34 27.57 21.55 20.18 18.46
+Unique Genome Coverage
+3.23 3.74 2.43 0.59 1.26 1.17
+  NOTE.—Percentage of Genome Coverage was approximated using mean read length and estimated genome size. A sequencing artifact filter was applied to data (Percentage of Unique Genome Coverage) before graph-based repeat discovery and RepeatMasker analyses to determine genome representation.
+90% of the query sequence. Ages were estimated from the distances using the mammalian neutral mutation rate, 2.2 􏰇 10􏰀9 (Kumar and Subramanian 2002). A complete library of the full consensus sequences was also used to query all six 454 data sets using BlastN to test for lineage specificity.
+Genome Representation
+TE contribution to genome content is often quantified by the number of bases they occupy in sequenced genomes. This value could be estimated using contig length and read depth, as per Macas et al. (2007) for the pea (Pisum sativum) genome. However, unlike Pisum, in which the dominant TE is an LTR element, the primary TE components of mammalian genomes are LINEs which are often 5# truncated. This makes them difficult to reconstruct in their entirety from the limited coverage and short read lengths we obtained. This is also true for other large autonomous TEs, especially those with low copy numbers. SINE subfamilies are another major component of mammalian genomes. In these bats, the dominant SINE is Ves, with a consensus of just over 200 bp. Additionally, there are several short (,400 bp) nonautonomous DNA transposon families. Each of these observations suggests that using contig length and read depth might lead to inaccurate estimates of genome coverage. For example, our average read length was ;300 bp, longer than a typical full-length Ves. Thus, the assembled contig lengths would be longer than the actual elements and artificially inflate genome coverage calculations.
+We therefore chose to focus on the proportion of total hits for each TE in the filtered data. We used a custom library of TE consensus sequences as identified above from each taxon to mask the respective filtered data set with RepeatMasker. Process_hits.pl was used to combine hits with 50 bp overlap, and then tally the number of and length of hits with a minimum length of 30 bp (the shortest 454 read lengths) in each taxon for each of five repeat categories (DNA, ERV/LTR, Non-LTR/LINE, Non-LTR/SINE, and satellite). Each read should represent random data from the genome. Thus, the proportion of the genome occupied by each TE
+category and/or family was then extrapolated from the data.
+Results
+454 Sequencing
+Approximately 3.97 􏰇 108 bp of data were obtained. Genome sizes for all taxa were obtained from www.genomesize.com. C-values for P. subflavus and M. lucifugus were not available, but rather estimated from congeners. Genome coverage was calculated from the number of sequenced base pairs divided by the estimated genome size. Genome coverage ranged from ;0.76% for M. austroriparius to ;4.75% for C. rafinesquii. Read lengths ranged from 29 to 755 bp and averaged ;300 bp. The 454 replicate filter reduced the data by around 20%. For example, coverage was decreased to 0.59% for M. austroriparius. However, this level of coverage still allowed for identification of repeats present in .1,000 copies in the genome (Macas et al. 2007). For example, a 1,000 copy repeat in M. austroriparius will be found ;5.9 times in the data set, calculated as follows for 1.94 􏰇 107 bp filtered data and 3.26 􏰇 109 bp genome size: 1,000/[1/(1.94 􏰇 107/3.26 􏰇 109)]. Information on the filtered and unfiltered reads is summarized in table 1. The raw data are available from the Dryad Repository: http://dx.doi.org/10.5061/dryad.83164r7v.
+Repeat Discovery and Distribution
+Myotis lucifugus is the best characterized bat with regard to TE content (Pritham and Feschotte 2007; Ray et al. 2007, 2008). Although we were unable to obtain a M. lucifugus sample for this sequencing survey, the inclusion of the congener, M. austroriparius, allows validation of our methods. The estimated 9.9 Myr divergence time (Stadelmann et al. 2007) between the two species suggests we should find similar TE landscapes. Indeed, we identified all major M. lucifugus TE families in M. austroriparius. Most contigs that were not initially classified using Censor or RepeatMasker were identified as either tandem repeats or mitochondrial DNA. Less than 0.5% of the M. austroriparius repeat content was labeled
+ 578 Genome Biol. Evol. 4(4):575–585. doi:10.1093/gbe/evs038
+Advance Access publication April 4, 2012
+Downloaded from http://gbe.oxfordjournals.org/ by guest on June 7, 2012
+
+ Survey Sequencing Repetitive Landscapes among Vesper Bats GBE Table 2
+ Comparison of RepeatMasker Output from Myotis austroriparius 454 Data and the WGS for M. lucifugus M. austroriparius
+M. lucifugus
+   Element Class/Family
+DNA/hAT
+DNA/Helitron
+DNA/Mariner
+DNA/piggyBac
+DNA/TcMar-Tigger
+ERV/LTR
+Non-LTR/LINE
+Non-LTR/SINE
+Non-LTR/unknown 0.10
+Percentage of RM Hits
+Percentage of 454 Sequence Data
+2.07 2.78 0.68 0.27 0.02 2.35 9.21 5.31 0.03
+Percentage of RM Hits
+12.95 16.23 3.32 0.65 0.27 9.17 17.49 39.86 0.04
+Percentage of WGS
+2.29 2.57 0.67 0.16 0.05 2.22 6.02 6.27 0.02
+ 10.75 15.13 3.19 1.14 0.09 10.49 29.10 30.02
+ NOTE.—Percentage of RM hits 5 proportion of total RepeatMasker hits to any given TE type. Percentage of 454 sequence data indicates proportion of bases masked from M. austroriparius survey sequence data. Percentage of WGS indicates proportion of bases masked in the M. lucifugus WGS.
+‘‘unknown.’’ Most contigs could be classified as satellite, DNA, LINE, SINE, or LTR elements and were found either to be previously identified or, if not already characterized, were shown to be repetitive in M. lucifugus. Indeed, our estimates of genome coverage for multiple element classes using the WGS of M. lucifugus and the collected 454 reads for M. austroriparius are a close match (table 2). The only appreciable deviation between the two is for the non-LTR/LINEs. Harismendy et al. (2009) performed a comparison of next generation sequencing platforms and found overall that Roche 454 data had fairly even treatment of unique versus repetitive sequences, but did note a 1.25 overrepresentation of LINEs. It is possible that we are observing this bias here, but it would be expected to occur equally across all taxa, and no apparent bias is observed for the Class II families. In combination with similar analyses on pea (Macas et al. 2007) and snake genomes (Castoe et al. 2011), these data suggest that our approach is appropriate for estimating the TE landscape despite limited genome coverage.
+As described in Novak et al. (2010), graph conformation of a specific cluster revealed features of the respective repeat family. Reads, presented as vertices, are connected by edges to other reads, which they overlap. A summary of the five largest clusters for each taxon can be found in table 3.
+We were able to confirm some previous PCR analyses that probed for Class II TEs in other vespertilionid taxa and identified several (piggyBac1, hAT2, hAT3) that initially appear to be limited to Myotis (Ray et al. 2008). However, two TE families previously thought to be confined to Myotis were identifiable in other taxa: hAT1_Ml was identified in N. humeralis and piggyBac2_Ml was observed in data from C. rafinesquii and L. borealis. This was likely due to mispriming from the internal primers of the earlier analysis and highlights the advantage of survey sequencing for a more accurate inspection of repetitive DNA. If we assume that the vespertilionid phylogeny described by Lack and Van Den Bussche (2010) (see fig. 1) is accurate, the presence of hAT1_Ml in N. humeralis but not in C. rafinesquii, L. borealis,
+or P. subflavus may result from two independent invasions of hAT1_Ml into the lineages leading to N. humeralis and Myotis spp. However, alternative phylogenetic hypotheses exist (Hoofer and Van Den Bussche 2003) and correct inference of independent invasions will depend on a reliable phylogeny of the group. Several novel elements were also identified and their key features are summarized in table 4. These novel elements have been submitted to RepBase.
+Most Class II TEs were categorized according to terminal inverted repeat (TIR) length and target site duplications (TSDs) after extending and assembling the full repeat consensus (see Repeat Discovery in the Materials and Methods section). Blast hits to potential ORFs were also used for identification. Tc1/mariners have 25to 29-bp TIRs and TA TSDs, while hATs typically have 16-bp TIRs and 8-bp TSDs with central TA dinucleotides. Helitrons are characterized by a 5# TC, 3# CTRR, an AT target site, and a 3# 18-bp palindrome; elements are identified according to .80% similarity at 3# (family) and 5# (subfamily) 30 bp (Yang and Bennetzen 2009). All Helitrons identified in this study were from the HeliBat family (Pritham and Feschotte 2007), and several fell within a single unique subfamily according to the 5# 30 bp (nHeliBat1_Lb/Nh/Ps/Cr). The observation that we could not identify the probe sequences used by Thomas et al. (2011) in the consensus sequences of these elements suggests that they fall within a separate but similar lineage. Also of note is Mariner1_Ml, which included the full Mariner2_Ml within TIRs of extended length. Although initially identified in P. subflavus, the consensus sequences were inferred from M. lucifugus to obtain adequate coverage. Both elements contained an ORF and a nonautonomous variant was also recovered with 67-bp TIRs from the P. subflavus data set (nMariner1_Ps).
+Unidentified clusters from most taxa were generally composed of low numbers of reads. The exception to this patternwasP.subflavus,inwhich19of66clusters(;6%ofthe repetitive content) could not be identified by CENSOR or through BlastX and BlastN searches against NCBI databases.
+ Genome Biol. Evol. 4(4):575–585. doi:10.1093/gbe/evs038 Advance Access publication April 4, 2012 579
+Downloaded from http://gbe.oxfordjournals.org/ by guest on June 7, 2012
+
+ Paga ́n et al.
+GBE
+ Table 3
+Top Clusters for Each Taxon
+Cluster Number
+Corynorhinus rafinesquii CL1
+CL2 3820
+CL3 2582
+CL4 2469
+CL5 1755
+ Lasiurus borealis CL1
+CL2 2174
+CL3 1076
+CL4 625
+CL5 510
+1 4842 1 2814 1 3775 4 3343 1 12262 1 2973 4 4182 3 1467 1 1663 1 2197 1 960 3 2882 1 423 1 510 4 10436 2 1397 2 2101
+HAL1-1A_ML
+HAL1-1A_ML HAL1-1A_ML L1MAB_ML HAL1-1A_ML HAL1-1A_ML L1MAB_ML HAL1-1A_ML L1MAB_ML HAL1-1B_ML VES
+Tandem Repeat L1MAB2_ML VES HAL1-1A_ML L1MAB_ML
+Myotis austroriparius CL1
+CL2 644
+CL3 563
+CL4 303
+CL5 262
+Nycticeius humeralis CL1
+CL2 614
+Perimyotis subflavus CL1
+CL2 1596
+CL3 1408
+CL4 1282
+CL5 830
+2 3218 3 2934 1 5329 6 4994 1 2002 1 926 4 24398 5 11493 1 3131 1 2609 3 2321
+nHelitron1_Nh Tandem Repeat L1MAB_ML nHelitron1_Ps HAL1-1A_ML Tandem Repeat L1-4_PVa HAL1-3_ML Tandem Repeat Tandem Repeat Tandem Repeat
+Artibeus lituratus CL1
+CL2 5299
+CL3 2688
+CL4 2454
+CL5 1482
+1818
+CL3 470
+CL4 432
+CL5 345
+226 ERV2X1A_I_ML
+Original Number of Reads
+Number of Reads Used in Contigs
+8625
+   3526
+   2538
+   2249
+   1601
+   2919
+   1956
+    847
+    531
+    380
+    677
+    599
+    330
+    226
+    248
+1093 521 399
+357
+    260
+   1634
+   1430
+   1151
+   1157
+    790
+   5225
+   4563
+   2498
+   2385
+   1269
+Number of Cluster-Based Contigs
+283
+     61
+      3
+     37
+     77
+    102
+     80
+     92
+     44
+     15
+     20
+     14
+     16
+      6
+      4
+     34
+     28
+     26
+10
+37 65 54 88 37
+      7
+    154
+    169
+     20
+      7
+     41
+Number of Number of SeqMan RepeatMasker Contigs Reads
+7 24730
+2347 ERV2X1A_I_ML
+3324
+748
+2092
+5933
+1 229
+512 ERV2X1A_I_ML
+Element Name
+Element Family
+Non-LTR/LINE ERV/LTR Non-LTR/LINE mtDNA Non-LTR/LINE Non-LTR/LINE Non-LTR/LINE Non-LTR/LINE Non-LTR/LINE Non-LTR/LINE Non-LTR/LINE Non-LTR/LINE Non-LTR/LINE Non-LTR/SINE Satellite Non-LTR/LINE Non-LTR/SINE Non-LTR/LINE Non-LTR/LINE ERV/LTR Non-LTR/LINE ERV/LTR DNA/Helitron Satellite Non-LTR/LINE DNA/Helitron Non-LTR/LINE Satellite Non-LTR/LINE Non-LTR/LINE Satellite Satellite Satellite
+ 9595
+L1MAB_ML
+L1MAB_ML
+ NOTE.—Information regarding the content of the graph-based clusters is provided, including the original number of contigs, which were submitted to SeqMan. The SeqMan contigs were then submitted to CENSOR for identification and used to RepeatMask the respective taxonomic 454 data set to determine genome representation.
+Dotter and TRF analyses did not identify the contigs as tandem repeats, and visual inspection showed no indication of sequencing artifacts. Many of the unrecognized contigs were .500 bp, and the ends were not recovered. Cluster 50, for instance, contained an 864-bp contig, and attempts to identify the ends using Blast were unsuccessful. With no similarity to known TEs and lack of 5# and 3# ends, which often contain the defining features of the various repeat families, we were unable to discern if these might be novel TEs. Identifying these contigs is the subject of ongoing investigations.
+A potentially confounding artifact in these types of analyses was also observed in P. subflavus. Many of the graph-based clusters contained only a few reads, yet RepeatMasker output indicated a large number of hits to the contig. Cluster 50 contained 18 reads of which only two
+were used to generate the cluster-based contig, yet RepeatMasker identified 794 hits. In this case, the RepeatMasker data was inflated with hits primarily to a 6-bp tandem repeat embedded within the contig. This suggests that future analyses will require passing even identifiable TEs through Tandem Repeat Finder prior to genome coverage analyses.
+Finally, repeat analysis of outgroup A. lituratus suggests that the elevated Class II TE content does not extend to Phyllostomidae. Less than 0.5% of the data set was identified as Class II and no novel or potentially recently active families were observed. Like most other mammals observed to date, Class I TEs comprise more than 25% of the genome. The major TE clades present in A. literatus were Ves SINEs and L1 (3% and 15% of the filtered data set, respectively).
+ 580 Genome Biol. Evol. 4(4):575–585. doi:10.1093/gbe/evs038
+Advance Access publication April 4, 2012
+Downloaded from http://gbe.oxfordjournals.org/ by guest on June 7, 2012
+
+ Survey Sequencing Repetitive Landscapes among Vesper Bats
+GBE
+ Table 4
+Characteristics and Ages of Novel TEs
+Element Length (bp)
+Mariner2_Ml 803 nhAT1_Nh 192 Mariner1_Lb 2294 nhAT4_Nh 203 nhAT2_Nh 246 nMariner2_Lb 231 nHeliBat1_Ps 1207 nhAT3_Nh 213 nMariner1_Lb 184 nHeliBat1_Lb 993 nHeliBat1_Nh 1183 nHeliBat2_Ps 220 nHeliBat1_Cr 364 Mariner1_Ps 1293 nMariner1_Ps 279 Mariner1_Ml 1211 nhAT5_Nh 337
+TIR (bp) ORF (aa) Na
+28 235 349 16 404 25 347 23
+Average K2P
+0.0188 0.0194 0.0197
+Standard Error
+0.0005 0.0006 0.0024 0.0018 0.0012 0.0006 0.0041 0.0066 0.0032 0.0019 0.0055 0.0113 0.0041
+Average Age (Myr)b
+8.5 8.8 9.0
+10.1 10.4 12.2 18.9 23.2 29.1 41.1 41.7 50.8 54.9
+  16 16 25
+16 29
+32
+67 198 16
+127 0.0223 61 0.0228 518 0.0268 33 0.0416 47 0.0509 54 0.0639 209 0.0905 34 0.0916 39 0.1119 74 0.1208
+345 235
+ NOTE.—Elements shown in bold are lineage-specific. Names preceded by an ‘‘n’’ are nonautonomous. Age estimations are only shown if .20 hits of appropriate length were obtained for analysis. Final two letters denote data set from which consensus was inferred (e.g., Lb–L. borealis).
+a Number of RepeatMasker hits, which are at least 90% of the query length; see Materials and Methods. b Average mammalian neutral mutation rate (2.2 􏰇 10􏰀9).
+Age Analysis of Selected Elements
+The three newly described Mariner elements from L. borealis as well as the five novel nhATs from N. humeralis appear to be lineage specific and have been active in the relatively recent past (table 4). The age estimate (average 8.5 Myr) for Mariner2_Ml suggests it would be specific to Myotis, yet it was identifiable via BlastN analysis in all vesper 454 data sets. These contrasting results were further investigated by determining the activity periods of Mariner2_Ml in each taxon. Due to limited copy numbers in the 454 data, all RepeatMasker hits were used (instead of only hits within 90% length of the query, as for table 4). Average age estimates were as follows: M. austroriparius 11 Myr (N 5 40), P. subflavus 16 Myr (N 5 21), C. rafinesquii 17 Myr (N 5 68), N. humeralis 19 Myr (N 5 17), and L. borealis 23 Myr (N 5 44). These estimates suggest activity of Mariner2_Ml in each taxon following the split from Myotis 32 Ma (fig. 1). Several Helitrons appear to predate the divergence of the five vespertilionid taxa, with the oldest having been active roughly 51 (nHeliBat2_Ps) and 55 (nHeliBat1_Cr) Ma. BlastN analysis supported the presence of similar fragments (E value 􏰌 􏰀65) of both TEs in all but the outgroup, A. lituratus, suggesting further evidence that at least the Helitron phase of the Class II invasion began in the common ancestor of vesper bats (Thomas et al. 2011).
+Genome Representation
+As would be expected for mammals, Class I elements dominated the TE landscape for all six taxa (fig. 2, table 5). The
+highest LINE content (nearly 15% of the genome) was observed in the phyllostomid, A. lituratus. This was accompanied by the lowest SINE complement (3%). Nycticeius humeralis exhibited the reverse situation with decreased LINE content (7%) alongside elevated SINE levels (6%), revealing an inverse relationship between the full-length LINEs and the nonautonomous SINEs (r 5 􏰀0.90809, all six taxa). The contribution of LTRs across all taxa was low, roughly 1.0% or lower. Finally as with M. lucifugus, elevated Class II levels were observed for the five vespertilionids (ranging from 3% in L. borealis to 5% in P. subflavus), but not for the phyllostomid bat (,1% in A. lituratus). A broader examination of genome-wide TE relationships is depicted between Class I and Class II elements in figure 3 (r 5 􏰀0.84632, P 5 0.03361).
+Discussion
+We have modified a methodology originally applied to plant genomes to identify distinct TE landscapes within five vespertilionids and a single phyllostomid bat. Comparison of a congener of the well-characterized M. lucifugus suggests that the method provides an accurate estimate of the TE landscape. Of course, this assumes that no major changes in TE dynamics have occurred in either lineage since their divergence ;10 Ma (Stadelmann et al. 2007).
+NonLTR retrotransposons were the most abundant TEs in all species, as is typical of mammals. This is generally attributable to L1 elements. A large contribution of satellite DNA was noted in the P. subflavus genome (6%), as well
+ Genome Biol. Evol. 4(4):575–585. doi:10.1093/gbe/evs038 Advance Access publication April 4, 2012 581
+Downloaded from http://gbe.oxfordjournals.org/ by guest on June 7, 2012
+
+ Paga ́n et al. GBE
+  FIG. 2.—Genome representation of the TE classes. The inclusion of outgroup Artibeus suggests elevated DNA transposon activity is limited to the vesper taxa, while other aspects of their repetitive landscapes differ within the family.
+as a considerable number of unidentifiable contigs across several repeat clusters. Unlike most mammals, Class II content was consistently elevated throughout Vespertilionidae, with ;3% or greater contribution to genome content in all five taxa. Class II elevation was not observed in the phyllostomid outgroup taxon, providing additional support to the hypothesis that vesper bats are unique within Chiroptera in their ability to tolerate and/or host DNA transposons (Thomas et al. 2011). At the very least, these data provide evidence that the surge of DNA transposon activity observed in Vespertilionidae arose following the divergence of Vespertilionidae and Phyllostomidae ;56 Ma (Datzmann et al. 2010).
+As noted by Pritham and Feschotte (2007) and Thomas et al. (2011), the Helitron superfamily is a prevalent component of the vesper bat TE landscape. Our data demonstrate that Helitrons were active during the early diversification of Vespertilionidae. Analyses suggest that two Helitrons had peak activity over 50 Ma, which would indicate activity in
+Table 5
+Genome Representation Determined Using RepeatMasker and a Custom Repeat Library Compiled for Each Taxon
+the common ancestor of Vespertilionidae and Phyllostomidae. However, these elements could not be recovered from the A. lituratus data. It should be noted that any elements with very low copy numbers (,1000) could be missed by our analyses. However, Thomas et al. (2011) failed to identify Helitron elements in Miniopteridae, suggesting that Helitron activity is indeed limited to Vespertilionidae. Assuming their hybridization and PCR-based results are accurate, this raises some issues regarding some of our activity period estimations. nHeliBat1_Cr and nHeliBat2_Ps were both estimated to have been active .50 Ma. Yet, the miniopterid divergence from Vespertilionidae is estimated to have occurred ;43 Ma (49–38 Ma) (Miller-Butterworth et al. 2007), suggesting that these two families should be present in miniopterid genomes. The problem likely arises from attempting to apply an average mammalian mutation rate (2.2 􏰇 10􏰀9) to a wide range of taxa. Lack and Van Den Bussche (2010) noted that substitution rates in vesper bats are highly variable and that non-Myotis vespertilionids have consistently higher
+  Artibeus lituratus Lasiurus borealis Corynorhinus rafinesquii Nycticeius humeralis Myotis austroriparius Perimyotis subflavus
+Non-LTR/LINE (%)
+14.83 11.74 11.93
+7.16 8.46 9.33
+Non-LTR/SINE (%)
+2.90 4.02 3.91 6.04 4.48 4.18
+ERV/LTR (%)
+0.93 0.42 0.97 1.02 0.53 0.69
+Total Class I (%)
+18.66 16.18 16.81 14.22 13.48 14.20
+Total Class II (%)
+0.38 2.56 3.12 3.11 3.52 4.45
+ NOTE.—Primary Class I repeat types are shown, and final two columns depict Class I versus Class II content.
+ 582 Genome Biol. Evol. 4(4):575–585. doi:10.1093/gbe/evs038 Advance Access publication April 4, 2012
+Downloaded from http://gbe.oxfordjournals.org/ by guest on June 7, 2012
+
+ Survey Sequencing Repetitive Landscapes among Vesper Bats
+GBE
+  FIG. 3.—Correlation of Class I and Class II TE activity. Initial data suggest that TE activity may be inversely related between the two classes such that higher Class II genome representation is accompanied by a decrease in Class I content (r 5 􏰀0.85, P , 0.05).
+substitution rates. Thus, we might reasonably expect Perimyotis and Corynorhinus to exhibit inflated substitution rates. Calculating and applying lineage-specific rates to each taxon was beyond the scope of this study. However, future studies should incorporate such analyses. Future studies will also include samples from family Miniopteridae, which was recently elevated to the status of family and is more closely related to Vespertilionidae (Miller-Butterworth et al. 2007) and would therefore be appropriate for defining the limits of DNA transposon activity in these groups.
+While Helitrons were active during the early stages of vesper bat diversification, other DNA transposon families have since invaded and been active in these genomes. For example, multiple hAT, piggyBac, and Tc1/Mariner elements, many of them novel to this study, exhibit activity profiles ranging from ;8 to 30 Ma (table 3) (Ray et al. 2008). One striking observation is from the Mariner family. Age analysis suggests that Mariner2_Ml has been active the most recently, within the past 10 Myr in M. lucifugus. However, BlastN analyses of the available data indicate that this element is present in all five vesper taxa, which might suggest instead that Mariner2_Ml was an older element with activity prior to the divergence ;32 Ma. Class II TEs generally have a short period of activity in a genome before accumulating inactivating mutations (Brookfield 2005). Likewise, although Class I TEs persist over longer timespans, they accumulate mutations and diverge into different subfamilies (Cordaux et al. 2004). A possible explanation for Mariner2_Ml might be repeated reinvasion of vespertilionid genomes. However, at this time, we can only speculate.
+Thus far, no evidence for elevated or recent Class II TE activity in bats has been found outside of the vesper lineage (Ray et al. 2008; Thomas et al. 2011). RNAi has been shown to specifically target TIRs to prevent transposon integration (Sijen and Plasterk 2003), but these defenses can be evaded when distinct subfamilies are present in low copy numbers (Plasterk 2002). The Class II TE expansion in M. lucifugus has been diverse, from Helitron and Tc1/mariner superfamilies to various subfamilies of hATs and piggyBacs (Ray et al. 2008).
+Similar findings of TE diversity for the taxa described here suggest that vesper bats in general are predisposed to accommodate invasion by novel TEs. While the following suggestion is open to further study, the capacity of vespertilionid bats to harbor active DNA transposons may be linked to another feature of M. lucifugus. A BlastN query of the newly released 7􏰇 M. lucifugus WGS using multiple mammalian Piwi homologs (list available upon request) and a search of the Myotis Ensembl database suggests that only two Piwi homologs are present, PIWIL2 (ENSMLUG00000002115) and PIWIL4 (ENSMLUG00000002018). This lies in stark contrast to the presence of all four homologs in the WGS of the megabat, Pteropus vampyrus (ENSPVAG00000010030, ENSPVAG00000009878, ENSPVAG00000016875, and ENSPVAG00000007245). Mammalian genomes are protected from TE integration in the germline by piRNA mediated methylation (O’Donnell and Boeke 2007; Aravin et al. 2008; Obbard et al. 2009), and loss of a single Piwi homolog has been linked to upregulated transposition (Carmell et al. 2007). Additional work to determine if the PIWI homologs missing in M. lucifugus are also missing in other affected bats would be an avenue worth pursuing. Loss of Piwi RNA genes may provide hypotheses to explain how TEs have managed to thrive in vesper bats. However, it raises an interesting question. Are vesper bats more susceptible to invasion or are they exposed to more potential invaders? It may be that Vespertilionidae is particularly susceptible to invasion by DNA transposons via their role as a host for a diverse array of parasites (Marinkelle and Grose 1972; Calisher et al. 2006; Wibbelt et al. 2010). Further research to identify patterns among bats may help answer these questions.
+Several lineage-specific activity patterns were observed, suggesting differential activity in each lineage for particular transposon families and potential horizontal transfer events. As described above, at least two cases of potential horizontal transfer can be identified from this data. However, identifying horizontal transfer is dependent on overlaying the taxonomic distributions of TEs onto a well-established phylogeny. Vespertilionid phylogeny, unfortunately, has been rather intractable to both morphological and molecular data and is a well-known problem within the phylogenetic community (Stadelmann et al. 2007; Lack and Van Den Bussche 2010). Thus, while we suspect based on the most recent phylogenetic hypothesis presented by Lack and Van Den Bussche that both hAT1_Ml and piggyBac2_Ml have been transferred laterally into multiple vespertilionid genomes, we must be vigilant and work to generate a more robust phylogeny before making strong statements. That being said, both hAT elements in general and piggyBac2_ML in particular have been implicated in multiple horizontal transfers (Pace et al. 2008; Gilbert et al. 2010; Pagan et al. 2010).
+Our initial interest in the vesper lineage was spurred by the elevated Class II activity in genus Myotis. However, the methods we describe allow for characterization of all TEs with relatively high copy numbers in a genome. Therefore,
+ Genome Biol. Evol. 4(4):575–585. doi:10.1093/gbe/evs038 Advance Access publication April 4, 2012 583
+Downloaded from http://gbe.oxfordjournals.org/ by guest on June 7, 2012
+
+ Paga ́n et al.
+GBE
+ we could also note differences in Class I content. For example, the A. lituratus genome exhibited the lowest SINE content (3%) and the highest LINE contribution (15%). A much larger SINE-to-LINE ratio was observed in N. humeralis, which may suggest an adaptation in recent Ves subfamilies to more efficiently utilize the LINE enzymatic machinery in this taxon. Such a scenario is the opposite of that seen in the recent analysis of the orangutan genome, in which the primate SINE, Alu, has apparently lost its ability to efficiently mobilize (Locke et al. 2011). The autonomous/nonautonomous relationship suggests a possible interaction between LINEs and SINEs as they compete with one another for use of needed enzymatic machinery (Brookfield 2005; Le Rouzic and Capy 2006).
+Our data indicate that the rise in Class II TE activity may have been accompanied by a decreased Class I TE genome contribution. Vesper bat genera Perimyotis and Myotis displayed the highest Class II content (5% and 4%) and the lowest Class I content (14% each). This trend is amplified when the phyllostomid bat is included (fig. 3, r 5 􏰀0.85), in which Class II content is at the low end of the spectrum while Class I content is the highest of the six taxa. However, while these results are suggestive of a trend, they still represent only six data points and should be taken with caution.
+Our investigation is the first step in isolating any potential links between elevated Class II TE activity and the evolution of vesper bats. Variation in TE landscapes may be partially derived from population subdivision and genetic drift (Jurka et al. 2011). While the primate lineage has been examined extensively to elucidate the potential role of TEs in diversification, the focus was largely constrained to ancestrally derived Class I elements and remnants of extinct Class II TEs (Kim et al. 2004; Oliver and Greene 2009, 2011), although there are a few cases of recent Class II invasion (Gilbert et al. 2010). However, continued activity of both TE classes combined with horizontal transfer and novel TE invasions have furnished the vespertilionid family with a variety of elements with potential for facilitating species-specific adaptations. Finally, we note that the methods described here are conceptually similar to those described in a recent analysis of two snakes (Castoe et al. 2011) and multiple amphibian genomes (Sun et al. 2012). The major differences are with the precise computational methods used and not with the type of data analyzed. This suggests a strong interest in the evolutionary biology community in investigating the dynamics of TEs in large samples of relatively closely related organisms. Comparisons of mammalian TE landscapes have, until now, typically encompassed relatively diverse taxa. Inferences drawn from a limited sampling of genomes consisting mostly of model organisms are often broadly applied across taxa. This strategy is imposed primarily by the substantial costs of whole genome sequencing. However, the advent of next generation sequencing techniques has provided a leap forward in terms of gaining genome-level data (if not entire genome assemblies) for nonmodel organisms. Here,
+we have demonstrated the utility of survey sequencing for generating sufficient data for comparative analyses and descriptions of novel TEs and have gathered data suggesting an extensive history of Class II TE activity throughout a broader sample of Vespertilionidae.
+Acknowledgments
+Research in the Ray laboratory is supported by the National Science Foundation (NSF) (MCB-0841821, DEB-1020865, and MCB-1052500) and the Mississippi Agricultural and Forestry Experiment Station. R.D.S. was funded by NSF (DEB-1020890) and the Louisiana Board of Regents (LEQSF-2006-09). J.M. and P.N. were supported by the Academy of Sciences of the Czech Republic (AVOZ50510513). We acknowledge the LSU Museum of Natural Sciences for specimens used in this study, with special thanks to Donna Dittman, Robb T. Brumfield, and Mark S. Hafner.
+Literature Cited
+ 584 Genome Biol. Evol. 4(4):575–585. doi:10.1093/gbe/evs038
+Advance Access publication April 4, 2012
+Downloaded from http://gbe.oxfordjournals.org/ by guest on June 7, 2012

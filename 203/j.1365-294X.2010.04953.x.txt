@@ -1,0 +1,372 @@
+   Molecular Ecology (2011) 20, 584–600 doi: 10.1111/j.1365-294X.2010.04953.x
+Comparative phylogeography, genetic differentiation and contrasting reproductive modes in three fungal symbionts of a multipartite bark beetle symbiosis
+AMANDA D. ROE, ADRIANNE V. RICE, DAVID W. COLTMAN, JANICE E. K. COOKE and FELIX A. H. SPERLING
+Department of Biological Sciences, University of Alberta, Edmonton, AB, Canada T6G 2E9
+Abstract
+Multipartite symbioses are complex symbiotic relationships involving multiple interacting partners. These types of partnerships provide excellent opportunities in which to apply a comparative approach to identify common historical patterns of population differentiation and species-specific life history traits. Using three symbiotic blue-stain fungal species (Ophiostomatacea) associated with outbreaking populations of the mountain pine beetle (Dendroctonus ponderosae Hopkins) in western Canada, we applied phylogenetic, population genetic and demographic approaches to clarify phylogeographic patterns among the three fungal species. Broadly, the three species showed significant population differentiation, forming northern and southern populations, despite dramatic differences in haplotype diversity. Finer structuring and population demographic patterns were less consistent, showing some interspecific incongruence. By contrasting these species simultaneously, we were able to identify differences in recombination rate and ecological traits that can explain the observed patterns of incongruence among the fungal species. By applying a comparative approach to partners of a multipartite symbiosis, we were able to distinguish congruent population structuring and species-specific differences that help us to understand the complexity and evolution of this symbiotic system.
+Keywords: comparative phylogeography, congruence analysis, Dendroctonus ponderosae, fungi, multilocus sequence typing, multipartite symbiosis
+Received 5 August 2010; revision received 25 October 2010; accepted 3 November 2010
+Introduction
+Zook (1998) defined symbiotic relationships as ‘the acquisition and maintenance of one or more organisms by another that may result in novel structures and [or] metabolism’. Historically, symbioses have often been viewed in a pairwise manner, involving a host and a single microsymbiotic partner, but recent research, aided by new molecular and analytical tools (Ruby 2008), has shown that relationships are often not this simple (Stanton 2003). Many symbiotic systems are complex and involve a diversity of microsymbionts interacting within a single host (Klepzig et al. 2009).
+Correspondence: Amanda D. Roe E-mail: amandaroe5@gmail.com
+Multipartite symbioses are well known in mammalian digestive systems (e.g. Ley et al. 2008) and, in recent years, have been described in insect systems, such as bark beetles (Klepzig & Six 2004; Cardoza et al. 2008), fungus farming ants (Currie et al. 2003; Caldera et al. 2009), termites (Husseneder 2010) and aphids (Oliver et al. 2010). Multipartite symbioses represent dynamic communities, where spatial, temporal and genetic variation in the community may affect host fitness. To gain a realistic understanding of the interactions that occur between hosts and their symbiotic fauna, we need to examine cooccurring symbionts simultaneously in natural systems (Barrett et al. 2008a; Ruby 2008). Comparative phylogeography and population genetic approaches can be used to identify concordant patterns of genetic variation among codistributed organisms and
+Ó 2010 Blackwell Publishing Ltd
+
+may help to identify common historical factors structuring this variation (Bermingham & Moritz 1998; Avise 2000). A comparative phylogeographic approach has been previously used in a range of organisms (e.g. Bernatchez & Wilson 1998; Michaux et al. 2005; Szovenyi et al. 2006; Rocha et al. 2008; Bromilow & Sperling 2010; Qu et al. 2010), including macroand microsymbiont systems (Ballard 2004; Thompson et al. 2005; Jones et al. 2006; Maia Da Silva et al. 2007), but has rarely been applied to multiple microsymbionts in a single host (Noda et al. 2007; Mikheyev et al. 2008). We will apply a comparative approach to a multipartite bark beetle–fungal symbiosis, allowing us not only to infer common historical patterns among the symbionts but also to identify species-specific traits that may explain ecological and functional differences among the symbionts (Barrett et al. 2008a; Bleiker & Six 2009a).
+A well-known host for multiple symbionts is the mountain pine beetle (MPB, Dendroctonus ponderosae Hopkins), which has a diverse, well-studied symbiont fauna (Klepzig & Six 2004; Six & Klepzig 2004; Lee et al. 2006a; Adams et al. 2008; Bleiker & Six 2009a; M. Evenden and H. Proctor, personal communication). MPB is a major pest of pines in western North America and is currently experiencing one of the largest outbreaks in recorded history (Raffa et al. 2008). The current outbreak has seen unprecedented expansions of MPB populations into Alberta (Powell 1961; Ono 2004; Alberta Sustainable Resource Development 2009), so identifying factors that could impact beetle fitness, such as fungal genetic variation, is an important aspect to understanding MPB outbreaks.
+Some of the most well-known MPB–fungal symbionts are blue-stain fungi in the family Ophiostomatacea, specifically Grosmannia clavigera (Robinson-Jeffrey and Davidson) Zipfel, de Beer and Wingfield, Leptographium longiclavatum Lee, Kim and Breuil, and Ophiostoma montium (Rumbold) von Arx. Phylogenetically, G. clavigera and L. longiclavatum are closely related, belonging to the same teleomorph genus Grosmannia, while O. montium is nested within a more distantly related teleomorph genus Ophiostoma (Zipfel et al. 2006; Alamouti et al. 2009). Grosmannia clavigera is considered the primary fungal symbiont, with a long evolutionary history with MPB, while O. montium is thought to be a recent invader (Six & Paine 1999). The relationship of the recently described L. longiclavatum is not known (Lee et al. 2005), but following Six & Paine (1999) it could also be considered a recent invader. Each species is obligately dependent on MPB for transport to ephemeral food sources (Whitney & Farris 1970; Six & Klepzig 2004). The fungi, in turn, provide nutrition, aid in overcoming host plant defences, alteration in microclimatic conditions and protection against antagonistic
+fungi (Reid et al. 1967; Raffa & Berryman 1983; Six & Paine 1998; Six & Klepzig 2004; Bentz & Six 2006). The fungi do not contribute equally to these different functional benefits (Six & Paine 1998; Six & Bentz 2007), so shifts in fungal species abundance throughout the host range could dramatically impact MPB outbreaks (Hofstetter et al. 2006).
+Shifts in intraspecific strain abundance may also be important for MPB fitness, although geographically extensive surveys of fungal intraspecific variation are currently lacking. Even without broadscale genetic characterization, intrastrain variation in functional traits has been documented. For example, different O. montium stains have been shown to have a range of impacts on MBP fitness, being antagonistic (Six & Paine 1998), weakly mutualistic (Six & Klepzig 2004; Bleiker & Six 2007), and even important mutualists in the MPB system (Bleiker & Six 2007). Virulence and nutrition also vary both among and within fungal species, affecting the fitness of the beetle host. Grosmannia clavigera has generally been found to be more virulent than either O. monitum and L. longiclavatum (Reid et al. 1967; Solheim & Krokene 1998; Lee et al. 2006b; Rice et al. 2007; Plattner et al. 2008). Nutritionally, little is known about L. longiclavatum and beetles that feed on G. clavigera are larger than those that feed on O. montium, although intrastrain variation confounds generalization (Bleiker & Six 2007).
+These fungi are also known to differ in a number of important ecological characteristics. First, G. clavigera and L. longiclavatum are transported almost exclusively in mycangia, while O. montium has been found in mycangia and on the exoskeleton of the beetle host (Six 2003; Lee et al. 2005; but see Bleiker et al. 2009). Second, these three species vary in their environmental tolerances; G. clavigera grows faster in cooler temperatures and oxygen-deficient tissues than O. montium, which is better adapted to warmer temperatures and tissues with greater oxygen availability (Solheim & Krokene 1998; Six & Bentz 2007; Rice et al. 2008), although cold-tolerant O. montium strains have been identified (Rice & Langor 2009). Leptographium longiclavatum has similar environmental tolerances to G. clavigera but has a slower growth rate albeit with higher rates of sporulation at cooler temps (Lee et al. 2005, 2006b; Rice et al. 2008). Third, G. clavigera appears to be the primary colonizer, isolated ahead of O. montium in tree tissue (Kim et al. 2005; Bleiker & Six 2009b), but both G. clavigera and O. montium are able to colonize previously occupied substrates and have been shown to coexist and exhibit fine scale resource partitioning (Bleiker & Six 2009a,b). As highlighted previously, intraand interspecific variability in both functional and ecological traits clouds our understanding of the roles that these fungi play
+Ó 2010 Blackwell Publishing Ltd
+FUNGAL SYMBIONT COMPARATIVE PHYLOGEOGRAPHY 585
+
+586 A. D. ROE ET AL.
+within the MPB system and requires closer examination.
+Ultimately, MPB fitness is significantly improved in the presence of fungal symbionts (Six & Paine 1998; Bleiker & Six 2007), and given the phenotypic variability within and among fungal species, it is important to characterize the genetic variation within each fungal associate and to relate patterns of genetic diversity to this biological variation. Earlier population genetic studies of G. clavigera (Lee et al. 2007) and MPB (Bartell et al. 2008) show the presence of two distinct populations, a British Columbian and a Rocky Mountain population [roughly corresponding to the northern and southern MPB populations of Bartell et al. (2008)]. Using a comparative approach, we have examined the genetic diversity and geographic structuring of three MPB blue-stain fungal symbionts: O. montium, G. clavigera and L. longiclavatum. Given the obligate nature of the symbiosis between MPB and its fungi, we predicted that the geographic structuring of the fungi would mirror that of the previous studies, with each species containing a northern and southern population. Moreover, we expected to observe congruent patterns of genetic diversity and population demographics among the fungi, given the putatively similar biological constraints faced by the three symbionts. Characterization of intraspecific population substructure is also an essential first step prior to identifying patterns of adaptive variation in molecular markers or biological traits that could impact MPB fitness (Pritchard et al. 2000).
+Methods
+Fungal isolation and multilocus sequence typing
+Detailed descriptions of field collections and culturing of fungal isolates are available in Roe et al. (2010). MPB adults, larvae and gallery wood were sampled from 42 stands of lodgepole pine (Pinus contorta Douglas var. latifolia Engelmann) and three stands of lodgepole · jack pine hybrids (P. contorta · Pinus banksiana Lamb.). Stands were grouped into 12 landscapes located in British Columbia and Alberta from January 2007 to May 2008 (Fig. 1). Landscapes represent different ecoregions within the sampling area. Fungi were cultured on malt extract agar and scored as one of three morphotypes: G. clavigera, L. longiclavatum or O. montium (Roe et al. 2010). Representative strains were deposited in the University of Alberta Microfungus Collection and Herbarium (Appendix S1, Supporting information). Following morphotyping, strains were randomly selected within stands using a random number generator for single spore isolation (SSI) and multilocus sequence typing (MLST). For SSI, strains morphotyped
+as G. clavigera or L. longiclavatum were grown on malt extract agar, while O. montium morphotypes were grown on malt extract agar amended with lodgepole pine shavings to encourage sporulation. Following Roe et al. (2010), fungal isolates underwent DNA extraction, PCR amplification and sequencing for four or five gene regions: actin, elongation factor 1 alpha (EF1a), beta tubulin (Btub), an anonymous locus (UFM) and ITS2 (partial 5.8S + internal transcribed spacer region 2 + partial 28S). Sequence data for all five loci were previously published for G. clavigera and L. longiclavatum (Roe et al. 2010, GenBank GU370130-GU370344). Ophiostoma montium sequence data for four loci (actin, EF1a, Btub and ITS2) were submitted to GenBank (HQ413347–HQ413650, Appendix S1, Supporting information). The UFM locus did not amplify for O. montium. All sequence files and Appendices have been made available through the DRYAD system under the accession http://dx.doi.org/10.5061/dryad.7944.
+ 54°0'0"N
+52°0'0"N
+50°0'0"N
+48°0'0"N
+        115°0'0"W 110°0'0"W
+Fig. 1 Location of collection sites for MPB–fungal symbionts and the eastern boundary of MPB outbreak in Alberta. Sites grouped by landscapes. Northern landscapes: FC, Fox Creek; FV, Fairview; GP, Grande Prairie; TR, Tumbler Ridge; V, Valemont; WK, Willmore-Kakwa. Southern landscapes: CH, Cypress Hills; CA, Canmore; CP, Crowsnest Pass; G, Golden; KY, Kootenay-Yoho; SW, Sparwood. MPB outbreak boundary based on 2009 aerial survey data from Alberta Sustainable Resource Development (http://www.mpb.alberta.ca/Files/ MPB-AerialOverview-2009.pdf, accessed 06-05-10).
+        TR
+GP
+WK
+V
+North
+G
+British Columbia
+Legend
+FV
+FC
+                      South
+Alberta
+CP
+   CA KY
+SW
+Eastern extent of MPB
+0 50100150200 Kilometers
+                Stand locations
+      CH
+ Ó 2010 Blackwell Publishing Ltd
+
+Phylogenetic relationships
+Previously aligned sequences were obtained for G. clavigera and L. longiclavatum from TreeBASE (http:// purl.org/phylo/treebase/phylows/study/TB2:S11004). Sequence data from O. montium were initially aligned using Sequencher 4.8 (Gene Codes, Ann Arbor, MI) followed by manual adjustments to the alignment. Unique O. montium haplotypes were determined for each locus, and parsimony networks were estimated using TCS 1.21 (Clement et al. 2000). Previously published sequence data of an O. montium strain were included for Btub and ITS2 (GenBank AY194948, AY194964). Parsimony networks were available for G. clavigera and L. longiclavatum from Roe et al. (2010). Following single locus analysis, sequences were concatenated into multilocus data sets for each species. Maximum likelihood (ML) trees were estimated for G. clavigera and L. longiclavatum (Roe et al. 2010), and O. montium (present study) using RAXML version 7.0.4 (Stamatakis 2006) implemented on the CIPRES portal version 1.0 (Cyberinfrastructure for Phylogenetic Research—http://phylo.org/portal/Home.do, accessed 28 January 2010). Analyses were performed on the multilocus data sets using distinct models for each locus, with individual partition branch length optimization. Clade support was estimated using RAXML rapid bootstrapping with 1000 replicates, obtained simultaneously with the ML tree search (Stamatakis et al. 2008). Previously published sequence data of a closely related ophiostomatoid fungal species, Ophiostoma ips (Rumbold) Nannfeldt, was used as an out-group in the O. montium analysis (GenBank AY194938, AY194951). Final alignment and multilocus tree files were deposited in TreeBASE (http://purl.org/phylo/treebase/phylows/study/TB2: S10954).
+Genetic diversity and population differentiation
+Standard genetic diversity indices for both the northern and southern populations, as well as the combined data sets, were calculated for each species. The following were calculated using the concatenated multilocus data sets in DnaSP version 5.10.00 (Rozas et al. 2003): polymorphic sites (S), number of haplotypes (h), haplotype diversity (Hd) (Nei 1987) and nucleotide diversity (p) (Nei 1987). Genetic variation was examined for signatures of population differentiation and substructure corresponding to previous fungal and MPB studies (Lee et al. 2007; Bartell et al. 2008). Arlequin v.3.11 (Excoffier et al. 2005) was used to perform a hierarchical analysis of molecular variance (AMOVA) (Excoffier et al. 1992). FST is analogous to Fst and incorporates sequence divergence among haplotypes in addition to shifts in haplo-
+type frequency to infer genetic differentiation among populations (Weir & Cockerham 1984), and the statistical significance of FST was estimated using permutation tests (1000 replicates).
+Comparative population structuring
+To identify congruent patterns of population structuring among the three fungal species, we compared fungal genetic distance matrices using CADM (congruence among distance matrices) (Legendre & Lapointe 2004). Using DnaSP version 5.10.00, we obtained pairwise landscape FST genetic distance matrices for each species, a distance measure that incorporates both sequence divergence and shifts in MLST haplotype frequency. Pairwise geographic distance between each landscape was also included to identify potential spatial autocorrelation. CADM is a generalization of a Mantel test that allows the simultaneous comparison of multiple distance matrices to identify both global and a posteriori pairwise congruence among matrices (Legendre & Lapointe 2004). CADM was implemented in the R framework (R Development Core Team 2010) using the ape package version 2.5-2 (Paradis et al. 2004). Initially, a global test was performed with the CADM.global function to test for overall congruence among the four distance matrices. If the null hypothesis of incongruence was rejected, then a posteriori pairwise CADM and one-tailed Mantel tests were performed to identify which combinations of matrices were congruent. Onetailed Mantel tests were based upon ranks (Spearman correlation coefficient r). A posteriori pairwise CADM and complementary one-tailed Mantel tests were executed with the function CADM.post. For both the global and a posteriori analyses, we used 9999 permutations to assess the significance of matrix congruence. For the a posteriori tests, a Holm correction (Holm 1979) was also used to correct P-values for multiple testing.
+Population demographics
+Population demographic patterns were examined within the two populations of each fungal species. In Arlequin version 3.11, we calculated a mismatch distribution and compared this distribution to that of an expanding population which is expected to be unimodal (Rogers & Harpending 1992). Fit of the observed mismatch distribution to a unimodal distribution was estimated with sum of squares deviations (SSD) and Harpending’s raggedness statistic (r) (Harpending 1994). We also calculated Tajima’s D and Fu’s Fs, two tests of neutrality which are sensitive to signatures of population expansion (Tajima 1989; Rogers & Harpend-
+Ó 2010 Blackwell Publishing Ltd
+FUNGAL SYMBIONT COMPARATIVE PHYLOGEOGRAPHY 587
+
+588 A. D. ROE ET AL.
+ing 1992; Fu 1997). Significance was determined by comparing the observed values to a randomly generated distribution (1000 permutations) assuming selective neutrality and population stationarity (Excoffier et al. 2005). In an expanding population, an excess of low frequency variants is expected for all loci, leading to negative Tajima’s D and Fu’s Fs values (Tajima 1989; RamosOnsins & Rozas 2002).
+Evidence of recombination
+Three methods were used to detect evidence of recombination. First, concatenated sequence data sets were used to construct split networks in SPLITSTREE version 4.10 using the neighbour-net algorithm (Bryant & Moulton 2004). This algorithm uses uncorrected pairwise distances to estimate relationships among MLST haplotypes, using reticulations to represent incompatibilities within the data set (Huson & Bryant 2006). A reticulated network provides an implicit representation of evolutionary patterns and may indicate the presence of homoplasy or recombination (Huson & Bryant 2006). Second, we used the pairwise homoplasy index (Fw) (Bruen et al. 2006), implemented in SPLITSTREE. The test is robust to demographic history and mutation rate and relies on the premise that physically close sites will be less likely to be disassociated by recombination than distant sites. Using a 100-bp window, compatibility among sites was calculated and significance determined with a permutation test assuming no recombination. Third, an index of association (IA), a test for clonality or lack of recombination was calculated using Multilocus version 1.3b (Agapow & Burt 2001) on a clone-corrected data set. The observed MLST haplotype distribution was compared to an expected haplotype distribution generated from 1000 randomly reshuffled haplotype combinations. The test assumes an infinite amount of recombination, so significant departure from the simulated data set suggests the presence of clonality. Clone-corrected data sets were obtained by removing identical MLST haplotypes at the level of the stand to reduce the chances of sampling the same fungal strain multiple times.
+Results
+Phylogeographic analyses
+A total of 143 O. montium, 155 G. clavigera and 169 L. longiclavatum isolates from 45 stands in 12 landscapes were sequenced (Fig. 1). Five loci (actin, EF1a, Btub, UFM and ITS2) were amplified for G. clavigera and L. longiclavatum, and four loci (missing UFM) were amplified for O. montium. Haplotype networks inferred from each locus are presented in Appendix S2 (Supporting infor-
+mation), including pruned networks for G. clavigera and L. longiclavatum which were described previously (Roe et al. 2010). Sequences were concatenated, creating a multilocus data set for each species, from which unique MLST haplotypes were selected for ML analysis. A summary of the phylogenetic data and ML model parameters for O. montium are presented in Table 1, with similar data available for the other two species in Roe et al. (2010), (Table 2). ML phylograms for O. montium (Fig. 2), G. clavigera and L. longiclavatum (Fig. 3) are shown, in which O. montium was paraphyletic, while both G. clavigera and L. longiclavatum formed monophyletic clades. ML phylograms of all three species have short internal branches and longer terminal branches, with some very long branches indicating highly divergent O. montium MLST haplotypes (Fig. 2, e.g. M37). Given the congruence between MPB and G. clavigera population structure (Lee et al. 2007; Bartell et al. 2008), we looked for similar congruence in our fungal data sets. Ophiostoma montium was the most diverse of the three species. A total of 66 MLST haplotypes were found, with over half found only in a single strain (Fig. 2). Few MLST haplotypes were shared between northern and southern populations, with more shared between landscapes within the populations than between populations. Based on the ML relationships, phylogenetic structuring exists among O. montium haplotypes, partially corresponding to geographic location, although these relationships were poorly supported (Fig. 2). Single locus data showed a similar pattern (Appendix S2A, Supporting information), with only half of the haplotypes shared between northern and southern populations, although correspondence between phylogenetic relationship and geographic location was less evident. In contrast, G. clavigera and L. longiclavatum (Fig. 3) had far fewer MLST haplotypes and showed little correspondence between phylogenetic structuring and geographic location. In G. clavigera 12 MLST haplotypes were found, seven of which were very common and shared between northern and southern populations, while all but one of the remaining haplotypes were only in the southern population. Leptographium longiclavatum had six MLST haplotypes, two of which were very common and were shared between northern and southern populations, with the remaining haplotypes found only in the southern population.
+Genetic diversity and population differentiation
+Indices of genetic diversity for each species, as well as for northern and southern populations within each species, are provided in Table 2. Ophiostoma montium had the highest overall Hd and p, followed by G. clavigera,
+Ó 2010 Blackwell Publishing Ltd
+
+*GTR+C ML model; )ln = )5114.4; a gaps ⁄ missing = 0.06755. †Ingroup only.
+‡Partitioned.
+FUNGAL SYMBIONT COMPARATIVE PHYLOGEOGRAPHY 589
+Table 1 Parameters for individual loci and the concatenated multilocus maximum likelihood (ML) analysis of Ophiostoma montium sequence data. A partitioned ML analysis was employed, and character information is presented for each locus partition. Ingroup character information includes the representative sequence data obtained from GenBank
+  # Haplotypes†
+# Sites
+# Constant char.†
+# Variable char. (uninformative)† # Pars. inform. char.†
+% Informative†
+Base freq.‡
+A C G T
+Rate matrix‡ A-C
+A-G A-T C-G C-T G-T
+C (alpha)‡
+Actin EF1a Btub
+6 9 17 702 568 632 693 541 597 0 8 5
+9 19 30 1.28% 3.34% 4.75%
+0.1920 0.2041 0.1811 0.2924 0.3220 0.3235 0.3220 0.2076 0.2745 0.1935 0.2662 0.2208
+1.1732 2.8713 1.9422 16.4090 1.4441 5.8509 2.0000E-5 1.6941 3.7643 6.4245 0.8930 2.0085 1.1050 8.0788 7.5822 1.0000 1.0000 1.0000 0.02000 0.02000 0.02000
+ITS2 Combined*
+7 66 918 2820 907 2738 0 13
+11 69 1.20% 2.44%
+0.2090 – 0.2852 – 0.3108 – 0.1949 –
+1.6953 – 3.9262 – 2.6116 – 2.0000E-5 – 23.1454 – 1.0000 – 0.02000
+ Table 2 Genetic diversity and recombination indices for populations of Ophiostoma montium, Grosmannia clavigera and Leptographium longiclavatum
+ Genetic diversity indices
+Tests of neutrality Recombination
+   n
+North 80 South 63 Total 143
+G. clavigera
+North 79 South 76 Total 155
+S h
+56 29 42 43 76 66
+5 8
+6 11
+6 12
+Hd (SD)
+0.93 (0.014) 0.98 (0.0060) 0.97 (0.0070)
+0.74 (0.040) 0.82 (0.023) 0.81 (0.021)
+0.41 (0.036) 0.57 (0.068) 0.52 (0.022)
+p (SD)
+0.0019 (0.00045)
+0.0019 (0.00021) 0.0020 (0.00027)
+0.00045 (0.000040) 0.00046 (0.000040) 0.00049 (0.000030)
+0.00015 (0.000010) 0.00026 (0.000320) 0.00021 (0.000020)
+Fs
+)6.22 ns
+)25.26*** –
+)0.51 ns )3.23 ns
+–
+5.73 ns 0.72 ns –
+DIAFw
+  O. montium
+Leptographium longiclavatum
+North 122 1 2 South4746 Total 169 4 6
+)1.86** )1.41* )1.96*
+0.75 ns 0.37 ns 0.73 ns
+1.30 ns )0.38 ns )0.33 ns
+0.088 ns – )0.094 ns – )0.051 ns **
+0.018 ns – 0.24*** – 0.12** ns
+–† – 0.13 ns – 0.057 ns ns
+ n, number of strains; S, segregating
+diversity; Fs, Fu’s Fs; D, Tajima’s D; IA, index of association; Fw, pairwise homoplasy index. *P £ 0.05; **P £ 0.01; ***P £ 0.001; ns: not significant.
+†Lack of genetic variability prevents calculation.
+sites;
+and then L. longiclavatum. All species had higher Hd in the southern population. Ophiostoma montium had similar levels of p in both populations, while both G. clavigera and L. longiclavatum had slightly higher p in the southern population. Using AMOVA, we estimated
+Ó 2010 Blackwell Publishing Ltd
+h, number of haplotypes; Hd, haplotype diversity; SD, standard deviation; p, nucleotide
+population differentiation and structure for each fungal species. For all three species, variation within populations accounted for the majority of the total variation (Table 3). The percentage of variation among the northern and southern populations ranged from 4.47%
+
+590 A. D. ROE ET AL.
+ Haplotype N
+M49 1 M51 1 M21 2 M54 1 M56 1 M57 3 M53 1 M15 1 M34 1 M64 1 M01 17 M23 2 M66 1 M06 2 M52 2 M02 1 M32 2 M22 1 M59 3 M10 2 M05 13 M08 2 M58 1 M60 9 M39 1 M20 1 M04 1 M19 1
+O. montium
+M18 1 M03 3
+M24 1 M14 1 M26 4 M33 2 M37 2 M42 1 M40 1 M55 1 M16 1 M44 1 M65 2 M50 1 M36 1 M07 1 M12 2 M62 1 M11 4 M61 1 M38 1 M41 1 M09 1 M31 1 M35 5 M46 1 M29 3 M25 2 M30 9 M28 2 M43 1 M45 1 M47 1 M48 1 M17 3 M13 1 M63 2
+North
+South
+ABBCABABABBC BCBCABBCABAB
+           North pop. Shared South pop. Genbank
+O. ips
+Sample Size
+n = 2–5 n= 1
+                                                                                                                                                                                                                                                                                             143131713141607 090629060805
+  0.1 substitutions/site
+Ó 2010 Blackwell Publishing Ltd
+Fairview
+Tumbler Ridge
+Grande Prairie Fox Creek
+Willmore-Kakwa Valemont
+Golden Kootenay-Yoho
+Canmore Sparwood
+Crowsnest Pass Cypress Hills
+
+FUNGAL SYMBIONT COMPARATIVE PHYLOGEOGRAPHY 591
+ Haplotype N
+C12 1
+C02 10
+C01 17
+C05 10
+C03 55
+C06 2
+C08 32
+C11 1
+C10 1
+C07 10
+C09 12
+C04 4
+North
++
+South
+ABBCABABABBC BCBCABBCABAB
+             North pop. Shared South pop. Genbank
+Sample Size
++ n≥6
+n = 2–5
+G. clavigera
+++++ +
++
+                                                              n= 1
+0.025 substitutions/site
+L. longiclavatum
+G. clavigera
+L. longiclavatum
+L03 3 L01 99 L0263 L04 2 L05 1 L06 1
+        154111321111706 080738090805
+                + + + + +
+++ + + +
+                        169 15 28 29 21 22 07 10 05 16 07 06 02
+ Fig. 3 Maximum likelihood phylograms for the Grosmannia clavigera and Leptographium longiclavatum concatenated multilocus data sets of five independent loci (actin, EF1a, Btub, UFM and ITS2). Thickened branches indicate clade support >80%. For each haplotype, population assignment (north, south or shared) and landscape of origin are shown. Phylograms were adapted from Roe et al. (2010).
+(O. montium) to 21.67% (L. longiclavatum), and all FST values were significant (Table 3).
+Comparative population structuring
+With CADM we tested for congruence among three fungal FST distance matrices and a landscape-level geographic distance matrix (Table 4). The global CADM test rejected the null model of incongruence among the matrices, and all a posteriori CADM results indicate that each matrix was congruent with at least one other matrix. One-tailed Mantel tests showed that the FST distance matrices of G. clavigera and L. longiclavatum were congruent (P < 0.01), suggesting similar landscape-level population structuring. Leptographium longiclavatum genetic distance matrix was also congruent with geographic
+Table 3 Analysis of molecular variance for northern and southern populations of MPB-associated fungi
+ Fig. 2 Maximum likelihood phylogram for the Ophiostoma montium concatenated multilocus data set of four independent loci (actin, EF1a, Btub, ITS2). Thickened branches indicate clade support >80%. For each haplotype, population assignment (north, south or shared) and landscape of origin is shown.
+Ó 2010 Blackwell Publishing Ltd
+Ophiostoma montium
+Among N, S pops. 1
+Within N-S pops. 137
+Grosmannia clavigera
+Among N, S pops. 1
+Within N-S pops. 152
+Leptographium longiclavatum
+Among N, S pops. 1 13.46 Within N-S pops. 166 114.70
+0.19*** 21.67 0.69 78.33
+d.f.
+SSD Var. % Var. 14.092 0.16*** 4.47
+462.43 3.38 95.53
+5.058 0.055*** 6.52 120.76 0.79 93.48
+FST 0.045*** 0.065*** 0.22***
+  d.f., degrees of freedom; SSD, sum of squares deviation; Var., components of variance; % Var., per cent of variance.
+***P < 0.0001.
+ Fairview Tumbler Ridge
+Grande Prairie Fox Creek
+Willmore-Kakwa Valemont
+Golden Kootenay-Yoho
+Canmore Sparwood
+Crowsnest Pass Cypress Hills
+
+592 A. D. ROE ET AL.
+Table 4 Congruence among pairwise FST values calculated from concatenated MLST sequence data of three fungal species and geographic distance among landscapes. Tests were calculated using CADM in the ape package implemented in the R framework
+ Global congruence Kendall’s W Friedman’s v2
+A posteriori pairwise congruence
+Grosmannia clavigera Leptographium longiclavatum Ophiostoma montium Geographic distance
+One-tailed Mantel tests
+G. clavigera L. longiclavatum O. montium Geographic distance
+H0: matrices are incongruent 0.4612
+119.8787***
+H0: matrix is incongruent with remaining matrices H1: matrix is congruent with at least one other matrix
+P-value
+Adjusted P-value†
+ * * ** * ** * ** **
+H0:r=0;H1:r>0 G. clavigera
+1.0000
+L. longiclavatum
+0.4208** 1.0000
+O. montium
+0.1901 ns 0.1469 ns 1.0000
+Geographic distance
+0.1496 ns 0.3661* 0.4151** 1.0000
+  MLST, multilocus sequence typing; CADM, congruence among distance matrices. *P £ 0.05; ** P £ 0.01; ***P £ 0.001; ns: not significant.
+†Holm adjustment for multiple tests.
+distance (P < 0.05), indicating significant spatial autocorrelation. Ophiostoma montium was incongruent with both other fungal matrices but was congruent with geographic distance (P < 0.01), indicating significant spatial autocorrelation.
+Population demographics
+Comparing several tests for population expansion, conflicting population demographic patterns occurred within and between species. Following Grant & Bowen (1998), O. montium was characterized by high Hd (>0.5) and low p (<0.5), consistent with a past population bottleneck followed by rapid population expansion. Mismatch distributions for both O. montium populations were multimodal, containing multiple distinct peaks (Fig. 4). The demography of the northern population was significantly different from the null model of sudden expansion, while the southern population was consistent with the model of a sudden expansion. Both populations had a nonsignificant Harpending’s raggedness index. In O. montium, the northern population had a small cluster of highly divergent pairwise differences (Fig. 4), which may correspond to mismatches between divergent haplotypes (e.g. M37 or M65; Fig. 2). Using the tests of neutrality, Tajima’s D was significant for both northern and southern O. montium populations, suggesting population expansion, while only Fu’s Fs was significant for the southern population. Like O. montium, G. clavigera was characterized by high Hd (>0.5) and low p (<0.5), suggesting a past
+population bottleneck followed by rapid population expansion. Mismatch distributions of both G. clavigera populations were unimodal were not significantly different from the null model of sudden expansion and had a nonsignificant Harpending’s raggedness index (Fig. 4). In contrast, neither Fu’s Fs nor Tajima’s D was significant for populations of G. clavigera, refuting a population expansion scenario. Unlike the previous species, L. longiclavatum had relatively low Hd (£0.5) and low p (<0.5), making it difficult to differentiate between a bottleneck and recent population expansion or a population bottleneck with few founders. Mismatch distributions in L. longiclavatum were difficult to define owing to the low Hd, particularly in the northern population (only two MLST haplotypes were present). The distribution in the northern population was significantly different from the null model of sudden expansion, although this may be attributed to the low Hd characterizing this population. Both populations had nonsignificant Harpending’s raggedness index. Like G. clavigera, neither test of neutrality (Fu’s Fs or Tajima’s D) was significant for populations of L. longiclavatum.
+Evidence for recombination
+Using the concatenated data set, networks were produced for each species using the neighbour-net algorithm. Each species showed a reticulate topology, although the level of reticulation varied between species (Fig. 5). Ophiostoma montium had the most reticu-
+Ó 2010 Blackwell Publishing Ltd
+
+ lation among haplotypes, followed by G. clavigera. Reticulation among haplotypes within these two species occurred between internal nodes, as well as between terminal branches, a pattern indicative of recombination (Rosendahl et al. 2009). Reticulation among L. longiclavatum haplotypes, on the other hand, was restricted to internal nodes as expected from homoplasy. Using Fw, another metric for presence of recombination, only O. montium was found to have significant evidence for recombination. We should note that Fw has been demonstrated to be too conser-
+vative when sequence diversity is low and populations are growing (Bruen et al. 2006), so it is possible that this test failed to detect recombination in G. clavigera and L. longiclavatum (Type II error). To further assess the presence (or lack thereof) of recombination, we used IA (Agapow & Burt 2001). Using clone-corrected data sets, we examined IA for each fungal species and population, although we were unable to calculate IA for the northern L. longiclavatum population owing to the low Hd. Based on IA, we could not reject the presence of recombination in O. montium or
+Ó 2010 Blackwell Publishing Ltd
+FUNGAL SYMBIONT COMPARATIVE PHYLOGEOGRAPHY 593
+0.25 0.20 0.15 0.10 0.05
+0.5
+0.4 0.3 0.2 0.1
+0.6 0.5 0.4 0.3 0.2 0.1 0.0
+Fig. 4 Mismatch distributions for northern and southern populations of three mountain pine beetle–fungal symbionts. Bars indicate the observed mismatch difference between haplotypes, and the lines represent the expected distribution under a sudden population expansion model. Deviations from the expected distribution are assessed with sums of squares deviation (SSD) and Harpendings raggedness index (r) (Harpending 1994). Measures of significance as in Table 2.
+O. montium North Observed frequency
+Sudden expansion model
+SSD = 0.029 ** r = 0.042 ns
+0 10 20 30 40 50
+G. clavigera North
+SSD = 0.017 ns r = 0.056 ns
+0 5 10 15 20
+L. longiclavatum North
+SSD = 0.20 * r = 0.68 ns
+0 5 10 15 20
+O. montium South
+SSD = 0.016 ns r = 0.022 ns
+0 5 10 15 20 25 G. clavigera South
+SSD = 1.541 ns r = 0.078 ns
+0 5 10 15 20
+L. longiclavatum South
+SSD = 0.013 ns r = 0.34 ns
+0 5 10 15 20
+Relative frequency
+Pairwise nucleotide differences
+
+ 594 A. D. ROE ET AL.
+(a) O. montium (singletons excluded)
+M65
+M37
+M21
+M03
+M26
+M33
+M29 M57
+M30
+M25 M28
+M12
+0.001 substitutions/site M52 M23
+M06
+M11 M17
+M63
+M01 M60
+(b) G.clavigera C06 9.999E-5 substitutions/site
+C03
+C02
+C10
+(c) L.longiclavatum 9.999E-5
+substitutions/site L05
+C11
+L04
+C07
+C05
+C04
+M32 M08
+L06
+M35
+M10 M05
+M59
+L02
+C08
+C09
+Fig. 5 Reticulate topologies among mountain pine beetle–fungal symbionts calculated with the neighbour-net algorithm and uncorrected p distances. Population membership as in Fig. 3. (a) Ophiostoma montium; (b) Grosmannia clavigera; (c) Leptographium longiclavatum.
+L01
+C01
+O. montium all haplotypes C12
+L03
+Ó 2010 Blackwell Publishing Ltd
+
+L. longiclavatum, both at the species level and at the population level. In G. clavigera, IA was significant at the species level, as well as in the southern population, suggesting that the southern population, at least, shows evidence for clonality.
+Discussion
+The current MPB outbreak in western Canada has been characterized by large demographic and range expansions (Raffa et al. 2008). Given the obligate nature of the MPB–fungal symbiosis, we had an ideal opportunity to use a comparative approach to infer common historical patterns in multiple codistributed species, test for evidence of recombination that may affect the genetic diversity of each species, and to relate the observed genetic diversity to biological characteristics of each species. This type of comparative study is of particular value in pathogenic species (Barrett et al. 2008a) and can improve our understanding of population structure and demographic processes affecting these economically important organisms. Despite similar needs (e.g. transportation to ephemeral food sources), these three fungi were surprisingly different, even with concordant broadscale population structuring. Comparative, simultaneous comparisons of multiple codistributed species also serves to demonstrate the level of complexity observed within multipartite symbioses and should be considered for future studies on multipartite symbioses.
+Broadscale population structuring was congruent across the three fungal species, with each species differentiating into southern and northern populations (Table 3), similar to previously observed patterns in G. clavigera (Lee et al. 2007) and MPB (Bartell et al. 2008). We observed higher levels of Hd in all three southern fungal populations that, as suggested in Lee et al. (2007), could be evidence of earlier MPB outbreaks in western Canada. Over the past 100 years, three MPB outbreaks have been recorded in this region. The first two recorded outbreaks (1934–1943 and 1977–1985) occurred in south-central British Columbia and expanded into southern Alberta (Powell 1961; Ono 2004). If remnant populations of MPB and fungi from these previous outbreaks persisted at endemic levels in Alberta, there would have been time for the fungal lineages to differentiate. When the disjunct populations in British Columbia expanded during the current outbreak, signatures of an endemic southern Alberta population remained as suggested by our data.
+While we did see congruent broadscale population differentiation, when we compared these three species at a finer landscape level, this congruence was less apparent. The population structuring of two species (G. clavigera
+and L. longiclavatum) was congruent, while O. montium was incongruent. Interestingly both L. longiclavatum and O. montium showed evidence of spatial autocorrelation, although no evidence was found in G. clavigera. The extremely high levels of haplotype diversity in O. montium could explain this incongruence, while the lack of spatial autocorrelation in G. clavigera is harder to interpret. Grosmannia clavigera is often considered the primary fungal symbiont, providing the MPB greater fitness benefit than other fungal species (Six & Paine 1998; Bleiker & Six 2007). It is possible that G. clavigera is experiencing different dispersal patterns or rates than the other two fungal species, influencing its phylogeographic patterns and creating incongruence with the other two symbionts.
+Interestingly, neither broad nor finer-scale population structuring was observed among the phylogenetic relationships of haplotypes within the fungal species. We found little phylogeographic structuring among the MLST haplotypes, and the intraspecific relationships were poorly supported. We were surprised to see little evidence for the previously detected cryptic diversity in G. clavigera (Groups 1 & 2, Lee et al. 2007). It is possible that our conserved nuclear and ribosomal markers were unable to separate these two groups, which were identified using more variable AFLP markers. Alternatively, it is also possible that members of one of the two groups were not sampled. The relationships among our haplotypes were star like, with short internal nodes and long terminal branches (Figs 2, 3 and 5), characteristic of populations that have recently undergone a rapid expansion (Excoffier et al. 2009). Given the observed demographic and spatial expansion of the current MPB outbreak, it is not surprising that the obligate symbiotic fungi are also experiencing similar, detectable, population expansions. Moreover, these outbreaks have occurred very recently, so there may not have been time for lineage sorting to result in detectable phylogenetic signal. Expanding populations are expected to have an excess of rare alleles and low-frequency mutations with a skew towards singletons, gene trees with long terminal branches and star-like topologies, negative Tajima’s D and Fu’s Fs, and unimodal mismatch distributions (Slatkin & Hudson 1991; Harpending & Rogers 2000; Excoffier et al. 2009). Many of these genetic patterns were observed in the fungi (Figs 2–4 and Appendix S2, Supporting information), albeit with some conflicting results. These conflicts may be attributed to the recent nature of the current MPB population expansion, low levels of nucleotide diversity that decrease the power to detect signatures of population expansion or unrecognized cryptic species, which could be giving misleading results for the tests of neutrality and confound the interpretation of mismatch distributions.
+Ó 2010 Blackwell Publishing Ltd
+FUNGAL SYMBIONT COMPARATIVE PHYLOGEOGRAPHY 595
+
+596 A. D. ROE ET AL.
+Incongruent genetic diversity, demographic patterns and landscape-level population structuring could result from a number of biological differences between the three species (Figs 2, 3 and Tables 2–4). First, differential recombination rates provide one possible explanation for these interspecific differences. Differences in reproductive mode (e.g. sexual vs. asexual) are known to affect a range of population characteristics (Barrett et al. 2008b), such as genetic diversity (Milgroom 1996), population growth rate (Heitman 2006), persistence (Barrett et al. 2007) and rate of evolutionary change (McDonald & Linde 2002). Sexual reproduction or, more broadly, recombination (including parasexual recombination) creates mosaic sequences and provides a means of creating new genetic combinations. Fungal species show a great diversity in levels of recombination, ranging from fully asexual lineages to obligate outcrossers (Milgroom 1996), and detection of this process is paramount to understanding fungal evolution.
+Among the study species, morphological evidence for recombination (sexual reproduction) is uneven. Sexual states have been observed in O. montium (Rumbold 1931; A.V. Rice & K. Bleiker, unpublished), and evidence for sexual reproduction is quite common in O. ips and Ophiostoma pulvinisporum Zhou & Wingfield, two closely related species (Zhou et al. 2004, 2007). In contrast, sexual states in G. clavigera have rarely been reported since they were originally described by Robinson-Jeffery & Davidson (1968), despite efforts to produce sexual states in artificial pairings (Six & Paine 1997; Six et al. 2003). The anamorphic genus Leptographium is considered to include the asexual forms of Grosmannia species (Lee et al. 2005; Zipfel et al. 2006), so it would be surprising to detect recombination in members of this group, such as L. longiclavatum.
+Using a neighbour-net algorithm, Fw , and IA , we consistently detected evidence for recombination in O. montium, while recombination in the other two species was weakly supported (Table 2, Fig. 5). A species capable of recombination would be expected to have higher genotypic diversity than an asexual species and would also be expected to have a high number of unique, recombinant genotypes (Burdon & Roelfs 1985; Barrett et al. 2008a), similar to our observations for O. montium. Recombination, rather than cryptic species diversity, could explain the highly divergent MLST haplotypes observed in O. montium, such as ME8 in EF1a (Appendix S2, Supporting information). Conversely, asexual species, or species where recombination is rare, would have a number of common genotypes shared between populations and few unique strains, as we observed in L. longiclavatum and G. clavigera (Table 2, Fig. 5).
+Asexual reproduction, or clonality, is considered a common adaptation to mutualistic relationships (Wulff
+1985), allowing symbiotic partners to co-evolve with optimally adapted clones without the confounding force of recombination disassociating successful gene combinations. However, truly asexual lineages may be prone to the accumulation of deleterious alleles and may be unable to rapidly adapt to heterogeneous environments (Lushai et al. 2003). Organisms with recombination, on the other hand, have the advantage of purifying selection and the ability to create new gene combinations allowing rapid adaptation to changing conditions. Many fungi have the ability to switch between recombining and clonal reproduction (Taylor et al. 1999), providing great adaptive potential. Recombination can produce highly adapted genotypes, which then can increase in frequency through clonal reproduction (McDonald & Linde 2002; Barrett et al. 2008a). It will be interesting to further explore patterns and rates of recombination among these species, relating the differences in mode of reproduction to their functional roles in the MPB–fungal symbiosis.
+In addition to recombination, differences in other biological traits relating to the functional roles of each fungal species could explain the observed incongruence. First, while G. clavigera and L. longiclavatum are transmitted exclusively in the mycangia, O. montium can be transmitted in the mycangia, as well as on the exoskeleton of the beetle host (Six 2003; Lee et al. 2005). This apparent disparity in transmission efficiency could result in the transmission of a greater diversity of O. montium strains relative to the exclusively mycangial associates. Coupled with higher rates of recombination, these dual modes of transportation may contribute to the maintenance of higher levels of genetic diversity in O. montium, creating discordance between the different fungal species. Second, mycangial transport requires the acquisition of fungal spores by the beetle prior to emergence from the natal host (Six 2003). If the beetle is preferentially selecting spores of certain fungal strains, this could dramatically influence the genetic diversity, population structuring and demographic patterns of the mycangial species. Nonrandom selection of fungal strains by the beetle would act like purifying selection on the fungal populations, reducing genetic diversity particularly if the selected species are asexual or have low rates of recombination. Third, G. clavigera is considered the primary symbiont of the MPB (Six & Paine 1998; Bleiker & Six 2007) with a long evolutionary history with this beetle host, while O. montium is a recent invader of the system (Six & Paine 1999). It is possible that the long evolutionary history with MPB has resulted in a loss of genetic diversity in G. clavigera, a pattern not yet observed in O. montium. On the other hand, high genetic diversity as a result of recombination may have permitted the invasion and persistence of O. montium in the MPB system.
+Ó 2010 Blackwell Publishing Ltd
+
+Conclusion
+As general understanding of the multipartite MPB– fungal symbiosis expands, it is apparent that we have only begun to comprehend the complexity of this system. Our comparative examination of three cooccurring fungal symbionts identified similar broadscale population structuring, confirming the presence of northern and southern fungal populations. However, finer-scale population structuring showed surprising levels of incongruence, refuting our initial hypotheses. In our results, O. montium was characterized by high haplotype diversity with evidence of high rates of recombination, while haplotype diversity for G. clavigera, and to a greater extent L. longiclavatum, was much lower and showed little to no evidence for recombination. Characterizing the differences among fungal species, such as recombination rate and standing genetic variation, is critical to understanding fungal evolution and adaptation. This is particularly true in symbiotic relationships, where the fitness and adaptability of one symbiont directly affects the other. While asexuality is often viewed as beneficial in symbiotic relationships, recombination creates variation that can allow rapid adaptation to changing environments (Croll & Sanders 2009). This creation of novel gene combinations can result in phenotypic changes, which may confer an adaptive advantage to a recombinant strain (Awadalla 2003), which may in turn provide an advantage to the symbiont host. Recently, Wilkinson et al. (2010) demonstrated that high intraspecific diversity of an ectomycorrhizal fungus had a significant impact on its contribution to ecosystem productivity and ecological function. This work serves to highlight the importance of individuals within studies seeking to clarify the functional roles of fungal symbionts. Similar types of phenotypic variabilities have been demonstrated among MPB–fungal symbionts, leading to conflicting results between studies. Given the potential individual variability, it will be essential to take strain genotype into account when designing studies that examine the functional roles of fungal symbionts, as individual strains may broadly vary in their environmental tolerance, nutritive value and virulence, all factors that could impact MPB fitness.
+From our study, other exciting avenues for future work have emerged. For example, how does the genetic diversity of the mycangial symbionts following beetle emergence compare to the community within the gallery? Does the beetle select for particular fungal genotypes? Given that O. montium is transmitted both mycangially and phoretically, is the genetic diversity of the mycangial strains different than those on the exoskeleton? Does the observed genetic diversity and recombination rates within these symbionts correlate
+with variation seen in other traits, such as ergosterol content (Bentz & Six 2006), virulence (Solheim & Krokene 1998; Lee et al. 2006b; Rice et al. 2007; Plattner et al. 2008) and environmental tolerance (Adams & Six 2007; Rice et al. 2008; Bleiker & Six 2009a)? Do different populations of MPB (e.g. northern vs. southern) have differentially adapted symbionts? Ultimately, with this new understanding of genetic variation within the MPB symbiont community, we now have the tools to further explore MPB–fungal symbiont evolution and help resolve the complexities of this system.
+Acknowledgements
+We acknowledge all the TRIA field crews and laboratory technicians who obtained and processed the fungal samples. We particularly acknowledge the contributions of several key personnel associated with the TRIA project: Dr Patricia Crane, who developed and cultured the single spore isolates; Sean Bromilow, William Clark and Sophie Dang, who extracted, optimized and collected fungal molecular data; Sepideh Alamouti, Colette Breuil, Richard Hamelin and Clement Tsui, who provided support and advice throughout this project. Funding for this research has been provided through grants from the Government of Alberta (AAET ⁄ AFRI-859-G07), as well as from the Government of Alberta through Genome Alberta, and from the Government of British Columbia through Genome BC (The TRIA Project, http://www. thetriaproject.ca) to JEKC, DWC and FAHS.
+References
+Ó 2010 Blackwell Publishing Ltd
+FUNGAL SYMBIONT COMPARATIVE PHYLOGEOGRAPHY 597

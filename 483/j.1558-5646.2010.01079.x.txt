@@ -1,0 +1,343 @@
+         ORIGINAL ARTICLE
+THE EFFECTS OF PREDATION RISK ON MATING SYSTEM EXPRESSION IN A FRESHWATER SNAIL
+Josh R. Auld1,2,3
+1Department of Biological Sciences, University of Pittsburgh, 4249 5th Ave., Pittsburgh, Pennsylvania 15260
+2E-mail: josh.auld@nescent.org
+Received January 4, 2010 Accepted June 18, 2010
+Environmental effects on mating system expression are central to understanding mating system evolution in nature. Here, I report the results from a quantitative-genetic experiment aimed at understanding the role of predation risk in the expression and evolution of life-history and mating-system traits in a hermaphroditic freshwater snail (Physa acuta). I reared 30 full-sib families in four environments that factorially contrast predation risk and mate availability and measured age/size at first reproduction, growth rate, a morphological defense, and the early survival of outcrossed/selfed eggs that were laid under predator/no-predator conditions. I evaluated the genetic basis of trade-offs among traits and the stability of the G matrix across environments. Mating reduced growth while predation risk increased growth, but the effects of mating were weaker for predator-induced snails and the effects of predation risk were weaker for snails without mates. Predation risk reduced the amount of time that individuals waited before self-fertilizing and reduced inbreeding depression in the offspring. There was a positive among-family relationship between the amount of time that individuals delayed selfing under predation risk and the magnitude of inbreeding depression. These results highlight several potential roles of enemies in mating-system expression and evolution.
+KEY WORDS: Geneticcorrelation,inducibledefense,phenotypicplasticity,reactionnorm,shellthickness,stress,waitingtime.
+The mating system, which describes the pattern of mating among individuals, has a large influence on fitness but is often quite variable under natural conditions (e.g., variation within and among populations and species; Goodwillie et al. 2005; Henry et al. 2005; Jarne and Auld 2006; Eckert et al. 2009; Escobar et al. 2009, in review). Most previous studies, including work focusing on the maintenance of diversity in mating systems, has come from a genetic perspective where factors such as inbreeding depression and population genetic structure are predicted to be important (Lande and Schemske 1985; Uyenoyama et al. 1993; Ronfort and Couvet 1995; Goodwillie et al. 2005). Environmental effects on matingsystem evolution are also important, both in their own right and
+3 Present address: National Evolutionary Synthesis Center (NESCent), 2024 W. Main St., Suite A200, Durham, North Carolina 27705.
+in altering the role of genetic effects (e.g., environmental dependence of inbreeding depression; Armbruster and Reed 2005).
+When environmental conditions alter the expression of reproductive traits, the mating system can differ markedly among environments (e.g., Steets and Ashman 2004; Eckert et al. 2009). Environmental effects on mating system evolution may be pervasive or fleeting depending on the relative frequency at which the environment in question is experienced and the stability of the genetic architecture underlying trait expression across environments. Thus, understanding the patterns and consequences of plasticity in life-history and mating-system traits is central to understanding the evolution of reproductive systems in nature. A major goal, then, is to quantify the effects of specific environmental factors on traits that influence reproduction and ultimately the mating system. Fundamentally, if the environment alters the expression of traits and the genetic architecture underlying them, the
+doi:10.1111/j.1558-5646.2010.01079.x
+ ⃝C 2010 The Author(s). Evolution ⃝C 2010 The Society for the Study of Evolution. 3 4 7 6 Evolution 64-12: 3476–3494
+
+         response to selection may be environment-specific, which challenges our ability to make general evolutionary predictions based on observations of selection and patterns of genetic variation.
+One widespread (and understudied in this context) environmental factor that may affect the expression, consequences, and therefore evolution of mating systems is natural enemies (e.g., predators, herbivores; Steets et al. 2007). Enemies are known to be a potent agent of natural selection and a great variety of organisms are known to respond to the presence of enemies by producing enemy-specific phenotypes, including expression of defensive traits and altered patterns of resource allocation to growth and reproduction (Karban and Baldwin 1997; Tollrian and Harvell 1999). Inducible defenses are often maintained by resource-allocation trade-offs in which defense against one enemy may decrease fitness in the enemy-free environment or increase vulnerability to other enemies. Enemies can also induce changes in reproductive traits that may directly alter the mating system (Steets and Ashman 2004; Auld and Relyea 2008). Thus, the nonlethal effects of enemies can change intraand interspecific interactions and are predicted to alter the course of mating system evolution (Steets et al. 2007).
+Environmental effects may not only affect the expression of the mating system, but also the consequences of the mating system. A common way to generalize environmental effects is to envisage a particular environment as “stressful” (i.e., environmental conditions that reduce fitness). For example, inbreeding depression can vary in magnitude among environments, and it has been observed that inbreeding depression can increase under stress (Armbruster and Reed 2005). An alternative hypothesis is that inbreeding depression should be stronger in the environment where phenotypic variation is higher (Waller et al. 2008). Stress may also interact with inbreeding by altering maternal investment in offspring (White 1972; Riginos et al. 2007). Despite the myriad ways that environmental effects (e.g., stress, enemies) may alter the expression of inbreeding depression, it is important to remember that we lack a general theory for how and why this occurs.
+In this study, I investigated the role that predation risk plays in the expression and evolution of the mating system in Physa acuta, a preferentially outcrossing simultaneously hermaphroditic freshwater snail. In this species and several other species of freshwater snails, individuals respond to predation risk by inducing a defensive response that is specific to the type of risk (e.g., type of predator and even the predator’s diet; Crowl and Covich 1990; DeWitt 1998; Turner et al. 2000; Hoverman et al. 2005; Hoverman and Relyea 2007; Auld and Relyea 2008; Turner 2008). Notably, predator-induced P. acuta increase growth and shell thickness, both of which decrease the probability of being killed by a predator (Auld and Relyea, 2010a). Although allocation toward defense reduces the risk of predation, resource-allocation trade-offs dictate that individuals may not be able to defend themselves and
+reproduce simultaneously; individuals may delay reproduction to construct a more defended phenotype (Auld and Relyea 2008). Additionally, P. acuta incurs strong inbreeding depression and expresses a waiting time to avoid selfing (Jarne et al. 2000; Tsitrone et al. 2003b; Bousset et al. 2004; Henry et al. 2005; Escobar et al. 2007, 2009). In the absence of mates, individuals invest resources in growth, delaying reproduction, and can switch to selfing as a reproductive-assurance strategy if eventually no mate becomes available (Tsitrone et al. 2003b; Escobar et al. 2007; Auld and Relyea 2008). This delay in selfing in the absence of mates (i.e., the “waiting time”) is predicted to be positively related to inbreeding depression (i.e., when inbred offspring are relatively less fit than outbred offspring, individuals should delay selfing; Tsitrone et al. 2003a,b). Thus, both high predation risk and low mate availability can result in delayed reproduction and increased allocation to growth, and these environmental effects are predicted to interact (Auld and Relyea 2008). Although we are beginning to understand how predation risk affects matingsystem traits, previous work has not examined the genetic basis of these trade-offs, the pattern of genetic (co)variation in these traits, and how this variation changes among environments to affect the expression of plasticity in defense, life-history and mating-system traits.
+Using snails reared under a factorial combination of predation risk and mate availability, I quantified genetic variance in (and covariance among) traits and their plasticities as well as inbreeding depression in the early survival of hatchlings. I used these data to assess how predation risk and mate availability interact to determine patterns of growth and reproduction and whether there is a genetic basis to these phenotypic trade-offs. Specifically, I tested the hypothesis that allocation toward defense (i.e., shell thickness and growth) would be positively genetically correlated with the age at first reproduction (i.e., increased defense should result in delayed reproduction). Furthermore, I examined the cross-generational effects of predation risk on inbreeding depression. I evaluated the stress and phenotypic-variation hypotheses for environmental dependence of inbreeding depression and related variation in inbreeding depression to the waiting time. Specifically, I tested the hypothesis that inbreeding depression should be positively related to the waiting time in both predator and no-predator environments. I discuss my results in the context of how predation risk is likely to influence mating system expression and evolution in natural populations.
+Methods
+EXPERIMENTAL DESIGN
+I employed a breeding design to obtain 30 full-sibling families of P. acuta, a number that is within the range of previous studies on
+PREDATION AND MATING SYSTEM EVOLUTION
+ EVOLUTION DECEMBER2010 3477
+
+         JOSH R. AULD
+                                                                                                                                                                                Figure 1. Breeding and experimental design for one family that was followed in the current study. Wild (G0) snails were collected and subsequently isolated in the laboratory. Their G1 offspring were haphazardly paired across families to create 30 interfamily pairs. The G2 progeny from these 30 interfamily pairs represent 30 full-sibling families that were used in a factorial experiment. G2 snails were reared individually in one of four treatments: no predator–mate available (NPM), no predator–no mate available (NPNM), predator– mate available (PM), or predator–no mate available (PNM). Inbreeding depression (ID) was estimated for hatching and early survival by comparing outcrossed (i.e., mate available) and selfed (i.e., no mate available) reproductive success in no-predator and predator environments. Dashed lines symbolize reproduction and solid lines facilitate intragenerational connections; the length of these lines is arbitrary. Snails placed along dashed lines emphasize outcrossing.
+this system (Tsitrone et al. 2003b (n = 16); Escobar et al. 2007 (n = 36)). G0 snails were collected, G1 snails resulted from random outcrossing among G0 snails, virgin G1 snails were crossed to produce full-sibling G2 families, and G2 families were used in the experiment (Fig. 1). Over 150 snails were sampled from a natural population (Geneva pond #3 in northwestern PA; 41◦ 35′ N; 80◦14′W) on 11 April 2007. This is a permanent pond that receives overflow from an adjacent stream during heavy rains; previous work on this system has been on the same population (Auld and Relyea 2008, 2010a,b). After sampling, snails were brought into the laboratory, held together overnight (to ensure ample outcrossing), and subsequently isolated in 1 L of water. One week later over 100 of these snails had laid eggs. Subsequently, the G0 adults were removed from the containers and water and food (boiled lettuce) were changed weekly for the G1 hatchlings. As P. acuta is a preferential outcrosser (S < 10%) and stores sperm (Wethington and Dillon 1991; Henry et al. 2005), it is likely that the G1 progeny resulted from outcrossing among G0 snails.
+On 10 May, I haphazardly selected one G1 hatchling from each of 60 containers and set up 30 interfamily crosses. Physa acuta reaches sexual maturity in 6–8 weeks in the laboratory, so this was well before any mating among G1 siblings could have occurred. These 30 pairs of snails were placed into 1 L of water, fed boiled lettuce ad libitum, and held for 30 days to allow ample time for snails to reach maturity and engage in numerous copulations (Auld and Relyea 2008). On 11 June, I placed each G1 pair into a new container for oviposition and obtained several egg masses (i.e., 30–40 eggs) within two days. Subsequently, the G1 snails were removed and the G2 eggs hatched. On 3–4 July, I haphazardly selected 24 G2 hatchlings (age = 9–10 days; initial size ∼1 mm) from each of the 30 full-sibling families and isolated each snail in 200-mL plastic containers (i.e., 720 isolated snails in total). This sample size was based on previous work and communication with colleagues (Escobar et al. 2007; Auld and Relyea 2008). All containers were filled with ∼180 mL of water and covered with a plastic Petri dish (lid or base) to prevent the snails from
+ 3478 EVOLUTION DECEMBER2010
+
+         crawling out. Experimental-room conditions were held constant across the breeding design and experiment including temperature (22◦C), photoperiod (12-h light/dark cycles), and water source (carbon-filtered, UV-irradiated tap water). All snails were fed boiled lettuce ad libitum.
+G2 snails were reared individually under a randomized design employing a factorial combination of two mate-availability treatments (mate available or not) and two predator treatments (predator cues present or absent) yielding four treatment combinations. Predation-risk and mate-availability treatments were initiated on 9 and 16 July, respectively. Of the 24 isolated snails per full-sibling family, seven were assigned to each of the two mateavailable treatments (i.e., no-predator and predator) and five were assigned to each of the two no-mate treatments. This difference in sample size across mate-availability treatments was chosen because previous work on P. acuta has shown that the heritability of life-history traits is lower with mates than without mates (Tsitrone et al. 2003b; Escobar et al. 2007) and I wanted to increase the power of my design to detect a possibly low heritability. Placement of individuals in the laboratory was randomly assigned with respect to family and treatment and re-arranged weekly.
+Mate availability was manipulated by adding a randomly selected, unrelated mature snail (i.e., the mate), marked with nontoxic paint (Henry and Jarne 2007), to each appropriate container twice per week for 9 h at a time, a duration of time that is sufficient to facilitate copulation (Tsitrone et al. 2003b; Facon et al. 2006). Mates were obtained from extra G1 and G2 snails that were not included in the experiment. When these mates were not in the experimental containers they were held in joint culture in 10-L tubs filled with 8 L of water. I checked the experimental containers for egg masses before and after mates were added. Any egg masses that were laid during these conjugal visits were removed because it was impossible to know if the focal snail or the mate had laid these eggs. After initiating reproduction, snails typically lay an egg mass or more each day (J. R. Auld, pers. obs.), so it is unlikely that my estimate of the age at first reproduction was biased by this removal of eggs. This protocol kept the experimental snails isolated for the majority of the time thereby reducing the potentially negative and confounding effects of group-culturing (Doums et al. 1994). Snails in the no-mate treatment remained isolated. Thus, snails in the mate treatment can produce offspring through outcrossing whereas snails in the no-mate treatment produce offspring through self-fertilization. Although I was unable to explicitly verify (e.g., through molecular analysis) that outcrossing occurred under all crosses, the numerous studies that have quantified the selfing rate in this species as well as observations of numerous, repeated copulations leave little doubt that outcrossing is the sole mating system when mates are available (Jarne et al. 2000; Bousset et al. 2004; Henry et al. 2005; Facon et al. 2006; Escobar et al. 2007, 2009, in review; J. R. Auld, pers. obs.).
+Given that snails detect predators via aquatic chemical cues (e.g., Crowl and Covich 1990; Covich et al. 1994), I implemented the predator treatment by adding crayfish-conditioned water to the appropriate experimental units. This permits predator-induction without allowing predators to consume the focal snails. I used crayfish (Procambarus acutus; n = 27) that co-exist with and prey upon P. acuta in nature—including within the population sampled here (J. R. Auld, pers. obs.). I produced crayfish-conditioned water by feeding crayfish, held in 4 L of water, 50 mg of P. acuta three times per week and rabbit chow ad libitum (crayfish are omnivores). Prior to each feeding, I collected the water in which each crayfish was held, pooled the water from all crayfish, and used this water to replace the water in which each snail in the predator treatment was held. Snails in the no-predator treatment were held in freshwater that was likewise changed three times a week. To control for any potential effects of snail cues in the water (i.e., across predator/no-predator treatments), I collected the water in which the mates were held (described above) prior to each water change, added 1 L of this “snail-conditioned” water to 19 L of freshwater, and used this mixture for changing the water in which the snails in the no-predator treatment were held. Therefore, any potential effects of snail cues were averaged across both predator treatments. Fresh snail food was added following each water change.
+QUANTIFYING TRAITS
+I measured several traits on the experimental snails that are pertinent to defense against predators and mating-system expression as well as a measure of reproductive success. Age at first reproduction (i.e., age at the production of the first egg mass was determined during water changes and mate additions). Shell length (i.e., spire to base; Fig. 1C in Auld and Relyea, 2010a) was measured with digital calipers (0.01-mm resolution) to assess size at first reproduction. Additionally, I measured shell length and shell thickness on 24–27 September (snail age = 93–96 days) with digital calipers to quantify growth and defensive morphology. Both traits were measured three times on each snail and I used the means of these three measures as response variables. For every individual, I divided shell length by age at measurement to obtain a linear estimate of growth rate of shell length (mm/d; hereafter, “growth rate”). Given that shell thickness was correlated with snail growth (r = 0.52; P < 0.001), size adjustment was necessary to understand how shell thickness varies independent of overall size. Shell thickness was size-adjusted by conducting an analysis of covariance (ANCOVA) on shell thickness with environmental treatments as fixed effects, family as a random effect, and log-transformed shell length as a covariate (shell length was log-transformed to improve linearity). All interaction terms were included in the model and I verified that the treatment slopes were parallel. I saved the residuals from this analysis and subsequently
+PREDATION AND MATING SYSTEM EVOLUTION
+ EVOLUTION DECEMBER2010 3479
+
+         JOSH R. AULD
+added each individual’s residual to the estimated marginal mean for each treatment combination. In this way, I produced an estimate of relative shell thickness that is size-independent and therefore indicative of defensive investment independent of growth ability.
+After size-correction, I noticed that all members of one family had extremely high values for relative shell thickness in the predator-no-mate environment (mean = 1.1 mm, range = 1.03– 1.15, a nearly 300% increase over the mean for snails in this treatment and a 450% increase over the grand mean). Although an increase in shell thickness is consistent with the predicted response to predation risk and isolation (Auld and Relyea 2008), these values were extreme outliers (Dixon’s test; Sokal and Rohlf 1995, p. 406) and were dropped from subsequent analyses. Shell thickness measures for individuals from this family that were reared in the all other treatments were not outliers and were therefore retained; values for other traits were examined and retained as well.
+To estimate reproductive success, I quantified the hatching rate and early survival of eggs laid by each individual. During each water change, reproductive snails were placed into a new container and I counted the eggs, filled the containers with freshwater, and added food for the hatchlings. Therefore, as eggs from both predator treatments were placed in freshwater within two days, any effects of predator cues on hatching and early survival result from the maternal environment or very early induction. This was done until snails had laid >50 eggs (typically two to three egg masses) or died. Fifteen days after the eggs were laid, I counted the number of surviving hatchlings and unhatched eggs. Eggs typically hatch in 9–10 days, so this time period allows an assessment of early survival of juveniles (as in Escobar et al. 2007). I used the proportion of eggs that hatched and survived as a measure of reproductive success (hereafter, “early survival”).
+QUANTIFYING TRAIT PLASTICITIES
+To estimate trait plasticities for each family, I quantified the difference between family means across environments. This can be done across mate and predator environments, and I quantified four plasticities by subtracting the mean without predators from the mean with predators and by subtracting the mean with mates from the mean without mates. Thus, I can compare how plasticity to one environmental factor changes in the presence/absence of another environmental factor. Note that this approach to estimating plasticities does not account for sampling variation in the estimates of family means in each environment.
+One plasticity in particular will be given particular focus due to its importance to the mating system. The plasticity in age at first reproduction across mate-availability environments quantifies the amount of time individuals within a given family delay selfing in the absence of mates. This plasticity (hereafter called
+the “waiting time”; Tsitrone et al. 2003a,b), directly influences the mating system by determining how much selfing will occur and is positively related to the magnitude of inbreeding depression in P. acuta (Escobar et al. 2007, 2009). At the interspecific level, the waiting time is also positively related to both inbreeding depression and the outcrossing rate (Escobar et al., in review).
+QUANTIFYING INBREEDING DEPRESSION
+I estimated family-level inbreeding depression (δ) in early survival for the two predator environments using trait values that were log-transformed to be additive and on a relative scale. Loginbreeding depression was calculated using the equation, log(δ) = log(1 + wo) − log(1 + ws), where w is the mean early survival of outcrossed (wo) or selfed (ws) progeny for a given family (Charlesworth and Charlesworth 1987; Johnston and Schoen 1994). I added one to all fitness measures to avoid negative values. Note that this estimator is not a basic log-transformation of the standard estimator, but rather a measure of inbreeding load (Charlesworth and Charlesworth 1987; Willis 1999; Escobar et al. 2007). Subsequently, I back-transformed these estimates of log(δ) to the classical percent-inbreeding depression form (δ = 1 − 10−log(δ)). Early survival (w) was defined as zero if a snail died without laying any eggs (i.e., if the denominator was zero).
+I evaluated two hypotheses that have been advanced to explain variation in inbreeding depression. To evaluate the stress hypothesis (Armbruster and Reed 2005), I conducted a t-test on family means to evaluate the prediction that inbreeding depression will be stronger in the predator environment. To evaluate the phenotypic-variation hypothesis, I calculated Crow’s opportunity for selection (I P ; the squared coefficient of phenotypic variation for early survival; Waller et al. 2008) for each family in each environment. These were calculated by first taking the mean for mated and isolated snails within each family and then the weighted mean across mate treatments. I conducted a t-test on family means to evaluate the prediction that IP would be higher in the environment with stronger inbreeding depression. I also examined the relationship between inbreeding depression and IP by regressing family-level inbreeding depression on IP. This was done separately for the no-predator and predator treatments.
+STATISTICAL ANALYSES
+I fit generalized linear models (GLMs) to assess the effects of environment and family on five variables using R (Crawley 2005; R Development Core Team 2006). Growth rate, shell thickness, and size at first reproduction were modeled with a Gaussian error distribution (and identity link function) whereas age at first reproduction was modeled under a Gamma error distribution (and reciprocal link function). I also ran mixed-model analyses of variance (ANOVAs) in SPSS (version 11, SPSS Inc., Chicago, IL) on these traits and found qualitatively similar results. Early survival
+ 3480 EVOLUTION DECEMBER2010
+
+         was modeled with a binomial error structure and logit link function. The effect of each term in these models was assessed with a deviance analysis (Crawley 2005) where the effect of a given term is determined by comparing the deviance (i.e., −2 × loglikelihood) that is not explained by the model before and after its deletion. I started with the complete model including all possible main effects and interactions and proceeded to sequentially delete terms starting with those of highest order. Deviance ratios, which are approximately F-distributed and correspond to F-ratios in ANOVA, were calculated to account for overdispersion (Crawley 2005). When the predator-by-mate interaction was significant, I conducted univariate mean comparisons using GLMs. In total, I tested the significance of 51 terms (35 F-tests associated with the main models and 16 mean comparisons). The significance threshold for all tests was adjusted to balance the risk of Type I and Type II errors following the method of Verhoeven et al. (2005).
+I estimated environment-specific genetic variances and covariances using restricted maximum likelihood (REML) methods in SAS (Proc MIXED; version 9.2, SAS Institute, Inc., Cary, NC) following Fry (2004). The significance of the among-family variance component (V AF ) for each trait was assessed with a likelihood-ratio test in which the difference between −2 × loglikelihood for models with and without the family term follows a chi-squared distribution. One-tailed significance tests (df = 1) were used because the variance cannot be negative. Under a full-sibling design, VAF is comprised of half the additive genetic variance as well as dominance and epistatic variance (Roff 1997; Lynch and Walsh 1998). Thus, narrow-sense heritability (h2; 2 × VAF/VTOTAL) and evolvability (IG; the genetic component of Crow’s opportunity for selection; Houle 1992) are probably overestimated. As evolvabilities are the genetic variation in a trait standardized by the squared mean of the trait, they are particularly useful for making comparisons among traits within a given environment and among environments for a given trait.
+Genetic correlations among traits estimate their shared genetic architecture. These were calculated based on genetic variances and covariances estimated using REML. The significance of genetic correlations was tested using likelihood-ratio tests of models in which the correlation was fixed at 0 or ±1 (Fry 2004). Environment-specific G matrices were constructed for comparison, but all four were not positive definite (presumably due to zero genetic variance in a few traits and/or high correlations among others). When matrices are not positive definite (e.g., when their eigenvalues are negative), their comparison using established methods (e.g., CPC; Phillips 1998) is not straightforward. I attempted to drop specific traits, but this did not render the matrices positive definite. Rather than attempt to bend the matrices, two alternative approaches for matrix comparison were used. First, G matrices were estimated using (co)variances of family means (Via 1984; Roff 1997). As such, the G matrices are constrained to be
+positive definite and could be compared using CPC (Phillips 1998; Phillips and Arnold 1999). This program uses Flury’s hierarchical decomposition of matrix similarity to determine whether matrices are identical in structure, differ proportionally, or have some number of the principal components in common (Phillips and Arnold 1999; Houle et al. 2002). I used both the “jump-up” and “model-building” approaches to compare the matrices. Second, I used Mantel tests (with 10,000 repetitions) on the REML-based G matrices to compare the magnitude and direction of their correlations. Mantel tests can be used to evaluate the null hypothesis that two matrices are not related. These two methods yielded largely similar results.
+The genetic correlation for a trait across environments measures the shared genetic architecture of a trait in two different environments. Strong among-environment genetic correlations (e.g., ±1) may constrain the independent evolution of phenotypes in different environments (Via and Lande 1985). I estimated the genetic correlation among environments for a given trait using REML (Fry 2004).
+Variances for plasticities were estimated using the arbitrarypairing method of Ebert et al. (1993). Individuals from each family were haphazardly chosen, paired across environments, and the difference between their trait values (i.e., their plasticity) was quantified. Genetic variance for each plasticity and genetic covariances among plasticities were estimated using REML as described above for trait values. Genetic correlations among plasticities were calculated to measure the extent to which plasticity in a given trait (to a certain environment) is genetically associated with plasticity in a different trait (to the same environment). For example, this reveals the extent to which predator-induced shell-thickness plasticity is genetically associated with predator-induced growth-rate plasticity. Significance testing and the calculation of heritabilities and evolvabilities were conducted as described for traits. I attempted to make two comparisons to assess how the structure of trait plasticities to one environment was influenced by another environment: (1) A comparison of plasticities to mates with and without predators; (2) A comparison of plasticities to predators with and without mates. I constructed (G) matrices for the four plasticities, but under a majority of cases (i.e., 13/24) genetic covariance in plasticity could not be estimated due to null genetic variance in one of the two plasticities. Thus, genetic (co)variances for plasticities were compared on a plasticity-by-plasticity basis.
+Results
+EFFECTS OF PREDATION RISK AND MATE AVAILABILITY
+Predation risk and mate availability affected all traits in this study, frequently by interacting with each other and family effects
+PREDATION AND MATING SYSTEM EVOLUTION
+ EVOLUTION DECEMBER2010 3481
+
+         JOSH R. AULD
+       (Table 1; see Appendix Figs. A1 and A2 for reaction norm plots). On average, snails with predator cues had 56% thicker shells and 9% more rapid growth compared to snails in the no-predator treatment (Table 2). On average, snails with mates had 17% thinner shells, 10% slower growth, and 38% reduced age at first reproduction compared to snails without mates. Furthermore, outcrossing (by snails with mates) led to a nearly fivefold increase in early survival of offspring compared to self-fertilization.
+The effects of mate availability on growth and reproduction depended on predation risk. Without predator cues, mating resulted in a 14% decrease in growth rate (F1,355 = 55.4, P < 0.001) and 45% earlier reproduction (F1,268 = 167.6, P < 0.001) at 25% smaller size (F1,267 = 145.8, P < 0.001) compared to snails without mates. However, with predator cues, mating only resulted in an 8% decrease in growth rate (F1,354 = 26.4, P < 0.001) and 24% earlier reproduction (F1,220 = 48.0, P < 0.001) at 8% smaller size (F1,220 = 13.1, P = 0.005). Thus, predator cues had a larger positive effect on snail growth for mating snails compared to snails without mates.
+Likewise, the effects of predator cues on growth and reproduction depended on mate availability. With mates, predator cues caused a 13% increase in growth rate (F1,413 = 63.3, P < 0.001) leading to a 15% increase in size at first reproduction (F1,380 = 74.4, P < 0.001). Without mates, predator cues only caused a 5% increase in growth rate (F1,291 = 6.6, P = 0.01) and had no effect on the size at first reproduction (F1,107 = 3.2, P = 0.08). Although predator effects on growth were larger for snails with mates than snails without mates, predator effects on the age at first reproduction showed the opposite pattern. Predator cues had no effect on the age at first reproduction for snails with mates (F1,381 = 1.9, P = 0.2), but caused a 24% decrease in the age at first reproduction for snails without mates (F1,107 = 8.1, P = 0.005). Therefore, the waiting time was 65% lower with predator cues (23 days) than without predator cues (67 days; Fig. 2A).
+Predator and mate treatments had large effects on the early survival of G3 snails (the components of early survival are plotted in Appendix Figs. A3 and A4). Mate availability led to a highly significant increase in early survival of offspring, confirming that inbreeding depression is strong. These effects were stronger without predator cues (F1,265 = 88.1, P < 0.001), leading to a 568% increase in early survival over isolated snails, compared to a 426% increase with predator cues (F1,222 = 12.7, P < 0.001). The effects of mate availability on early survival resulted in average estimates of inbreeding depression of 31% when G2 snails were not exposed to predator cues and 26% when G2 snails were exposed to predator cues (Fig. 2B). For outcrossed G3 eggs, there was no effect of predator cues on early survival (F1,380 = 0.8, P = 0.4). However, for selfed G3 eggs, predator cues caused a small (2%) but significant increase in early survival (F1,107 = 7.3, P = 0.008). Therefore, parental exposure to predation risk resulted in
+     Table 1. Results of deviance analyses on generalized linear models that were fit to assess the effects of predator (P) treatment, mate (M) treatment, family (F), and all possible interactions. The “Test” column shows the term that was deleted from the more complete model (below) to obtain the change in deviance attributable to each term in the model. Deviance ratios were calculated based on the deviance (Dev) and df explained by the more complete model (i.e., with a given term) and the model without a given term (see text for further description). Boldface denotes statistical significance after significance thresholds were adjusted to control for the false discovery rate (see text).
+Test
+Shell thickness
+Growth rate Age at first reproduction
+Size at first reproduction Early survival
+Predator 706
+Mate 705 3.57 Family 704 3.48 P×M 675 2.87 P×F 674 2.86 M×F 645 2.62 P×M×F 616 2.33 None 588 2.04
+18.3 ∗∗∗
+711 0.19 710 0.17 681 0.13 680 0.13 651 0.12 622 0.11 593 0.11
+80 ∗∗∗ 6.9 ∗∗∗
+490 82.5 489 62.2 460 56.5 459 54.7 430 49.9 402 43.7 379 35.8
+159.9 ∗∗∗ 1.6 ∗ 15.3 ∗∗
+489 1400 134.6 ∗∗∗ 488 1097 2.9 ∗∗∗
+489 16,192 77.1 ∗∗∗ 488 13,983 1.4 NS 459 12,870 10.7 ∗∗ 458 12,576 1.7 ∗ 429 11,274 2.0 ∗∗ 402 9949 2.0 ∗∗ 380 8939
+∗P<0.05, ∗∗P<0.01, ∗∗∗P<0.001.
+df
+Dev F P 4.83 248 ∗∗∗
+df Dev F P df 712 0.20 48 ∗∗∗ 491
+Dev F P 83.3 4.7 ∗
+df Dev F P df 490 1459 20.8 ∗∗∗ 490
+Dev F P 16,283 2.7 NS
+5.0 ∗∗∗
+2.1 NS
+7.1 ∗∗ 1.6 ∗
+459 927 458 858 429 794 401 741 378 655
+37.1 ∗∗∗
+2.0 ∗∗ 2.7 ∗∗∗
+1.4 NS
+1.2 NS
+3.1 ∗∗∗
+2.2 ∗∗
+1.5 ∗ 0.8 NS
+2.0 ∗∗ 3.6 ∗∗∗
+1.0 NS
+ 3482 EVOLUTION DECEMBER2010
+
+         Table 2. (A) Trait means (among families±SE), among-family variances (VAF; boldface indicates statistical significance—see text), heritabilities (h2) and evolvabilities (IG). (B) Similar values as in (A), but for each plasticity. Treatments are abbreviated NPM (no predator– mates), NPNM (no predator–no mates), PM (predator–mates) and PNM (predator–no mates) as in Figure 1.
+PNM mean
+0.25±0.01 VAF 0.00479
+h2 0.92
+IG 14.18%
+PREDATION AND MATING SYSTEM EVOLUTION
+ (A)
+Traits
+NPM mean
+Shell thickness
+Growth rate
+0.086±0.001 0.00004
+0.39
+1.04%
+0.099±0.002 0.00009
+0.45
+1.70%
+0.097±0.001 0.00004
+0.41
+0.70%
+0.105±0.002 0.00007
+0.58
+1.40%
+Shell thickness
+0.02±0.01 0.001
+0.35 534.0%
+0.03±0.01 0.003
+0.52 775.1%
+0.08±0.01 0.001
+0.31 33.4%
+0.09±0.01 VAF 0.004
+h2 0.70 IG 90.0%
+Age at first reproduction
+84.5±1.6 0
+0
+0
+150.6±8.5 1026.1 0.67 9.00%
+88.5±1.9 55.40 0.29 1.41%
+111.9±12.3 2592.1
+1.04 41.33%
+Growth rate
+0.013±0.002 0.00002
+0.07
+30.0%
+0.008±0.001 0
+0
+0
+0.011±0.001 0
+0
+0
+0.005±0.002 0.00004
+0.18
+320.0%
+Size at first reproduction
+7.85±0.13 0.256
+0.23 0.84%
+10.34±0.27 0.760
+0.50
+1.41%
+9.06±0.10 0.107
+0.16 0.26%
+9.84±0.35 0.879
+0.48 1.83%
+Age at first reproduction
+66.8±8.66 994.9
+0.68 44.3%
+23.9±12.5 2635.7 1.02 915.2%
+3.99±1.79 0
+0
+0
+−36.1±17.3 5373.1 0.003 829.2%
+Early survival
+0.58±0.02 0
+0
+0
+0.09±0.02 0
+0
+0
+0.47±0.03 0.0143 0.23 12.98%
+0.09±0.02 0.0005 0.02 13.26%
+Size at first reproduction
+2.46±0.24 0
+0
+0
+0.81±0.32 0.297
+0.14 92.9%
+1.21±0.14 0.127
+0.08 17.7%
+−0.54±0.47 0
+0
+0
+ 0.15±0.01 VAF 0.00059
+ NPNM mean
+h2 0.38 IG 5.21%
+ 0.16±0.01 VAF 0.00052
+ h2 0.37 IG 4.07%
+ PM mean
+0.22±0.01 VAF 0.00084
+ h2 0.36 IG 3.45%
+    (B)
+Plasticities
+Plasticity to mates with no predators
+Plasticity to mates with predators
+Plasticity to predator with mates
+Plasticity to predator with no mates
+mean
+VAF h2
+IG
+mean
+VAF h2
+IG
+mean
+VAF h2
+IG
+       decreased inbreeding depression because survival of selfed eggs was higher with predators than without predators.
+I evaluated two hypotheses to explain variation in inbreeding depression. The stress hypothesis predicts that that inbreeding depression should be stronger in a more stressful environment. It is important to remember here that “stress” was applied to the parents of selfed and outcrossed offspring, not the offspring themselves. I predicted that predation risk would constitute a stressful environment, but did not observe a significant overall effect of predation risk on my measure of fitness (Table 1). However,
+predation risk significantly reduced inbreeding depression (t58 = −2.42, P = 0.019; Fig. 2B), firmly rejecting the notion that predation risk might magnify inbreeding depression. The phenotypicvariation hypothesis predicts a positive relationship between inbreeding depression and phenotypic variation. However, I found that the opportunity for selection on early survival was higher in offspring from predator-induced parents (mean ± SD: 2.07 ± 0.47) than in offspring from parents in the no-predator treatment (1.68 ± 0.64; t41 = 2.34, P = 0.024). Among families, I observed no relationship between phenotypic variation in early survival and
+mean
+    EVOLUTION DECEMBER2010 3483
+
+ JOSH R. AULD
+Figure 2. (A) Waiting time (i.e., mean age at first selfing minus mean age at first outcrossing) and (B) Inbreeding depression in egg hatching and early survival for 30 full-sibling families of Physa acuta are shown separately for the no-predator (gray) and predator (black) treatments; the dashed bars represent the grand means in both treatments. Families are ranked in the same order in both panels (i.e., increasing inbreeding depression in the no-predator treatment). Inset panels show waiting time (A) and inbreeding depression (B) in the predator treatment (y-axis) plotted against the values in the no-predator treatment (x-axis); dashed bars in inset panels mark zero along the xand y-axis.
+inbreeding depression without predators (r2 = 0.002, P = 0.857) and a positive but insignificant relationship with predators (r2 = 0.143, P = 0.076).
+EFFECTS OF AMONG-FAMILY VARIATION
+The family term in the GLMs was significant for all traits except early survival; family-by-treatment interactions were significant for all traits including the three-way interaction for all traits except growth rate (Table 1). Therefore, I will examine patterns of genetic variation at an environment-specific level; note that my estimates of genetic variance may overestimate “real” values due to dominance and epistatic effects. Shell thickness and growth rate exhibited significant among-family variation in every
+environment with estimates of heritability ranging from 0.36 to 0.92 for shell thickness and 0.39–0.58 for growth rate (Table 2A). Evolvability of shell thickness was three to four times higher in the predator, no-mate environment than in the other three environments (Table 2B). Evolvabilities for growth rate were highest in the no-mate environments. Genetic variation for plasticity in shell thickness was observed under all four comparisons; evolvabilities of shell-thickness plasticity to mate availability were ∼13% higher than evolvabilities of shell-thickness plasticity to predation risk. Genetic variation for growth rate plasticity was insignificant in all four comparisons.
+Genetic variation for age and size at first reproduction was environment specific. Genetic variation in age at first reproduction
+3484 EVOLUTION DECEMBER2010
+
+         was observed in all environments except under no-predator conditions with mates. In the predator environment, evolvability of age at first reproduction increased 4.6% in the absence of mates. Alternatively, genetic variation for size at first reproduction was only observed under no-predator conditions (with and without mates). Significant genetic variation was observed for the waiting time (i.e., plasticity in age at first reproduction across mate environments) under both no-predator and predator conditions. Predators induced a dramatic reduction in age at first reproduction in the absence of mates that exhibited significant genetic variation, but a low heritability. Genetic variation for plasticity in size at first reproduction was not significant under any comparison.
+The family term in the model for early survival was not significant. However, the mate-by-family interaction was significant representing family-level variation in inbreeding depression (Fig. 2B). Importantly, families often differed not only in inbreeding depression, but also in the magnitude and direction of the effect that maternal exposure to predator cues had on inbreeding depression, which is in accord with the significant three-way interaction. Notably, there was genetic variation for early survival in the predator environment with mates (h2 = 0.23).
+PATTERNS OF GENETIC CORRELATIONS
+Genetic correlations among traits were used to investigate their shared genetic architecture and determine whether the trade-offs observed among traits have a genetic basis that is constant among environments. Genetic correlations could not be estimated under
+three no-predator conditions because genetic variation was null (i.e., age at first reproduction with mates and early survival with and without mates; Table 2A). The genetic correlations between growth rate and size at first reproduction were always positive (Table 3); these correlations were stronger with mates than without mates. Note that the correlation between growth rate and the size at first reproduction was marginally insignificant in the no-predatorno-mate treatment and that this correlation was not statistically different from 1 in both environments with mates. Age and size at first reproduction were positively genetically correlated in the no-predator-no-mate treatment, but not in any other environment. Inconsistent with the prediction of a trade-off between defense and reproduction, shell thickness was negatively correlated to age at first reproduction for predator-induced snails with mates, but this correlation was not significantly different from zero (r = −0.28; P = 0.09).
+The genetic correlation between age at first reproduction and the early survival of (selfed) eggs was significant and strongly negative in the predator-no-mate treatment. This indicates that families with longer delays before selfing lay selfed eggs that have lower early survival. This translates to a significantly positive relationship between waiting time and inbreeding depression in the predator environment, but not in the no-predator environment (Fig. 3A). Furthermore, this means that, when exposed to predator cues, individuals that start selfing at a younger age lay eggs that have a higher survival rate. This highlights that the relationship between life-history traits, the mating system, and that the effects of the mating system are environment dependent.
+Table 3. Genetic correlations among traits are shown for the no-predator treatments in (A) and predator treatments in (B). Mateavailable treatments are above the diagonals; no-mate treatments are below the diagonals. NE, not estimable—cases in which genetic variance is zero. Correlations estimated as >1 or <−1 are reported as 1.00$ or −1.00$, respectively. Boldface indicates significant difference from zero.
+PREDATION AND MATING SYSTEM EVOLUTION
+  (A)
+Shell thickness
+Growth Rate
+Age at first reproduction Size at first reproduction Early survival
+(B)
+Shell thickness
+Growth rate
+Age at first reproduction Size at first reproduction Early survival
+Shell thickness
+– −0.12a
+0.03a 0.09a
+0 (NE)
+Growth rate
+−0.19a –
+0.06a 0.28†a 0 (NE)
+Age at first reproduction
+0 (NE) 0 (NE) – 0.47∗ 0 (NE)
+Size at first reproduction
+−0.07a 0.54∗∗∗
+0 (NE) –
+0 (NE)
+Early survival
+0 (NE) 0 (NE) 0 (NE) 0 (NE) –
+    aSignificantly different from 1 (if positive) or −1 (if negative). †P<0.1, ∗P<0.05, ∗∗P<0.01, ∗∗∗P<0.001.
+– −0.03a −0.28†a
+0.11a – −0.15a
+0.12a 0.24a – −0.049 −0.32 0.12 0.23∗∗∗a 0.32 – 0.14
+0.43∗
+−0.02 −0.57 −1.00∗ −1.00$ –
+0.05
+0.14a 0.09a
+    EVOLUTION DECEMBER2010 3485
+
+         JOSH R. AULD
+                                                                                                                                                                                                                                                                                                                                                                                            Figure 3. (A) The relationship between inbreeding depression and waiting time in no-predator and predator environments is shown with linear curves fit to the data (r2 = 0.06 [P = 0.22] and 0.30 [P = 0.004] for the no-predator [dashed] and predator [solid] models, respectively). (B) The relationship between one component of inbreeding depression (the early survival of selfed eggs) and one component of the waiting time (the age at first reproduction without mates, i.e., the age at first selfing) is shown in the same manner as panel A (r2 = 0.02 [P = 0.52] and 0.31 [P = 0.003] for no-predator and predator, respectively). All data are family means.
+Comparison of the G matrices with CPC and Mantel tests revealed that differences in G-matrix structure were detectable across environments. In all four comparisons, the jumpup and model-building approaches (Phillips and Arnold 1999) yielded identical results. Comparison of G matrices across mate-availability environments (i.e., no-predator-mate vs. nopredator-no-mate and predator-mate vs. predator-no-mate) revealed that the matrices shared three of their five common principal components and the null hypothesis that they were unrelated could not be rejected (P = 0.91 and 0.82, respectively). Across predator environments, CPC comparison of the G matrices for snails with mates revealed identical structure, but the Mantel test did not reject the null that the matrices
+were unrelated (P = 0.21). The G matrices for predator-induced snails without mates shared three of their principal components (P = 0.09).
+Genetic correlations among plasticities were examined to reveal a shared genetic architecture between plastic responses to the same environment. However, many of these could not be evaluated due to a lack of genetic variation in plasticity to one particular environment (Table 2B). Plasticity in age at first reproduction and plasticity in size at first reproduction were positively correlated (r = 0.74, P < 0.001) in the only case in which this could be investigated (plasticity to mates with predator cues). Genetic correlations among several other plasticities were evaluated, but none were significantly different from zero.
+ 3486 EVOLUTION DECEMBER2010
+
+         Table 4. Genetic correlations across environments (“rG across:”) are shown with reference to a particular environment for each trait. NE, not estimable—cases in which genetic variance is zero. Boldface indicates significant difference from zero.
+genetic variation in every environment. With predator cues, genetic variation in shell thickness and growth rate was higher under selfing conditions compared with when snails could mate. This pattern could reflect the relative frequency of these environments. That is, although snails do periodically experience isolation (e.g., after drought or colonization), the more common scenario is one with mates (Bousset et al. 2004; Henry et al. 2005). Thus, genetic variation under selfing conditions may not be depleted as quickly as genetic variation under outcrossing conditions. Several other studies have also shown significant genetic variation for predatorinduced defenses (e.g., Parejko and Dodson 1991; Harvell 1998), and my results are similar to recent studies revealing higher genetic variation in these traits with predators (Relyea 2005; Kraft et al. 2006).
+The predicted trade-off between reproduction and growth/defense was not observed. Predation risk had no effect on the age at outcrossing and reduced the age at first selfing. This contrasts with previous studies in which predation risk increased the age at first reproduction for both mated and isolated snails (Auld and Relyea 2008). The previously observed pattern of delayed reproduction with predators was interpreted as a cost of early, rapid growth to a size-refuge (i.e., a trade-off with early investment in growth/defense; Crowl and Covich 1990; Auld and Relyea 2008). These previous results formed the basis for the prediction of a negative correlation between age at first reproduction and growth/defense. However, although the genetic correlations estimated here between growth rate/shell thickness and age at first reproduction were negative, they were not significant. Moreover, previous work has also reported a much shorter waiting time for this population (i.e., 7–8 days; Auld and Relyea 2008, 2010). One difference between the present study and the experiments of Auld and Relyea (2008, 2010b) is the snail food that was used: In Auld and Relyea (2008, 2010b), snails were fed spirulina, but in this study snails were fed boiled lettuce. Many other studies on P. acuta have used boiled lettuce (e.g., Jarne et al. 2000; Tsitrone et al. 2003b; Escobar et al. 2007, 2009), and these studies also report longer waiting times than those of Auld and Relyea (2008, 2010b). As all studies have supplied food ad libitum and spirulina has a higher nutrient content than lettuce, it suggests that resource quality may affect the expression of defense and the waiting time. Future work is needed to evaluate this hypothesis, but it seems important to consider that an environmental factor such as resource quality can alter life-history plasticity and the mating system.
+Inbreeding depression in early survival was weaker when maternal snails had been exposed to predator cues because predator cues had a positive effect on the early survival of selfed eggs. Additionally, predator cues caused a small but significant decrease in the age at first selfing. As all eggs were placed in freshwater within two days of being laid, the effect of predation risk on the early survival of selfed eggs could result from maternal effects
+rG across:
+Environment:
+Shell thickness
+Growth rate Age at first
+reproduction
+Size at first reproduction
+Mate Availability
+Predation Risk
+No predator
+0.01a
+0.96∗∗∗ 0 (NE)
+0.83∗
+Predator Mate
+0.49†a 0.29a
+1.00∗∗∗ 1.00∗∗∗ −0.02a 0 (NE)
+1.00† 0.92∗
+No mate
+0.64∗a
+0.81∗∗ −0.18a
+0.003
+PREDATION AND MATING SYSTEM EVOLUTION
+      aSignificantly different from 1 (if positive) or −1 (if negative). †P<0.1, ∗P<0.05, ∗∗P<0.01, ∗∗∗P<0.001.
+Genetic correlations measured across environments reveal the shared genetic architecture of a given trait in different environments (Table 4). Shell thickness was significantly correlated across predator environments without mates; this correlation was intermediate—significantly different from both 0 and 1. Growth rates were significantly correlated across all environments. Similarly, size at first reproduction was significantly correlated across all environments except across predator environments without mates. Under predation risk, the genetic correlation between age at first reproduction with and without mates was not significant; this correlation could not be estimated in the no-predator environment. The correlation between age at first selfing in no-predator and predator environments, which approximates the correlation of waiting time across predator environments, was negative but not significantly different from zero.
+Discussion
+This study illustrates several ways that predation risk can affect the evolution of the mating system and life-history traits in P. acuta. This study also reveals several ways that mate availability and the mating system can be important for the expression and evolution of predator-induced defenses. In addition to documenting environment-specific genetic variation in key traits, their plasticities, and inbreeding depression, I observed the predicted relationship between the mating system and inbreeding depression that results from a negative correlation between the age at first selfing and the early survival of selfed eggs.
+Snails responded to predation risk by increasing growth rate and shell thickness, two responses that increase survival with lethal predators (Auld and Relyea, 2010a). A substantial proportion of the phenotypic variation in these traits can be attributed to
+ EVOLUTION DECEMBER2010 3487
+
+         JOSH R. AULD
+or very early induction of embryos. The potential for maternal effects on the early survival of selfed eggs is highly intriguing and future studies that explore this result, potentially dissecting it into genetic and environmental components (Galloway et al. 2009), will be highly informative. For example, if there is a difference in the genetic basis of inbreeding depression among environments, this suggests the potential for environment-specific purging of deleterious recessive mutations—especially if selfing occurs at a higher rate with predators because the waiting time is reduced. As predation risk also alters patterns of behavior, such as habitat use and activity (e.g., Turner et al. 2000; Hoverman et al. 2005), this could further reduce effective mate availability.
+The environmental sensitivity of inbreeding depression is widely recognized (e.g., Bijlsma et al. 1999; Armbruster and Reed 2005). However, the role of maternal environment (e.g., maternal stress) on inbreeding depression has not been widely studied. Previous studies have examined the role of maternal effects on inbreeding depression by rearing selfed or outcrossed offspring in different environments (e.g., Wolfe 1993; Montalvo 1994) or focusing on the background level of maternal inbreeding (e.g., White 1972; Reid et al. 2003; Riginos et al. 2007), but previous evidence that environment conditions experienced by outbred individuals can alter the magnitude of inbreeding depression appears to be lacking. By rearing Impatiens under benign and drought conditions, Riginos et al. (2007) found that the inbreeding level of maternal plants reduced the biomass of selfed offspring, but only under benign conditions. Riginos et al. (2007) found that inbreeding depression was stronger under stress in other traits (e.g., gas exchange), which demonstrates how much we have to learn about the mechanisms underlying (maternal) environmental effects on inbreeding depression.
+In addition to the effects of predation risk on the age at selfing and the survival of selfed eggs, a major result of this study is the negative genetic correlation between the age at selfing in the predator environment and the early survival of selfed eggs. This result is consistent with theoretical predictions that inbreeding depression and mating system should coevolve (Uyenoyama and Waller 1991a,b; Tsitrone et al. 2003a). Importantly, this relationship was obtained with predator cues but not in the nopredator environment. Using 36 full-sibling families of P. acuta reared in a no-predator environment, Escobar et al. (2007) also found no relationship between inbreeding depression and waiting time. However, a positive relationship between the waiting time and inbreeding depression has been confirmed in another study examining among-population (n = 26) and amongfamily (n = 281) variation in P. acuta (Escobar et al. 2009). In plants, there have been conflicting results concerning the withinpopulation, among-family relationship between mating system and inbreeding depression (e.g., Carr et al. 1997; Vogler et al. 1999; Takebayashi and Delph 2000; Stone and Motten 2002), and
+I refer the reader to Escobar et al. (2007) for a comparison of these studies with theory (Uyenoyama and Waller 1991a,b; Schultz and Willis 1995). Among-family variation in inbreeding depression is expected even when families only differ in alleles with completely additive effects (Schultz and Willis 1995; Fox 2005), but the relationship revealed here between inbreeding depression and the age at first selfing in the predator environment is indicative of selection for longer delays in selfing when the relative fitness penalties of selfing are strong (Tsitrone et al. 2003a). However, such an association between the mating system and inbreeding depression could presumably only be maintained by linkage disequilibrium (e.g., physical proximity along the chromosome) such that the association is not disrupted following each generation of outcrossing. Alternatively, the decreased age at first selfing under predation risk may directly affect the survival of their eggs. That is, if reproductive function begins to senescence even before reproduction has been initiated, starting reproduction at an early age may result in improved hatching success in addition to any maternal effects resulting from predation risk. As natural populations differ in their inbreeding history and genetic load, future studies evaluating these results in other populations are crucial to determine generality.
+CONCLUSIONS
+The level of genetic variation in several traits changed (often substantially) across environments, but some components of the G matrices were relatively inflexible. These patterns of environment-specific genetic variance mean that a response to selection may occur more rapidly for specific traits (e.g., age at first reproduction) in specific environments (e.g., without mates or with predators). Consequently, an understanding of the relative frequency of various environments in nature is crucial to understanding adaptive trait evolution. This point is particularly important in the context of mating-system evolution in that predation risk may not only alter the amount of inbreeding, but also its consequences. The interaction between mate availability and predation risk affects the expression of life-history traits, the mating system, and adaptive phenotypic plasticity; evaluating these results under natural conditions will be a critical next step. The outcome of these interactions in a natural population is likely to be even more complicated when additional interspecific interactions are taken into account. This study focused on one kind of predator, but there are numerous other kinds of natural predators that likely have different effects on resource allocation and mating-system expression. Future studies that explore the diversity of matingsystem expression under additional environmental conditions will be important for understanding the diversity of mating systems that are observed in nature. More generally, environmental effects on mating system expression can be fundamental for understanding the diversity of mating systems observed in nature, but also
+ 3488 EVOLUTION DECEMBER2010
+
+ Figure A1. Reaction norm plots for plasticity to mates in the no-predator (NP; panels (A–D) and predator treatments (P, panels E–H). Family means in each environment are connected by lines (i.e., the reaction norm).
+PREDATION AND MATING SYSTEM EVOLUTION
+EVOLUTION DECEMBER2010 3491
+
+ JOSH R. AULD
+Figure A2. Reaction norm plots for plasticity to predator cues in the mate (M; panels A–D) and no-mate treatments (NM, panels E–H). Family means in each environment are connected by lines (i.e., the reaction norm).
+3492 EVOLUTION DECEMBER2010
+
+ Figure A3. The components of (A–B) waiting time and (C–D) inbreeding depression for no-predator (top) and predator (bottom) treatments. Both waiting time and inbreeding depression (y-axis) are calculated based on trait values (x-axis) measured for families reared with (solid line) and without (dashed line) mates. Thus, the same point on the y-axis is plotted against trait value measured in each environment.
+PREDATION AND MATING SYSTEM EVOLUTION
+EVOLUTION DECEMBER2010 3493
+
+ JOSH R. AULD
+Figure A4. Family means for early survival of G3 eggs. Shown are the mean number of unhatched eggs, hatchlings that died, and hatchlings alive 15 days after the eggs were laid for the (A) no predator–mate available, (B) no predator–no mate available, (C) predator– mate available, and (D) predator–no mate available treatments. Early survival of G3 eggs was calculated for each G2 individual as the proportion of total eggs laid that hatched and survived to 15 days. Families are ranked in order of increasing inbreeding depression in the no-predator treatment (i.e., same order as in Fig. 2 in the main text).
+3494 EVOLUTION DECEMBER2010

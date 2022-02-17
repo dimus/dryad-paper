@@ -1,0 +1,532 @@
+  The University of Chicago
+Pathogen Persistence in the Environment and Insect-Baculovirus Interactions: Disease-Density Thresholds, Epidemic Burnout, and Insect Outbreaks.
+Author(s): Emma Fuller, Bret D. Elderd, and Greg Dwyer
+Reviewed work(s):
+Source: The American Naturalist, Vol. 179, No. 3 (March 2012), pp. E70-E96
+Published by: The University of Chicago Press for The American Society of Naturalists Stable URL: http://www.jstor.org/stable/10.1086/664488 .
+Accessed: 19/06/2012 10:05
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at . http://www.jstor.org/page/info/about/policies/terms.jsp
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+         http://www.jstor.org
+The University of Chicago Press, The American Society of Naturalists, The University of Chicago are collaborating with JSTOR to digitize, preserve and extend access to The American Naturalist.
+
+ vol. 179, no. 3 the american naturalist march 2012
+ E-Article
+Pathogen Persistence in the Environment and InsectBaculovirus Interactions: Disease-Density Thresholds, Epidemic Burnout, and Insect Outbreaks
+Emma Fuller,1,* Bret D. Elderd,2 and Greg Dwyer1,†
+1. Department of Ecology and Evolution, University of Chicago, Chicago, Illinois 60637; 2. Department of Biological Sciences, Louisiana State University, Baton Rouge, Louisiana 70803
+Submitted July 26, 2011; Accepted October 31, 2011; Electronically published January 26, 2012 Dryad data: http://dx.doi.org/10.5061/dryad.7r1v08r8.
+ abstract: Classical epidemic theory focuses on directly transmitted pathogens, but many pathogens are instead transmitted when hosts encounter infectious particles. Theory has shown that for such diseases pathogen persistence time in the environment can strongly affect disease dynamics, but estimates of persistence time, and consequently tests of the theory, are extremely rare. We consider the consequences of persistence time for the dynamics of the gypsy moth baculovirus, a pathogen transmitted when larvae consume foliage contaminated with particles released from infectious cadavers. Using field-transmission experiments, we are able to estimate persistence time under natural conditions, and inserting our estimates into a standard epidemic model suggests that epidemics are often terminated by a combination of pupation and burnout rather than by burnout alone, as predicted by theory. Extending our models to allow for multiple generations, and including environmental transmission over the winter, suggests that the virus may survive over the long term even in the absence of complex persistence mechanisms, such as environmental reservoirs or covert infections. Our work suggests that estimates of persistence times can lead to a deeper understanding of environmentally transmitted pathogens and illustrates the usefulness of experiments that are closely tied to mathematical models.
+Keywords: host-pathogen, Lymantria dispar, nucleopolyhedrovirus, threshold theorem, insect outbreaks, environmental transmission, complex dynamics.
+ particles in the environment (Ebert et al. 1996; Hall et al. 2005; Mathiason et al. 2009). For such diseases, theory has shown that pathogen persistence time in the environment is an important determinant of whether an epidemic will occur (Breban et al. 2009), but applications of the theory require estimates of persistence times. Estimating persistence times from observations of disease spread in nature is difficult, because losses due to pathogen breakdown may be outweighed by gains due to pathogen particles produced from new infections (Woods and Elkinton 1987), making it hard to distinguish persistence from infectiousness. Meanwhile, field experiments that can disentangle persistence and infectiousness are often impossible (Dobson and Meagher 1996). Persistence-time estimates are therefore rare, and so applications of the theory are correspondingly rare.
+For baculovirus diseases of insects in contrast, field experiments are entirely feasible (D’Amico and Elkinton 1995; Goulson et al. 1995; Hails et al. 2002; Georgievska et al. 2010). In many insects, baculoviruses are transmitted when larvae consume foliage contaminated with the infectious cadavers of other larvae, and infection generally leads to death (Cory and Myers 2003). This simple biology makes it possible to experimentally quantify transmission in the field (Dwyer 1991; Zhou et al. 2005; Elderd et al. 2008), and extending this type of experiment to also measure baculovirus persistence time is straightforward. We therefore used a field-transmission experiment to estimate the persistence time of a baculovirus of the gypsy moth, Lymantria dispar, and we used our estimate in mathematical models to show how persistence time affects baculovirus epidemics and gypsy moth outbreaks.
+Experiments that show evidence of baculovirus decay have a 45-year history (Jaques 1967), yet to our knowledge baculovirus persistence time under natural conditions in the field has never been estimated. Previous experiments
+ Introduction
+In classical epidemic models, transmission results from contact between healthy and infectious hosts (Kermack and McKendrick 1927), but for many animal pathogens, transmission instead occurs when hosts contact infectious
+  * Present address: The Nature Conservancy, 1917 First Avenue, Seattle, Washington 98101.
+† Corresponding author; e-mail: gdwyer@uchicago.edu.
+ Am. Nat. 2012. Vol. 179, pp. E70–E96. 􏱞 2012 by The University of Chicago. 0003-0147/2012/17903-53215$15.00. All rights reserved.
+DOI: 10.1086/664488
+ 
+ Pathogen Persistence in the Environment E71
+ generally did not consider estimation, instead simply testing whether a treatment alters the effect of exposure time on the infection rate (Jaques 1967, 1968, 1972; Broome et al. 1974; Elnagar and Abul-Nasr 1980; Biever and Hostetter 1985; Roland and Kaupp 1995; Webb et al. 1999, 2001; Raymond et al. 2005). Apparently as a result, most experiments were not designed in a way that permits separate estimation of persistence time and infectiousness, as we explain in the appendix. Also, previous experiments have generally followed biological control programs in using purified virus (Hunter-Fujita et al. 1998), which may lead to artificially reduced persistence times. In our experiments, we mimicked natural transmission by using infectious cadavers, and comparing our estimate of persistence time to estimates based on data for purified virus (Webb et al. 1999, 2001) shows that purified gypsy moth virus breaks down roughly twice as fast as infectious cadavers.
+Our estimate of virus persistence time is important because it helps us to understand both virus epidemics and insect outbreaks. To show this, we first inserted our estimate into an epidemic model, modified to allow pupation to terminate transmission, and we compared the predictions of this model to two predictions of epidemic theory (Keeling and Rohani 2007). The first prediction is that there will be a minimum host population at which an epidemic will occur, the disease density (or host density) threshold. The second prediction is that epidemics will end because of a lack of infected hosts rather than because of a lack of susceptible hosts, so-called epidemic burnout. If persistence time is sufficiently high, however, the disease threshold may be so low that whether an epidemic occurs will be determined by the initial density of the pathogen instead of by the threshold. Alternatively, if persistence time is sufficiently low, epidemics will end because of host pupation rather than burnout. Our models show that the persistence time of the gypsy moth virus is short enough that the disease-density threshold is a useful statistic, but it is also short enough that pupation is often as important as burnout in ending epidemics.
+These effects can modulate outbreaks because gypsy moth population dynamics are partly driven by virus epidemics (Dwyer et al. 2004; Bjornstad et al. 2010). Extending our single-epidemic model to allow for multiple host generations shows that shorter persistence times produce less severe outbreaks. Moreover, our estimate of persistence time leads to long-term virus survival in the models, even though the models include only simple mechanisms of overwinter survival, notably external contamination of egg masses. This is important because efforts to explain long-term baculovirus persistence often emphasize more complex survival mechanisms, such as soil reservoirs (Thompson et al. 1981; Hochberg 1989; Fuxa and Richter 2007) and covert infections (Myers et al. 2000;
+ Burden et al. 2003). Our model instead suggests that reservoirs and covert infections may not be necessary to explain baculovirus persistence, either in the gypsy moth or in other insects (Moreau and Lucarotti 2007).
+Material and Methods
+Baculovirus Ecology and Epidemic Models
+Like many outbreaking insects (Hunter 1991), gypsy moths have only one generation per year, with five instars (larval stages) in males and six in females. In southwestern Michigan, where we carried out our experiments, larvae hatch in late April or early May. Pupation occurs in midJuly, and the insect overwinters in the egg (Elkinton and Liebhold 1990).
+In the spring, some hatchlings (or neonates) become infected, later releasing infectious occlusion bodies that begin the epidemic (Woods and Elkinton 1987). Uninfected larvae that consume a large enough dose of the virus die 7–21 days after infection and release occlusion bodies onto the foliage for consumption by other larvae (Cory and Myers 2003). The most important round of transmission thus occurs when virus produced by infected neonates infects larvae in the third and fourth instars (Woods and Elkinton 1987). In our experiments, we therefore measured transmission from infected neonates to uninfected fourth instars.
+Although models of directly transmitted diseases assume that transmission occurs only through contact between infected and uninfected hosts, we can nevertheless use such models for baculoviruses by using the infectious-host class in the models to represent infectious cadavers. The model that we use is therefore a modification of the well-known susceptible-exposed-infected-removed model (Keeling and Rohani 2007), extended to allow for host heterogeneity in infection risk, an important factor in the transmission of the gypsy moth virus (Dwyer et al. 1997). This model is a variant of models previously used by the second and third authors, extended to allow for variance in the distribution of the time between infection and death, a variance that we previously assumed was very low (Dwyer and Elkinton 1993; Elderd et al. 2008). Because it allows for nonzero variance in this distribution, the model that we use here is slightly more realistic, and it has the advantage of being more stable when numerically integrated on a computer:
+ 
+ E72 The American Naturalist
+ C2
+p􏱛n ̄SP( ), (1)
+dS dt
+d E 1 dt
+dEi
+dtpmdEi􏱛1􏱛mdEi (ip2,...,m), (3)
+dP
+dt p mdEm 􏱛 mP. (4)
+Here S is the density of uninfected or susceptible hosts, and P is the density of infectious cadavers. Gypsy moth larvae vary in the dose of virus needed to cause infection (Dwyer et al. 1997), as well as in feeding behavior (Parker et al. 2010), leading to variability in overall infection risk (Dwyer et al. 2005; Elderd et al. 2008). We therefore assume that transmission rates follow a probability distribution with mean n ̄ and coefficient of variation C. To describe the probability distribution that models the time between infection and death, we follow standard practice in dividing the exposed class Ei into m classes, such that the average speed of kill is 1/d and the rate at which individuals move from one class to the next is md (Keeling and Rohani 2007). The total time in the exposed classes is then equal to the sum of m exponential distributions, each with mean 1/(md). This sum follows a gamma distribution with mean 1/d and variance 1/(md2), so that the variance declines as m increases. We can therefore control the variance on the distribution of speeds of kill by varying m. We assume 1/d p 12 days, with m p 20, based on observations of speeds of kill of infected larvae (G. Dwyer, unpublished data). This model requires integer values of m, but in our case changing m by 1 instead of, say, by 0.5, has only a tiny effect on the epidemic. Also, because hatchling larvae are much smaller than later instars, we allow for a simple form of stage structure by assuming that infected hatchlings produce smaller cadavers than later instars.
+Once larvae reach the final exposed class m, they die and become infectious cadavers P. Cadavers break down at rate m, so estimating m was the goal of our experiments. The average persistence time of the virus is 1/m, so that large values of m produce short persistence times. Decay likely occurs because the virus is destroyed or inactivated by the ultraviolet rays in sunlight (Ignoffo et al. 1977), but the virus may also be washed off foliage by rain (D’Amico and Elkinton 1995). Versions of this model have survived extensive testing with both experimental and observational data for the gypsy moth virus (Dwyer and Elkinton 1993; Dwyer et al. 1997, 2005; Elderd et al. 2008).
+S(t) S(0)
+  C2
+pn ̄SP( )􏱛mdE1, (2)
+S (t ) S(0)
+     We therefore use it to understand the implications of our parameter estimates.
+Field Experiments
+Field observations of baculovirus populations cannot easily be used to estimate decay rates, because losses of virus due to decay are often offset by inputs of virus due to new virus-caused deaths (Woods and Elkinton 1987). Previous field studies have therefore simply observed that virus is present at two points in time, usually one immediately following an epidemic and one a year or more later, with the conclusion that virus particles can sometimes survive for a year or more (Tanada and Omi 1974; Entwistle and Adams 1977; Young et al. 1977; Podgwaite et al. 1979; Olofsson 1988).
+An experimental approach might therefore be more effective, but most experiments that vary exposure time have used only a single virus density (Broome et al. 1974; Elnagar and Abul-Nasr 1980; Biever and Hostetter 1985; Raymond et al. 2005). As we show in the appendix, these single-density experiments generally preclude estimation of decay rates using standard models. In standard models, infection rates are a nonlinear function of both exposure time and virus density, and the effects of the two cannot be distinguished unless they are varied independently (Sun et al. (2004) avoid this problem by instead back-calculating virus densities using dose-response data collected in an additional experiment, but their approach may underestimate parameter uncertainty; appendix). The few experiments that varied virus density and exposure time independently did not attempt to estimate the decay rate (Jaques 1967, 1972; Webb et al. 1999, 2001), possibly because of the difficulties of using the nonlinear fitting routines that are required for estimating parameters from fractional data. Also, experiments with baculoviruses have historically used purified virus, because the point of many experiments is to test insecticidal sprays, which usually incorporate only purified virus and because some authors have perhaps assumed that infectious cadavers would produce data that are so noisy as to be uninterpretable. An important feature of natural transmission, however, is that infectious cadavers include insect body parts that may block UV (Capinera et al. 1976), and so experiments using purified virus may produce artificially inflated estimates of the decay rate. The use of infectious cadavers is therefore increasingly common, but for all the infectious-cadaver experiments of which we are aware, it is unclear whether the initially infected larvae were all dead when decay began, so virus inputs and virus losses probably occurred at the same time (Goulson et al. 1995; Hails et al. 2002; Zhou et al. 2005; Georgievska et al. 2010; the one exception, Roland and Kaupp 1995, only compared decay inside a
+ 
+ Pathogen Persistence in the Environment E73
+ forest to decay on the edge of the forest and so included neither exposure-time treatments nor density treatments; it therefore also cannot be used to estimate decay time). Data from such experiments have the same problem as data from observations of epidemics, namely that decay is confounded with transmission, and apparently as a result in some cases it was impossible to detect the effects of exposure time (Goulson et al. 1995; Hails et al. 2002).
+Our experiments were designed to circumvent these difficulties. First, to avoid an inflated estimate of natural decay, we used infectious cadavers. We then used six to eight replicates of each treatment, depending on the experiment, which was enough that the uncertainty in our data was reasonably low, in turn permitting detection of virus decay. Meanwhile, two previous purified-virus experiments produced usable decay data for the gypsy moth baculovirus (Webb et al. 1999, 2001), and reanalysis of those data confirmed that purified virus does indeed have a significantly shorter persistence time than infectious cadavers. Using infectious cadavers also allowed us to more accurately estimate the transmission rate n ̄, which we needed to estimate the density threshold. Because n ̄ is essentially infection risk, it is affected by feeding behavior (Dwyer et al. 2005), including the ability of gypsy moth larvae to detect and avoid infectious cadavers (Capinera et al. 1976; Parker et al. 2010). Unbiased estimation of n ̄ therefore required that we allow larvae to feed on viruscontaminated foliage under natural conditions, and so again it was important to use infectious cadavers.
+Second, to avoid the obscuring effects of additions of virus while decay is occurring, we only allowed decay to begin after all of the initially infected larvae were dead. To do this, we placed the infected larvae on the foliage, and we enclosed larvae and foliage in mesh bags. The bags were necessary to prevent larvae from dispersing to other branches, but as we will show, they also effectively prevented decay. Once we were sure that the infected larvae were dead, we allowed for decay by removing the bags. After the virus had decayed for the requisite time, we added healthy larvae to the foliage, using new bags, which prevented further decay during transmission. To prevent later additions of virus due to the deaths of secondarily infected larvae, we allowed the uninfected larvae to feed for only 1 week, a period short enough that no secondarily infected larvae died during the experiment. At the end of the week, we removed the initially uninfected larvae to the lab, terminating transmission, and we recorded the number of larvae dying of the virus. Our experiments therefore allowed for only one round of transmission (note that in contrast, our epidemic model, eqq. [1]–[4], allows for multiple rounds of infection, but this difference does not restrict our analyses in any way). We then used the fraction infected to estimate the transmission parameters n ̄ and C
+ and the viral decay rate m by fitting the model equations (1)–(4) to the data.
+To ensure that the initially uninfected larvae were indeed uninfected, we reared them in the lab on artificial diet using surface-disinfected eggs. Surface disinfection for 90 minutes in 10% formalin is effective in preventing infection (Doane 1969; Elderd et al. 2008). Because small differences in developmental stage within an instar can alter susceptibility (Grove and Hoover 2007), we synchronized larvae by collecting them shortly before eclosion to the fourth instar, holding them for 24–48 hours at 4􏱟C until we had enough larvae to carry out an experiment and then allowing all larvae to molt to the fourth instar at room temperature. The effect was that all of our uninfected larvae molted to the fourth instar within roughly 24 hours of each other.
+To produce infected larvae, we placed neonates in cups with diet contaminated with a high virus dose (Dwyer et al. 2005). By using a plaque-purified virus clone, we ensured that variability in the virus would play little role (Elderd et al. 2008). We then held these infected larvae at 28􏱟C for 5 days before placing them on foliage in the field. Because infected neonates do not molt to the second instar (Park et al. 1996), it was possible to identify and discard the small number of larvae that did not become infected. Because our emphasis was on estimating the decay rate rather than heterogeneity in infection risk, we reduced heterogeneity by using larvae from a U.S. Department of Agriculture colony that has been reared in the laboratory for decades (Dwyer et al. 1997).
+The infected larvae were placed on leaves of naturally occurring red oaks (Quercus rubra), a “most-favored’’ host plant of the gypsy moth (Barbosa and Krischik 1987). Experimental trees were located in the Lux Arbor Reserve of the Kellogg Biological Station, in Delton, Michigan (42􏱟28′N, 85􏱟28′W). This site had negligible levels of gypsy moths or virus during the years of our study (Elderd et al. 2008). Each larva-laden branch was enclosed within bags made of spun-bonded polyester or Reemay, which has only modest effects on humidity and temperature (Lipman et al. 1992). We used virus densities of 25 and 50 cadavers per branch, a range that is sufficient to produce measurable infection rates (Dwyer et al. 2005), and that falls within the range of densities observed in nature (Woods and Elkinton 1987). We also included a control treatment containing no infected larvae, to test whether infections could be due to naturally occurring virus. Infection rates on the control branches were close to zero.
+Five days after deployment the infected larvae were all dead, so we removed the bags from the branches, exposing the virus-contaminated foliage to the environment. Because, as we will show, decay inside the bags is negligible, no decay occurred until the bags were removed from the
+ 
+ E74 The American Naturalist
+ foliage, so all virus had already been added to the foliage when decay began. We used exposure times of 0, 1, 3, and 7 days in 2007, each replicated six times. However, the 2007 data suggested that our estimates would be more accurate if we used more replicates and eliminated the longest exposure-time treatment, so in 2008 we used treatments of 0, 1 and 3 days, each replicated eight times. After exposing the cadavers, we enclosed the branches within new bags to prevent transmission through contact with the mesh, and we released 20 uninfected fourthth instars onto each branch. We allowed the uninfected larvae to feed for 7 days, after which we placed them in individual diet cups for 3 weeks to determine whether they were infected. Infected larvae are usually recognizable because they liquefy, but in cases of uncertainty we examined larvae under a light microscope, where the occlusion bodies were clearly visible at #400 (Miller 1997).
+In 2007, many initially uninfected larvae were lost to predation by other insects, notably stink bugs (Heteroptera: Pentatomidae), and in any case the experimental design was still rough. In 2008 we used a more powerful design and stink bug predation was low, and so our estimate of the decay rate from 2008 is thus more reliable. As we will show, however, virus decay was detectable in both years, and so we include both data sets. Also, in 2007 the experiment was carried out in July, while in 2008 the experiment was carried out in June, but previous work has made clear that the timing of this type of experiment within the summer has no effect on the results (Dwyer et al. 2005).
+Statistical Tests
+To estimate the decay rate m and the transmission parameters n ̄ and C, we simplified the single-epidemic model to match the conditions of our experiments. After the uninfected larvae were placed on the branches, no more virus was added, and as we will show the virus does not decay while the foliage is in a bag, so we can set the rate of change of infectious cadavers inside the bags dP/dt p 0. We allowed virus transmission for 7 days (ˆt p 7), and so we integrate equation (1) for the host population from 0 to ˆt. Equation (1) can then be solved to give the fraction of susceptible hosts S remaining after transmission has ended (appendix). Because our main interest was in detecting virus decay, our statistical analyses were designed to determine whether allowing for m 1 0 improved the model’s fit to the data. We therefore considered two versions of the model, one with m 1 0 and one with m p 0. If we assume m 1 0, we have
+ ˆ
+S(t) 2 􏱛mTˆ 􏱛1/C S ( 0 ) p ( 1 􏱘 n ̄ C P ( 0 ) e t )
+If we assume m p 0, we have
+ˆ
+S(t) 2 ˆ 􏱛1/C S ( 0 ) p ( 1 􏱘 n ̄ C P ( 0 ) t )
+ˆ
+Monte Carlo simulations have shown that estimates of heterogeneity C using this type of experiment have smaller confidence intervals if the experiment includes a larger number of virus densities (G. Dwyer, unpublished data). Because our emphasis was on estimating the decay rate m, however, we sacrificed a larger number of virus densities in favor of a larger number of exposure-time treatments. Similarly, values of C tend to be higher for feral larvae than for laboratory larvae (Dwyer et al. 1997, 2005), but because of our emphasis on estimating the decay rate, we used laboratory larvae to reduce overall variability and so to increase statistical power. Consequently, as we will show, models that assume C r 0 fit our data better than models that assume C 1 0. If we allow C r 0, then the model for m 1 0 is
+Here S(0) and S(t) are the densities of uninfected hosts at the beginning and the end of the transmission period, respectively. The initial density of infectious cadavers is then P(0), and T is the length of time that virus-contaminated leaves were exposed to the environment before transmission began. Following equation (4) for the infectious-cadaver population, we thus assume that, in the absence of new virus deaths, the virus population decays exponentially when exposed to the environment.
+ˆ
+S(t) 􏱛mTˆ
+S(0) p exp (􏱛nP(0)e whereas for m p 0, the model is
+t), (7)
+2
+2
+.
+( 5 )
+( 6 )
+ .
+  ˆ
+In fact, 11 previous experiments by the second and third authors and colleagues have demonstrated that, for the gypsy moth, heterogeneity C 1 0, even for laboratory larvae (Dwyer et al. 1997, 2005; Elderd et al. 2008). Accordingly, even though in the interests of statistical rigor we emphasize the fit of models for which C p 0, we also report results for the case for which C 1 0. Fortunately, our estimates of the decay rate m in the two cases are very similar.
+In our statistical models we assume that no virus decay occurs within the mesh bags. To test this, in 2007 we included a treatment in which all infected larvae were dead 7 days before the experiment began, but for which the infectious cadavers were never exposed to the environ-
+S(t )
+S(0) p exp (􏱛nP(0)t). (8)
+ˆ
+  
+ Pathogen Persistence in the Environment E75
+ ment. We thus allowed for a week of virus decay, but only within a bag (although we again put new bags on before adding uninfected larvae, as in the other treatments). As with the other treatments, this additional treatment was replicated six times. For the 2007 data, we therefore included a model with a separate rate for decay inside the bag (see appendix for the models).
+To estimate m, n ̄, and C in equations (5)–(8), we fit each equation to the data using maximum likelihood, using the nonlinear-fitting routines optim and optimize in the R programming language (R Development Core Team 2009). We used a binomial likelihood function, as is appropriate for mortality data (McCullagh and Nelder 1989), but to allow for the possibility of overdispersion, we calculated a variance-inflation factor (Burnham and Anderson 2002). The variance-inflation factor is the goodness-of-fit x2 statistic of the global model, in this case equation (5), divided by the degrees of freedom (McCullagh and Nelder 1989). For the 2007 data the variance-inflation factor was 2.23, while for the 2008 data it was 1.89. These values are small enough (!4) to suggest that there was no systematic lack of fit, but large enough that we used them to adjust our AICc values, by dividing each AICc value by the variance inflation factor (Burnham and Anderson 2002). This statistic is known as the quasi-likelihood AIC, or QAICc, but for brevity we refer to it as an AICc score. By choosing the best model using the AICc, we tested whether the models that assume m 1 0 provide a better explanation for the data than the models that assume m p 0. The lower the AICc score, the better the model (Burnham and Anderson 2002).
+We calculated 95% confidence intervals on the decay rate m using bootstrapping (Efron and Tibshirani 1994), to determine whether the confidence intervals overlapped 0. To do this we randomly selected replicates with replacement from within a given year’s data until we had as many replicates as used in that year, and then we recalculated the parameter values. This procedure was repeated 1,000 times, and the resulting distribution provided 95% confidence intervals for each parameter.
+We also estimated the decay rate of purified gypsy moth virus by reanalyzing data from Webb et al. (1999, 2001). In these experiments, purified virus was sprayed on foliage of “mostly’’ pin oak, Quercus palustris (other tree species were not named), in combination with water and bond sticker (we did not consider treatments in which any other compounds were added to the spray, such as Blankophor BBH, because of our interest in natural transmission), and uninfected larvae were added to the foliage at 0 and 1 week after virus application in 1999 and at 0, 1, and 2 weeks in 2001. Because of these small differences, comparisons between our estimate and the estimate for the Webb et al. data are not definitive, but they provide an
+ interesting comparison. We analyzed the data using essentially the same methods that we used for our own data (some small differences are described in the appendix). In the Webb et al. (2001) article, the data were analyzed in such a way that some treatment-specific standard errors were not reported, and so in making inferences we focus on the Webb et al. (1999) data.
+Long-Term Dynamics
+In our experiments, we measured the survival time of the virus on foliage. Because the gypsy moth feeds on deciduous trees, survival on foliage is unlikely to be an effective overwinter persistence mechanism. Nevertheless, as we will show, survival on foliage also affects long-term dynamics, because its effects on epidemics lead to effects on the size of the host population. To show this, we extended our single-epidemic model to allow for long-term dynamics. Allowing for long-term dynamics required that we estimate pathogen persistence over the winter. Possible overwinter persistence mechanisms include soil reservoirs, covert infections, survival in the larval environment, and contamination of egg masses.
+In empirical investigations of baculovirus persistence in soil reservoirs, transmission has been measured only in the lab. The typical approach is to add material from the field, such as soil or duff from the forest floor, to distilled water (Podgwaite et al. 1979; Thompson et al. 1981) and then to feed the resulting solution to larvae in the lab. The occurrence of infections then indicates that the virus is present, but for such virus to cause infections in nature, it would have to be translocated to the foliage so that larvae can eat it (Thompson et al. 1981; Fuxa and Richter 2007). Because one of the motivating principles of our work is that persistence time is best studied through its effects on transmission in the field, we do not consider persistence mechanisms for which there is no evidence of field transmission. We therefore do not attempt to estimate survival rates from existing data on soil reservoirs.
+Similar difficulties hold for another survival mechanism, covert infections, in which a host harbors a virus but shows no signs of infection (Il’inykh and Ul’yanova 2005). If such latent virus is activated, the host may die of the infection, leading to horizontal transmission that may spark an epidemic. Existing data consist of observations of virus outbreaks in laboratory populations held under sterile conditions (Burden et al. 2006), and detection, using polymerase chain reaction, of viral DNA in individuals in the field (Burden et al. 2003; Kouassi et al. 2009; Vilaplana et al. 2010). The latter data often reveal high latent infection rates, and so covert infections would seem to have the potential to play an important role in baculovirus dy-
+ 
+ E76 The American Naturalist
+ namics. The rate at which covert infections convert to overt infections in nature, however, is unknown.
+Moreover, for the gypsy moth in particular, evidence for covert infections is weak. Surface disinfection of egg masses in the third author’s lab reduced contamination in lab larvae to two apparently unexposed individuals out of roughly 105 insects over 8 years. Data cited as evidence in favor of covert infections in contrast are derived either from nondisinfected egg masses (Myers et al. 2000) or from stressing larvae from disinfected eggs in the laboratory, on the theory that stressors may activate latent virus (Ilyinykh et al. 2004). In the latter study, the stressor shown to elevate infection rates in gypsy moths was copper sulfate, whereas natural stressors such as cold temperatures, high densities, or hatching delays had no effect (Ilyinykh et al. 2004). Moreover, infection rates in controls were never zero, and so copper sulfate may simply lower resistance. The rate at which covert infections produce overt infections therefore appears to be very low in gypsy moths. More immediately, existing data do not meet our criterion of showing effects on transmission in the field.
+Evidence for overwintering through survival on bark, or through egg-mass contamination, is in contrast quite strong. First, Woods et al. (1989) showed that virus on bark can lead to infection when larvae walk over contaminated bark and then transfer the virus to the foliage. Survival on bark thus meets our criterion of providing evidence of transmission in the field. We therefore use Podgwaite et al.’s (1979) rough estimate that survival on bark is less than 1% year􏱛1. As we will show, this parameter has a small enough effect on the dynamics that the difference in effects between a minimum of 0% survival and a maximum of 1% is slight.
+Evidence for the importance of external contamination of egg masses is even stronger (Doane 1970). Part of the evidence is again that surface sterilization of field-collected egg masses reduces infection rates from high values to values near 0 (Doane 1969; Elderd et al. 2008). Moreover, Murray and Elkinton (1989) provide direct experimental evidence that egg mass contamination occurs as a result of eggs being laid on contaminated bark. They transferred egg masses between field populations that had had virus epidemics of different intensities in the previous season to show that the fraction hatching infected was significantly higher when eggs were laid at a high-virus site. In contrast, there was no effect of the site that eggs were moved to after laying. More generally, infection rates among larvae hatching from naturally occurring eggs laid at the highvirus site averaged 55%, suggesting that egg-mass contamination can lead to high rates of overwinter survival. We therefore use Murray and Elkinton’s data to estimate the rate of overwinter transmission due to egg-mass contamination (appendix).
+ In our long-term model, we thus allow for virus overwintering due to either egg-mass contamination or survival in the environment, and we leave out covert infections and soil reservoirs. Our models are therefore perhaps less general than some models in the literature (Boots et al. 2003; Bonsall et al. 2005; Sorrell et al. 2009), in that we do not consider every possible overwintering mechanism. A focus on mechanisms supported by field data, however, has the advantage of producing a more parsimonious model. To the extent that our models show longterm virus persistence, we can argue more strongly that some persistence mechanisms may not be necessary for explaining baculovirus persistence in nature.
+Our long-term model is
+N p le􏴓nN [1 􏱛 i(N , Z )] 1 􏱛 abNn , (9)
+n􏱘1 n n n(b2􏱘N2) n
+Zn􏱘1 pfNni(Nn,Zn)􏱘gZn.
+(10)
+ Here Nn and Zn are the densities of insects and infectious
+cadavers, respectively, before the epidemic in generation
+n, and i(Nn , Zn) is the fraction of larvae that become in-
+fected. The symbol l is the net reproductive rate, while
+􏴓n is a normally distributed random variable with mean
+0, representing the environmental stochasticity that often
+affects insect populations. The symbol f is the overwinter
+survival rate of virus produced in the previous generation,
+and g is the overwinter survival of virus from previous
+generations. Our expectation is that f represents egg-mass
+contamination and that g represents survival on bark, but
+in fact the model is more general than these interpreta-
+tions. Although we do not expect that virus that is more
+than 1 year old will have a different survival rate, as we
+will show, it is conceptually useful to model these rates
+separately. Also, for many outbreaking insects, generalist
+predators and parasitoids can play a crucial role in keeping
+inter-outbreak populations low (Dwyer et al. 2004), and
+so we allow for a Type III predation term. Because we
+track the fraction surviving, the term 1􏱛(abNn)/(b2 􏱘
+N 2) then describes the fraction of hosts that survive pren
+dation, with a, the maximum predation rate, and b, the saturation constant on the functional response of the predator. To allow for a range of possibilities, we consider models with and without the predator, setting the predation rate a { 0 to eliminate predation.
+Previous work using versions of this model relied on the burnout approximation (below), to describe the fraction infected (Dwyer et al. 2004; Bjornstad et al. 2010). Under the burnout approximation, the decay rate m and the transmission rate n ̄ affect only the scale of host population density, meaning that they do not affect the period or amplitude of outbreaks or whether outbreaks occur
+ 
+ Pathogen Persistence in the Environment E77
+ (Dwyer et al. 2004). Here we instead allow pupation to terminate epidemics, so that we use equations (1)–(4) with the epidemic length set to 56 days, roughly the length of the larval period in gypsy moths. For this model, rescaling eliminates average transmission n ̄ but not the decay parameter m (appendix), and as we show in “Results” changes in the decay rate can therefore affect the amplitude of outbreaks.
+To understand the relative importance of egg-mass contamination and survival in the environment, it is worth examining the rescaled equation for the pathogen population:
+that the virus-survival parameter f and the hatchling sus-
+ceptibility parameter h affect the dynamics only as a prod-
+uct, and so we define f { fh to be the overwinter impact
+of the pathogen. To understand the importance of the
+ˆˆˆˆˆ
+Zn􏱘1 pfhNni(Nn,Zn)􏱘gZn. (11) Here the host and pathogen densities have been rescaled
+ˆˆ
+according to Nn { n ̄Nn and Zn { n ̄hZn. We can then see
+difference between f and g, we note first that ˆˆˆ
+fNni(Nn , Zn) is the contribution to the virus population of infectious cadavers from the epidemic in the previous
+ˆ
+generation, whereas gZn is the contribution from generations before that. The parameter f thus describes only the impact of cadavers from the previous generation, which we again interpret as egg-mass contamination, whereas g describes only the impact of cadavers from earlier generations, which we interpret as survival in the environment. Because it is likely that h is at least 100, it is possible that f 1 1 (shortly we will show that f is at least 3), whereas by definition g is less than 1. The effect of small increases in f, the survival of cadavers from the previous generation, is thus greatly amplified by the effects of h, the relative susceptibility of hatchlings. We therefore expect that the survival of cadavers from the previous generation will have a much stronger effect on outbreaks than will the survival of cadavers from earlier generations.
+Results
+Experiments
+As we expected, in both years, the infection rate was lower in the 25-cadaver treatment than in the 50-cadaver treatment (figs. 1, 2). More importantly, in both experiments, at both virus densities, the fraction infected generally declined with increasing exposure time. The standard errors for 2007, however, were much larger than for 2008, probably because of the reduction in sample size that resulted from stink bug predation.
+AIC analysis confirmed that the models that included the decay rate m (eqq. [5] and [7]) gave a better fit to the
+ data than the models that assumed m p 0 (eqq. [6] and [8]; table 1). In 2007, the best model included decay both outside the bags and inside the bags, but the decay rate inside the bag was so low as to be negligible (table 2). Also, in 2007 the AIC difference between the best model and a model with no decay was less than 2, indicating that models that exclude decay provide nearly as good an explanation for the data as models that do not include decay. This lack of discriminatory power in the 2007 data is probably due either to the uncertainty introduced by stink bug predation or to the less powerful experimental design. The DAICc score for the model with C 1 0 was similarly 2 or less in both years, suggesting that the models with heterogeneity explain the data nearly as well as the models without heterogeneity. Fortunately, our best estimates of m are nearly the same irrespective of whether we assume C 1 0 (table 2). Although our best estimate of the average viral lifetime from the 2007 data was 14.3 days, the 95% confidence interval includes 6.19 days and 26.2 days (table 2). Our estimate from the 2008 data of 2.56 days therefore appears to be more reliable.
+Table 2 also shows that the decay rates from Webb et al. (1999, 2001), based on purified virus, are at least two times higher than our decay rates based on infectious cadavers, and the confidence intervals do not overlap. Small differences between studies make it difficult to be conclusive, but the comparison provides preliminary evidence that purified virus decays faster. Moreover, persistence times for purified virus of other insects are also generally less than a day (Jaques 1967, 1972; Sun et al. 2004; see appendix for estimates from the Jaques data). Purified virus of other insects therefore also appears to break down quite rapidly.
+A related point is that accurate calculation of the transmission rate n ̄ from the Webb et al. experiments is difficult because important details such as leaf area were not provided. We made conservative assumptions in several cases of uncertainty (appendix), but the resulting estimates are nevertheless orders of magnitude higher than the estimates from our experiments. Part of the explanation is probably that the virus in the Webb et al. experiments was applied uniformly over the leaf, which can raise infection rates (D’Amico et al. 2005), and also that larvae cannot easily detect and avoid purified virus (V. D’Amico, unpublished data). The estimate of the decay rate m, however, is unaffected by errors in the estimation of n ̄.
+The Usefulness of the Disease-Density Threshold and the Burnout Approximation
+We next use our estimates of the transmission rate n ̄ and the decay rate m in our single-epidemic model, equations (1)–(4), first using only our 2008 estimate for purposes
+ 
+ E78 The American Naturalist
+ Figure 1: Comparison of best-fit model prediction to data from 2007. Data (points) show the mean fraction infected, with one standard error of the mean. Curves show the best-fit model predictions, such that the thin line is for m 1 0, equation (7), and the thick line is for m p 0, equation (8). A, Results for 25 cadavers per branch; B, results for 50 cadavers per branch. To illustrate the fit of the models, we use different vertical axis scales for the two panels.
+ of exposition but shortly considering a range of values. As figure 3A, 3B shows, the pathogen begins at a low density, but ultimately it reaches a high enough density to cause the density of uninfected hosts S to drop rapidly (the complex fluctuations in the pathogen population reflect the time delay between infection and death, which introduces a kind of stage structure into the infected population (not shown)). Eventually depletion of the susceptible population causes viral decay to outweigh transmission, so that the density of cadavers drops toward zero, leaving behind a reduced but nonzero host population.
+In figure 3A, 3B, the initial host densities are typical of the low end of densities at which baculovirus epidemics have been observed (Woods and Elkinton 1987). These populations are nevertheless far enough above the diseasedensity threshold that overall mortality is quite high. It is possible to prove, however, that the host population in the model will never reach 0, even if the population starts yet farther above the threshold and time goes to infinity (Thieme 2003). In the absence of pupation, epidemics in the model are thus terminated when the infected popu-
+ lation reaches 0, rather than because there are no more uninfected hosts, which is the phenomenon known as epidemic burnout (Keeling and Rohani 2007).
+The fraction of hosts i that remain uninfected after burnout can be calculated from the implicit equation (Dwyer et al. 2000; Thieme 2003):
+􏱛1/C 2
+1􏱛i p 1􏱘Cn ̄(S(0)i􏱘P(0)) . (12)
+[m]
+ Mathematically, this result requires that we allow t r 􏳵, but as the trajectories in 3A, 3B indicate, in most cases the epidemic is over for t K 􏳵. In figure 3B, for example, the epidemic is effectively over by t p 80 days. For gypsy moths and other outbreaking insects, however, larval periods are typically much less than 80 days (Moreau and Lucarotti 2007). It therefore seemed likely that the burnout approximation would provide only a rough description of epidemic severity in these insects.
+To show the effect of epidemic length on the accuracy of the burnout approximation, in figure 3C we plot the
+ 
+ Pathogen Persistence in the Environment E79
+ Figure 2: Comparison of best-fit model prediction to data from 2008. Points and lines are as in figure 1, and again the vertical axis scales are different for the two panels. A, Results for 25 cadavers per branch; B, results for 50 cadavers per branch.
+ cumulative fraction infected i versus host density. Figure 3C also shows the corresponding predictions of equations (1)–(4), assuming that the epidemic is terminated by pupation either at 250 or at 56 days, with the latter value appropriate for the gypsy moth. The burnout approximation is quite close to the 250-day case, but it is quite far from the 56-day case. It therefore appears that both pupation and burnout will limit epidemics, at least at low virus densities.
+Figure 3C also roughly illustrates the effect of the disease threshold, the lowest host density at which a negligible initial pathogen density, P(0) r 0, produces new infections (Thieme 2003). For equations (1)–(4), the threshold is m/n ̄, which from our 2008 data is 0.61 larvae m􏱛2. In figure 3C, a modest number of infections occur below this threshold because we have assumed an initial pathogen population equal to 1% of the host population, a value that is not that close to 0.
+Allowing for both the 2007 and 2008 data, our estimates of the threshold range from 0.17 to 0.61 larvae m􏱛2 (table 2), whereas the lowest density at which an epidemic has been observed in nature is roughly 3 larvae m􏱛2 (Dwyer and Elkinton 1993). Observational studies, however, are
+ likely to overestimate the population threshold, because stochastic effects near the threshold will reduce infection rates (Lloyd-Smith et al. 2005) and because it is difficult to find enough insects to estimate the fraction infected at low densities (Woods and Elkinton 1987). Moreover, in gypsy moths, host and virus densities are positively correlated. Indeed, at the lowest density at which an epidemic has been observed in nature, the cumulative infection rate was higher than 0.2 even though the initial infection rate was low, suggesting that such populations are well above the threshold (Woods et al. 1991). We therefore suspect that our best threshold estimate of 0.61 larvae m􏱛2 is reasonably accurate.
+In figure 3C, we assumed an initial infection rate of 1% so as not to completely obscure the density threshold, but epidemics in gypsy moth populations typically begin with initial infection rates of 10% or more (Woods et al. 1991). This is important because increasing the initial infection rate causes the epidemic to burn out more rapidly (fig. 3D), reducing the inaccuracy of the burnout approximation.
+In considering a range of decay rates, we therefore instead assume that the initial pathogen population is equal
+ 
+ E80 The American Naturalist
+ Table 1: Corrected Akaike Information Criterion (AICc) values for the models with and without decay rates
+    Year,
+decay? Heterogeneity?
+2007:
+No No Yes No No Yes Yes Yes Yes No Yes Yes
+2008:
+No No Yes No No Yes Yes Yes
+In-bag decay?
+No No No No Yes Yes
+... ... ... ...
+No. parameters
+(K) QAICc
+D QAICc .31
+.81 2.32 .73
+0
+    1 89.57 2 90.07 2 91.58 3 92.00 3 89.26 4 91.27
+2.01 1 108.11 43.85
+2 64.26 0
+2 107.68 43.42 3 66.30 2.04
+    Note: Values for the best model in each year are in boldface. QAICc p quasi-likelihood AIC.
+ to 10% of the initial host population. In figure 4, we then compare our model predictions to the prediction of the burnout approximation and to the predictions of a model in which decay is 0 and transmission is terminated only by pupation. In the figure, we use our point estimates of persistence from both 2007 (14.3 days) and 2008 (2.56 days), as well as an estimate from the Webb et al. (1999) data, and a high value of 100 days to allow for a case of near-zero decay. Because the threshold density changes with the persistence time, for each persistence time we use a range of host densities that is scaled to the threshold, ranging from 0.8 time the threshold to 200 times the threshold (the panel for 100 days goes to 300# so that we can see the full range of infection rates). Woods and Elkinton (1987) observed gypsy moth epidemics at host densities ranging from 3 to 150 larvae m􏱛2 (0.48–2.2 on the log10 scale of the graphs), and so only the graph based on our 2008 estimate (2.56 days, fig. 4C) is centered on the correct range. For longer persistence times, as for our 2007 data (fig. 4B) or for the comparison plot with persistence time of 100 days (fig. 4A), the infection rate is too high at the lower range, while for the shorter persistence time of the Webb et al. data (fig. 4D), it is too low at the higher range. Our estimate of the disease-density threshold thus again appears to be reasonably accurate, suggesting that the disease-density threshold is a useful summary statistic for understanding epidemics in gypsy moth populations.
+To assess the usefulness of the burnout approximation, we consider how it compares to the predictions of the realistic model, which includes both pupation and burnout. For a persistence time of 100 days, viral decay is low enough that the realistic model is closest to the pupationonly model, for which m { 0, and very far from the burnout approximation (fig. 4A). For any shorter persistence
+ time, as in the estimates based on our data or the Webb et al. (1999) data, the pupation-only model predicts higher infection rates than the burnout-plus-pupation model or the burnout approximation. For our best estimate of persistence, from the 2008 data, the realistic model closely approaches the burnout approximation for densities above about 10 larvae m􏱛2, but it is well below the burnout approximation for lower densities (fig. 4C). The burnout approximation is therefore reasonably accurate for more than half the realistic range, but it is quite different from the realistic model at lower densities, suggesting that both pupation and burnout play a role. In particular, pupation is probably part of the reason why epidemics have only been detected at densities considerably higher than the threshold. The lack of observations of epidemics at lower densities may therefore be additional evidence that pupation limits epidemics.
+Long-Term Dynamics
+Figure 5 shows trajectories for the long-term model, including the host-pathogen-only model that excludes the generalist predator and the host-pathogen-predator model. Both models show cycles that qualitatively match cycles in nature, which typically show a period of 5–10 years and an amplitude of 3–5 orders of magnitude (Elkinton and Liebhold 1990; Johnson et al. 2005). In the host-pathogenpredator model, the generalist predator interacts with stochasticity to create variability in outbreak timing and intensity (Dwyer et al. 2004).
+To see the effects of persistence on outbreak severity, we consider a wider range of persistence times, using the amplitude of fluctuations as a measure of outbreak severity. For realistic values of long-term survival g, modest changes have only slight effects, so we ran the model for
+ 
+ Pathogen Persistence in the Environment E81
+ Table 2: Best-fit model parameter values for our experiments and for the experiments of Webb et al. (1999, 2001)
+      Average Transmission n ̄ Decay m In-bag decay Heterogeneity persistence
+Field season (m2 day􏱛1) (day􏱛1) (day􏱛1) C (days)
+Population threshold (insects m􏱛2)
+      2007
+2007
+2007
+2007
+2008
+2008
+Webb et al. 1999 Webb et al. 2001
+.24 (.17, .32) .28 (.18, .55) .26 (.19, .40) .30 (.20, .67) .64 (.54, .79) .73 (.54, 1.30)
+1,470 (186, 105) 55.9 (36.3, 110)
+.04 (10􏱛8, .093) .054 (10􏱛7, .13)
+.07 (.03, .11) .07 (.04, .16) .39 (.24, .51) .41 (.25, .64)
+1.09 (.822, 1.67) .92 (.83, 8.47)
+...
+...
+10􏱛7 (10􏱛10, .08) 10􏱛8 (10􏱛9, .08) ...
+...
+...
+...
+...
+.56 (10􏱛4, 1.67)
+...
+.65 (10􏱛4, 1.67)
+...
+.43 (3e-4, .93) 2.41 (1.95, 3.05) 1.01 (.118, 1.21)
+25 (10.7, 107) 18.5 (7.67, 106) 14.3 (6.19, 26.6) 14.3 (6.19, 26.6) 2.59 (1.94, 3.95) 2.43 (1.59, 3.82)
+.91 (.60, .91) 1.47 (1.23, 1.65)
+.17 (10􏱛7, .35) .19 (10􏱛7, .33) .27 (.11, .39) .24 (.11, .36) .61 (.41, .81) .61 (.41, .81)
+NA NA
+      Note: Note that the transmission parameters for the Webb et al. data depend on a long list of assumptions and thus are not very reliable (see appendix). For the Webb et al. data, therefore, we do not include an estimate of the threshold. The upper confidence bound on the decay rate for the Webb et al. (2001) data is also probably unreliable (appendix). NA p not applicable.
+ wide ranges of m and f while considering only g p 0.01, an upper limit based on Podgwaite et al.’s (1979) data, and g p 0. We then iterated the models for 200 generations, long enough to eliminate transients, and we calculated the amplitude of fluctuations of host density for the last 100 generations. We defined the amplitude to be the difference between the host population density at a local maximum and the density at the minimum before the next maximum, with all densities calculated on a log10 scale. For the host-pathogen-predator model, initial conditions can have strong effects, and so for that model we averaged across initial conditions by drawing initial values of host and pathogen densities from uniform distributions that spanned the range of values encompassed by the attractor of each model. We then calculated the average amplitude across 10 realizations. Using data from Murray and Elkinton (1989), we calculated a point estimate and 95% confidence interval on overwinter survival f, and we used the confidence interval to bound f (median 7.14, 95% confidence interval 3.53–23.42; see appendix). To bound within-season decay m, we used both our 2007 and 2008 estimates and the estimate from the Webb et al. (2001) data.
+Figure 6 then shows that increasing values of overwinter impact f dramatically increase amplitudes for both models, as expected, while within-season persistence time 1/m has more complicated effects. For the host-pathogenonly model, increasing persistence time leads to larger amplitudes, but the effect is much stronger as survival time increases beyond 15 days (about 1.2 on the log10 scale of our plot). Indeed, for sufficiently high survival times, the amplitude of fluctuations is so large that the cycles are unbounded. The effect of within-season survival is thus counterintuitive, because the model shows that more rapid breakdown of virus on foliage makes cycle amplitudes smaller. Smaller-amplitude cycles in turn dampen outbreaks, reducing the chance that the virus will become
+ extinct and reducing the need for high values of long-term survival g. For the host-pathogen-predator model, the effect of persistence is similar except that the cycles are never unbounded. Also, for very long persistence times, the cycles are captured by the low-density equilibrium imposed by the generalist predator, leading to smaller-amplitude fluctuations.
+Cycles in our models occur when the pathogen has a strong impact on the host for at least 1 year after the host population has fallen below its peak. Increasing overwinter impact f therefore leads to larger-amplitude fluctuations because increasing f increases the severity of the epidemic in the year following the peak (Dwyer et al. 2000). Reducing the decay rate m also increases the severity of the epidemic in the year following the peak, because as figure 4 shows, reducing m leads to more severe epidemics at low host densities. The effect of the decay rate m on epidemics is thus translated into strong effects on long-term dynamics.
+In both models, survival of virus from the previous generation, as estimated by the parameter f, appears to be sufficient to prevent the extinction of the virus even if longer-term survival g p 0. In the more realistic hostpathogen-predator model in particular, the virus persists for the entire range of values of overwinter impact f and within-season survival m. We therefore argue that covert infections and soil reservoirs may not be necessary to explain pathogen-driven outbreaks in the gypsy moth, and perhaps in other outbreaking insects as well. This is not to say that covert infections and soil reservoirs never play a role in the dynamics of baculoviruses but instead that we may not need to invoke them to explain virus persistence.
+Discussion
+Our best estimate of the persistence time of the gypsy moth baculovirus is less than 3 days. For this value, the burnout
+ 
+ A) Initial host density: 10 larvae/m2
+Init. path. density: 0.1 larvae/m2
+0 20 40 60 80 100 120 Time (days)
+C)
+Burnout approximation
+Epidemic length 56d
+Epidemic length 200d
+0.0 0.5 1.0 1.5 2.0 log10 Host density, S(0)
+B) Initial host density:
+5 larvae/m2
+Init. path. density:
+0.1 larvae/m2
+0 20 40 60 80 100 120 Time (days)
+D) Initial host density:
+10 larvae/m2
+Init. path. density:
+1 larvae/m2
+Host density Pathogen density
+0 20 40 60 80 100 120 Time (days)
+Cum. fraction infected 0.0 0.2 0.4 0.6 0.8
+1.0
+Host/pathogen density
+0 2 4 6 8 10
+Host/pathogen density 012345 012345
+Host/pathogen density
+Figure 3: Predictions of the epidemic-model equations (1)–(4) for parameters estimated from our data. A and B show trajectories for two different sets of initial host and pathogen densities, one with higher initial host density (A) and one with lower initial host density (B) and with the initial pathogen population equal to 1% of the host population in both. Cumulative fractions infected: A, 0.918; B, 0.841. Transmission and decay are estimated from our 2008 data (n ̄ p 0.64 m2, m p 0.39 day􏱛1), while heterogeneity is from previous experiments (C p 1.5; Dwyer et al. 2005). Hatching larvae are assumed to be a fraction 0.02 of the size of later instar larvae, following an estimate of the number of occlusion bodies per fourth instar of 2 # 109 for fourth instars (Shapiro et al. 1979), and an estimate of 3.8 # 107 (􏱠0.89 # 107) for neonates (G. Dwyer, unpublished data). C, Comparison of the burnout approximation, equation (12), to the burnout-plus-pupation model for two different times of pupation, 250 and 56 days. D is like B, except that the initial virus density is 10% of the host population. Cumulative fraction infected p 0.854.
+E82
+
+ Figure 4: Comparison of the model that includes burnout and pupation (Burnout 􏱘 pupation), equations (1)–(4) with zero transmission after 56 days, to the burnout approximation (Burnout only), equation (12), and a version of equations (1)–(4) in which transmission again is zero after 56 days but for which decay m p 0 (Pupation only).
+approximation is quite accurate over much of the range of densities at which epidemics have been observed, but it is not very accurate at lower densities. The absence of epidemics at lower densities in nature therefore appears to be due to epidemics being curtailed by pupation, and so it seems likely that in general baculovirus epidemics in gypsy moths are limited by both burnout and pupation. We nevertheless argue that the burnout approximation is useful, first because it is quite accurate at the higher range
+of observed densities. Also, long-term models that make use of the burnout approximation have qualitatively similar behavior to the more realistic models that we present here. In particular, long-term models that use the burnout approximation also show long-period cycles, and for such models the cycle amplitude also increases sharply with increasing overwinter pathogen impact f and declines modestly with increasing environmental survival g (Dwyer et al. 2004; Bjornstad et al. 2010). Long-term models that
+Pathogen Persistence in the Environment E83
+
+ E84 The American Naturalist
+ Host−Pathogen−Only Model
+    0 10 20 30 40 50
+Time (generations)
+Host−Pathogen−Predator Model
+   Host Pathogen
+0 10 20 30 40 50 Time (generations)
+Figure 5: Trajectories of the long-term model, equations (9), (10). Here the estimate of the decay rate is m p 0.39, from our 2008 data, and the overwinter impact parameter f p 15, well within the 95% confidence interval for this parameter. Also, we assume that the epidemic lasts 2 mo (56 days) after the infected neonates have died. For the host-pathogen-only model, we set predation a p 0. For the hostpathogen-only model, the remaining parameters are taken from Dwyer et al. (2000): reproductive rate l p 5.5, and heterogeneity C p 0.86. For the host-pathogen-predator model, the remaining parameters are taken from Dwyer et al. (2004): l p 74.6, a p 0.967, C p 0.97, and b p 0.14 larvae m2.
+       make use of the burnout approximation are therefore qualitatively useful, especially because they can be understood more easily (Dwyer et al. 2000).
+The prediction of the host-density threshold is also quite useful. We expect that epidemics in nature will occur at host densities higher than our best estimate of 0.61 larvae m􏱛2,
+and indeed epidemics are typically observed at densities above 3 larvae m􏱛2 (Woods and Elkinton 1987; Woods et al. 1991). An interesting feature of this prediction, however, is that it suggests that insecticidal sprays may be used to begin epizootics in gypsy moth populations at densities that are well below outbreak densities (Elkinton and Liebhold
+ Log10 Host Density −2 −1 0 1 2 3
+log10 Host Density
+−2 −1 0 1 2 3 Log10 Pathogen Density
+−2 −1 0 1 2
+−2 −1 0 1 2
+log10 Pathogen Density
+
+ Envt’l persistence Webb’99 2008
+γ = 0.00
+Envt’l persistence Webb’99 2008
+γ = 0.01
+2007
+0.0 0.5
+Webb’99 2008
+1.0
+2007
+1.5
+0.0 0.5
+Webb’99 2008
+1.0 1.5
+2007
+0.0 0.5 Foliage persistence
+1.0
+1/μ ,days (log10)
+0.0 0.5 Foliage persistence
+1.0 1.5 1/μ ,days (log10)
+2007
+1.5
+Figure 6: Effects of virus persistence parameters on outbreak severity. Other parameters are as in figure 5. Shading indicates amplitudes of fluctuations, such that the darkest represents an amplitude of zero and the lightest represents an amplitude of 7 orders of magnitude. The upper two plots are for the host-pathogen-only model, and the lower two plots are for the host-pathogen-predator model. For the two panels on the left, the environmental survival parameter g p 0 , while for the two on the right, g p 0.01 . The error bars on the points represent the 95% confidence interval on f in the vertical direction, calculated from Murray and Elkinton (1989), and on persistence time 1/m in the horizontal direction, with data sources for m as labeled. For the host-pathogen-only model, periods greater than 6 generally lead to unstable oscillations, in which the virus becomes extinct, but for the host-pathogen-predator model the virus always persists.
+1990). More generally, our experimental procedure may be useful in the further development of the virus as a management tool (Reardon et al. 1996). One of the obstacles to the development and use of viral sprays is the large-scale field trials necessary to evaluate transmission efficacy of
+different candidate strains (Reardon et al. 1996; Thorpe et al. 1999). Small-scale transmission experiments might reduce the cost of these evaluations by providing a preliminary screening of virus strains. It is important to emphasize, however, that using ground-up cadavers instead of purified
+Pathogen Persistence in the Environment E85
+Host−pathogen−predator model Over−winter impact φ
+Host−pathogen−only model Over−winter impact φ
+5 10 15 20
+5 10 15 20
+5 10 15 20
+5 10 15 20
+
+ E86 The American Naturalist
+ virus is unlikely to be a viable strategy in biological control, because of regulations about the content of sprays (HunterFujita et al. 1998).
+Because the virus in our long-term models survives indefinitely even if we allow only for persistence of virus from the previous generation, we argue that covert infections and soil reservoirs may not be needed to explain baculovirus dynamics. As we have described, however, evidence for covert infections in the lab is stronger for at least a few other insects (Burden et al. 2003, 2006; Kouassi et al. 2009; Vilaplana et al. 2010) than it is for the gypsy moth (Myers et al. 2000; Ilyinykh et al. 2004), and so this conclusion may not be general. An additional caveat is that our models assume that spatial structure plays little role. For gypsy moths in North America, this may not be a bad assumption, because regional weather patterns synchronize populations over large spatial areas (Peltonen et al. 2002), and allowing for regional weather leads to realistic levels of synchrony in spatial versions of our models (Abbott and Dwyer 2008). Nevertheless, in 2001–2003, the third author observed a postoutbreak gypsy moth population that persisted at a high density over a small area, within which virus transmission continued for three larval seasons after the regional population had crashed (G. Dwyer, unpublished data). A deeper understanding of long-term persistence may therefore require field studies of the importance of spatial structure in populations at very low densities.
+Nothing about our single-epidemic model is specific to the gypsy moth–baculovirus interaction, to the extent that similar models are used to describe epidemics of human diseases (Keeling and Rohani 2007). More concretely, work in the third author’s lab (G. Dwyer et al., unpublished data) has shown that the epidemic model provides an excellent fit to data on baculovirus epidemics in the Douglas-fir tussock moth (Shepherd et al. 1984; Otvos et al. 1987), the western tent caterpillar (Beisner and Myers 1999), and the balsam-fir sawfly (Moreau et al. 2005). It therefore seems likely that baculovirus epidemics in other outbreaking insects are also limited by pupation. The longterm models are similarly not specific to the gypsy moth, in that most outbreaking insects have discrete generations and transmission in larvae only (Hunter 1991; Dwyer et al. 2004), as assumed by the models. We therefore argue that egg-mass contamination and environmental survival are likely to be sufficient to explain virus persistence in other insects as well.
+A general conclusion of our work is thus that, when data are collected in the laboratory or under other artificial conditions, the resulting conclusions may not apply to transmission in nature (Dwyer et al. 2005). The significantly higher decay rate of purified virus (table 2) emphasizes this point. A corollary is that estimation of model
+ parameters from field data can provide useful insights into host-pathogen dynamics, suggesting that a focus on particular host-pathogen systems can complement the more general models that are typical of most studies in theoretical ecology. Indeed, tests of theory necessarily require system-specific experiments, and we therefore believe that our work usefully illustrates the tension between generality and specificity in population biology.
+Interest in the effects of environmental persistence on host-pathogen dynamics has been driven by efforts to understand human diseases such as cholera (Pascual et al. 2002; King et al. 2008) and pandemic influenza (Breban et al. 2009). Recent work has similarly shown that the environmental persistence of Metschnikowia pathogens of Daphnia plays an important role in the dynamics of Metschnikowia-Daphnia interactions (Hall et al. 2005, 2010; Duffy and Sivars-Becker 2007; Duffy et al. 2010). Studies of the environmental persistence of baculoviruses in contrast have a long history (Jaques 1967; Doane 1969), but a lack of estimates of persistence times has hindered our understanding of how baculovirus persistence affects baculovirus dynamics. We therefore hope to have shown that quantifying persistence times can lead to a deeper understanding of disease spread.
+Acknowledgments
+E.F. was supported by a Research Experiences for Undergraduates fellowship, through the National Science Foundation (NSF). B.D.E. and G.D. were supported by NSF grants to G.D. A. Hunter provided useful comments on the manuscript, as did two anonymous reviewers. This is contribution 1599 of the Kellogg Biological Station.
+APPENDIX
+Statistical and Mathematical Details
+First we derive the equations used in our statistical analyses. Second, we explain how we analyzed data on virus decay from previous experiments. Third, we explain how we scaled transmission rates. Fourth, we present the rescaling of the long-term host-pathogen model, equations (9), (10).
+Statistical Analyses of Transmission Experiments, and Viral Decay Inside Bags
+In our experiments, the virus is allowed to decay for T days before transmission starts. Decay then ceases and
+ 
+ Pathogen Persistence in the Environment E87
+ there is no further change in the pathogen population. If P(0) is the density at the end of the decay period, we can rewrite equation (1) for the host population as
+C2
+p􏱛n ̄SP(0)e ( ). (A1)
+dS 􏱛mT S(t) dt S(0)
+  This equation can be integrated to give the model equation that we use in our statistical analyses:
+ˆ
+S(t) 2 􏱛mTˆ 􏱛1/C S ( 0 ) p ( 1 􏱘 n ̄ C P ( 0 ) e t )
+. ( A 2 ) For the case of no heterogeneity in infection risk, we set
+2
+ C p 0 in equation (A1):
+dS 􏱛mT
+dt p 􏱛nSP(0)e . (A3) We again integrate to find
+ ˆ
+S(t) 􏱛mTˆ S(0)pexp(􏱛nP(0)e t). (A4)
+So far we have assumed that there is no viral decay inside the mesh bags. To fit a model with decay inside the bags, we define m1 to be the decay rate inside the bag and m2 to be the decay rate outside the bag. Because there is no addition of virus, equation (4) for the infectious-cadaver population becomes
+dP
+dt p 􏱛m1P, (A5)
+which has solution P(t) p P(0)e􏱛m1t. We then insert this solution into the host equation (1):
+  C2
+p􏱛n ̄SP(0)e e ( ), (A6)
+dS 􏱛m1t 􏱛m2T S(t) dt S(0)
+  Integrating and rearranging in terms of the fraction uninfected gives
+ˆ
+S(t) 2 1􏱛e 􏱛m2T
+p 1􏱘n ̄C P(0)   e . (A7)
+S(0)( m1 )
+Estimating the Virus Decay Rate from Previous Experiments and Estimating an Egg-Mass Contamination Rate
+We first explain why estimating decay rates from experiments with only one virus dose is not statistically feasible using standard models. For analyzing dose-response experiments with baculoviruses, the standard approach is to use logistic regression, which means using a generalized linear model with link logit, also known as a logit model,
+􏱛1/C 2 􏱛m1ˆt
+  with the log-transformed dose as the independent variable (Morgan 1992). To allow for virus decay, we therefore use a logit model, except that we multiply the dose by an exponential decay term:
+1
+pi,j p1􏱘exp[􏱛b0􏱛b1log10(Die􏱛mtj)]. (A8)
+Here pi, j is the probability of infection at dose Di at time tj after the application of the virus, b0 and b1 are parameters describing the increase in the infection rate with increasing dose, and m is again the decay rate of the virus. In using the phrase “standard model,” we therefore mean that we began with a model that is usually used to analyze laboratory dose-response transmission experiments, and then we extended it to allow for virus decay.
+It turns out, however, that we cannot estimate b1 independently of m in this model because of a problem known in statistics as “nonidentifiability.” To show this, we first solve for the logit-transform of the data:
+ pi,j 􏱛mt
+log ( )p 􏱛b0 􏱛 b1 log10 (Die j). (A9)
+ 1 􏱛 pi, j
+We then rearrange the right-hand side to give
+pi,j
+log ( )p 􏱛b0 􏱛 b1 log10 Di 􏱛 b1 mtj . (A10)
+ 1 􏱛 pi, j
+If there is only one dose, then the dose is a constant,
+Di { D, and we can define new parameters b0 { b0 􏱘 ˆ
+b1 log10 D and b1 { b1 m. We can therefore rewrite the ˆˆ
+model to only include two parameters, b0 and b1. In short, if there is only one dose, it is not possible to separately estimate b1 and m, even if the exposure time tj is varied experimentally. Note that Sun et al. (2004) avoided this problem by estimating b0 and b1 from laboratory doseresponse data, and then back-calculating from the fraction infected in their data to estimate viral population densities in the field. It appears to be the case, however, that they used only the point estimates of b0 and b1 in their calculations of viral population densities. If so, the standard errors on their estimates of viral half-lives (Sun et al. 2004, p. 190, their table 1) are probably underestimates.
+The underlying problem is the log-transformed dose term. Although log transformation allows a better fit to baculovirus dose-response data, to our knowledge there is no mechanistic explanation for why this is so. This is relevant because although a different model might not have this problem, without a deeper understanding of the mechanisms underlying the infection process within an insect, we are in no position to propose a new and better model. The models for our field-transmission experiments do not have this problem, but they assume that larvae are
+ˆ
+ 
+ E88 The American Naturalist
+ allowed to feed at will on foliage in the field, whereas in the experiments in question, larvae were fed contaminated foliage in the laboratory, and larvae that did not consume the entire dose were discarded. We therefore do not attempt to find a better model with which to analyze this type of data.
+We instead restrict ourselves to experiments that used multiple doses and multiple exposure times. To our knowledge, the available data then include only the experiments of Jaques (1968, 1972) on the nucleopolyhedrovirus of the cabbage looper Trichoplusia ni, feeding on cabbage, and experiments by Webb et al. (1999, 2001) on the nucleopolyhedrovirus of the gypsy moth, feeding on oaks (Quercus species). As we mentioned, in all these experiments the virus was added to the foliage in the form of a spray of purified virus. Analyses of the data, whether verbal in the earlier Jaques’ studies, or statistical in the Webb et al. studies, then focus on the effects of dosage (Jaques 1968) or on the effects of adding different compounds to the virus spray, such as yeast (Jaques 1972), the optical brightener blankophor BBH (Webb et al. 1999), or a virus of another insect (Webb et al. 2001). Because we are interested in comparisons to natural decay, in reanalyzing these data, we use only data based on either virus in water (Jaques data) or virus in water plus 2% bond sticker (Webb et al. data).
+In the Jaques studies, the data are simple fractions of the number of larvae exposed to the virus, and so we assumed a binomial likelihood function (McCullagh and Nelder 1989). We then fit the parameters b0, b1, and m to the data using maximum likelihood, using the nonlinear search routine optim in the R programming language to find the best parameters (R Development Core Team 2009). The best-fit versions of the model are shown for each data set in figure A1. As the figure shows, in general the model does a reasonable job of reproducing the data, but calculation of a variance-inflation factor indicates that there is a systematic lack of fit (variance inflation 14) in three of four cases. Visual inspection of the fit of the model to the data, however, does not reveal any obvious or systematic discrepancies, and so in the absence of further knowledge, tweaking the model to improve the fit seems ill advised. We therefore simply report the best-fit parameter values and the variance-inflation factors (table A1). Note that the persistence times are lower than our estimates for the gypsy moth virus, but it is impossible to say whether this is due to differences in the host-virus system or to the use of purified virus.
+For the Webb et al. data, larvae were allowed to feed on virus-contaminated foliage in the field, as in our experiments. We therefore again used the field-transmission equation (7) to analyze the data. In this case, however, the data consist of the mean and the standard error of the
+ fraction infected, calculated over replicates, with each replicate equal to a branch (1999, eight replicates; 2001, 10 replicates). For the 2001 data in particular, the data are analyzed in such a way that treatment-specific standard errors are only reported for the highest of the three virus densities. Trying a range of standard errors for the lower densities suggested that the upper confidence bound on the decay rate is very sensitive to these standard errors, even though the lower confidence bound is not, so in general we focus on the 1999 data.
+Because we do not have the original data, we calculated a likelihood score for each parameter set by integrating over the variance in the data, as represented by the reported standard errors. The idea behind this approach is that we treat the variance in the data as a nuisance parameter, which we eliminate using integration (Berger et al. 1999). Conceptually, the integral can be written as
+L(v) p 􏷉L(v, x)f(x)dx, (A11)
+where L is the likelihood, v is a vector of model parameters, x is the data, and f(x) is the probability density function of the data. In practice, we cannot directly solve this integral, but we can approximate it numerically by drawing samples from the probability density function of the data and calculating the average likelihood across samples. For a large enough sample, this average likelihood will closely approximate the integral (Ross 2002).
+To explain how we carried out this procedure, we define r to be the number of replicates in each treatment in the experiment. We then first drew r values of the fraction infected for each treatment from a normal distribution with the same mean and standard deviation as the data for that treatment, and we calculated the mean and the standard error for this sample. In general, the standard errors were small enough that we almost never drew negative values, except for a few cases which we set to 10􏱛10, but increasing this latter number to 10􏱛3 had negligible effects. Using a lognormal distribution in contrast led to very large confidence bounds. A complete sample then consisted of a set of treatment-specific means and standard errors. We then drew 25 new samples using these calculated means and standard errors, and we fit the model to the 25 samples. Repeating this process 500 times gave us a distribution of values for each parameter, from which we calculated a median and 95% confidence interval for each parameter. As with the Jaques (1967, 1972) data, we calculated variance inflation factors to assess the goodness of fit of the model (Burnham and Anderson 2002). Doing so meant multiplying the number of insects per sample (10 in all cases) times the fraction infected for each bootstrapped sample. The variance inflation factor was less than
+ 
+ Pathogen Persistence in the Environment E89
+ 1 for every sample for the 1999 data, and figure A2 confirms that the model provides a reasonable fit to each data set. For the 1999 data, we also fit a model with heterogeneity C p 0, but its AIC score was 60 units larger, so we report only the results for the model with C 1 0.
+To estimate the overwintering parameter f, we basically performed the same procedure, using the data of Murray and Elkinton (1989). These data give the fraction of larvae hatching infected from eggs laid at sites with different infectious-cadaver densities. Because the data include estimates of the virus densities, it is possible to estimate the rate of increase of the fraction infected with virus density. We can then use the data to estimate the overwintering impact parameter f, which replaces n ̄e􏱛mT in equation (A3). Note that f thus includes both hatchling susceptibility and virus survival over the winter. A crucial point is that, for each bootstrapped sample, we drew values both for the fraction of larvae infected, the dependent variable, and for the density of virus, the independent variable. Figure A3 shows the data and the best-fit version of the model. The high uncertainty in the virus density, as indicated by the large horizontal error bars on the higher density, probably makes the largest contribution to the large confidence interval on f. Reassuringly, however, again the varianceinflation factor was less than 1 for all samples. Also, a model with no host heterogeneity, such that C p 0, explained the data much more poorly than did the model that assumed C 1 0, with a difference in AIC scores for the two models of 35.
+Scaling Transmission Rates. To accurately calculate the disease-density threshold, we must properly scale the transmission parameter n ̄. To begin with, this means allowing for the average area of a leaf, which we take to be 5.54 # 10􏱛3 m2 based on an earlier study with the same methodology using trees in the same patch of forest (Dwyer et al. 2005). In addition, in the single-epidemic model equations (1)–(4), cadaver density is defined in terms of fourth-instar cadavers. Because we used neonate cadavers in our experiments, we converted the hatchling cadaver density into the equivalent fourth-instar cadaver density by multiplying the cadaver density by 0.002, the ratio of the number of occlusion bodies in first (G. Dwyer, unpublished data; also see the legend for fig. 3 in the main text) versus fourth-instar cadavers (Shapiro et al. 1979).
+Carrying out the equivalent scaling for the Webb et al. (1999, 2001) data is more difficult, because important details are not listed in the original articles. In particular, we do not know the leaf area in a bag, nor do we know the amount of virus solution sprayed on the leaves. Because the experiments are described as being motivated by experiments of D’Amico and Elkinton (1995) that were similar in methodology to our experiments, we assumed the
+ same leaf area per bag. Because the leaves were sprayed until the solution was running off the leaves, we assumed that the amount of virus solution sprayed was 500 mL. The roughness of these guesses, however, suggests that our estimates of transmission n ̄ from the Webb et al. data are unreliable.
+Rescaling the Multi-Generation Model. Here we rescale the multi-generation model. For convenience, we show the
+model again.
+dS dt
+dE1 dt
+dEi dt
+N p lN (1 􏱛 i(N , Z )) 1 􏱛 abNn , n􏱘1 n n n(b2􏱘N2)
+n
+Zn􏱘1 pfNni(Nn,Zn)􏱘gZn.
+To connect the two models, we set the initial densities of
+hosts and cadavers to be
+S(0) p Nn, (A18)
+P(0) p hZn, (A19)
+where h allows for the higher susceptibility of hatching larvae, which die and produce infectious cadavers that start the epidemic (Dwyer et al. 2000). We next define the fraction infected in the epidemic as
+i(Nn,Zn) p 1􏱛S(T). (A20) Nn
+Here S(T) is the density of uninfected hosts at the end of the epidemic, so that T is the duration of the epidemic.
+To rescale these equations, we multiply almost all the state variables by the transmission rate n ̄, except that we multiply the infectious-cadaver population Zn by hn ̄:
+(A21) (A22) ( A 2 3 )
+First, the epidemic model is C2
+S(t) p􏱛n ̄SP(),
+(A12)
+(A13) (A14) (A15)
+(A16)
+  S(0) C2
+S(t) pn ̄SP()􏱛mdE1,
+  S(0)
+pmdEi􏱛1􏱛mdEi (ip2,...,m),
+ dP dt
+pmdEm􏱛mP. The long-term model is
+  (A17)
+ ˆˆˆ
+S { n ̄S(t), Ei { n ̄Ei(t), P { n ̄P(t), ˆˆ
+Nn {n ̄Nn,Zn {n ̄hZn
+f { f h , b { b n ̄ .
+ˆ
+ 
+ E90 The American Naturalist
+ The model then becomes
+C2 ˆˆ
+dS ˆˆ S(t)
+  dt
+p􏱛SP(ˆ ), S(0)
+(A24) (A25) (A26) (A27) (A28)
+C2 ˆˆ
+dE1 dt
+ˆ
+ˆˆ S(t)
+pSP(ˆ )􏱛mdE1,
+ˆ
+  S(0) ˆˆ
+dEi
+dtpmdEi􏱛1􏱛mdEi (ip2,...,m),
+ ˆ
+dP
+dt p mdEm 􏱛 mP.
+ˆˆ
+ ˆ ˆ ˆˆ abNn
+N p lN (1 􏱛 i(N , Z )) 1 􏱛 , n􏱘1 n nn(ˆ2ˆ2)
+ˆˆ
+ b 􏱘Nn
+ ˆˆˆˆˆ
+Zn􏱘1 pfNni(Nn,Zn)􏱘gZn. ˆˆˆˆˆ
+(A29) (A30) (A31) (A32)
+Zn􏱘1 pfNni(Nn,Zn)􏱘gZn. ˆˆ
+S(0) p Nn, ˆˆ
+P(0) p Zn, ˆˆ
+Sˆ ( T ) i(Nn,Zn)p1􏱛 Nˆ .
+ The rescaling thus eliminates n ̄ from the equations and replaces the parameters h and f with their product f. Also, the density b at which predation is maximized becomes bˆ .
+n
+ 
+ Figure A1: Best-fit logit-decay model, equation (A8), compared to data from Jaques (1967, 1972).
+E91
+
+ Dose
+1e+11 1e+12
+0.0 1.0 2.0
+3.0 4.0 5.0 Time (days)
+Webb et al. (2001)
+Dose
+1e+10 1e+11 1e+12
+6.0 7.0
+Webb et al. (1999)
+                  Fraction Infected Fraction Infected 0.0 0.2 0.4 0.6 0.8 1.0 0.2 0.4 0.6 0.8
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 Time (days)
+Figure A2: Best-fit field-transmission model compared to data from Webb et al. (1999, 2001). Doses are in terms of occlusion bodies per 378 L (100 gal).
+ E92
+
+ Pathogen Persistence in the Environment E93
+ Fraction infected
+0.0 0.1 0.2 0.3 0.4 0.5 0.6
+     0.0 0.5 1.0 1.5 2.0 2.5 3.0 Cadaver density (/m2) in previous year
+Figure A3: Best-fit transmission model compared to data from Murray and Elkinton (1989). Although Murray and Elkinton (1989) include several different experimental treatments, to avoid artifacts we restricted ourselves to egg masses laid naturally at a given site.
+Table A1: Best-fit values of the parameters of the logit-decay model, equation (A8), as fitted to data from Jaques (1967, 1972)
+     Data set
+Jaques 1967 Jaques 1972, 1968 Jaques 1972, 1969 Jaques 1972, 1971
+Literature Cited
+b0 b1
+􏱛10.4 1.62 􏱛4.88 1.13 􏱛8.04 1.37 􏱛1.73 .391
+Decay rate m
+.516 .731 .984
+1.34
+Average survival (days)
+Variance inflation
+     1.94 488 1.37 3.10 1.02 8.87
+.746 5.08
+       

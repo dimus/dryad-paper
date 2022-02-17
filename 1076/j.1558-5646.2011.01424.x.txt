@@ -1,0 +1,511 @@
+         ORIGINAL ARTICLE
+THE PROMISCUOUS AND THE CHASTE: FREQUENT ALLOPOLYPLOID SPECIATION AND ITS GENOMIC CONSEQUENCES IN AMERICAN DAISIES (MELAMPODIUM SECT. MELAMPODIUM; ASTERACEAE)
+Hanna Weiss-Schneeweiss,1,2 Cordula Blo ̈ ch,1 Barbara Turner,1 Jose ́ L. Villasen ̃ or,3 Tod F. Stuessy,1 Gerald M. Schneeweiss1
+1Department of Systematic and Evolutionary Botany, University of Vienna, Rennweg 14, A-1030 Vienna, Austria
+2E-mail: hanna.schneeweiss@univie.ac.at
+3Instituto de Biologı ́a, Departamento de Bota ́nica, Universidad Nacional Auto ́noma de Me ́xico, Tercer Circuito s/n, Ciudad Universitaria,Delegacio ́nCoyoaca ́n,MX-04510Me ́xico,D.F.,Me ́xico
+Received February 21, 2011
+Accepted July 8, 2011
+Data Archived: Dryad doi:10.5061/dryad.3n148
+Polyploidy, an important factor in eukaryotic evolution, is especially abundant in angiosperms, where it often acts in concert with hybridization to produce allopolyploids. The application of molecular phylogenetic techniques has identified the origins of numerous allopolyploids, but little is known on genomic and chromosomal consequences of allopolyploidization, despite their important role in conferring divergence of allopolyploids from their parental species. Here, using several plastid and nuclear sequence markers, we clarify the origin of tetraand hexaploids in a group of American daisies, allowing characterization of genome dynamics in polyploids compared to their diploid ancestors. All polyploid species are allopolyploids. Among the four diploid gene pools, the propensity for allopolyploidization is unevenly distributed phylogenetically with a few species apparently more prone to participate, but the underlying causes remain unclear. Polyploid genomes are characterized by differential loss of ribosomal DNA loci (5S and 35S rDNA), known hotspots of chromosomal evolution, but show genome size additivity, suggesting limited changes beyond those affecting rDNA loci or the presence of processes counterbalancing genome reduction. Patterns of rDNA sequence conversion and provenance of the lost loci are highly idiosyncratic and differ even between allopolyploids of identical parentage, indicating that allopolyploids deriving from the same lower-ploid parental species can follow different evolutionary trajectories.
+KEY WORDS: Allopolyploidy,chromosomeevolution,fluorescenceinsituhybridization,genomesize,phylogeny,rDNA.
+Polyploidization (whole genome duplication) has been an important factor in eukaryotic evolution (Wendel 2000; Rieseberg 2001; Comai 2005; Hufton and Panopoulou 2009). Polyploidy has been shown to be abundant in angiosperms, where it either acts alone resulting in autopolyploids or in concert with hybridization producing allopolyploids (Stebbins 1971; Grant 1981; Levin 2002; Arnold and Burke 2006; Rieseberg and Willis 2007; Soltis
+et al. 2009a). Although estimates on its frequency vary, it is commonly agreed that polyploid speciation especially via allopolyploidy constitutes an important and instantaneous mode of plant speciation (Grant 1981; Masterson 1994; Otto and Whitton 2000; Linder and Rieseberg 2004; Rieseberg and Willis 2007; Ainouche et al. 2009; Wood et al. 2009). Reproductive isolation initially conferred by ploidy differences is usually reinforced by genic,
+doi:10.1111/j.1558-5646.2011.01424.x
+ ⃝C 2011 The Author(s). Evolution ⃝C 2011 The Society for the Study of Evolution. 2 1 1 Evolution 66-1: 211–228
+
+         H. WEISS-SCHNEEWEISS ET AL.
+genomic, epigenetic, and chromosomal changes (Salmon et al. 2005; Tate et al. 2006; Doyle et al. 2008; Lim et al. 2008), which may occur as early as within a few generations only (Hanson et al. 2000; Wendel 2000; Gaeta et al. 2007; Lim et al. 2008).
+An increasing number of allopolyploids have their origins clarified due to the application of molecular phylogenetic techniques (e.g., Sang 2002; Fortune et al. 2007; Kim et al. 2008; Dixon et al. 2009; Shimizu-Inatsugi et al. 2009; Brokaw and Hufford 2010; Consaul et al. 2010). Inference of parental lineages relies on incongruences between differently (maternally vs. biparentally) inherited DNA regions or on markers, where parental copies are retained at least for some time, such as low-copy nuclear genes or fingerprint markers (Brysting et al. 2007, 2011; Kim et al. 2008; Dixon et al. 2009; Brokaw and Hufford 2010). From these studies, it emerges that allopolyploidization can occur repeatedly, sometimes involving already allopolyploid taxa as parents, and that it is unevenly distributed among angiosperm lineages, but, similar to autopolyploidy, is more frequent in some lineages, such as arctic or weedy groups (Brochmann et al. 2004; Brysting et al. 2007; Kim et al. 2008). Several factors have been suggested to be of importance for the formation of allopolyploids, includinglifeformandthepropensityforhybridformation(Grant 1981), the genetic divergence of parental taxa (i.e., higher chance of allopolyploid formation in cases of high parental divergence; Darlington 1937; Chapman and Burke 2007; Paun et al. 2009; but see Buggs et al. 2008, 2009, 2011a), or features of the parental genoytpes rendering them more likely to participate in allopolyploidization than others (Tate et al. 2009; Symonds et al. 2010). Identification of factors determining the propensity for allopolyploidization remains an important, yet unanswered, question in polyploidy research (Soltis et al. 2010).
+In contrast to the rapidly accumulating phylogenetic data, studies on genic, genomic, or chromosomal changes are mostly available for economically important groups (Levy and Feldman 2004; Gaeta et al. 2007; Bento et al. 2008; Lou et al. 2010), but they remain rare for wild plant groups (e.g., Baumel et al. 2002; Abbott and Lowe 2004; Pires et al. 2004; Skalicka ́ et al. 2005; Lim et al. 2008; Renny-Byfield et al. 2010). Whereas recently formed allopolyploids in Senecio or Tragopogon have become model systems for early phases of genomic evolution in allopolyploids (Hegarty et al. 2006, 2008; Tate et al. 2006, 2009; Buggs et al. 2011b), few groups have been sufficiently characterized to allow studying genomic evolution of allopolyploids on an evolutionary time scale (examples include Doyle et al. 2002, 2004 for Glycine; Rapp et al. 2009 and Flagel et al. 2010 for Gossypium; Lim et al. 2005 and Koukalova et al. 2010 for Nicotiana). Investigating such groups will help assessing the long-term evolutionary impact of repeated (allo)polyploid formation, specifically whether independently originated lineages have different evolutionary trajectories resulting in speciation (Soltis et al. 2010).
+An excellent group to study evolutionary patterns in allopolyploids, including genomic rearrangements, is the chromosomally diverse (x = 9, 10, 11, 12, 14; Weiss-Schneeweiss et al. 2009) mainly Mexican and Central American genus Melampodium (Asteraceae). One-third of its 40 species are exclusively polyploid (tetraand hexaploid; Weiss-Schneeweiss et al. 2009), most of which have been suggested to be of allopolyploid origin based on incongruences between plastid (matK) and nuclear (ITS) gene trees alone (Blo ̈ch et al. 2009). Allopolyploid speciation appears to be particularly rampant in Melampodium sect. Melampodium, where the tetraploids M. mayfieldii, M. nayaritense, and M. strigosum and the hexaploids M. longicorne, M. pringlei, and M. sericeum likely originated via allopolyploidization (Blo ̈ch et al. 2009; Weiss-Schneeweiss et al. 2009). Due to limited resolution of plastid sequence markers in Melampodium (Blo ̈ch et al. 2009) and peculiarities of nuclear ITS evolution (A ́lvarez and Wendel 2003; Poczai and Hyvo ̈en 2009), previous inferences were incomplete (for all polyploid species except M. mayfieldii) or ambiguous (M. mayfieldii) and are thus in need of refinement and independent corroboration.
+Here, we test previous hypotheses on the origins of six polyploidspeciesofsectionMelampodium(Blo ̈chetal.2009;WeissSchneeweiss et al. 2009) using amended sequence datasets, including two paralogues of a low-copy nuclear gene (Cytosolic Phosphoglucose Isomerase, PgiC). Furthermore, we study the evolution of the polyploid genomes with respect to both ribosomal loci (5S and 35S rDNA), known to respond quickly, although often in a groupand/or marker-specific manner, to polyploidization and/or hybridization (Fulnecˇek et al. 2002; Kovaˇr ́ık et al. 2008; Weiss-Schneeweiss et al. 2008; Malinska et al. 2010), and their genome sizes in comparison with those of their parental taxa. The specific aims of this study are (1) to clarify origins of the six polyploid species with respect to identification of their lower-ploid ancestors, thus identifying putative allopolyploidization hotspots and their underlying features; (2) to assess type and extent of changes in genome size, number, and localization of rDNA loci as well as 35S rDNA sequence dynamics; and (3) to test whether allopolyploids of identical parentage undergo parallel changes with respect to the investigated genomic features.
+Materials and Methods
+PLANT MATERIAL
+One to several populations of all currently recognized species of Melampodium sect. Melampodium series Cupulata (six diploid species), Glabribracteata (one diploid species), Melampodium (five diploid and one polyploid species), and Sericea (five polyploid species; Stuessy 1972; Stuessy et al. 2011) were collected in Mexico and the United States (Table 1; Blo ̈ch et al. 2009) with the exception of M. moctezumum, for which herbarium material was used for DNA extractions (with permission). Series
+ 212 EVOLUTION JANUARY2012
+
+         GENOMIC CONSEQUENCES OF ALLOPOLYPLOID SPECIATION
+                Table 1. Species names, localities, voucher numbers, ploidy levels, and GenBank accession numbers of the DNA sequences from species of Melampodium sect. Melampodium.
+Taxon
+level voucher numbersa 2x M, Michoaca ́ n,
+ITS
+matK FJ697080
+psbA-trnH GU216556
+5S rDNA
+PgiCI
+PgiCII
+Ser. Melampodium
+M. americanum L. 1
+FJ696977
+M. americanum L. 2
+2x M, Colima 2005; TS, JV, CR, and
+FJ696978, FJ696979
+FJ697081
+GU216557
+GU216359GU216369
+GU216452, GU216453
+GU216547, GU216551, GU216552
+M. diffusum Cass. 1
+2x M, Oaxaca, 2005; TS, JV, CR, and
+FJ696975
+FJ697082
+GU216554
+GU216403GU216405
+GU216450, GU216451
+GU216545, GU216546
+M. diffusum Cass. 2
+2x M, Guerrero, 2005; TS, JV,
+FJ696976
+FJ697083
+GU216555
+M. linearilobum DC. 1
+2x M, Michoaca ́ n, 2005; TS, JV,
+FJ696983
+FJ697088
+GU216574
+GU216428GU216430, GU216432, GU216433
+GU216442, GU216443, GU216469GU216471
+M. linearilobum DC. 2
+2x M, Oaxaca, 2005; TS, JV, CR, and
+FJ696982
+FJ697089
+GU216575
+M. linearilobum DC. 3
+2X M, Colima, 2005; TS, JV, CR, and
+GU216531, GU216553
+M. longipes (A.Gray) B.L.Rob. 1
+IC, 18610
+2x M, Nayarit, 2005;
+FJ696984
+M. longipes (A.Gray) B.L.Rob. 2
+2x M, Nayarit, 2005; TS, JV, CR, and
+FJ696985
+FJ697086
+GU216560
+GU216406GU216410
+GU216444GU216446
+GU216543, GU216544
+M. mayfieldii B.L.Turner 1
+IC, 18621
+4x M, Colima, 2005;
+FJ697018
+FJ697087
+GU216563
+M. mayfieldii B.L.Turner 2
+IC, 18613
+4x M, Jalisco, 2006;
+FJ697019, FJ697020, FJ697021
+FJ697086
+GU216564
+GU216325GU216330
+GU216434GU216441
+GU216535GU216542
+M. pilosum Stuessy 1
+EO, 19019 2x M, Michoaca ́ n,
+FJ696981
+FJ697084
+GU216558
+GU216344, GU216345
+GU216447GU216449
+GU216550
+Ploidy Collection details,
+GenBank accession numbers
+2005; TS, JV, CR, and IC, 18592
+IC, 18609
+IC, 18666
+CR, and IC, 18669
+CR, and IC,
+18593
+IC, 18661
+TS, JV, CR, and IC, 18619
+TS, JV, CR, and
+TS, JV, CB, and
+2005; TS, JV, CR, and IC, 18587
+Continued
+ EVOLUTION JANUARY2012 213
+
+         H. WEISS-SCHNEEWEISS ET AL.
+            Ta b l e 1 . Continued.
+Taxon
+level voucher numbersa 2x M, Michoaca ́ n,
+ITS
+matK FJ697085
+psbA-trnH GU216559
+5S rDNA
+PgiCI
+PgiCII
+M. pilosum Stuessy 2
+FJ696980
+Ser. Sericea
+M. longicorne A.Gray 1
+6x USA, Arizona, Pina Co, 2006;
+FJ697000
+FJ697098
+GU216570
+GU216347GU216354
+GU216454, GU216455
+GU216505, GU216512
+M. longicorne A.Gray 2
+6x USA, Arizona, Pina Co, 2006;
+FJ697001, FJ697002
+FJ697099
+GU216569
+GU216346
+M. nayaritense Stuessy 1
+4x M, Nayarit; JV and DS, 713
+GU216420, GU216422
+M. nayaritense Stuessy 2
+4x M, Nayarit, 2008; JV and EO,
+FJ696992
+FJ697091
+GU216571
+M. nayaritense Stuessy 3
+4x M, Nayarit, 2008; JV and EO,
+FJ696994, FJ696995, FJ696996
+FJ697090
+GU216573
+GU216411GU216419, GU216421, GU216423GU216427
+GU216456GU216458
+GU216532GU216534
+Ser. Melampodium
+M. nayaritense Stuessy 4
+4x M, Nayarit, 2008; JV and EO,
+FJ696993
+FJ697092
+GU216572
+M. pringlei B.L.Rob. 1
+6x M, Oaxaca, 2005; TS, JV, CR, and
+GU216465
+GU216530
+M. pringlei B.L.Rob. 2
+6x M, Oaxaca, 2005; TS, JV, CR, and
+FJ696990, FJ696991
+FJ697097
+GU216566
+GU216389GU216396
+GU216463, GU216464
+GU216519GU216521, GU216525GU216529
+M. pringlei B.L.Rob. 3
+6x M, Oaxaca, 2005; TS, JV, CR, and
+FJ696988
+FJ697094
+GU216466GU216468
+GU216522GU216524, GU216548
+Ploidy Collection details,
+GenBank accession numbers
+2005; TS, JV, CR, and IC, 18590
+CR and MB, 18823
+CR and MB,
+18826
+(OS)
+1575
+1577
+1579
+IC, 18634
+IC, 18637
+IC, 18650
+Continued
+ 214 EVOLUTION JANUARY2012
+
+         GENOMIC CONSEQUENCES OF ALLOPOLYPLOID SPECIATION
+              Ta b l e 1 . Continued.
+Taxon
+level voucher numbersa
+ITS
+matK FJ697093
+psbA-trnH GU216565
+5S rDNA
+PgiCI GU216472-
+PgiCII GU216511,
+M. sericeum Lag.
+6x M, Michoaca ́n, 2005; TS, JV,
+FJ696986, FJ696987
+GU216397GU216401
+M. strigosum Stuessy 1
+4x USA, Texas, Jeff Davis Co, 2005;
+FJ696997, FJ696998
+FJ697095
+GU216567
+GU216381GU216388
+GU216459GU216462
+GU216513, GU216516, GU216517
+M. strigosum Stuessy 2
+4x M, Queretaro, 2006; TS, JV,
+FJ696999
+FJ697096
+GU216568
+Ser. Glabribracteata
+M. glabribracteatum Stuessy
+2x M, Oaxaca, 2005; TS, JV, CR, and
+FJ696989
+FJ697100
+GU216564
+GU216370GU216380
+GU216483
+GU216514, GU216515
+Ser. Cupulata
+M. appendiculatum B.L.Rob.
+2x M, Sonora, 2006; TS, JV, and CB,
+FJ697030
+FJ697116
+GU216576
+GU216355GU216358
+GU216500
+GU216504, GU216509
+Ser. Melampodium
+M. cupulatum A.Gray 1
+2x M, Sinaloa, 2006; TS, JV, and CB,
+FJ697031
+FJ697114
+GU216581
+GU216318GU216324
+GU216501
+GU216502, GU216503, GU216507, GU216508
+M. cupulatum A.Gray 2
+2x M, Sonora, 2006; TS, JV, and CB,
+FJ697032
+FJ697115
+GU216580
+M. moctezumum B.L.Turner
+M, Sonora, 2006; TD and AR, 2007–706 (TEX)
+FJ789805, FJ789806
+M. rosei B.L.Rob. 1
+2x M, Sinaloa, 2006; TS, JV, CB, and
+FJ697026
+GU216340GU216343
+GU216488GU216491
+GU216510
+M. rosei B.L.Rob. 2
+EO, 19025
+2x M, Sinaloa, 2006;
+FJ697025
+FJ697121
+JF277467
+M. rosei B.L.Rob. 3
+2x M, Sinaloa, 2006; TS, JV, and CB,
+FJ697023, FJ697024
+FJ697122
+JF277468
+Ploidy Collection details,
+GenBank accession numbers
+CR, and IC,
+18572
+CR, and ML, 18728
+and CB, 19073
+IC, 18654
+19046
+19044
+19048
+TS, JV, CB, and EO, 19036
+19043
+GU216482
+GU216518, GU216549
+Continued
+EVOLUTION JANUARY2012 215
+
+         H. WEISS-SCHNEEWEISS ET AL.
+     Ta b l e 1 . continued.
+Taxon
+level voucher numbersa
+ITS
+matK
+psbA-trnH
+5S rDNA
+PgiCI
+PgiCII
+M. rosei B.L.Rob. 4
+2x M, Sinaloa, 2006; TS, JV, and CB,
+FJ697022
+M. sinuatum Brandegee
+19049
+2x M, Baja California,
+FJ697029
+FJ697136
+GU216579
+GU216311GU216317, GU216431
+GU216492GU216499
+M. tenellum Hook.f. and Arn. 1
+19037
+2x M, Nayarit, 2006;
+FJ697028
+FJ697117
+GU216578
+M. tenellum Hook.f. and Arn. 2
+EO, 19020
+2x M, Nayarit, 2006;
+FJ697027
+FJ697118
+GU216577
+GU216331GU216339
+GU216484GU216487
+GU216506
+Ploidy Collection details,
+GenBank accession numbers
+2006; TS & JV,
+TS, JV, CB, and
+TS, JV, CB, and EO, 19023
+aAll vouchers deposited in WU and UNAM unless otherwise indicated; Abbreviations: M, Me ́xico; USA, United States of America; Collectors: AR = A. L. Reina; CB = C. Blo ̈ch; CR = C. A. Rebernig; EO = E. Ortiz B.; IC = I. Calzada; JV = J. L.Villasen ̃ or MB = M. H. J. Barfuss; ML = M. Lenko; TD = T. R. Van Devender; TS = T. F. Stuessy.
+216 EVOLUTION JANUARY2012
+Leucantha (three species) and Longipila (one species) are not involved in the origin of the analyzed polyploids (Blo ̈ch et al. 2009) and are, therefore, not included in the analyses.
+DNA SEQUENCING AND ITS RESTRICTION ANALYSIS
+DNA extraction, amplification, and sequencing of the nuclear ITS and the plastid matK region followed Blo ̈ch et al. (2009), while those of plastid psbA-trnH followed Rebernig et al. (2010).
+The 5S rDNA repeat region including the nontranscribed spacer was amplified using newly designed primers situated in the 5S rRNA gene (forward 5′-AGTTAAGCTTTGGGCGAGAGTA; reverse 5′-AGTTCTGATGGAATTCGGTGYTKT; MWG, Ebersberg, Germany). Polymerase chain reaction (PCR) was carried out with 0.5 μM of each primer, 1× Ready Mix PCR Master Mix (containing 2.5 mM MgCl2; Sigma, Vienna, Austria), 4% dimethyl sulphoxide (DMSO), and c. 50 ng of DNA. The cycling conditions included initial denaturation at 95◦C for 4 min, followed by 35 cycles each of 1 min at 95◦C, 30 sec at 55◦C, 45 sec at 72◦C, and final elongation at 72◦C for 10 min.
+All PgiC PCR reactions were carried out with 1 μM of each primer, 1×Ready Mix PCR Master Mix (containing 2.5 mM MgCl2; Sigma), 4% DMSO, and c. 50 ng of DNA. Initial amplification of the region between exons 11 and 16 of the low-copy nuclear gene PgiC was done using degenerate primers AA11F (5′-TTYGCNTTYTGGGAYTGGGT), and AA16R (5′CCYTTNCCRTTRCTYTCCAT, Ford et al. 2006) with the following PCR conditions: 94◦C for 3 min, followed by 35 cycles of 30 sec at 94◦C, 30 sec at 54◦C, 2 min at 72◦C, and final elongation at 72◦C for 10 min. Analyses of these products allowed developing Melampodium-specific primers (11f-Melampodium: 5′-GGAGGYMGATAYRGYGGTAAG; 16R-Melampodium: 5′CRTTRCTYTCCATGCTMACCTAHA), which were used for all further amplifications. PCR conditions were as follows: 90◦C for 5 min, followed by 35 cycles of 30 sec at 94◦C, 1 min at 54◦C, 3 min at 69◦C, and final elongation at 69◦C for 20 min and at 72◦C for 10 min.
+PCR amplification products of the nuclear markers were cloned as described in Blo ̈ch et al. (2009) and at least six clones per sample and per ploidy level were sequenced for the 5S rDNA non-transcribed spacer (NTS) and 10–20 clones per ploidy level for PgiC (due to the presence of two paralogues; see next), respectively. All sequences are deposited in GenBank (Table 1).
+Appropriate sites for restriction analyses of ITS1+2 and ITS2 were screened using SMS (Stothard 2000). ITS1+2 and ITS2 regions were amplified separately from 1–3 accessions of each species using primers anchored in the rDNA genes as described in Blo ̈ch et al. (2009). The ITS1+2 region was digested with FastDigest® TaqI and the ITS2 region was digested with (1) FastDigest® HaeIII and with (2) FastDigest® BfaI (all MBIFermentas, St. Leon-Rot, Germany) following the manufacturer’s
+  
+         recommendations. Resulting DNA fragments were separated electrophoretically (60 min at 80 V) on a 2% agarose gel.
+ALIGNMENT AND PHYLOGENETIC ANALYSES
+Alignments were generated with Muscle 3.6 (Edgar 2004) using default settings and adjusted by eye using BioEdit 7.0.9.0 (Hall 1999). Prior to all analyses, a large inversion within the psbAtrnH region (alignment positions 73–108) was reverted. An initial neighbor-joining analysis of the PgiC gene sequences revealed the presence of two, clearly distinct paralogues (named hereinafter PgiCI and PgiCII) in all species, and these paralogues were analyzed separately. Regions of ambiguous alignment were excluded from the analyses (Table S1). This affected the highly variable 5S rDNA NTS region and both PgiC paralogues. In 5S rDNA NTS sequences, ambiguous sites were identified using G-Blocks version 0.91b (Castresana 2000) with the following settings: minimum number of sequences for conserved positions 63, minimum number for flanking positions 106, maximum number of contiguous nonconserved positions 8, minimum length of a block 10, allowed proportion of gap position 50%. Exploratory maximum parsimony analyses of larger or smaller alignments resulting from less or more stringent exclusion schemes yielded very similar results varying only slightly in resolution and support values (data not shown), and thus for all further analyses, the G-Blocks assisted alignment of 409 characters (out of 889 aligned positions) was used. In both PgiC datasets, parts of the intron between exons 15 and 16 were deleted from analyses (Table S1), as the presence of poly-Ts and other microsatellites rendered the alignment unreliable. As analyses of matK and psbA-trnH yielded largely congruent results (data not shown), both plastid markers were combined for final analyses. Datasets characteristics are provided in Table S1.
+Maximum parsimony analyses were performed using PAUP∗ 4.0b10 (Swofford 2003) treating all characters as equally weighted and indels as missing data. Heuristic searches included 1000 replicates of random sequence addition holding 10 trees per step, tree bisection and reconnection branch swapping, and MulTrees on. Nodal support was assessed via nonparametric bootstrap values with 10,000 bootstrap replicates each with 20 random sequence addition replicates and sub-tree pruning and regrafting branch swapping. Bayesian analyses were conducted using MrBayes 3.1.2 (Ronquist and Huelsenbeck 2003). Details of the partitioning strategy and the used substitution models are provided in Table S1. For details of the ITS analyses refer to Blo ̈ch et al. (2009). The MC3 comprised four runs with four chains each (default heating scheme), sampling every 1000th generation for 5×106 generations. Using default priors, all parameters were estimated during the analysis. The first 10% of each run, which was after the chains had reached stationarity, were discarded as burn-in. Majority rule consensus trees were constructed from the
+posterior set of 18,000 trees and rooted between series Cupulata and the rest of the taxa (Blo ̈ch et al. 2009).
+Reticulate relationships among species were depicted using multilabeled-tree representation employing PADRE 2 (Huber et al. 2006; Lott et al. 2009) using 95% majority rule consensus trees from the Bayesian analysis of 5S rDNA and each of the PgiC paralogues as input trees. The 95% cut-off was chosen based on the interpretation of posterior probabilities reflecting clade probabilities (Huelsenbeck and Rannala 2004) and to reduce the risk of considering clades with erroneously high support (Alfaro and Holder 2006). If different sequences from the same species formed a monophyletic clade or were grouped in a polytomy, these were merged into a single terminal to simplify PADRE analysis and to improve legibility (see Fig. 1).
+KARYOTYPE ANALYSIS, FLUORESCENCE IN SITU HYBRIDIZATION (FISH), AND GENOME SIZE MEASUREMENTS
+Chromosome numbers and karyotypes were determined using standard Feulgen staining (Weiss-Schneeweiss et al. 2009). FISH was applied to all species except the diploids M. moctezumum and M. sinuatum of series Cupulata, for which no viable seeds were available. Using 5–10 seedlings per accession, chromosome spreads were prepared by enzymatic digestion and FISH and detection were carried out following Weiss-Schneeweiss et al. (2008) with minor modifications. Probes used for FISH were 18S rDNA from Arabidopsis thaliana in plasmid pSK+, labeled with biotin using a nick translation kit (Roche, Vienna, Austria) and detected with Extravidin-Cy3 (Sigma) and 5S rDNA genic region isolated from M. montanum in plasmid pGem-T easy, directly labeled with digoxygenin (Roche) and detected with antidigoxygenin-FITC (Roche). Analyses of preparations were performed with an Axioplan2 epifluorescent microscope (Carl Zeiss, Vienna, Austria), images acquired with a CCD camera and files processed using Axiovision 4.8 (Carl Zeiss). For rDNA localization, a minimum of 20 well-spread metaphases and prometaphases were analysed for each species. Contrast of the images was adjusted using only those functions that apply to the whole image equally.
+Genome size of 23 populations of 17 species was determined flow-cytometrically. Approximately 10 mm2 leaf tissue of Glycine max “Idefix” (1C = 1.28 pg, Dolezˇel et al. 1998) or Pisum sativum (1C = 4.42 pg, Greilhuber and Ebert 1994) and two seedlings of Melampodium were chopped together in 500 μL cold iso-buffer. After adding another 500 μL iso-buffer, the nuclei solution was filtered through a 30 μL nylon mesh. A total of 50 μL of RNase A (3 mg/mL; MBI-Fermentas) were added to each sample and incubated at 37◦C for 30 min to remove RNA. The samples were incubated for approximately 90 min in propidium iodide solution (0.1 mM; Sigma).
+GENOMIC CONSEQUENCES OF ALLOPOLYPLOID SPECIATION
+ EVOLUTION JANUARY2012 217
+
+         H. WEISS-SCHNEEWEISS ET AL.
+ Figure 1. Phylogenetic relationships of species of Melampodium sect. Melampodium inferred from sequences of (A) plastid matK and psbA-trnH spacer, (B) nuclear ITS, (C) nuclear 5S rDNA NTS, (D) nuclear low-copy gene PgiCI, and (E) nuclear low-copy gene PgiCII. Different phylogenetic positions of homeologues from tetraploid (central lane names) and hexaploid taxa (right lane names) are resolved as being the result of reticulate evolution involving different diploids (left lane names). Homeologues shared between tetraploids and hexaploids suggest involvement of the tetraploid in the origin of the hexaploid and are indicated by dashed lines. Grey boxes indicate circumscription of phylogenetically and cytologically defined genomic groups (C = Cupulata; G = Glabribracteata; L = Lineariloba; M = Melampodium).
+Analysis was conducted with a Partec CyFlow ML (Partec GmbH, Mu ̈nster, Germany; equipped with green laser beam), and each sample was remeasured four times to check for value accuracy. Due to lack of seedlings of M. moctezumum, its genome size was determined from nongerminating seeds, correcting for differences in DNA condensation between seeds and seedlings via measurements from both stages in M. pilosum and M. sinuatum (J. Rauchova and H. Weiss-Schneeweiss, unpubl. data).
+Results
+ORIGIN OF POLYPLOIDS
+Sequence characteristics and tree statistics are given in Table S1, trees and the underlying data matrices are deposited in TreeBase (http://purl.org/phylo/treebase/phylows/study/TB2:S11476; complete sequence alignments deposited at Dryad: doi:10.5061/
+dryad.3n148). For each marker, the maximum parsimony strict consensus tree and the Bayesian majority rule consensus tree were largely congruent, differences being restricted to insufficiently supported nodes (data not shown). Intraspecific variation encountered in some diploid species (e.g., M. americanum, M. linearilobum, M. cupulatum) does not affect the inferred parentage of the polyploids. Based on molecular-phylogenetic (Blo ̈ch et al. 2009) and cytological data (Weiss-Schneeweiss et al. 2009), four diploid gene pools corresponding to diploids in series Cupulata, Glabribracteata, and Melampodium and to M. linearilobum (of ser. Melampodium) are defined (Fig. 1). Hereinafter, these will be referred to as Cupulata, Glabribracteata, Melampodium, and Lineariloba, respectively; these names are distinguished from series names by their font (not italics) and the lack of designation of taxonomic rank.
+ 218 EVOLUTION JANUARY2012
+
+         GENOMIC CONSEQUENCES OF ALLOPOLYPLOID SPECIATION
+ Figure 2. Restriction pattern of (A) nuclear ITS1 + 2 using TaqI, (B) nuclear ITS2 using BfaI, and (C) nuclear ITS2 using HaeIII in Melampodium sect. Melampodium. Circumscriptions of diploid genomic groups (C = Cupulata; G = Glabribracteata; L = Lineariloba; M = Melampodium) and of the polyploids (colors as in Figure 1; lo = longicorne; ma = mayfieldii; na = nayaritense; pr = pringlei; se = sericeum; st = strigosum) are indicated. — Lanes 1–32: 1, M. linearilobum 18667; 2, M. linearilobum 18661; 3, M. nayaritense 1577; 4, M. nayaritense 1575; 5, M. strigosum 18728; 6, M. strigosum 19073; 7, M. sericeum 18605; 8, M. sericeum 18625; 9, M. sericeum 18572; 10, M. pringlei 18650; 11, M. pringlei 18636; 12, M. pringlei 18637; 13, M. glabribracteatum 18654; 14, undigested amplification product; 15, M. americanum 18609; 16, M. diffusum 18666; 17, M. pilosum 18587; 18, M. longipes 18619; 19, M. linearilobum 18662; 20, M. mayfieldii 19019; 21, M. sericeum 18584; 22, M. pringlei 18634; 23, M. strigosum 18728; 24, M. longicorne 18826; 25, M. nayaritense 1575; 26, M. cupulatum 19044; 27, undigested amplification product; 28, M. appendiculatum 19046; 29, M. sinuatum 19037; 30, M. rosei 19036; 31, M. tenellum 19023; 32, M. glabribracteatum 18654. Marker: Gene RulerTM 50 bp DNA Ladder (MBI-Fermentas).
+A detailed description of phylogenetic relationships inferred from single markers can be found as online supporting information. Using PADRE in those phylogenetic trees, where polyploids are inferred as belonging to more than one of the diploid gene pools (5S rDNA NTS, PgiCI and II), allows their parentages to be traced more accurately (Fig. 1). Furthermore, due to the maternal inheritance of plastids in Asteraceae (Corriveau and Coleman 1988; Harris and Ingram 1991), the position of polyploids in the plastid-derived phylogenies allows their maternal parents to be identified. Whereas both paralogues of PgiC were quite successful in tracing the lower-ploid ancestors of the polyploids (exceptions are M. strigosum for PgiCII only and, under the assumption of three distinguishable homeologues in a hexaploid, M. longicorne for both paralogues), 5S rDNA NTS identifies one parental genome fewer than the PgiC paralogues except in M. nayaritense. In contrast, in ITS always only one type of sequence corresponding to a single parental genome was recovered irrespective of ploidy level. This is confirmed by restriction analyses of ITS1+2 and ITS2 (each of the diploid gene pools can be unambiguously distinguished by its restriction pattern; Fig. 2; see Supporting Information for details), suggesting that most types of
+ITS repeats were recovered by cloning and sequencing used for the phylogenetic analysis.
+Whereas the parentage of M. mayfieldii can only be traced to the level of diploid gene pools (Melampodium and Cupulata as maternal and paternal parent, respectively), those of the remaining allotetraploids can be traced to at most two alternatives per diploid genome group. Thus, M. nayaritense originated from M. linearilobum (Lineariloba) and M. longipes or M. americanum (Melampodium) as maternal and paternal parents, respectively; M. strigosum is of allopolyploid origin involving M. longipes or M. americanum (Melampodium) and M. glabribracteatum (Glabribracteata) as maternal and paternal parents, respectively. All allohexaploids share the allotetraploid M. strigosum as maternal parent. The paternal parent of M. longicorne is M. appendiculatum or M. rosei (Cupulata), whereas that of both M. pringlei and M. sericeum is M. linearilobum (Lineariloba), which thus is involved in the formation of three allopolyploid species. These contributions of M. linearilobum are also supported by the presence of 20 distinctly smaller chromosomes, characteristic for Lineariloba, in all its allopolyploid derivatives (Weiss-Schneeweiss et al. 2009).
+ EVOLUTION JANUARY2012 219
+
+         H. WEISS-SCHNEEWEISS ET AL.
+ Figure 3. Localization of 35S (green) and 5S rDNA loci (red) inferred via FISH (fluorescence in situ hybridization) in (A–H) diploid, (I–K) tetraploid and (L–N) hexaploid species of Melampodium sect. Melampodium. Circumscription of genomic groups (C = Cupulata; G = Glabribracteata; L = Lineariloba; M = Melampodium) is indicated by grey boxes. (A) M. cupulatum 19044, (B) M. rosei 19050, (C) M. tenellum 19022, (D) M. glabribracteatum 18654, (E) M. linearilobum 18665, (F) M. americanum 19009, (G) M. diffusum 18671, (H), M. pilosum 18587, (I) M. mayfieldii 19019, (J) M. nayaritense 1575, (K) M. strigosum 18728, (L) M. longicorne 18824, (M) M. pringlei 18637, (N) M. sericeum 18620. Scale bar = 5μm.
+GENOME EVOLUTION
+Localization of 35S and 5S rDNA loci by FISH allowed three groups of diploids to be distinguished (Figs. 3 and 4). The first group included all species of Glabribracteata and Melampodium. They possessed two subterminal loci of 35S rDNA and one interstitial locus of 5S rDNA, each on different chromosome pairs. The second group (Cupulata) also possessed two 35S rDNA loci and one interstitial locus of 5S rDNA, but the latter was localized on one of the chromosome
+pairs that also carried a 35S rDNA locus, albeit on the opposite chromosomal arm. The localization of 35S and 5S rDNA in the third group (Lineariloba) was similar to that of Cupulata, but the 5S rDNA locus was localized more subterminally (Fig. 4).
+None of the allopolyploids showed an additive pattern of rDNA loci numbers (sum of parental loci), but mostly a reduced number of loci instead (Figs. 3 and 4). Based on the phylogenetic position of the retrieved ITS and NTS sequences, the identity of
+ 220 EVOLUTION JANUARY2012
+
+         GENOMIC CONSEQUENCES OF ALLOPOLYPLOID SPECIATION
+ F i g u r e 4 . Origin of and genome evolution in allopolyploids of Melampodium sect. Melampodium. Putative maternal and paternal lineages are indicated by red and black arrows, respectively. Genome size (1C), chromosomes carrying 35S (green signals), and/or 5S rDNA (red signals) and their putative provenance (♂ for paternal and ♀ for maternal parent, respectively), as well as type of ITS and 5S rDNA non-transcribed spacer (NTS) sequences (♂ for paternal and ♀ for maternal parent, respectively) are shown.
+repeats present in the retained rDNA loci could be determined. Both M. strigosum (4x) and M. mayfieldii (4x) possessed the same rDNA loci configuration as any of their diploid progenitors, thus having apparently lost two 35S and one 5S rDNA loci, likely from the maternal parent for M. mayfieldii and from the paternal (35S) and the maternal parent (5S) for M. strigosum (Figs. 3 and 4). In contrast, tetraploid M. nayaritense retained both parental loci of 5S rDNA, but lost one 35S rDNA locus per each of the parental genomes (parental genomes are well distinguishable due to the size difference of the parental chromosome sets) and retained one subterminal 35S rDNA locus per parental genome. One of these
+chromosomes (from the Lineariloba chromosome complement) carried one of the 5S rDNA loci.
+As in M. nayaritense, two loci of 35S rDNA and two interstitially located 5S rDNA loci were observed in hexaploid M. longicorne. One of the chromosome pairs carried both 5S and 35S rDNA and thus is of Cupulata origin. The data indicate loss of one 35S rDNA locus per each of the parental genomes and retaining of all 5S rDNA loci.
+Despite identical parentage, two hexaploids, M. sericeum and M. pringlei, differed in their rDNA loci distribution patterns. Melampodium sericeum possessed two loci each of 35S and 5S
+ EVOLUTION JANUARY2012 221
+
+         H. WEISS-SCHNEEWEISS ET AL.
+rDNA, all on different chromosome pairs. Of all the loci, only one 5S rDNA locus was located on a chromosome originating from the smaller chromosome complement (of Lineariloba origin), indicating that both 35S rDNA loci of Lineariloba had been lost. In contrast, M. pringlei carried three loci each of 35S rDNA and of 5S rDNA. Two 35S rDNA and two 5S rDNA loci of the larger chromosome complement (of M. strigosum origin) were located on different chromosome pairs, whereas one chromosome pair of the Lineariloba complement carried both a 35S and a 5S rDNA locus. Although only one 35S rDNA locus from the Lineariloba complement has been retained in M. pringlei, the other 35S rDNA repeats from the loci of the M. strigosum complement had been converted to the paternal Lineariloba ribotype (Figs. 1 and S1). Melampodium pringlei is the only analysed polyploid in which an additional 5S rDNA locus has been found surpassing the number of 5S rDNA loci expected from the addition of those present in the parental taxa.
+Genome sizes of diploids differed significantly in accordance with their phylogenetic position (Blo ̈ ch et al. 2009) with little variation within series, ranging from (1C) 0.49 pg in Lineariloba via 0.91–1.00 pg and 1.03–1.15 pg in Cupulata and Melampodium, respectively, to 1.85 pg in Glabribracteata (Table 2). Of six analyzed polyploid species, five exhibit complete (M. strigosum and M. longicorne) or near-complete (slightly lower than expected; M. nayaritense, M. pringlei, and M. sericeum) additive genome size values compared to the presumed diploid progenitors. Melampodium mayfieldii is the only polyploid species with a genome size that is considerably higher (11%) than the expected additive value.
+Discussion
+INFERENCE OF ALLOPOLYPLOID PARENTAGE
+Allopolyploid origins for ten Melampodium taxa were suggested before based on morphological and karyological evidence (Stuessy 1970, 1971; Stuessy et al. 2004; Weiss-Schneeweiss et al. 2009), on results from crossing experiments (Stuessy and Brunken 1979), as well as on incongruences between differently inherited molecular markers (Blo ̈ch et al. 2009). However, only the use of a low-copy nuclear gene allows unambiguous confirmation of the focal polyploid species as allopolyploids (for the first time for M. nayaritense), as commonly observed in molecular phylogenetics (Brysting et al. 2007; Kim et al. 2008; Consaul et al. 2010). Furthermore, with the exception of M. mayfieldii, the number of candidate species for each parental taxon (or its ancestor) does not exceed two, allowing precise hypotheses on the parentage of allopolyploids to be formulated (Fig. 4). These are corroborated by genome size data (this study) as well as by biogeographic and ecological evidence. With the exception of M. strigosum and M. pringlei, the allopolyploids and their putative parental taxa have
+at least partially overlapping distribution areas (Fig. S2), and they mostly occur in xerophytic pine-oak woodlands (Stuessy 1972; Sundberg and Stuessy 1990).
+Utilization of low-copy genes is no panacea for resolving complex reticulate relationships because of technical and biological reasons (e.g., PCR artifacts, cloning biases, differential evolution of homeologues following polyploidization; Brysting et al. 2011 and references therein). Complications encountered in Melampodium include the failure to recover all expected homeologues in polyploids (M. longicorne and, for PgiCII only, M. strigosum) as well as ancestral polymorphism, allelic variation, and/or species-specific duplications in diploids (e.g., M. americanum, M. linearilobum, M. cupulatum) potentially propagated to their polyploid derivatives (M. pringlei, M. strigosum; Figs. 1 and S1). Phylogeographic approaches and detailed characterization of the involved loci will be necessary to clarify those issues. Furthermore, single gene trees to some extent suffer from low resolution and/or insufficiently supported relationships, the latter being a frequent source of incongruence among gene trees (Fig. S1). As these potential caveats are restricted to single species or at least single gene pools, they do not make inference of allopolyploid parentage impossible.
+PROPENSITY FOR ALLOPOLYPLOIDIZATION IS UNEVENLY DISTRIBUTED PHYLOGENETICALLY Allopolyploidy is not distributed randomly within Melampodium, because some lineages are clearly more prone to participate in allopolyploidization than others. For instance, M. linearilobum (Lineariloba) and the allotetraploid M. strigosum are involved in at least two allopolyploidization events each, whereas M. diffusum and M. pilosum appear to have participated in none. This suggests differences in the species’ propensities for allopolyploidization, whose precise nature in general is still insufficiently understood (Soltis et al. 2010). Similar patterns have been observed in Persicaria (Kim et al. 2008), where a higher propensity for allopolyploidization was attributed to wide geographic distribution, floral and inflorescence features enhancing cross-pollination (e.g., attractiveness or longevity), as well as a wide ecological breadth. Factors generally promoting allopolyploid speciation (Grant 1981) are also seen in Melampodium and include longevity of polyploids, usually overlapping flowering periods, partly overlapping distribution ranges of species (Fig. S2), and sporadic hybridization, as suggested by the occurrence of morphological intermediates (Sundberg and Stuessy 1990), and by the presence of divergent homeologues of the PgiC paralogues (Figs. 1 and S1). These features, however, are not specific to M. linearilobum or M. strigosum. In line with previous hypotheses, whereby higher genetic divergence between parental taxa favors allopolyploid formation (Chapman and Burke 2007; Paun et al. 2009; but see Buggs et al. 2008, 2009, 2011a), the parental
+ 222 EVOLUTION JANUARY2012
+
+          GENOMIC CONSEQUENCES OF ALLOPOLYPLOID SPECIATION
+Table 2. Species names, localities, voucher numbers, ploidy levels, and genome size measurements in species of Melampodium sect. Melampodium.
+  Taxon level
+Ser. Melampodium
+M. americanum L. 2x M. americanum L. 2x M. diffusum Cass. 2x M. diffusum Cass. 2x M. linearilobum 2x DC.
+M. longipes 2x (A.Gray) B.L.Rob.
+M. longipes 2x (A.Gray) B.L.Rob.
+M. mayfieldii 4x B.L.Turner
+M. pilosum Stuessy 2x M. pilosum Stuessy 2x
+Ser. Sericea
+M. longicorne 6x A.Gray
+M. nayaritense 4x Stuessy
+M. nayaritense 4x Stuessy
+M. nayaritense 4x Stuessy
+M. pringlei 6x B.L.Rob.
+M. sericeum Lag. 6x M. strigosum 4x Stuessy
+Ser. Glabribracteata
+M. glabribracteatum 2x Stuessy
+Ser. Cupulata
+M. appendiculatum 2x B.L.Rob.
+M. cupulatum 2x A.Gray
+M. moctezumum 2x B.L.Rob.
+M. rosei B.L.Rob. 2x M. tenellum 2x Hook.f. and Arn.
+voucher numbersa
+M, Michoaca ́n, 2005; TS, JV, CR, and IC, 18583.
+M, Michoaca ́n, 2006; TS, JV, CB, and EO, 19009. M, Guerrero, 2005; TS, JV, CR, and IC, 18669∗. M, Guerrero, 2005; TS, JV, CR, and IC, 18671. M, Oaxaca, 2005; TS, JV, CR, and IC, 18662.
+M, Nayarit, 2005; TS, JV, CR, and IC, 18621∗.
+M, Jalisco, 2006, TS, JV, CB, and EO, 19015∗.
+M, Jalisco, 2006; TS, JV, CB, and EO, 19019∗.
+M, Michoaca ́ n, 2005; TS, JV, CR, and IC, 18587∗ . M, Michoaca ́n, 2006; TS, JV, CB, and EO, 19010.
+USA, Arizona, Pima Co., 2006; CR and MB, 18824.
+M, Nayarit, 2008; JV and EO, 1575∗.
+M, Nayarit, 2008; JV and EO, 1577∗.
+M, Nayarit, 2008; JV and EO, 1579∗.
+M, Oaxaca, 2005; TS, JV, CR, and IC, 18650∗.
+M, Oaxaca, 2005; TS, JV, CR, and IC, 18620. M, Queretaro, 2006; TS, JV, and CB, 19073∗.
+M, Oaxaca, 2005; TS, JV, CR, and IC, 18654∗. M, Sonora, 2006; TS, JV, and CB, 19046∗.
+M, Sonora, 2006; TS, JV, and CB, 19045.
+M, Sonora, 2003; TD and AR, 2003–1228 (TEX).
+M, Sinaloa, 2006, TS, JV, CR, and CB, 19051. M, Nayarit, 2006; TS, JV, CB, and EO, 19020∗.
+Ploidy Collection details,
+Genome size
+1C (pg)±SDb 1.04±0.003∗
+1.15±0.005∗ 1.12±0.003∗ 1.13±0.004∗ 0.49±0.008∗
+1.11±0.009∗
+1.12±0.006∗
+2.25±0.027∗
+1.05±0.006∗ 1.03±0.002∗
+3.81±0.006
+1.49±0.007∗
+1.52±0.006∗
+1.50±0.003∗
+3.28±0.040
+3.23±0.021 2.85±0.018
+1.85±0.006 0.95±0.002
+0.93±0.001
+1.00d
+0.91±0.001 0.92±0.009
+1C (pg) 1Cx (pg) expectedc∗
+1.04 –
+1.15 – 1.12 – 1.13 – 0.49 –
+1.11 –
+1.12 –
+1.125 1.94–2.08
+1.05 –
+1.03 –
+1.27 3.76–3.80
+0.75 1.53–1.61
+0.76 1.53–1.61
+0.75 1.53–1.61
+1.09 3.34
+1.08 3.34
+1.43 2.89–2.97
+1.85
+0.95
+0.93
+0.91 0.92
+                                                      a All vouchers deposited in WU and UNAM unless otherwise indicated; accessions marked with an asterisk have also been used for sequencing. Abbreviations as in Table 1.
+bGlycine max has been used as internal standard for genome size estimation; an asterisk indicates samples where Pisum sativum has been used instead. cexpected additive values of genome size for polyploids
+dextraploated genome size value (J. Rauchova and H. Weiss-Schneeweiss, unpubl. data)
+ EVOLUTION JANUARY2012 223
+
+         H. WEISS-SCHNEEWEISS ET AL.
+species of allopolyploid Melampodium always belong to phylogenetically and cytologically distinct genomic groups (Blo ̈ch et al. 2009; Weiss-Schneeweiss et al. 2009; this study), but this cannot explain the uneven distribution of parentage within genomic groups. As the parental genotype can influence the likelihood of polyploid emergence (Tate et al. 2009; Symonds et al. 2010), yet unknown genotypic features of M. linearilobum and M. strigosum probably are responsible for the high propensity for allopolyploid formation. Future studies employing an extended sampling with respect to both the number of studied populations as well as genomic coverage, feasible due to the availability of new generation sequencing technologies (Gilad et al. 2009; Emerson et al. 2010; Hˇribova et al. 2010), will be necessary to address this question.
+INDEPENDENT ORIGIN OF POLYPLOIDS
+Two hexaploid species, M. pringlei and M. sericeum, share the same ancestry having M. strigosum and M. linearilobum as maternal and paternal parents, respectively. Melampodium pringlei differs from M. sericeum by having smaller heads and outer involucral bracts, fewer ray florets, and purple instead of yellowtipped paleae (Stuessy 1972). Although diversification and speciation after a single allopolyploidization (Adams and Wendel 2004; Clarkson et al. 2005), in line with the lack of geographic overlap of M. pringlei with its maternal parent M. strigosum (Fig. S2), cannot be ruled out, different 5S rDNA loci numbers (Figs. 3 and 4) and conversion of ITS sequences toward different parents (see next) suggest recurrent origins of the allopolyploids from their lower-ploid ancestors as seen in rice allopolyploids (Bao et al. 2011). Recurrent polyploid origins are commonly observed in angiosperms (Ashton and Abbott 1992; Soltis and Soltis 1999; Soltis et al. 2004; Dixon et al. 2009), but due to the lack of taxonomic recognition, their impact on speciation (evident from genetic, genomic and/or reproductive data; Brochmann et al. 2004; Doyle et al. 2004) might be underappreciated (Soltis et al. 2010). Because M. sericeum and M. pringlei share the same maternal and paternal parental species, their differentiation cannot be explained by different directions of the crosses (as is the case for shortand long-liguled allotetraploid Tragopogon miscellus; Soltis et al. 2009b; Tate et al. 2009), but probably by the involvement of different parental genotypes.
+GENOME EVOLUTION
+Allopolyploids usually undergo major genomic rearrangements (Wendel 2000; Leitch and Leitch 2008), which often result in genome downsizing (Weiss-Schneeweiss et al. 2006; Leitch and Leitch 2008; Leitch et al. 2008). Downsizing may happen rapidly on an evolutionary time scale as evident from some populations of the recently evolved Tragopogon miscellus (Pires et al. 2004) or from synthetic allopolyploids of the wheat alliance (Eilam et al.
+2008, 2010). In the allopolyploids of sect. Melampodium, however, genome sizes nearly perfectly fit the expected additive values of the putative parental taxa. This is also the case for species of different age (tetraploid M. strigosum and its necessarily younger allohexaploid derivatives), although genome size changes are expected to increase with the age of polyploids (Leitch et al. 2008). This might be due to insufficient time for major changes or counterbalancing processes of genome reduction, that is suggested by loss of rDNA loci (see next paragraph), and genome expansion via, for example, retroelement activation (Bennetzen et al. 2005; Leitch et al. 2008), which may be the reason for the increased genome size in M. mayfieldii.
+Most extensively analyzed hot spots of genome rearrangements are the ubiquitous and (mostly) independently evolving 35S and 5S rDNA loci (Schubert and Wobus 1985; PedrosaHarand et al. 2006; Garcia et al. 2010), which are well amenable to cytogenetic and sequence analyses also in nonmodel groups (Małuszyn ́ska et al. 1998; Malinska et al. 2010). Allopolyploid species of sect. Melampodium show loss of 35S rDNA loci (one or two) and conversion of the remaining 35S rDNA loci toward either maternal or paternal parent-type sequences. These trends are frequently observed in other polyploids (Vaughan et al. 1993; Lim et al. 2008; Kovaˇr ́ık et al. 2008; Weiss-Schneeweiss et al. 2007, 2008) and are part of genome diploidization resulting in hybrid genome stabilization and differentiation from genomes of the lower-ploid ancestors (Clarkson et al. 2005; Ma and Gustafson 2005). In disagreement with the nuclear-cytoplasmic interaction theory (Lim et al. 2005), dominance of a parental 35S rDNA sequence type may be independent of its parental origin (maternal or paternal), as can be seen in M. nayaritense and M. pringlei. Although only few plant groups have been analyzed in sufficient detail, similar patterns of different direction of gene conversion have also been observed in related species groups of other genera (Kovaˇr ́ık et al. 2008; Lim et al. 2008; Malinska et al. 2010). The conversion and homogenization involves only transcriptionally activeloci,andnotthesilencedones(Kovaˇr ́ıketal.2008).The 35S rDNA sequence type of M. linearilobum, regardless whether it is involved as the maternal or parental parent, dominates over the other parental genome in the polyploid and overwrites the other repeat types, even if only a single locus from M. linearilobum is retained compared to two from the other parent (allotetraploid M. nayaritense versus allohexaploid M. pringlei; Figs. 1–4). The dominance of a single master locus over supernumerary loci (Martini et al. 1982; Komarova et al. 2004) is probably encoded by the M. linearilobum subgenome, similar to what has been suggested for allopolyploid Tragopogon (Matya ́sˇek et al. 2007), but the precise nature of the underlying mechanisms remains unknown.
+In contrast to 35S rDNA, evolution of 5S rDNA loci is less dynamic (Fulnecˇek et al. 2002) and only in M. strigosum and in M.
+ 224 EVOLUTION JANUARY2012
+
+         mayfieldii a paternal and a maternal locus, respectively, have been lost. Furthermore, none of the allopolyploids showed evidence for 5S rDNA loci homogenization (Figs. 1 and 4). A nonadditive pattern of 5S rDNA distribution is observed in M. pringlei, which has one additional locus of 5S rDNA (Figs. 3 and 4). This may be due to independent origin of M. pringlei and M. sericeum involving genotypes of one of the parental taxa differing in their 5S rDNA loci constitutions. Alternatively, M. pringlei might have gained an additional 5S rDNA locus after the polyploid establishment, which is supported by the presence of only two NTS sequence types in both M. sericeum and M. pringlei (Fig. 1). Different trajectories of genomic evolution evident from, but likely extending beyond, 5S rDNA variation might be responsible for divergent evolution of these allopolyploids despite their sharing the same paternal and maternal parental species.
+CONCLUSIONS
+As in other angiosperms, allopolyploidy is an important force of speciation in American daisies of the genus Melampodium. An emerging picture supported by the current study is that propensities for allopolyploidization differ even among closely related species, caused at least partly by differences in life traits and parental genotypes. In contrast to commonly observed patterns, allopolyploid Melampodium species show genome additivity despite evidence for genome rearrangements as well as different evolutionary trajectories of allopolyploids sharing the paternal and maternal parental species. Applying a combination of phylogeographic and novel genomic approaches in Melampodium will contribute to resolving open questions concerning the genealogical and genomic features affecting rate and success of allopolyploidization and their consequences for speciation.
+ACKNOWLEDGEMENTS
+The authors wish to acknowledge: Verena Klejna and Michael H.J. Barfuss for molecular technical assistance, Ismael Calzada and Enrique Ortiz for help with field collections, Carolin A. Rebernig for help with GIS, Mark Mort for methodological advice, three anonymous reviewers for helpful suggestions, the Austrian Science Fund (FWF; project 18201 to TFS; Hertha-Firnberg postdoctoral fellowship T-218 to HWS), and the Commission for Interdisciplinary Ecological Studies (KIO ̈ S) of the Austrian Academy of Sciences (2007–12 to TFS) for financial support.
+GENOMIC CONSEQUENCES OF ALLOPOLYPLOID SPECIATION
