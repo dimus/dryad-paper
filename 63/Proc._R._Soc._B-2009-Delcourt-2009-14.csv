@@ -1,6 +1,6 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,D. melanogaster,23319,23334,4.28,2,,,,NoMatch,,,,,,,,
-1,,D. serrata,10216,10226,7.54,2,,,,NoMatch,,,,,,,,
-2,,Drosophila melanogaster,4049,4072,9.57,2,,,,Exact,0,"Drosophila (Sophophora) melanogaster Meigen, 1830",Drosophila melanogaster,8BXCZ,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophila|Sophophora|Drosophila melanogaster,
-3,,Drosophila serrata,1931,1950,12.83,2,,,,Exact,0,"Drosophila (Sophophora) serrata Malloch, 1927",Drosophila serrata,8BXHT,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophila|Sophophora|Drosophila serrata,
-4,,Hine,9836,9841,0.81,1,,,,Exact,0,Hine,Hine,2145579,168,ION,,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,D. melanogaster,23319,23334,4.28,2,,,,NoMatch,0.0,,,,,,,,
+1,,D. serrata,10216,10226,7.54,2,,,,NoMatch,0.0,,,,,,,,
+2,,Drosophila melanogaster,4049,4072,9.57,2,,,,Exact,9.01315,0,"Drosophila (Drosophila) melanogaster Linnaeus, 1758",Drosophila melanogaster,8BWKC,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophila|Drosophila|Drosophila melanogaster,
+3,,Drosophila serrata,1931,1950,12.83,2,,,,Exact,9.01315,0,"Drosophila (Sophophora) serrata Malloch, 1927",Drosophila serrata,8BXHT,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophila|Sophophora|Drosophila serrata,
+4,,Hine,9836,9841,0.81,1,,,,Exact,8.91436,0,Hine,Hine,2145579,168,ION,,

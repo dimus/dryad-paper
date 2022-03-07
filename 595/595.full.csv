@@ -1,6 +1,5 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Bassa,15734,15740,3.14,1,,,,Exact,0,Bassa Cothen.,Bassa,40025318,165,Tropicos,,
-1,,Gata,11958,11962,3.35,1,,,,Exact,0,"Gata Blackwelder, 1943",Gata,urn:lsid:irmng.org:taxname:1133130,181,IRMNG,Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Staphylinidae|Megalopinus,
-2,,Monte carlo,35088,35099,,2,,,,NoMatch,,,,,,,,
-3,,Nigerian,24044,24052,0.77,1,,,,Exact,0,Nigerian Nymphalidae,Nigerian,2579534,168,ION,,
-4,,Valeria,178,185,4.24,1,,,,Exact,0,Valeria,Valeria,85QD,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Noctuidae|Valeria,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Bassa,15734,15740,3.14,1,,,,Exact,8.98392,0,Bassa Cothen.,Bassa,40025318,165,Tropicos,,
+1,,Gata,11958,11962,3.35,1,,,,Exact,8.98202,0,"Gata Blackwelder, 1943",Gata,urn:lsid:irmng.org:taxname:1133130,181,IRMNG,Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Staphylinidae|Megalopinus,
+2,,Nigerian,24044,24052,0.77,1,,,,Exact,8.91878,0,Nigerian Nymphalidae,Nigerian,2579534,168,ION,,
+3,,Valeria,178,185,4.24,1,,,,Exact,9.00960,0,Valeria,Valeria,85QD,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Lepidoptera|Noctuoidea|Noctuidae|Valeria,

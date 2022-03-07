@@ -1,5 +1,5 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Cervus,16441,16447,3.24,1,,,,Exact,0,"Cervus Linnaeus, 1758",Cervus,62K9X,1,Catalogue of Life,Biota|Animalia|Chordata|Mammalia|Theria|Eutheria|Artiodactyla|Cervidae|Cervinae|Cervus,
-1,,Drosophila,30550,30561,4.89,1,,,,Exact,0,Drosophila,Drosophila,8NPBW,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila,
-2,,Oncorhynchus mykiss,1714,1735,8.76,2,,,,Exact,0,"Oncorhynchus mykiss (Walbaum, 1792)",Oncorhynchus mykiss,49JFF,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss,
-3,,Salmo salar,34255,34269,6.40,2,,,,Exact,0,"Salmo salar Linnaeus, 1758",Salmo salar,6XCXT,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo salar,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Cervus,16441,16447,3.24,1,,,,Exact,9.01315,0,"Cervus Linnaeus, 1758",Cervus,62K9X,1,Catalogue of Life,Biota|Animalia|Chordata|Mammalia|Theria|Eutheria|Artiodactyla|Cervidae|Cervinae|Cervus,
+1,,Drosophila,30550,30561,4.89,1,,,,Exact,9.00960,0,Drosophila,Drosophila,8MQXF,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Ephydridae|Discocerina|Drosophila,
+2,,Oncorhynchus mykiss,1714,1735,8.76,2,,,,Exact,9.01315,0,"Oncorhynchus mykiss (Walbaum, 1792)",Oncorhynchus mykiss,49JFF,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss,
+3,,Salmo salar,34255,34269,6.40,2,,,,Exact,9.01315,0,"Salmo salar Linnaeus, 1758",Salmo salar,6XCXT,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo salar,

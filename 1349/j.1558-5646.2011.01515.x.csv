@@ -1,9 +1,9 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,D. ferruginea,9281,9295,6.59,2,,,,NoMatch,,,,,,,,
-1,,D. ferruginea data,35515,35533,7.80,3,,,,NoMatch,,,,,,,,
-2,,D. ophrydea,31832,31843,4.72,2,,,,NoMatch,,,,,,,,
-3,,Disa,11333,11337,2.82,1,,,,Exact,0,Disa,Disa,46LL,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa,
-4,,Disa ophrydea,9263,9276,7.94,2,,,,Exact,0,Disa ophrydea (Lindl.) Bolus,Disa ophrydea,6CZ2N,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ophrydea,
-5,,Disa ophrydea ferruginea,11338,11362,13.94,3,,,,NoMatch,0,Disa ferruginea Sw.,Disa ferruginea,36RYS,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ferruginea,
-6,,Epilobium obcordatum,40074,40095,12.95,2,,,,Exact,0,Epilobium obcordatum A. Gray,Epilobium obcordatum,6FSJJ,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Myrtales|Onagraceae|Onagroideae|Epilobium|Epilobium obcordatum,
-7,,Orchidaceae,31862,31876,4.90,1,,,,Exact,0,Orchidaceae,Orchidaceae,DPL,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,D. ferruginea,9281,9295,6.59,2,,,,NoMatch,0.0,,,,,,,,
+1,,D. ferruginea data,35515,35533,7.80,3,,,,NoMatch,0.0,,,,,,,,
+2,,D. ophrydea,31832,31843,4.72,2,,,,NoMatch,0.0,,,,,,,,
+3,,Disa,11333,11337,2.82,1,,,,Exact,9.00960,0,Disa,Disa,46LL,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa,
+4,,Disa ophrydea,9263,9276,7.94,2,,,,Exact,9.01315,0,Disa ophrydea (Lindl.) Bolus,Disa ophrydea,6CZ2N,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ophrydea,
+5,,Disa ophrydea ferruginea,11338,11362,13.94,3,,,,PartialExact,9.01315,0,Disa ferruginea Sw.,Disa ferruginea,36RYS,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae|Disa|Disa ferruginea,
+6,,Epilobium obcordatum,40074,40095,12.95,2,,,,Exact,9.01315,0,Epilobium obcordatum A. Gray,Epilobium obcordatum,6FSJJ,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Myrtales|Onagraceae|Onagroideae|Epilobium|Epilobium obcordatum,
+7,,Orchidaceae,31862,31876,4.90,1,,,,Exact,9.00960,0,Orchidaceae,Orchidaceae,DPL,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Liliopsida|Asparagales|Orchidaceae,

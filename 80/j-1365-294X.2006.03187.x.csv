@@ -1,9 +1,9 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Changesinpercentagecoverofseriatopora hystrix,32043,32088,5.90,2,,,,NoMatch,,,,,,,,
-1,,Larvae,6726,6732,1.56,1,,,,Exact,0,Larvae,Larvae,2579193,168,ION,,
-2,,Pocilloporidae,41998,42012,5.11,1,,,,Exact,0,"Pocilloporidae Gray, 1840",Pocilloporidae,84KNT,1,Catalogue of Life,Biota|Animalia|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae,
-3,,S. hystrix,6666,6676,5.65,2,,,,NoMatch,,,,,,,,
-4,,S. hystrix colonies,8100,8119,4.83,3,,,,NoMatch,,,,,,,,
-5,,S. hystrix corals,36214,36231,4.85,3,,,,NoMatch,,,,,,,,
-6,,Seriatopora,13585,13596,5.64,1,,,,Exact,0,"Seriatopora Lamarck, 1816",Seriatopora,84TL3,1,Catalogue of Life,Biota|Animalia|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora,
-7,,Seriatopora hystrix,881,901,11.69,2,,,,Exact,0,"Seriatopora hystrix Dana, 1846",Seriatopora hystrix,4WTDW,1,Catalogue of Life,Biota|Animalia|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Changesinpercentagecoverofseriatopora hystrix,32043,32088,5.90,2,,,,NoMatch,0.0,,,,,,,,
+1,,Larvae,6726,6732,1.56,1,,,,Exact,8.91436,0,Larvae,Larvae,2579193,168,ION,,
+2,,Pocilloporidae,41998,42012,5.11,1,,,,Exact,9.01315,0,"Pocilloporidae Gray, 1840",Pocilloporidae,84KNT,1,Catalogue of Life,Biota|Animalia|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae,
+3,,S. hystrix,6666,6676,5.65,2,,,,NoMatch,0.0,,,,,,,,
+4,,S. hystrix colonies,8100,8119,4.83,3,,,,NoMatch,0.0,,,,,,,,
+5,,S. hystrix corals,36214,36231,4.85,3,,,,NoMatch,0.0,,,,,,,,
+6,,Seriatopora,13585,13596,5.64,1,,,,Exact,9.01315,0,"Seriatopora Lamarck, 1816",Seriatopora,84TL3,1,Catalogue of Life,Biota|Animalia|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora,
+7,,Seriatopora hystrix,881,901,11.69,2,,,,Exact,9.01315,0,"Seriatopora hystrix Dana, 1846",Seriatopora hystrix,4WTDW,1,Catalogue of Life,Biota|Animalia|Cnidaria|Anthozoa|Hexacorallia|Scleractinia|Pocilloporidae|Seriatopora|Seriatopora hystrix,

@@ -1,8 +1,8 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Alois,13199,13204,2.55,1,,,,NoMatch,,,,,,,,
-1,,Escala,492,498,4.08,1,,,,Exact,0,"Escala Shelford, 1906",Escala,8MRVT,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Blattodea|Blaberoidea|Ectobiidae|Blattellinae|Escala,
-2,,Nessa perspectiva,3741,3759,5.79,2,,,,PartialExact,0,"Nessa Walker, 1869",Nessa,8NVY3,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Orthoptera|Ensifera|Gryllidea|Grylloidea|Gryllidae|Podoscirtinae|Podoscirtinae|Podoscirtini|Nessa,
-3,,Serpa,5668,5675,3.47,1,,,,Exact,0,"Serpa Distant, 1908",Serpa,8HR2B,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Hemiptera|Cicadomorpha|Membracoidea|Cicadellidae|Cicadellinae|Cicadellini|Serpa,
-4,,Vallerand complementa,3760,3788,2.41,2,,,,NoMatch,,,,,,,,
-5,,Verna,11962,11967,2.38,1,,,,Exact,0,Calanthe sect. Verna Kakadzu,Verna,50166058,165,Tropicos,,
-6,,Vieira,130,138,4.16,1,,,,Exact,0,Vieira,Vieira,86Q2,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Alois,13199,13204,2.55,1,,,,NoMatch,0.0,,,,,,,,
+1,,Escala,492,498,4.08,1,,,,Exact,9.01315,0,"Escala Shelford, 1906",Escala,8MRVT,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Blattodea|Blaberoidea|Ectobiidae|Blattellinae|Escala,
+2,,Nessa perspectiva,3741,3759,5.79,2,,,,PartialExact,9.01315,0,"Nessa Walker, 1869",Nessa,8NVY3,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Orthoptera|Ensifera|Gryllidea|Grylloidea|Gryllidae|Podoscirtinae|Podoscirtinae|Podoscirtini|Nessa,
+3,,Serpa,5668,5675,3.47,1,,,,Exact,9.01315,0,"Serpa Distant, 1908",Serpa,8HR2B,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Hemiptera|Cicadomorpha|Membracoidea|Cicadellidae|Cicadellinae|Cicadellini|Serpa,
+4,,Vallerand complementa,3760,3788,2.41,2,,,,NoMatch,0.0,,,,,,,,
+5,,Verna,11962,11967,2.38,1,,,,Exact,8.98344,0,Calanthe sect. Verna Kakadzu,Verna,50166058,165,Tropicos,,
+6,,Vieira,130,138,4.16,1,,,,Exact,9.00960,0,Vieira,Vieira,86Q2,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Neuroptera|Chrysopidae|Vieira,

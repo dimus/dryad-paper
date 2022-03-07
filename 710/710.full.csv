@@ -1,9 +1,9 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,A. thaliana,43227,43238,7.38,2,,,,NoMatch,,,,,,,,
-1,,Arabidopsis,37320,37331,4.27,1,,,,Exact,0,Arabidopsis,Arabidopsis,62CR2,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis,
-2,,Arabidopsis thaliana,38421,38442,12.06,2,,,,Exact,0,Arabidopsis thaliana (L.) Heynh.,Arabidopsis thaliana,G26R,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana,
-3,,Plasmodium falciparum,40737,40759,12.70,2,,,,Exact,0,Plasmodium falciparum,Plasmodium falciparum,101645,2,Wikispecies,,
-4,,S. cerevisiae,6528,6541,6.95,2,,,,NoMatch,,,,,,,,
-5,,S. paradoxus,31077,31089,6.10,2,,,,NoMatch,,,,,,,,
-6,,Saccharomyces,18120,18133,3.95,1,,,,Exact,0,Saccharomyces,Saccharomyces,7BFM,1,Catalogue of Life,Biota|Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces,
-7,,Saccharomyces cerevisiae,1007,1031,11.31,2,,,,Exact,0,Saccharomyces cerevisiae (Desm.) Meyen,Saccharomyces cerevisiae,4TWCR,1,Catalogue of Life,Biota|Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,A. thaliana,43227,43238,7.38,2,,,,NoMatch,0.0,,,,,,,,
+1,,Arabidopsis,37320,37331,4.27,1,,,,Exact,9.00960,0,Arabidopsis,Arabidopsis,62CR2,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis,
+2,,Arabidopsis thaliana,38421,38442,12.06,2,,,,Exact,9.01315,0,Arabidopsis thaliana (L.) Heynh.,Arabidopsis thaliana,G26R,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Brassicales|Brassicaceae|Arabidopsis|Arabidopsis thaliana,
+3,,Plasmodium falciparum,40737,40759,12.70,2,,,,Exact,8.98012,0,Plasmodium falciparum,Plasmodium falciparum,101645,2,Wikispecies,,
+4,,S. cerevisiae,6528,6541,6.95,2,,,,NoMatch,0.0,,,,,,,,
+5,,S. paradoxus,31077,31089,6.10,2,,,,NoMatch,0.0,,,,,,,,
+6,,Saccharomyces,18120,18133,3.95,1,,,,Exact,9.00960,0,Saccharomyces,Saccharomyces,7BFM,1,Catalogue of Life,Biota|Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces,
+7,,Saccharomyces cerevisiae,1007,1031,11.31,2,,,,Exact,9.01315,0,Saccharomyces cerevisiae (Desm.) Meyen,Saccharomyces cerevisiae,4TWCR,1,Catalogue of Life,Biota|Fungi|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae,

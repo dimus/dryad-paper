@@ -1,4 +1,4 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Eudicots,24052,24062,2.18,1,,,,Exact,0,Eudicots,Eudicots,269745,2,Wikispecies,,
-1,,Saxifragales,24039,24051,2.78,1,,,,Exact,0,Saxifragales Bercht. & J. Presl,Saxifragales,424,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Saxifragales,
-2,,Taxon,23955,23960,1.77,1,,,,Exact,0,Taxon,Taxon,51015831-1,167,IPNI,,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Eudicots,24052,24062,2.18,1,,,,Exact,8.98012,0,Eudicots,Eudicots,269745,2,Wikispecies,,
+1,,Saxifragales,24039,24051,2.78,1,,,,Exact,9.01315,0,Saxifragales Bercht. & J. Presl,Saxifragales,424,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Saxifragales,
+2,,Taxon,23955,23960,1.77,1,,,,Exact,8.98012,0,Taxon,Taxon,51015831-1,167,IPNI,,

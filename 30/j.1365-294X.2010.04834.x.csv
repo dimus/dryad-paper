@@ -1,9 +1,9 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Diane,51914,51919,0.96,1,,,,NoMatch,,,,,,,,
-1,,Fagus sylvatica,39589,39607,11.85,2,,,,Exact,0,Fagus sylvatica L.,Fagus sylvatica,3DSK5,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Fagus|Fagus sylvatica,
-2,,J. ailantifolia,12432,12448,7.28,2,,,,NoMatch,,,,,,,,
-3,,J. cinerea,9602,9613,6.30,2,,,,NoMatch,,,,,,,,
-4,,J. nigra,12811,12819,4.85,2,,,,NoMatch,,,,,,,,
-5,,Juglans,40264,40271,0.83,1,,,,Exact,0,Juglans L.,Juglans,56VV,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Fagales|Juglandaceae|Juglandoideae|Juglans,
-6,,Juglans cinerea,152,168,7.54,2,,,,Exact,0,Juglans cinerea L.,Juglans cinerea,3QRSG,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Fagales|Juglandaceae|Juglandoideae|Juglans|Juglans cinerea,
-7,,Sirococcus clavigignenti-juglandacearum,4567,4607,11.31,2,,,,Exact,0,"Sirococcus clavigignenti-juglandacearum V.M.G. Nair, Kostichka & J.E. Kuntz",Sirococcus clavigignenti-juglandacearum,4XR97,1,Catalogue of Life,Biota|Fungi|Ascomycota|Sordariomycetes|Diaporthales|Gnomoniaceae|Ophiognomonia|Ophiognomonia clavigignenti-juglandacearum,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Diane,51914,51919,0.96,1,,,,NoMatch,0.0,,,,,,,,
+1,,Fagus sylvatica,39589,39607,11.85,2,,,,Exact,9.01315,0,Fagus sylvatica L.,Fagus sylvatica,3DSK5,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Fagales|Fagaceae|Fagus|Fagus sylvatica,
+2,,J. ailantifolia,12432,12448,7.28,2,,,,NoMatch,0.0,,,,,,,,
+3,,J. cinerea,9602,9613,6.30,2,,,,NoMatch,0.0,,,,,,,,
+4,,J. nigra,12811,12819,4.85,2,,,,NoMatch,0.0,,,,,,,,
+5,,Juglans,40264,40271,0.83,1,,,,Exact,9.01315,0,Juglans L.,Juglans,56VV,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Fagales|Juglandaceae|Juglandoideae|Juglans,
+6,,Juglans cinerea,152,168,7.54,2,,,,Exact,9.01315,0,Juglans cinerea L.,Juglans cinerea,3QRSG,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Fagales|Juglandaceae|Juglandoideae|Juglans|Juglans cinerea,
+7,,Sirococcus clavigignenti-juglandacearum,4567,4607,11.31,2,,,,Exact,9.01138,0,"Sirococcus clavigignenti-juglandacearum V.M.G. Nair, Kostichka & J.E. Kuntz",Sirococcus clavigignenti-juglandacearum,4XR97,1,Catalogue of Life,Biota|Fungi|Ascomycota|Sordariomycetes|Diaporthales|Gnomoniaceae|Ophiognomonia|Ophiognomonia clavigignenti-juglandacearum,

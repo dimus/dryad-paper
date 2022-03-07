@@ -1,6 +1,6 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,F. silvestris,2037,2050,7.27,2,,,,NoMatch,,,,,,,,
-1,,F. silvestris catus,10036,10057,13.11,3,,,,NoMatch,,,,,,,,
-2,,F. silvestris lybica,10085,10106,13.61,3,,,,NoMatch,,,,,,,,
-3,,Felis silvestris,248,265,11.99,2,,,,Exact,0,"Felis silvestris Schreber, 1777",Felis silvestris,3DXW2,1,Catalogue of Life,Biota|Animalia|Chordata|Mammalia|Theria|Eutheria|Carnivora|Feliformia|Felidae|Felinae|Felis|Felis silvestris,
-4,,Felis silvestris catus,286,310,17.83,3,,,,Exact,0,"Felis silvestris catus Linnaeus, 1758",Felis silvestris catus,9533902,11,GBIF Backbone Taxonomy,Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,F. silvestris,2037,2050,7.27,2,,,,NoMatch,0.0,,,,,,,,
+1,,F. silvestris catus,10036,10057,13.11,3,,,,NoMatch,0.0,,,,,,,,
+2,,F. silvestris lybica,10085,10106,13.61,3,,,,NoMatch,0.0,,,,,,,,
+3,,Felis silvestris,248,265,11.99,2,,,,Exact,9.01315,0,"Felis silvestris Schreber, 1777",Felis silvestris,3DXW2,1,Catalogue of Life,Biota|Animalia|Chordata|Mammalia|Theria|Eutheria|Carnivora|Feliformia|Felidae|Felinae|Felis|Felis silvestris,
+4,,Felis silvestris catus,286,310,17.83,3,,,,Exact,9.29360,0,"Felis silvestris catus Linnaeus, 1758",Felis silvestris catus,9533902,11,GBIF Backbone Taxonomy,Animalia|Chordata|Mammalia|Carnivora|Felidae|Felis|Felis catus,

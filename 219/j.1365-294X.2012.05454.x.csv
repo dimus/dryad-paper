@@ -1,7 +1,8 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Beier,5783,5788,0.02,1,,,,Exact,0,Beier,Beier,2226364,168,ION,,
-1,,H. anomalus,49441,49453,6.94,2,,,,NoMatch,,,,,,,,
-2,,H. petiolaris,7830,7844,7.27,2,,,,NoMatch,,,,,,,,
-3,,Helianthus anomalus,8087,8106,10.85,2,,,,Exact,0,Helianthus anomalus S. F. Blake,Helianthus anomalus,6LHNL,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Asteroideae|Helianthus|Helianthus anomalus,
-4,,Helianthus petiolaris,974,995,11.18,2,,,,Exact,0,Helianthus petiolaris Nutt.,Helianthus petiolaris,6LHPB,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Asteroideae|Helianthus|Helianthus petiolaris,
-5,,Phyllis,50915,50922,4.69,1,,,,Exact,0,Phyllis,Phyllis,6PJY,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Gentianales|Rubiaceae|Phyllis,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Beier,5783,5788,0.02,1,,,,Exact,8.91436,0,Beier,Beier,2226364,168,ION,,
+1,,H. anomalus,49441,49453,6.94,2,,,,NoMatch,0.0,,,,,,,,
+2,,H. petiolaris,7830,7844,7.27,2,,,,NoMatch,0.0,,,,,,,,
+3,,Helianthus,12376,12386,,1,,,,Exact,9.01315,0,Helianthus L.,Helianthus,62TKF,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Asteroideae|Helianthus,
+4,,Helianthus anomalus,8087,8106,10.85,2,,,,Exact,9.01315,0,Helianthus anomalus S. F. Blake,Helianthus anomalus,6LHNL,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Asteroideae|Helianthus|Helianthus anomalus,
+5,,Helianthus petiolaris,974,995,11.18,2,,,,Exact,9.01315,0,Helianthus petiolaris Nutt.,Helianthus petiolaris,6LHPB,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Asteroideae|Helianthus|Helianthus petiolaris,
+6,,Phyllis,50915,50922,4.69,1,,,,Exact,9.00960,0,Phyllis,Phyllis,6PJY,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Gentianales|Rubiaceae|Phyllis,

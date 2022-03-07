@@ -1,6 +1,6 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Ciona,7740,7746,3.81,1,,,,Exact,0,"Ciona Fleming, 1822",Ciona,7NSY2,1,Catalogue of Life,Biota|Animalia|Chordata|Tunicata|Ascidiacea|Phlebobranchia|Cionidae|Ciona,
-1,,Euchordata,2781,2793,4.08,1,,,,Exact,0,Euchordata,Euchordata,1672676,168,ION,,
-2,,O. dioica,4245,4254,6.81,2,,,,NoMatch,,,,,,,,
-3,,Oikopleura,21249,21259,5.21,1,,,,Exact,0,"Oikopleura Mertens, 1830",Oikopleura,7PN47,1,Catalogue of Life,Biota|Animalia|Chordata|Tunicata|Appendicularia|Copelata|Oikopleuridae|Oikopleurinae|Labiata|Oikopleura,
-4,,Oikopleura dioica,978,996,12.42,2,,,,Exact,0,"Oikopleura (Vexillaria) dioica Fol, 1872",Oikopleura dioica,48ZX5,1,Catalogue of Life,Biota|Animalia|Chordata|Tunicata|Appendicularia|Copelata|Oikopleuridae|Oikopleurinae|Labiata|Oikopleura|Oikopleura|Oikopleura dioica,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Ciona,7740,7746,3.81,1,,,,Exact,9.01315,0,"Ciona Fleming, 1822",Ciona,7NSY2,1,Catalogue of Life,Biota|Animalia|Chordata|Tunicata|Ascidiacea|Phlebobranchia|Cionidae|Ciona,
+1,,Euchordata,2781,2793,4.08,1,,,,Exact,8.91436,0,Euchordata,Euchordata,1672676,168,ION,,
+2,,O. dioica,4245,4254,6.81,2,,,,NoMatch,0.0,,,,,,,,
+3,,Oikopleura,21249,21259,5.21,1,,,,Exact,9.01315,0,"Oikopleura Mertens, 1830",Oikopleura,7PN47,1,Catalogue of Life,Biota|Animalia|Chordata|Tunicata|Appendicularia|Copelata|Oikopleuridae|Oikopleurinae|Labiata|Oikopleura,
+4,,Oikopleura dioica,978,996,12.42,2,,,,Exact,9.01315,0,"Oikopleura (Vexillaria) dioica Fol, 1872",Oikopleura dioica,48ZX5,1,Catalogue of Life,Biota|Animalia|Chordata|Tunicata|Appendicularia|Copelata|Oikopleuridae|Oikopleurinae|Labiata|Oikopleura|Oikopleura|Oikopleura dioica,

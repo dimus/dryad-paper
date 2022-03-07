@@ -1,6 +1,6 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,D. melanogaster,36925,36940,4.28,2,,,,NoMatch,,,,,,,,
-1,,D. pseudoobscura,36887,36904,6.55,2,,,,NoMatch,,,,,,,,
-2,,D. simulans,40958,40969,5.45,2,,,,NoMatch,,,,,,,,
-3,,Drosophila,1570,1580,4.89,1,,,,Exact,0,Drosophila,Drosophila,8NPBW,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophila,
-4,,Drosophila melanogaster,152,175,9.57,2,,,,Exact,0,"Drosophila (Sophophora) melanogaster Meigen, 1830",Drosophila melanogaster,8BXCZ,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophila|Sophophora|Drosophila melanogaster,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,D. melanogaster,36925,36940,4.28,2,,,,NoMatch,0.0,,,,,,,,
+1,,D. pseudoobscura,36887,36904,6.55,2,,,,NoMatch,0.0,,,,,,,,
+2,,D. simulans,40958,40969,5.45,2,,,,NoMatch,0.0,,,,,,,,
+3,,Drosophila,1570,1580,4.89,1,,,,Exact,9.00960,0,Drosophila,Drosophila,8MQXF,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Ephydridae|Discocerina|Drosophila,
+4,,Drosophila melanogaster,152,175,9.57,2,,,,Exact,9.01315,0,"Drosophila (Drosophila) melanogaster Linnaeus, 1758",Drosophila melanogaster,8BWKC,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophila|Drosophila|Drosophila melanogaster,

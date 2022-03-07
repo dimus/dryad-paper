@@ -1,4 +1,4 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,A. lineatopus,510,523,6.45,2,,,,NoMatch,,,,,,,,
-1,,A. opalinus,494,505,7.06,2,,,,NoMatch,,,,,,,,
-2,,Anolis,77,83,4.61,1,,,,Exact,0,"Anolis Cope, 1862",Anolis,8HCLJ,1,Catalogue of Life,Biota|Animalia|Chordata|Reptilia|Squamata|Iguania|Dactyloidae|Anolis|Anolis chlorocyanus,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,A. lineatopus,510,523,6.45,2,,,,NoMatch,0.0,,,,,,,,
+1,,A. opalinus,494,505,7.06,2,,,,NoMatch,0.0,,,,,,,,
+2,,Anolis,77,83,4.61,1,,,,Exact,9.01138,0,"Anolis Cope, 1861",Anolis,8HCLH,1,Catalogue of Life,Biota|Animalia|Chordata|Reptilia|Squamata|Iguania|Dactyloidae|Anolis|Anolis argenteolus,

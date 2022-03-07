@@ -1,8 +1,8 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Anthriscus sylvestris,18677,18698,12.16,2,,,,Exact,0,Anthriscus sylvestris (L.) Hoffm.,Anthriscus sylvestris,67HWS,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Apiales|Apiaceae|Apioideae|Anthriscus|Anthriscus sylvestris,
-1,,Apiaceae,15720,15728,3.82,1,,,,Exact,0,Apiaceae Lindl.,Apiaceae,6KC,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Apiales|Apiaceae,
-2,,Asteraceae,15733,15743,4.75,1,,,,Exact,0,Asteraceae Dumort.,Asteraceae,622TP,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae,
-3,,Cirsium vulgare,19327,19342,10.35,2,,,,Exact,0,Cirsium vulgare (Savi) Ten.,Cirsium vulgare,VJJT,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Carduoideae|Cirsium|Cirsium vulgare,
-4,,Hordeum vulgare,19381,19396,9.37,2,,,,Exact,0,Hordeum vulgare L.,Hordeum vulgare,6MDJP,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Hordeum|Hordeum vulgare,
-5,,Persicaria,18724,18734,4.81,1,,,,Exact,0,Persicaria (L.) Mill.,Persicaria,6LSN,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Polygonaceae|Polygonoideae|Persicaria,
-6,,Rubus fruticosus,18639,18655,11.73,2,,,,Exact,0,Rubus fruticosus Lour.,Rubus fruticosus,4TK7L,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Rosales|Rosaceae|Rosoideae|Rubus|Rubus cochinchinensis,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Anthriscus sylvestris,18677,18698,12.16,2,,,,Exact,9.01315,0,Anthriscus sylvestris (L.) Hoffm.,Anthriscus sylvestris,67HWS,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Apiales|Apiaceae|Apioideae|Anthriscus|Anthriscus sylvestris,
+1,,Apiaceae,15720,15728,3.82,1,,,,Exact,9.01315,0,Apiaceae Lindl.,Apiaceae,6KC,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Apiales|Apiaceae,
+2,,Asteraceae,15733,15743,4.75,1,,,,Exact,9.01315,0,Asteraceae Dumort.,Asteraceae,622TP,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae,
+3,,Cirsium vulgare,19327,19342,10.35,2,,,,Exact,9.01315,0,Cirsium vulgare (Savi) Ten.,Cirsium vulgare,VJJT,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Asterales|Asteraceae|Carduoideae|Cirsium|Cirsium vulgare,
+4,,Hordeum vulgare,19381,19396,9.37,2,,,,Exact,9.01315,0,Hordeum vulgare L.,Hordeum vulgare,6MDJP,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Liliopsida|Poales|Poaceae|Hordeum|Hordeum vulgare,
+5,,Persicaria,18724,18734,4.81,1,,,,Exact,9.01315,0,Persicaria (L.) Mill.,Persicaria,6LSN,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Caryophyllales|Polygonaceae|Polygonoideae|Persicaria,
+6,,Rubus fruticosus,18639,18655,11.73,2,,,,Exact,9.01138,0,Rubus fruticosus Lour.,Rubus fruticosus,4TK7L,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Rosales|Rosaceae|Rosoideae|Rubus|Rubus cochinchinensis,

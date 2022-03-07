@@ -1,7 +1,7 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Oncorhynchus gorbuscha,48789,48813,10.58,2,,,,Exact,0,"Oncorhynchus gorbuscha (Walbaum, 1792)",Oncorhynchus gorbuscha,74N5S,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus gorbuscha,
-1,,Oncorhynchus mykiss,42181,42202,8.76,2,,,,Exact,0,"Oncorhynchus mykiss (Walbaum, 1792)",Oncorhynchus mykiss,49JFF,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss,
-2,,S. trutta,7458,7469,4.49,2,,,,NoMatch,,,,,,,,
-3,,Salmo salar,7725,7739,6.40,2,,,,Exact,0,"Salmo salar Linnaeus, 1758",Salmo salar,6XCXT,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo salar,
-4,,Salmo trutta,836,850,7.84,2,,,,Exact,0,"Salmo trutta Linnaeus, 1758",Salmo trutta,79CZL,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo trutta,
-5,,Salvelinus fontinalis,42352,42375,13.71,2,,,,Exact,0,"Salvelinus fontinalis (Mitchill, 1814)",Salvelinus fontinalis,6XG35,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salvelinus|Salvelinus fontinalis,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Oncorhynchus gorbuscha,48789,48813,10.58,2,,,,Exact,9.01315,0,"Oncorhynchus gorbuscha (Walbaum, 1792)",Oncorhynchus gorbuscha,74N5S,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus gorbuscha,
+1,,Oncorhynchus mykiss,42181,42202,8.76,2,,,,Exact,9.01315,0,"Oncorhynchus mykiss (Walbaum, 1792)",Oncorhynchus mykiss,49JFF,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|Oncorhynchus mykiss,
+2,,S. trutta,7458,7469,4.49,2,,,,NoMatch,0.0,,,,,,,,
+3,,Salmo salar,7725,7739,6.40,2,,,,Exact,9.01315,0,"Salmo salar Linnaeus, 1758",Salmo salar,6XCXT,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo salar,
+4,,Salmo trutta,836,850,7.84,2,,,,Exact,9.01315,0,"Salmo trutta Linnaeus, 1758",Salmo trutta,79CZL,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo trutta,
+5,,Salvelinus fontinalis,42352,42375,13.71,2,,,,Exact,9.01315,0,"Salvelinus fontinalis (Mitchill, 1814)",Salvelinus fontinalis,6XG35,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salvelinus|Salvelinus fontinalis,

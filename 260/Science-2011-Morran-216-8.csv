@@ -1,8 +1,8 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,C. elegans,4367,4378,5.27,2,,,,NoMatch,,,,,,,,
-1,,C. elegans further,17150,17168,3.98,3,,,,NoMatch,,,,,,,,
-2,,Caenorhabditis,18976,18990,4.94,1,,,,Exact,0,"Caenorhabditis Osche, 1952",Caenorhabditis,87DRY,1,Catalogue of Life,Biota|Animalia|Nematoda|Chromadorea|Chromadoria|Rhabditida|Rhabditina|Rhabditomorpha|Rhabditoidea|Rhabditidae|Rhabditinae|Caenorhabditis,
-3,,Caenorhabditis elegans,2564,2587,10.61,2,,,,Exact,0,"Caenorhabditis elegans (Maupas, 1899) Dougherty, 1953",Caenorhabditis elegans,87THG,1,Catalogue of Life,Biota|Animalia|Nematoda|Chromadorea|Chromadoria|Rhabditida|Rhabditina|Rhabditomorpha|Rhabditoidea|Rhabditidae|Rhabditinae|Caenorhabditis|Caenorhabditis elegans,
-4,,Olivia,2017,2023,4.21,1,,,,Exact,0,"Olivia S.F.Gray, 1821",Olivia,urn:lsid:marinespecies.org:taxname:604767,9,WoRMS,Biota|Plantae||Olivia,
-5,,S. marcescens,4718,4731,6.47,2,,,,NoMatch,,,,,,,,
-6,,Serratia marcescens,2442,2463,11.09,2,,,,Exact,0,"Serratia marcescens Bizio, 1823",Serratia marcescens,4WXG5,1,Catalogue of Life,Biota|Bacteria|Negibacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Serratia|Serratia marcescens,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,C. elegans,4367,4378,5.27,2,,,,NoMatch,0.0,,,,,,,,
+1,,C. elegans further,17150,17168,3.98,3,,,,NoMatch,0.0,,,,,,,,
+2,,Caenorhabditis,18976,18990,4.94,1,,,,Exact,9.01315,0,"Caenorhabditis Osche, 1952",Caenorhabditis,87DRY,1,Catalogue of Life,Biota|Animalia|Nematoda|Chromadorea|Chromadoria|Rhabditida|Rhabditina|Rhabditomorpha|Rhabditoidea|Rhabditidae|Rhabditinae|Caenorhabditis,
+3,,Caenorhabditis elegans,2564,2587,10.61,2,,,,Exact,9.01315,0,"Caenorhabditis elegans (Maupas, 1899) Dougherty, 1953",Caenorhabditis elegans,87THG,1,Catalogue of Life,Biota|Animalia|Nematoda|Chromadorea|Chromadoria|Rhabditida|Rhabditina|Rhabditomorpha|Rhabditoidea|Rhabditidae|Rhabditinae|Caenorhabditis|Caenorhabditis elegans,
+4,,Olivia,2017,2023,4.21,1,,,,Exact,8.98392,0,"Olivia Cantraine, 1835",Olivia,331133,3,ITIS,Animalia|Bilateria|Protostomia|Lophozoa|Mollusca|Gastropoda|Prosobranchia|Archaeogastropoda|Trochidae|Margaritinae|Olivia,
+5,,S. marcescens,4718,4731,6.47,2,,,,NoMatch,0.0,,,,,,,,
+6,,Serratia marcescens,2442,2463,11.09,2,,,,Exact,9.01315,0,"Serratia marcescens Bizio, 1823",Serratia marcescens,4WXG5,1,Catalogue of Life,Biota|Bacteria|Negibacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Serratia|Serratia marcescens,

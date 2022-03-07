@@ -1,5 +1,5 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Gammarus minus,30256,30271,8.22,2,,,,Exact,0,"Gammarus minus Say, 1818",Gammarus minus,3F8FX,1,Catalogue of Life,Biota|Animalia|Arthropoda|Malacostraca|Amphipoda|Senticaudata|Gammarida|Gammaridira|Gammaroidea|Gammaridae|Gammarus|Gammarus minus,
-1,,Hine,22452,22456,0.81,1,,,,Exact,0,Hine,Hine,2145579,168,ION,,
-2,,Larvae,5842,5848,1.56,1,,,,Exact,0,Larvae,Larvae,2579193,168,ION,,
-3,,Tenebrio molitor,4314,4331,9.52,2,,,,Exact,0,"Tenebrio molitor Linnaeus, 1758",Tenebrio molitor,187243,3,ITIS,Animalia|Bilateria|Protostomia|Ecdysozoa|Arthropoda|Hexapoda|Insecta|Pterygota|Neoptera|Holometabola|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrio|Tenebrio molitor,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Gammarus minus,30256,30271,8.22,2,,,,Exact,9.01315,0,"Gammarus minus Say, 1818",Gammarus minus,3F8FX,1,Catalogue of Life,Biota|Animalia|Arthropoda|Malacostraca|Amphipoda|Senticaudata|Gammarida|Gammaridira|Gammaroidea|Gammaridae|Gammarus|Gammarus minus,
+1,,Hine,22452,22456,0.81,1,,,,Exact,8.91436,0,Hine,Hine,2145579,168,ION,,
+2,,Larvae,5842,5848,1.56,1,,,,Exact,8.91436,0,Larvae,Larvae,2579193,168,ION,,
+3,,Tenebrio molitor,4314,4331,9.52,2,,,,Exact,8.98392,0,"Tenebrio molitor Linnaeus, 1758",Tenebrio molitor,187243,3,ITIS,Animalia|Bilateria|Protostomia|Ecdysozoa|Arthropoda|Hexapoda|Insecta|Pterygota|Neoptera|Holometabola|Coleoptera|Polyphaga|Cucujiformia|Tenebrionoidea|Tenebrionidae|Tenebrio|Tenebrio molitor,

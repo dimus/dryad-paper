@@ -1,5 +1,5 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,R. temporaria,4732,4745,6.84,2,,,,NoMatch,,,,,,,,
-1,,R. temporaria data,38910,38928,8.05,3,,,,NoMatch,,,,,,,,
-2,,Rana japonica,34031,34045,9.78,2,,,,Exact,0,"Rana japonica Boulenger, 1879",Rana japonica,4RDTC,1,Catalogue of Life,Biota|Animalia|Chordata|Amphibia|Anura|Ranidae|Rana|Rana japonica,
-3,,Rana temporaria,135,152,9.38,2,,,,Exact,0,"Rana temporaria Linnaeus, 1758",Rana temporaria,6WR99,1,Catalogue of Life,Biota|Animalia|Chordata|Amphibia|Anura|Ranidae|Rana|Rana temporaria,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,R. temporaria,4732,4745,6.84,2,,,,NoMatch,0.0,,,,,,,,
+1,,R. temporaria data,38910,38928,8.05,3,,,,NoMatch,0.0,,,,,,,,
+2,,Rana japonica,34031,34045,9.78,2,,,,Exact,9.01315,0,"Rana japonica Boulenger, 1879",Rana japonica,4RDTC,1,Catalogue of Life,Biota|Animalia|Chordata|Amphibia|Anura|Ranidae|Rana|Rana japonica,
+3,,Rana temporaria,135,152,9.38,2,,,,Exact,9.01315,0,"Rana temporaria Linnaeus, 1758",Rana temporaria,6WR99,1,Catalogue of Life,Biota|Animalia|Chordata|Amphibia|Anura|Ranidae|Rana|Rana temporaria,

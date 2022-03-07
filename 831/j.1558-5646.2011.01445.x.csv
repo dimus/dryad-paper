@@ -1,5 +1,5 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Hd��predominantly domesticus,12296,12325,4.36,2,,,,NoMatch,,,,,,,,
-1,,Leja,18730,18736,2.89,1,,,,Exact,0,"Leja Dejean, 1821",Leja,8LNXN,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Caraboidea|Carabidae|Trechinae|Bembidiini|Bembidiina|Bembidion|Bembidion,
-2,,Mus musculus,756,771,7.71,2,,,,Exact,0,"Mus (Mus) musculus Linnaeus, 1758",Mus musculus,7VW9H,1,Catalogue of Life,Biota|Animalia|Chordata|Mammalia|Theria|Eutheria|Rodentia|Myomorpha|Muroidea|Muridae|Murinae|Mus|Mus|Mus musculus,
-3,,Predominantly domesticus,31628,31652,4.41,2,,,,NoMatch,,,,,,,,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Hd��predominantly domesticus,12296,12325,4.36,2,,,,NoMatch,0.0,,,,,,,,
+1,,Leja,18730,18736,2.89,1,,,,Exact,9.01138,0,"Leja Dejean, 1821",Leja,8LNXN,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Caraboidea|Carabidae|Trechinae|Bembidiini|Bembidiina|Bembidion|Bembidion,
+2,,Mus musculus,756,771,7.71,2,,,,Exact,9.01315,0,"Mus (Mus) musculus Linnaeus, 1758",Mus musculus,7VW9H,1,Catalogue of Life,Biota|Animalia|Chordata|Mammalia|Theria|Eutheria|Rodentia|Myomorpha|Muroidea|Muridae|Murinae|Mus|Mus|Mus musculus,
+3,,Predominantly domesticus,31628,31652,4.41,2,,,,NoMatch,0.0,,,,,,,,

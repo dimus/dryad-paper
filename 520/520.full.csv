@@ -1,9 +1,9 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Bombus terrestris,39195,39212,12.16,2,,,,Exact,0,"Bombus terrestris (Linnaeus, 1758)",Bombus terrestris,MFWK,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Apinae|Bombini|Bombus|Bombus terrestris,
-1,,Carine,2848,2854,2.02,1,,,,Exact,0,"Carine Kaup, 1829",Carine,urn:lsid:irmng.org:taxname:1414337,181,IRMNG,Biota|Animalia|Chordata|Vertebrata|Aves|Aves|Aves|Carine,
-2,,Coregonus,3302,3311,5.74,1,,,,Exact,0,Coregonus,Coregonus,62MKZ,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Coregonus,
-3,,R. norvegicus,8411,8424,7.20,2,,,,NoMatch,,,,,,,,
-4,,R. rattus,1174,1184,7.11,2,,,,NoMatch,,,,,,,,
-5,,Rattus rattus,114,129,12.21,2,,,,Exact,0,"Rattus rattus (Linnaeus, 1758)",Rattus rattus,4RM6W,1,Catalogue of Life,Biota|Animalia|Chordata|Mammalia|Theria|Eutheria|Rodentia|Myomorpha|Muroidea|Muridae|Murinae|Rattus|Rattus rattus,
-6,,Y. pestis,6650,6659,6.14,2,,,,NoMatch,,,,,,,,
-7,,Yersinia pestis,615,631,10.39,2,,,,Exact,0,"Yersinia pestis (Lehmann & Neumann, 1896) van Loghem, 1944",Yersinia pestis,7FZKR,1,Catalogue of Life,Biota|Bacteria|Negibacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Yersinia|Yersinia pestis,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Bombus terrestris,39195,39212,12.16,2,,,,Exact,9.01315,0,"Bombus terrestris (Linnaeus, 1758)",Bombus terrestris,MFWK,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Hymenoptera|Apoidea|Apidae|Apinae|Bombini|Bombus|Bombus terrestris,
+1,,Carine,2848,2854,2.02,1,,,,Exact,8.98392,0,"Carine Kaup, 1829",Carine,urn:lsid:irmng.org:taxname:1414337,181,IRMNG,Biota|Animalia|Chordata|Vertebrata|Aves|Aves|Aves|Carine,
+2,,Coregonus,3302,3311,5.74,1,,,,Exact,9.00960,0,Coregonus,Coregonus,62MKZ,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Coregonus,
+3,,R. norvegicus,8411,8424,7.20,2,,,,NoMatch,0.0,,,,,,,,
+4,,R. rattus,1174,1184,7.11,2,,,,NoMatch,0.0,,,,,,,,
+5,,Rattus rattus,114,129,12.21,2,,,,Exact,9.01315,0,"Rattus rattus (Linnaeus, 1758)",Rattus rattus,4RM6W,1,Catalogue of Life,Biota|Animalia|Chordata|Mammalia|Theria|Eutheria|Rodentia|Myomorpha|Muroidea|Muridae|Murinae|Rattus|Rattus rattus,
+6,,Y. pestis,6650,6659,6.14,2,,,,NoMatch,0.0,,,,,,,,
+7,,Yersinia pestis,615,631,10.39,2,,,,Exact,9.01315,0,"Yersinia pestis (Lehmann & Neumann, 1896) van Loghem, 1944",Yersinia pestis,7FZKR,1,Catalogue of Life,Biota|Bacteria|Negibacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Yersinia|Yersinia pestis,

@@ -1,5 +1,5 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Cervus,20553,20559,3.24,1,,,,Exact,0,"Cervus Linnaeus, 1758",Cervus,62K9X,1,Catalogue of Life,Biota|Animalia|Chordata|Mammalia|Theria|Eutheria|Artiodactyla|Cervidae|Cervinae|Cervus,
-1,,Gata,10884,10888,3.35,1,,,,Exact,0,"Gata Blackwelder, 1943",Gata,urn:lsid:irmng.org:taxname:1133130,181,IRMNG,Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Staphylinidae|Megalopinus,
-2,,Rana temporaria,207,224,9.38,2,,,,Exact,0,"Rana temporaria Linnaeus, 1758",Rana temporaria,6WR99,1,Catalogue of Life,Biota|Animalia|Chordata|Amphibia|Anura|Ranidae|Rana|Rana temporaria,
-3,,Ranidae,1002,1009,4.19,1,,,,Exact,0,"Ranidae Batsch, 1796",Ranidae,FJM,1,Catalogue of Life,Biota|Animalia|Chordata|Amphibia|Anura|Ranidae,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Cervus,20553,20559,3.24,1,,,,Exact,9.01315,0,"Cervus Linnaeus, 1758",Cervus,62K9X,1,Catalogue of Life,Biota|Animalia|Chordata|Mammalia|Theria|Eutheria|Artiodactyla|Cervidae|Cervinae|Cervus,
+1,,Gata,10884,10888,3.35,1,,,,Exact,8.98202,0,"Gata Blackwelder, 1943",Gata,urn:lsid:irmng.org:taxname:1133130,181,IRMNG,Biota|Animalia|Arthropoda|Hexapoda|Insecta|Coleoptera|Staphylinidae|Megalopinus,
+2,,Rana temporaria,207,224,9.38,2,,,,Exact,9.01315,0,"Rana temporaria Linnaeus, 1758",Rana temporaria,6WR99,1,Catalogue of Life,Biota|Animalia|Chordata|Amphibia|Anura|Ranidae|Rana|Rana temporaria,
+3,,Ranidae,1002,1009,4.19,1,,,,Exact,9.01315,0,"Ranidae Batsch, 1796",Ranidae,FJM,1,Catalogue of Life,Biota|Animalia|Chordata|Amphibia|Anura|Ranidae,

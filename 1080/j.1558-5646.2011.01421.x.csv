@@ -1,5 +1,5 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Artemia salina,8999,9014,7.70,2,,,,Exact,0,"Artemia salina (Linnaeus, 1758)",Artemia salina,GVWB,1,Catalogue of Life,Biota|Animalia|Arthropoda|Branchiopoda|Anostraca|Artemiina|Artemiidae|Artemia|Artemia salina,
-1,,Drosophila melanogaster,4719,4742,9.57,2,,,,Exact,0,"Drosophila (Sophophora) melanogaster Meigen, 1830",Drosophila melanogaster,8BXCZ,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophila|Sophophora|Drosophila melanogaster,
-2,,P. reticulata,8393,8406,7.94,2,,,,NoMatch,,,,,,,,
-3,,Poecilia reticulata,7825,7844,13.58,2,,,,Exact,0,"Poecilia reticulata Peters, 1859",Poecilia reticulata,4KSF6,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|Poecilia reticulata,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Artemia salina,8999,9014,7.70,2,,,,Exact,9.01315,0,"Artemia salina (Linnaeus, 1758)",Artemia salina,GVWB,1,Catalogue of Life,Biota|Animalia|Arthropoda|Branchiopoda|Anostraca|Artemiina|Artemiidae|Artemia|Artemia salina,
+1,,Drosophila melanogaster,4719,4742,9.57,2,,,,Exact,9.01315,0,"Drosophila (Drosophila) melanogaster Linnaeus, 1758",Drosophila melanogaster,8BWKC,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Diptera|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophila|Drosophila|Drosophila melanogaster,
+2,,P. reticulata,8393,8406,7.94,2,,,,NoMatch,0.0,,,,,,,,
+3,,Poecilia reticulata,7825,7844,13.58,2,,,,Exact,9.01315,0,"Poecilia reticulata Peters, 1859",Poecilia reticulata,4KSF6,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|Poecilia reticulata,

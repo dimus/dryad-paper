@@ -1,9 +1,9 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,S. rhodanensis,47250,47266,6.58,2,,,,NoMatch,,,,,,,,
-1,,S. trutta,5249,5258,4.49,2,,,,NoMatch,,,,,,,,
-2,,Salmo cenerinus,5335,5350,10.54,2,,,,Exact,0,"Salmo cenerinus Nardo, 1847",Salmo cenerinus,79CVC,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo cenerinus,
-3,,Salmo labrax,5393,5405,8.44,2,,,,Exact,0,"Salmo labrax Pallas, 1814",Salmo labrax,79CYG,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo labrax,
-4,,Salmo marmoratus,5363,5379,11.10,2,,,,Exact,0,"Salmo marmoratus Cuvier, 1829",Salmo marmoratus,79CYT,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo marmoratus,
-5,,Salmo rhodanensis,5300,5317,9.92,2,,,,Exact,0,"Salmo rhodanensis Fowler, 1974",Salmo rhodanensis,6XCY3,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo rhodanensis,
-6,,Salmo salar,13476,13490,6.40,2,,,,Exact,0,"Salmo salar Linnaeus, 1758",Salmo salar,6XCXT,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo salar,
-7,,Salmo trutta,920,933,7.84,2,,,,Exact,0,"Salmo trutta Linnaeus, 1758",Salmo trutta,79CZL,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo trutta,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,S. rhodanensis,47250,47266,6.58,2,,,,NoMatch,0.0,,,,,,,,
+1,,S. trutta,5249,5258,4.49,2,,,,NoMatch,0.0,,,,,,,,
+2,,Salmo cenerinus,5335,5350,10.54,2,,,,Exact,9.01315,0,"Salmo cenerinus Nardo, 1847",Salmo cenerinus,79CVC,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo cenerinus,
+3,,Salmo labrax,5393,5405,8.44,2,,,,Exact,9.01315,0,"Salmo labrax Pallas, 1814",Salmo labrax,79CYG,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo labrax,
+4,,Salmo marmoratus,5363,5379,11.10,2,,,,Exact,9.01315,0,"Salmo marmoratus Cuvier, 1829",Salmo marmoratus,79CYT,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo marmoratus,
+5,,Salmo rhodanensis,5300,5317,9.92,2,,,,Exact,9.01315,0,"Salmo rhodanensis Fowler, 1974",Salmo rhodanensis,6XCY3,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo rhodanensis,
+6,,Salmo salar,13476,13490,6.40,2,,,,Exact,9.01315,0,"Salmo salar Linnaeus, 1758",Salmo salar,6XCXT,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo salar,
+7,,Salmo trutta,920,933,7.84,2,,,,Exact,9.01315,0,"Salmo trutta Linnaeus, 1758",Salmo trutta,79CZL,1,Catalogue of Life,Biota|Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo|Salmo trutta,

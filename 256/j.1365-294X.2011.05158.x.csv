@@ -1,7 +1,7 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Anatidae,2873,2881,4.39,1,,,,Exact,0,Anatidae,Anatidae,6D5,1,Catalogue of Life,Biota|Animalia|Chordata|Aves|Anseriformes|Anatidae,
-1,,Branta leucopsis,35974,35993,9.12,2,,,,Exact,0,"Branta leucopsis (Bechstein, 1803)",Branta leucopsis,N74C,1,Catalogue of Life,Biota|Animalia|Chordata|Aves|Anseriformes|Anatidae|Anserinae|Branta|Branta leucopsis,
-2,,Bucephala clangula,35934,35954,11.54,2,,,,Exact,0,"Bucephala clangula (Linnaeus, 1758)",Bucephala clangula,NM25,1,Catalogue of Life,Biota|Animalia|Chordata|Aves|Anseriformes|Anatidae|Anatinae|Bucephala|Bucephala clangula,
-3,,Gallinula chloropus,34377,34399,12.22,2,,,,Exact,0,"Gallinula chloropus (Linnaeus, 1758)",Gallinula chloropus,3F6VX,1,Catalogue of Life,Biota|Animalia|Chordata|Aves|Gruiformes|Rallidae|Gallinula|Gallinula chloropus,
-4,,Katja,185,190,1.83,1,,,,Exact,0,Katja,Katja,57QG,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Katja,
-5,,Somateria mollissima,2552,2572,11.73,2,,,,Exact,0,"Somateria mollissima (Linnaeus, 1758)",Somateria mollissima,6Z4ZB,1,Catalogue of Life,Biota|Animalia|Chordata|Aves|Anseriformes|Anatidae|Anatinae|Somateria|Somateria mollissima,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Anatidae,2873,2881,4.39,1,,,,Exact,9.00960,0,Anatidae,Anatidae,6D5,1,Catalogue of Life,Biota|Animalia|Chordata|Aves|Anseriformes|Anatidae,
+1,,Branta leucopsis,35974,35993,9.12,2,,,,Exact,9.01315,0,"Branta leucopsis (Bechstein, 1803)",Branta leucopsis,N74C,1,Catalogue of Life,Biota|Animalia|Chordata|Aves|Anseriformes|Anatidae|Anserinae|Branta|Branta leucopsis,
+2,,Bucephala clangula,35934,35954,11.54,2,,,,Exact,9.01315,0,"Bucephala clangula (Linnaeus, 1758)",Bucephala clangula,NM25,1,Catalogue of Life,Biota|Animalia|Chordata|Aves|Anseriformes|Anatidae|Anatinae|Bucephala|Bucephala clangula,
+3,,Gallinula chloropus,34377,34399,12.22,2,,,,Exact,9.01315,0,"Gallinula chloropus (Linnaeus, 1758)",Gallinula chloropus,3F6VX,1,Catalogue of Life,Biota|Animalia|Chordata|Aves|Gruiformes|Rallidae|Gallinula|Gallinula chloropus,
+4,,Katja,185,190,1.83,1,,,,Exact,9.00960,0,Katja,Katja,57QG,1,Catalogue of Life,Biota|Animalia|Arthropoda|Insecta|Lepidoptera|Pyraloidea|Pyralidae|Katja,
+5,,Somateria mollissima,2552,2572,11.73,2,,,,Exact,9.01315,0,"Somateria mollissima (Linnaeus, 1758)",Somateria mollissima,6Z4ZB,1,Catalogue of Life,Biota|Animalia|Chordata|Aves|Anseriformes|Anatidae|Anatinae|Somateria|Somateria mollissima,

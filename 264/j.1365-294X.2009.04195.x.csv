@@ -1,8 +1,9 @@
-Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
-0,,Locationsofthe��sampledmagnolia stellata,11566,11606,8.08,2,,,,NoMatch,,,,,,,,
-1,,M. obovata,26552,26562,7.54,2,,,,NoMatch,,,,,,,,
-2,,M. stellata,1880,1891,7.71,2,,,,NoMatch,,,,,,,,
-3,,Magnolia obovata,13159,13175,12.88,2,,,,Exact,0,Magnolia obovata Thunb.,Magnolia obovata,3XHFF,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Magnoliales|Magnoliaceae|Magnolia|Magnolia obovata,
-4,,Magnolia stellata,160,177,13.05,2,,,,Exact,0,Magnolia stellata (Siebold & Zucc.) Maxim.,Magnolia stellata,3XHJY,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Magnoliales|Magnoliaceae|Magnolia|Magnolia stellata,
-5,,Stellata,11546,11554,4.27,1,,,,Exact,0,Stelis subgen. Stellata Garay,Stellata,43998-1,167,IPNI,,
-6,,Tokai,8147,8152,1.26,1,,,,Exact,0,Dendrobium sect. Tokai Kraenzl.,Tokai,100488520,165,Tropicos,,
+Index,Verbatim,Name,Start,End,OddsLog10,Cardinality,AnnotNomenType,WordsBefore,WordsAfter,VerifMatchType,VerifSortScore,VerifEditDistance,VerifMatchedName,VerifMatchedCanonical,VerifTaxonId,VerifDataSourceId,VerifDataSourceTitle,VerifClassificationPath,VerifError
+0,,Locationsofthe��sampledmagnolia stellata,11566,11606,8.08,2,,,,NoMatch,0.0,,,,,,,,
+1,,M. obovata,26552,26562,7.54,2,,,,NoMatch,0.0,,,,,,,,
+2,,M. stellata,1880,1891,7.71,2,,,,NoMatch,0.0,,,,,,,,
+3,,Magnolia,11537,11545,0.90,1,,,,Exact,9.00960,0,Magnolia,Magnolia,5K5W,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Magnoliales|Magnoliaceae|Magnolia,
+4,,Magnolia obovata,13159,13175,12.88,2,,,,Exact,9.01315,0,Magnolia obovata Thunb.,Magnolia obovata,3XHFF,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Magnoliales|Magnoliaceae|Magnolia|Magnolia obovata,
+5,,Magnolia stellata,160,177,13.05,2,,,,Exact,9.01315,0,Magnolia stellata (Siebold & Zucc.) Maxim.,Magnolia stellata,3XHJY,1,Catalogue of Life,Biota|Plantae|Tracheophyta|Magnoliopsida|Magnoliales|Magnoliaceae|Magnolia|Magnolia stellata,
+6,,Stellata,11546,11554,4.27,1,,,,Exact,8.98344,0,Cattleya subg. Stellata Withner,Stellata,100485127,165,Tropicos,,
+7,,Tokai,8147,8152,1.26,1,,,,Exact,8.98344,0,Dendrobium sect. Tokai Kraenzl.,Tokai,100488520,165,Tropicos,,
